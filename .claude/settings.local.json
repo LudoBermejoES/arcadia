@@ -1,0 +1,12 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(for file in *.docx)",
+      "Bash(do pandoc \"$file\" -o \"$file%.docx.md\")",
+      "Bash(done)",
+      "Bash(winget install:*)",
+      "Bash(powershell:*)"
+    ],
+    "deny": []
+  }
+}

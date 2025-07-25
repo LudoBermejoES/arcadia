@@ -79,6 +79,8 @@
 - Pastel de Carne
 - La Farándula (grupo criminal)
 - Cacharrero
+- Barón Soledad (asigna casos criminales)
+- La Baronesa (relacionada con Pastel de Carne)
 
 ### Metahumanos Estatales
 - Diablo
@@ -133,9 +135,10 @@
 - Anianca
 - Natacha
 - Gregor (carnicero)
-- Hassir (quiosquero)
-- Julián (cocinero del albergue)
+- Hassir (quiosquero/vendedor de periódicos)
+- Julián (cocinero del albergue, conexiones mafiosas)
 - Las monjas del albergue
+- Señora Pepa (regenta pensión)
 
 ## Grupos de Protagonistas
 
@@ -148,25 +151,35 @@
 - Estocada
 
 ### Génesis
-- Alice / Lumen
-- Sara10 / Tesla
-- Jorge / Espectro
-- Thomas / Raza
-- Ana Montenegro / Atropos
+- Alice / Lumen (Tindriel/María)
+- Sara10 / Tesla / Mecánica (Chus)
+- Jorge / Espectro (Rafa)
+- Thomas / Raza (Dani)
+- Ana Montenegro / Atropos (Conchi)
 
 
-### Hospital
+### Profesionales Médicos
 - Mia Tanaka
 - Dani Rodriguez
 - Lorena Sanchez
+- Luis (hermano de Esfinge, ayuda médica)
+- Dr. Jman
 
 ### La Fuerza Oculta
-- Hotman
-- Eslizón Esmeralda
-- Astrid
-- Mencia / Psyque
-- Justa McKomick
-- Diana
+- Hotman (Jandro)
+- Eslizón Esmeralda (Sugus)
+- Astrid / Kayface (Xavi)
+- Mencia / Psique / Cia (Conchi)
+- Justa / Justicia / Sentencia (Edu)
+- Diana (Eslizo)
+
+#### Jugadores y Staff
+- Eduardo Vaquerizo (jugador/GM)
+- Ludo Bermejo (jugador/GM)
+- Alejandro Salamanca (jugador)
+- Kauneda Arashi (jugador)
+- Xavi Gracia (jugador)
+- Sugus Blanco (jugador)
 
 ## Organizaciones y Grupos
 
@@ -186,26 +199,33 @@
 
 ## Otros Personajes Notables
 
-### Figuras Mencionadas
+### Artesanos y Profesionales
 - Arcadio
 - Doctor Anselmo
 - Lambert (diseñador de trajes)
-- Nicolás Cifuentes (periodista)
+- Charada (sastre, famoso en los 90s, diseñó el traje de Arcadio)
+- Federico López (sastre)
+
+### Periodistas y Medios
+- Nicolás Cifuentes (periodista especializado en metahumanos)
 - Juan Guzmán
 - Magdalena (becaria)
 - El señor de las ratas
 - Cabeza Buque
 - Yeng (oriental de la subciudad)
-- Francisco (hermano de Jorge)
+- Francisco (hermano de Jorge, discapacitado)
 - Elena Fuentes
 - Ignacio Fuentes
-- Señora Pepa
 - Inácio la Fuente
 - Mentallo
-- Los Rayos
+- Los Rayos (fuerza militar bajo General Martínez)
 - El Oriental Tormenta
 - Aldonza Lorenzo
 - Gomez
+- Waldo Gutierrez (supervisor de proyectos universitarios)
+- Marta Heredia (colega de Ignacio, asesinada)
+- Marta Gutierrez (caso de la empática)
+- Rey Ofobutu (rey africano metahumano)
 
 ---
 

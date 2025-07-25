@@ -5,6 +5,7 @@
 ### Fundadores y Pioneros
 - Marius Fernández
 - Alberto Álvarez
+- Mister Skip
 
 ### Líderes Políticos
 - Antonio Calvero
@@ -21,10 +22,14 @@
 - Francisco Egin
 - Oneill
 - General Martínez
+- Ricardo Abeluengo
+- Waldo Gutierrez
 
 ### Gobierno y Administración
 - Felipe Álvarez
 - Leopoldo Gómez
+- Alfonso Montenegro
+- Ignacio Rodriguez (Condestable)
 
 ## Metahumanos Héroes y Vigilantes
 
@@ -41,11 +46,16 @@
 ### MetaCorp Activos
 - Relámpago
 - Trueno
+- Oneill (Líder de MetaCorp)
 
 ### Antiguos Héroes
 - Venus / Sibila
 - Autoridad
 - Psicodalia
+- La Desconocida
+- Los Defensores (grupo histórico)
+- Nube (héroe legendario)
+- David (héroe del Barrio Gótico)
 
 ## Metahumanos Criminales y Villanos
 
@@ -62,6 +72,13 @@
 - Parda
 - Rojo
 - EGO
+- El Emperador Oscuro
+- Saltamontes
+- Metalo
+- Crazy Mary
+- Pastel de Carne
+- La Farándula (grupo criminal)
+- Cacharrero
 
 ### Metahumanos Estatales
 - Diablo
@@ -88,6 +105,11 @@
 - El Faraón
 - Destino
 - LSD
+- El Matador
+- El Viejo (creador de las Bestias)
+- Las Hermanas Magdalena
+- La Reina Cobra
+- El Guardián
 
 ## Seres Antiguos y Sobrenaturales
 
@@ -95,6 +117,10 @@
 - Lucifer (entidad antigua)
 - Bastet
 - Alfred
+- El Golem
+- La Emperatriz
+- Los Espligan
+- Los Confesores
 
 ## Tecnología e Inteligencia Artificial
 
@@ -106,6 +132,10 @@
 ### Distrito Gótico
 - Anianca
 - Natacha
+- Gregor (carnicero)
+- Hassir (quiosquero)
+- Julián (cocinero del albergue)
+- Las monjas del albergue
 
 ## Grupos de Protagonistas
 
@@ -114,6 +144,8 @@
 - Mésmero
 - Garra
 - Esfinge
+- El Faraón
+- Estocada
 
 ### Génesis
 - Alice / Lumen
@@ -121,12 +153,59 @@
 - Jorge / Espectro
 - Thomas / Raza
 - Ana Montenegro / Atropos
+
+
+### Hospital
+- Mia Tanaka
+- Dani Rodriguez
+- Lorena Sanchez
+
+### La Fuerza Oculta
+- Hotman
+- Eslizón Esmeralda
+- Astrid
+- Mencia / Psyque
+- Justa McKomick
 - Diana
+
+## Organizaciones y Grupos
+
+### Organizaciones Políticas
+- Humanitas (partido anti-metahumano)
+- Freilasung (grupo extremista)
+
+### Instituciones
+- OMA (Universidad Multidisciplinar de Arcadia)
+- LIA (Laboratorio de Investigaciones Avanzadas)
+- Las Carmelitas Descalzas
+
+### Grupos Criminales
+- Los Barones de Telaraña
+- Las Bestias
+- Los Cazadores
 
 ## Otros Personajes Notables
 
 ### Figuras Mencionadas
 - Arcadio
+- Doctor Anselmo
+- Lambert (diseñador de trajes)
+- Nicolás Cifuentes (periodista)
+- Juan Guzmán
+- Magdalena (becaria)
+- El señor de las ratas
+- Cabeza Buque
+- Yeng (oriental de la subciudad)
+- Francisco (hermano de Jorge)
+- Elena Fuentes
+- Ignacio Fuentes
+- Señora Pepa
+- Inácio la Fuente
+- Mentallo
+- Los Rayos
+- El Oriental Tormenta
+- Aldonza Lorenzo
+- Gomez
 
 ---
 

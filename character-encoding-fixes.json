@@ -1,0 +1,34 @@
+{
+  "description": "Character encoding fixes for Spanish text in La Familia campaign files",
+  "encoding_issue": "UTF-8 characters incorrectly interpreted as Latin-1",
+  "character_mappings": {
+    "Ã³": "ó",
+    "Ã¡": "á", 
+    "Ã©": "é",
+    "Ã­": "í",
+    "Ãº": "ú",
+    "Ã±": "ñ",
+    "Â¿": "¿",
+    "Â¡": "¡"
+  },
+  "common_examples": {
+    "FaraÃ³n": "Faraón",
+    "situaciÃ³n": "situación",
+    "estÃ¡": "está",
+    "AllÃ­": "Allí",
+    "despuÃ©s": "después",
+    "Ã©poca": "época",
+    "habÃ­an": "habían",
+    "aÃºn": "aún",
+    "cÃºspide": "cúspide",
+    "niÃ±a": "niña",
+    "aÃ±o": "año",
+    "Â¿Tu crees": "¿Tu crees",
+    "Â¡Â¡Â¡El": "¡¡¡El"
+  },
+  "usage_instructions": {
+    "method": "Use find-and-replace operations to apply these mappings to all affected files",
+    "order": "Apply replacements in the order listed to avoid conflicts",
+    "scope": "All 41 session files in la-familia campaign contain these issues"
+  }
+}

@@ -1,7 +1,7 @@
-# Sara10 / Tesla / Mecánica
+# Sara10 / Mecánica
 
 ## Presentación
-Sara10, también conocida como Tesla o Mecánica, es una metahumana perteneciente al grupo "Génesis". Es jugada por Chus y se caracteriza por sus habilidades tecnológicas excepcionales y su naturaleza "nueva" según las entidades místicas. Su olor característico es descrito como "grasa metálica".
+Sara10, también conocida por el nombre en clave Mecánica, es una metahumana perteneciente al grupo "Génesis". Es jugada por Chus y se caracteriza por sus habilidades tecnológicas excepcionales y su naturaleza "nueva" según las entidades místicas. Su olor característico es descrito como "grasa metálica".
 
 ## Rol y Actividades
 Sara10 actúa como la especialista tecnológica del grupo "Génesis". Su papel incluye el análisis de equipos electrónicos enemigos, la fabricación de dispositivos útiles, y el hackeo de sistemas roboticos. Es especialmente efectiva contra enemigos tecnológicos como los robots del Cacharrero.

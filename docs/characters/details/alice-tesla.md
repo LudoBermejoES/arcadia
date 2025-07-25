@@ -1,7 +1,7 @@
-# Alice / Lumen
+# Alice / Tesla
 
 ## Presentación
-Alice, también conocida como Lumen, es una metahumana perteneciente al grupo "Génesis". Es jugada por Tindriel/María y se caracteriza por ser de naturaleza "antigua" según las entidades místicas. Posee un trasfondo de riqueza familiar y conexiones con fuerzas sobrenaturales antiguas.
+Alice, también conocida como Tesla, es una metahumana perteneciente al grupo "Génesis". Es jugada por Tindriel/María y se caracteriza por ser de naturaleza "antigua" según las entidades místicas. Posee un trasfondo de riqueza familiar y conexiones con fuerzas sobrenaturales antiguas.
 
 ## Rol y Actividades
 Alice actúa como una de las líderes del grupo "Génesis" debido a sus recursos y conexiones. Su papel incluye proporcionar refugio seguro al grupo, coordinar operaciones, y servir como enlace con fuerzas antiguas y misteriosas. Su familia trabajaba para entidades conocidas como "los antiguos".

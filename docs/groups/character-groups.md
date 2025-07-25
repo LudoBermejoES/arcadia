@@ -1,0 +1,204 @@
+# Grupos de Personajes de Arcadia
+
+## Grupos de Protagonistas (Héroes)
+
+### La Familia
+**Período**: Primera campaña (inicio del proyecto, hace ~15 años)  
+**Concepto**: Primer grupo de superhéroes del proyecto
+
+**Miembros**:
+- [Bate](../characters/details/bate.md) (Dani)
+- [Mésmero](../characters/details/mesmero.md) (Chus)
+- [Garra](../characters/details/garra.md) (Conchi)
+- [Ana Montenegro / Esfinge / Atropos](../characters/details/ana-montenegro-esfinge-atropos.md) (Jandro)
+- [El Faraón](../characters/details/el-faraon.md) (Edu)
+- [Estocada](../characters/details/estocada.md)
+
+### Génesis
+**Período**: Segunda campaña (compartió tiempo con La Familia)  
+**Concepto**: Segundo grupo de superhéroes
+
+**Miembros**:
+- [Alice / Tesla](../characters/details/alice-tesla.md) (Tindriel/María)
+- [Sara10 / Mecánica](../characters/details/sara10-mecanica.md) (Chus)
+- [Jorge / Espectro](../characters/details/jorge-espectro.md) (Rafa)
+- [Thomas / Raza](../characters/details/thomas-raza.md) (Dani)
+- [Lumen](../characters/details/lumen.md) (personaje separado)
+
+### La Fuerza Oculta
+**Período**: Tercera campaña (comenzó hace ~5 años)  
+**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
+
+**Miembros**:
+- [Hotman](../characters/details/hotman.md) (Jandro)
+- [Eslizón Esmeralda](../characters/details/eslizon-esmeralda.md) (Sugus)
+- [Astrid / Kayface](../characters/details/astrid-kayface.md) (Xavi)
+- [Diana](../characters/details/diana.md) (Eslizo)
+- [Justa / Justicia / Sentencia](../characters/details/justa-justicia-sentencia.md) (Edu)
+- [Mencia / Psique / Cia](../characters/details/mencia-psique-cia.md) (Conchi)
+
+## Grupos Villanos y Criminales
+
+### Fatum
+**Tipo**: Familia de supervillanos  
+**Concepto**: Villanos excepcionalmente ricos con nombres de dioses etrusco-romanos, unidos por lazos familiares
+
+**Miembros**:
+- [Janus](../characters/details/janus.md) (líder, manipulador del futuro, fallecido)
+- [Bellona](../characters/details/bellona.md) (peso pesado del grupo)
+- [Voltumna](../characters/details/voltumna.md) (electroquinético)
+- [Merx](../characters/details/merx.md) (velocista)
+- [Mulciber](../characters/details/mulciber.md) (armero, tutor legal de Diana)
+- [Furina](../characters/details/furina.md) (forma de humo)
+- [Cloris](../characters/details/cloris.md) (madre de Diana, poderes regenerativos y plantas, fallecida)
+
+### La Farándula
+**Tipo**: Grupo criminal  
+**Concepto**: Organización criminal
+
+**Miembros**:
+- [La Farándula](../characters/details/la-farandula.md) (grupo criminal)
+
+### Los Barones de Telaraña
+**Tipo**: Organización criminal  
+**Concepto**: Red criminal liderada por Telaraña
+
+**Miembros**:
+- [Telaraña](../characters/details/telarana.md) (líder)
+- Asociados criminales bajo su control
+
+### Las Bestias
+**Tipo**: Grupo criminal/sobrenatural  
+**Concepto**: Entidades creadas por El Viejo
+
+**Miembros**:
+- [El Viejo](../characters/details/el-viejo.md) (creador de las Bestias)
+- [Estocada](../characters/details/estocada.md) (conexión con las Bestias)
+
+### Los Cazadores
+**Tipo**: Grupo criminal/mercenario  
+**Concepto**: Organización de cazadores
+
+**Miembros**:
+- Información limitada disponible
+
+## Organizaciones Oficiales y Fuerzas del Orden
+
+### MetaCorp
+**Tipo**: Organización gubernamental metahumana  
+**Concepto**: Fuerzas del orden oficiales para metahumanos
+
+**Miembros**:
+- [Oneill](../characters/details/oneill.md) (Líder de MetaCorp)
+- [Relámpago](../characters/details/relampago.md)
+- [Trueno](../characters/details/trueno.md)
+- [Francisco Egin](../characters/details/francisco-egin.md)
+
+### Los Rayos
+**Tipo**: Fuerza militar/policial  
+**Concepto**: Unidad militar bajo comando del General Martínez
+
+**Miembros**:
+- [General Martínez](../characters/details/general-martinez.md) (comandante)
+- [Los Rayos](../characters/details/los-rayos.md) (fuerza militar)
+
+## Grupos Históricos y Legendarios
+
+### Los Defensores
+**Tipo**: Grupo histórico de héroes  
+**Concepto**: Grupo legendario de superhéroes del pasado
+
+**Miembros**:
+- [Los Defensores](../characters/details/los-defensores.md) (grupo histórico)
+- [Nube](../characters/details/nube.md) (héroe legendario asociado)
+
+### Los Clásicos
+**Tipo**: Héroes veteranos  
+**Concepto**: Superhéroes establecidos y reconocidos
+
+**Miembros**:
+- [La Sombra / El Oscuro](../characters/details/la-sombra-el-oscuro.md)
+- [Rayo Ígneo](../characters/details/rayo-igneo.md)
+- [Bailarina](../characters/details/bailarina.md)
+- [Neón](../characters/details/neon.md)
+- [Eneiros](../characters/details/eneiros.md)
+- [Serpiente](../characters/details/serpiente.md)
+- [Lucifer](../characters/details/lucifer.md)
+- [Anarquista](../characters/details/anarquista.md)
+
+## Organizaciones Especializadas
+
+### Organizaciones Políticas
+
+#### Humanitas
+**Tipo**: Partido político  
+**Concepto**: Partido anti-metahumano
+
+**Información**: Grupo político que se opone a los derechos y presencia de metahumanos en la sociedad.
+
+#### Freilasung
+**Tipo**: Grupo extremista  
+**Concepto**: Organización extremista
+
+**Información**: Grupo radical con agenda anti-metahumana.
+
+### Instituciones Académicas y de Investigación
+
+#### OMA (Universidad Multidisciplinar de Arcadia)
+**Tipo**: Institución educativa  
+**Concepto**: Universidad principal de la ciudad
+
+**Personal conocido**:
+- [Waldo Gutierrez](../characters/details/waldo-gutierrez.md) (supervisor de proyectos)
+
+#### LIA (Laboratorio de Investigaciones Avanzadas)
+**Tipo**: Institución de investigación  
+**Concepto**: Centro de investigación avanzada
+
+**Información**: Laboratorio especializado en investigaciones de alta tecnología.
+
+### Organizaciones Religiosas
+
+#### Las Carmelitas Descalzas
+**Tipo**: Orden religiosa  
+**Concepto**: Comunidad religiosa
+
+**Miembros**:
+- [Las monjas del albergue](../characters/details/las-monjas-del-albergue.md)
+
+#### Los Sirianos
+**Tipo**: Secta religiosa  
+**Concepto**: Grupo religioso sectario
+
+**Información**: Secta religiosa mencionada en múltiples ocasiones en las campañas.
+
+## Grupos Sobrenaturales y Místicos
+
+### Los Espligan
+**Tipo**: Entidades sobrenaturales  
+**Concepto**: Seres místicos antiguos
+
+**Miembros**:
+- [Los Espligan](../characters/details/los-espligan.md)
+
+### Los Confesores
+**Tipo**: Entidades sobrenaturales  
+**Concepto**: Seres místicos con rol confesional
+
+**Miembros**:
+- [Los Confesores](../characters/details/los-confesores.md)
+
+### Los Antiguos
+**Tipo**: Entidades primordiales  
+**Concepto**: Fuerzas sobrenaturales que precedieron a la era moderna
+
+**Miembros asociados**:
+- [El Emperador Oscuro](../characters/details/el-emperador-oscuro.md) (entidad primordial)
+- [Lucifer](../characters/details/lucifer-entidad.md) (entidad antigua)
+- [Bastet](../characters/details/bastet.md)
+- [Alfred](../characters/details/alfred.md)
+
+---
+
+*Listado compilado de todos los grupos y organizaciones del mundo de Arcadia*  
+*Última actualización: Julio 2025*

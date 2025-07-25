@@ -28,7 +28,8 @@
       "Bash(echo)",
       "Bash(cmd /c:*)",
       "Bash(node:*)",
-      "Bash(rm:*)"
+      "Bash(rm:*)",
+      "Bash(mv:*)"
     ],
     "deny": []
   }

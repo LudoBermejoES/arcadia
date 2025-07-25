@@ -82,6 +82,15 @@
 - Barón Soledad (asigna casos criminales)
 - La Baronesa (relacionada con Pastel de Carne)
 
+### Fatum (Familia de Supervillanos)
+- Janus (líder, manipulador del futuro, fallecido)
+- Bellona (peso pesado del grupo)
+- Voltumna (electroquinético)
+- Merx (velocista)
+- Mulciber (armero, tutor legal de Diana)
+- Furina (forma de humo)
+- Cloris (madre de Diana, poderes regenerativos y plantas, fallecida)
+
 ### Metahumanos Estatales
 - Diablo
 
@@ -146,16 +155,16 @@
 - Bate
 - Mésmero
 - Garra
-- Esfinge
+- Ana Montenegro / Esfinge / Atropos (Jandro)
 - El Faraón
 - Estocada
 
 ### Génesis
-- Alice / Lumen (Tindriel/María)
-- Sara10 / Tesla / Mecánica (Chus)
+- Alice / Tesla (Tindriel/María)
+- Sara10 / Mecánica (Chus)
 - Jorge / Espectro (Rafa)
 - Thomas / Raza (Dani)
-- Ana Montenegro / Atropos (Conchi)
+- Lumen (personaje separado)
 
 
 ### Profesionales Médicos

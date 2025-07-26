@@ -9,140 +9,140 @@ permalink: /characters/character-list/
 ## Figuras Históricas
 
 ### Fundadores y Pioneros
-- Marius Fernández
-- Alberto Álvarez
-- Mister Skip
+- [Marius Fernández]({{ site.baseurl }}/characters/details/marius-fernandez/)
+- [Alberto Álvarez]({{ site.baseurl }}/characters/details/alberto-alvarez/)
+- [Mister Skip]({{ site.baseurl }}/characters/details/mister-skip/)
 
 ### Líderes Políticos
-- Antonio Calvero
-- Francisco Franco
-- Primo de Rivera
-- Alfonso XIII
-- John F. Kennedy
-- Jruschov
-- Fidel Castro
+- [Antonio Calvero]({{ site.baseurl }}/characters/details/antonio-calvero/)
+- [Francisco Franco]({{ site.baseurl }}/characters/details/francisco-franco/)
+- [Primo de Rivera]({{ site.baseurl }}/characters/details/primo-de-rivera/)
+- [Alfonso XIII]({{ site.baseurl }}/characters/details/alfonso-xiii/)
+- [John F. Kennedy]({{ site.baseurl }}/characters/details/john-f-kennedy/)
+- [Jruschov]({{ site.baseurl }}/characters/details/jruschov/)
+- [Fidel Castro]({{ site.baseurl }}/characters/details/fidel-castro/)
 
 ## Autoridades y Funcionarios
 
 ### MetaCorp y Fuerzas del Orden
-- Francisco Egin
-- Oneill
-- General Martínez
-- Ricardo Abeluengo
-- Waldo Gutierrez
+- [Francisco Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
+- [Oneill]({{ site.baseurl }}/characters/details/oneill/)
+- [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/)
+- [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
+- [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/)
 
 ### Gobierno y Administración
-- Felipe Álvarez
-- Leopoldo Gómez
-- Alfonso Montenegro
-- Ignacio Rodriguez (Condestable)
+- [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)
+- [Leopoldo Gómez]({{ site.baseurl }}/characters/details/leopoldo-gomez/)
+- [Alfonso Montenegro]({{ site.baseurl }}/characters/details/alfonso-montenegro/)
+- [Ignacio Rodriguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez-condestable/)
 
 ## Metahumanos Héroes y Vigilantes
 
 ### Los Clásicos
-- La Sombra / El Oscuro
-- Rayo Ígneo
-- Bailarina
-- Neón
-- Eneiros
-- Serpiente
-- Lucifer
-- Anarquista
+- [La Sombra / El Oscuro]({{ site.baseurl }}/characters/details/la-sombra/)
+- [Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/)
+- [Bailarina]({{ site.baseurl }}/characters/details/bailarina/)
+- [Neón]({{ site.baseurl }}/characters/details/neon/)
+- [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
+- [Serpiente]({{ site.baseurl }}/characters/details/serpiente/)
+- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-hero/)
+- [Anarquista]({{ site.baseurl }}/characters/details/anarquista/)
 
 ### MetaCorp Activos
-- Relámpago
-- Trueno
-- Oneill (Líder de MetaCorp)
+- [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
+- [Trueno]({{ site.baseurl }}/characters/details/trueno/)
+- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
 
 ### Antiguos Héroes
-- Venus / Sibila
-- Autoridad
-- Psicodalia
-- La Desconocida
-- Los Defensores (grupo histórico)
-- Nube (héroe legendario)
-- David (héroe del Barrio Gótico)
+- [Venus / Sibila]({{ site.baseurl }}/characters/details/venus-sibila/)
+- [Autoridad]({{ site.baseurl }}/characters/details/autoridad/)
+- [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/)
+- [La Desconocida]({{ site.baseurl }}/characters/details/la-desconocida/)
+- [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/) (grupo histórico)
+- [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario)
+- [David]({{ site.baseurl }}/characters/details/david/) (héroe del Barrio Gótico)
 
 ## Metahumanos Criminales y Villanos
 
 ### Los Grandes Criminales
-- Telaraña
-- Hermes
-- Gadjet
-- Maza
-- Sedal
-- Pañuelo
-- Caos
-- SuperGlue
-- Creador
-- Parda
-- Rojo
-- EGO
-- El Emperador Oscuro
-- Saltamontes
-- Metalo
-- Crazy Mary
-- Pastel de Carne
-- La Farándula (grupo criminal)
-- Cacharrero
-- Barón Soledad (asigna casos criminales)
-- La Baronesa (relacionada con Pastel de Carne)
+- [Telaraña]({{ site.baseurl }}/characters/details/telarana/)
+- [Hermes]({{ site.baseurl }}/characters/details/hermes/)
+- [Gadjet]({{ site.baseurl }}/characters/details/gadjet/)
+- [Maza]({{ site.baseurl }}/characters/details/maza/)
+- [Sedal]({{ site.baseurl }}/characters/details/sedal/)
+- [Pañuelo]({{ site.baseurl }}/characters/details/panuelo/)
+- [Caos]({{ site.baseurl }}/characters/details/caos/)
+- [SuperGlue]({{ site.baseurl }}/characters/details/superglue/)
+- [Creador]({{ site.baseurl }}/characters/details/creador/)
+- [Parda]({{ site.baseurl }}/characters/details/parda/)
+- [Rojo]({{ site.baseurl }}/characters/details/rojo/)
+- [EGO]({{ site.baseurl }}/characters/details/ego/)
+- [El Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/)
+- [Saltamontes]({{ site.baseurl }}/characters/details/saltamontes/)
+- [Metalo]({{ site.baseurl }}/characters/details/metalo/)
+- [Crazy Mary]({{ site.baseurl }}/characters/details/crazy-mary/)
+- [Pastel de Carne]({{ site.baseurl }}/characters/details/pastel-de-carne/)
+- [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
+- [Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)
+- [Barón Soledad]({{ site.baseurl }}/characters/details/baron-soledad/) (asigna casos criminales)
+- [La Baronesa]({{ site.baseurl }}/characters/details/la-baronesa/) (relacionada con Pastel de Carne)
 
 ### Fatum (Familia de Supervillanos)
-- Janus (líder, manipulador del futuro, fallecido)
-- Bellona (peso pesado del grupo)
-- Voltumna (electroquinético)
-- Merx (velocista)
-- Mulciber (armero, tutor legal de Diana)
-- Furina (forma de humo)
-- Cloris (madre de Diana, poderes regenerativos y plantas, fallecida)
+- [Janus]({{ site.baseurl }}/characters/details/janus/) (líder, manipulador del futuro, fallecido)
+- [Bellona]({{ site.baseurl }}/characters/details/bellona/) (peso pesado del grupo)
+- [Voltumna]({{ site.baseurl }}/characters/details/voltumna/) (electroquinético)
+- [Merx]({{ site.baseurl }}/characters/details/merx/) (velocista)
+- [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) (armero, tutor legal de Diana)
+- [Furina]({{ site.baseurl }}/characters/details/furina/) (forma de humo)
+- [Cloris]({{ site.baseurl }}/characters/details/cloris/) (madre de Diana, poderes regenerativos y plantas, fallecida)
 
 ### Metahumanos Estatales
-- Diablo
+- [Diablo]({{ site.baseurl }}/characters/details/diablo/)
 
 ## Figuras Culturales y Artísticas
 
 ### Música y Artes
-- Alonso Dossantos
-- Ramón Beguell
+- [Alonso Dossantos]({{ site.baseurl }}/characters/details/alonso-dossantos/)
+- [Ramón Beguell]({{ site.baseurl }}/characters/details/ramon-beguell/)
 
 ### Cine y Entretenimiento
-- Jane Irinar
-- The Rock
+- [Jane Irinar]({{ site.baseurl }}/characters/details/jane-irinar/)
+- [The Rock]({{ site.baseurl }}/characters/details/the-rock/)
 
 ## Personajes del Submundo
 
 ### Intermediarios y Contactos
-- La Dama
-- El Mago
-- Comadreja Negra
-- Pandorum
+- [La Dama]({{ site.baseurl }}/characters/details/la-dama/)
+- [El Mago]({{ site.baseurl }}/characters/details/el-mago/)
+- [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/)
+- [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
 
 ### Figuras Misteriosas
-- El Faraón
-- Destino
-- LSD
-- El Matador
-- El Viejo (creador de las Bestias)
-- Las Hermanas Magdalena
-- La Reina Cobra
-- El Guardián
+- [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)
+- [Destino]({{ site.baseurl }}/characters/details/destino/)
+- [LSD]({{ site.baseurl }}/characters/details/lsd/)
+- [El Matador]({{ site.baseurl }}/characters/details/el-matador/)
+- [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
+- [Las Hermanas Magdalena]({{ site.baseurl }}/characters/details/las-hermanas-magdalena/)
+- [La Reina Cobra]({{ site.baseurl }}/characters/details/la-reina-cobra/)
+- [El Guardián]({{ site.baseurl }}/characters/details/el-guardian/)
 
 ## Seres Antiguos y Sobrenaturales
 
 ### Entidades Místicas
-- Lucifer (entidad antigua)
-- Bastet
-- Alfred
-- El Golem
-- La Emperatriz
-- Los Espligan
-- Los Confesores
+- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-entidad/) (entidad antigua)
+- [Bastet]({{ site.baseurl }}/characters/details/bastet/)
+- [Alfred]({{ site.baseurl }}/characters/details/alfred/)
+- [El Golem]({{ site.baseurl }}/characters/details/el-golem/)
+- [La Emperatriz]({{ site.baseurl }}/characters/details/la-emperatriz/)
+- [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)
+- [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)
 
 ## Tecnología e Inteligencia Artificial
 
 ### IA y Androides
-- ADAN
+- [ADAN]({{ site.baseurl }}/characters/details/adan/)
 
 ## Comunidades Específicas
 
@@ -158,19 +158,19 @@ permalink: /characters/character-list/
 ## Grupos de Protagonistas
 
 ### La Familia
-- Bate
-- Mésmero
-- Garra
-- Ana Montenegro / Esfinge / Atropos (Jandro)
-- El Faraón
-- Estocada
+- [Bate]({{ site.baseurl }}/characters/details/bate/)
+- [Mésmero]({{ site.baseurl }}/characters/details/mesmero/)
+- [Garra]({{ site.baseurl }}/characters/details/garra/)
+- [Ana Montenegro / Esfinge / Atropos]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) (Jandro)
+- [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)
+- [Estocada]({{ site.baseurl }}/characters/details/estocada/)
 
 ### Génesis
-- Alice / Tesla (Tindriel/María)
-- Sara10 / Mecánica (Chus)
-- Jorge / Espectro (Rafa)
-- Thomas / Raza (Dani)
-- Lumen (personaje separado)
+- [Alice / Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) (Tindriel/María)
+- [Sara10 / Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/) (Chus)
+- [Jorge / Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/) (Rafa)
+- [Thomas / Raza]({{ site.baseurl }}/characters/details/thomas-raza/) (Dani)
+- [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
 
 
 ### Profesionales Médicos
@@ -181,12 +181,12 @@ permalink: /characters/character-list/
 - Dr. Jman
 
 ### La Fuerza Oculta
-- Hotman (Jandro)
-- Eslizón Esmeralda (Sugus)
-- Astrid / Kayface (Xavi)
-- Mencia / Psique / Cia (Conchi)
-- Justa / Justicia / Sentencia (Edu)
-- Diana (Eslizo)
+- [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
+- [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
+- [Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
+- [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)
+- [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
+- [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
 
 #### Jugadores y Staff
 - Eduardo Vaquerizo (jugador/GM)
@@ -215,16 +215,16 @@ permalink: /characters/character-list/
 ## Otros Personajes Notables
 
 ### Artesanos y Profesionales
-- Arcadio
-- Doctor Anselmo
-- Lambert (diseñador de trajes)
-- Charada (sastre, famoso en los 90s, diseñó el traje de Arcadio)
-- Federico López (sastre)
+- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/)
+- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
+- [Lambert]({{ site.baseurl }}/characters/details/lambert/) (diseñador de trajes)
+- [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
+- [Federico López]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre)
 
 ### Periodistas y Medios
-- Nicolás Cifuentes (periodista especializado en metahumanos)
-- Juan Guzmán
-- Magdalena (becaria)
+- [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)
+- [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
+- [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
 - El señor de las ratas
 - Cabeza Buque
 - Yeng (oriental de la subciudad)

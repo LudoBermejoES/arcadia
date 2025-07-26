@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Juan Guzman
-permalink: /characters/juan-guzman/
+permalink: /characters/details/juan-guzman/
 slug: juan-guzman
 ---
 

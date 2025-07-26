@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Desconocida
-permalink: /characters/la-desconocida/
+permalink: /characters/details/la-desconocida/
 slug: la-desconocida
 ---
 

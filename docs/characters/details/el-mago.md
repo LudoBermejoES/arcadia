@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Mago
-permalink: /characters/el-mago/
+permalink: /characters/details/el-mago/
 slug: el-mago
 ---
 

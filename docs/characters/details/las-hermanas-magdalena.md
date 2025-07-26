@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Las Hermanas Magdalena
-permalink: /characters/las-hermanas-magdalena/
+permalink: /characters/details/las-hermanas-magdalena/
 slug: las-hermanas-magdalena
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lumen
-permalink: /characters/lumen/
+permalink: /characters/details/lumen/
 slug: lumen
 ---
 

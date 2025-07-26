@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Serpiente
-permalink: /characters/serpiente/
+permalink: /characters/details/serpiente/
 slug: serpiente
 ---
 

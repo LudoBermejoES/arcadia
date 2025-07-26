@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Anianca
-permalink: /characters/anianca/
+permalink: /characters/details/anianca/
 slug: anianca
 ---
 

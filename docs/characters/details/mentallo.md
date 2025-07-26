@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mentallo
-permalink: /characters/mentallo/
+permalink: /characters/details/mentallo/
 slug: mentallo
 ---
 

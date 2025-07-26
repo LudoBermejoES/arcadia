@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Estocada
-permalink: /characters/estocada/
+permalink: /characters/details/estocada/
 slug: estocada
 ---
 

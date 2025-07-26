@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Crazy Mary
-permalink: /characters/crazy-mary/
+permalink: /characters/details/crazy-mary/
 slug: crazy-mary
 ---
 

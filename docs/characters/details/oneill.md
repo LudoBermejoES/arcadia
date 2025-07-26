@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Oneill
-permalink: /characters/oneill/
+permalink: /characters/details/oneill/
 slug: oneill
 ---
 

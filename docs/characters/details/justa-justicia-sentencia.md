@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Justa Justicia Sentencia
-permalink: /characters/justa-justicia-sentencia/
+permalink: /characters/details/justa-justicia-sentencia/
 slug: justa-justicia-sentencia
 ---
 

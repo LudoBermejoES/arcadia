@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Caos
-permalink: /characters/caos/
+permalink: /characters/details/caos/
 slug: caos
 ---
 

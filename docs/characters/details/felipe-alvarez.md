@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Felipe Alvarez
-permalink: /characters/felipe-alvarez/
+permalink: /characters/details/felipe-alvarez/
 slug: felipe-alvarez
 ---
 

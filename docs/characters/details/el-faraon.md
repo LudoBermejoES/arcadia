@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Faraon
-permalink: /characters/el-faraon/
+permalink: /characters/details/el-faraon/
 slug: el-faraon
 ---
 

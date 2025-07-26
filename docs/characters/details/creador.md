@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Creador
-permalink: /characters/creador/
+permalink: /characters/details/creador/
 slug: creador
 ---
 

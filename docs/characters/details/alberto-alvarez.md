@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alberto Alvarez
-permalink: /characters/alberto-alvarez/
+permalink: /characters/details/alberto-alvarez/
 slug: alberto-alvarez
 ---
 

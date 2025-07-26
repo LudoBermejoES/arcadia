@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Viejo
-permalink: /characters/el-viejo/
+permalink: /characters/details/el-viejo/
 slug: el-viejo
 ---
 

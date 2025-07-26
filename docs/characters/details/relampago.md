@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Relampago
-permalink: /characters/relampago/
+permalink: /characters/details/relampago/
 slug: relampago
 ---
 

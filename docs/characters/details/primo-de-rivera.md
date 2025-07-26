@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Primo De Rivera
-permalink: /characters/primo-de-rivera/
+permalink: /characters/details/primo-de-rivera/
 slug: primo-de-rivera
 ---
 

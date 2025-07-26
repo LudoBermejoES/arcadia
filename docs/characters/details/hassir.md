@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Hassir
-permalink: /characters/hassir/
+permalink: /characters/details/hassir/
 slug: hassir
 ---
 

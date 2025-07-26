@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mulciber
-permalink: /characters/mulciber/
+permalink: /characters/details/mulciber/
 slug: mulciber
 ---
 

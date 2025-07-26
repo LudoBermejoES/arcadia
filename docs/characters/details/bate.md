@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Bate
-permalink: /characters/bate/
+permalink: /characters/details/bate/
 slug: bate
 ---
 

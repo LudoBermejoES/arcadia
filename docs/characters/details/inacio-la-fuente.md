@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Inacio La Fuente
-permalink: /characters/inacio-la-fuente/
+permalink: /characters/details/inacio-la-fuente/
 slug: inacio-la-fuente
 ---
 

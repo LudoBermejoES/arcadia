@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Hermes
-permalink: /characters/hermes/
+permalink: /characters/details/hermes/
 slug: hermes
 ---
 

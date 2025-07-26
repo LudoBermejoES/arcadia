@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Diablo
-permalink: /characters/diablo/
+permalink: /characters/details/diablo/
 slug: diablo
 ---
 

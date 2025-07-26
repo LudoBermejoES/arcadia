@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Cloris
-permalink: /characters/cloris/
+permalink: /characters/details/cloris/
 slug: cloris
 ---
 

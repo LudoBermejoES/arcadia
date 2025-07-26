@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Los Espligan
-permalink: /characters/los-espligan/
+permalink: /characters/details/los-espligan/
 slug: los-espligan
 ---
 

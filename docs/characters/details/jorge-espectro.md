@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Jorge Espectro
-permalink: /characters/jorge-espectro/
+permalink: /characters/details/jorge-espectro/
 slug: jorge-espectro
 ---
 

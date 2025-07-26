@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Destino
-permalink: /characters/destino/
+permalink: /characters/details/destino/
 slug: destino
 ---
 

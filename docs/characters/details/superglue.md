@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Superglue
-permalink: /characters/superglue/
+permalink: /characters/details/superglue/
 slug: superglue
 ---
 

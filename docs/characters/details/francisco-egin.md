@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Francisco Egin
-permalink: /characters/francisco-egin/
+permalink: /characters/details/francisco-egin/
 slug: francisco-egin
 ---
 

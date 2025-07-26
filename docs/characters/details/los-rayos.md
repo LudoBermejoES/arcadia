@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Los Rayos
-permalink: /characters/los-rayos/
+permalink: /characters/details/los-rayos/
 slug: los-rayos
 ---
 

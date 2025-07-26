@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Furina
-permalink: /characters/furina/
+permalink: /characters/details/furina/
 slug: furina
 ---
 

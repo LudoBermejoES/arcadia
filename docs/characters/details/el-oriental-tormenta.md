@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Oriental Tormenta
-permalink: /characters/el-oriental-tormenta/
+permalink: /characters/details/el-oriental-tormenta/
 slug: el-oriental-tormenta
 ---
 

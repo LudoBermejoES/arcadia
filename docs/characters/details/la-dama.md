@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Dama
-permalink: /characters/la-dama/
+permalink: /characters/details/la-dama/
 slug: la-dama
 ---
 

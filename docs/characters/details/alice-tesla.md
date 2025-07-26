@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alice Tesla
-permalink: /characters/alice-tesla/
+permalink: /characters/details/alice-tesla/
 slug: alice-tesla
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Trueno
-permalink: /characters/trueno/
+permalink: /characters/details/trueno/
 slug: trueno
 ---
 

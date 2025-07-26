@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ignacio Fuentes
-permalink: /characters/ignacio-fuentes/
+permalink: /characters/details/ignacio-fuentes/
 slug: ignacio-fuentes
 ---
 

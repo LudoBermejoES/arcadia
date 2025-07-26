@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Jruschov
-permalink: /characters/jruschov/
+permalink: /characters/details/jruschov/
 slug: jruschov
 ---
 

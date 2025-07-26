@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alfred
-permalink: /characters/alfred/
+permalink: /characters/details/alfred/
 slug: alfred
 ---
 

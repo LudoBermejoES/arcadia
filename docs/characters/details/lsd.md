@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lsd
-permalink: /characters/lsd/
+permalink: /characters/details/lsd/
 slug: lsd
 ---
 

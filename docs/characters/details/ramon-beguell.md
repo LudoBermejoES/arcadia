@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ramon Beguell
-permalink: /characters/ramon-beguell/
+permalink: /characters/details/ramon-beguell/
 slug: ramon-beguell
 ---
 

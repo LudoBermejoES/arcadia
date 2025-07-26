@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Antonio Calvero
-permalink: /characters/antonio-calvero/
+permalink: /characters/details/antonio-calvero/
 slug: antonio-calvero
 ---
 

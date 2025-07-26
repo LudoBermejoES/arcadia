@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Merx
-permalink: /characters/merx/
+permalink: /characters/details/merx/
 slug: merx
 ---
 

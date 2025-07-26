@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alfonso Xiii
-permalink: /characters/alfonso-xiii/
+permalink: /characters/details/alfonso-xiii/
 slug: alfonso-xiii
 ---
 

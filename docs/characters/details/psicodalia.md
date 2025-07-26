@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Psicodalia
-permalink: /characters/psicodalia/
+permalink: /characters/details/psicodalia/
 slug: psicodalia
 ---
 

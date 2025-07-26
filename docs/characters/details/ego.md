@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ego
-permalink: /characters/ego/
+permalink: /characters/details/ego/
 slug: ego
 ---
 

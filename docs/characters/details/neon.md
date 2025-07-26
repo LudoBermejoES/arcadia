@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Neon
-permalink: /characters/neon/
+permalink: /characters/details/neon/
 slug: neon
 ---
 

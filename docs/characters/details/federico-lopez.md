@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Federico Lopez
-permalink: /characters/federico-lopez/
+permalink: /characters/details/federico-lopez/
 slug: federico-lopez
 ---
 

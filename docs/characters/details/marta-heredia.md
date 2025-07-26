@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Marta Heredia
-permalink: /characters/marta-heredia/
+permalink: /characters/details/marta-heredia/
 slug: marta-heredia
 ---
 

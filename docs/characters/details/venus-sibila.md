@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Venus Sibila
-permalink: /characters/venus-sibila/
+permalink: /characters/details/venus-sibila/
 slug: venus-sibila
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Golem
-permalink: /characters/el-golem/
+permalink: /characters/details/el-golem/
 slug: el-golem
 ---
 

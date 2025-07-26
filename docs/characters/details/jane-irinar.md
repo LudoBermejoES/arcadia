@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Jane Irinar
-permalink: /characters/jane-irinar/
+permalink: /characters/details/jane-irinar/
 slug: jane-irinar
 ---
 

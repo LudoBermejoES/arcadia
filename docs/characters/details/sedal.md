@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Sedal
-permalink: /characters/sedal/
+permalink: /characters/details/sedal/
 slug: sedal
 ---
 

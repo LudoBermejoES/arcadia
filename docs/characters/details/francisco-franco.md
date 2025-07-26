@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Francisco Franco
-permalink: /characters/francisco-franco/
+permalink: /characters/details/francisco-franco/
 slug: francisco-franco
 ---
 

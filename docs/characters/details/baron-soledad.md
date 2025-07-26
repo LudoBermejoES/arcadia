@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Baron Soledad
-permalink: /characters/baron-soledad/
+permalink: /characters/details/baron-soledad/
 slug: baron-soledad
 ---
 

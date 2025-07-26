@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Comadreja Negra
-permalink: /characters/comadreja-negra/
+permalink: /characters/details/comadreja-negra/
 slug: comadreja-negra
 ---
 

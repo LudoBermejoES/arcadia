@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Reina Cobra
-permalink: /characters/la-reina-cobra/
+permalink: /characters/details/la-reina-cobra/
 slug: la-reina-cobra
 ---
 

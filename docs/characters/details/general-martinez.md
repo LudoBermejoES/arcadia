@@ -1,7 +1,7 @@
 ---
 layout: character
 title: General Martinez
-permalink: /characters/general-martinez/
+permalink: /characters/details/general-martinez/
 slug: general-martinez
 ---
 

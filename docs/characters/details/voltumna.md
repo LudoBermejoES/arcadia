@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Voltumna
-permalink: /characters/voltumna/
+permalink: /characters/details/voltumna/
 slug: voltumna
 ---
 

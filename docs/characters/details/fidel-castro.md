@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Fidel Castro
-permalink: /characters/fidel-castro/
+permalink: /characters/details/fidel-castro/
 slug: fidel-castro
 ---
 

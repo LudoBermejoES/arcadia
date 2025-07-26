@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Panuelo
-permalink: /characters/panuelo/
+permalink: /characters/details/panuelo/
 slug: panuelo
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alonso Dossantos
-permalink: /characters/alonso-dossantos/
+permalink: /characters/details/alonso-dossantos/
 slug: alonso-dossantos
 ---
 

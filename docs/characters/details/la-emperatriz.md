@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Emperatriz
-permalink: /characters/la-emperatriz/
+permalink: /characters/details/la-emperatriz/
 slug: la-emperatriz
 ---
 

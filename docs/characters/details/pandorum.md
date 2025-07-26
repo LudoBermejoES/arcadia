@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Pandorum
-permalink: /characters/pandorum/
+permalink: /characters/details/pandorum/
 slug: pandorum
 ---
 

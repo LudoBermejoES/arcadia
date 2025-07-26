@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Alfonso Montenegro
-permalink: /characters/alfonso-montenegro/
+permalink: /characters/details/alfonso-montenegro/
 slug: alfonso-montenegro
 ---
 

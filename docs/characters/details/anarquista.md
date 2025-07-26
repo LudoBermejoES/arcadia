@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Anarquista
-permalink: /characters/anarquista/
+permalink: /characters/details/anarquista/
 slug: anarquista
 ---
 

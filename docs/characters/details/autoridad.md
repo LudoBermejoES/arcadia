@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Autoridad
-permalink: /characters/autoridad/
+permalink: /characters/details/autoridad/
 slug: autoridad
 ---
 

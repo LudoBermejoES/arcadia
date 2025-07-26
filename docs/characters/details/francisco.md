@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Francisco
-permalink: /characters/francisco/
+permalink: /characters/details/francisco/
 slug: francisco
 ---
 

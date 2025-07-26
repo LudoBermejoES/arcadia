@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Saltamontes
-permalink: /characters/saltamontes/
+permalink: /characters/details/saltamontes/
 slug: saltamontes
 ---
 

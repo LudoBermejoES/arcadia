@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Garra
-permalink: /characters/garra/
+permalink: /characters/details/garra/
 slug: garra
 ---
 

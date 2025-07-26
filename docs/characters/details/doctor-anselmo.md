@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Doctor Anselmo
-permalink: /characters/doctor-anselmo/
+permalink: /characters/details/doctor-anselmo/
 slug: doctor-anselmo
 ---
 

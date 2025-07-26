@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Cacharrero
-permalink: /characters/cacharrero/
+permalink: /characters/details/cacharrero/
 slug: cacharrero
 ---
 

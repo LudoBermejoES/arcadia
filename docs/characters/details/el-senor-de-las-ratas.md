@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Senor De Las Ratas
-permalink: /characters/el-senor-de-las-ratas/
+permalink: /characters/details/el-senor-de-las-ratas/
 slug: el-senor-de-las-ratas
 ---
 

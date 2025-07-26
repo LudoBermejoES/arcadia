@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Gomez
-permalink: /characters/gomez/
+permalink: /characters/details/gomez/
 slug: gomez
 ---
 

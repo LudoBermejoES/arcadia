@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lucifer Hero
-permalink: /characters/lucifer-hero/
+permalink: /characters/details/lucifer-hero/
 slug: lucifer-hero
 ---
 

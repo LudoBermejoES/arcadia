@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Eneiros
-permalink: /characters/eneiros/
+permalink: /characters/details/eneiros/
 slug: eneiros
 ---
 

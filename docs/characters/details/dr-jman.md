@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Dr Jman
-permalink: /characters/dr-jman/
+permalink: /characters/details/dr-jman/
 slug: dr-jman
 ---
 

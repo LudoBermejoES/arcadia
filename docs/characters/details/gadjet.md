@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Gadjet
-permalink: /characters/gadjet/
+permalink: /characters/details/gadjet/
 slug: gadjet
 ---
 

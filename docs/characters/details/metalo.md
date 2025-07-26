@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Metalo
-permalink: /characters/metalo/
+permalink: /characters/details/metalo/
 slug: metalo
 ---
 

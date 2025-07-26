@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Bailarina
-permalink: /characters/bailarina/
+permalink: /characters/details/bailarina/
 slug: bailarina
 ---
 

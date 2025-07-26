@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Los Defensores
-permalink: /characters/los-defensores/
+permalink: /characters/details/los-defensores/
 slug: los-defensores
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Yeng
-permalink: /characters/yeng/
+permalink: /characters/details/yeng/
 slug: yeng
 ---
 

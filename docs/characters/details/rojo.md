@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Rojo
-permalink: /characters/rojo/
+permalink: /characters/details/rojo/
 slug: rojo
 ---
 

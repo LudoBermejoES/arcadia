@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Bastet
-permalink: /characters/bastet/
+permalink: /characters/details/bastet/
 slug: bastet
 ---
 

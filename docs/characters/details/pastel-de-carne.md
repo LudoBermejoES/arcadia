@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Pastel De Carne
-permalink: /characters/pastel-de-carne/
+permalink: /characters/details/pastel-de-carne/
 slug: pastel-de-carne
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mencia Psique Cia
-permalink: /characters/mencia-psique-cia/
+permalink: /characters/details/mencia-psique-cia/
 slug: mencia-psique-cia
 ---
 

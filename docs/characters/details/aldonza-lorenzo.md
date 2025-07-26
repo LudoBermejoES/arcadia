@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Aldonza Lorenzo
-permalink: /characters/aldonza-lorenzo/
+permalink: /characters/details/aldonza-lorenzo/
 slug: aldonza-lorenzo
 ---
 

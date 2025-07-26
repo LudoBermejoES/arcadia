@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Marius Fernandez
-permalink: /characters/marius-fernandez/
+permalink: /characters/details/marius-fernandez/
 slug: marius-fernandez
 ---
 

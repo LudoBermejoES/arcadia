@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Los Confesores
-permalink: /characters/los-confesores/
+permalink: /characters/details/los-confesores/
 slug: los-confesores
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Waldo Gutierrez
-permalink: /characters/waldo-gutierrez/
+permalink: /characters/details/waldo-gutierrez/
 slug: waldo-gutierrez
 ---
 

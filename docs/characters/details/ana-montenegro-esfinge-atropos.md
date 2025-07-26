@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ana Montenegro Esfinge Atropos
-permalink: /characters/ana-montenegro-esfinge-atropos/
+permalink: /characters/details/ana-montenegro-esfinge-atropos/
 slug: ana-montenegro-esfinge-atropos
 ---
 

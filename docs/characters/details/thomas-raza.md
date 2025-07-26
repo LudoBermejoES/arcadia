@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Thomas Raza
-permalink: /characters/thomas-raza/
+permalink: /characters/details/thomas-raza/
 slug: thomas-raza
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Farandula
-permalink: /characters/la-farandula/
+permalink: /characters/details/la-farandula/
 slug: la-farandula
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Nicolas Cifuentes
-permalink: /characters/nicolas-cifuentes/
+permalink: /characters/details/nicolas-cifuentes/
 slug: nicolas-cifuentes
 ---
 

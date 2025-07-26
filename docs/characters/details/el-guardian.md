@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Guardian
-permalink: /characters/el-guardian/
+permalink: /characters/details/el-guardian/
 slug: el-guardian
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Leopoldo Gomez
-permalink: /characters/leopoldo-gomez/
+permalink: /characters/details/leopoldo-gomez/
 slug: leopoldo-gomez
 ---
 

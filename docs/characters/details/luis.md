@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Luis
-permalink: /characters/luis/
+permalink: /characters/details/luis/
 slug: luis
 ---
 

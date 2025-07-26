@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Cabeza Buque
-permalink: /characters/cabeza-buque/
+permalink: /characters/details/cabeza-buque/
 slug: cabeza-buque
 ---
 

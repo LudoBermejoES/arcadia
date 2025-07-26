@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lorena Sanchez
-permalink: /characters/lorena-sanchez/
+permalink: /characters/details/lorena-sanchez/
 slug: lorena-sanchez
 ---
 

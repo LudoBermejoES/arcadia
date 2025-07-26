@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Bellona
-permalink: /characters/bellona/
+permalink: /characters/details/bellona/
 slug: bellona
 ---
 

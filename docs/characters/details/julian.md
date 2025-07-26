@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Julian
-permalink: /characters/julian/
+permalink: /characters/details/julian/
 slug: julian
 ---
 

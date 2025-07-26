@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Hotman
-permalink: /characters/hotman/
+permalink: /characters/details/hotman/
 slug: hotman
 ---
 

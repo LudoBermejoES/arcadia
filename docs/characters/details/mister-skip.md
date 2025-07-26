@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mister Skip
-permalink: /characters/mister-skip/
+permalink: /characters/details/mister-skip/
 slug: mister-skip
 ---
 

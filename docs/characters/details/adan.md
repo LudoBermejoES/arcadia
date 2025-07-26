@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Adan
-permalink: /characters/adan/
+permalink: /characters/details/adan/
 slug: adan
 ---
 

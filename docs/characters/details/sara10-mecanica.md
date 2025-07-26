@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Sara10 Mecanica
-permalink: /characters/sara10-mecanica/
+permalink: /characters/details/sara10-mecanica/
 slug: sara10-mecanica
 ---
 

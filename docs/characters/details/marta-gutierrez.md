@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Marta Gutierrez
-permalink: /characters/marta-gutierrez/
+permalink: /characters/details/marta-gutierrez/
 slug: marta-gutierrez
 ---
 

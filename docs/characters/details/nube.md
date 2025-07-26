@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Nube
-permalink: /characters/nube/
+permalink: /characters/details/nube/
 slug: nube
 ---
 

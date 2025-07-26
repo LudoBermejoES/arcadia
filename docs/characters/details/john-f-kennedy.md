@@ -1,7 +1,7 @@
 ---
 layout: character
 title: John F Kennedy
-permalink: /characters/john-f-kennedy/
+permalink: /characters/details/john-f-kennedy/
 slug: john-f-kennedy
 ---
 

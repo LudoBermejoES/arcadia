@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mesmero
-permalink: /characters/mesmero/
+permalink: /characters/details/mesmero/
 slug: mesmero
 ---
 

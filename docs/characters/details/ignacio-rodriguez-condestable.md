@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ignacio Rodriguez Condestable
-permalink: /characters/ignacio-rodriguez-condestable/
+permalink: /characters/details/ignacio-rodriguez-condestable/
 slug: ignacio-rodriguez-condestable
 ---
 

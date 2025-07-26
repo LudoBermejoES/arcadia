@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lambert
-permalink: /characters/lambert/
+permalink: /characters/details/lambert/
 slug: lambert
 ---
 

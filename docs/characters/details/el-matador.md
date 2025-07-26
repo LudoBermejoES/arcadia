@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Matador
-permalink: /characters/el-matador/
+permalink: /characters/details/el-matador/
 slug: el-matador
 ---
 

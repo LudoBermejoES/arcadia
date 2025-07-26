@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Janus
-permalink: /characters/janus/
+permalink: /characters/details/janus/
 slug: janus
 ---
 

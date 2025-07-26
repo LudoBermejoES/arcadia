@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Baronesa
-permalink: /characters/la-baronesa/
+permalink: /characters/details/la-baronesa/
 slug: la-baronesa
 ---
 

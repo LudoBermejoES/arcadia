@@ -1,7 +1,7 @@
 ---
 layout: character
 title: El Emperador Oscuro
-permalink: /characters/el-emperador-oscuro/
+permalink: /characters/details/el-emperador-oscuro/
 slug: el-emperador-oscuro
 ---
 

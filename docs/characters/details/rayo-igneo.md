@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Rayo Igneo
-permalink: /characters/rayo-igneo/
+permalink: /characters/details/rayo-igneo/
 slug: rayo-igneo
 ---
 

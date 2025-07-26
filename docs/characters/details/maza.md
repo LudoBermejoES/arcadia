@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Maza
-permalink: /characters/maza/
+permalink: /characters/details/maza/
 slug: maza
 ---
 

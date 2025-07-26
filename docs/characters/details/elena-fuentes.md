@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Elena Fuentes
-permalink: /characters/elena-fuentes/
+permalink: /characters/details/elena-fuentes/
 slug: elena-fuentes
 ---
 

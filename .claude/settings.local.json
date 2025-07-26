@@ -39,7 +39,10 @@
       "WebFetch(domain:api.github.com)",
       "WebFetch(domain:ludobermejoes.github.io)",
       "Bash(grep:*)",
-      "Bash(python3:*)"
+      "Bash(python3:*)",
+      "Bash(npm init:*)",
+      "Bash(npm install:*)",
+      "Bash(sed:*)"
     ],
     "deny": []
   }

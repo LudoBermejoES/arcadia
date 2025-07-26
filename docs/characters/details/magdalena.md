@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Magdalena
-permalink: /characters/magdalena/
+permalink: /characters/details/magdalena/
 slug: magdalena
 ---
 

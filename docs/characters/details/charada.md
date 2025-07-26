@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Charada
-permalink: /characters/charada/
+permalink: /characters/details/charada/
 slug: charada
 ---
 

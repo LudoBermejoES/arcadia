@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Natacha
-permalink: /characters/natacha/
+permalink: /characters/details/natacha/
 slug: natacha
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Lucifer Entidad
-permalink: /characters/lucifer-entidad/
+permalink: /characters/details/lucifer-entidad/
 slug: lucifer-entidad
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Rey Ofobutu
-permalink: /characters/rey-ofobutu/
+permalink: /characters/details/rey-ofobutu/
 slug: rey-ofobutu
 ---
 

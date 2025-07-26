@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Mia Tanaka
-permalink: /characters/mia-tanaka/
+permalink: /characters/details/mia-tanaka/
 slug: mia-tanaka
 ---
 

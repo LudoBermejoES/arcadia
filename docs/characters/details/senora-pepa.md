@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Senora Pepa
-permalink: /characters/senora-pepa/
+permalink: /characters/details/senora-pepa/
 slug: senora-pepa
 ---
 

@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Dani Rodriguez
-permalink: /characters/dani-rodriguez/
+permalink: /characters/details/dani-rodriguez/
 slug: dani-rodriguez
 ---
 

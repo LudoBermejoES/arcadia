@@ -1,7 +1,7 @@
 ---
 layout: character
 title: La Sombra
-permalink: /characters/la-sombra/
+permalink: /characters/details/la-sombra/
 slug: la-sombra
 ---
 

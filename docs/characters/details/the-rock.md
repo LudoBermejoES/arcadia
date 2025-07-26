@@ -1,7 +1,7 @@
 ---
 layout: character
 title: The Rock
-permalink: /characters/the-rock/
+permalink: /characters/details/the-rock/
 slug: the-rock
 ---
 

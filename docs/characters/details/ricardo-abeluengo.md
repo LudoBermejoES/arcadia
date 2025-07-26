@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Ricardo Abeluengo
-permalink: /characters/ricardo-abeluengo/
+permalink: /characters/details/ricardo-abeluengo/
 slug: ricardo-abeluengo
 ---
 

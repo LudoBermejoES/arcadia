@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Parda
-permalink: /characters/parda/
+permalink: /characters/details/parda/
 slug: parda
 ---
 

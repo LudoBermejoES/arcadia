@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Arcadio
-permalink: /characters/arcadio/
+permalink: /characters/details/arcadio/
 slug: arcadio
 ---
 

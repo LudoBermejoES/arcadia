@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Telarana
-permalink: /characters/telarana/
+permalink: /characters/details/telarana/
 slug: telarana
 ---
 

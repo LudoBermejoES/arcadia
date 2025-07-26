@@ -1,7 +1,7 @@
 ---
 layout: character
 title: Las Monjas Del Albergue
-permalink: /characters/las-monjas-del-albergue/
+permalink: /characters/details/las-monjas-del-albergue/
 slug: las-monjas-del-albergue
 ---
 

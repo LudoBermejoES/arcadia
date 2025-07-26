@@ -42,7 +42,13 @@
       "Bash(python3:*)",
       "Bash(npm init:*)",
       "Bash(npm install:*)",
-      "Bash(sed:*)"
+      "Bash(sed:*)",
+      "Bash(npm search:*)",
+      "Bash(npm uninstall:*)",
+      "Bash(npx:*)",
+      "Bash(timeout 10 npx @playwright/mcp@latest --headless --version)",
+      "mcp__ide__executeCode",
+      "Bash(pip3 install:*)"
     ],
     "deny": []
   }

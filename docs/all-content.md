@@ -68,7 +68,7 @@ permalink: /all-content/
 #### **🦸‍♂️ La Familia (Primera Generación)**
 - [🐺 Garra](/characters/details/garra/) *(Conchi)* - La feroz protectora
 - [👑 El Faraón](/characters/details/el-faraon/) *(Edu)* - Maestro de arenas místicas  
-- [🔮 Esfinge](/characters/details/esfinge/) *(Jandro)* - Guardián de secretos antiguos
+- [🔮 Esfinge](/characters/details/ana-montenegro-esfinge-atropos/) *(Jandro)* - Guardián de secretos antiguos
 - [🦇 Bate](/characters/details/bate/) *(Dani)* - El vigilante nocturno
 - [🧠 Mésmero](/characters/details/mesmero/) *(Chus)* - El manipulador mental
 

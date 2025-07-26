@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Geografía de Arcadia"
-permalink: /world-building/geography/arcadia-geography/
+permalink: /world-building/arcadia-geography/
 ---
 
 # GEOGRAFÍA DE ARCADIA

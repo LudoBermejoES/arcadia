@@ -9,7 +9,7 @@ panels:
    link: "/characters/details/el-faraon/"
  - caption: "🔮 ESFINGE - Guardián de Secretos"
    description: "Jandro posee conocimientos ancestrales que trascienden el tiempo"
-   link: "/characters/details/esfinge/"
+   link: "/characters/details/ana-montenegro-esfinge-atropos/"
  - caption: "🦇 BATE - El Vigilante Nocturno"
    description: "Dani utiliza tecnología y recursos para proteger Arcadia desde las sombras"
    link: "/characters/details/bate/"

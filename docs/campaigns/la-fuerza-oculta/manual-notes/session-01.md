@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "La Fuerza Oculta - Sesión 01"
-permalink: /campaigns/la-fuerza-oculta/session-01/
+permalink: /campaigns/la-fuerza-oculta/manual-notes/session-01/
 ---
 
 # PARTIDA SUPERHÉROES 01

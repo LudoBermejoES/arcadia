@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Grupos de Personajes de Arcadia"
+permalink: /groups/character-groups/
+---
+
 # Grupos de Personajes de Arcadia
 
 ## Grupos de Protagonistas (Héroes)

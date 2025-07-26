@@ -7,7 +7,7 @@ permalink: /world-building/
 # Worldbuilding de Arcadia
 ## El Universo Completo en 15 Años de Construcción
 
-[← Volver al Índice Principal](/) | [📋 Índice Completo](/all-content/)
+[← Volver al Índice Principal]({{ site.baseurl }}/) | [📋 Índice Completo]({{ site.baseurl }}/all-content/)
 
 ---
 
@@ -19,14 +19,14 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha crecido de
 
 ## 📖 **Documentación Completa**
 
-### **🎭 [Ambientación General](/world-building/ambientacion/)**
+### **🎭 [Ambientación General]({{ site.baseurl }}/world-building/ambientacion/)**
 El documento fundacional que establece el tono, estilo y reglas básicas del universo de Arcadia.
 
 ---
 
 ## 🗺️ **Geografía del Mundo**
 
-### **🏝️ [Geografía de Arcadia](/world-building/arcadia-geography/)**
+### **🏝️ [Geografía de Arcadia]({{ site.baseurl }}/world-building/arcadia-geography/)**
 **La Isla Volcánica Extraordinaria**
 
 Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlántico, creada por fuerzas que trascienden la geología normal:
@@ -55,47 +55,47 @@ Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlánti
 
 ## 📚 **Historia Cronológica Completa**
 
-### **📋 [Visión General Histórica](/world-building/history-overview/)**
+### **📋 [Visión General Histórica]({{ site.baseurl }}/world-building/history-overview/)**
 Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ### **🕰️ Eras Históricas Documentadas**
 
-#### **[01 - Primeros Pasos de Arcadia](/world-building/01-arcadia-first-steps/)**
+#### **[01 - Primeros Pasos de Arcadia]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)**
 **Los Orígenes Misteriosos**
 - **Fundación Legendaria**: Los primeros pobladores y las fuerzas que los atrajeron
 - **Aparición de Poderes**: Los primeros metahumanos documentados
 - **Establecimiento de Tradiciones**: Costumbres que perduran hasta hoy
 - **Mitos Fundacionales**: Leyendas que explican la naturaleza única de la isla
 
-#### **[02 - De España a Arcadia: 21 Años](/world-building/02-spain-to-arcadia-21-years/)**  
+#### **[02 - De España a Arcadia: 21 Años]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)**  
 **La Gran Transición**
 - **Éxodo Español**: Las razones de la gran migración
 - **Establecimiento de la Colonia**: Primeros asentamientos organizados
 - **Integración Cultural**: Fusión de tradiciones españolas con elementos únicos
 - **Desarrollo de Infraestructura**: Construcción de la ciudad moderna
 
-#### **[03 - El Despertar de Arcadia](/world-building/03-arcadia-awakening/)**
+#### **[03 - El Despertar de Arcadia]({{ site.baseurl }}/world-building/03-arcadia-awakening/)**
 **El Nacimiento de la Era Metahumana**
 - **Primera Generación Meta**: Los pioneros de poderes sobrenaturales
 - **Reacciones Sociales**: Cómo la sociedad se adaptó a los metahumanos
 - **Establecimiento de Normas**: Las primeras leyes y regulaciones
 - **Conflictos Iniciales**: Tensiones entre humanos y metahumanos
 
-#### **[04 - Los Últimos 20 Años](/world-building/04-last-twenty-years/)**
+#### **[04 - Los Últimos 20 Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)**
 **La Era Moderna Pre-Heroica**
 - **Consolidación Social**: Integración completa de metahumanos
 - **Desarrollo Tecnológico**: Avances únicos impulsados por poderes
 - **Crecimiento Económico**: Arcadia como potencia independiente
 - **Preparación del Escenario**: Condiciones para el surgimiento heroico
 
-#### **[05 - La Edad Dorada](/world-building/05-golden-age/)**
+#### **[05 - La Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)**
 **El Apogeo Heroico (Era de La Familia)**
 - **Surgimiento de La Familia**: Los primeros superhéroes organizados
 - **Hazañas Legendarias**: Las aventuras que definieron el heroísmo
 - **Aceptación Pública**: Los héroes como figuras culturales
 - **Establecimiento de Tradiciones**: Códigos y protocolos heroicos
 
-#### **[06 - Llega la Madurez](/world-building/06-maturity-arrives/)**
+#### **[06 - Llega la Madurez]({{ site.baseurl }}/world-building/06-maturity-arrives/)**
 **Tiempos Complejos (Era Actual)**
 - **Generaciones Posteriores**: Génesis y La Fuerza Oculta
 - **Complejidad Moral**: Dilemas éticos más sofisticados
@@ -106,7 +106,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ## 🏛️ **Estructura Social**
 
-### **👥 [Sociedad Arcadiana](/world-building/arcadia-society/)**
+### **👥 [Sociedad Arcadiana]({{ site.baseurl }}/world-building/arcadia-society/)**
 **Un Experimento Social Único**
 
 #### **🎭 Clases Sociales Metahumanas**
@@ -138,7 +138,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ## 💰 **Sistema Económico**
 
-### **🏦 [Economía de Arcadia](/world-building/arcadia-economy/)**
+### **🏦 [Economía de Arcadia]({{ site.baseurl }}/world-building/arcadia-economy/)**
 **Un Modelo Económico Revolucionario**
 
 #### **💎 Sectores Económicos Únicos**
@@ -268,17 +268,17 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 🔍 **Navegación Temática**
 
 ### **🗺️ Por Aspecto del Mundo**
-- **[🏝️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
-- **[📚 Historia](/world-building/history-overview/)** - El pasado que define el presente
-- **[👥 Sociedad](/world-building/arcadia-society/)** - Cómo viven los arcadianos
-- **[💰 Economía](/world-building/arcadia-economy/)** - El sistema financiero único
+- **[🏝️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico
+- **[📚 Historia]({{ site.baseurl }}/world-building/history-overview/)** - El pasado que define el presente
+- **[👥 Sociedad]({{ site.baseurl }}/world-building/arcadia-society/)** - Cómo viven los arcadianos
+- **[💰 Economía]({{ site.baseurl }}/world-building/arcadia-economy/)** - El sistema financiero único
 
 ### **⏰ Por Período Histórico**
-- **[🌅 Orígenes](/world-building/01-arcadia-first-steps/)** - Los primeros días
-- **[🏗️ Construcción](/world-building/02-spain-to-arcadia-21-years/)** - Establecimiento de la sociedad
-- **[⚡ Despertar](/world-building/03-arcadia-awakening/)** - El surgimiento meta
-- **[🏛️ Edad Dorada](/world-building/05-golden-age/)** - La era heroica clásica
-- **[🔮 Era Moderna](/world-building/06-maturity-arrives/)** - Complejidad actual
+- **[🌅 Orígenes]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)** - Los primeros días
+- **[🏗️ Construcción]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)** - Establecimiento de la sociedad
+- **[⚡ Despertar]({{ site.baseurl }}/world-building/03-arcadia-awakening/)** - El surgimiento meta
+- **[🏛️ Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)** - La era heroica clásica
+- **[🔮 Era Moderna]({{ site.baseurl }}/world-building/06-maturity-arrives/)** - Complejidad actual
 
 ### **🎭 Por Elemento Cultural**
 - **🦸‍♂️ Tradiciones Heroicas** - Códigos y ceremonias
@@ -291,10 +291,10 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 📱 **Acceso Móvil**
 
 ### **🚀 Enlaces Rápidos**
-- **[🎭 Ambientación](/world-building/ambientacion/)** - Introducción al universo
-- **[🗺️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
-- **[📚 Historia](/world-building/history-overview/)** - Cronología completa
-- **[👥 Sociedad](/world-building/arcadia-society/)** - Estructura social
+- **[🎭 Ambientación]({{ site.baseurl }}/world-building/ambientacion/)** - Introducción al universo
+- **[🗺️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico
+- **[📚 Historia]({{ site.baseurl }}/world-building/history-overview/)** - Cronología completa
+- **[👥 Sociedad]({{ site.baseurl }}/world-building/arcadia-society/)** - Estructura social
 
 ---
 
@@ -307,4 +307,4 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ### **🔄 En Constante Evolución**
 *Arcadia sigue creciendo y evolucionando con cada nueva sesión. Los eventos de La Fuerza Oculta continúan añadiendo complejidad moral, desarrollos tecnológicos, y evoluciones sociales que enriquecen este universo único.*
 
-**🌍 [Explora Cada Aspecto del Mundo →](/world-building/ambientacion/)**
+**🌍 [Explora Cada Aspecto del Mundo →]({{ site.baseurl }}/world-building/ambientacion/)**

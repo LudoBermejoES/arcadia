@@ -334,4 +334,4 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 *Cada personaje en esta base de datos representa años de desarrollo colaborativo, decisiones narrativas significativas, y la evolución orgánica de un universo compartido. Desde el primer héroe hasta el villano más reciente, todos han contribuido a crear la rica tapicería que es el universo de Arcadia.*
 
-**🦸‍♂️ [Explora la Lista Completa de Personajes →](/characters/character-list/)**
+**🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**

@@ -39,4 +39,4 @@ En la era actual, estos seis jóvenes héroes enfrentan desafíos que sus predec
 
 Su historia continúa escribiéndose cada domingo, añadiendo nuevas capas de profundidad al universo de Arcadia.
 
-[🚀 Sigue sus Aventuras Actuales →](/campaigns/la-fuerza-oculta/)
+[🚀 Sigue sus Aventuras Actuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)

@@ -81,7 +81,7 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 
 ## Navegación
 
-- [🏠 Inicio](/)
+- [🏠 Inicio]({{ site.baseurl }}/)
 - [📜 Transcripciones Completas](transcriptions/)
 - [📚 Campañas](campaigns/)
 - [🦸 Personajes](characters/)

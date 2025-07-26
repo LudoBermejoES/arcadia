@@ -13,35 +13,35 @@ permalink: /groups/character-groups/
 **Concepto**: Primer grupo de superhéroes del proyecto
 
 **Miembros**:
-- [Bate](/characters/details/bate/) (Dani)
-- [Mésmero](/characters/details/mesmero/) (Chus)
-- [Garra](/characters/details/garra/) (Conchi)
-- [Ana Montenegro / Esfinge / Atropos](/characters/details/ana-montenegro-esfinge-atropos/) (Jandro)
-- [El Faraón](/characters/details/el-faraon/) (Edu)
-- [Estocada](/characters/details/estocada/)
+- [Bate]({{ site.baseurl }}/characters/details/bate/) (Dani)
+- [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) (Chus)
+- [Garra]({{ site.baseurl }}/characters/details/garra/) (Conchi)
+- [Ana Montenegro / Esfinge / Atropos]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) (Jandro)
+- [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/) (Edu)
+- [Estocada]({{ site.baseurl }}/characters/details/estocada/)
 
 ### Génesis
 **Período**: Segunda campaña (compartió tiempo con La Familia)  
 **Concepto**: Segundo grupo de superhéroes
 
 **Miembros**:
-- [Alice / Tesla](/characters/details/alice-tesla/) (Tindriel/María)
-- [Sara10 / Mecánica](/characters/details/sara10-mecanica/) (Chus)
-- [Jorge / Espectro](/characters/details/jorge-espectro/) (Rafa)
-- [Thomas / Raza](/characters/details/thomas-raza/) (Dani)
-- [Lumen](/characters/details/lumen/) (personaje separado)
+- [Alice / Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) (Tindriel/María)
+- [Sara10 / Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/) (Chus)
+- [Jorge / Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/) (Rafa)
+- [Thomas / Raza]({{ site.baseurl }}/characters/details/thomas-raza/) (Dani)
+- [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
 
 ### La Fuerza Oculta
 **Período**: Tercera campaña (comenzó hace ~5 años)  
 **Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
 
 **Miembros**:
-- [Hotman](/characters/details/hotman/) (Jandro)
-- [Eslizón Esmeralda](/characters/details/eslizon-esmeralda/) (Sugus)
-- [Astrid / Kayface](/characters/details/astrid-kayface/) (Xavi)
-- [Diana](/characters/details/diana/) (Eslizo)
-- [Justa / Justicia / Sentencia](/characters/details/justa-justicia-sentencia/) (Edu)
-- [Mencia / Psique / Cia](/characters/details/mencia-psique-cia/) (Conchi)
+- [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
+- [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
+- [Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
+- [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
+- [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
+- [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)
 
 ## Grupos Villanos y Criminales
 
@@ -50,27 +50,27 @@ permalink: /groups/character-groups/
 **Concepto**: Villanos excepcionalmente ricos con nombres de dioses etrusco-romanos, unidos por lazos familiares
 
 **Miembros**:
-- [Janus](/characters/details/janus/) (líder, manipulador del futuro, fallecido)
-- [Bellona](/characters/details/bellona/) (peso pesado del grupo)
-- [Voltumna](/characters/details/voltumna/) (electroquinético)
-- [Merx](/characters/details/merx/) (velocista)
-- [Mulciber](/characters/details/mulciber/) (armero, tutor legal de Diana)
-- [Furina](/characters/details/furina/) (forma de humo)
-- [Cloris](/characters/details/cloris/) (madre de Diana, poderes regenerativos y plantas, fallecida)
+- [Janus]({{ site.baseurl }}/characters/details/janus/) (líder, manipulador del futuro, fallecido)
+- [Bellona]({{ site.baseurl }}/characters/details/bellona/) (peso pesado del grupo)
+- [Voltumna]({{ site.baseurl }}/characters/details/voltumna/) (electroquinético)
+- [Merx]({{ site.baseurl }}/characters/details/merx/) (velocista)
+- [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) (armero, tutor legal de Diana)
+- [Furina]({{ site.baseurl }}/characters/details/furina/) (forma de humo)
+- [Cloris]({{ site.baseurl }}/characters/details/cloris/) (madre de Diana, poderes regenerativos y plantas, fallecida)
 
 ### La Farándula
 **Tipo**: Grupo criminal  
 **Concepto**: Organización criminal
 
 **Miembros**:
-- [La Farándula](/characters/details/la-farandula/) (grupo criminal)
+- [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
 
 ### Los Barones de Telaraña
 **Tipo**: Organización criminal  
 **Concepto**: Red criminal liderada por Telaraña
 
 **Miembros**:
-- [Telaraña](/characters/details/telarana/) (líder)
+- [Telaraña]({{ site.baseurl }}/characters/details/telarana/) (líder)
 - Asociados criminales bajo su control
 
 ### Las Bestias
@@ -78,8 +78,8 @@ permalink: /groups/character-groups/
 **Concepto**: Entidades creadas por El Viejo
 
 **Miembros**:
-- [El Viejo](/characters/details/el-viejo/) (creador de las Bestias)
-- [Estocada](/characters/details/estocada/) (conexión con las Bestias)
+- [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
+- [Estocada]({{ site.baseurl }}/characters/details/estocada/) (conexión con las Bestias)
 
 ### Los Cazadores
 **Tipo**: Grupo criminal/mercenario  
@@ -95,18 +95,18 @@ permalink: /groups/character-groups/
 **Concepto**: Fuerzas del orden oficiales para metahumanos
 
 **Miembros**:
-- [Oneill](/characters/details/oneill/) (Líder de MetaCorp)
-- [Relámpago](/characters/details/relampago/)
-- [Trueno](/characters/details/trueno/)
-- [Francisco Egin](/characters/details/francisco-egin/)
+- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
+- [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
+- [Trueno]({{ site.baseurl }}/characters/details/trueno/)
+- [Francisco Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
 
 ### Los Rayos
 **Tipo**: Fuerza militar/policial  
 **Concepto**: Unidad militar bajo comando del General Martínez
 
 **Miembros**:
-- [General Martínez](/characters/details/general-martinez/) (comandante)
-- [Los Rayos](/characters/details/los-rayos/) (fuerza militar)
+- [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/) (comandante)
+- [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar)
 
 ## Grupos Históricos y Legendarios
 
@@ -115,22 +115,22 @@ permalink: /groups/character-groups/
 **Concepto**: Grupo legendario de superhéroes del pasado
 
 **Miembros**:
-- [Los Defensores](/characters/details/los-defensores/) (grupo histórico)
-- [Nube](/characters/details/nube/) (héroe legendario asociado)
+- [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/) (grupo histórico)
+- [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario asociado)
 
 ### Los Clásicos
 **Tipo**: Héroes veteranos  
 **Concepto**: Superhéroes establecidos y reconocidos
 
 **Miembros**:
-- [La Sombra / El Oscuro](/characters/details/la-sombra-el-oscuro/)
-- [Rayo Ígneo](/characters/details/rayo-igneo/)
-- [Bailarina](/characters/details/bailarina/)
-- [Neón](/characters/details/neon/)
-- [Eneiros](/characters/details/eneiros/)
-- [Serpiente](/characters/details/serpiente/)
-- [Lucifer](/characters/details/lucifer/)
-- [Anarquista](/characters/details/anarquista/)
+- [La Sombra / El Oscuro]({{ site.baseurl }}/characters/details/la-sombra-el-oscuro/)
+- [Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/)
+- [Bailarina]({{ site.baseurl }}/characters/details/bailarina/)
+- [Neón]({{ site.baseurl }}/characters/details/neon/)
+- [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
+- [Serpiente]({{ site.baseurl }}/characters/details/serpiente/)
+- [Lucifer]({{ site.baseurl }}/characters/details/lucifer/)
+- [Anarquista]({{ site.baseurl }}/characters/details/anarquista/)
 
 ## Organizaciones Especializadas
 
@@ -155,7 +155,7 @@ permalink: /groups/character-groups/
 **Concepto**: Universidad principal de la ciudad
 
 **Personal conocido**:
-- [Waldo Gutierrez](/characters/details/waldo-gutierrez/) (supervisor de proyectos)
+- [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos)
 
 #### LIA (Laboratorio de Investigaciones Avanzadas)
 **Tipo**: Institución de investigación  
@@ -170,7 +170,7 @@ permalink: /groups/character-groups/
 **Concepto**: Comunidad religiosa
 
 **Miembros**:
-- [Las monjas del albergue](/characters/details/las-monjas-del-albergue/)
+- [Las monjas del albergue]({{ site.baseurl }}/characters/details/las-monjas-del-albergue/)
 
 #### Los Sirianos
 **Tipo**: Secta religiosa  
@@ -185,24 +185,24 @@ permalink: /groups/character-groups/
 **Concepto**: Seres místicos antiguos
 
 **Miembros**:
-- [Los Espligan](/characters/details/los-espligan/)
+- [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)
 
 ### Los Confesores
 **Tipo**: Entidades sobrenaturales  
 **Concepto**: Seres místicos con rol confesional
 
 **Miembros**:
-- [Los Confesores](/characters/details/los-confesores/)
+- [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)
 
 ### Los Antiguos
 **Tipo**: Entidades primordiales  
 **Concepto**: Fuerzas sobrenaturales que precedieron a la era moderna
 
 **Miembros asociados**:
-- [El Emperador Oscuro](/characters/details/el-emperador-oscuro/) (entidad primordial)
-- [Lucifer](/characters/details/lucifer-entidad/) (entidad antigua)
-- [Bastet](/characters/details/bastet/)
-- [Alfred](/characters/details/alfred/)
+- [El Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/) (entidad primordial)
+- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-entidad/) (entidad antigua)
+- [Bastet]({{ site.baseurl }}/characters/details/bastet/)
+- [Alfred]({{ site.baseurl }}/characters/details/alfred/)
 
 ---
 

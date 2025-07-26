@@ -32,4 +32,4 @@ Durante 15 años de aventuras épicas, estos cinco héroes establecieron los có
 
 **41 sesiones documentadas** de aventuras que definieron el universo heroico de Arcadia.
 
-[🚀 Explora sus Aventuras →](/campaigns/la-familia/)
+[🚀 Explora sus Aventuras →]({{ site.baseurl }}/campaigns/la-familia/)

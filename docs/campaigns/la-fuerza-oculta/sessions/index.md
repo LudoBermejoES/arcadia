@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 # Sesiones de La Fuerza Oculta
 ## Archivo Cronológico Completo
 
-[← Volver a La Fuerza Oculta](/campaigns/la-fuerza-oculta/) | [← Índice Principal](/)
+[← Volver a La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/) | [← Índice Principal]({{ site.baseurl }}/)
 
 ---
 

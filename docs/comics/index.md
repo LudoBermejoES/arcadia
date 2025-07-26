@@ -12,4 +12,4 @@ Esta sección contendrá los comics y viñetas relacionados con el universo de A
 
 ---
 
-[← Volver al inicio](/arcadia/)
+[← Volver al inicio]({{ site.baseurl }}/arcadia/)

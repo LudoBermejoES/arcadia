@@ -133,7 +133,7 @@ Este archivo representa:
 
 ## Navegación Meta
 
-- [🏠 Volver al Mundo "Real"](/)
+- [🏠 Volver al Mundo "Real"]({{ site.baseurl }}/)
 - [🎭 Ver Cómo Se Creó Este Universo](campaigns/)
 - [🎬 Transcripciones de la "Actuación"](transcriptions/)
 - [📖 La "Historia" Completa](timeline/)

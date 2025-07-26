@@ -7,7 +7,7 @@ description: "200+ Héroes, Villanos y Aliados"
 # Base de Datos de Personajes
 ## El Panteón Completo de Arcadia
 
-[← Volver al Índice Principal](../index.md) | [📋 Índice Completo](../all-content.md)
+[← Volver al Índice Principal](/) | [📋 Índice Completo](/all-content/)
 
 ---
 
@@ -37,7 +37,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Estatus**: Criminal de guerra buscado internacionalmente
 - **Arco**: De conquistador a héroe redentor
 
-#### [🔮 **Esfinge**](/characters/details/esfinge/) *(Jandro)*
+#### [🔮 **Esfinge**](/characters/details/ana-montenegro-esfinge-atropos/) *(Jandro)*
 **El Guardián de Secretos**
 - **Poderes**: Conocimiento arcano, adivinación
 - **Rol**: Guardián de sabiduría perdida y enigmas cósmicos

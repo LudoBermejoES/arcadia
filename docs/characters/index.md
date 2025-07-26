@@ -21,8 +21,6 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ### **👑 La Familia - Los Fundadores (2010-2015)**
 
-<div class="character-grid">
-
 #### [🐺 **Garra**](/characters/details/garra/) *(Conchi)*
 **La Feroz Protectora**
 - **Poderes**: Regeneración, garras letales, instintos animales
@@ -55,11 +53,9 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Conflicto**: Poder corrupto vs intenciones heroicas
 - **Evolución**: Aprender responsabilidad en el uso del poder
 
-</div>
 
 ### **⚡ Génesis - La Generación Puente (2015-2020)**
 
-<div class="character-grid">
 
 #### [⚙️ **Sara10/Mecánica**](/characters/details/sara10-mecanica/) *(Chus)*
 **La Ingeniera Prodigio**
@@ -91,11 +87,9 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Poderes**: [Clasificados - Varían según manifestación]
 - **Influencia**: Catalizador de eventos que conectan todas las eras
 
-</div>
 
 ### **🔮 La Fuerza Oculta - Los Herederos (2020-2025)**
 
-<div class="character-grid">
 
 #### [🦎 **Eslizón Esmeralda**](/characters/details/eslizon-esmeralda/) *(Sugus)*
 **El Reptil Noble**
@@ -133,7 +127,6 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Crecimiento**: De buscar atención a encontrar su lugar
 - **Dinámicas**: Relaciones complejas dentro del grupo
 
-</div>
 
 ---
 
@@ -330,40 +323,15 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-<div class="stats-grid">
-<div class="stat-card">
-<span class="stat-number">200+</span>
-<span class="stat-label">Personajes Únicos</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">16</span>
-<span class="stat-label">Protagonistas Principales</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">50+</span>
-<span class="stat-label">Villanos Documentados</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">15</span>
-<span class="stat-label">Años de Desarrollo</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">8</span>
-<span class="stat-label">Jugadores Únicos</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">3</span>
-<span class="stat-label">Generaciones Heroicas</span>
-</div>
-</div>
+- **200+** Personajes Únicos
+- **16** Protagonistas Principales  
+- **50+** Villanos Documentados
+- **15** Años de Desarrollo
+- **8** Jugadores Únicos
+- **3** Generaciones Heroicas
 
 ---
 
 *Cada personaje en esta base de datos representa años de desarrollo colaborativo, decisiones narrativas significativas, y la evolución orgánica de un universo compartido. Desde el primer héroe hasta el villano más reciente, todos han contribuido a crear la rica tapicería que es el universo de Arcadia.*
 
-**🦸‍♂️ [Explora la Lista Completa de Personajes →](character-list.md)**
+**🦸‍♂️ [Explora la Lista Completa de Personajes →](/characters/character-list/)**

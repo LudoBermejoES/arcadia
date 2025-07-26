@@ -6,7 +6,7 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 
 ## 🚀 Ver el Sitio Web
 
-**🌐 [Visita el Archivo Completo](https://ludodermejo.github.io/arcadia)**
+**🌐 [Visita el Archivo Completo](https://LudoBermejoES.github.io/arcadia)**
 
 ## 📚 Contenido del Proyecto
 
@@ -84,7 +84,7 @@ bundle exec jekyll serve
 - Cientos de domingos dedicados a forjar leyendas
 - Una amistad que trasciende el juego
 
-**Mantenedor**: [Ludo Bermejo](https://github.com/ludodermejo)
+**Mantenedor**: [Ludo Bermejo](https://github.com/LudoBermejoES)
 
 ## 📄 Licencia
 

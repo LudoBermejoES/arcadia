@@ -1,0 +1,11 @@
+<div class="comic">
+  <h5 class="title">{{include.title}}</h5>
+  <div class="comic-panels">
+  {% for panel in include.panels %}
+    {% include comic-panel.html %}
+  {% endfor %}
+  </div>
+  <div class="comic-content">
+    {{include.content}}
+  </div>
+</div>

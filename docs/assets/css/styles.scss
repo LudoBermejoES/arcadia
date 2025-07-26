@@ -1,0 +1,495 @@
+---
+---
+
+// Comic Book Theme for Arcadia RPG
+// Based on https://github.com/Jagjeet/comicbook-theme
+
+@import url("https://fonts.googleapis.com/css?family=Bangers|Special+Elite");
+@import url("https://use.fontawesome.com/releases/v5.7.2/css/all.css");
+
+// ============================================================================
+// CSS VARIABLES / ROOT STYLES
+// ============================================================================
+
+:root {
+    // Font sizes with responsive breakpoints
+    --font-size: 1.1rem;
+    --h1-font-size: 4.1rem;
+    --h2-font-size: 3.6rem;
+    --h3-font-size: 3.1rem;
+    --h4-font-size: 2.6rem;
+    --h5-font-size: 2.1rem;
+    --h6-font-size: 1.6rem;
+
+    // Colors
+    --background-color: #87CEEB; // Sky blue for superhero theme
+    --main-background: white;
+    --nav-background: #FF6347; // Orange-red
+    --nav-hover: #FF4500;
+    --text-color: black;
+    --border-color: #333;
+
+    // Layout
+    --main-margins: 2rem 2% 4rem 2%;
+    --border-width: 4px;
+
+    // Comic panel settings
+    --comic-panel-width: 17rem;
+    --comic-panel-height: 17rem;
+    --comic-panel-description-margin-top: 11rem;
+    --flex-basis: 100%;
+    --comic-panels-grid-template-columns: 1fr;
+    --comic-panels-grid-column-gap: 0rem;
+
+    // Navigation
+    --nav-item-font-size: 1.5rem;
+    --nav-item-padding: 14px 16px;
+    --nav-transition-time: 0.3s;
+
+    @media screen and (min-width: 25em) {
+        --font-size: 1.5rem;
+        --h1-font-size: 5rem;
+        --h2-font-size: 4.4rem;
+        --h3-font-size: 3.8rem;
+        --h4-font-size: 3.2rem;
+        --h5-font-size: 2.6rem;
+        --h6-font-size: 2.1rem;
+        
+        --comic-panel-width: 22rem;
+        --comic-panel-height: 22rem;
+        --comic-panel-description-margin-top: 15rem;
+        --nav-item-font-size: 1.7rem;
+    }
+
+    @media screen and (min-width: 35em) {
+        --main-margins: 2rem 5% 4rem 5%;
+    }
+
+    @media screen and (min-width: 50em) {
+        --font-size: 1.9rem;
+        --h1-font-size: 5rem;
+        --h2-font-size: 4.4rem;
+        --h3-font-size: 3.8rem;
+        --h4-font-size: 3.2rem;
+        --h5-font-size: 2.6rem;
+        --h6-font-size: 2.1rem;
+        
+        --main-margins: 2rem 10% 4rem 10%;
+        --comic-panel-width: 36rem;
+        --comic-panel-height: 36rem;
+        --comic-panel-description-margin-top: 29rem;
+    }
+
+    @media screen and (min-width: 70em) {
+        --font-size: 1.5rem;
+        --h1-font-size: 6.5rem;
+        --h2-font-size: 5.9rem;
+        --h3-font-size: 5.3rem;
+        --h4-font-size: 4.7rem;
+        --h5-font-size: 4.1rem;
+        --h6-font-size: 3.5rem;
+    }
+
+    @media screen and (min-width: 87em) {
+        --flex-basis: auto;
+        --comic-panel-description-margin-top: 14rem;
+        --comic-panels-grid-template-columns: repeat(3, 1fr);
+        --comic-panels-grid-column-gap: 2rem;
+        --comic-panel-width: 20rem;
+        --comic-panel-height: 20rem;
+    }
+}
+
+// ============================================================================
+// BASE STYLES
+// ============================================================================
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    font-family: "Special Elite", cursive;
+    background-color: var(--background-color);
+    font-size: var(--font-size);
+    margin: 0;
+    padding: 0;
+    color: var(--text-color);
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Bangers", cursive;
+    line-height: 1.2;
+}
+
+h1 { font-size: var(--h1-font-size); }
+h2 { font-size: var(--h2-font-size); }
+h3 { font-size: var(--h3-font-size); }
+h4 { font-size: var(--h4-font-size); }
+h5 { font-size: var(--h5-font-size); }
+h6 { font-size: var(--h6-font-size); }
+
+header h1 {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+.title {
+    font-family: "Bangers", cursive;
+}
+
+// ============================================================================
+// MAIN LAYOUT
+// ============================================================================
+
+main {
+    margin: var(--main-margins);
+    padding: 2% 2% 8rem 2%;
+    border-style: solid;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border-width: var(--border-width);
+    border-color: var(--border-color);
+    background-color: var(--main-background);
+    min-width: 14em;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.site-link:visited,
+.site-link:active,
+.site-link {
+    color: var(--text-color);
+    text-decoration: none;
+}
+
+.site-link:hover {
+    text-decoration: underline;
+}
+
+// ============================================================================
+// NAVIGATION
+// ============================================================================
+
+.top-nav {
+    background-color: var(--nav-background);
+    overflow: hidden;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: var(--border-width) solid var(--border-color);
+    margin: 2rem 2% 0 2%;
+    padding: 1rem;
+    
+    a {
+        float: left;
+        display: block;
+        color: white;
+        text-align: center;
+        padding: var(--nav-item-padding);
+        text-decoration: none;
+        font-size: var(--nav-item-font-size);
+        font-family: "Bangers", cursive;
+        transition: background-color var(--nav-transition-time);
+        
+        &:hover {
+            background-color: var(--nav-hover);
+            color: white;
+        }
+    }
+    
+    .bangbangbang {
+        color: yellow;
+        font-weight: bold;
+    }
+    
+    .icon {
+        display: none;
+        float: right;
+        font-size: 1.5rem;
+        
+        @media screen and (max-width: 600px) {
+            display: block;
+            position: absolute;
+            right: 2rem;
+            top: 1rem;
+        }
+    }
+    
+    @media screen and (max-width: 600px) {
+        a:not(:first-child) {
+            display: none;
+        }
+        
+        &.responsive {
+            position: relative;
+            
+            .icon {
+                position: absolute;
+                right: 0;
+                top: 0;
+            }
+            
+            a {
+                float: none;
+                display: block;
+                text-align: left;
+            }
+        }
+    }
+}
+
+// ============================================================================
+// COMIC STYLES
+// ============================================================================
+
+.comic {
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+    padding-bottom: 2.5rem;
+
+    a {
+        color: var(--text-color);
+        text-decoration: none;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+
+    .title {
+        margin-top: 4.0rem;
+        margin-bottom: 0.5rem;
+        text-align: center;
+    }
+}
+
+.comic-content {
+    margin: 4.0rem 2rem;
+    text-align: center;
+}
+
+.comic-panels {
+    display: grid;
+    grid-template-columns: var(--comic-panels-grid-template-columns);
+    grid-row-gap: 2.0rem;
+    grid-column-gap: var(--comic-panels-grid-column-gap);
+    justify-items: center;
+    margin: 2rem 0;
+}
+
+.comic-panel {
+    flex-basis: var(--flex-basis);
+    width: var(--comic-panel-width);
+    height: var(--comic-panel-height);
+    border: var(--border-width) solid var(--border-color);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    position: relative;
+    overflow: hidden;
+    background-color: var(--main-background);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    transition: transform 0.3s ease;
+    
+    &:hover {
+        transform: scale(1.05);
+    }
+}
+
+.comic-panel-content {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    padding: 1rem;
+}
+
+.comic-caption {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.5rem;
+    border: 2px solid var(--border-color);
+    border-radius: 8px;
+    font-family: "Bangers", cursive;
+    font-size: 1.2rem;
+    text-align: center;
+    z-index: 10;
+}
+
+.comic-overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background-color: rgba(0, 0, 0, 0.8);
+    opacity: 0;
+    transition: opacity 0.3s ease;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    .comic-panel:hover & {
+        opacity: 1;
+    }
+}
+
+.comic-description {
+    color: white;
+    text-align: center;
+    padding: 1rem;
+    font-size: 1.1rem;
+    line-height: 1.4;
+}
+
+.comic-panel img {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: cover;
+    border-radius: 4px;
+}
+
+// ============================================================================
+// BREADCRUMBS
+// ============================================================================
+
+.breadcrumbs {
+    margin: 1rem 0;
+    font-size: 0.9rem;
+    
+    a {
+        color: var(--nav-background);
+        text-decoration: none;
+        
+        &:hover {
+            text-decoration: underline;
+        }
+    }
+}
+
+// ============================================================================
+// FOOTER
+// ============================================================================
+
+.footer {
+    background-color: var(--nav-background);
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: var(--border-width) solid var(--border-color);
+    
+    .text {
+        h6 {
+            margin: 0.5rem 0;
+            font-size: 1rem;
+        }
+        
+        a {
+            color: yellow;
+            text-decoration: none;
+            
+            &:hover {
+                text-decoration: underline;
+            }
+        }
+    }
+}
+
+// ============================================================================
+// RESPONSIVE DESIGN
+// ============================================================================
+
+@media screen and (max-width: 768px) {
+    .comic-panels {
+        grid-template-columns: 1fr;
+    }
+    
+    main {
+        margin: 1rem 2% 2rem 2%;
+        padding: 1rem;
+    }
+    
+    .comic-content {
+        margin: 2rem 1rem;
+    }
+}
+
+// ============================================================================
+// UTILITY CLASSES
+// ============================================================================
+
+.text-center { text-align: center; }
+.mt-2 { margin-top: 2rem; }
+.mb-2 { margin-bottom: 2rem; }
+.p-2 { padding: 2rem; }
+
+// Hero emoji styling for Arcadia
+.hero-emoji {
+    font-size: 3rem;
+    display: inline-block;
+    margin: 0.5rem;
+    transition: transform 0.3s ease;
+    
+    &:hover {
+        transform: scale(1.2) rotate(5deg);
+    }
+}
+
+// Campaign cards (keeping from our custom styles)
+.campaign-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.campaign-card {
+    border: 3px solid var(--border-color);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding: 2rem;
+    background: var(--main-background);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+    
+    &:hover {
+        transform: translateY(-5px) scale(1.02);
+    }
+    
+    &.familia { border-color: #FFD700; }
+    &.genesis { border-color: #00CED1; }
+    &.fuerza-oculta { border-color: #32CD32; }
+}
+
+// Stats grid
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.stat-card {
+    text-align: center;
+    padding: 1.5rem;
+    background: var(--main-background);
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 3px solid var(--border-color);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    
+    .stat-number {
+        font-size: 2.5rem;
+        font-weight: bold;
+        color: var(--nav-background);
+        display: block;
+        font-family: "Bangers", cursive;
+    }
+    
+    .stat-label {
+        font-size: 1rem;
+        margin-top: 0.5rem;
+    }
+}

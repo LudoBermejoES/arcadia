@@ -6,20 +6,15 @@
     <script src="{{ '/assets/js/comicbook.js' | relative_url }}"></script>
     {% seo %}
     {% if site.google_analytics and jekyll.environment == 'production' %}
-    {% include analytics.html %}
+      {% include analytics.html %}
     {% endif %}
   </head>
   <body ontouchstart="">
     {% include navigation.html %}
     <main>
       <header>
-        {% if site.github.url %}
-          <h1 class="title"><a href="{{site.github.url}}" class="site-link">{{site.title}}</a></h1>
-        {% elsif site.url %}
-          <h1 class="title"><a href="{{site.url}}{{site.baseurl}}" class="site-link">{{site.title}}</a></h1>
-        {% else %}
-          <h1 class="title">{{site.title}}</h1>
-        {% endif %}
+        <h1 class="title">{{page.title}}</h1>
+       {% include breadcrumbs.html %}
       </header>
       {{ content }}
     </main>

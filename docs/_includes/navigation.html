@@ -1,0 +1,11 @@
+<nav class="top-nav" id="top-nav">
+  {% for item in site.data.navigation %}
+    {% if item.link %}
+      <a href="{{ item.link | relative_url }}">{{ item.name }}<span class="bangbangbang">!!!</span></a>
+    {% else %}
+      <a href='#'>{{ item.name }}<span class="bangbangbang">!!!</span></a>
+    {% endif %}
+  {% endfor %}
+  <!--"Hamburger menu" / "Bar icon" to toggle the navigation links-->
+  <a class="icon" href="javascript:void(0);" onclick="myFunction()"><i class="fa fa-bars"></i></a>
+</nav>

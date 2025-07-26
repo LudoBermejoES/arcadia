@@ -1,0 +1,25 @@
+<div class="comic-panel">
+    <div class="comic-panel-content">
+      {% if panel.link %}
+        <a href="{{ panel.link | relative_url }}" class="comic-link">
+      {% endif %}
+      {% if panel.caption %}
+      <div class="comic-caption">{{panel.caption}}</div>
+      {% endif %}
+      {% if panel.description %}
+      <div class="comic-overlay">
+        <div class="comic-description">{{panel.description}}</div>
+      </div>
+      {% endif %}
+      {% if panel.image %}
+        {% if panel.altImageText == blank %}
+          <img src="{{ panel.image | relative_url }}"/>
+        {% else %}
+          <img src="{{ panel.image | relative_url }}" alt="{{ panel.altImageText }}"/>
+        {% endif %}
+      {% endif %}
+      {% if panel.link %}
+      </a>
+      {% endif %}
+    </div>
+  </div>

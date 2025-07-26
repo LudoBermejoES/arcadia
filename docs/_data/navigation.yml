@@ -1,0 +1,17 @@
+- name: "Home"
+  link: "/"
+
+- name: "Campaigns"
+  link: "/campaigns/"
+
+- name: "Characters"
+  link: "/characters/"
+
+- name: "Groups"
+  link: "/groups/"
+
+- name: "World"
+  link: "/world-building/"
+
+- name: "Comics"
+  link: "/comics/"

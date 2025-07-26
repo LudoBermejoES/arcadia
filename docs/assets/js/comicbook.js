@@ -89,7 +89,6 @@ document.addEventListener('DOMContentLoaded', function() {
     });
     
     // Stats counter animation
-    const statNumbers = document.querySelectorAll('.stat-number');
     
     function animateCounter(element) {
         const target = parseInt(element.textContent.replace(/\D/g, ''));

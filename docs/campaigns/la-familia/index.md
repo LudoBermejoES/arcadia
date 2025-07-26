@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "La Familia - Index"
-permalink: /campaigns/la-familia/index/
+permalink: /campaigns/la-familia/
 ---
 
 # La Familia

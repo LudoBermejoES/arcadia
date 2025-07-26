@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Hospital - Index"
-permalink: /campaigns/hospital/index/
+permalink: /campaigns/hospital/
 ---
 
 # Hospital

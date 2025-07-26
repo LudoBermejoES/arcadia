@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Fatum - Index"
-permalink: /campaigns/fatum/index/
+permalink: /campaigns/fatum/
 ---
 
 # Fatum Corporation

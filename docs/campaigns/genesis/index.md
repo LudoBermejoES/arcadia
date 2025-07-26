@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Genesis - Index"
-permalink: /campaigns/genesis/index/
+permalink: /campaigns/genesis/
 ---
 
 # Génesis

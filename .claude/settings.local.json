@@ -37,7 +37,8 @@
       "WebFetch(domain:github.com)",
       "WebFetch(domain:raw.githubusercontent.com)",
       "WebFetch(domain:api.github.com)",
-      "WebFetch(domain:ludobermejoes.github.io)"
+      "WebFetch(domain:ludobermejoes.github.io)",
+      "Bash(grep:*)"
     ],
     "deny": []
   }

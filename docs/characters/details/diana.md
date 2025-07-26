@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Diana"
+permalink: /characters/details/diana/
+---
+
 # Diana
 
 ## Presentación

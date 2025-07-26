@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Eslizón Esmeralda"
+permalink: /characters/details/eslizon-esmeralda/
+---
+
 # Eslizón Esmeralda
 
 ## Presentación

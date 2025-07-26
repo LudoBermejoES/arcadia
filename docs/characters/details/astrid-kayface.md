@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Astrid / Kayface"
+permalink: /characters/details/astrid-kayface/
+---
+
 # Astrid / Kayface
 
 ## Presentación

@@ -1,7 +1,7 @@
 title: "Proyecto Arcadia - 15 Años de RPG Superheroico"
 description: "Archivo histórico completo de tres campañas épicas de superhéroes: La Familia, Génesis y La Fuerza Oculta"
 baseurl: ""
-url: "https://ludodermejo.github.io/arcadia"
+url: "https://LudoBermejoES.github.io/arcadia"
 
 # GitHub Pages configuration
 theme: minima
@@ -21,7 +21,7 @@ author: "Mesa de Arcadia"
 email: "ludo.bermejo@example.com"
 
 # Social media
-github_username: ludodermejo
+github_username: LudoBermejoES
 
 # Build settings
 markdown: kramdown

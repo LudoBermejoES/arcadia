@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Parda"
+permalink: /characters/parda/
+---
+
 # Parda
 
 ## Presentación

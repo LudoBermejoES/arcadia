@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Maza"
+permalink: /characters/maza/
+---
+
 # Maza
 
 ## Presentación

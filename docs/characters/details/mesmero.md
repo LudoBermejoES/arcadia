@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mesmero"
+permalink: /characters/mesmero/
+---
+
 # Mésmero
 
 ## Presentación

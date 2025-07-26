@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 04"
+permalink: /campaigns/la-fuerza-oculta/session-04/
+---
+
 # PARTIDA SUPERHÉROES 04
 
 Dado que Esme le han curtido. 

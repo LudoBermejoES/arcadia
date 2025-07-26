@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 24"
+permalink: /campaigns/la-fuerza-oculta/session-24/
+---
+
 # Partida superhéroes 24
 
 Vemos indicios de gente que vive allí. Eslizón se sube al techo del vagón y avanza con mucho cuidado. Desaparece. 

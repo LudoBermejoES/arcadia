@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Gomez"
+permalink: /characters/gomez/
+---
+
 # Gomez
 
 ## Presentación

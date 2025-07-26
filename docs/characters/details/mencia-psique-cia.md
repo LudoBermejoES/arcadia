@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mencia Psique Cia"
+permalink: /characters/mencia-psique-cia/
+---
+
 # Mencia / Psique / Cia
 
 ## Presentación

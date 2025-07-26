@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Los Defensores"
+permalink: /characters/los-defensores/
+---
+
 # Los Defensores
 
 ## Información Básica

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Justa Justicia Sentencia"
+permalink: /characters/justa-justicia-sentencia/
+---
+
 # Justa / Justicia / Sentencia
 
 ## Presentación

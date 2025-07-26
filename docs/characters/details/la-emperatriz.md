@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Emperatriz"
+permalink: /characters/la-emperatriz/
+---
+
 # La Emperatriz
 
 ## Presentación

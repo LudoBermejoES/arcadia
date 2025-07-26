@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 09"
+permalink: /campaigns/la-fuerza-oculta/session-09/
+---
+
 # PARTIDA SUPERHÉROES 09
 
 Estamos todos. 

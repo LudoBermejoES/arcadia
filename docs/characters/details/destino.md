@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Destino"
+permalink: /characters/destino/
+---
+
 # Destino
 
 ## Presentación

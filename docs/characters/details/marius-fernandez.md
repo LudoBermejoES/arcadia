@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Marius Fernandez"
+permalink: /characters/marius-fernandez/
+---
+
 # Marius Fernández
 
 ## Presentación

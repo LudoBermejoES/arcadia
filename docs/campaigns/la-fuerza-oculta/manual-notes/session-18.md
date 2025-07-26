@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 18"
+permalink: /campaigns/la-fuerza-oculta/session-18/
+---
+
 # PARTIDA SUPERHÉROES 18
 
 Atropos y Montenegro se comunican ya que Mesmero, su padre, les han manado un SMS. 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Dama"
+permalink: /characters/la-dama/
+---
+
 # La Dama
 
 ## Presentación

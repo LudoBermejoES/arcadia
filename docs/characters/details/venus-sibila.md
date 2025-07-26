@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Venus Sibila"
+permalink: /characters/venus-sibila/
+---
+
 # Venus / Sibila
 
 ## Información Básica

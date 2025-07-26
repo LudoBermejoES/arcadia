@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Rayo Igneo"
+permalink: /characters/rayo-igneo/
+---
+
 # Rayo Ígneo
 
 ## Presentación

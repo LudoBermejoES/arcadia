@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 05"
+permalink: /campaigns/la-familia/session-05/
+---
+
 ##  **robar a un ladron (un huevo, dos huevos, tres huevos)**
 
 La Comadreja nos lleva a ver a Psicodalia

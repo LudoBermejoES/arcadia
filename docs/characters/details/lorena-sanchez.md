@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lorena Sanchez"
+permalink: /characters/lorena-sanchez/
+---
+
 # Lorena Sanchez
 
 ## Presentación

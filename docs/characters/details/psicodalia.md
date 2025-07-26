@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Psicodalia"
+permalink: /characters/psicodalia/
+---
+
 # Psicodalia
 
 ## Información Básica

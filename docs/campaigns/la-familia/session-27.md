@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 27"
+permalink: /campaigns/la-familia/session-27/
+---
+
 ##   **Resistencia a la autoridad \-\> todos**
 
 Mesmero: \-maniobra de distracción, bate, mira lo que están cubriendo.  

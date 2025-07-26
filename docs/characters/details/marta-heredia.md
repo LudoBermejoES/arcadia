@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Marta Heredia"
+permalink: /characters/marta-heredia/
+---
+
 # Marta Heredia
 
 ## Presentación

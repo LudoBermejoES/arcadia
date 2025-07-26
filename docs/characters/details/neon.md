@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Neon"
+permalink: /characters/neon/
+---
+
 # Neón
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 31"
+permalink: /campaigns/la-familia/session-31/
+---
+
 ##  **Pozo de almas  \-\> todos y puntos al principio**
 
 bate: Faraón, ¿Puedes poseerme?

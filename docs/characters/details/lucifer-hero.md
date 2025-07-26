@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lucifer Hero"
+permalink: /characters/lucifer-hero/
+---
+
 # Lucifer (Héroe)
 
 ## Información Básica

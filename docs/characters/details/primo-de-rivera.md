@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Primo De Rivera"
+permalink: /characters/primo-de-rivera/
+---
+
 # Primo de Rivera
 
 ## Presentación

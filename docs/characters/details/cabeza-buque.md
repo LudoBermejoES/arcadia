@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cabeza Buque"
+permalink: /characters/cabeza-buque/
+---
+
 # Cabeza Buque
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ignacio Rodriguez Condestable"
+permalink: /characters/ignacio-rodriguez-condestable/
+---
+
 # Ignacio Rodriguez (Condestable)
 
 ## Información Básica

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dani Rodriguez"
+permalink: /characters/dani-rodriguez/
+---
+
 # Dani Rodriguez
 
 ## Presentación

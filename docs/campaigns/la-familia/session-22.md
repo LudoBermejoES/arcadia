@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 22"
+permalink: /campaigns/la-familia/session-22/
+---
+
 ##  **Secretos de familia**
 
 Presentes: Todos menos el Faraón.

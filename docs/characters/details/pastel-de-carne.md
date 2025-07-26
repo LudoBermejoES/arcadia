@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Pastel De Carne"
+permalink: /characters/pastel-de-carne/
+---
+
 # Pastel de Carne
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Luis"
+permalink: /characters/luis/
+---
+
 # Luis
 
 ## Presentación

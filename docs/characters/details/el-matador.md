@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Matador"
+permalink: /characters/el-matador/
+---
+
 # El Matador
 
 ## Presentación

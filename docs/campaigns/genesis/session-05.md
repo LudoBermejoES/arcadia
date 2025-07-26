@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Sesión 05"
+permalink: /campaigns/genesis/session-05/
+---
+
 ##   **revelaciones**
 
 Cuando llegamos al instituto está cerrado. Después de discusión decidimos ir a vestirnos y lavarnos a casa de Alice (en las afueras del distrito biónico). Apariencia similar a la mansión Wayne.

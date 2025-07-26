@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Francisco Franco"
+permalink: /characters/francisco-franco/
+---
+
 # Francisco Franco
 
 ## Presentación

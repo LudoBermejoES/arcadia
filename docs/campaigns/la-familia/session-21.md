@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 21"
+permalink: /campaigns/la-familia/session-21/
+---
+
 ##  **Segundo acto \-\> Puntos de experiencia**
 
 Presentes: Todos

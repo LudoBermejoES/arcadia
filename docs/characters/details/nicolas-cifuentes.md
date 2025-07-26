@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Nicolas Cifuentes"
+permalink: /characters/nicolas-cifuentes/
+---
+
 # Nicolás Cifuentes
 
 ## Presentación

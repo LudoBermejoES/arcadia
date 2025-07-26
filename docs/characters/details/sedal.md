@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Sedal"
+permalink: /characters/sedal/
+---
+
 # Sedal
 
 ## Presentación

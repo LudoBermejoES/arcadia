@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Crazy Mary"
+permalink: /characters/crazy-mary/
+---
+
 # Crazy Mary
 
 ## Presentación

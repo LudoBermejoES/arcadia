@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Character List"
+permalink: /characters/character-list/
+---
+
 # Listado de Personajes de Arcadia
 
 ## Figuras Históricas

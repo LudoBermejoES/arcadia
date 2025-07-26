@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alfonso Montenegro"
+permalink: /characters/alfonso-montenegro/
+---
+
 # Alfonso Montenegro
 
 ## Información Básica

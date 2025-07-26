@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Los Rayos"
+permalink: /characters/los-rayos/
+---
+
 # Los Rayos
 
 ## Presentación

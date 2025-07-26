@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Leopoldo Gomez"
+permalink: /characters/leopoldo-gomez/
+---
+
 # Leopoldo Gómez
 
 ## Información Básica

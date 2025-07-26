@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cacharrero"
+permalink: /characters/cacharrero/
+---
+
 # Cacharrero
 
 ## Presentación

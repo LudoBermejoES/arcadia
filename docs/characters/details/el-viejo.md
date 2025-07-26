@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Viejo"
+permalink: /characters/el-viejo/
+---
+
 # El Viejo
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Waldo Gutierrez"
+permalink: /characters/waldo-gutierrez/
+---
+
 # Waldo Gutierrez
 
 ## Información Básica

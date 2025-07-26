@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Eneiros"
+permalink: /characters/eneiros/
+---
+
 # Eneiros
 
 ## Presentación

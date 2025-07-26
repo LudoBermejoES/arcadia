@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ricardo Abeluengo"
+permalink: /characters/ricardo-abeluengo/
+---
+
 # Ricardo Abeluengo
 
 ## Información Básica

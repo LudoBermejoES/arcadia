@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 20"
+permalink: /campaigns/la-familia/session-20/
+---
+
 ## **En carne viva \-\> Puntos de experiencia**
 
 Participantes-\> todos menos jandro

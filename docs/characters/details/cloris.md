@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cloris"
+permalink: /characters/cloris/
+---
+
 # Cloris
 
 ## Presentación

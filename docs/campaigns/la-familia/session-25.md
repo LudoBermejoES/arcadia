@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 25"
+permalink: /campaigns/la-familia/session-25/
+---
+
 ##  **De fiestas en el barrio gótico \-\> todos**
 
 Dani (hablando del gato del Faraón): "El dia que eche la bola de pelo va a ser épico"

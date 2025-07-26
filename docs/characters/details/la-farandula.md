@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Farandula"
+permalink: /characters/la-farandula/
+---
+
 # La Farándula
 
 ## Presentación

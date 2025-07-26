@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arcadia Economy"
+permalink: /world-building/arcadia-economy/
+---
+
 # ECONOMIA DE ARCADIA
 
 La economía del pais se ha cimentado los últimos veinte años en la tecnología y la industria, lo que ha provocado una carestía de puestos de trabajo para parte de la población local. Desde 1981 y gracias a la ingente cantidad de patentes desarrolladas por la Universidad Multidisciplinar de Arcadia, el pais se ha convertido en el principal rival de EEUU y Japón en lo que a alta tecnología se refiere, más desde que en 1985 se descubrió un enorme yacimiento de silicio en el suelo de la isla.

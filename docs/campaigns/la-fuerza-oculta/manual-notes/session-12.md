@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 12"
+permalink: /campaigns/la-fuerza-oculta/session-12/
+---
+
 # PARTIDA SUPERHÉROES 12
 
 Asisten:

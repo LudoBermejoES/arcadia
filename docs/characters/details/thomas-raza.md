@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Thomas Raza"
+permalink: /characters/thomas-raza/
+---
+
 # Thomas / Raza
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Sesión 03"
+permalink: /campaigns/genesis/session-03/
+---
+
 ## **caos en el jacuzzi** 
 
 La puerta de la disco se abre y empiezan a entrar un montón de gente encapuchada.

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Bate"
+permalink: /characters/bate/
+---
+
 # Bate
 
 ## Presentación

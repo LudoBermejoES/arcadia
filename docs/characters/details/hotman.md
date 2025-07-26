@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hotman"
+permalink: /characters/hotman/
+---
+
 # Hotman
 
 ## Presentación

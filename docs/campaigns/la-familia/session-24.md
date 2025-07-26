@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 24"
+permalink: /campaigns/la-familia/session-24/
+---
+
 ##  **Los espíritus cabreados hacen pompas de chicle \-\> Todos menos jandro**
 
 \-Bate fracasa en su examen de leyes (se distrae acordándose de su mujer y su hijo)

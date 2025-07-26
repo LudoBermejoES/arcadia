@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arcadia Society"
+permalink: /world-building/arcadia-society/
+---
+
 # SOCIEDAD DE ARCADIA
 
 La estructura social de Arcadia es similar a la de cualquier país europeo. No obstante, el hecho de ser un país minúsculo en relación a sus vecinos y extremadamente especializado en lo que se refiere a su economía ha creado una serie de diferencias significativas. De esta forma, la gente mayoritariamente trabaja en el sector secundario o terciario, en especial en industria ligera,

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 06"
+permalink: /campaigns/la-fuerza-oculta/session-06/
+---
+
 # PARTIDA SUPERHÉROES 06
 
 Presentes

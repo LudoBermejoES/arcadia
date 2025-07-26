@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 14"
+permalink: /campaigns/la-fuerza-oculta/session-14/
+---
+
 # PARTIDA SUPERHÉROES 14
 
 Asisten:

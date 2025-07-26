@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lsd"
+permalink: /characters/lsd/
+---
+
 # LSD
 
 ## Presentación

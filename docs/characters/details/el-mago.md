@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Mago"
+permalink: /characters/el-mago/
+---
+
 # El Mago
 
 ## Presentación

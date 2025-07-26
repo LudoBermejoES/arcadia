@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Natacha"
+permalink: /characters/natacha/
+---
+
 # Natacha
 
 ## Presentación

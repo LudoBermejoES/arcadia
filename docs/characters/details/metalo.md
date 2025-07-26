@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Metalo"
+permalink: /characters/metalo/
+---
+
 # Metalo
 
 ## Presentación

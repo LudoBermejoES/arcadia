@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Merx"
+permalink: /characters/merx/
+---
+
 # Merx
 
 ## Presentación

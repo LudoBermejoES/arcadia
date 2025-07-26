@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 16"
+permalink: /campaigns/la-familia/session-16/
+---
+
 ##  **Las Cavernas del Tiempo**
 
 (bate, garra, mesmero)

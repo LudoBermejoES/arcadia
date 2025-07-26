@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Pandorum"
+permalink: /characters/pandorum/
+---
+
 # Pandorum
 
 ## Presentación

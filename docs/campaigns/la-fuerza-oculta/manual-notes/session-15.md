@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 15"
+permalink: /campaigns/la-fuerza-oculta/session-15/
+---
+
 # PARTIDA SUPERHÉROES 15
 
 ASISTEN:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Sombra"
+permalink: /characters/la-sombra/
+---
+
 # La Sombra / El Oscuro
 
 ## Presentación

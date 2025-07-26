@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Sesión 02"
+permalink: /campaigns/genesis/session-02/
+---
+
 ## **Al salir de clase**
 
 Jugadores: Conchi, Tindri, Rafa, Chus

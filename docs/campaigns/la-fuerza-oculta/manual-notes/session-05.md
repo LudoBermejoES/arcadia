@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 05"
+permalink: /campaigns/la-fuerza-oculta/session-05/
+---
+
 # PARTIDA SUPERHÉROES 05
 
 Es por la tarde del día libre. 

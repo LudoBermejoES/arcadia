@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ramon Beguell"
+permalink: /characters/ramon-beguell/
+---
+
 # Ramón Beguell
 
 ## Presentación

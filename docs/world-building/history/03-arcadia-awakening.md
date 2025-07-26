@@ -1,3 +1,9 @@
+---
+layout: page
+title: "03 Arcadia Awakening"
+permalink: /world-building/03-arcadia-awakening/
+---
+
 # EL DESPERTAR DE ARCADIA
 
 Con la llegada de la guerra fría el poder militar y el económico se convertirían en las bazas de la estabilidad. Marius había explicado a Alberto Álvarez, su discípulo, el modo de empleo del cañón de plasma, que utilizaba la energía del magma de un lago de lava subterráneo, por lo que el país tenía formas de amenazar a los poderes soberanos del mundo, EEUU y la Unión  Soviética. Durante los siguientes diez años, una serie de reformas económicas y pactos con el extranjero condujeron a la economía de la nación a saltos entre la bonanza y la decrepitud. Esos años fueron el caldo de cultivo ideal para la especulación y el crimen, pues las libertades sociales habían perdido buena

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Estocada"
+permalink: /characters/estocada/
+---
+
 # Estocada
 
 ## Presentación

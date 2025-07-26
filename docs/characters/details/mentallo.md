@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mentallo"
+permalink: /characters/mentallo/
+---
+
 # Mentallo
 
 ## Presentación

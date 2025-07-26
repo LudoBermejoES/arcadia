@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Gadjet"
+permalink: /characters/gadjet/
+---
+
 # Gadjet
 
 ## Presentación

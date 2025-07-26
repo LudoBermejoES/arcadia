@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lambert"
+permalink: /characters/lambert/
+---
+
 # Lambert
 
 ## Presentación

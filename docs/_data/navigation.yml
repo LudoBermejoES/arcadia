@@ -1,17 +1,18 @@
-- name: "Home"
-  link: "/"
+- name: Inicio
+  link: /
 
-- name: "Campaigns"
-  link: "/campaigns/"
+- name: La Familia
+  link: /campaigns/la-familia/
 
-- name: "Characters"
-  link: "/characters/"
+- name: Génesis  
+  link: /campaigns/genesis/
 
-- name: "Groups"
-  link: "/groups/"
+- name: La Fuerza Oculta
+  link: /campaigns/la-fuerza-oculta/
 
-- name: "World"
-  link: "/world-building/"
+- name: Personajes
+  link: /characters/
 
-- name: "Comics"
-  link: "/comics/"
+- name: Mundo
+  link: /world-building/
+EOF < /dev/null

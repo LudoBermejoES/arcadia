@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Furina"
+permalink: /characters/furina/
+---
+
 # Furina
 
 ## Presentación

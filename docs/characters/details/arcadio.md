@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Arcadio"
+permalink: /characters/arcadio/
+---
+
 # Arcadio
 
 ## Presentación

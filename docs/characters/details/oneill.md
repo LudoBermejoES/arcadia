@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Oneill"
+permalink: /characters/oneill/
+---
+
 # Oneill
 
 ## Presentación

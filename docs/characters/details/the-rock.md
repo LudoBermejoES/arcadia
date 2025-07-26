@@ -1,3 +1,9 @@
+---
+layout: page
+title: "The Rock"
+permalink: /characters/the-rock/
+---
+
 # The Rock
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ignacio Fuentes"
+permalink: /characters/ignacio-fuentes/
+---
+
 # Ignacio Fuentes
 
 ## Presentación

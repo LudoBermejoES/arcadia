@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ambientacion"
+permalink: /world-building/ambientacion/
+---
+
 # Historia de Arcadia
 
 ## De España a Arcadia en Veintiún Años

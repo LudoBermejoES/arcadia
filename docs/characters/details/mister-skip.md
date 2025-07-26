@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mister Skip"
+permalink: /characters/mister-skip/
+---
+
 # Mister Skip
 
 ## Presentación

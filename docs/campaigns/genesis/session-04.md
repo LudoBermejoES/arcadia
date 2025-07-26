@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Sesión 04"
+permalink: /campaigns/genesis/session-04/
+---
+
 ## **tiempo libre**
 
 Frase:   

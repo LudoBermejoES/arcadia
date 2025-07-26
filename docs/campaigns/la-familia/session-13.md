@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 13"
+permalink: /campaigns/la-familia/session-13/
+---
+
 ##   **Acelerador de almas**
 
 El gigante lanza un disco y una figura en túnica roja con voz femenina se presenta como "el barón Soledad" que reclama la furgoneta. Se supone que es el Baron que unta a las fuerzas de seguridad.

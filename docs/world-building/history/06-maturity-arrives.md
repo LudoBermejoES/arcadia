@@ -1,3 +1,9 @@
+---
+layout: page
+title: "06 Maturity Arrives"
+permalink: /world-building/06-maturity-arrives/
+---
+
 # LA MADUREZ LLEGA A ARCADIA
 
 A finales de Marzo de 1973 EEUU retiró sus tropas de Vietman. Los índices de popularidad de los metahumanos se dispararon. Los medios de comunicación comenzaron a trivializar los asuntos metahumanos; cualquier cosa que hicieran se convertía en noticia de primera plana e incluso la prensa amarilla comenzó a indagar en su vida privada. Se habían aceptado, convertido en parte de lo cotidiano. Ya no eran la revelación. Eran, simplemente, parte del panorama.

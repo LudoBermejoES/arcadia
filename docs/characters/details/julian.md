@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Julian"
+permalink: /characters/julian/
+---
+
 # Julián
 
 ## Presentación

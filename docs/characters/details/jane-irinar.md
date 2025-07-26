@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Jane Irinar"
+permalink: /characters/jane-irinar/
+---
+
 # Jane Irinar
 
 ## Presentación

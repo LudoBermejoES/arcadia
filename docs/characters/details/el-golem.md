@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Golem"
+permalink: /characters/el-golem/
+---
+
 # El Golem
 
 ## Presentación

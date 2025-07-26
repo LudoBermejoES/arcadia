@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 11"
+permalink: /campaigns/la-familia/session-11/
+---
+
 ## **De Afrodita a Sibila**
 
 "El magulla, el magulla, te deja la cara morá" \-El gitano

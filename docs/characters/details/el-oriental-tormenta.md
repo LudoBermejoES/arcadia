@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Oriental Tormenta"
+permalink: /characters/el-oriental-tormenta/
+---
+
 # El Oriental Tormenta
 
 ## Presentación

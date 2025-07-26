@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Senor De Las Ratas"
+permalink: /characters/el-senor-de-las-ratas/
+---
+
 # El Señor de las Ratas
 
 ## Presentación

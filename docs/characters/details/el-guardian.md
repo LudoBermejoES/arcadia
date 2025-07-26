@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Guardian"
+permalink: /characters/el-guardian/
+---
+
 # El Guardián
 
 ## Presentación

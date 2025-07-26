@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 34"
+permalink: /campaigns/la-familia/session-34/
+---
+
 ##  **Primer beso \-\> Todos y puntos al principio. No se ha pagado los fungibles a Ludo y Conchi**
 
 ## 

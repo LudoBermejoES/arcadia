@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mulciber"
+permalink: /characters/mulciber/
+---
+
 # Mulciber
 
 ## Presentación

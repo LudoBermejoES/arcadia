@@ -1,3 +1,9 @@
+---
+layout: page
+title: "05 Golden Age"
+permalink: /world-building/05-golden-age/
+---
+
 # LA EDAD DE ORO DE ARCADIA.
 
 En agosto de 1962, aviones espía estadounidenses fotografían trabajos de construcción soviética en Cuba. Dos meses después descubren la existencia de misiles balísticos. El 22 de octubre de ese año, el presidente estadounidense John Fitzgerald Kennedy anuncia su intención de bloquear por mar a la isla caribeña y exige a la URSS que desmantele el arsenal. Pronto da comienzo el diálogo diplomático entre Jruschov y Kennedy, en medio de una seria posibilidad de guerra nuclear. Jruschov acepta el 28 de octubre retirar el emplazamiento de los misiles y Kennedy levanta el bloqueo sobre Cuba. La crisis terminará pocos días después con la verificación de lo acordado.

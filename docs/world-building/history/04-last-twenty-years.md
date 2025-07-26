@@ -1,3 +1,9 @@
+---
+layout: page
+title: "04 Last Twenty Years"
+permalink: /world-building/04-last-twenty-years/
+---
+
 # EN LOS ÚLTIMOS VEINTE AÑOS
 
 Arcadia ha sufrido en los últimos años algunos altibajos. Las sucesivas crisis económicas han ido aumentando el número de parados, sobre todo los relacionados con la industria de la construcción. Por otra parte, los laboratorios construidos en los sesenta han sufrido diversas modificaciones y actualmente se compite en tecnología con paises de la talla de Japón y EEUU. 

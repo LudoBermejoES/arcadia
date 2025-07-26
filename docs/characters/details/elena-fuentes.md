@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Elena Fuentes"
+permalink: /characters/elena-fuentes/
+---
+
 # Elena Fuentes
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 23"
+permalink: /campaigns/la-familia/session-23/
+---
+
 ## **Cazadores de sueños \-\>Puntos de experiencia al final**
 
 participantes: todos meno Edu

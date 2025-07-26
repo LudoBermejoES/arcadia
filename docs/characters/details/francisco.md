@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Francisco"
+permalink: /characters/francisco/
+---
+
 # Francisco
 
 ## Presentación

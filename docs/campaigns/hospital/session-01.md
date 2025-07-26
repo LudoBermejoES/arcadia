@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hospital - Sesión 01"
+permalink: /campaigns/hospital/session-01/
+---
+
 # Partida hospital 01
 
 EL HOSPITAL MALDITO

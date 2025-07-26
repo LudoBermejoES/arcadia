@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Inacio La Fuente"
+permalink: /characters/inacio-la-fuente/
+---
+
 # Inácio la Fuente
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hospital - Index"
+permalink: /campaigns/hospital/index/
+---
+
 # Hospital
 ## Campaña Especial - Thriller Médico Metahumano
 

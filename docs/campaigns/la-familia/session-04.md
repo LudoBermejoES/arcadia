@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 04"
+permalink: /campaigns/la-familia/session-04/
+---
+
 ## **Visitando a los clásicos**
 
 \-En la barbería conocemos a un barbero extremadamente alto con manos excepcionalmente largas que además resulta ser un mentalista.

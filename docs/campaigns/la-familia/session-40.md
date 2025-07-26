@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 40"
+permalink: /campaigns/la-familia/session-40/
+---
+
 ## **Fiesta rave \-\>Todos y puntos de experiencia**
 
 Jandro imaginando quién puede ser una de las clientas:\> "Ven pacá moreno que te voy a dar un puesto en el ayuntamiento de madrid"   

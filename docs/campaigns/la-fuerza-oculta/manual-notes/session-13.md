@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 13"
+permalink: /campaigns/la-fuerza-oculta/session-13/
+---
+
 # PARTIDA SUPERHÉROES 13
 
 Estamos:

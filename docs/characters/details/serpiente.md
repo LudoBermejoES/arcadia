@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Serpiente"
+permalink: /characters/serpiente/
+---
+
 # Serpiente
 
 ## Presentación

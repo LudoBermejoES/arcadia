@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 33"
+permalink: /campaigns/la-familia/session-33/
+---
+
 ## **home run, bate \-\> Todos y puntos al principio**
 
 Dinámica huida por entre los rascacielos

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 07"
+permalink: /campaigns/la-familia/session-07/
+---
+
 ##  **El clonario**
 
 Recibimos la fregoneta  tuneada con vinilos, al parecer la pintura no se le queda pegada

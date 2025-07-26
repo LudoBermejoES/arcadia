@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Aldonza Lorenzo"
+permalink: /characters/aldonza-lorenzo/
+---
+
 # Aldonza Lorenzo
 
 ## Presentación

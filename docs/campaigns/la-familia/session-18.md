@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 18"
+permalink: /campaigns/la-familia/session-18/
+---
+
 ##   **Prision Break**  
 
 Asistentes: todos

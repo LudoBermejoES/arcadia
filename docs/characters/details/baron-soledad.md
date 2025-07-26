@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Baron Soledad"
+permalink: /characters/baron-soledad/
+---
+
 # Barón Soledad
 
 ## Presentación

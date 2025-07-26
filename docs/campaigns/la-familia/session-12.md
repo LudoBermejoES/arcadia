@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 12"
+permalink: /campaigns/la-familia/session-12/
+---
+
 ## **Acaso no sangro como vosotros**
 
 La recién llegada dice que Ignacio le había dado la llave por si sucedía algo y que llevaba varios dias sin ir al trabajo. Esto choca con lo que nos había dicho su hermana de que estaba de excedencia. 

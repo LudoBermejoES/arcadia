@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 03"
+permalink: /campaigns/la-fuerza-oculta/session-03/
+---
+
 # PARTIDA SUPERHÉROES 03
 
 En la retransmisión aparece el presentador y dice que la Baronesa, que es una supervillana que colabora para reducir pena, ha empezado a hacerselo dificil a los jugadores. 

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 21"
+permalink: /campaigns/la-fuerza-oculta/session-21/
+---
+
 # Partida superhéroes 21
 
 Grandes preguntas sobre el supergrupo. 

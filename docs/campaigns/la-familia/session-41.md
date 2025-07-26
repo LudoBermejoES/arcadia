@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 41"
+permalink: /campaigns/la-familia/session-41/
+---
+
 ## **Zona Cero**
 
 Al día siguiente Garra ha envejecido hasta los 20 años. Parece que no envejece mas

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 08"
+permalink: /campaigns/la-familia/session-08/
+---
+
 ## **Dias del futuro pasado**
 
 nada mas empezar a hablar de lsd, descubren que es el ex de mesmero (cortesia de bate)

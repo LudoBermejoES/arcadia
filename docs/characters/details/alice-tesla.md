@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alice Tesla"
+permalink: /characters/alice-tesla/
+---
+
 # Alice / Tesla
 
 ## Presentación

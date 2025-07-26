@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 02"
+permalink: /campaigns/la-fuerza-oculta/session-02/
+---
+
 # PARTIDA SUPERHÉROES 02
 
 **Partida 24/3/2024**

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Las Monjas Del Albergue"
+permalink: /characters/las-monjas-del-albergue/
+---
+
 # Las Monjas del Albergue
 
 ## Presentación

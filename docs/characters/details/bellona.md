@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Bellona"
+permalink: /characters/bellona/
+---
+
 # Bellona
 
 ## Presentación

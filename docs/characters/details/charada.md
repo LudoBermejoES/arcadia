@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Charada"
+permalink: /characters/charada/
+---
+
 # Charada
 
 ## Presentación

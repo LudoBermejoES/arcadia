@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 16"
+permalink: /campaigns/la-fuerza-oculta/session-16/
+---
+
 # PARTIDA SUPERHÉROES 16
 
 ASISTEN:

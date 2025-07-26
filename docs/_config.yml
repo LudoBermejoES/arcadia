@@ -49,13 +49,19 @@ exclude:
 collections:
   campaigns:
     output: true
-    permalink: /:collection/:name/
+    permalink: /campaigns/:name/
+  characters:
+    output: true
+    permalink: /characters/:name/
+  world-building:
+    output: true
+    permalink: /world-building/:name/
   sessions:
     output: true
-    permalink: /:collection/:name/
+    permalink: /sessions/:name/
   comics:
     output: true
-    permalink: /:collection/:name/
+    permalink: /comics/:name/
 
 # SEO settings
 lang: es

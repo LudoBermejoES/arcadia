@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Index"
+permalink: /campaigns/la-familia/index/
+---
+
 # La Familia
 ## Primera Campaña - Los Fundadores (2010-2015)
 

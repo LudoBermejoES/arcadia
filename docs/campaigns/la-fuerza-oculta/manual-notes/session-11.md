@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 11"
+permalink: /campaigns/la-fuerza-oculta/session-11/
+---
+
 # PARTIDA SUPERHÉROES 11
 
 Estamos:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "01 Arcadia First Steps"
+permalink: /world-building/01-arcadia-first-steps/
+---
+
 # ARCADIA. PRIMEROS PASOS
 
 Los ejércitos alemanes marcharon sobre Polonia a primeras horas de la mañana del 1 de septiembre de 1939. Los británicos y los franceses declararon la guerra a Alemania el 3 de septiembre. Comenzaba la segunda guerra mundial. 

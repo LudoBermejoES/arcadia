@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Los Espligan"
+permalink: /characters/los-espligan/
+---
+
 # Los Espligan
 
 ## Presentación

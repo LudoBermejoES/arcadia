@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 10"
+permalink: /campaigns/la-familia/session-10/
+---
+
 ##  **La casa de Asterión**
 
 Bate (alzando el cuerpo inconsciente de Faraón, que se ha ido de viaje astral) \-¿Ha adelgazado?  

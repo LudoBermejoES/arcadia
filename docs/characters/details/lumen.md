@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lumen"
+permalink: /characters/lumen/
+---
+
 # Lumen
 
 ## Presentación

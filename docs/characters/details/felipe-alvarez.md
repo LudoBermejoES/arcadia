@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Felipe Alvarez"
+permalink: /characters/felipe-alvarez/
+---
+
 # Felipe Álvarez
 
 ## Información Básica

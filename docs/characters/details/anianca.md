@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Anianca"
+permalink: /characters/anianca/
+---
+
 # Anianca
 
 ## Presentación

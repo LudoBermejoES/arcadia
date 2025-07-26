@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 26"
+permalink: /campaigns/la-familia/session-26/
+---
+
 ##  **El ataque de los monos dorados de la Emperatriz de Jade en la Plaza de Goliat \-\> todos y puntos al final**
 
 \* Soy el faraón  

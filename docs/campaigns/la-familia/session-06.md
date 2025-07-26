@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 06"
+permalink: /campaigns/la-familia/session-06/
+---
+
 ##  **La fregoneta**
 
 ''-¿Tu crees que soy un mal padre?  

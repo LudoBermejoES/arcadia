@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Fidel Castro"
+permalink: /characters/fidel-castro/
+---
+
 # Fidel Castro
 
 ## Información Básica

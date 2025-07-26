@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hassir"
+permalink: /characters/hassir/
+---
+
 # Hassir
 
 ## Presentación

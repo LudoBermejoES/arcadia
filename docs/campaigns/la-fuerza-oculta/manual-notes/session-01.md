@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 01"
+permalink: /campaigns/la-fuerza-oculta/session-01/
+---
+
 # PARTIDA SUPERHÉROES 01
 
 **Comienza la partida**

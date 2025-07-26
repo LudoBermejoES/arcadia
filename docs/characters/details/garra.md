@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Garra"
+permalink: /characters/garra/
+---
+
 # Garra
 
 ## Presentación

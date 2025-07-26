@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Emperador Oscuro"
+permalink: /characters/el-emperador-oscuro/
+---
+
 # El Emperador Oscuro
 
 ## Presentación

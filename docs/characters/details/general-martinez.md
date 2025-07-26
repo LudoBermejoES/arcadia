@@ -1,3 +1,9 @@
+---
+layout: page
+title: "General Martinez"
+permalink: /characters/general-martinez/
+---
+
 # General Martínez
 
 ## Presentación

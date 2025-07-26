@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Juan Guzman"
+permalink: /characters/juan-guzman/
+---
+
 # Juan Guzmán
 
 ## Presentación

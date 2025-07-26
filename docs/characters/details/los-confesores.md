@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Los Confesores"
+permalink: /characters/los-confesores/
+---
+
 # Los Confesores
 
 ## Presentación

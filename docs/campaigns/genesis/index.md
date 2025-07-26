@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Index"
+permalink: /campaigns/genesis/index/
+---
+
 # Génesis
 ## Segunda Campaña - La Nueva Generación (2015-2020)
 

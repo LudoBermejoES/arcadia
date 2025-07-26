@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Trueno"
+permalink: /characters/trueno/
+---
+
 # Trueno
 
 ## Información Básica

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Yeng"
+permalink: /characters/yeng/
+---
+
 # Yeng
 
 ## Presentación

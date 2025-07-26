@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Comadreja Negra"
+permalink: /characters/comadreja-negra/
+---
+
 # Comadreja Negra
 
 ## Presentación

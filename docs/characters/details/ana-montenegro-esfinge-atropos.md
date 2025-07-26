@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ana Montenegro Esfinge Atropos"
+permalink: /characters/ana-montenegro-esfinge-atropos/
+---
+
 # Ana Montenegro / Esfinge / Atropos
 
 ## Presentación

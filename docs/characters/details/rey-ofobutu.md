@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Rey Ofobutu"
+permalink: /characters/rey-ofobutu/
+---
+
 # Rey Ofobutu
 
 ## Presentación

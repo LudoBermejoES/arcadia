@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Adan"
+permalink: /characters/adan/
+---
+
 # ADAN
 
 ## Presentación

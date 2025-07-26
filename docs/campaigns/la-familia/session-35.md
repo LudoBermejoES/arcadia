@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 35"
+permalink: /campaigns/la-familia/session-35/
+---
+
 ##  **El suelo bajo nuestros pies  \-\> Bate 3 pf, Edu 2 pf, Mesmero 4 pf** 
 
 El faraón abre la puerta y deja pasar a bate... que desaparece. Mesmero no nota mentes, pero el Faraón nota una perturbación en la magia.

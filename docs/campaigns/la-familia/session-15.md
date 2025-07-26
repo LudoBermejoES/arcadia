@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 15"
+permalink: /campaigns/la-familia/session-15/
+---
+
 ## **En el cubil de las Bestias**
 
 (Bate, Garra y Mésmero)

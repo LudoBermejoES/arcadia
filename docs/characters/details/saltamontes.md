@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Saltamontes"
+permalink: /characters/saltamontes/
+---
+
 # Saltamontes
 
 ## Presentación

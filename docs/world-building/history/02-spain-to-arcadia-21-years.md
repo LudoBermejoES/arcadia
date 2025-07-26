@@ -1,3 +1,9 @@
+---
+layout: page
+title: "02 Spain To Arcadia 21 Years"
+permalink: /world-building/02-spain-to-arcadia-21-years/
+---
+
 # DE ESPAÑA A ARCADIA EN VEINTIÚN AÑOS
 
 En 1920, el afamado arquitecto, científico y empresario Marius Fernandez presentó a los responsables de proyectos del gobierno español una serie de planos para diseñar lo que él consideraba sería la mayor obra arquitectónica realizada desde la última maravilla del mundo; una ciudad que tomaría las referencias arquitectónicas más influyentes de varias épocas recreándolas

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Antonio Calvero"
+permalink: /characters/antonio-calvero/
+---
+
 # Antonio Calvero
 
 ## Presentación

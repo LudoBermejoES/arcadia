@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Fatum - Index"
+permalink: /campaigns/fatum/index/
+---
+
 # Fatum Corporation
 ## El Imperio Criminal de Arcadia
 

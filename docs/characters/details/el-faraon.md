@@ -1,3 +1,9 @@
+---
+layout: page
+title: "El Faraon"
+permalink: /characters/el-faraon/
+---
+
 # El Faraón
 
 ## Presentación

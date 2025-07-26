@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Autoridad"
+permalink: /characters/autoridad/
+---
+
 # Autoridad
 
 ## Información Básica

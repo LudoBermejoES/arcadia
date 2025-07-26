@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Hermes"
+permalink: /characters/hermes/
+---
+
 # Hermes
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "David"
+permalink: /characters/david/
+---
+
 # David
 
 ## Presentación

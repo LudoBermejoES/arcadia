@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alonso Dossantos"
+permalink: /characters/alonso-dossantos/
+---
+
 # Alonso Dossantos
 
 ## Presentación

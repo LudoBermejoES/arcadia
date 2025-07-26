@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 08"
+permalink: /campaigns/la-fuerza-oculta/session-08/
+---
+
 # PARTIDA SUPERHÉROES 08
 
 Presentes:

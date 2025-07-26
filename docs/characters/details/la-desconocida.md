@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Desconocida"
+permalink: /characters/la-desconocida/
+---
+
 # La Desconocida
 
 ## Información Básica

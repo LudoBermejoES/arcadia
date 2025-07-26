@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Jruschov"
+permalink: /characters/jruschov/
+---
+
 # Jruschov
 
 ## Información Básica

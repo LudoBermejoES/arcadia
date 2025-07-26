@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Magdalena"
+permalink: /characters/magdalena/
+---
+
 # Magdalena
 
 ## Presentación

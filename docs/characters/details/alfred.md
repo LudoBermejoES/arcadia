@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alfred"
+permalink: /characters/alfred/
+---
+
 # Alfred
 
 ## Presentación

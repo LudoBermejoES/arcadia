@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Bastet"
+permalink: /characters/bastet/
+---
+
 # Bastet
 
 ## Presentación

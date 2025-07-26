@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - 2025-07-13-Gemini-Notes"
+permalink: /campaigns/la-fuerza-oculta/2025-07-13-gemini-notes/
+---
+
 📝 Notas
 
 13 jul 2025

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 17"
+permalink: /campaigns/la-familia/session-17/
+---
+
 ##  **Iluminación en la catedral**
 
 Mientras está en casa, Esfinge nota algo extraño, ve aparecer a Estocada y nota que tiene dos lineas de recuerdos. En una de ellas Estocada nunca dejó de pasarse por casa

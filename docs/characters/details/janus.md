@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Janus"
+permalink: /characters/janus/
+---
+
 # Janus
 
 ## Presentación

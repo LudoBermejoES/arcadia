@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Gregor"
+permalink: /characters/gregor/
+---
+
 # Gregor
 
 ## Presentación

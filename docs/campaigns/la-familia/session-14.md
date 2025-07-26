@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 14"
+permalink: /campaigns/la-familia/session-14/
+---
+
 ##  **Un debut mosqueante**
 
 Bate averigua todo lo posible sobre el juicio de la mujer a la que tenemos que rescatar

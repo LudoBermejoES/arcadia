@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Lucifer Entidad"
+permalink: /characters/lucifer-entidad/
+---
+
 # Lucifer (Entidad Antigua)
 
 ## Presentación

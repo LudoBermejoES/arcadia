@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 32"
+permalink: /campaigns/la-familia/session-32/
+---
+
 ##   **La tumba del faraón \-\> Todos y puntos al principio** 
 
 Bajamos despacio, Garra sujetando a Atropos (para poder sujetarle con las garras de energía) Su piel sigue siendo normal, aunque muy blanca y flaca.

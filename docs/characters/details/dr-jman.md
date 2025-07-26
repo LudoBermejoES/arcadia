@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Dr Jman"
+permalink: /characters/dr-jman/
+---
+
 # Dr. Jman
 
 ## Presentación

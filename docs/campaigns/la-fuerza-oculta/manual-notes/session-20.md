@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 20"
+permalink: /campaigns/la-fuerza-oculta/session-20/
+---
+
 # Partida superheroes 20
 
 Antecedentes, nos llevaron a un piso franco. Separan a las parejas. 

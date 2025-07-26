@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Diablo"
+permalink: /characters/diablo/
+---
+
 # Diablo
 
 ## Presentación

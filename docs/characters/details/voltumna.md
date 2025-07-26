@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Voltumna"
+permalink: /characters/voltumna/
+---
+
 # Voltumna
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 17"
+permalink: /campaigns/la-fuerza-oculta/session-17/
+---
+
 # PARTIDA SUPERHÉROES 17
 
 Asisten:

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Sara10 Mecanica"
+permalink: /characters/sara10-mecanica/
+---
+
 # Sara10 / Mecánica
 
 ## Presentación

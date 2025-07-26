@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 22"
+permalink: /campaigns/la-fuerza-oculta/session-22/
+---
+
 # Partida superhéroes 22
 
 Asistimos todos. 

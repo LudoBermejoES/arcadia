@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Anarquista"
+permalink: /characters/anarquista/
+---
+
 # Anarquista
 
 ## Información Básica

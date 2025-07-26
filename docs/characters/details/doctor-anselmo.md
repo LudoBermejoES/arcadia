@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Doctor Anselmo"
+permalink: /characters/doctor-anselmo/
+---
+
 # Doctor Anselmo
 
 ## Presentación

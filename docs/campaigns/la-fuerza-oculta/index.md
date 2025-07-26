@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Index"
+permalink: /campaigns/la-fuerza-oculta/index/
+---
+
 # La Fuerza Oculta
 ## Tercera Campaña - Los Nuevos Héroes (2020-2025)
 

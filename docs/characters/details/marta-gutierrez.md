@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Marta Gutierrez"
+permalink: /characters/marta-gutierrez/
+---
+
 # Marta Gutierrez
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Federico Lopez"
+permalink: /characters/federico-lopez/
+---
+
 # Federico López
 
 ## Presentación

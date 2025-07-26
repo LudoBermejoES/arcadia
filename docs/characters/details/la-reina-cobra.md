@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Reina Cobra"
+permalink: /characters/la-reina-cobra/
+---
+
 # La Reina Cobra
 
 ## Presentación

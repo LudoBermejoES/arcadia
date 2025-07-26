@@ -1,3 +1,11 @@
+---
+layout: page
+title: "Fatum - Grupo de Supervillanos"
+permalink: /campaigns/fatum/
+---
+
+# Fatum
+
 Fatum es una familia de supervillanos que está emparentada con el personaje de Diana, de "La fuerza oculta". Pero no forman parte de la Fuerza Oculta, forman su propio grupo de supervillanos, llamados Fatum.
 
 Fatum es un grupo de supervillanos, con nombre de dioses etrusco-romanos. No solo son villanos, sino que son excepcionalmente ricos. Poseen muchas antiguedades y posesiones muy valiosas. Son 5 villanos muy poderosos unidos por lazos familiares. Uno de ellos murió hace unos años. 

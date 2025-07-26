@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Las Hermanas Magdalena"
+permalink: /characters/las-hermanas-magdalena/
+---
+
 # Las Hermanas Magdalena
 
 ## Presentación

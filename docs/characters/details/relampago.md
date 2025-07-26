@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Relampago"
+permalink: /characters/relampago/
+---
+
 # Relámpago
 
 ## Información Básica

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Baronesa"
+permalink: /characters/la-baronesa/
+---
+
 # La Baronesa
 
 ## Presentación

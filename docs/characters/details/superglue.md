@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Superglue"
+permalink: /characters/superglue/
+---
+
 # SuperGlue
 
 ## Presentación

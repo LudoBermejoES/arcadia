@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 23"
+permalink: /campaigns/la-fuerza-oculta/session-23/
+---
+
 # Partida superhéroes 23
 
 El sastre se llama Charada. Fue bastante famoso en los 90 por robarle parte de la clientela a “el Sastre”. No le sentó bien sobre todo porque le quitó la confección y diseño del traje de Arcadio. 

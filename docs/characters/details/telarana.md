@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Telarana"
+permalink: /characters/telarana/
+---
+
 # Telaraña
 
 ## Presentación

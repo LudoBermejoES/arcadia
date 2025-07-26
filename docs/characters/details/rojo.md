@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Rojo"
+permalink: /characters/rojo/
+---
+
 # Rojo
 
 ## Presentación

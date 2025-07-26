@@ -1,3 +1,9 @@
+---
+layout: page
+title: "John F Kennedy"
+permalink: /characters/john-f-kennedy/
+---
+
 # John F. Kennedy
 
 ## Información Básica

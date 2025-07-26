@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - 2025-06-22-Gemini-Notes"
+permalink: /campaigns/la-fuerza-oculta/2025-06-22-gemini-notes/
+---
+
 # Sesión La Fuerza Oculta - 22 de Junio 2025
 
 ## Resumen Narrativo Detallado

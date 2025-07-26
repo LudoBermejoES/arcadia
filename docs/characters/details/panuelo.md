@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Panuelo"
+permalink: /characters/panuelo/
+---
+
 # Pañuelo
 
 ## Presentación

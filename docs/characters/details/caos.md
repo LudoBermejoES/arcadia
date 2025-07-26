@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Caos"
+permalink: /characters/caos/
+---
+
 # Caos
 
 ## Información Básica

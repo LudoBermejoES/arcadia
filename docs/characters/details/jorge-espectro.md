@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Jorge Espectro"
+permalink: /characters/jorge-espectro/
+---
+
 # Jorge / Espectro
 
 ## Presentación

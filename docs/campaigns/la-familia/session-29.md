@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 29"
+permalink: /campaigns/la-familia/session-29/
+---
+
 ##   **Cruzando el Rubicón \-\> todos**
 
 El retroclón bloquea las mentes de trino y de la familia del alcalde

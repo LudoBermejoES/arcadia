@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Index"
+permalink: /world-building/index/
+---
+
 # Worldbuilding de Arcadia
 ## El Universo Completo en 15 Años de Construcción
 

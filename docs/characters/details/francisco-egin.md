@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Francisco Egin"
+permalink: /characters/francisco-egin/
+---
+
 # Francisco Egin
 
 ## Presentación

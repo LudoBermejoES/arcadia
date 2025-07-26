@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Bailarina"
+permalink: /characters/bailarina/
+---
+
 # Bailarina
 
 ## Presentación

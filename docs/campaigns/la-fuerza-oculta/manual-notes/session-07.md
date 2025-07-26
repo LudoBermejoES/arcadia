@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Sesión 07"
+permalink: /campaigns/la-fuerza-oculta/session-07/
+---
+
 # PARTIDA SUPERHÉROES 07
 
 Presentes:

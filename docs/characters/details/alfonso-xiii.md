@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alfonso Xiii"
+permalink: /characters/alfonso-xiii/
+---
+
 # Alfonso XIII
 
 ## Presentación

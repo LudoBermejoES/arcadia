@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 02"
+permalink: /campaigns/la-familia/session-02/
+---
+
 ##  **La farándula en el museo**
 
 Estando en el gimnasio de La Comadreja, se recibe noticia de que la farándula ha asaltado el museo de historia metahumana y tiene rehenes. En el museo se guarda entre otras cosas la bomba atómica que tiraron sobre arcadia que se encuentra encerrada en un campo se éxtasis

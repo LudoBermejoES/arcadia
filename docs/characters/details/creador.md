@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Creador"
+permalink: /characters/creador/
+---
+
 # Creador
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Index"
+permalink: /campaigns/la-fuerza-oculta/index/
+---
+
 # Sesiones de La Fuerza Oculta
 ## Archivo Cronológico Completo
 

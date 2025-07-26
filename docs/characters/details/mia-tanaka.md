@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Mia Tanaka"
+permalink: /characters/mia-tanaka/
+---
+
 # Mia Tanaka
 
 ## Presentación

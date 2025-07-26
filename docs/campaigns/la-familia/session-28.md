@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 28"
+permalink: /campaigns/la-familia/session-28/
+---
+
 ##  **Las más altas esferas \-\> todos**
 
 ## 

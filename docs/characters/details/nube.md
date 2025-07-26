@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Nube"
+permalink: /characters/nube/
+---
+
 # Nube
 
 ## Presentación

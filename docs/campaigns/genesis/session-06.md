@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Genesis - Sesión 06"
+permalink: /campaigns/genesis/session-06/
+---
+
 ## **Al otro lado del espejo**
 
 Apoyado en la puerta de entrada, hay un crinos. Raza nota que no huele a Crinos, sino a Ozono, y que no solo es un Crinos, sino que parece él mismo en Crinos. Notamos que aunque deja huellas en el suelo, es como si parpadeara. Cae al suelo, cada vez más débil y como si encogiera cada vez más. 

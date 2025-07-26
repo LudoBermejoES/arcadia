@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Alberto Alvarez"
+permalink: /characters/alberto-alvarez/
+---
+
 # Alberto Álvarez
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Senora Pepa"
+permalink: /characters/senora-pepa/
+---
+
 # Señora Pepa
 
 ## Presentación

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Ego"
+permalink: /characters/ego/
+---
+
 # EGO
 
 ## Presentación

@@ -1,13 +1,13 @@
 ---
 layout: page
-title: "La Fuerza Oculta - Index"
-permalink: /campaigns/la-fuerza-oculta/index/
+title: "La Fuerza Oculta - Sesiones"
+permalink: /campaigns/la-fuerza-oculta/sessions/
 ---
 
 # Sesiones de La Fuerza Oculta
 ## Archivo Cronológico Completo
 
-[← Volver a La Fuerza Oculta](../index.md) | [← Índice Principal](../../../index.md)
+[← Volver a La Fuerza Oculta](/campaigns/la-fuerza-oculta/) | [← Índice Principal](/)
 
 ---
 

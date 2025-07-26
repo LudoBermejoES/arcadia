@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "Index"
-permalink: /world-building/index/
+title: "Worldbuilding de Arcadia"
+permalink: /world-building/
 ---
 
 # Worldbuilding de Arcadia
@@ -55,47 +55,47 @@ Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlánti
 
 ## 📚 **Historia Cronológica Completa**
 
-### **📋 [Visión General Histórica](history/history-overview.md)**
+### **📋 [Visión General Histórica](/world-building/history-overview/)**
 Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ### **🕰️ Eras Históricas Documentadas**
 
-#### **[01 - Primeros Pasos de Arcadia](history/01-arcadia-first-steps.md)**
+#### **[01 - Primeros Pasos de Arcadia](/world-building/01-arcadia-first-steps/)**
 **Los Orígenes Misteriosos**
 - **Fundación Legendaria**: Los primeros pobladores y las fuerzas que los atrajeron
 - **Aparición de Poderes**: Los primeros metahumanos documentados
 - **Establecimiento de Tradiciones**: Costumbres que perduran hasta hoy
 - **Mitos Fundacionales**: Leyendas que explican la naturaleza única de la isla
 
-#### **[02 - De España a Arcadia: 21 Años](history/02-spain-to-arcadia-21-years.md)**  
+#### **[02 - De España a Arcadia: 21 Años](/world-building/02-spain-to-arcadia-21-years/)**  
 **La Gran Transición**
 - **Éxodo Español**: Las razones de la gran migración
 - **Establecimiento de la Colonia**: Primeros asentamientos organizados
 - **Integración Cultural**: Fusión de tradiciones españolas con elementos únicos
 - **Desarrollo de Infraestructura**: Construcción de la ciudad moderna
 
-#### **[03 - El Despertar de Arcadia](history/03-arcadia-awakening.md)**
+#### **[03 - El Despertar de Arcadia](/world-building/03-arcadia-awakening/)**
 **El Nacimiento de la Era Metahumana**
 - **Primera Generación Meta**: Los pioneros de poderes sobrenaturales
 - **Reacciones Sociales**: Cómo la sociedad se adaptó a los metahumanos
 - **Establecimiento de Normas**: Las primeras leyes y regulaciones
 - **Conflictos Iniciales**: Tensiones entre humanos y metahumanos
 
-#### **[04 - Los Últimos 20 Años](history/04-last-twenty-years.md)**
+#### **[04 - Los Últimos 20 Años](/world-building/04-last-twenty-years/)**
 **La Era Moderna Pre-Heroica**
 - **Consolidación Social**: Integración completa de metahumanos
 - **Desarrollo Tecnológico**: Avances únicos impulsados por poderes
 - **Crecimiento Económico**: Arcadia como potencia independiente
 - **Preparación del Escenario**: Condiciones para el surgimiento heroico
 
-#### **[05 - La Edad Dorada](history/05-golden-age.md)**
+#### **[05 - La Edad Dorada](/world-building/05-golden-age/)**
 **El Apogeo Heroico (Era de La Familia)**
 - **Surgimiento de La Familia**: Los primeros superhéroes organizados
 - **Hazañas Legendarias**: Las aventuras que definieron el heroísmo
 - **Aceptación Pública**: Los héroes como figuras culturales
 - **Establecimiento de Tradiciones**: Códigos y protocolos heroicos
 
-#### **[06 - Llega la Madurez](history/06-maturity-arrives.md)**
+#### **[06 - Llega la Madurez](/world-building/06-maturity-arrives/)**
 **Tiempos Complejos (Era Actual)**
 - **Generaciones Posteriores**: Génesis y La Fuerza Oculta
 - **Complejidad Moral**: Dilemas éticos más sofisticados
@@ -106,7 +106,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ## 🏛️ **Estructura Social**
 
-### **👥 [Sociedad Arcadiana](society/arcadia-society.md)**
+### **👥 [Sociedad Arcadiana](/world-building/arcadia-society/)**
 **Un Experimento Social Único**
 
 #### **🎭 Clases Sociales Metahumanas**
@@ -138,7 +138,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ## 💰 **Sistema Económico**
 
-### **🏦 [Economía de Arcadia](economy/arcadia-economy.md)**
+### **🏦 [Economía de Arcadia](/world-building/arcadia-economy/)**
 **Un Modelo Económico Revolucionario**
 
 #### **💎 Sectores Económicos Únicos**
@@ -256,37 +256,12 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ### **🎲 Métricas del Universo**
 
-<div class="stats-grid">
-<div class="stat-card">
-<span class="stat-number">15</span>
-<span class="stat-label">Años de Desarrollo</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">6</span>
-<span class="stat-label">Eras Históricas</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">12</span>
-<span class="stat-label">Distritos Urbanos</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">200+</span>
-<span class="stat-label">Personajes Únicos</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">50+</span>
-<span class="stat-label">Organizaciones</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">100+</span>
-<span class="stat-label">Ubicaciones Detalladas</span>
-</div>
-</div>
+- **15** Años de Desarrollo
+- **6** Eras Históricas  
+- **12** Distritos Urbanos
+- **200+** Personajes Únicos
+- **50+** Organizaciones
+- **100+** Ubicaciones Detalladas
 
 ---
 
@@ -294,16 +269,16 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ### **🗺️ Por Aspecto del Mundo**
 - **[🏝️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
-- **[📚 Historia](history/history-overview.md)** - El pasado que define el presente
-- **[👥 Sociedad](society/arcadia-society.md)** - Cómo viven los arcadianos
-- **[💰 Economía](economy/arcadia-economy.md)** - El sistema financiero único
+- **[📚 Historia](/world-building/history-overview/)** - El pasado que define el presente
+- **[👥 Sociedad](/world-building/arcadia-society/)** - Cómo viven los arcadianos
+- **[💰 Economía](/world-building/arcadia-economy/)** - El sistema financiero único
 
 ### **⏰ Por Período Histórico**
-- **[🌅 Orígenes](history/01-arcadia-first-steps.md)** - Los primeros días
-- **[🏗️ Construcción](history/02-spain-to-arcadia-21-years.md)** - Establecimiento de la sociedad
-- **[⚡ Despertar](history/03-arcadia-awakening.md)** - El surgimiento meta
-- **[🏛️ Edad Dorada](history/05-golden-age.md)** - La era heroica clásica
-- **[🔮 Era Moderna](history/06-maturity-arrives.md)** - Complejidad actual
+- **[🌅 Orígenes](/world-building/01-arcadia-first-steps/)** - Los primeros días
+- **[🏗️ Construcción](/world-building/02-spain-to-arcadia-21-years/)** - Establecimiento de la sociedad
+- **[⚡ Despertar](/world-building/03-arcadia-awakening/)** - El surgimiento meta
+- **[🏛️ Edad Dorada](/world-building/05-golden-age/)** - La era heroica clásica
+- **[🔮 Era Moderna](/world-building/06-maturity-arrives/)** - Complejidad actual
 
 ### **🎭 Por Elemento Cultural**
 - **🦸‍♂️ Tradiciones Heroicas** - Códigos y ceremonias
@@ -318,8 +293,8 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ### **🚀 Enlaces Rápidos**
 - **[🎭 Ambientación](/world-building/ambientacion/)** - Introducción al universo
 - **[🗺️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
-- **[📚 Historia](history/history-overview.md)** - Cronología completa
-- **[👥 Sociedad](society/arcadia-society.md)** - Estructura social
+- **[📚 Historia](/world-building/history-overview/)** - Cronología completa
+- **[👥 Sociedad](/world-building/arcadia-society/)** - Estructura social
 
 ---
 

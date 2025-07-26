@@ -30,6 +30,11 @@ kramdown:
   input: GFM
   syntax_highlighter: rouge
 
+# SCSS/Sass settings
+sass:
+  style: compressed
+  sass_dir: _sass
+
 # Exclude from processing
 exclude:
   - Gemfile

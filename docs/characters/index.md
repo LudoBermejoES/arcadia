@@ -1,3 +1,9 @@
+---
+layout: comics-page
+title: "Personajes de Arcadia"
+description: "200+ Héroes, Villanos y Aliados"
+---
+
 # Base de Datos de Personajes
 ## El Panteón Completo de Arcadia
 

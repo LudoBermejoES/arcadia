@@ -1,3 +1,9 @@
+---
+layout: comics-default
+title: "Proyecto Arcadia"
+description: "15 Años de RPG Superheroico"
+---
+
 # Proyecto de Partidas de Rol de Superhéroes
 
 ## 15 Años de Aventuras Épicas en Arcadia

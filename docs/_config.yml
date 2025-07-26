@@ -4,11 +4,12 @@ baseurl: ""
 url: "https://LudoBermejoES.github.io/arcadia"
 
 # GitHub Pages configuration
-theme: minima
+remote_theme: Jagjeet/comicbook-theme
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-remote-theme
 
 # Navigation
 header_pages:
@@ -46,6 +47,9 @@ collections:
     output: true
     permalink: /:collection/:name/
   sessions:
+    output: true
+    permalink: /:collection/:name/
+  comics:
     output: true
     permalink: /:collection/:name/
 

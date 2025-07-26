@@ -1,3 +1,9 @@
+---
+layout: comics-page
+title: "Campañas de Arcadia"
+description: "15 Años de Aventuras Épicas"
+---
+
 # Campañas de Arcadia
 ## 15 Años de Aventuras Épicas
 

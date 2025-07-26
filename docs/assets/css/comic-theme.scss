@@ -17,6 +17,16 @@ h1, h2, h3, h4, h5, h6 {
     color: #333;
 }
 
+/* General links - only applies to links without specific color rules */
+a {
+    color: #a349a4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .top-nav {
     background-color: #e60026; /* Orange */
     padding: 1rem;

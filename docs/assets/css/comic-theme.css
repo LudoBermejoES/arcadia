@@ -23,6 +23,16 @@ h4 { font-size: 2.5rem; }
 h5 { font-size: 2rem; }
 h6 { font-size: 1.5rem; }
 
+/* General links - only applies to links without specific color rules */
+a {
+    color: #a349a4;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
 .top-nav {
     background-color: #e60026; /* Orange */
     padding: 1rem;
@@ -45,7 +55,7 @@ h6 { font-size: 1.5rem; }
 }
 
 .top-nav a:hover {
-    background-color: #FF4500;
+    background-color: #b8001d;
 }
 
 main {

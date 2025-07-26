@@ -1,0 +1,246 @@
+/* ARCADIA COMIC BOOK THEME - DIRECT CSS VERSION */
+@import url("https://fonts.googleapis.com/css?family=Bangers|Special+Elite");
+
+body {
+    font-family: "Special Elite", cursive;
+    background-color: #87CEEB; /* Sky blue */
+    color: #333;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Bangers", cursive;
+    color: #333;
+    line-height: 1.2;
+}
+
+h1 { font-size: 4rem; }
+h2 { font-size: 3.5rem; }
+h3 { font-size: 3rem; }
+h4 { font-size: 2.5rem; }
+h5 { font-size: 2rem; }
+h6 { font-size: 1.5rem; }
+
+.top-nav {
+    background-color: #FF6347; /* Orange */
+    padding: 1rem;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 4px solid #333;
+    margin: 2rem 2% 0 2%;
+    overflow: hidden;
+}
+
+.top-nav a {
+    color: white;
+    text-decoration: none;
+    padding: 14px 16px;
+    font-family: "Bangers", cursive;
+    font-size: 1.5rem;
+    float: left;
+    display: block;
+    text-align: center;
+    transition: background-color 0.3s;
+}
+
+.top-nav a:hover {
+    background-color: #FF4500;
+}
+
+main {
+    background-color: white;
+    margin: 2rem 5% 4rem 5%;
+    padding: 2rem 2% 8rem 2%;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 4px solid #333;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    min-width: 14em;
+}
+
+.title {
+    font-family: "Bangers", cursive;
+    text-align: center;
+    font-size: 4rem;
+    color: #FF6347;
+    margin: 1rem 0;
+}
+
+.site-link {
+    color: #333;
+    text-decoration: none;
+}
+
+.site-link:hover {
+    text-decoration: underline;
+}
+
+/* Comic panels */
+.comic-panel {
+    border: 4px solid #333;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding: 1rem;
+    margin: 1rem;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.3);
+    position: relative;
+    overflow: hidden;
+    transition: transform 0.3s ease;
+}
+
+.comic-panel:hover {
+    transform: scale(1.05);
+}
+
+.comic {
+    margin: 2rem 0;
+    padding-bottom: 2rem;
+}
+
+.comic .title {
+    margin-top: 4rem;
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
+.comic-panels {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+    justify-items: center;
+}
+
+.comic-caption {
+    position: absolute;
+    bottom: 1rem;
+    left: 1rem;
+    right: 1rem;
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 0.5rem;
+    border: 2px solid #333;
+    border-radius: 8px;
+    font-family: "Bangers", cursive;
+    font-size: 1.2rem;
+    text-align: center;
+}
+
+.campaign-card {
+    border: 3px solid #333;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    padding: 2rem;
+    margin: 1rem;
+    background: white;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+    transition: transform 0.3s ease;
+}
+
+.campaign-card:hover {
+    transform: translateY(-5px) scale(1.02);
+}
+
+.campaign-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 2rem;
+    margin: 2rem 0;
+}
+
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+    gap: 1rem;
+    margin: 2rem 0;
+}
+
+.stat-card {
+    text-align: center;
+    padding: 1.5rem;
+    background: white;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 3px solid #333;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+}
+
+.stat-number {
+    font-size: 2.5rem;
+    font-weight: bold;
+    color: #FF6347;
+    display: block;
+    font-family: "Bangers", cursive;
+}
+
+.stat-label {
+    font-size: 1rem;
+    margin-top: 0.5rem;
+}
+
+.hero-emoji {
+    font-size: 3rem;
+    display: inline-block;
+    margin: 0.5rem;
+    transition: transform 0.3s ease;
+}
+
+.hero-emoji:hover {
+    transform: scale(1.2) rotate(5deg);
+}
+
+/* Footer */
+.footer {
+    background-color: #FF6347;
+    color: white;
+    text-align: center;
+    padding: 2rem;
+    margin-top: 4rem;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+    border: 4px solid #333;
+}
+
+.footer a {
+    color: #FFD700;
+    text-decoration: none;
+}
+
+.footer a:hover {
+    text-decoration: underline;
+}
+
+/* Test message to confirm loading */
+body::before {
+    content: "🎨 COMIC BOOK THEME LOADED! 🎨";
+    display: block;
+    background: #FFD700;
+    color: #333;
+    text-align: center;
+    font-family: "Bangers", cursive;
+    font-size: 1.5rem;
+    padding: 1rem;
+    margin-bottom: 1rem;
+    border: 3px solid #333;
+    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
+}
+
+/* Responsive design */
+@media (max-width: 768px) {
+    main {
+        margin: 1rem 2% 2rem 2%;
+        padding: 1rem;
+    }
+    
+    .campaign-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .stats-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    
+    h1 { font-size: 2.5rem; }
+    .title { font-size: 2.5rem; }
+    
+    .top-nav a {
+        font-size: 1.2rem;
+        padding: 10px 12px;
+    }
+}

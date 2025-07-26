@@ -207,19 +207,6 @@ main {
 }
 
 /* Test message to confirm loading */
-body::before {
-    content: "🎨 COMIC BOOK THEME LOADED! 🎨";
-    display: block;
-    background: #FFD700;
-    color: #333;
-    text-align: center;
-    font-family: "Bangers", cursive;
-    font-size: 1.5rem;
-    padding: 1rem;
-    margin-bottom: 1rem;
-    border: 3px solid #333;
-    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-}
 
 /* Responsive design */
 @media (max-width: 768px) {

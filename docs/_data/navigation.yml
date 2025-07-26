@@ -1,18 +1,17 @@
 - name: Inicio
   link: /
 
-- name: La Familia
-  link: /campaigns/la-familia/
-
-- name: Génesis  
-  link: /campaigns/genesis/
-
-- name: La Fuerza Oculta
-  link: /campaigns/la-fuerza-oculta/
+- name: Campañas
+  link: /campaigns/
 
 - name: Personajes
   link: /characters/
 
+- name: Grupos
+  link: /groups/
+
 - name: Mundo
   link: /world-building/
-EOF < /dev/null
+
+- name: Cómics
+  link: /comics/

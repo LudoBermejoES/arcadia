@@ -67,20 +67,3 @@ main {
     box-shadow: 0 4px 8px rgba(0,0,0,0.2);
 }
 
-/* Test message */
-.test-message {
-    background: #FFD700;
-    padding: 1rem;
-    border: 3px solid #333;
-    border-radius: 255px 15px 225px 15px/15px 225px 15px 255px;
-    font-family: "Bangers", cursive;
-    font-size: 2rem;
-    text-align: center;
-    color: #333;
-    margin: 2rem 0;
-}
-
-.test-message::before {
-    content: "🎨 NEW COMIC THEME LOADED! 🎨";
-    display: block;
-}

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Familia - Sesión 01"
+permalink: /campaigns/la-familia/session-01/
+---
+
 ## **En el comienzo**
 
 En el principio fue la serie:

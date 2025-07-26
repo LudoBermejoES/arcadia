@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Geografía de Arcadia"
+permalink: /world-building/geography/arcadia-geography/
+---
+
 # GEOGRAFÍA DE ARCADIA
 
 Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. Los siete distritos de Marius siguen siendo uno de los referentes más extraordinarios de la arquitectura moderna, siete ejemplos de siete exponentes arquitectónicos pasados por el ideario de los arquitectos más afamados del fin del siglo XIX.

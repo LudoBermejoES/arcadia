@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Reina Cobra"
+layout: character
+title: La Reina Cobra
 permalink: /characters/la-reina-cobra/
+slug: la-reina-cobra
 ---
 
 # La Reina Cobra

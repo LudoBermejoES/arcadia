@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "The Rock"
+layout: character
+title: The Rock
 permalink: /characters/the-rock/
+slug: the-rock
 ---
 
 # The Rock

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Doctor Anselmo"
+layout: character
+title: Doctor Anselmo
 permalink: /characters/doctor-anselmo/
+slug: doctor-anselmo
 ---
 
 # Doctor Anselmo

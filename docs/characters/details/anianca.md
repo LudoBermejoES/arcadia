@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Anianca"
+layout: character
+title: Anianca
 permalink: /characters/anianca/
+slug: anianca
 ---
 
 # Anianca

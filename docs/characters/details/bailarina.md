@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Bailarina"
+layout: character
+title: Bailarina
 permalink: /characters/bailarina/
+slug: bailarina
 ---
 
 # Bailarina

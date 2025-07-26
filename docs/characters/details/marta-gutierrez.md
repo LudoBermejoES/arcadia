@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Marta Gutierrez"
+layout: character
+title: Marta Gutierrez
 permalink: /characters/marta-gutierrez/
+slug: marta-gutierrez
 ---
 
 # Marta Gutierrez

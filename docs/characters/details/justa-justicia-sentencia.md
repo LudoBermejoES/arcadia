@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Justa Justicia Sentencia"
+layout: character
+title: Justa Justicia Sentencia
 permalink: /characters/justa-justicia-sentencia/
+slug: justa-justicia-sentencia
 ---
 
 # Justa / Justicia / Sentencia

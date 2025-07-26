@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Golem"
+layout: character
+title: El Golem
 permalink: /characters/el-golem/
+slug: el-golem
 ---
 
 # El Golem

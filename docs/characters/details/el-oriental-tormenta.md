@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Oriental Tormenta"
+layout: character
+title: El Oriental Tormenta
 permalink: /characters/el-oriental-tormenta/
+slug: el-oriental-tormenta
 ---
 
 # El Oriental Tormenta

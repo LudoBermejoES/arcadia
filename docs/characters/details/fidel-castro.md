@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Fidel Castro"
+layout: character
+title: Fidel Castro
 permalink: /characters/fidel-castro/
+slug: fidel-castro
 ---
 
 # Fidel Castro

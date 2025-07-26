@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Superglue"
+layout: character
+title: Superglue
 permalink: /characters/superglue/
+slug: superglue
 ---
 
 # SuperGlue

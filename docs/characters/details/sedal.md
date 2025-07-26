@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Sedal"
+layout: character
+title: Sedal
 permalink: /characters/sedal/
+slug: sedal
 ---
 
 # Sedal

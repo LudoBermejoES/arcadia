@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mia Tanaka"
+layout: character
+title: Mia Tanaka
 permalink: /characters/mia-tanaka/
+slug: mia-tanaka
 ---
 
 # Mia Tanaka

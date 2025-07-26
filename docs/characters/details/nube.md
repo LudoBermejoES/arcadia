@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Nube"
+layout: character
+title: Nube
 permalink: /characters/nube/
+slug: nube
 ---
 
 # Nube

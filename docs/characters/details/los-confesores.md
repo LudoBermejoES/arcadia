@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Los Confesores"
+layout: character
+title: Los Confesores
 permalink: /characters/los-confesores/
+slug: los-confesores
 ---
 
 # Los Confesores

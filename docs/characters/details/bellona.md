@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Bellona"
+layout: character
+title: Bellona
 permalink: /characters/bellona/
+slug: bellona
 ---
 
 # Bellona

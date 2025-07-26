@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Nicolas Cifuentes"
+layout: character
+title: Nicolas Cifuentes
 permalink: /characters/nicolas-cifuentes/
+slug: nicolas-cifuentes
 ---
 
 # Nicolás Cifuentes

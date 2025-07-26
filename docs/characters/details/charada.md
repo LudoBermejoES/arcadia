@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Charada"
+layout: character
+title: Charada
 permalink: /characters/charada/
+slug: charada
 ---
 
 # Charada

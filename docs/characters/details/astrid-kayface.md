@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Astrid / Kayface"
+layout: character
+title: Astrid / Kayface
 permalink: /characters/details/astrid-kayface/
+slug: astrid-kayface
 ---
 
 # Astrid / Kayface

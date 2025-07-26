@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Baron Soledad"
+layout: character
+title: Baron Soledad
 permalink: /characters/baron-soledad/
+slug: baron-soledad
 ---
 
 # Barón Soledad

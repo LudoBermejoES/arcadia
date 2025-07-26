@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Juan Guzman"
+layout: character
+title: Juan Guzman
 permalink: /characters/juan-guzman/
+slug: juan-guzman
 ---
 
 # Juan Guzmán

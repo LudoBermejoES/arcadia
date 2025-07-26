@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Elena Fuentes"
+layout: character
+title: Elena Fuentes
 permalink: /characters/elena-fuentes/
+slug: elena-fuentes
 ---
 
 # Elena Fuentes

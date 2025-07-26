@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Alice Tesla"
+layout: character
+title: Alice Tesla
 permalink: /characters/alice-tesla/
+slug: alice-tesla
 ---
 
 # Alice / Tesla

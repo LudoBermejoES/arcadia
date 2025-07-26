@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Saltamontes"
+layout: character
+title: Saltamontes
 permalink: /characters/saltamontes/
+slug: saltamontes
 ---
 
 # Saltamontes

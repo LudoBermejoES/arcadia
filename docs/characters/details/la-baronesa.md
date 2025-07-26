@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Baronesa"
+layout: character
+title: La Baronesa
 permalink: /characters/la-baronesa/
+slug: la-baronesa
 ---
 
 # La Baronesa

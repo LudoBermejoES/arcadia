@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Emperador Oscuro"
+layout: character
+title: El Emperador Oscuro
 permalink: /characters/el-emperador-oscuro/
+slug: el-emperador-oscuro
 ---
 
 # El Emperador Oscuro

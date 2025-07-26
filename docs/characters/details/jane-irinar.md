@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Jane Irinar"
+layout: character
+title: Jane Irinar
 permalink: /characters/jane-irinar/
+slug: jane-irinar
 ---
 
 # Jane Irinar

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Rojo"
+layout: character
+title: Rojo
 permalink: /characters/rojo/
+slug: rojo
 ---
 
 # Rojo

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Farandula"
+layout: character
+title: La Farandula
 permalink: /characters/la-farandula/
+slug: la-farandula
 ---
 
 # La Farándula

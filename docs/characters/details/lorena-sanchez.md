@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Lorena Sanchez"
+layout: character
+title: Lorena Sanchez
 permalink: /characters/lorena-sanchez/
+slug: lorena-sanchez
 ---
 
 # Lorena Sanchez

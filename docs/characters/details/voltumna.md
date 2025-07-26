@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Voltumna"
+layout: character
+title: Voltumna
 permalink: /characters/voltumna/
+slug: voltumna
 ---
 
 # Voltumna

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Matador"
+layout: character
+title: El Matador
 permalink: /characters/el-matador/
+slug: el-matador
 ---
 
 # El Matador

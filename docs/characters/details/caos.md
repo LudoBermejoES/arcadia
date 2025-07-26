@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Caos"
+layout: character
+title: Caos
 permalink: /characters/caos/
+slug: caos
 ---
 
 # Caos

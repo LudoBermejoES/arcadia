@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Mago"
+layout: character
+title: El Mago
 permalink: /characters/el-mago/
+slug: el-mago
 ---
 
 # El Mago

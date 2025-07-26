@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Lucifer Hero"
+layout: character
+title: Lucifer Hero
 permalink: /characters/lucifer-hero/
+slug: lucifer-hero
 ---
 
 # Lucifer (Héroe)

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mencia Psique Cia"
+layout: character
+title: Mencia Psique Cia
 permalink: /characters/mencia-psique-cia/
+slug: mencia-psique-cia
 ---
 
 # Mencia / Psique / Cia

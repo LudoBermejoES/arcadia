@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Alberto Alvarez"
+layout: character
+title: Alberto Alvarez
 permalink: /characters/alberto-alvarez/
+slug: alberto-alvarez
 ---
 
 # Alberto Álvarez

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Crazy Mary"
+layout: character
+title: Crazy Mary
 permalink: /characters/crazy-mary/
+slug: crazy-mary
 ---
 
 # Crazy Mary

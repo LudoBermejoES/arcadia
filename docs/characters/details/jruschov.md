@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Jruschov"
+layout: character
+title: Jruschov
 permalink: /characters/jruschov/
+slug: jruschov
 ---
 
 # Jruschov

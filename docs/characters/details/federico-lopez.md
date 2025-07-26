@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Federico Lopez"
+layout: character
+title: Federico Lopez
 permalink: /characters/federico-lopez/
+slug: federico-lopez
 ---
 
 # Federico López

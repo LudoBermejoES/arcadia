@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Francisco"
+layout: character
+title: Francisco
 permalink: /characters/francisco/
+slug: francisco
 ---
 
 # Francisco

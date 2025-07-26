@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Aldonza Lorenzo"
+layout: character
+title: Aldonza Lorenzo
 permalink: /characters/aldonza-lorenzo/
+slug: aldonza-lorenzo
 ---
 
 # Aldonza Lorenzo

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ricardo Abeluengo"
+layout: character
+title: Ricardo Abeluengo
 permalink: /characters/ricardo-abeluengo/
+slug: ricardo-abeluengo
 ---
 
 # Ricardo Abeluengo

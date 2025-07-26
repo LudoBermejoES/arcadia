@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Dr Jman"
+layout: character
+title: Dr Jman
 permalink: /characters/dr-jman/
+slug: dr-jman
 ---
 
 # Dr. Jman

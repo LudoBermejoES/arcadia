@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Leopoldo Gomez"
+layout: character
+title: Leopoldo Gomez
 permalink: /characters/leopoldo-gomez/
+slug: leopoldo-gomez
 ---
 
 # Leopoldo Gómez

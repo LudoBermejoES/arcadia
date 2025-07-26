@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Desconocida"
+layout: character
+title: La Desconocida
 permalink: /characters/la-desconocida/
+slug: la-desconocida
 ---
 
 # La Desconocida

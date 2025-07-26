@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Estocada"
+layout: character
+title: Estocada
 permalink: /characters/estocada/
+slug: estocada
 ---
 
 # Estocada

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Autoridad"
+layout: character
+title: Autoridad
 permalink: /characters/autoridad/
+slug: autoridad
 ---
 
 # Autoridad

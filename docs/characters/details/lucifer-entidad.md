@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Lucifer Entidad"
+layout: character
+title: Lucifer Entidad
 permalink: /characters/lucifer-entidad/
+slug: lucifer-entidad
 ---
 
 # Lucifer (Entidad Antigua)

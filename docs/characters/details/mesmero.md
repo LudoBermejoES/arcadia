@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mesmero"
+layout: character
+title: Mesmero
 permalink: /characters/mesmero/
+slug: mesmero
 ---
 
 # Mésmero

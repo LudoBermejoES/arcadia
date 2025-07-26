@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Telarana"
+layout: character
+title: Telarana
 permalink: /characters/telarana/
+slug: telarana
 ---
 
 # Telaraña

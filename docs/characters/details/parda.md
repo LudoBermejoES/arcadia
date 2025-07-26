@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Parda"
+layout: character
+title: Parda
 permalink: /characters/parda/
+slug: parda
 ---
 
 # Parda

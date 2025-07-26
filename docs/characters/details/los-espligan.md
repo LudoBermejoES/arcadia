@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Los Espligan"
+layout: character
+title: Los Espligan
 permalink: /characters/los-espligan/
+slug: los-espligan
 ---
 
 # Los Espligan

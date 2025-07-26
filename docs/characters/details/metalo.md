@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Metalo"
+layout: character
+title: Metalo
 permalink: /characters/metalo/
+slug: metalo
 ---
 
 # Metalo

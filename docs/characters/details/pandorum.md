@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Pandorum"
+layout: character
+title: Pandorum
 permalink: /characters/pandorum/
+slug: pandorum
 ---
 
 # Pandorum

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Sara10 Mecanica"
+layout: character
+title: Sara10 Mecanica
 permalink: /characters/sara10-mecanica/
+slug: sara10-mecanica
 ---
 
 # Sara10 / Mecánica

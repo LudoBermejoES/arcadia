@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Francisco Egin"
+layout: character
+title: Francisco Egin
 permalink: /characters/francisco-egin/
+slug: francisco-egin
 ---
 
 # Francisco Egin

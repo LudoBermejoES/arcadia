@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Las Monjas Del Albergue"
+layout: character
+title: Las Monjas Del Albergue
 permalink: /characters/las-monjas-del-albergue/
+slug: las-monjas-del-albergue
 ---
 
 # Las Monjas del Albergue

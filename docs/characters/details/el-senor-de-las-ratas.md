@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Senor De Las Ratas"
+layout: character
+title: El Senor De Las Ratas
 permalink: /characters/el-senor-de-las-ratas/
+slug: el-senor-de-las-ratas
 ---
 
 # El Señor de las Ratas

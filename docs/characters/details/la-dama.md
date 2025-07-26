@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Dama"
+layout: character
+title: La Dama
 permalink: /characters/la-dama/
+slug: la-dama
 ---
 
 # La Dama

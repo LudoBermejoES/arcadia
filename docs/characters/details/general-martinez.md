@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "General Martinez"
+layout: character
+title: General Martinez
 permalink: /characters/general-martinez/
+slug: general-martinez
 ---
 
 # General Martínez

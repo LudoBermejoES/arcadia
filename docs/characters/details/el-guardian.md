@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Guardian"
+layout: character
+title: El Guardian
 permalink: /characters/el-guardian/
+slug: el-guardian
 ---
 
 # El Guardián

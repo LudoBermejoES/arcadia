@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Faraon"
+layout: character
+title: El Faraon
 permalink: /characters/el-faraon/
+slug: el-faraon
 ---
 
 # El Faraón

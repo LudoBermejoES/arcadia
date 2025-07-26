@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "John F Kennedy"
+layout: character
+title: John F Kennedy
 permalink: /characters/john-f-kennedy/
+slug: john-f-kennedy
 ---
 
 # John F. Kennedy

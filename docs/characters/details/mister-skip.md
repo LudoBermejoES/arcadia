@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mister Skip"
+layout: character
+title: Mister Skip
 permalink: /characters/mister-skip/
+slug: mister-skip
 ---
 
 # Mister Skip

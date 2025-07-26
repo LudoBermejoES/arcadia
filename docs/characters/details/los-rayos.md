@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Los Rayos"
+layout: character
+title: Los Rayos
 permalink: /characters/los-rayos/
+slug: los-rayos
 ---
 
 # Los Rayos

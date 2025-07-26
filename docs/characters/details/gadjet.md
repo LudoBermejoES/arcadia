@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Gadjet"
+layout: character
+title: Gadjet
 permalink: /characters/gadjet/
+slug: gadjet
 ---
 
 # Gadjet

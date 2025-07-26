@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Alfonso Xiii"
+layout: character
+title: Alfonso Xiii
 permalink: /characters/alfonso-xiii/
+slug: alfonso-xiii
 ---
 
 # Alfonso XIII

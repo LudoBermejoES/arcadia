@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Rey Ofobutu"
+layout: character
+title: Rey Ofobutu
 permalink: /characters/rey-ofobutu/
+slug: rey-ofobutu
 ---
 
 # Rey Ofobutu

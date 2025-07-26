@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Antonio Calvero"
+layout: character
+title: Antonio Calvero
 permalink: /characters/antonio-calvero/
+slug: antonio-calvero
 ---
 
 # Antonio Calvero

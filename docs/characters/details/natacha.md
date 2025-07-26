@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Natacha"
+layout: character
+title: Natacha
 permalink: /characters/natacha/
+slug: natacha
 ---
 
 # Natacha

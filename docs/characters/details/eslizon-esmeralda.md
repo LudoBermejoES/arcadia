@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Eslizón Esmeralda"
+layout: character
+title: Eslizón Esmeralda
 permalink: /characters/details/eslizon-esmeralda/
+slug: eslizon-esmeralda
 ---
 
 # Eslizón Esmeralda

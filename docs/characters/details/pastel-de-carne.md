@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Pastel De Carne"
+layout: character
+title: Pastel De Carne
 permalink: /characters/pastel-de-carne/
+slug: pastel-de-carne
 ---
 
 # Pastel de Carne

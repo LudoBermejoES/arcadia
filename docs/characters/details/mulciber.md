@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mulciber"
+layout: character
+title: Mulciber
 permalink: /characters/mulciber/
+slug: mulciber
 ---
 
 # Mulciber

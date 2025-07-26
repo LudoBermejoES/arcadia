@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Jorge Espectro"
+layout: character
+title: Jorge Espectro
 permalink: /characters/jorge-espectro/
+slug: jorge-espectro
 ---
 
 # Jorge / Espectro

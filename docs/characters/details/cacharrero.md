@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Cacharrero"
+layout: character
+title: Cacharrero
 permalink: /characters/cacharrero/
+slug: cacharrero
 ---
 
 # Cacharrero

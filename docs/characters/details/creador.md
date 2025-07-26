@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Creador"
+layout: character
+title: Creador
 permalink: /characters/creador/
+slug: creador
 ---
 
 # Creador

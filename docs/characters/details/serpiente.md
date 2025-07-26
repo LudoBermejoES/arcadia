@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Serpiente"
+layout: character
+title: Serpiente
 permalink: /characters/serpiente/
+slug: serpiente
 ---
 
 # Serpiente

@@ -1,0 +1,90 @@
+---
+layout: default
+---
+
+<style>
+.character-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 20px;
+  margin-bottom: 20px;
+}
+
+.character-content {
+  flex: 1;
+}
+
+.character-image {
+  flex-shrink: 0;
+  width: 200px;
+  text-align: center;
+}
+
+.character-image img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 10px;
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+  border: 3px solid #ff6600;
+}
+
+.character-image-placeholder {
+  width: 200px;
+  height: 250px;
+  background: linear-gradient(135deg, #ff6600, #ff9933);
+  border-radius: 10px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: white;
+  font-family: 'Bangers', cursive;
+  font-size: 18px;
+  text-align: center;
+  box-shadow: 3px 3px 6px rgba(0,0,0,0.3);
+  border: 3px solid #ff6600;
+}
+
+@media (max-width: 768px) {
+  .character-header {
+    flex-direction: column;
+  }
+  
+  .character-image {
+    width: 100%;
+  }
+  
+  .character-image-placeholder {
+    width: 200px;
+    margin: 0 auto;
+  }
+}
+</style>
+
+<div class="character-header">
+  <div class="character-content">
+    {{ content }}
+  </div>
+  
+  <div class="character-image">
+    {% assign image_path = '/assets/img/characters/' | append: page.slug | append: '.png' %}
+    {% assign image_exists = false %}
+    {% for static_file in site.static_files %}
+      {% if static_file.path == image_path %}
+        {% assign image_exists = true %}
+        {% break %}
+      {% endif %}
+    {% endfor %}
+    
+    {% if image_exists %}
+      <img src="{{ image_path | relative_url }}" alt="{{ page.title }}" />
+    {% else %}
+      <div class="character-image-placeholder">
+        <div>
+          🦸<br>
+          FOTO<br>
+          SUPERHÉROE
+        </div>
+      </div>
+    {% endif %}
+  </div>
+</div>

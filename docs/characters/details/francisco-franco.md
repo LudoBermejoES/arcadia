@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Francisco Franco"
+layout: character
+title: Francisco Franco
 permalink: /characters/francisco-franco/
+slug: francisco-franco
 ---
 
 # Francisco Franco

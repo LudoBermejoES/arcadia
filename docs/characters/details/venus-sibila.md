@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Venus Sibila"
+layout: character
+title: Venus Sibila
 permalink: /characters/venus-sibila/
+slug: venus-sibila
 ---
 
 # Venus / Sibila

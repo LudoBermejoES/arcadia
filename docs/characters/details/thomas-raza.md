@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Thomas Raza"
+layout: character
+title: Thomas Raza
 permalink: /characters/thomas-raza/
+slug: thomas-raza
 ---
 
 # Thomas / Raza

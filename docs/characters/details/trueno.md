@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Trueno"
+layout: character
+title: Trueno
 permalink: /characters/trueno/
+slug: trueno
 ---
 
 # Trueno

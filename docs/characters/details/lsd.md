@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Lsd"
+layout: character
+title: Lsd
 permalink: /characters/lsd/
+slug: lsd
 ---
 
 # LSD

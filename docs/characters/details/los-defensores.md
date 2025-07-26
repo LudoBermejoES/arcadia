@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Los Defensores"
+layout: character
+title: Los Defensores
 permalink: /characters/los-defensores/
+slug: los-defensores
 ---
 
 # Los Defensores

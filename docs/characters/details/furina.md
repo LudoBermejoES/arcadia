@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Furina"
+layout: character
+title: Furina
 permalink: /characters/furina/
+slug: furina
 ---
 
 # Furina

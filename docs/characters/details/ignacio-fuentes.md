@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ignacio Fuentes"
+layout: character
+title: Ignacio Fuentes
 permalink: /characters/ignacio-fuentes/
+slug: ignacio-fuentes
 ---
 
 # Ignacio Fuentes

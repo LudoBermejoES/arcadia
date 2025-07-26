@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Psicodalia"
+layout: character
+title: Psicodalia
 permalink: /characters/psicodalia/
+slug: psicodalia
 ---
 
 # Psicodalia

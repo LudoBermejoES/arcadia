@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ramon Beguell"
+layout: character
+title: Ramon Beguell
 permalink: /characters/ramon-beguell/
+slug: ramon-beguell
 ---
 
 # Ramón Beguell

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Senora Pepa"
+layout: character
+title: Senora Pepa
 permalink: /characters/senora-pepa/
+slug: senora-pepa
 ---
 
 # Señora Pepa

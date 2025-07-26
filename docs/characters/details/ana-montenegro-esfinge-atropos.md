@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ana Montenegro Esfinge Atropos"
+layout: character
+title: Ana Montenegro Esfinge Atropos
 permalink: /characters/ana-montenegro-esfinge-atropos/
+slug: ana-montenegro-esfinge-atropos
 ---
 
 # Ana Montenegro / Esfinge / Atropos

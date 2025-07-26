@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Waldo Gutierrez"
+layout: character
+title: Waldo Gutierrez
 permalink: /characters/waldo-gutierrez/
+slug: waldo-gutierrez
 ---
 
 # Waldo Gutierrez

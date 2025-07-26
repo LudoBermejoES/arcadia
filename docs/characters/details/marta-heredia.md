@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Marta Heredia"
+layout: character
+title: Marta Heredia
 permalink: /characters/marta-heredia/
+slug: marta-heredia
 ---
 
 # Marta Heredia

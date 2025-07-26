@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Relampago"
+layout: character
+title: Relampago
 permalink: /characters/relampago/
+slug: relampago
 ---
 
 # Relámpago

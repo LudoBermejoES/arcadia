@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ego"
+layout: character
+title: Ego
 permalink: /characters/ego/
+slug: ego
 ---
 
 # EGO

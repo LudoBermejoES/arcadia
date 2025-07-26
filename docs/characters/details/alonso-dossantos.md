@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Alonso Dossantos"
+layout: character
+title: Alonso Dossantos
 permalink: /characters/alonso-dossantos/
+slug: alonso-dossantos
 ---
 
 # Alonso Dossantos

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Alfonso Montenegro"
+layout: character
+title: Alfonso Montenegro
 permalink: /characters/alfonso-montenegro/
+slug: alfonso-montenegro
 ---
 
 # Alfonso Montenegro

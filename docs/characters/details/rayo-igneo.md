@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Rayo Igneo"
+layout: character
+title: Rayo Igneo
 permalink: /characters/rayo-igneo/
+slug: rayo-igneo
 ---
 
 # Rayo Ígneo

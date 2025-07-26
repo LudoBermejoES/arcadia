@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Dani Rodriguez"
+layout: character
+title: Dani Rodriguez
 permalink: /characters/dani-rodriguez/
+slug: dani-rodriguez
 ---
 
 # Dani Rodriguez

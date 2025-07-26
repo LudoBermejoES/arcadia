@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Diablo"
+layout: character
+title: Diablo
 permalink: /characters/diablo/
+slug: diablo
 ---
 
 # Diablo

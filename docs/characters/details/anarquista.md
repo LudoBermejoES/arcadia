@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Anarquista"
+layout: character
+title: Anarquista
 permalink: /characters/anarquista/
+slug: anarquista
 ---
 
 # Anarquista

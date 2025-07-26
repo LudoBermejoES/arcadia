@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Cabeza Buque"
+layout: character
+title: Cabeza Buque
 permalink: /characters/cabeza-buque/
+slug: cabeza-buque
 ---
 
 # Cabeza Buque

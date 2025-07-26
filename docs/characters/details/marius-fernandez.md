@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Marius Fernandez"
+layout: character
+title: Marius Fernandez
 permalink: /characters/marius-fernandez/
+slug: marius-fernandez
 ---
 
 # Marius Fernández

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Emperatriz"
+layout: character
+title: La Emperatriz
 permalink: /characters/la-emperatriz/
+slug: la-emperatriz
 ---
 
 # La Emperatriz

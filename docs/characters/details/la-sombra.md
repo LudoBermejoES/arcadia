@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Sombra"
+layout: character
+title: La Sombra
 permalink: /characters/la-sombra/
+slug: la-sombra
 ---
 
 # La Sombra / El Oscuro

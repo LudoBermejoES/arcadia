@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Lumen"
+layout: character
+title: Lumen
 permalink: /characters/lumen/
+slug: lumen
 ---
 
 # Lumen

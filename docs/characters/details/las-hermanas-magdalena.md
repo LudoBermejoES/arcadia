@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Las Hermanas Magdalena"
+layout: character
+title: Las Hermanas Magdalena
 permalink: /characters/las-hermanas-magdalena/
+slug: las-hermanas-magdalena
 ---
 
 # Las Hermanas Magdalena

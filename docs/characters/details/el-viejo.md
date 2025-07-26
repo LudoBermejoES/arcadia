@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "El Viejo"
+layout: character
+title: El Viejo
 permalink: /characters/el-viejo/
+slug: el-viejo
 ---
 
 # El Viejo

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Comadreja Negra"
+layout: character
+title: Comadreja Negra
 permalink: /characters/comadreja-negra/
+slug: comadreja-negra
 ---
 
 # Comadreja Negra

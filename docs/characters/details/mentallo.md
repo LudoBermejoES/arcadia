@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Mentallo"
+layout: character
+title: Mentallo
 permalink: /characters/mentallo/
+slug: mentallo
 ---
 
 # Mentallo

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Primo De Rivera"
+layout: character
+title: Primo De Rivera
 permalink: /characters/primo-de-rivera/
+slug: primo-de-rivera
 ---
 
 # Primo de Rivera

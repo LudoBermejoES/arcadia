@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Ignacio Rodriguez Condestable"
+layout: character
+title: Ignacio Rodriguez Condestable
 permalink: /characters/ignacio-rodriguez-condestable/
+slug: ignacio-rodriguez-condestable
 ---
 
 # Ignacio Rodriguez (Condestable)

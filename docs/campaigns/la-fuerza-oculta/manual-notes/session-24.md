@@ -4,7 +4,6 @@ Vemos indicios de gente que vive allí. Eslizón se sube al techo del vagón y a
 
 Justa ve alguien al fondo, se oculta. Eslizón nos dice mentalmente que ve a un tipo. Tiene un subfusil. No tiene buena pinta, esta gente no parece trigo limpio. 
 
-![Captura de pantalla 2025-07-20 a las 19.11.24.png](Partida%20superhe%CC%81roes%2024%20237ad5e1bc8181eb8a4dc757f1b324a7/Captura_de_pantalla_2025-07-20_a_las_19.11.24.png)
 
 A justa le huele a militar, mercenario o similar. Aquí hay pasta. No es un guardia de seguridad al uso. Tiene comunicaciones. 
 

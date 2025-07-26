@@ -8,11 +8,8 @@ Acuden al parque de bomberos está en buen estado. Parece que Mesmero ha interve
 
 Ana montenegro
 
-![Captura de pantalla 2025-05-25 a las 19.12.14.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.14.png)
 
-![Captura de pantalla 2025-05-25 a las 19.12.45.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.45.png)
 
-![Captura de pantalla 2025-05-25 a las 19.13.07.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.13.07.png)
 
 Esta es la antigua residencia del Faraón y tiene consciencia. Tiene un fantasma dentro. 
 
@@ -38,13 +35,10 @@ Garra consigue la dirección de los chicos que vieron al faraon. Viven en un edi
 
 Vamos a verlos. Nos abre una chavalina
 
-![Captura de pantalla 2025-05-25 a las 20.16.36.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.16.36.png)
 
 Preguntamos por si recuerda las imagenes. 
 
-![Captura de pantalla 2025-05-25 a las 20.18.40.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.18.40.png)
 
-![Captura de pantalla 2025-05-25 a las 20.19.08.png](PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.19.08.png)
 
 El de la chaqueta amarilla, el más joven, se acerca a Bate y nos pregunta por si somos metahumanos. 
 

@@ -32,4 +32,3 @@ Hay gente disfrazados de hotmal y de Esme.
 
 Al llegar al gimnasio, la dependienta atacó a Hotman y Justa atacó a la dependienta. Apareció Comadreja y puso un pco de paz. 
 
-![Captura de pantalla 2025-07-06 a las 19.01.22.png](Partida%20superhe%CC%81roes%2021%20237ad5e1bc818100b466fc5472f06f80/Captura_de_pantalla_2025-07-06_a_las_19.01.22.png)

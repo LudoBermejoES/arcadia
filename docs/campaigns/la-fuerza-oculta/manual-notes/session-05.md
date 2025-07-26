@@ -20,7 +20,6 @@ Psique intenta detectar a los vecinos. Percibe que hay gente en la casa de los v
 
 Sique percibe una imagen antes de cerrarse el contacto.
 
-![Captura de pantalla 2024-04-14 a las 19.11.44.png](PARTIDA%20SUPERHE%CC%81ROES%2005%20237ad5e1bc818111b866e36fad55eaa6/Captura_de_pantalla_2024-04-14_a_las_19.11.44.png)
 
 Astrid intenta conectar con el exterior. parece que tienen un firewall muy potente. Recibe un mensaje de 1 aviso. 
 
@@ -28,7 +27,6 @@ Anochece.
 
 Justa se baña en el lago exterior (onsen) exterior con un batido de frutas a mano. 
 
-![Captura de pantalla 2024-04-14 a las 19.31.05.png](PARTIDA%20SUPERHE%CC%81ROES%2005%20237ad5e1bc818111b866e36fad55eaa6/Captura_de_pantalla_2024-04-14_a_las_19.31.05.png)
 
  
 

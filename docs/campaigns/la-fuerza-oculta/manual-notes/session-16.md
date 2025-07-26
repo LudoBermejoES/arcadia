@@ -28,7 +28,6 @@ Le pedi al Agente que si podemos esperar en la limusina. El poli pone pegas, por
 
 El poli  Fermin. El sr. Thomas parece que convence al poli al tocarle el hombro. El coche es este
 
-![Captura de pantalla 2024-08-18 a las 20.22.16.png](PARTIDA%20SUPERHE%CC%81ROES%2016%20237ad5e1bc81819ba04ecc9339de58a0/Captura_de_pantalla_2024-08-18_a_las_20.22.16.png)
 
 **Chevrolet Impala SS**
 
@@ -68,7 +67,6 @@ Una mujer Atropos Ana Montenegro nos dice a pesar de que hay muchos abogdos, os 
 
 Les pregunta si van a delatar. 
 
-![Captura de pantalla 2024-08-18 a las 20.45.10.png](PARTIDA%20SUPERHE%CC%81ROES%2016%20237ad5e1bc81819ba04ecc9339de58a0/Captura_de_pantalla_2024-08-18_a_las_20.45.10.png)
 
 Ella se ha enterado lo de las mentes de egipto. 
 

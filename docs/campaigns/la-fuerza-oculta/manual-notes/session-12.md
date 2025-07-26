@@ -38,7 +38,6 @@ Hemos tenido mucho éxito, todo el mundo se pregunta qué ha pasado, porqué se 
 
 Aparece a esta doctora. María Brigita
 
-![Captura de pantalla 2024-07-07 a las 19.14.22.png](PARTIDA%20SUPERHE%CC%81ROES%2012%20237ad5e1bc818162ab19d24ab31d7271/Captura_de_pantalla_2024-07-07_a_las_19.14.22.png)
 
 Astrid pide comida y los metacorps les dan comida de un maquina de vending
 

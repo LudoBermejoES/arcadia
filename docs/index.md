@@ -1,5 +1,5 @@
 ---
-layout: comics-default
+layout: default
 title: "Proyecto Arcadia"
 description: "15 Años de RPG Superheroico"
 ---

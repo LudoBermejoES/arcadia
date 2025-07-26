@@ -4,12 +4,11 @@ baseurl: "/arcadia"
 url: "https://LudoBermejoES.github.io"
 
 # GitHub Pages configuration
-remote_theme: Jagjeet/comicbook-theme
+# remote_theme: Jagjeet/comicbook-theme  # Disabled to use custom layouts
 plugins:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
-  - jekyll-remote-theme
 
 # Navigation
 header_pages:

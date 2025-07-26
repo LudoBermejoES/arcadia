@@ -7,7 +7,7 @@ permalink: /world-building/index/
 # Worldbuilding de Arcadia
 ## El Universo Completo en 15 Años de Construcción
 
-[← Volver al Índice Principal](../index.md) | [📋 Índice Completo](../all-content.md)
+[← Volver al Índice Principal](/) | [📋 Índice Completo](/all-content/)
 
 ---
 
@@ -19,14 +19,14 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha crecido de
 
 ## 📖 **Documentación Completa**
 
-### **🎭 [Ambientación General](ambientacion.md)**
+### **🎭 [Ambientación General](/world-building/ambientacion/)**
 El documento fundacional que establece el tono, estilo y reglas básicas del universo de Arcadia.
 
 ---
 
 ## 🗺️ **Geografía del Mundo**
 
-### **🏝️ [Geografía de Arcadia](geography/arcadia-geography.md)**
+### **🏝️ [Geografía de Arcadia](/world-building/arcadia-geography/)**
 **La Isla Volcánica Extraordinaria**
 
 Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlántico, creada por fuerzas que trascienden la geología normal:
@@ -293,7 +293,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 🔍 **Navegación Temática**
 
 ### **🗺️ Por Aspecto del Mundo**
-- **[🏝️ Geografía](geography/arcadia-geography.md)** - El mundo físico
+- **[🏝️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
 - **[📚 Historia](history/history-overview.md)** - El pasado que define el presente
 - **[👥 Sociedad](society/arcadia-society.md)** - Cómo viven los arcadianos
 - **[💰 Economía](economy/arcadia-economy.md)** - El sistema financiero único
@@ -316,8 +316,8 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 📱 **Acceso Móvil**
 
 ### **🚀 Enlaces Rápidos**
-- **[🎭 Ambientación](ambientacion.md)** - Introducción al universo
-- **[🗺️ Geografía](geography/arcadia-geography.md)** - El mundo físico
+- **[🎭 Ambientación](/world-building/ambientacion/)** - Introducción al universo
+- **[🗺️ Geografía](/world-building/arcadia-geography/)** - El mundo físico
 - **[📚 Historia](history/history-overview.md)** - Cronología completa
 - **[👥 Sociedad](society/arcadia-society.md)** - Estructura social
 
@@ -332,4 +332,4 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ### **🔄 En Constante Evolución**
 *Arcadia sigue creciendo y evolucionando con cada nueva sesión. Los eventos de La Fuerza Oculta continúan añadiendo complejidad moral, desarrollos tecnológicos, y evoluciones sociales que enriquecen este universo único.*
 
-**🌍 [Explora Cada Aspecto del Mundo →](ambientacion.md)**
+**🌍 [Explora Cada Aspecto del Mundo →](/world-building/ambientacion/)**

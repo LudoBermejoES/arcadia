@@ -1,7 +1,13 @@
+---
+layout: page
+title: "Índice Completo de Contenido"
+permalink: /all-content/
+---
+
 # Índice Completo de Contenido
 ## Navegación Exhaustiva del Archivo Arcadia
 
-[← Volver al Índice Principal](index.md)
+[← Volver al Índice Principal](/)
 
 ---
 
@@ -9,117 +15,117 @@
 
 ### 🦸‍♂️ **Campañas Principales**
 
-#### **[La Familia](campaigns/la-familia/index.md)** - Primera Campaña (2010-2015)
+#### **[La Familia](/campaigns/la-familia/)** - Primera Campaña (2010-2015)
 **41 Sesiones Documentadas:**
-- [Sesión 01](campaigns/la-familia/session-01.md) | [Sesión 02](campaigns/la-familia/session-02.md) | [Sesión 03](campaigns/la-familia/session-03.md) | [Sesión 04](campaigns/la-familia/session-04.md) | [Sesión 05](campaigns/la-familia/session-05.md)
-- [Sesión 06](campaigns/la-familia/session-06.md) | [Sesión 07](campaigns/la-familia/session-07.md) | [Sesión 08](campaigns/la-familia/session-08.md) | [Sesión 09](campaigns/la-familia/session-09.md) | [Sesión 10](campaigns/la-familia/session-10.md)
-- [Sesión 11](campaigns/la-familia/session-11.md) | [Sesión 12](campaigns/la-familia/session-12.md) | [Sesión 13](campaigns/la-familia/session-13.md) | [Sesión 14](campaigns/la-familia/session-14.md) | [Sesión 15](campaigns/la-familia/session-15.md)
-- [Sesión 16](campaigns/la-familia/session-16.md) | [Sesión 17](campaigns/la-familia/session-17.md) | [Sesión 18](campaigns/la-familia/session-18.md) | [Sesión 19](campaigns/la-familia/session-19.md) | [Sesión 20](campaigns/la-familia/session-20.md)
-- [Sesión 21](campaigns/la-familia/session-21.md) | [Sesión 22](campaigns/la-familia/session-22.md) | [Sesión 23](campaigns/la-familia/session-23.md) | [Sesión 24](campaigns/la-familia/session-24.md) | [Sesión 25](campaigns/la-familia/session-25.md)
-- [Sesión 26](campaigns/la-familia/session-26.md) | [Sesión 27](campaigns/la-familia/session-27.md) | [Sesión 28](campaigns/la-familia/session-28.md) | [Sesión 29](campaigns/la-familia/session-29.md) | [Sesión 30](campaigns/la-familia/session-30.md)
-- [Sesión 31](campaigns/la-familia/session-31.md) | [Sesión 32](campaigns/la-familia/session-32.md) | [Sesión 33](campaigns/la-familia/session-33.md) | [Sesión 34](campaigns/la-familia/session-34.md) | [Sesión 35](campaigns/la-familia/session-35.md)
-- [Sesión 36](campaigns/la-familia/session-36.md) | [Sesión 37](campaigns/la-familia/session-37.md) | [Sesión 38](campaigns/la-familia/session-38.md) | [Sesión 39](campaigns/la-familia/session-39.md) | [Sesión 40](campaigns/la-familia/session-40.md)
-- [Sesión 41](campaigns/la-familia/session-41.md)
+- [Sesión 01](/campaigns/la-familia/session-01/) | [Sesión 02](/campaigns/la-familia/session-02/) | [Sesión 03](/campaigns/la-familia/session-03/) | [Sesión 04](/campaigns/la-familia/session-04/) | [Sesión 05](/campaigns/la-familia/session-05/)
+- [Sesión 06](/campaigns/la-familia/session-06/) | [Sesión 07](/campaigns/la-familia/session-07/) | [Sesión 08](/campaigns/la-familia/session-08/) | [Sesión 09](/campaigns/la-familia/session-09/) | [Sesión 10](/campaigns/la-familia/session-10/)
+- [Sesión 11](/campaigns/la-familia/session-11/) | [Sesión 12](/campaigns/la-familia/session-12/) | [Sesión 13](/campaigns/la-familia/session-13/) | [Sesión 14](/campaigns/la-familia/session-14/) | [Sesión 15](/campaigns/la-familia/session-15/)
+- [Sesión 16](/campaigns/la-familia/session-16/) | [Sesión 17](/campaigns/la-familia/session-17/) | [Sesión 18](/campaigns/la-familia/session-18/) | [Sesión 19](/campaigns/la-familia/session-19/) | [Sesión 20](/campaigns/la-familia/session-20/)
+- [Sesión 21](/campaigns/la-familia/session-21/) | [Sesión 22](/campaigns/la-familia/session-22/) | [Sesión 23](/campaigns/la-familia/session-23/) | [Sesión 24](/campaigns/la-familia/session-24/) | [Sesión 25](/campaigns/la-familia/session-25/)
+- [Sesión 26](/campaigns/la-familia/session-26/) | [Sesión 27](/campaigns/la-familia/session-27/) | [Sesión 28](/campaigns/la-familia/session-28/) | [Sesión 29](/campaigns/la-familia/session-29/) | [Sesión 30](/campaigns/la-familia/session-30/)
+- [Sesión 31](/campaigns/la-familia/session-31/) | [Sesión 32](/campaigns/la-familia/session-32/) | [Sesión 33](/campaigns/la-familia/session-33/) | [Sesión 34](/campaigns/la-familia/session-34/) | [Sesión 35](/campaigns/la-familia/session-35/)
+- [Sesión 36](/campaigns/la-familia/session-36/) | [Sesión 37](/campaigns/la-familia/session-37/) | [Sesión 38](/campaigns/la-familia/session-38/) | [Sesión 39](/campaigns/la-familia/session-39/) | [Sesión 40](/campaigns/la-familia/session-40/)
+- [Sesión 41](/campaigns/la-familia/session-41/)
 
-#### **[Génesis](campaigns/genesis/index.md)** - Segunda Campaña (2015-2020)
+#### **[Génesis](/campaigns/genesis/)** - Segunda Campaña (2015-2020)
 **6 Sesiones Documentadas:**
-- [Sesión 01](campaigns/genesis/session-01.md) | [Sesión 02](campaigns/genesis/session-02.md) | [Sesión 03](campaigns/genesis/session-03.md) 
-- [Sesión 04](campaigns/genesis/session-04.md) | [Sesión 05](campaigns/genesis/session-05.md) | [Sesión 06](campaigns/genesis/session-06.md)
+- [Sesión 01](/campaigns/genesis/session-01/) | [Sesión 02](/campaigns/genesis/session-02/) | [Sesión 03](/campaigns/genesis/session-03/) 
+- [Sesión 04](/campaigns/genesis/session-04/) | [Sesión 05](/campaigns/genesis/session-05/) | [Sesión 06](/campaigns/genesis/session-06/)
 
-#### **[La Fuerza Oculta](campaigns/la-fuerza-oculta/index.md)** - Tercera Campaña (2020-2025)
+#### **[La Fuerza Oculta](/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2020-2025)
 
 **Notas Manuales (23 Sesiones):**
-- [Sesión 01](campaigns/la-fuerza-oculta/manual-notes/session-01.md) | [Sesión 02](campaigns/la-fuerza-oculta/manual-notes/session-02.md) | [Sesión 03](campaigns/la-fuerza-oculta/manual-notes/session-03.md) | [Sesión 04](campaigns/la-fuerza-oculta/manual-notes/session-04.md) | [Sesión 05](campaigns/la-fuerza-oculta/manual-notes/session-05.md)
-- [Sesión 06](campaigns/la-fuerza-oculta/manual-notes/session-06.md) | [Sesión 07](campaigns/la-fuerza-oculta/manual-notes/session-07.md) | [Sesión 08](campaigns/la-fuerza-oculta/manual-notes/session-08.md) | [Sesión 09](campaigns/la-fuerza-oculta/manual-notes/session-09.md) | [Sesión 10](campaigns/la-fuerza-oculta/manual-notes/session-10.md)
-- [Sesión 11](campaigns/la-fuerza-oculta/manual-notes/session-11.md) | [Sesión 12](campaigns/la-fuerza-oculta/manual-notes/session-12.md) | [Sesión 13](campaigns/la-fuerza-oculta/manual-notes/session-13.md) | [Sesión 14](campaigns/la-fuerza-oculta/manual-notes/session-14.md) | [Sesión 15](campaigns/la-fuerza-oculta/manual-notes/session-15.md)
-- [Sesión 16](campaigns/la-fuerza-oculta/manual-notes/session-16.md) | [Sesión 17](campaigns/la-fuerza-oculta/manual-notes/session-17.md) | [Sesión 18](campaigns/la-fuerza-oculta/manual-notes/session-18.md) | [Sesión 20](campaigns/la-fuerza-oculta/manual-notes/session-20.md) | [Sesión 21](campaigns/la-fuerza-oculta/manual-notes/session-21.md)
-- [Sesión 22](campaigns/la-fuerza-oculta/manual-notes/session-22.md) | [Sesión 23](campaigns/la-fuerza-oculta/manual-notes/session-23.md) | [Sesión 24](campaigns/la-fuerza-oculta/manual-notes/session-24.md)
+- [Sesión 01](/campaigns/la-fuerza-oculta/manual-notes/session-01/) | [Sesión 02](/campaigns/la-fuerza-oculta/manual-notes/session-02/) | [Sesión 03](/campaigns/la-fuerza-oculta/manual-notes/session-03/) | [Sesión 04](/campaigns/la-fuerza-oculta/manual-notes/session-04/) | [Sesión 05](/campaigns/la-fuerza-oculta/manual-notes/session-05/)
+- [Sesión 06](/campaigns/la-fuerza-oculta/manual-notes/session-06/) | [Sesión 07](/campaigns/la-fuerza-oculta/manual-notes/session-07/) | [Sesión 08](/campaigns/la-fuerza-oculta/manual-notes/session-08/) | [Sesión 09](/campaigns/la-fuerza-oculta/manual-notes/session-09/) | [Sesión 10](/campaigns/la-fuerza-oculta/manual-notes/session-10/)
+- [Sesión 11](/campaigns/la-fuerza-oculta/manual-notes/session-11/) | [Sesión 12](/campaigns/la-fuerza-oculta/manual-notes/session-12/) | [Sesión 13](/campaigns/la-fuerza-oculta/manual-notes/session-13/) | [Sesión 14](/campaigns/la-fuerza-oculta/manual-notes/session-14/) | [Sesión 15](/campaigns/la-fuerza-oculta/manual-notes/session-15/)
+- [Sesión 16](/campaigns/la-fuerza-oculta/manual-notes/session-16/) | [Sesión 17](/campaigns/la-fuerza-oculta/manual-notes/session-17/) | [Sesión 18](/campaigns/la-fuerza-oculta/manual-notes/session-18/) | [Sesión 20](/campaigns/la-fuerza-oculta/manual-notes/session-20/) | [Sesión 21](/campaigns/la-fuerza-oculta/manual-notes/session-21/)
+- [Sesión 22](/campaigns/la-fuerza-oculta/manual-notes/session-22/) | [Sesión 23](/campaigns/la-fuerza-oculta/manual-notes/session-23/) | [Sesión 24](/campaigns/la-fuerza-oculta/manual-notes/session-24/)
 
 **Notas con IA (5 Transcripciones Gemini):**
-- [15 Junio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md) | [22 Junio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes.md) | [29 Junio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-06-29-gemini-notes.md)
-- [6 Julio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes.md) | [13 Julio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes.md) | [20 Julio 2025](campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
+- [15 Junio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/) | [22 Junio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/) | [29 Junio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-06-29-gemini-notes/)
+- [6 Julio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/) | [13 Julio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/) | [20 Julio 2025](/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/)
 
 **Resúmenes Analíticos (5 Análisis Profundos):**
-- [Análisis 15/06](campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-15-gemini-notes.md) | [Análisis 22/06](campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-22-gemini-notes.md) | [Análisis 6/07](campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-06-gemini-notes.md)
-- [Análisis 13/07](campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes.md) | [Análisis 20/07](campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes.md)
+- [Análisis 15/06](/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-15-gemini-notes/) | [Análisis 22/06](/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-22-gemini-notes/) | [Análisis 6/07](/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-06-gemini-notes/)
+- [Análisis 13/07](/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes/) | [Análisis 20/07](/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes/)
 
 ### 🏥 **Campañas Adicionales**
 
 #### **Hospital** - Campaña Especial
-- [Sesión 01](campaigns/hospital/session-01.md) | [Sesión 02](campaigns/hospital/session-02.md)
+- [Sesión 01](/campaigns/hospital/session-01/) | [Sesión 02](/campaigns/hospital/session-02/)
 
 #### **Fatum** - Villanos Icónicos  
-- [Archivo Fatum](campaigns/fatum/fatum.md)
+- [Archivo Fatum](/campaigns/fatum/)
 
 ---
 
 ## 👥 **Base de Datos de Personajes**
 
-### **[Índice General de Personajes](characters/character-list.md)**
+### **[Índice General de Personajes](/characters/character-list/)**
 
 ### **Protagonistas Principales por Campaña**
 
 #### **🦸‍♂️ La Familia (Primera Generación)**
-- [🐺 Garra](characters/details/garra.md) *(Conchi)* - La feroz protectora
-- [👑 El Faraón](characters/details/el-faraon.md) *(Edu)* - Maestro de arenas místicas  
-- [🔮 Esfinge](characters/details/esfinge.md) *(Jandro)* - Guardián de secretos antiguos
-- [🦇 Bate](characters/details/bate.md) *(Dani)* - El vigilante nocturno
-- [🧠 Mésmero](characters/details/mesmero.md) *(Chus)* - El manipulador mental
+- [🐺 Garra](/characters/details/garra/) *(Conchi)* - La feroz protectora
+- [👑 El Faraón](/characters/details/el-faraon/) *(Edu)* - Maestro de arenas místicas  
+- [🔮 Esfinge](/characters/details/esfinge/) *(Jandro)* - Guardián de secretos antiguos
+- [🦇 Bate](/characters/details/bate/) *(Dani)* - El vigilante nocturno
+- [🧠 Mésmero](/characters/details/mesmero/) *(Chus)* - El manipulador mental
 
 #### **⚡ Génesis (Segunda Generación)**
-- [⚙️ Sara10/Mecánica](characters/details/sara10-mecanica.md) *(Chus)* - La ingeniera prodigio
-- [👻 Espectro](characters/details/jorge-espectro.md) *(Rafa)* - El fantasma justiciero
-- [✨ Lúmen](characters/details/lumen.md) *(Conchi)* - La portadora de luz
-- [🔬 Thomas](characters/details/thomas-raza.md) *(Dani)* - El científico heroico
-- [🎭 Alice Tesla](characters/details/alice-tesla.md) *(Tindriel/María)* - La misteriosa
+- [⚙️ Sara10/Mecánica](/characters/details/sara10-mecanica/) *(Chus)* - La ingeniera prodigio
+- [👻 Espectro](/characters/details/jorge-espectro/) *(Rafa)* - El fantasma justiciero
+- [✨ Lúmen](/characters/details/lumen/) *(Conchi)* - La portadora de luz
+- [🔬 Thomas](/characters/details/thomas-raza/) *(Dani)* - El científico heroico
+- [🎭 Alice Tesla](/characters/details/alice-tesla/) *(Tindriel/María)* - La misteriosa
 
 #### **🔮 La Fuerza Oculta (Tercera Generación)**
-- [🦎 Eslizón Esmeralda](characters/details/eslizon-esmeralda.md) *(Sugus)* - El reptil noble
-- [💎 Diana](characters/details/diana.md) *(Eslizo)* - La heredera poderosa
-- [🎪 Astrid/Kayface](characters/details/astrid-kayface.md) *(Xavi)* - La ilusionista
-- [🧿 Mencia/Psique/Cia](characters/details/mencia-psique-cia.md) *(Conchi)* - La telépata
-- [⚖️ Justa/Justicia/Sentencia](characters/details/justa-justicia-sentencia.md) *(Edu)* - La justiciera evolutiva
-- [🔥 Hotman](characters/details/hotman.md) *(Jandro)* - El maestro del calor
+- [🦎 Eslizón Esmeralda](/characters/details/eslizon-esmeralda/) *(Sugus)* - El reptil noble
+- [💎 Diana](/characters/details/diana/) *(Eslizo)* - La heredera poderosa
+- [🎪 Astrid/Kayface](/characters/details/astrid-kayface/) *(Xavi)* - La ilusionista
+- [🧿 Mencia/Psique/Cia](/characters/details/mencia-psique-cia/) *(Conchi)* - La telépata
+- [⚖️ Justa/Justicia/Sentencia](/characters/details/justa-justicia-sentencia/) *(Edu)* - La justiciera evolutiva
+- [🔥 Hotman](/characters/details/hotman/) *(Jandro)* - El maestro del calor
 
 ### **Villanos Icónicos**
-- [🎭 La Farándula](characters/details/la-farandula.md) - Los villanos teatrales
-- [👑 La Emperatriz](characters/details/la-emperatriz.md) - La tirana suprema
-- [🌑 La Sombra](characters/details/la-sombra.md) - El terror nocturno
-- [⚡ Saltamontes](characters/details/saltamontes.md) - El ladrón imposible
-- [🤖 Metalo](characters/details/metalo.md) - El mercenario gallego
-- [🧠 Mentallo](characters/details/mentallo.md) - El telepático corrupto
+- [🎭 La Farándula](/characters/details/la-farandula/) - Los villanos teatrales
+- [👑 La Emperatriz](/characters/details/la-emperatriz/) - La tirana suprema
+- [🌑 La Sombra](/characters/details/la-sombra/) - El terror nocturno
+- [⚡ Saltamontes](/characters/details/saltamontes/) - El ladrón imposible
+- [🤖 Metalo](/characters/details/metalo/) - El mercenario gallego
+- [🧠 Mentallo](/characters/details/mentallo/) - El telepático corrupto
 
 ### **Aliados y Mentores**
-- [🦦 Comadreja Negra](characters/details/comadreja-negra.md) - El mentor veterano
-- [⚖️ Ana Montenegro](characters/details/ana-montenegro-esfinge-atropos.md) - La abogada heroica
-- [🎭 Charada](characters/details/charada.md) - El sastre metamórfico
-- [⚡ Relámpago](characters/details/relampago.md) - La rescatista
-- [🏛️ Arcadio](characters/details/arcadio.md) - El héroe fundacional
+- [🦦 Comadreja Negra](/characters/details/comadreja-negra/) - El mentor veterano
+- [⚖️ Ana Montenegro](/characters/details/ana-montenegro-esfinge-atropos/) - La abogada heroica
+- [🎭 Charada](/characters/details/charada/) - El sastre metamórfico
+- [⚡ Relámpago](/characters/details/relampago/) - La rescatista
+- [🏛️ Arcadio](/characters/details/arcadio/) - El héroe fundacional
 
 ### **Autoridades y Civiles**
-- [🏛️ Ricardo Abeluengo](characters/details/ricardo-abeluengo.md) - Alcalde de Arcadia
-- [⭐ Eneiros](characters/details/eneiros.md) - El héroe más querido
-- [🎭 Bailarina](characters/details/bailarina.md) - La heroína del hielo
-- [🔥 Rayo Ígneo](characters/details/rayo-igneo.md) - El pyro-heroico
+- [🏛️ Ricardo Abeluengo](/characters/details/ricardo-abeluengo/) - Alcalde de Arcadia
+- [⭐ Eneiros](/characters/details/eneiros/) - El héroe más querido
+- [🎭 Bailarina](/characters/details/bailarina/) - La heroína del hielo
+- [🔥 Rayo Ígneo](/characters/details/rayo-igneo/) - El pyro-heroico
 
 ---
 
 ## 🏛️ **Organizaciones y Grupos**
 
-### **[Índice de Grupos](groups/character-groups.md)**
+### **[Índice de Grupos](/groups/character-groups/)**
 
 **Equipos Heroicos:**
 - **La Familia** - Los fundadores originales
 - **Génesis** - La segunda generación  
 - **La Fuerza Oculta** - Los herederos actuales
-- **[Los Defensores](characters/details/los-defensores.md)** - Veteranos aliados
-- **[Los Rayos](characters/details/los-rayos.md)** - Especialistas en velocidad
+- **[Los Defensores](/characters/details/los-defensores/)** - Veteranos aliados
+- **[Los Rayos](/characters/details/los-rayos/)** - Especialistas en velocidad
 
 **Organizaciones Villanas:**
-- **[La Farándula](characters/details/la-farandula.md)** - Villanos teatrales
+- **[La Farándula](/characters/details/la-farandula/)** - Villanos teatrales
 - **Fatum** - La corporación del crimen
-- **[Los Confesores](characters/details/los-confesores.md)** - Fanáticos religiosos
-- **[Los Espligan](characters/details/los-espligan.md)** - Mercenarios especializados
+- **[Los Confesores](/characters/details/los-confesores/)** - Fanáticos religiosos
+- **[Los Espligan](/characters/details/los-espligan/)** - Mercenarios especializados
 
 **Instituciones:**
 - **Humanitas** - Partido político antimeta
@@ -131,25 +137,25 @@
 
 ## 🌍 **Worldbuilding Completo**
 
-### **[Ambientación General](world-building/ambientacion.md)**
+### **[Ambientación General](/world-building/ambientacion/)**
 
 ### **🗺️ Geografía**
-- **[Geografía de Arcadia](world-building/geography/arcadia-geography.md)** - La isla volcánica completa
+- **[Geografía de Arcadia](/world-building/geography/arcadia-geography/)** - La isla volcánica completa
 
 ### **📚 Historia Cronológica**
-- **[Visión General](world-building/history/history-overview.md)**
-- **[01 - Primeros Pasos](world-building/history/01-arcadia-first-steps.md)** - Los orígenes
-- **[02 - De España a Arcadia](world-building/history/02-spain-to-arcadia-21-years.md)** - 21 años de transición  
-- **[03 - El Despertar](world-building/history/03-arcadia-awakening.md)** - El nacimiento metahumano
-- **[04 - Últimos 20 Años](world-building/history/04-last-twenty-years.md)** - Era moderna
-- **[05 - Edad Dorada](world-building/history/05-golden-age.md)** - El apogeo heroico
-- **[06 - Llega la Madurez](world-building/history/06-maturity-arrives.md)** - Tiempos complejos
+- **[Visión General](/world-building/history/history-overview/)**
+- **[01 - Primeros Pasos](/world-building/history/01-arcadia-first-steps/)** - Los orígenes
+- **[02 - De España a Arcadia](/world-building/history/02-spain-to-arcadia-21-years/)** - 21 años de transición  
+- **[03 - El Despertar](/world-building/history/03-arcadia-awakening/)** - El nacimiento metahumano
+- **[04 - Últimos 20 Años](/world-building/history/04-last-twenty-years/)** - Era moderna
+- **[05 - Edad Dorada](/world-building/history/05-golden-age/)** - El apogeo heroico
+- **[06 - Llega la Madurez](/world-building/history/06-maturity-arrives/)** - Tiempos complejos
 
 ### **🏛️ Sociedad**
-- **[Sociedad Arcadiana](world-building/society/arcadia-society.md)** - Estructura social metahumana
+- **[Sociedad Arcadiana](/world-building/society/arcadia-society/)** - Estructura social metahumana
 
 ### **💰 Economía**
-- **[Economía de Arcadia](world-building/economy/arcadia-economy.md)** - Sistema económico único
+- **[Economía de Arcadia](/world-building/economy/arcadia-economy/)** - Sistema económico único
 
 ---
 
@@ -183,7 +189,7 @@
 - **[Personajes Más Importantes](characters/character-list.md#protagonistas)**
 - **[Sesiones Más Épicas](campaigns/)**  
 - **[Worldbuilding Esencial](world-building/)**
-- **[Cronología Completa](world-building/history/history-overview.md)**
+- **[Cronología Completa](/world-building/history/history-overview/)**
 
 ### **📈 Por Popularidad**
 - **Más Referenciados**: El Faraón, Garra, La Farándula
@@ -203,10 +209,10 @@
 Todos los enlaces están optimizados para navegación móvil. El sitio es completamente responsive y funciona perfectamente en dispositivos móviles.
 
 ### **⚡ Navegación Rápida Móvil**
-- **Campañas**: [Familia](campaigns/la-familia/index.md) | [Génesis](campaigns/genesis/index.md) | [Fuerza Oculta](campaigns/la-fuerza-oculta/index.md)
-- **Personajes**: [Lista Completa](characters/character-list.md)
-- **Mundo**: [Worldbuilding](world-building/ambientacion.md)
-- **Historia**: [Cronología](world-building/history/history-overview.md)
+- **Campañas**: [Familia](/campaigns/la-familia/) | [Génesis](/campaigns/genesis/) | [Fuerza Oculta](/campaigns/la-fuerza-oculta/)
+- **Personajes**: [Lista Completa](/characters/character-list/)
+- **Mundo**: [Worldbuilding](/world-building/ambientacion/)
+- **Historia**: [Cronología](/world-building/history/history-overview/)
 
 ---
 

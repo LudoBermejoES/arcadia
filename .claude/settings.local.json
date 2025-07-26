@@ -34,7 +34,9 @@
       "Bash(git commit:*)",
       "Bash(git push:*)",
       "Bash(git remote get-url:*)",
-      "WebFetch(domain:github.com)"
+      "WebFetch(domain:github.com)",
+      "WebFetch(domain:raw.githubusercontent.com)",
+      "WebFetch(domain:api.github.com)"
     ],
     "deny": []
   }

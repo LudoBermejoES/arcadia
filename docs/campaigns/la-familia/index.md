@@ -54,6 +54,12 @@ permalink: /campaigns/la-familia/
 
 ---
 
+## 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-familia/summary/summary/)**
+
+Resumen completo y detallado de todas las sesiones de La Familia, desde el despertar en los sarcófagos hasta las revelaciones finales sobre sus verdaderos orígenes y destinos.
+
+---
+
 ## 📖 Cronología de Aventuras
 
 ### 🌅 **Fase I: El Despertar (2010)**

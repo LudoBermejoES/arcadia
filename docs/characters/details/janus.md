@@ -7,6 +7,10 @@ slug: janus
 
 # Janus
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Janus.jpg" alt="Janus" />
+</div>
+
 ## Presentación
 Janus era el líder del grupo de supervillanos Fatum, una familia de criminales excepcionalmente ricos con nombres de dioses etrusco-romanos. Falleció hace unos años, pero fue responsable de los experimentos realizados en Diana durante su preparación para liderar la siguiente generación de Fatum.
 

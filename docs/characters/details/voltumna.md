@@ -7,6 +7,10 @@ slug: voltumna
 
 # Voltumna
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Voltumna.jpg" alt="Voltumna" />
+</div>
+
 ## Presentación
 Voltumna es el especialista electroquinético del grupo de supervillanos Fatum, una familia criminal excepcionalmente rica con nombres de dioses etrusco-romanos. Su dominio de la electricidad lo convierte en un miembro vital para las operaciones urbanas y la planificación estratégica del grupo.
 

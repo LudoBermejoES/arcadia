@@ -7,6 +7,10 @@ slug: merx
 
 # Merx
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Merx.jpg" alt="Merx" />
+</div>
+
 ## Presentación
 Merx es el velocista del grupo de supervillanos Fatum, una familia criminal excepcionalmente rica con nombres de dioses etrusco-romanos. Su velocidad desafía la percepción humana y lo convierte en el especialista en movilidad y ataques rápidos del grupo.
 

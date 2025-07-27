@@ -7,6 +7,10 @@ slug: cloris
 
 # Cloris
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Cloris.jpg" alt="Cloris" />
+</div>
+
 ## Presentación
 Cloris era un miembro del grupo de supervillanos Fatum y la madre de Diana. Poseía poderes regenerativos y control sobre las plantas, siendo considerada "el corazón de Fatum" antes de su trágica muerte durante el parto de Diana. Su fallecimiento fue un golpe emocional devastador para todo el grupo.
 

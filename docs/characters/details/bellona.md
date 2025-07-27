@@ -7,6 +7,10 @@ slug: bellona
 
 # Bellona
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Bellona.jpg" alt="Bellona" />
+</div>
+
 ## Presentación
 Bellona es el "peso pesado" del grupo de supervillanos Fatum, una familia criminal excepcionalmente rica con nombres de dioses etrusco-romanos. A pesar de su apariencia engañosa con vestido rosa, es la fuerza bruta principal del grupo y posiblemente contribuyó genéticamente a la creación de Diana.
 

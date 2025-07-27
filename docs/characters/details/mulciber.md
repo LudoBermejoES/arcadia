@@ -7,6 +7,10 @@ slug: mulciber
 
 # Mulciber
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Mulcifer.jpg" alt="Mulciber" />
+</div>
+
 ## Presentación
 Mulciber es el armero del grupo de supervillanos Fatum y actualmente el tutor legal de Diana. Como fabricante de armas especializado, puede crear herramientas y armamento al instante calentando metal con sus propias manos. Su rol se ha complicado tras la muerte de Janus, con sospechas sobre su posible complicidad.
 

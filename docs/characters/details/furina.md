@@ -7,6 +7,10 @@ slug: furina
 
 # Furina
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Furina.jpg" alt="Furina" />
+</div>
+
 ## Presentación
 Furina es la especialista en infiltración del grupo de supervillanos Fatum, una familia criminal excepcionalmente rica con nombres de dioses etrusco-romanos. Su habilidad para convertirse en humo intangible, invisible e inodoro la convierte en la perfecta espía y recopiladora de información del grupo.
 

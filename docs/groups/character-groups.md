@@ -10,7 +10,8 @@ permalink: /groups/character-groups/
 
 ### La Familia
 **Período**: Primera campaña (2009-2014, 5 años de juego)  
-**Concepto**: Los héroes fundacionales de Arcadia - clones con memorias implantadas que se convirtieron en verdaderos héroes
+**Concepto**: Los héroes fundacionales de Arcadia - clones con memorias implantadas que se convirtieron en verdaderos héroes  
+**Campaña**: [La Familia]({{ site.baseurl }}/campaigns/la-familia/)
 
 La Familia fue el grupo inaugural que estableció los cimientos del universo heroico de Arcadia. Durante 5 años épicos, estos personajes forjaron las leyendas que inspirarían a futuras generaciones. Su historia central gira en torno al descubrimiento de que eran clones con memorias falsas, creados para un propósito siniestro, pero que eligieron convertirse en verdaderos héroes.
 
@@ -39,7 +40,8 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 ### Génesis
 **Período**: Segunda campaña (2014-2015, 1 año de juego)  
-**Concepto**: Segundo grupo de superhéroes
+**Concepto**: Segundo grupo de superhéroes  
+**Campaña**: [Génesis]({{ site.baseurl }}/campaigns/genesis/)
 
 **Miembros**:
 - [Alice / Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) (Tindriel/María)
@@ -50,7 +52,8 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 ### La Fuerza Oculta
 **Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)  
-**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
+**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"  
+**Campaña**: [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 
 **Miembros**:
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)

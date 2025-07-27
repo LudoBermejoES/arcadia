@@ -37,7 +37,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
   - **Trasfondo**: Presentador de TV con conocimientos de magia egipcia ancestral. Sus poderes están conectados con entidades oscuras que exigen un precio terrible.
 
 **Miembro temporal**:
-- **[Estocada]({{ site.baseurl }}/characters/details/estocada/)** - *El Acróbata Felino*
+- **[Estocada]({{ site.baseurl }}/characters/details/estocada/)** (Keven) - *El Acróbata Felino*
   - **Poderes**: Habilidades felinas, resistencia al despellejamiento, inmunidad temporal
   - **Trasfondo**: Antiguo acróbata de circo alcohólico con naturaleza felina. Participó con La Familia durante una época antes de marcharse para fundar una familia con cuatro compañeras Bestia.
 

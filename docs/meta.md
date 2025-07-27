@@ -134,7 +134,7 @@ Este archivo representa:
 ## Navegación Meta
 
 - [🏠 Volver al Mundo "Real"]({{ site.baseurl }}/)
-- [🎭 Ver Cómo Se Creó Este Universo](campaigns/)
-- [🎬 Transcripciones de la "Actuación"](transcriptions/)
-- [📖 La "Historia" Completa](timeline/)
-- [🎲 Los "Personajes" que Interpretamos](characters/)
+- [🎭 Ver Cómo Se Creó Este Universo]({{ site.baseurl }}/campaigns/)
+- [🎬 Transcripciones de la "Actuación"]({{ site.baseurl }}/work-in-progress/#transcripciones)
+- [📖 La "Historia" Completa]({{ site.baseurl }}/work-in-progress/#línea-temporal)
+- [🎲 Los "Personajes" que Interpretamos]({{ site.baseurl }}/characters/)

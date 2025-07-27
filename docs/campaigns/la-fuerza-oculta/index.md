@@ -49,6 +49,12 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ---
 
+## 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/summary/)**
+
+Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde los primeros días como participantes del reality show hasta su evolución como héroes fugitivos independientes.
+
+---
+
 ## 📖 Cronología de Aventuras
 
 ### 🎬 **Fase I: Formación y Selección (Marzo 2024)**

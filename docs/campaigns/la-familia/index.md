@@ -111,6 +111,9 @@ Descubren marines estadounidenses protegiendo instalación con luz verde misteri
 
 **[Sesión 25 Mayo 2025]({{ site.baseurl }}/campaigns/la-familia/session-42-2025-05-25/)**: Diez años después, [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) convoca a La Familia. [Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) ha ayudado a jóvenes metahumanos. Se reúnen en el parque de bomberos restaurado. El [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) alimentó almas a su gato [Bastet]({{ site.baseurl }}/characters/details/bastet/), quien abrió puertas a antiguos dioses egipcios, destruyendo edificios de más de dos plantas. Buscan redimirlo en el templo de Ra, donde fluctuaciones temporales transforman a Atropos en Esfinge.
 
+### 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-familia/summary/summary/)**
+*Para conocer todos los detalles de estas épicas aventuras, consulta el resumen completo que narra pormenorizadamente cada fase de la campaña original.*
+
 ---
 
 ## 🔗 Conexiones con Futuras Campañas

@@ -277,6 +277,17 @@ El grupo ejecuta el plan de escape usando los planos proporcionados por Cacharri
 - Conexiones con resistencia anti-Metacorps
 - Historia personal traumática: mente borrada y reescrita en el pasado
 
+**La Manipulación Curativa de Bate:**
+Durante un viaje mental dentro de la mente de Mesmero, este manipula forzosamente a **Psique** para expandir sus poderes telepáticos y desarrollar **habilidades curativas mentales**. 
+
+*"Sique se resiste pero no puede defenderse. La mente manipula a Sique. Su mente se amplia y cada vez abarca más conocimiento. Sique tiene una epifanía, adquiere poderes uno de ellos cura mente sobre todo pero también cuerpo."*
+
+**Mesmero** usa estos nuevos poderes de **Psique** para curar definitivamente a **Bate** de sus condicionamientos mentales asesinos:
+
+*"Sique toca una mente. Imaginamos un cerebro como un campo de minas. Mesmero, a través de sique, elimina esas minas."*
+
+Esta intervención libera permanentemente a **Bate** de las "bombas mentales" y protocolos de control que había sido programado a obedecer, permitiéndole finalmente ser libre de los condicionamientos que lo habían convertido en un arma contra sus propios compañeros. Gracias a esta curación, Bate ya no sufre los impulsos asesinos automáticos ni las activaciones por palabras clave que lo habían atormentado durante años.
+
 **Desarrollo de poderes bajo estrés:**
 - **Psique** desarrolla habilidades curativas tras manipulación de Mesmero
 - **Justa** comienza cuestionar sistema de justicia

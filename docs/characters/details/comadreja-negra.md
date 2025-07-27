@@ -7,6 +7,10 @@ slug: comadreja-negra
 
 # Comadreja Negra
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Comadreja%20negra.png" alt="Comadreja Negra" />
+</div>
+
 ## Presentación
 Comadreja Negra es un intermediario y contacto del submundo de Arcadia, cuyo nombre evoca astucia, rapidez y la capacidad de moverse sin ser detectado. Su apodo sugiere una especialización en operaciones que requieren discrección y agilidad.
 

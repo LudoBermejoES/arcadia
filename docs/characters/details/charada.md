@@ -7,6 +7,10 @@ slug: charada
 
 # Charada
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Charada.png" alt="Charada" />
+</div>
+
 ## Presentación
 
 Charada es un sastre especializado en trajes de superhéroes que se hizo famoso en los años 90 por su controvertida relación con su mentor y por diseñar el traje de Arcadio. Actualmente trabaja confeccionando trajes para la nueva generación de héroes de Arcadia.

@@ -10,15 +10,32 @@ permalink: /groups/character-groups/
 
 ### La Familia
 **Período**: Primera campaña (2009-2014, 5 años de juego)  
-**Concepto**: Primer grupo de superhéroes del proyecto
+**Concepto**: Los héroes fundacionales de Arcadia - clones con memorias implantadas que se convirtieron en verdaderos héroes
 
-**Miembros**:
-- [Bate]({{ site.baseurl }}/characters/details/bate/) (Dani)
-- [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) (Chus)
-- [Garra]({{ site.baseurl }}/characters/details/garra/) (Conchi)
-- [Ana Montenegro / Esfinge / Atropos]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) (Jandro)
-- [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/) (Edu)
-- [Estocada]({{ site.baseurl }}/characters/details/estocada/)
+La Familia fue el grupo inaugural que estableció los cimientos del universo heroico de Arcadia. Durante 5 años épicos, estos personajes forjaron las leyendas que inspirarían a futuras generaciones. Su historia central gira en torno al descubrimiento de que eran clones con memorias falsas, creados para un propósito siniestro, pero que eligieron convertirse en verdaderos héroes.
+
+**Miembros principales**:
+- **[Bate / Andrés]({{ site.baseurl }}/characters/details/bate/)** (Dani) - *El Protector Traumatizado*
+  - **Poderes**: Superfuerza, vuelo, invulnerabilidad, forma gigante (Goliat)
+  - **Trasfondo**: Creía ser un ex-policía que perdió a su familia en un atentado, pero descubrió que era un clon programado como medida de seguridad. Alberga el alma de Samuel, un verdadero policía que murió protegiendo a una niña.
+
+- **[Mésmero / Julián]({{ site.baseurl }}/characters/details/mesmero/)** (Chus) - *El Estratega Mental*
+  - **Poderes**: Telepatía, control mental, sugestión, lectura de pensamientos
+  - **Trasfondo**: Artista transformista y mentalista de cabaret. El más estable emocionalmente del grupo, actúa como mediador y consejero.
+
+- **[Garra / Marcos]({{ site.baseurl }}/characters/details/garra/)** (Conchi) - *El Adolescente Eterno*
+  - **Poderes**: Telequinesis, campos de fuerza, garras de energía, armadura cibernética
+  - **Trasfondo**: Ex-actor de cine para adultos que rejuveneció artificialmente hasta convertirse en adolescente. Su transformación temporal le permitió una segunda oportunidad en la vida.
+
+- **[Esfinge / Atropos / Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** (Jandro) - *La Manipuladora Temporal*
+  - **Poderes**: Manipulación temporal, ralentización del tiempo, precognición
+  - **Trasfondo**: Estudiante adolescente con poderosas habilidades temporales. Vive una doble vida entre ser una adolescente normal y una superheroína.
+
+- **[El Faraón / Gitano]({{ site.baseurl }}/characters/details/el-faraon/)** (Edu) - *El Místico Trágico*
+  - **Poderes**: Magia egipcia, viaje astral, invocación de tormentas de arena, necromancia
+  - **Trasfondo**: Presentador de TV con conocimientos de magia egipcia ancestral. Sus poderes están conectados con entidades oscuras que exigen un precio terrible.
+
+**Temática central**: La búsqueda de identidad verdadera, el precio del heroísmo, y la transformación de víctimas de manipulación en verdaderos protectores. Sus arcos narrativos exploran temas de memoria falsa, condicionamiento mental, y la lucha por definir su propia moralidad a pesar de sus orígenes artificiales.
 
 ### Génesis
 **Período**: Segunda campaña (2014-2015, 1 año de juego)  

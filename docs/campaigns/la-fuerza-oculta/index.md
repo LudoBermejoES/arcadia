@@ -142,11 +142,27 @@ Mezcla elementos de:
 
 ## 📊 Estadísticas de la Campaña
 
-### 📅 **Duración**: 5 años activos (2020-2025)
-### 🎲 **Sesiones Documentadas**: 24+ sesiones
-### 👥 **Jugadores Activos**: 6 jugadores principales
-### 📝 **Páginas de Notas**: Miles de palabras de transcripciones
-### 🎵 **Horas de Audio**: Decenas de horas grabadas
+<div class="stats-grid">
+<div class="stat-card">
+<span class="stat-number">1.5</span>
+<span class="stat-label">Años Activos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">24+</span>
+<span class="stat-label">Sesiones Documentadas</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">6</span>
+<span class="stat-label">Jugadores Principales</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">50+</span>
+<span class="stat-label">Horas de Audio</span>
+</div>
+</div>
 
 ---
 

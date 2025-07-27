@@ -33,6 +33,38 @@ a:hover {
     text-decoration: underline;
 }
 
+/* Character photo styling */
+.character-photo {
+    float: right;
+    margin: 0 0 20px 20px;
+    max-width: 300px;
+    width: 100%;
+}
+
+.character-photo img {
+    width: 100%;
+    height: auto;
+    max-height: 400px;
+    object-fit: contain;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    border: 2px solid #e60026;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .character-photo {
+        float: none;
+        margin: 20px auto;
+        max-width: 250px;
+        text-align: center;
+    }
+    
+    .character-photo img {
+        max-height: 300px;
+    }
+}
+
 .top-nav {
     background-color: #e60026; /* Orange */
     padding: 1rem;

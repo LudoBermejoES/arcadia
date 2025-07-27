@@ -19,29 +19,29 @@ permalink: /campaigns/la-familia/
 
 ## 🦸‍♂️ Los Héroes Fundacionales
 
-### 🐺 **Garra** *(Conchi)*
+### 🐺 **[Garra]({{ site.baseurl }}/characters/details/garra/)** *(Conchi)*
 - **Poderes**: Regeneración, garras letales, instintos animales
 - **Personalidad**: Feroz protector con corazón noble
 - **Legado**: Su determinación estableció el código moral heroico
 - **Conexión Futura**: Ayuda en la evasión de La Fuerza Oculta
 
-### 👑 **El Faraón** *(Edu)*
+### 👑 **[El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)** *(Edu)*
 - **Poderes**: Control de arenas místicas, magia egipcia antigua
 - **Trasfondo**: 2 millones de vidas perdidas en cataclismo egipcio
 - **Estatus**: Criminal de guerra buscado internacionalmente
 - **Arco**: De conquistador a héroe redentor
 
-### 🔮 **Esfinge** *(Jandro)*
+### 🔮 **[Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** *(Jandro)*
 - **Poderes**: Conocimiento arcano, adivinación, secretos antiguos
 - **Rol**: Guardián de sabiduría perdida
 - **Especialidad**: Resolver enigmas cósmicos y amenazas místicas
 
-### 🦇 **Bate** *(Dani)*
+### 🦇 **[Bate]({{ site.baseurl }}/characters/details/bate/)** *(Dani)*
 - **Poderes**: Tecnología avanzada, tácticas nocturnas
 - **Estilo**: Vigilante urbano con recursos ilimitados
 - **Filosofía**: Justicia a través de intimidación y preparación
 
-### 🧠 **Mésmero** *(Chus)*
+### 🧠 **[Mésmero]({{ site.baseurl }}/characters/details/mesmero/)** *(Chus)*
 - **Poderes**: Control mental, manipulación psíquica
 - **Conflicto**: Poder corrupto vs intenciones heroicas  
 - **Evolución**: Aprender a usar influencia responsablemente
@@ -52,9 +52,9 @@ permalink: /campaigns/la-familia/
 
 ### ⚛️ **La Crisis de la Bomba Atómica**
 El momento definitorio que estableció a La Familia como protectores de Arcadia:
-- **Amenaza**: La Farándula intenta detonar bomba nuclear en el corazón de la ciudad
+- **Amenaza**: [La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula) intenta detonar bomba nuclear en el corazón de la ciudad
 - **Héroe**: La Familia impide la catástrofe en operación coordinada épica
-- **Consecuencias**: La Farándula desaparece por una década (hasta La Fuerza Oculta)
+- **Consecuencias**: [La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula) desaparece por una década (hasta La Fuerza Oculta)
 - **Legado**: Este evento es recordado 15 años después como el "Día Cero" heroico
 
 ### 🏛️ **Establecimiento del Orden Heroico**
@@ -74,16 +74,16 @@ El momento definitorio que estableció a La Familia como protectores de Arcadia:
 ## 🔗 Conexiones con Futuras Campañas
 
 ### ➡️ **Hacia Génesis**
-- **Chus (Mésmero)** se convierte en **Sara10/Mecánica** en Génesis
-- **Conchi (Garra)** evoluciona a **Lúmen** 
-- **Dani (Bate)** se transforma en **Thomas**
+- **Chus ([Mésmero]({{ site.baseurl }}/characters/details/mesmero/))** se convierte en **[Sara10/Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/)** en Génesis
+- **Conchi ([Garra]({{ site.baseurl }}/characters/details/garra/))** evoluciona a **[Lúmen]({{ site.baseurl }}/characters/details/lumen/)** 
+- **Dani ([Bate]({{ site.baseurl }}/characters/details/bate/))** se transforma en **[Thomas]({{ site.baseurl }}/characters/details/thomas-raza/)**
 - **Tecnologías y alianzas** establecidas son heredadas
 
 ### ➡️ **Hacia La Fuerza Oculta**
-- **Garra** ayuda activamente en la evasión del juicio
-- **La Farándula** regresa como amenaza principal
-- **Comadreja** (mentor actual) tiene conexiones con esta era
-- **Ana Montenegro** (abogada) formaba parte del ecosistema legal
+- **[Garra]({{ site.baseurl }}/characters/details/garra/)** ayuda activamente en la evasión del juicio
+- **[La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula)** regresa como amenaza principal
+- **[Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/)** (mentor actual) tiene conexiones con esta era
+- **[Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** (abogada) formaba parte del ecosistema legal
 
 ---
 
@@ -98,8 +98,8 @@ La versión de Arcadia que La Familia ayudó a formar:
 
 ### 🤝 **La Red de Apoyo**
 Creación del ecosistema que sostiene la vida heroica:
-- **Sastres especializados** (tradición que lleva a Charada)
-- **Mentores veteranos** (incluyendo Comadreja)
+- **Sastres especializados** (tradición que lleva a [Charada]({{ site.baseurl }}/characters/details/charada/))
+- **Mentores veteranos** (incluyendo [Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/))
 - **Abogados especializados** en derecho metahumano
 - **Red de contactos** en todos los niveles sociales
 
@@ -108,16 +108,16 @@ Creación del ecosistema que sostiene la vida heroica:
 ## 📚 Archivo Histórico
 
 ### 📖 **Documentación Disponible**
-- **Notas de sesión**: Archivos físicos de los primeros años
+- **Notas de sesión**: [Archivos disponibles]({{ site.baseurl }}/campaigns/la-familia/session-01/) de los primeros años
 - **Grabaciones**: Algunas sesiones clave preservadas
-- **Referencias cruzadas**: Menciones en campañas posteriores
+- **Referencias cruzadas**: Menciones en [Génesis]({{ site.baseurl }}/campaigns/genesis/) y [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 - **Testimonios**: Relatos de jugadores sobre momentos icónicos
 
 ### 🎯 **Sesiones Legendarias** *(Pendientes de Digitalización)*
-- **La Génesis del Faraón**: Origen del personaje más complejo
-- **El Juicio de Mésmero**: Debate ético sobre poderes mentales
+- **La Génesis del Faraón**: Origen del [personaje más complejo]({{ site.baseurl }}/characters/details/el-faraon/)
+- **El Juicio de Mésmero**: Debate ético sobre [poderes mentales]({{ site.baseurl }}/characters/details/mesmero/)
 - **La Alianza Imposible**: Unión de personalidades opuestas
-- **El Día Cero**: Salvando Arcadia de destrucción nuclear
+- **El Día Cero**: [Salvando Arcadia]({{ site.baseurl }}/campaigns/la-familia/session-41/) de destrucción nuclear
 
 ---
 

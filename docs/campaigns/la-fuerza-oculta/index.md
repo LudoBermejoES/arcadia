@@ -51,15 +51,39 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ## 📖 Cronología de Aventuras
 
-### 🎯 **Fase I: Los Fugitivos (Junio 2025)**
-- **[Sesión 15/06](sessions/2025-06-15.md)**: La gran evasión y refugio en la mansión
-- **[Sesión 22/06](sessions/2025-06-22.md)**: Debate ético y primer combate como equipo
-- **[Sesión 29/06](sessions/2025-06-29.md)**: Apocalipsis geográfico y supervivencia
+### 🎬 **Fase I: Formación y Selección (Marzo 2024)**
+- **[24 Marzo](manual-notes/session-01-2024-03-24.md)**: Selección para "Héroes o Villanos" de RTA, llegada a la isla misteriosa
+- **[24 Marzo](manual-notes/session-02-2024-03-24.md)**: Instalación en la mansión, primera crisis con la Baronesa
+- **[31 Marzo](manual-notes/session-03-2024-03-31.md)**: Eslizón herido, revelación sobre la Baronesa (200 muertes), intervención de Comadreja
 
-### 🦸‍♂️ **Fase II: Profesionalización (Julio 2025)**
-- **[Sesión 06/07](sessions/2025-07-06.md)**: Trajes heroicos y entrada a la comunidad
-- **[Sesión 13/07](sessions/2025-07-13.md)**: Segunda evolución y primera misión oficial
-- **[Sesión 20/07](sessions/2025-07-20.md)**: Operación subterránea y La Farándula
+### 🏋️ **Fase II: Entrenamiento y Desarrollo (Abril 2024)**
+- **[14 Abril](manual-notes/session-04-2024-04-14.md)**: Día libre post-crisis, encuentro mental hostil con "los vecinos"
+- **[14 Abril](manual-notes/session-05-2024-04-14.md)**: Cambio de instructor - llega Espectro sustituyendo a Comadreja
+- **[21 Abril](manual-notes/session-06-2024-04-21.md)**: Contramedidas anti-psíquicas, introducción al mundo metahumano
+- **[28 Abril](manual-notes/session-07-2024-04-28.md)**: Correo familiar, Astrid recibe hoverpatinete misterioso
+
+### 🎯 **Fase III: Pruebas y Revelaciones (Mayo 2024)**
+- **[19 Mayo](manual-notes/session-08-2024-05-19.md)**: Segunda prueba contra robots, mejora del trabajo en equipo
+- **[26 Mayo](manual-notes/session-09-2024-05-26.md)**: Aparición de Mésmero, sesión de revelaciones personales
+- **[26 Mayo](manual-notes/session-10-2024-05-26.md)**: Cia se revela transgénero, Diana conectada a Fatum, formación de parejas
+
+### ⚔️ **Fase IV: Primera Crisis Mayor (Junio-Julio 2024)**
+- **[16 Junio](manual-notes/session-11-2024-06-16.md)**: Ataque de Cromado buscando a Diana, escape con ayuda de Garra
+- **[7 Julio](manual-notes/session-12-2024-07-07.md)**: Refugio en Distrito Gótico, encuentro con Mésmero en trance
+- **[14 Julio](manual-notes/session-13-2024-07-14.md)**: Viaje por la mente de Mésmero, recuperación de Bate de La Familia
+- **[21 Julio](manual-notes/session-14-2024-07-21.md)**: Trauma de Justa, reencuentro con la muerte de su padre
+- **[28 Julio](manual-notes/session-15-2024-07-28.md)**: Mésmero como "voz de los muertos", reunión final
+
+### ⚖️ **Fase V: Transición a Fugitivos (Agosto 2024)**
+- **[18 Agosto](manual-notes/session-16-2024-08-18.md)**: Entrega voluntaria, proceso con Ana Montenegro, adopción del nombre "Fuerza Oculta"
+- **[25 Agosto](manual-notes/session-17-2024-08-25.md)**: Juicio público, sentencia con collares inhibidores, escape por intervención misteriosa
+
+### 🦸‍♂️ **Fase VI: Consolidación Heroica (Junio-Julio 2025)**
+- **[15 Junio](manual-notes/session-20-2025-06-15.md)**: Reunión en mansión Fatum tras meses separados, decisión de ser superhéroes independientes
+- **[22 Junio](manual-notes/session-21-2025-06-22.md)**: Ataque a la mansión, huida, llegada al gimnasio de Comadreja
+- **[6 Julio](manual-notes/session-22-2025-07-06.md)**: Visita a Charada el sastre, diseño de trajes oficiales
+- **[13 Julio](manual-notes/session-23-2025-07-13.md)**: Recepción de trajes, contacto con voz misteriosa, oferta de base en metro
+- **[20 Julio](manual-notes/session-24-2025-07-20.md)**: Primera misión oficial, infiltración subterránea, descubrimiento de La Farándula
 
 ---
 

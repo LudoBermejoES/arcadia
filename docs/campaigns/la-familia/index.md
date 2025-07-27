@@ -54,26 +54,62 @@ permalink: /campaigns/la-familia/
 
 ---
 
-## 🌟 Momentos Legendarios
+## 📖 Cronología de Aventuras
 
-### ⚛️ **La Crisis de la Bomba Atómica**
-El momento definitorio que estableció a La Familia como protectores de Arcadia:
-- **Amenaza**: [La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula) intenta detonar bomba nuclear en el corazón de la ciudad
-- **Héroe**: La Familia impide la catástrofe en operación coordinada épica
-- **Consecuencias**: [La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula) desaparece por una década (hasta La Fuerza Oculta)
-- **Legado**: Este evento es recordado 15 años después como el "Día Cero" heroico
+### 🌅 **Fase I: El Despertar (2010)**
+**"Los Sarcófagos de la Memoria"**
 
-### 🏛️ **Establecimiento del Orden Heroico**
-- **Creación de protocolos** para futuros metahumanos
-- **Alianzas** con autoridades de Arcadia
-- **Códigos éticos** que influencian futuras generaciones
-- **Infraestructura heroica** que perdura hasta la actualidad
+Los miembros de La Familia despiertan en sarcófagos con máscaras, sin memoria excepto fragmentos falsos de Mesmero. Transportados a Arcadia, [Pandorum]({{ site.baseurl }}/characters/details/pandorum/) les proporciona documentos a cambio de futuros trabajos. Descubren el asesinato sistemático de mentalistas, establecen base en el barrio gótico, rescatan a [Atropos-Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) y conocen a [Bate]({{ site.baseurl }}/characters/details/bate/) en el gimnasio de la [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/).
 
-### 🌍 **La Gran Expansión**
-- **Exploración** de distritos de Arcadia  
-- **Contacto** con otras dimensiones y realidades
-- **Establecimiento** de la comunidad metahumana moderna
-- **Creación** del ecosistema de apoyo (sastres, mentores, etc.)
+### ⏰ **Fase II: Ecos del Pasado (2010-2011)**
+**"Viajes Temporales y Verdades Ocultas"**
+
+Siguiendo el rastro del [Faraón]({{ site.baseurl }}/characters/details/el-faraon/), viajan a 1978 para enfrentar al [Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/) en una pirámide de neón. Luchan contra el Faraón del pasado y una mente manifestada como garra gigante. El barbero mentalista revela la pérdida de memoria de una semana en Arcadia. Conocen sobre [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/) encerrada desde 1984.
+
+### 🌌 **Fase III: La Expansión de Psicodalia (2011-2012)**
+**"El Aleph y los Huevos del Destino"**
+
+[Mésmero]({{ site.baseurl }}/characters/details/mesmero/) conecta mentalmente con [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/), quien se expande hasta convertirse en un "aleph" otorgándoles "antiprobabilidad". Asaltan la fortaleza de [Destino]({{ site.baseurl }}/characters/details/destino/) obteniendo "huevos" para darle cuerpo a Dama. El Faraón adquiere la furgoneta equipada por el Chatarrero. Conocen al Doctor Anselmo quien les habla de [Nube]({{ site.baseurl }}/characters/details/nube/), el telékinético fallecido.
+
+### 🏝️ **Fase IV: El Clonario y las Visiones del Futuro (2012)**
+**"Isla Pequeña y el Barrio Gótico en Ruinas"**
+
+En la Isla Pequeña descubren una cripta con cuerpos preservados de todos los miembros de La Familia. Son transportados al barrio gótico futurista en ruinas (2025) donde conocen al envejecido Alfonso Montenegro. Descubren carteles de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y periódicos sobre la rendición de España a la República de Arcadia. Las lecturas mentales revelan campos de concentración.
+
+### 🧬 **Fase V: Las Manipulaciones Reveladas (2012-2013)**
+**"Mentes Borradas y Edades Falsas"**
+
+Investigan a Luis Fuentes de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y su ideología de exterminio metahumano. Descubren que los miembros tienen solo un año de edad biológica. [Bate]({{ site.baseurl }}/characters/details/bate/) descubre que su mente fue borrada y reescrita, y que su edad real supera los 100 años. Se revela una base española de 1946 que "cultivaba" metahumanos.
+
+### 🔮 **Fase VI: Profecías y Almas Perdidas (2013)**
+**"De la Sibila al Pozo de Almas"**
+
+Derrotan al minotauro mágico y encuentran el "Pozo de almas" con caras congeladas. La [Sibila]({{ site.baseurl }}/characters/details/venus-sibila/) (antigua Venus) profetiza sobre el regreso del Faraón Oscuro y una "fuerza superior" que equilibra héroes y villanos. Se les encomienda encontrar el "cuerpo de las niñas" (Magdalena). Descubren el asesinato de Marta Heredia, posiblemente por el [Matador]({{ site.baseurl }}/characters/details/el-matador/).
+
+### 🕷️ **Fase VII: Los Parásitos del Tiempo (2013-2014)**
+**"Espligan, Confesores y Guardianes"**
+
+[Mésmero]({{ site.baseurl }}/characters/details/mesmero/) sufre ataques mentales durante actuaciones. Conocen a Natasha quien revela los "espligan" (bichos que roban tiempo) y los [confesores]({{ site.baseurl }}/characters/details/los-confesores/) (cazadores). Encuentran el cubil bajo la embajada francesa. [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) revela formar parte de los "Guardianes" junto con el Mago y [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/).
+
+### 🎭 **Fase VIII: La Telaraña y La Farándula (2014)**
+**"Mercenarios Locos y Venganzas Literarias"**
+
+Se infiltran en prisión para entrevistar a Marta, cuya alma está "rota". La ciudad sufre siete explosiones simultáneas. Descubren conexiones con sirianos y un líder de secta. Confirman la existencia de la [Telaraña]({{ site.baseurl }}/characters/details/telarana/) y sus mercenarios "[La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)", obsesionados con el Siglo de Oro. Enfrentan al "Lazarillo de Tormes" que busca venganza "ojo por ojo".
+
+### 🔄 **Fase IX: Falsas Banderas y Protocolos (2014-2015)**
+**"Marines, Piedras Zumbantes y Fusiones"**
+
+Descubren marines estadounidenses protegiendo instalación con luz verde misteriosa. [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) identifica piedra que emite zumbidos. Sus poderes son inhibidos y el barrio gótico se deteriora. Se activa el "protocolo Bate" causando fusiones temporales: dos versiones de [Garra]({{ site.baseurl }}/characters/details/garra/) y dos de Bate se unen tras conflicto donde Bate del pasado mata a Mésmero del pasado.
+
+### 💥 **Fase X: El Gran Final (2015)**
+**"Zona Cero y los Ultracorps"**
+
+[Garra]({{ site.baseurl }}/characters/details/garra/) envejece hasta los 20 años y se detiene. Encuentran tres cabezas clavadas en picas frente a su puerta. En el hospicio, el [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) descubre la cola de bicha de la Reina Cobra. Durante discurso del alcalde aparecen los "Ultracorps" y una gran explosión de "Freiglasung" mata al alcalde. Se forma un vórtice de muerte mientras Bate lucha contra Maniquí y el Faraón confronta al asesino fanático.
+
+### 🔄 **Fase XI: El Regreso (2025)**
+**"Diez Años Después - El Faraón Perdido"**
+
+**[Sesión 25 Mayo 2025]({{ site.baseurl }}/campaigns/la-familia/session-42-2025-05-25/)**: Diez años después, [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) convoca a La Familia. [Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) ha ayudado a jóvenes metahumanos. Se reúnen en el parque de bomberos restaurado. El [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) alimentó almas a su gato [Bastet]({{ site.baseurl }}/characters/details/bastet/), quien abrió puertas a antiguos dioses egipcios, destruyendo edificios de más de dos plantas. Buscan redimirlo en el templo de Ra, donde fluctuaciones temporales transforman a Atropos en Esfinge.
 
 ---
 

@@ -178,6 +178,32 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
+### **🥊 [Puño Gris](../characters/details/puno-gris.md)**
+**Mafia del Distrito Asiático**
+
+#### **Estructura Criminal:**
+- **🏙️ Base Territorial**: Distrito asiático y zona portuaria de Arcadia
+- **🔗 Subsidiaria**: Operan bajo el paraguas de Telaraña
+- **💼 Servicios Mercenarios**: Contratación para operaciones criminales
+- **🤫 Código de Silencio**: Preferencia por prisión antes que traición
+
+#### **Operaciones Conocidas:**
+- **💊 Tráfico de Drogas**: Sustancias potenciadoras en instalaciones subterráneas
+- **🔫 Seguridad Criminal**: Protección de laboratorios de La Farándula  
+- **⚔️ Combate Especializado**: Mercenarios entrenados y bien equipados
+- **🗺️ Conocimiento Local**: Rutas secretas del metro y túneles
+
+#### **Relación con Telaraña:**
+- **📊 Jerarquía**: Organización subordinada en red criminal mayor
+- **🎯 Misiones**: Ejecutan operaciones para organización superior
+- **⚖️ Protección**: Telaraña no castiga a miembros capturados que mantengan silencio
+- **💰 Financiación**: Recursos proporcionados por red criminal principal
+
+#### **Filosofía Criminal:**
+*"Lealtad absoluta a la organización, honor entre criminales"*
+
+---
+
 ## 🏛️ **Instituciones Gubernamentales**
 
 ### **🏛️ Gobierno de Arcadia**
@@ -321,7 +347,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 </div>
 
 <div class="stat-card">
-<span class="stat-number">12</span>
+<span class="stat-number">13</span>
 <span class="stat-label">Grupos Villanos</span>
 </div>
 

@@ -7,6 +7,10 @@ slug: el-matador
 
 # El Matador
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Matador.png" alt="El Matador" />
+</div>
+
 ## Presentación
 El Matador es una figura misteriosa del submundo de Arcadia, cuyo nombre evoca la tradición taurina española y sugiere habilidades letales y precisas. Su denominación implica una especialización en eliminación de objetivos con un estilo particular y ceremonioso.
 

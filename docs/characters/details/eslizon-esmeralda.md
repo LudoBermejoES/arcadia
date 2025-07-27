@@ -7,6 +7,10 @@ slug: eslizon-esmeralda
 
 # Eslizón Esmeralda
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Eslizon%20Esmeralda.png" alt="Eslizón Esmeralda" />
+</div>
+
 ## Presentación
 Eslizón Esmeralda, también conocido como Esme, es un metahumano con características reptilianas perteneciente al grupo "La Fuerza Oculta". Es jugado por Sugus y se destaca por su apariencia de lagarto y sus habilidades físicas únicas. Es considerado "curioso" por sus compañeros debido a su naturaleza reptiliana.
 

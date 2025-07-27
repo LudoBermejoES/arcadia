@@ -7,6 +7,10 @@ slug: astrid-kayface
 
 # Astrid / Kayface
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Astrid%3AKayface.png" alt="Astrid / Kayface" />
+</div>
+
 ## Presentación
 Astrid, también conocida como Kayface, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Xavi. Se caracteriza por sus conocimientos tecnológicos y su interés en la cultura pop. Comparte habitación con Diana durante el entrenamiento en la mansión.
 

@@ -7,6 +7,10 @@ slug: mesmero
 
 # Mésmero
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Mésmero.png" alt="Mésmero" />
+</div>
+
 ## Presentación
 Mésmero es un metahumano con poderes mentales perteneciente al grupo "La Familia". Se caracteriza por ser el único miembro del grupo que retuvo parte de sus memorias falsas cuando despertaron en los sarcófagos, lo que le da una perspectiva única sobre su situación y origen.
 

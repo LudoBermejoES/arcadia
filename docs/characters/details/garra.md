@@ -7,6 +7,10 @@ slug: garra
 
 # Garra
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Garra.png" alt="Garra" />
+</div>
+
 ## Presentación
 Garra es un metahumano del grupo "La Familia", conocido por su poder de manipulación energética que se manifiesta en forma de garras y campos de fuerza. Su poder está relacionado con una antigua figura heroica llamada "Nube" y tiene conexiones místicas profundas.
 

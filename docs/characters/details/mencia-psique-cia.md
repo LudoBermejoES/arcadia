@@ -7,6 +7,10 @@ slug: mencia-psique-cia
 
 # Mencia / Psique / Cia
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Mencia%3APsique%3ACia.png" alt="Mencia / Psique / Cia" />
+</div>
+
 ## Presentación
 Mencia, también conocida como Psique o Cia, es una metahumana con poderes psíquicos perteneciente al grupo "La Fuerza Oculta", jugada por Conchi. Se caracteriza por sus habilidades mentales, su capacidad de manipular pensamientos, y su naturaleza reservada que hace difícil leer sus propias intenciones.
 

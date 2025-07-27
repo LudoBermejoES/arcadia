@@ -7,6 +7,10 @@ slug: bate
 
 # Bate
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Bate.png" alt="Bate" />
+</div>
+
 ## Presentación
 Bate es un metahumano perteneciente al grupo "La Familia", conocido por sus capacidades de transformación física. Tiene un pasado trágico, habiendo perdido a su marido e hija en un ataque que implicó al ayuntamiento. Es un personaje con gran fuerza física y capacidad de vuelo.
 

@@ -48,7 +48,12 @@
       "Bash(npx:*)",
       "Bash(timeout 10 npx @playwright/mcp@latest --headless --version)",
       "mcp__ide__executeCode",
-      "Bash(pip3 install:*)"
+      "Bash(pip3 install:*)",
+      "Bash(git reset:*)",
+      "Bash(git pull:*)",
+      "Bash(nslookup:*)",
+      "Bash(dig:*)",
+      "Bash(curl:*)"
     ],
     "deny": []
   }

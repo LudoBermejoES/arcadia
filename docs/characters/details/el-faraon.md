@@ -7,6 +7,10 @@ slug: el-faraon
 
 # El Faraón
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/El%20Faraón.png" alt="El Faraón" />
+</div>
+
 ## Presentación
 El Faraón es un metahumano perteneciente al grupo "La Familia", descrito originalmente como un "gitano borracho y cocainómano". Es un personaje con conexiones místicas profundas y posee un bastón mágico que le otorga diversos poderes sobrenaturales.
 

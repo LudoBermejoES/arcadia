@@ -7,6 +7,10 @@ slug: hotman
 
 # Hotman
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Hotman.png" alt="Hotman" />
+</div>
+
 ## Presentación
 Hotman es un metahumano perteneciente al grupo "La Fuerza Oculta", jugado por Jandro. Se caracteriza por ser joven y entusiasta, con una personalidad que combina elementos típicos de adolescente con responsabilidades de superhéroe. Comparte habitación con Eslizón Esmeralda en la mansión de entrenamiento.
 

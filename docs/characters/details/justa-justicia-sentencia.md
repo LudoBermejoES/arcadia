@@ -7,6 +7,10 @@ slug: justa-justicia-sentencia
 
 # Justa / Justicia / Sentencia
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Justa%3AJusticia%3ASentencia.png" alt="Justa / Justicia / Sentencia" />
+</div>
+
 ## Presentación
 Justa, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión.
 

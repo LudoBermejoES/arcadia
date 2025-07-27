@@ -73,9 +73,9 @@ Esta cronología detallada abarca **15 años de narrativa** a través de tres ca
 
 ---
 
-## 📅 **2014-2015: Génesis (Segunda Campaña)**
+## 📅 **2013-2014: Génesis (Segunda Campaña)**
 
-### **2014 - Inicio Nueva Era**
+### **2013 - Inicio Nueva Era**
 - **Período**: 1 año de aventuras
 - **Concepto**: Segunda generación héroes en mundo post-La Familia
 - **Miembros**: Alice/Tesla, Sara10/Mecánica, Jorge/Espectro, Thomas/Raza, Lumen
@@ -84,13 +84,13 @@ Esta cronología detallada abarca **15 años de narrativa** a través de tres ca
   - Mundo evolucionado desde eventos La Familia
   - Nuevas amenazas y tecnologías
 
-### **2015 - Conclusión Génesis**
+### **2014 - Conclusión Génesis**
 - **Final de campaña**: Transición hacia pausa prolongada
 - **Legado**: Establece puente entre eras heroicas
 
 ---
 
-## 📅 **2015-2024: La Gran Pausa**
+## 📅 **2014-2024: La Gran Pausa**
 
 ### **Período de Silencio**
 - **Duración**: 10 años sin nueva actividad heroica documentada
@@ -161,7 +161,7 @@ Esta cronología detallada abarca **15 años de narrativa** a través de tres ca
 
 ### **Duración Campañas**
 - **La Familia**: ~1 año narrativo (2010-2011)
-- **Génesis**: ~1 año narrativo (2014-2015)  
+- **Génesis**: ~1 año narrativo (2013-2014)  
 - **La Fuerza Oculta**: 1.5 años y contando (Feb 2024-presente)
 
 ### **Documentación**

@@ -14,14 +14,15 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ## 🦸‍♂️ **Equipos Heroicos Principales**
 
 ### **🏛️ La Familia - Los Fundadores Originales**
-**(2010-2015) | 5 Miembros Principales**
+**(2010-2015) | 6 Miembros (5 Principales + 1 Temporal)**
 
 #### **Composición Histórica:**
 - **🐺 [Garra](../characters/details/garra.md)** *(Conchi)* - Líder táctico y protector
 - **👑 [El Faraón](../characters/details/el-faraon.md)** *(Edu)* - Poder místico y experiencia
-- **🔮 [Esfinge](../characters/details/esfinge.md)** *(Jandro)* - Sabiduría arcana
+- **🔮 [Esfinge](../characters/details/ana-montenegro-esfinge-atropos.md)** *(Jandro)* - Sabiduría arcana
 - **🦇 [Bate](../characters/details/bate.md)** *(Dani)* - Tecnología y recursos
 - **🧠 [Mésmero](../characters/details/mesmero.md)** *(Chus)* - Apoyo psíquico
+- **🐱 [Estocada](../characters/details/estocada.md)** *(Keven)* - Acróbata felino (miembro temporal)
 
 #### **Legado Fundamental:**
 - **🏆 Hazañas Definitorias**: Salvaron Arcadia de destrucción nuclear

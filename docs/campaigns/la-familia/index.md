@@ -46,6 +46,12 @@ permalink: /campaigns/la-familia/
 - **Conflicto**: Poder corrupto vs intenciones heroicas  
 - **Evolución**: Aprender a usar influencia responsablemente
 
+### 🐱 **[Estocada]({{ site.baseurl }}/characters/details/estocada/)** *(Keven)*
+- **Poderes**: Habilidades felinas, resistencia al despellejamiento, inmunidad temporal
+- **Participación**: Miembro temporal que eventualmente se marchó del grupo
+- **Destino**: Formó su propia familia con cuatro compañeras Bestia
+- **Legado**: Puente entre el mundo humano y las criaturas místicas
+
 ---
 
 ## 🌟 Momentos Legendarios

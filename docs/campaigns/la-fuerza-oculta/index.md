@@ -17,32 +17,32 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ### ⚡ El Equipo
 
-#### 🦎 **Eslizón Esmeralda** *(Sugus)*
+#### 🦎 **[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)** *(Sugus)*
 - **Poderes**: Forma reptiliana, regeneración, fuerza sobrenatural
 - **Personalidad**: Noble y honorable, pero pragmático
 - **Evolución**: De criatura simple a estratega del equipo
 
-#### 💎 **Diana** *(Eslizo)*
+#### 💎 **[Diana]({{ site.baseurl }}/characters/details/diana/)** *(Eslizo)*
 - **Poderes**: Fuerza descomunal, resistencia, linaje noble
 - **Trasfondo**: Heredera de una poderosa familia metahumana
 - **Conflicto**: Equilibrar privilegio con responsabilidad heroica
 
-#### 🎪 **Astrid/Kayface** *(Xavi)*
+#### 🎪 **[Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/)** *(Xavi)*
 - **Poderes**: Ilusiones complejas, monopatín volador
 - **Historia**: Pasado traumático en protección social
 - **Especialidad**: Infiltración y manipulación de la realidad
 
-#### 🧿 **Cia/Psique** *(Conchi)*
+#### 🧿 **[Cia/Psique]({{ site.baseurl }}/characters/details/mencia-psique-cia/)** *(Conchi)*
 - **Poderes**: Telepatía, enlace mental grupal
 - **Rol**: Coordinadora táctica y apoyo psicológico
 - **Desarrollo**: De tímida a líder emocional del grupo
 
-#### ⚖️ **Justa → Justicia → Sentencia** *(Edu)*
+#### ⚖️ **[Justa → Justicia → Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/)** *(Edu)*
 - **Poderes**: Maestría con armas, determinación férrea
 - **Arco Narrativo**: Evolución moral de legalista a justiciera
 - **Simbolismo**: La transformación del concepto de justicia
 
-#### 🔥 **Hotman** *(Jandro)*
+#### 🔥 **[Hotman]({{ site.baseurl }}/characters/details/hotman/)** *(Jandro)*
 - **Poderes**: Control de microondas, generación de calor
 - **Dinámicas**: Relaciones complejas dentro del grupo
 - **Crecimiento**: De buscar atención a encontrar su lugar

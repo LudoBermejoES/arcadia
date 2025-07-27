@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Resumen Detallado"
+permalink: /campaigns/la-fuerza-oculta/summary/summary/
+---
+
 # La Fuerza Oculta - Resumen Detallado de Campaña
 
 *De participantes de reality show a héroes fugitivos: La evolución de seis jóvenes metahumanos*

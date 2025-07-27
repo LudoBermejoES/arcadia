@@ -1,3 +1,11 @@
+---
+layout: page
+title: "La Familia - Resumen Detallado"
+permalink: /campaigns/la-familia/summary/summary/
+---
+
+# La Familia - Resumen Detallado de Campaña
+
 La historia de "La Familia" narra las intrincadas aventuras de un grupo de **superhéroes**, unidos por lazos familiares, que operan en la enigmática ciudad de Arcadia. Sus miembros principales incluyen a **Mesmero, el Faraón, Garra, Esfinge, Bate y Estocada**, entre otros. Su trayectoria está marcada por el misterio, los viajes temporales, la manipulación de la memoria y constantes enfrentamientos en un mundo donde los metahumanos son parte de la vida cotidiana.
 
 A continuación, se detalla un resumen pormenorizado de sus aventuras:

@@ -9,7 +9,7 @@ permalink: /groups/character-groups/
 ## Grupos de Protagonistas (Héroes)
 
 ### La Familia
-**Período**: Primera campaña (inicio del proyecto, hace ~15 años)  
+**Período**: Primera campaña (2009-2014, 5 años de juego)  
 **Concepto**: Primer grupo de superhéroes del proyecto
 
 **Miembros**:
@@ -21,7 +21,7 @@ permalink: /groups/character-groups/
 - [Estocada]({{ site.baseurl }}/characters/details/estocada/)
 
 ### Génesis
-**Período**: Segunda campaña (compartió tiempo con La Familia)  
+**Período**: Segunda campaña (2014-2015, 1 año de juego)  
 **Concepto**: Segundo grupo de superhéroes
 
 **Miembros**:
@@ -32,7 +32,7 @@ permalink: /groups/character-groups/
 - [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
 
 ### La Fuerza Oculta
-**Período**: Tercera campaña (comenzó hace ~5 años)  
+**Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)  
 **Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
 
 **Miembros**:

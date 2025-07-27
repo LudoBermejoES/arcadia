@@ -60,7 +60,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 ---
 
 ## 🔮 **[La Fuerza Oculta](la-fuerza-oculta/)**
-**Campaña Actual • Últimos 5 años**
+**Campaña Actual • Desde Feb 2024 (1 año y medio)**
 > Los herederos del legado
 
 ### **Los Jóvenes Héroes:**

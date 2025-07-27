@@ -15,7 +15,7 @@ Bienvenido al archivo histórico más completo de campañas de rol de superhéro
 ## 🦸‍♂️ Las Tres Campañas Legendarias
 
 ### [La Familia](campaigns/la-familia/) 
-**Primera Campaña • Hace ~15 años**
+**Primera Campaña • 2009-2014 (5 años)**
 > Los pioneros que establecieron el universo de Arcadia
 
 **Héroes Fundacionales:**
@@ -26,7 +26,7 @@ Bienvenido al archivo histórico más completo de campañas de rol de superhéro
 - 🧠 **Mésmero** (Chus) - El manipulador mental
 
 ### [Génesis](campaigns/genesis/)
-**Segunda Campaña • Era Concurrente**
+**Segunda Campaña • 2014-2015 (1 año)**
 > Una nueva generación se alza
 
 **Los Nuevos Guardianes:**
@@ -37,8 +37,8 @@ Bienvenido al archivo histórico más completo de campañas de rol de superhéro
 - 🎭 **Alice** (Tindriel/María) - La misteriosa
 
 ### [La Fuerza Oculta](campaigns/la-fuerza-oculta/) 
-**Campaña Actual • Últimos 5 años**
-> Los herederos del legado
+**Campaña Actual • Desde Feb 2024**
+> Los herederos del legado tras 10 años de silencio
 
 **Los Jóvenes Héroes:**
 - 🦎 **Eslizón Esmeralda** (Sugus) - El reptil noble

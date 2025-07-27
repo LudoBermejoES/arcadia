@@ -5,7 +5,7 @@ permalink: /campaigns/la-fuerza-oculta/
 ---
 
 # La Fuerza Oculta
-## Tercera Campaña - Los Nuevos Héroes (2020-2025)
+## Tercera Campaña - Los Nuevos Héroes (Feb 2024 - Presente)
 
 [← Volver al Índice Principal](../../index.md)
 
@@ -13,7 +13,7 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ## 🌟 La Nueva Generación
 
-**La Fuerza Oculta** representa la evolución natural del universo de Arcadia. Comenzada hace 5 años, esta campaña sigue a un grupo de **jóvenes superhéroes** que deben navegar un mundo más complejo y moralmente ambiguo que sus predecesores.
+**La Fuerza Oculta** representa la evolución natural del universo de Arcadia. Comenzada en febrero de 2024 tras **10 años de pausa**, esta campaña sigue a un grupo de **jóvenes superhéroes** que deben navegar un mundo más complejo y moralmente ambiguo que sus predecesores.
 
 ### ⚡ El Equipo
 

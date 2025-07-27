@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Character List"
+title: "Lista de Personajes"
 permalink: /characters/character-list/
 ---
 

@@ -7,6 +7,10 @@ slug: sara10-mecanica
 
 # Sara10 / Mecánica
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Sara10%3AMecánica.png" alt="Sara10 / Mecánica" />
+</div>
+
 ## Presentación
 Sara10, también conocida por el nombre en clave Mecánica, es una metahumana perteneciente al grupo "Génesis". Es jugada por Chus y se caracteriza por sus habilidades tecnológicas excepcionales y su naturaleza "nueva" según las entidades místicas. Su olor característico es descrito como "grasa metálica".
 

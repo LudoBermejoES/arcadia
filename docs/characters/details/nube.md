@@ -7,6 +7,10 @@ slug: nube
 
 # Nube
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Nube.png" alt="Nube" />
+</div>
+
 ## Presentación
 Nube es un héroe legendario en Arcadia, clasificado entre los "Antiguos Héroes" que precedieron a las generaciones actuales de metahumanos. Su nombre evoca capacidades relacionadas con el vuelo, la manipulación atmosférica, o la capacidad de moverse de manera etérea y difusa.
 

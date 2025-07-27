@@ -7,6 +7,10 @@ slug: alice-tesla
 
 # Alice / Tesla
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Alice%3ATesla.png" alt="Alice / Tesla" />
+</div>
+
 ## Presentación
 Alice, también conocida como Tesla, es una metahumana perteneciente al grupo "Génesis". Es jugada por Tindriel/María y se caracteriza por ser de naturaleza "antigua" según las entidades místicas. Posee un trasfondo de riqueza familiar y conexiones con fuerzas sobrenaturales antiguas.
 

@@ -7,6 +7,10 @@ slug: doctor-anselmo
 
 # Doctor Anselmo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Doctor Anselmo.png" alt="Doctor Anselmo" />
+</div>
+
 ## Presentación
 El Doctor Anselmo es un artesano y profesional notable en Arcadia, cuyo título académico combinado con su clasificación como artesano sugiere una especialización en algún campo técnico o científico aplicado que requiere tanto conocimiento teórico como habilidad práctica.
 

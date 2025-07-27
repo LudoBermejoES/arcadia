@@ -7,6 +7,10 @@ slug: neon
 
 # Neón
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Neon.png" alt="Neón" />
+</div>
+
 ## Presentación
 
 Neón es una joven vigilante metahumana especializada en el control y manipulación de la luz. Con poderes únicos que le permiten crear y controlar diferentes tipos de luces, así como generar "luz sólida" para ataques, se ha convertido en una figura especialmente popular entre los adolescentes de Arcadia.

@@ -7,6 +7,10 @@ slug: maza
 
 # Maza
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Maza.png" alt="Maza" />
+</div>
+
 ## Presentación
 
 Maza es un criminal metahumano extremadamente peligroso, caracterizado por su naturaleza de roca viviente y su impresionante tamaño físico. Es responsable de uno de los crímenes más atroces en la historia de Arcadia y ha demostrado ser notoriamente difícil de mantener encarcelado.

@@ -7,6 +7,10 @@ slug: serpiente
 
 # Serpiente
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Serpiente.png" alt="Serpiente" />
+</div>
+
 ## Presentación
 
 Serpiente es un vigilante metahumano controvertido, conocido por sus habilidades físicas únicas y sus excelentes dotes marciales. Actualmente se encuentra en situación de búsqueda y captura por las autoridades debido a su responsabilidad en la explosión de un furgón policial.

@@ -7,6 +7,10 @@ slug: venus-sibila
 
 # Venus / Sibila
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Venus Sibila.png" alt="Venus / Sibila" />
+</div>
+
 ## Información Básica
 
 **Nombres Heroicos**: Venus / Sibila  

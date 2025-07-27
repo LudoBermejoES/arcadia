@@ -7,6 +7,10 @@ slug: aldonza-lorenzo
 
 # Aldonza Lorenzo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Aldonza Lorenzo.png" alt="Aldonza Lorenzo" />
+</div>
+
 ## Presentación
 Aldonza Lorenzo es un personaje notable en Arcadia, cuyo nombre evoca resonancias literarias clásicas, particularmente con la tradición cervantina. Su inclusión en los registros oficiales sugiere una contribución significativa a la vida de la ciudad.
 

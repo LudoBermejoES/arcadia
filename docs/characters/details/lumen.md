@@ -7,6 +7,10 @@ slug: lumen
 
 # Lumen
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Lumen.png" alt="Lumen" />
+</div>
+
 ## Presentación
 Lumen es una metahumana perteneciente al grupo "Génesis", clasificada como "muy nueva" por las entidades místicas. Se caracteriza por ser buscada por fuerzas sobrenaturales poderosas y tener una conexión romántica con Alice. Su naturaleza "muy nueva" la distingue incluso de Sara10, que es simplemente "nueva".
 

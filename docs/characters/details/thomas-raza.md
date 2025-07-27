@@ -7,6 +7,10 @@ slug: thomas-raza
 
 # Thomas / Raza
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Thomas%3ARaza.png" alt="Thomas / Raza" />
+</div>
+
 ## Presentación
 Thomas, también conocido como Raza, es un metahumano perteneciente al grupo "Génesis". Es jugado por Dani y se caracteriza por su naturaleza de hombre lobo (crinos) y ser clasificado como "antiguo" por las entidades místicas. Comparte una conexión misteriosa con Alfred, ya que su sangre sabe exactamente igual.
 

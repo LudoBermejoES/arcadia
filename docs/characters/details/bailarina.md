@@ -7,6 +7,10 @@ slug: bailarina
 
 # Bailarina
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Bailarina.png" alt="Bailarina" />
+</div>
+
 ## Presentación
 
 Bailarina es una heroína metahumana de origen oriental, esposa de Rayo Ígneo y una de las luchadoras más hábiles de Arcadia. Su combinación única de poderes de hielo, velocidad sobrehumana y maestría en artes marciales la ha convertido en una figura respetada en la comunidad heroica.

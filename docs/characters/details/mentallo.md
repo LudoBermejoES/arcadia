@@ -7,6 +7,10 @@ slug: mentallo
 
 # Mentallo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Mentallo.png" alt="Mentallo" />
+</div>
+
 ## Presentación
 Mentallo es un personaje notable en Arcadia, cuyo nombre sugiere capacidades relacionadas con la mente, el intelecto, o posiblemente poderes psíquicos. Su denominación evoca fuerza mental y capacidades cognitivas extraordinarias.
 

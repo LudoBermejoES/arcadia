@@ -7,6 +7,10 @@ slug: el-emperador-oscuro
 
 # El Emperador Oscuro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/El Emperador Oscuro.png" alt="El Emperador Oscuro" />
+</div>
+
 ## Presentación
 El Emperador Oscuro es una de las figuras más enigmáticas y poderosas del mundo de Arcadia. También conocido como "El Oscuro", fue quien pronunció el "Primer Manifiesto Metahumano" el 15 de marzo, marcando el inicio oficial de la era de superhéroes y villanos. Es una entidad antigua, más vieja que muchas fuerzas primordiales, y persigue tanto a "antiguos" como a otras entidades poderosas.
 

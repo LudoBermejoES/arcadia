@@ -7,6 +7,10 @@ slug: the-rock
 
 # The Rock
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/The Rock.png" alt="The Rock" />
+</div>
+
 ## Presentación
 The Rock es una figura reconocida en el sector de cine y entretenimiento de Arcadia. Su nombre artístico distintivo sugiere una presencia poderosa y memorable en la industria del espectáculo de la ciudad.
 

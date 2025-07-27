@@ -7,6 +7,10 @@ slug: metalo
 
 # Metalo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Metalo.png" alt="Metalo" />
+</div>
+
 ## Presentación
 Metalo es un metahumano criminal clasificado entre "Los Grandes Criminales" de Arcadia. Su nombre sugiere una conexión directa con el metal, posiblemente indicando capacidades de manipulación metálica, cuerpo de metal, o control magnético.
 

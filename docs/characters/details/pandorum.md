@@ -7,6 +7,10 @@ slug: pandorum
 
 # Pandorum
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Pandorum.png" alt="Pandorum" />
+</div>
+
 ## Presentación
 Pandorum es un intermediario y contacto del submundo de Arcadia, cuyo nombre evoca caos y desorientación. Su denominación sugiere una especialización en crear confusión o operar en situaciones de crisis y desorden.
 

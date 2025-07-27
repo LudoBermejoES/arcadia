@@ -7,6 +7,10 @@ slug: el-guardian
 
 # El Guardián
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/El Guardian.png" alt="El Guardián" />
+</div>
+
 ## Presentación
 El Guardián es una figura misteriosa del submundo de Arcadia, cuyo nombre sugiere un rol protector o de vigilancia. Su presencia entre las figuras misteriosas indica que su protección se extiende a elementos criminales o secretos que requieren salvaguarda especial.
 

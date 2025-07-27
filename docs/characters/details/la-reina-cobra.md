@@ -7,6 +7,10 @@ slug: la-reina-cobra
 
 # La Reina Cobra
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/La Reina Cobra.png" alt="La Reina Cobra" />
+</div>
+
 ## Presentación
 La Reina Cobra es una figura misteriosa del submundo de Arcadia, cuyo nombre evoca peligro, letalidad y una naturaleza serpentina. Su título real sugiere una posición de liderazgo, mientras que la referencia a la cobra indica capacidades venenosas y letales.
 

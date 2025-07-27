@@ -7,6 +7,10 @@ slug: alfonso-montenegro
 
 # Alfonso Montenegro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Alfonso Montenegro.png" alt="Alfonso Montenegro" />
+</div>
+
 ## Información Básica
 
 **Nombre Completo**: Alfonso Montenegro  

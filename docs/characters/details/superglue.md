@@ -7,6 +7,10 @@ slug: superglue
 
 # SuperGlue
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Superglue.png" alt="SuperGlue" />
+</div>
+
 ## Presentación
 
 SuperGlue es un criminal metahumano especializado en atracos extravagantes y de alto perfil, conocido por su combinación única de poderes de parálisis y escalada sin utensilios. Su nombre artístico refleja tanto su capacidad de "pegar" o paralizar a sus víctimas como su habilidad para adherirse a superficies.

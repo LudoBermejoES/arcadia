@@ -7,6 +7,10 @@ slug: lucifer-hero
 
 # Lucifer (Héroe)
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Lucifer.png" alt="Lucifer" />
+</div>
+
 ## Información Básica
 
 **Nombre Heroico**: Lucifer  

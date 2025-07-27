@@ -7,6 +7,10 @@ slug: relampago
 
 # Relámpago
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Relampago.png" alt="Relámpago" />
+</div>
+
 ## Información Básica
 
 **Nombre Heroico**: Relámpago  

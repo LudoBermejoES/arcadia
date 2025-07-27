@@ -5,143 +5,94 @@ permalink: /videos/
 ---
 
 # Videos de Arcadia
-## Sesiones y Momentos Épicos del RPG
-
-Aquí encontrarás videos de las sesiones de juego más memorables, momentos épicos y contenido audiovisual del universo de Arcadia.
+## Contenido Audiovisual del RPG
 
 ---
 
-## 🎮 **Sesiones de La Fuerza Oculta**
+## 🎬 **Intro de las Partidas**
 
-### Sesión Destacada 1
-<!-- Placeholder para video de YouTube -->
-<div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Título del video aquí]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Descripción del contenido]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
-</div>
+Esta introducción se reproduce al comienzo de cada sesión de juego, estableciendo el tono y la atmósfera del universo de Arcadia.
 
-### Sesión Destacada 2
-<!-- Placeholder para video de YouTube -->
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Título del video aquí]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Descripción del contenido]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/p_cvT8b7brs" 
+          title="Intro de Arcadia"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
 ---
 
-## 🏛️ **Sesiones de La Familia**
+## 📺 **En Capítulos Anteriores**
 
-### Momento Épico 1
-<!-- Placeholder para video de YouTube -->
+Videos resumen que narran los eventos previos y contextualizan las aventuras que han tenido lugar en el universo de Arcadia.
+
+### Capítulo 1
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Título del video aquí]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Descripción del contenido]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/CyTwIjCoXN0" 
+          title="En Capítulos Anteriores - Capítulo 1"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
-### Momento Épico 2
-<!-- Placeholder para video de YouTube -->
+### Capítulo 2
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Título del video aquí]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Descripción del contenido]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/fOF4lkQfM08" 
+          title="En Capítulos Anteriores - Capítulo 2"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
----
-
-## ⚡ **Sesiones de Génesis**
-
-### Sesión Destacada
-<!-- Placeholder para video de YouTube -->
+### Capítulo 3
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Título del video aquí]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Descripción del contenido]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/yRMCkhrvv4M" 
+          title="En Capítulos Anteriores - Capítulo 3"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
----
-
-## 🎭 **Contenido Especial**
-
-### Behind the Scenes
-<!-- Placeholder para video de YouTube -->
+### Capítulo 4
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Making of / Behind the Scenes]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Contenido especial sobre la creación del universo]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/F79B7PaWnMY" 
+          title="En Capítulos Anteriores - Capítulo 4"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
-### Compilación de Momentos Épicos
-<!-- Placeholder para video de YouTube -->
+### Capítulo 5
 <div class="video-container">
-  <div class="video-placeholder">
-    <div class="placeholder-content">
-      <h3>🎥 Video Placeholder</h3>
-      <p><strong>Título:</strong> [Compilation - Best Moments]</p>
-      <p><strong>Duración:</strong> [Duración]</p>
-      <p><strong>Descripción:</strong> [Recopilación de los mejores momentos de 15 años]</p>
-      <div class="youtube-placeholder">
-        <p>📺 Espacio reservado para embed de YouTube</p>
-        <p><code>&lt;iframe src="https://www.youtube.com/embed/VIDEO_ID"&gt;&lt;/iframe&gt;</code></p>
-      </div>
-    </div>
-  </div>
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/GbHWPiPKqdQ" 
+          title="En Capítulos Anteriores - Capítulo 5"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+### Capítulo 6
+<div class="video-container">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/-gjE0vtH41A" 
+          title="En Capítulos Anteriores - Capítulo 6"
+          frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          allowfullscreen>
+  </iframe>
 </div>
 
 ---

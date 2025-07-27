@@ -1,5 +1,5 @@
 ---
-layout: comics-page
+layout: page
 title: "Campañas de Arcadia"
 description: "15 Años de Aventuras Épicas"
 ---
@@ -22,7 +22,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 > Los pioneros que establecieron el universo de Arcadia
 
 ### **Héroes Fundacionales:**
-- 🐺 **Garra** (Conchi) - La feroz protectora
+- 🐺 **Garra** (Conchi) - El feroz protector
 - 👑 **El Faraón** (Edu) - El maestro de arenas místicas
 - 🔮 **Esfinge** (Jandro) - Guardián de secretos antiguos
 - 🦇 **Bate** (Dani) - El vigilante nocturno

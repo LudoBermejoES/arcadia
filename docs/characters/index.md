@@ -22,7 +22,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **👑 La Familia - Los Fundadores (2010-2015)**
 
 #### [🐺 **Garra**]({{ site.baseurl }}/characters/details/garra/) *(Conchi)*
-**La Feroz Protectora**
+**El Feroz Protector**
 - **Poderes**: Regeneración, garras letales, instintos animales
 - **Legado**: Estableció el código moral heroico de Arcadia
 - **Evolución**: De guerrera salvaje a mentora sabia

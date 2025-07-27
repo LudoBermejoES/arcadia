@@ -1,8 +1,8 @@
 ---
 title: "Los Héroes Fundacionales de La Familia"
 panels:
- - caption: "🐺 GARRA - La Feroz Protectora"
-   description: "Conchi interpreta a la líder táctica del primer equipo heroico de Arcadia"
+ - caption: "🐺 GARRA - El Feroz Protector"
+   description: "Conchi interpreta al líder táctico del primer equipo heroico de Arcadia"
    link: "/characters/details/garra/"
  - caption: "👑 EL FARAÓN - Maestro de Arenas Místicas"  
    description: "Edu controla las fuerzas arcanas del desierto en el corazón de la ciudad"

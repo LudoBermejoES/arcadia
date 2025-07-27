@@ -21,7 +21,7 @@ permalink: /campaigns/la-familia/
 
 ### 🐺 **Garra** *(Conchi)*
 - **Poderes**: Regeneración, garras letales, instintos animales
-- **Personalidad**: Feroz protectora con corazón noble
+- **Personalidad**: Feroz protector con corazón noble
 - **Legado**: Su determinación estableció el código moral heroico
 - **Conexión Futura**: Ayuda en la evasión de La Fuerza Oculta
 

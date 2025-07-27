@@ -19,7 +19,7 @@ Bienvenido al archivo histórico más completo de campañas de rol de superhéro
 > Los pioneros que establecieron el universo de Arcadia
 
 **Héroes Fundacionales:**
-- 🐺 **Garra** (Conchi) - La feroz protectora
+- 🐺 **Garra** (Conchi) - El feroz protector
 - 👑 **El Faraón** (Edu) - El maestro de arenas místicas
 - 🔮 **Esfinge** (Jandro) - Guardian de secretos antiguos
 - 🦇 **Bate** (Dani) - El vigilante nocturno

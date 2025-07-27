@@ -66,7 +66,7 @@ permalink: /all-content/
 ### **Protagonistas Principales por Campaña**
 
 #### **🦸‍♂️ La Familia (Primera Generación)**
-- [🐺 Garra]({{ site.baseurl }}/characters/details/garra/) *(Conchi)* - La feroz protectora
+- [🐺 Garra]({{ site.baseurl }}/characters/details/garra/) *(Conchi)* - El feroz protector
 - [👑 El Faraón]({{ site.baseurl }}/characters/details/el-faraon/) *(Edu)* - Maestro de arenas místicas  
 - [🔮 Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) *(Jandro)* - Guardián de secretos antiguos
 - [🦇 Bate]({{ site.baseurl }}/characters/details/bate/) *(Dani)* - El vigilante nocturno

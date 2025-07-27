@@ -17,7 +17,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 **(2010-2015) | 5 Miembros Principales**
 
 #### **Composición Histórica:**
-- **🐺 [Garra](../characters/details/garra.md)** *(Conchi)* - Líder táctica y protectora
+- **🐺 [Garra](../characters/details/garra.md)** *(Conchi)* - Líder táctico y protector
 - **👑 [El Faraón](../characters/details/el-faraon.md)** *(Edu)* - Poder místico y experiencia
 - **🔮 [Esfinge](../characters/details/esfinge.md)** *(Jandro)* - Sabiduría arcana
 - **🦇 [Bate](../characters/details/bate.md)** *(Dani)* - Tecnología y recursos
@@ -276,7 +276,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Mentores Principales:**
 - **🦦 [Comadreja Negra](../characters/details/comadreja-negra.md)** - Entrenador de múltiples generaciones
-- **🐺 [Garra](../characters/details/garra.md)** - Veterana de La Familia
+- **🐺 [Garra](../characters/details/garra.md)** - Veterano de La Familia
 - **⚡ [Espectro](../characters/details/jorge-espectro.md)** - Especialista en casos sobrenaturales
 
 #### **Servicios de Mentoría:**

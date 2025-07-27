@@ -7,11 +7,17 @@ slug: estocada
 
 # Estocada
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Estocada.png" alt="Estocada" />
+</div>
+
 ## Presentación
-Estocada es un metahumano perteneciente al grupo "La Familia", descrito originalmente como "el hombre gato, antiguo acróbata de circo alcohólico". A diferencia de otros miembros del grupo, Estocada no era originalmente una Bestia pero se unió a ellas, formando una familia con cuatro compañeras Bestia.
+**Estocada** es un metahumano que participó como miembro temporal del grupo "La Familia", descrito como "el hombre gato, antiguo acróbata de circo alcohólico". A diferencia de los miembros principales del grupo, Estocada tenía una naturaleza dual: participaba en las aventuras heroicas pero también mantenía fuertes vínculos con la comunidad de las Bestias. Eventualmente dejó el grupo para formar una familia con cuatro compañeras Bestia.
 
 ## Rol y Actividades
-Estocada actúa como un miembro especial de "La Familia" con fuertes vínculos con la comunidad de las Bestias. Su papel incluye ser un puente entre el mundo humano y el mundo de las criaturas místicas, especialmente después de formar su propia familia con las Bestias y tener descendencia con ellas.
+Durante su tiempo con "La Familia", Estocada actuó como un miembro con habilidades únicas que complementaban al grupo. Su papel incluía ser un puente entre el mundo humano y el mundo de las criaturas místicas. Su naturaleza dual temporal y su resistencia especial lo convirtieron en un valioso aliado durante las aventuras del grupo.
+
+Eventualmente, Estocada tomó la decisión de marcharse de La Familia para formar su propia familia con cuatro compañeras Bestia, priorizando sus vínculos personales y la creación de una nueva generación de seres con capacidades únicas.
 
 ## Poderes y Habilidades
 - Habilidades felinas: Como "hombre gato" posee características físicas y habilidades similares a los felinos

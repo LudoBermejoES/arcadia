@@ -29,7 +29,7 @@ Esta revelación transformó completamente su comprensión de la identidad y la 
 Su personalidad y poderes evolucionaron a través de tres manifestaciones principales:
 
 ### Esfinge (La Familia):
-- **Acróbata de circo** rescatada del sótano de una casa
+- **Adolescente rescatada** del sótano de una casa
 - **Especialista temporal** del grupo con vuelo y percepción temporal
 - **Adolescente heroica** equilibrando vida normal con aventuras
 
@@ -54,7 +54,7 @@ Su dominio sobre el tiempo evolucionó dramáticamente a lo largo de su arco nar
 #### Poderes Iniciales (Esfinge):
 - **Percepción temporal**: Detectar anomalías y fases temporales
 - **Vuelo**: Capacidad de volar para reconocimiento
-- **Habilidades acrobáticas**: Derivadas de su pasado circense
+- **Agilidad temporal**: Capacidad de moverse a través del tiempo con gracia natural
 - **Ralentización básica**: Control limitado sobre el flujo temporal
 
 #### Poderes Desarrollados (Atropos):

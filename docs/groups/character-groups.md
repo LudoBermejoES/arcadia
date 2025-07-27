@@ -36,6 +36,11 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
   - **Poderes**: Magia egipcia, viaje astral, invocación de tormentas de arena, necromancia
   - **Trasfondo**: Presentador de TV con conocimientos de magia egipcia ancestral. Sus poderes están conectados con entidades oscuras que exigen un precio terrible.
 
+**Miembro temporal**:
+- **[Estocada]({{ site.baseurl }}/characters/details/estocada/)** - *El Acróbata Felino*
+  - **Poderes**: Habilidades felinas, resistencia al despellejamiento, inmunidad temporal
+  - **Trasfondo**: Antiguo acróbata de circo alcohólico con naturaleza felina. Participó con La Familia durante una época antes de marcharse para fundar una familia con cuatro compañeras Bestia.
+
 **Temática central**: La búsqueda de identidad verdadera, el precio del heroísmo, y la transformación de víctimas de manipulación en verdaderos protectores. Sus arcos narrativos exploran temas de memoria falsa, condicionamiento mental, y la lucha por definir su propia moralidad a pesar de sus orígenes artificiales.
 
 ### Génesis

@@ -27,6 +27,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 - 🔮 **Esfinge** (Jandro) - Guardián de secretos antiguos
 - 🦇 **Bate** (Dani) - El vigilante nocturno
 - 🧠 **Mésmero** (Chus) - El manipulador mental
+- 🐱 **Estocada** (Keven) - El acróbata felino (miembro temporal)
 
 ### **Legado:**
 - **41 sesiones documentadas** de aventuras épicas

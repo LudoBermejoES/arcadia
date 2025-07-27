@@ -16,6 +16,9 @@ panels:
  - caption: "🧠 MÉSMERO - El Manipulador Mental"
    description: "Chus proporciona apoyo psíquico y coordinación telepática al equipo"
    link: "/characters/details/mesmero/"
+ - caption: "🐱 ESTOCADA - El Acróbata Felino"
+   description: "Keven participó temporalmente con La Familia antes de formar su propia familia"
+   link: "/characters/details/estocada/"
 categories: [heroes, la-familia, founders]
 ---
 

@@ -24,6 +24,7 @@ Bienvenido al archivo histórico más completo de campañas de rol de superhéro
 - 🔮 **Esfinge** (Jandro) - Guardian de secretos antiguos
 - 🦇 **Bate** (Dani) - El vigilante nocturno
 - 🧠 **Mésmero** (Chus) - El manipulador mental
+- 🐱 **Estocada** (Keven) - El acróbata felino (miembro temporal)
 
 ### [Génesis](campaigns/genesis/)
 **Segunda Campaña • 2014-2015 (1 año)**

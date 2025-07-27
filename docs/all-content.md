@@ -71,6 +71,7 @@ permalink: /all-content/
 - [🔮 Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) *(Jandro)* - Guardián de secretos antiguos
 - [🦇 Bate]({{ site.baseurl }}/characters/details/bate/) *(Dani)* - El vigilante nocturno
 - [🧠 Mésmero]({{ site.baseurl }}/characters/details/mesmero/) *(Chus)* - El manipulador mental
+- [🐱 Estocada]({{ site.baseurl }}/characters/details/estocada/) *(Keven)* - El acróbata felino (miembro temporal)
 
 #### **⚡ Génesis (Segunda Generación)**
 - [⚙️ Sara10/Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/) *(Chus)* - La ingeniera prodigio

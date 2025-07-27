@@ -53,6 +53,12 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Conflicto**: Poder corrupto vs intenciones heroicas
 - **Evolución**: Aprender responsabilidad en el uso del poder
 
+#### [🐱 **Estocada**]({{ site.baseurl }}/characters/details/estocada/) *(Keven)*
+**El Acróbata Felino (Miembro Temporal)**
+- **Poderes**: Habilidades felinas, resistencia al despellejamiento, inmunidad temporal
+- **Historia**: Participó con La Familia antes de formar su propia familia con Bestias
+- **Dualidad**: Puente entre mundo humano y criaturas místicas
+
 
 ### **⚡ Génesis - La Generación Puente (2015-2020)**
 
@@ -250,7 +256,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **[📋 Índice Completo de Grupos](../groups/character-groups.md)**
 
 ### **👥 Equipos Heroicos**
-- **🏛️ La Familia**: Los fundadores originales (5 miembros)
+- **🏛️ La Familia**: Los fundadores originales (6 miembros)
 - **⚡ Génesis**: La generación puente (5 miembros)  
 - **🔮 La Fuerza Oculta**: Los herederos actuales (6 miembros)
 - **🛡️ [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/)**: Veteranos aliados
@@ -324,7 +330,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ## 🎲 **Estadísticas del Panteón**
 
 - **200+** Personajes Únicos
-- **16** Protagonistas Principales  
+- **17** Protagonistas Principales  
 - **50+** Villanos Documentados
 - **15** Años de Desarrollo
 - **8** Jugadores Únicos

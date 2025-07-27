@@ -7,6 +7,10 @@ slug: cacharrero
 
 # Cacharrero
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Cacharrero.png" alt="Cacharrero" />
+</div>
+
 ## Presentación
 Cacharrero es un metahumano criminal clasificado entre "Los Grandes Criminales" de Arcadia. Su nombre sugiere una especialización en tecnología, gadgets, o la capacidad de crear y manipular dispositivos mecánicos para propósitos criminales.
 

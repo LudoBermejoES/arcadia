@@ -7,6 +7,10 @@ slug: eneiros
 
 # Eneiros
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Eneiros.png" alt="Eneiros" />
+</div>
+
 ## Presentación
 
 Eneiros es uno de los héroes más carismáticos y populares de Arcadia, ganador por sexto año consecutivo del título "metahumano más sexy" y reconocido como uno de los metahumanos más deseados y queridos de la ciudad.

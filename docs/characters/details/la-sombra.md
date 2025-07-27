@@ -7,6 +7,10 @@ slug: la-sombra
 
 # La Sombra / El Oscuro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/La Sombra.png" alt="La Sombra" />
+</div>
+
 ## Presentación
 
 La Sombra fue el primer metahumano que se mostró públicamente en Arcadia, marcando el inicio oficial de la era metahumana. Conocido también como "El Oscuro", fue el autor del histórico Primer Manifiesto Metahumano y ejerció como vigilante durante casi tres décadas.

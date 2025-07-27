@@ -7,6 +7,10 @@ slug: arcadio
 
 # Arcadio
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Arcadio.png" alt="Arcadio" />
+</div>
+
 ## Presentación
 
 Arcadio es una figura legendaria en la historia de Arcadia, considerado la primera representación de metahumano y un héroe veterano con décadas de experiencia. Su influencia se extiende desde el combate al crimen hasta la alta sociedad, siendo una personalidad respetada tanto por ciudadanos como por otros héroes.

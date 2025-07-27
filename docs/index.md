@@ -1,480 +1,137 @@
 
 ---
-
 layout: page
+title: "Proyecto Arcadia - 15 Años de RPG Superheroico"
+description: "Archivo histórico completo de tres campañas épicas de superhéroes en un universo compartido"
+---
 
-title: "Grupos de Personajes de Arcadia"
-
-permalink: /groups/character-groups/
+# Proyecto Arcadia
+## 15 Años de Narrativa Superheroica Colaborativa
 
 ---
 
-  
+## 🌟 **¿Qué es Arcadia?**
 
-# Grupos de Personajes de Arcadia
-
-  
-
-## Grupos de Protagonistas (Héroes)
-
-  
-
-### La Familia
-
-**Período**: Primera campaña (2009-2014, 5 años de juego)
-
-**Concepto**: Los héroes fundacionales de Arcadia - clones con memorias implantadas que se convirtieron en verdaderos héroes
-
-**Campaña**: [La Familia]({{ site.baseurl }}/campaigns/la-familia/)
-
-  
-
-La Familia fue el grupo inaugural que estableció los cimientos del universo heroico de Arcadia. Durante 5 años épicos, estos personajes forjaron las leyendas que inspirarían a futuras generaciones. Su historia central gira en torno al descubrimiento de que eran clones con memorias falsas, creados para un propósito siniestro, pero que eligieron convertirse en verdaderos héroes.
-
-  
-
-**Miembros principales**:
-
--  **[Bate / Andrés]({{ site.baseurl }}/characters/details/bate/)** (Dani) - *El Protector Traumatizado*
-
--  **Poderes**: Superfuerza, vuelo, invulnerabilidad, forma gigante (Goliat)
-
--  **Trasfondo**: Creía ser un ex-policía que perdió a su familia en un atentado, pero descubrió que era un clon programado como medida de seguridad. Alberga el alma de Samuel, un verdadero policía que murió protegiendo a una niña.
-
-  
-
--  **[Mésmero / Julián]({{ site.baseurl }}/characters/details/mesmero/)** (Chus) - *El Estratega Mental*
-
--  **Poderes**: Telepatía, control mental, sugestión, lectura de pensamientos
-
--  **Trasfondo**: Artista transformista y mentalista de cabaret. El más estable emocionalmente del grupo, actúa como mediador y consejero.
-
-  
-
--  **[Garra / Marcos]({{ site.baseurl }}/characters/details/garra/)** (Conchi) - *El Adolescente Eterno*
-
--  **Poderes**: Telequinesis, campos de fuerza, garras de energía, armadura cibernética
-
--  **Trasfondo**: Ex-actor de cine para adultos que rejuveneció artificialmente hasta convertirse en adolescente. Su transformación temporal le permitió una segunda oportunidad en la vida.
-
-  
-
--  **[Esfinge / Atropos / Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** (Jandro) - *La Manipuladora Temporal*
-
--  **Poderes**: Manipulación temporal, ralentización del tiempo, precognición
-
--  **Trasfondo**: Estudiante adolescente con poderosas habilidades temporales. Vive una doble vida entre ser una adolescente normal y una superheroína.
-
-  
-
--  **[El Faraón / Gitano]({{ site.baseurl }}/characters/details/el-faraon/)** (Edu) - *El Místico Trágico*
-
--  **Poderes**: Magia egipcia, viaje astral, invocación de tormentas de arena, necromancia
-
--  **Trasfondo**: Presentador de TV con conocimientos de magia egipcia ancestral. Sus poderes están conectados con entidades oscuras que exigen un precio terrible.
-
-  
-
-**Miembro temporal**:
-
--  **[Estocada]({{ site.baseurl }}/characters/details/estocada/)** (Keven) - *El Acróbata Felino*
-
--  **Poderes**: Habilidades felinas, resistencia al despellejamiento, inmunidad temporal
-
--  **Trasfondo**: Antiguo acróbata de circo alcohólico con naturaleza felina. Participó con La Familia durante una época antes de marcharse para fundar una familia con cuatro compañeras Bestia.
-
-  
-
-**Temática central**: La búsqueda de identidad verdadera, el precio del heroísmo, y la transformación de víctimas de manipulación en verdaderos protectores. Sus arcos narrativos exploran temas de memoria falsa, condicionamiento mental, y la lucha por definir su propia moralidad a pesar de sus orígenes artificiales.
-
-  
-
-### Génesis
-
-**Período**: Segunda campaña (2014-2015, 1 año de juego)
-
-**Concepto**: Segundo grupo de superhéroes
-
-**Campaña**: [Génesis]({{ site.baseurl }}/campaigns/genesis/)
-
-  
-
-**Miembros**:
-
-- [Alice / Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) (Tindriel/María)
-
-- [Sara10 / Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/) (Chus)
-
-- [Jorge / Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/) (Rafa)
-
-- [Thomas / Raza]({{ site.baseurl }}/characters/details/thomas-raza/) (Dani)
-
-- [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
-
-  
-
-### La Fuerza Oculta
-
-**Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)
-
-**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
-
-**Campaña**: [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
-
-  
-
-**Miembros**:
-
-- [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
-
-- [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
-
-- [Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
-
-- [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
-
-- [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
-
-- [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)
-
-
-## Grupos Villanos y Criminales
-
-  
-
-### Fatum
-
-**Tipo**: Familia de supervillanos
-
-**Concepto**: Villanos excepcionalmente ricos con nombres de dioses etrusco-romanos, unidos por lazos familiares
-
-  
-
-**Miembros**:
-
-- [Janus]({{ site.baseurl }}/characters/details/janus/) (líder, manipulador del futuro, fallecido)
-
-- [Bellona]({{ site.baseurl }}/characters/details/bellona/) (peso pesado del grupo)
-
-- [Voltumna]({{ site.baseurl }}/characters/details/voltumna/) (electroquinético)
-
-- [Merx]({{ site.baseurl }}/characters/details/merx/) (velocista)
-
-- [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) (armero, tutor legal de Diana)
-
-- [Furina]({{ site.baseurl }}/characters/details/furina/) (forma de humo)
-
-- [Cloris]({{ site.baseurl }}/characters/details/cloris/) (madre de Diana, poderes regenerativos y plantas, fallecida)
-
-  
-
-### La Farándula
-
-**Tipo**: Grupo criminal
-
-**Concepto**: Organización criminal
-
-  
-
-**Miembros**:
-
-- [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
-
-  
-
-### Los Barones de Telaraña
-
-**Tipo**: Organización criminal
-
-**Concepto**: Red criminal liderada por Telaraña
-
-  
-
-**Miembros**:
-
-- [Telaraña]({{ site.baseurl }}/characters/details/telarana/) (líder)
-
-- Asociados criminales bajo su control
-
-  
-
-### Las Bestias
-
-**Tipo**: Grupo criminal/sobrenatural
-
-**Concepto**: Entidades creadas por El Viejo
-
-  
-
-**Miembros**:
-
-- [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
-
-- [Estocada]({{ site.baseurl }}/characters/details/estocada/) (conexión con las Bestias)
-
-  
-
-### Los Cazadores
-
-**Tipo**: Grupo criminal/mercenario
-
-**Concepto**: Organización de cazadores
-
-  
-
-**Miembros**:
-
-- Información limitada disponible
-
-  
-
- ## Otros grupos 
-  
-
-### Las furias
-
-
-**Concepto**: Metahumanos que no pueden esconder sus cambios físicos.
-
-Las Furias forman parte de un grupo de metahumanos de tamaño desconocido. Se sabe que viven escondidos en los intersticios de Arcadia, en el Subsuelo, o en el distrito Gótico, en espacios abandonados. No se sabe quién es su lider, si es que existe, ni tampoco la composición exacta de este grupo.
-
-
-## Organizaciones Oficiales y Fuerzas del Orden
-
-  
-
-### MetaCorp
-
-**Tipo**: Organización gubernamental metahumana
-
-**Concepto**: Fuerzas del orden oficiales para metahumanos
-
-  
-
-**Miembros**:
-
-- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
-
-- [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
-
-- [Trueno]({{ site.baseurl }}/characters/details/trueno/)
-
-- [Francisco Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
-
-  
-
-### Los Rayos
-
-**Tipo**: Fuerza militar/policial
-
-**Concepto**: Unidad militar bajo comando del General Martínez
-
-  
-
-**Miembros**:
-
-- [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/) (comandante)
-
-- [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar)
-
-  
-
-## Grupos Históricos y Legendarios
-
-  
-
-### Los Defensores
-
-**Tipo**: Grupo histórico de héroes
-
-**Concepto**: Grupo legendario de superhéroes del pasado
-
-  
-
-**Miembros**:
-
-- [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/) (grupo histórico)
-
-- [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario asociado)
-
-  
-
-### Los Clásicos
-
-**Tipo**: Héroes veteranos
-
-**Concepto**: Superhéroes establecidos y reconocidos
-
-  
-
-**Miembros**:
-
-- [La Sombra / El Oscuro]({{ site.baseurl }}/characters/details/la-sombra-el-oscuro/)
-
-- [Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/)
-
-- [Bailarina]({{ site.baseurl }}/characters/details/bailarina/)
-
-- [Neón]({{ site.baseurl }}/characters/details/neon/)
-
-- [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
-
-- [Serpiente]({{ site.baseurl }}/characters/details/serpiente/)
-
-- [Lucifer]({{ site.baseurl }}/characters/details/lucifer/)
-
-- [Anarquista]({{ site.baseurl }}/characters/details/anarquista/)
-
-  
-
-## Organizaciones Especializadas
-
-  
-
-### Organizaciones Políticas
-
-  
-
-#### Humanitas
-
-**Tipo**: Partido político
-
-**Concepto**: Partido anti-metahumano
-
-  
-
-**Información**: Grupo político que se opone a los derechos y presencia de metahumanos en la sociedad.
-
-  
-
-#### Freilasung
-
-**Tipo**: Grupo extremista
-
-**Concepto**: Organización extremista
-
-  
-
-**Información**: Grupo radical con agenda anti-metahumana.
-
-  
-
-### Instituciones Académicas y de Investigación
-
-  
-
-#### OMA (Universidad Multidisciplinar de Arcadia)
-
-**Tipo**: Institución educativa
-
-**Concepto**: Universidad principal de la ciudad
-
-  
-
-**Personal conocido**:
-
-- [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos)
-
-  
-
-#### LIA (Laboratorio de Investigaciones Avanzadas)
-
-**Tipo**: Institución de investigación
-
-**Concepto**: Centro de investigación avanzada
-
-  
-
-**Información**: Laboratorio especializado en investigaciones de alta tecnología.
-
-  
-
-### Organizaciones Religiosas
-
-  
-
-#### Las Carmelitas Descalzas
-
-**Tipo**: Orden religiosa
-
-**Concepto**: Comunidad religiosa
-
-  
-
-**Miembros**:
-
-- [Las monjas del albergue]({{ site.baseurl }}/characters/details/las-monjas-del-albergue/)
-
-  
-
-#### Los Sirianos
-
-**Tipo**: Secta religiosa
-
-**Concepto**: Grupo religioso sectario
-
-  
-
-**Información**: Secta religiosa mencionada en múltiples ocasiones en las campañas.
-
-  
-
-## Grupos Sobrenaturales y Místicos
-
-  
-
-### Los Espligan
-
-**Tipo**: Entidades sobrenaturales
-
-**Concepto**: Seres místicos antiguos
-
-  
-
-**Miembros**:
-
-- [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)
-
-  
-
-### Los Confesores
-
-**Tipo**: Entidades sobrenaturales
-
-**Concepto**: Seres místicos con rol confesional
-
-  
-
-**Miembros**:
-
-- [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)
-
-  
-
-### Los Antiguos
-
-**Tipo**: Entidades primordiales
-
-**Concepto**: Fuerzas sobrenaturales que precedieron a la era moderna
-
-  
-
-**Miembros asociados**:
-
-- [El Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/) (entidad primordial)
-
-- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-entidad/) (entidad antigua)
-
-- [Bastet]({{ site.baseurl }}/characters/details/bastet/)
-
-- [Alfred]({{ site.baseurl }}/characters/details/alfred/)
-
-  
+**Arcadia** es un **archivo histórico digital único** que documenta **15 años ininterrumpidos** de partidas de rol de superhéroes. Este proyecto contiene las notas, transcripciones y registros completos de **tres campañas interconnectadas** que han construido colaborativamente un universo narrativo épico y coherente.
 
 ---
 
-  
+## 🦸‍♂️ **Las Tres Campañas Legendarias**
 
-*Listado compilado de todos los grupos y organizaciones del mundo de Arcadia*
+### **[🏛️ La Familia]({{ site.baseurl }}/campaigns/la-familia/)** *(2009-2014)*
+Los **héroes fundacionales** que establecieron los cimientos del universo de Arcadia. Durante 5 años épicos, estos personajes forjaron las leyendas que inspirarían a futuras generaciones.
 
-*Última actualización: Julio 2025*
+**Protagonistas**: Garra, El Faraón, Esfinge, Bate, Mésmero, Estocada  
+**Sesiones**: 42 documentadas  
+**Temática**: Identidad, heroísmo fundacional, códigos éticos  
+
+### **[⚡ Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2014-2015)*
+La **generación puente** que modernizó el heroísmo arcadiano. Una nueva generación se alzó con métodos innovadores y perspectivas frescas.
+
+**Protagonistas**: Sara10/Mecánica, Espectro, Lúmen, Thomas, Alice  
+**Sesiones**: 6 clave documentadas  
+**Temática**: Innovación tecnológica, evolución heroica  
+
+### **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2024-presente)*
+Los **herederos modernos** que navegan un mundo más complejo. Tras 10 años de pausa, una nueva generación enfrenta dilemas morales sin respuestas fáciles.
+
+**Protagonistas**: Eslizón Esmeralda, Diana, Astrid/Kayface, Cia/Psique, Justa/Justicia/Sentencia, Hotman  
+**Sesiones**: 28+ activas y en curso  
+**Temática**: Meta-narrativa, complejidad moral, pérdida de privacidad  
+
+---
+
+## 📚 **Contenido Disponible**
+
+### **🎭 Documentación Completa**
+- **📋 Transcripciones detalladas** con timestamps de momentos clave
+- **🤖 Análisis con IA** (Gemini) para identificar patrones narrativos
+- **📊 Resúmenes sesión por sesión** con desarrollo de personajes
+- **🎵 Grabaciones originales** de momentos épicos
+
+### **🌍 Universo Expandido**
+- **[👥 200+ Personajes]({{ site.baseurl }}/characters/)** con biografías detalladas
+- **[🏛️ Organizaciones]({{ site.baseurl }}/groups/)** heroicas, villanas y civiles
+- **[🏙️ Worldbuilding completo]({{ site.baseurl }}/world-building/)** de la ciudad de Arcadia
+- **[📅 Cronología]({{ site.baseurl }}/timeline/)** de 15 años de eventos
+
+---
+
+## 🎯 **Características Únicas**
+
+### **🎭 Meta-Narrativa Revolucionaria**
+Los personajes descubren que son parte de un juego de rol, creando situaciones donde **los héroes encuentran gente jugando "Héroes o Villanos" con ellos como protagonistas**.
+
+### **⏳ Continuidad Temporal Épica**
+**15 años de decisiones** de jugadores han moldeado la realidad del universo. Cada acción tiene consecuencias que trascienden campañas individuales.
+
+### **📖 Archivo Vivo**
+Documentación **exhaustiva y sistemática** que preserva no solo las aventuras, sino la evolución de los jugadores y sus estilos narrativos.
+
+### **🔗 Conexiones Generacionales**
+Los **mismos jugadores** interpretan diferentes personajes a lo largo de las décadas, creando **capas narrativas** únicas donde las decisiones del pasado influyen el presente.
+
+---
+
+## 🛠️ **Explora el Archivo**
+
+### **Por Campaña**
+- **[🏛️ La Familia →]({{ site.baseurl }}/campaigns/la-familia/)** - Los orígenes heroicos
+- **[⚡ Génesis →]({{ site.baseurl }}/campaigns/genesis/)** - La evolución moderna  
+- **[🔮 La Fuerza Oculta →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - La era actual
+
+### **Por Contenido**
+- **[👥 Base de Personajes →]({{ site.baseurl }}/characters/)** - Biografías completas
+- **[🏛️ Grupos y Organizaciones →]({{ site.baseurl }}/groups/)** - Facciones del universo
+- **[🌍 Construcción del Mundo →]({{ site.baseurl }}/world-building/)** - Geografía, historia, sociedad
+- **[📋 Índice Completo →]({{ site.baseurl }}/all-content.md)** - Acceso total al archivo
+
+---
+
+## 📊 **Estadísticas del Proyecto**
+
+<div class="stats-grid">
+<div class="stat-card">
+<span class="stat-number">15</span>
+<span class="stat-label">Años Activos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">75+</span>
+<span class="stat-label">Sesiones Documentadas</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">200+</span>
+<span class="stat-label">Personajes Creados</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">8</span>
+<span class="stat-label">Jugadores Únicos</span>
+</div>
+</div>
+
+---
+
+## 🎲 **Tecnología y Métodos**
+
+- **📝 Markdown** para documentación estructurada
+- **🤖 Transcripción automática** con Gemini AI
+- **📸 Capturas y momentos** preservados visualmente
+- **🔗 Enlaces temporales** para navegación en grabaciones
+- **📊 Metadatos** completos de fechas y participantes
+
+---
+
+## 🌟 **Un Legado Único**
+
+Este archivo no es solo un registro de partidas de rol - es el **testimonio de 15 años de amistad**, **creatividad colaborativa** y **construcción narrativa compartida**. Cada sesión representa domingos dedicados a forjar leyendas, cada personaje es una faceta de la imaginación colectiva, y cada decisión ha moldeado un universo que trasciende el juego mismo.
+
+**En Arcadia, las mejores historias son las que creamos juntos.**
+
+---
+
+*📅 Última actualización: Julio 2025*  
+*👥 Creado por la Mesa de Arcadia*  
+*🌐 Archivo disponible en [arcadia.ludobermejo.es](https://arcadia.ludobermejo.es)*

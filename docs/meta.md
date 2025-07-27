@@ -135,6 +135,6 @@ Este archivo representa:
 
 - [🏠 Volver al Mundo "Real"]({{ site.baseurl }}/)
 - [🎭 Ver Cómo Se Creó Este Universo]({{ site.baseurl }}/campaigns/)
-- [🎬 Transcripciones de la "Actuación"]({{ site.baseurl }}/work-in-progress/#transcripciones)
+- [🎬 Transcripciones de la "Actuación"]({{ site.baseurl }}/transcriptions/)
 - [📖 La "Historia" Completa]({{ site.baseurl }}/work-in-progress/#línea-temporal)
 - [🎲 Los "Personajes" que Interpretamos]({{ site.baseurl }}/characters/)

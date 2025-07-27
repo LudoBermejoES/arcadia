@@ -11,9 +11,10 @@ Esta página temporalmente alberga enlaces a secciones que están siendo desarro
 ## 📝 Secciones en Desarrollo
 
 ### 🎬 Transcripciones
-**Estado**: En desarrollo  
-**Descripción**: Transcripciones completas de sesiones de juego  
-**Contenido**: Registros detallados de diálogos y eventos de cada sesión  
+**Estado**: ✅ Disponible  
+**Descripción**: Transcripciones automáticas con IA de La Fuerza Oculta  
+**Enlace**: [Ver Transcripciones]({{ site.baseurl }}/transcriptions/)  
+**Contenido**: Notas de IA, resúmenes analíticos, y notas manuales  
 
 ### 📅 Línea Temporal
 **Estado**: Planificado  

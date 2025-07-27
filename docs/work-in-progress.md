@@ -17,9 +17,10 @@ Esta página temporalmente alberga enlaces a secciones que están siendo desarro
 **Contenido**: Notas de IA, resúmenes analíticos, y notas manuales  
 
 ### 📅 Línea Temporal
-**Estado**: Planificado  
-**Descripción**: Cronología completa de eventos en el universo de Arcadia  
-**Contenido**: Fechas importantes, eventos históricos, líneas temporales de campañas  
+**Estado**: ✅ Disponible  
+**Descripción**: Cronología detallada de 15 años del universo de Arcadia  
+**Enlace**: [Ver Línea Temporal]({{ site.baseurl }}/timeline/)  
+**Contenido**: Análisis temporal completo de las tres campañas, indicadores narrativos, patrones únicos  
 
 ## 🔗 Enlaces Temporales
 

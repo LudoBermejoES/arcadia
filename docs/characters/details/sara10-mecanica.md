@@ -8,7 +8,7 @@ slug: sara10-mecanica
 # Sara10 / Mecánica
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Sara10%3AMecánica.png" alt="Sara10 / Mecánica" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Sara10_Mecánica.png" alt="Sara10 / Mecánica" />
 </div>
 
 ## Presentación

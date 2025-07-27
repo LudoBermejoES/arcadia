@@ -8,7 +8,7 @@ slug: thomas-raza
 # Thomas / Raza
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Thomas%3ARaza.png" alt="Thomas / Raza" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Thomas_Raza.png" alt="Thomas / Raza" />
 </div>
 
 ## Presentación

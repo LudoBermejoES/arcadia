@@ -8,7 +8,7 @@ slug: alice-tesla
 # Alice / Tesla
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Alice%3ATesla.png" alt="Alice / Tesla" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Alice_Tesla.png" alt="Alice / Tesla" />
 </div>
 
 ## Presentación

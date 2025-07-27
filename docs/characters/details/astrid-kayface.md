@@ -8,7 +8,7 @@ slug: astrid-kayface
 # Astrid / Kayface
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Astrid%3AKayface.png" alt="Astrid / Kayface" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Astrid_Kayface.png" alt="Astrid / Kayface" />
 </div>
 
 ## Presentación

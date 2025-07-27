@@ -8,7 +8,7 @@ slug: mencia-psique-cia
 # Mencia / Psique / Cia
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Mencia%3APsique%3ACia.png" alt="Mencia / Psique / Cia" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Mencia_Psique_Cia.png" alt="Mencia / Psique / Cia" />
 </div>
 
 ## Presentación

@@ -54,10 +54,10 @@ Durante su período activo:
 
 ### Conexiones Históricas
 Aunque no se especifican miembros exactos, Los Defensores pueden haber incluido:
-- **Autoridad**: Como posible líder del grupo
-- **Venus/Sibila**: Héroe contemporáneo de la era
-- **Psicodalia**: Heroína de métodos especializados
-- **La Desconocida**: Posible miembro encubierto
+- **[Autoridad]({{ site.baseurl }}/characters/details/autoridad/)**: Como posible líder del grupo
+- **[Venus/Sibila]({{ site.baseurl }}/characters/details/venus-sibila/)**: Héroe contemporáneo de la era
+- **[Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/)**: Heroína de métodos especializados
+- **[La Desconocida]({{ site.baseurl }}/characters/details/la-desconocida/)**: Posible miembro encubierto
 
 ## Legado Histórico
 

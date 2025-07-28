@@ -225,8 +225,7 @@ permalink: /characters/character-list/
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)
 - [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
 - [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
-- El señor de las ratas
-- Cabeza Buque
+- [El Señor de las Ratas]({{ site.baseurl }}/characters/details/el-senor-de-las-ratas/)
 - Yeng (oriental de la subciudad)
 - Francisco (hermano de Jorge, discapacitado)
 - Elena Fuentes

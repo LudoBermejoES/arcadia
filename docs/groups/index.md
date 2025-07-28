@@ -330,7 +330,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Principales Figuras:**
 - **🎭 [Charada](../characters/details/charada.md)** - El sastre metamórfico legendario
-- **✂️ "Sastre"** - El mentor tradicional (rival de Charada)
+- **✂️ [Federico López ("El Sastre")](../characters/details/federico-lopez.md)** - El mentor tradicional (rival de Charada)
 - **🏭 Talleres Especializados** - Producción en masa para metahumanos
 
 #### **Servicios Únicos:**
@@ -479,7 +479,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **⚔️ Rivalidades Históricas**
 - **Héroes ↔ La Farándula**: Conflicto generacional (La Familia → La Fuerza Oculta)
 - **Progresistas ↔ Humanitas**: Tensión política sobre derechos meta
-- **Charada ↔ Sastre**: Rivalidad profesional legendaria
+- **Charada ↔ Federico López**: Rivalidad profesional legendaria (mentor vs discípulo)
 
 ### **🌐 Redes Complejas**
 - **Economía de Favores**: Une a todos los grupos independientemente de moral

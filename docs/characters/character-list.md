@@ -219,7 +219,7 @@ permalink: /characters/character-list/
 - [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
 - [Lambert]({{ site.baseurl }}/characters/details/lambert/) (diseñador de trajes)
 - [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
-- [Federico López]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre)
+- [Federico López ("El Sastre")]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre tradicional, mentor y rival de Charada)
 
 ### Periodistas y Medios
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)

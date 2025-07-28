@@ -19,27 +19,29 @@ Charada es un sastre especializado en trajes de superhéroes que se hizo famoso 
 
 **Sastre de Superhéroes**: Charada se especializa en la confección de trajes para metahumanos y superhéroes, proporcionando no solo vestimenta sino equipamiento funcional para sus actividades heroicas.
 
-**Diseñador Controvertido**: Su fama en los años 90 se debió tanto a su talento como a la controversia generada por robar clientela a su mentor, conocido simplemente como "el Sastre".
+**Diseñador Controvertido**: Su fama en los años 90 se debió tanto a su talento como a la controversia generada por robar clientela a su mentor, **Federico López**, conocido profesionalmente como "El Sastre".
 
 **Proveedor de La Fuerza Oculta**: Actualmente confecciona trajes para los miembros de La Fuerza Oculta, ofreciendo el primer traje gratuitamente como parte de la entrada a la comunidad heroica.
 
-**Rival Profesional**: Mantiene una rivalidad profesional con su antiguo mentor, lo que ha creado una competencia en el mercado de trajes de superhéroes.
+**Rival Profesional**: Mantiene una rivalidad amarga con **Federico López ("El Sastre")**, su antiguo mentor, creando dos escuelas diferentes de sastrería heroica en Arcadia.
 
 ## Apariciones Documentadas
 
-**Años 90**: Período de mayor fama cuando robó clientela a "el Sastre" y diseñó el traje de Arcadio, causando revuelo en la comunidad de superhéroes.
+**Años 90**: Período de mayor fama cuando robó clientela a **Federico López ("El Sastre")** y diseñó el traje de Arcadio, causando revuelo en la comunidad de superhéroes.
 
-**Diseño del Traje de Arcadio**: Su trabajo más notable fue crear el traje para Arcadio, una figura legendaria en Arcadia, lo que estableció su reputación pero también intensificó su conflicto con su mentor.
+**Diseño del Traje de Arcadio**: Su trabajo más notable fue crear el traje para Arcadio, una figura legendaria en Arcadia, lo que estableció su reputación pero también intensificó su conflicto con **Federico López**.
 
 **Colaboración con La Fuerza Oculta**: Actualmente trabaja confeccionando trajes para los miembros de La Fuerza Oculta, enviándolos al gimnasio de Comadreja cuando están listos.
 
 ## Detalles Adicionales
 
-**Relación con su Mentor**: La tensión con "el Sastre" surgió no solo por robar clientela, sino específicamente porque le quitó la oportunidad de confeccionar y diseñar el traje de Arcadio, un encargo de alto prestigio.
+**Relación con su Mentor**: La tensión con **Federico López ("El Sastre")** surgió no solo por robar clientela, sino específicamente porque le quitó la oportunidad de confeccionar y diseñar el traje de Arcadio, un encargo de alto prestigio que Federico consideraba suyo por derecho.
+
+**Diferencias Fundamentales**: La rivalidad representa un conflicto más profundo entre **métodos tradicionales** (Federico, humano sin poderes) vs **ventajas metahumanas** (Charada y su capacidad de transformación). Mientras Federico opera abiertamente, Charada prefiere trabajar en secreto.
 
 **Política de Precios**: Ofrece el primer traje gratuitamente a nuevos héroes, pero cobra por modificaciones adicionales como armadura o mejoras especiales.
 
-**Competencia Profesional**: Su rivalidad con "el Sastre" ha creado opciones para los héroes, aunque también puede generar tensiones en la comunidad de confección de trajes heroicos.
+**Competencia Profesional**: Su rivalidad con **Federico López ("El Sastre")** ha creado opciones para los héroes, aunque también puede generar tensiones en la comunidad de confección de trajes heroicos.
 
 **Flexibilidad en Entrega**: No especifica fechas de entrega exactas, trabajando a su propio ritmo y enviando los trajes cuando están completados según sus estándares.
 

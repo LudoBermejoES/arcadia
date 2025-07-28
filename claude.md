@@ -129,7 +129,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Academias de Entrenamiento** - Educación metahumana especializada
 
 ### 🛠️ **Organizaciones de Apoyo**
-- **Industria de Trajes** - Sastres especializados (Charada, "Sastre")
+- **Industria de Trajes** - Sastres especializados (Charada, Federico López)
 - **Red de Mentores** - Sistema veterano de entrenamiento
 - **RTA** - Medios públicos especializados
 - **Economía de Favores** - Sistema de intercambio no-monetario

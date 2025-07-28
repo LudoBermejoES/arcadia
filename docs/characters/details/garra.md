@@ -86,17 +86,9 @@ Como **experto tecnológico** y **estratega práctico** del grupo, Garra aporta 
 - [Session 40](../../campaigns/la-familia/session-40.md)
 - [Session 41](../../campaigns/la-familia/session-41.md)
 - [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md)
-- [Session 40](../../campaigns/la-familia/session-40.md)
 - [Genesis Session 03](../../campaigns/genesis/session-03.md)
 
 ## Relaciones Clave
-
-### Romance con Atropos/Esfinge
-La relación romántica entre Garra y [Atropos]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) es una de las más complejas del universo de Arcadia:
-- **Intercambio de edades**: Mientras él rejuvenecía, ella maduraba, intercambiando roles de edad
-- **Estabilización mutua**: Los besos de Atropos lo estabilizaron durante su transformación
-- **Críticas del grupo**: Especialmente de Bate, quien cuestionaba la apropiedad de la relación
-- **Amor adolescente genuino**: Su relación se equilibró después de su rejuvenecimiento
 
 ### Relación con Mecánica
 Su primera experiencia romántica genuinamente adolescente:
@@ -114,7 +106,44 @@ Garra representa la **plasticidad de la identidad** y las **segundas oportunidad
 - **El amor trasciende el tiempo**: Su relación con Atropos demostró que el amor verdadero se adapta
 - **Tecnología y humanidad**: Representó la síntesis perfecta entre habilidad técnica y conexión emocional
 
-## Legado e Impacto
-Al final de las crónicas de La Familia, Garra había encontrado una estabilidad única como "adolescente eterno" con sabiduría adulta. Su historia es la de **reinvención constante** - el único miembro del grupo que logró transformar completamente su identidad, convirtiendo lo que parecía una maldición en la oportunidad de vivir la vida que realmente quería.
+## La Vida Después de La Familia (10 años después)
 
-**Garra demostró que a veces, retroceder en el tiempo puede ser la única forma de avanzar hacia el futuro.**
+### Colaboración con La Fuerza Oculta (2025)
+Diez años después del final de La Familia, Garra ha evolucionado hacia un nuevo rol:
+
+#### Rol de Mentor y Facilitador:
+- **Colaborador con Ana Montenegro**: Trabaja junto a Ana (ahora abogada) para ayudar a nuevos metahumanos
+- **Facilitador de refugios**: Proporciona "pisos francos" para metahumanos fugitivos
+- **Operaciones clandestinas**: Participa en extracciones junto con Relámpago y Espectro
+- **Contacto clave**: Es uno de los contactos principales en los teléfonos desechables de La Fuerza Oculta
+
+#### Su Estado Actual:
+- **Madurez consolidada**: Ha mantenido su apariencia joven pero con sabiduría acumulada
+- **Red de contactos**: Forma parte de una red clandestina de apoyo a metahumanos
+- **Tecnología actualizada**: Continúa siendo el especialista tecnológico, pero ahora para múltiples grupos
+- **Estabilidad emocional**: Ha encontrado un equilibrio entre su naturaleza temporal única y su rol social
+
+### La Última Reunión de La Familia (Session 42 - 2025)
+En una reunión nostálgica con sus antiguos compañeros:
+
+#### Participación en la Búsqueda del Faraón:
+- **Investigación tecnológica**: Usa sus habilidades para conseguir direcciones y datos
+- **Equipo táctico**: Ayuda a Bate a guardar su arma en una funda japonesa
+- **Apoyo logístico**: Compra comida (kebabs) durante la vigilancia nocturna
+- **Anomalías temporales**: Sus pertenencias (camiseta nueva) envejecen misteriosamente durante eventos temporales
+
+#### Durante el Evento Temporal:
+- **Protección**: Se rodea automáticamente de su escudo púrpura característico
+- **Estabilidad**: Mantiene mayor control durante las fluctuaciones temporales
+- **Experiencia**: Su familiaridad con anomalías temporales le permite reaccionar mejor
+
+## Legado e Impacto
+Garra ha evolucionado de "adolescente eterno" a **mentor experimentado** y **facilitador de la comunidad metahumana**. Su historia de reinvención constante ahora incluye una nueva dimensión: ayudar a otros metahumanos a encontrar su lugar en el mundo.
+
+### Su Contribución a Largo Plazo:
+- **Puente generacional**: Conecta la experiencia de La Familia con las nuevas generaciones de metahumanos
+- **Red de apoyo**: Ha construido sistemas de apoyo para metahumanos en problemas
+- **Sabiduría práctica**: Sus experiencias únicas lo convierten en un consejero invaluable
+- **Continuidad heroica**: Mantiene vivo el espíritu de La Familia a través de acciones prácticas
+
+**Garra demostró que retroceder en el tiempo puede ser la única forma de avanzar hacia el futuro, y ahora ayuda a otros a encontrar sus propios caminos hacia adelante.**

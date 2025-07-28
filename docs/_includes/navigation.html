@@ -6,6 +6,15 @@
       <a href='#'>{{ item.name }}<span class="bangbangbang">!!!</span></a>
     {% endif %}
   {% endfor %}
+  
+  <!-- Search Box -->
+  <div class="nav-search">
+    <form id="search-form" action="{{ site.baseurl }}/search/" method="get">
+      <input type="text" id="search-input" name="query" placeholder="Buscar..." autocomplete="off">
+      <button type="submit">🔍</button>
+    </form>
+  </div>
+  
   <!--"Hamburger menu" / "Bar icon" to toggle the navigation links-->
   <a class="icon" href="javascript:void(0);" onclick="myFunction()"><i class="fa fa-bars"></i></a>
 </nav>

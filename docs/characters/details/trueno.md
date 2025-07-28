@@ -12,7 +12,7 @@ slug: trueno
 **Nombre Heroico**: Trueno  
 **Categoría**: Metahumanos Héroes y Vigilantes - MetaCorp Activos  
 **Afiliación**: MetaCorp  
-**Estado**: Activo  
+**Estado**: Desaparecido  
 **Clasificación**: Héroe Corporativo
 
 ## Descripción
@@ -53,10 +53,26 @@ La pareja Relámpago-Trueno sugiere una estrategia coordinada donde los poderes 
 - **Ricardo Abeluengo**: Personal administrativo
 - **General Martínez**: Coordinación con autoridades militares
 
-## Contexto Operacional
+## Estado Actual
 
-### Operaciones Coordinadas
-Trueno probablemente participa en operaciones que requieren:
+### Desaparición Misteriosa
+Según información más reciente de La Familia Session 41:
+- **Trueno ha desaparecido** de forma inexplicada
+- Su paradero actual es desconocido
+- Los MetaCorp están activamente buscándolo
+- Su desaparición coincidió con cambios significativos en la estructura de MetaCorp
+
+### Contexto Cósmico de su Desaparición
+- Ocurrió durante un período de inestabilidad política en Arcadia, posiblemente relacionado
+- Provocó el retiro inmediato de su hija Relámpago del servicio mortal
+- Oneill, un simple mortal, tuvo que asumir el liderazgo completo tras perder ambas deidades
+- Su ausencia ha dejado a MetaCorp sin protección celestial
+- La desaparición de un dios sugiere amenazas de nivel cósmico o conflictos entre deidades
+
+## Contexto Operacional Anterior
+
+### Operaciones Coordinadas (Antes de su desaparición)
+Trueno participaba en operaciones que requerían:
 - Control de multitudes mediante efectos sónicos
 - Manipulación meteorológica para apoyo táctico
 - Combinación de poderes con Relámpago para efectos devastadores
@@ -67,7 +83,15 @@ Trueno aparece en contextos relacionados con operaciones oficiales de MetaCorp, 
 
 ## Impacto en la Narrativa
 
-Como héroe de MetaCorp, Trueno representa el heroísmo institucionalizado y la efectividad del trabajo en equipo dentro de estructuras corporativas, demostrando cómo los poderes metahumanos pueden ser coordinados profesionalmente.
+### Antes de su Desaparición
+Como héroe de MetaCorp, Trueno representaba el heroísmo institucionalizado y la efectividad del trabajo en equipo dentro de estructuras corporativas.
+
+### Después de su Desaparición
+Su misteriosa desaparición ha creado:
+- **Incertidumbre en MetaCorp**: La pérdida de un héroe clave ha afectado la estabilidad organizacional
+- **Misterio narrativo**: Su paradero desconocido genera tensión y preguntas sin respuesta
+- **Cambio en la dinámica**: Oneill tuvo que asumir mayor liderazgo tras la pérdida de Trueno y el retiro de Relámpago
+- **Búsqueda activa**: Los MetaCorp necesitan localizarlo, sugiriendo su importancia crítica para la organización
 
 ## Apariciones Documentadas
 - [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
@@ -78,4 +102,4 @@ Como héroe de MetaCorp, Trueno representa el heroísmo institucionalizado y la 
 
 ---
 
-*Nota: Trueno es un héroe activo de MetaCorp que opera en tándem con Relámpago, representando el modelo de heroísmo corporativo coordinado y profesionalizado en Arcadia.*
+*Nota: Trueno era un héroe activo de MetaCorp que operaba en tándem con Relámpago. Su misteriosa desaparición ha alterado significativamente la estructura y operaciones de MetaCorp, convirtiéndose en una de las incógnitas más importantes de la narrativa actual.*

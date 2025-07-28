@@ -14,44 +14,49 @@ slug: relampago
 ## Información Básica
 
 **Nombre Heroico**: Relámpago  
-**Categoría**: Metahumanos Héroes y Vigilantes - MetaCorp Activos  
-**Afiliación**: MetaCorp  
-**Estado**: Activo  
-**Clasificación**: Héroe Corporativo
+**Género**: Femenino
+**Categoría**: Entidad Divina - Ex MetaCorp  
+**Afiliación**: Anteriormente MetaCorp (Retirada)
+**Estado**: Retirada  
+**Clasificación**: Diosa del Rayo/Ex-Héroe Corporativo
+**Relación Familiar**: Hija de Trueno
 
 ## Descripción
 
-Relámpago es un metahumano activo afiliado a MetaCorp, la corporación encargada de gestionar los asuntos metahumanos en Arcadia. Su nombre sugiere poderes relacionados con la velocidad, electricidad o fenómenos atmosféricos, y opera como parte del equipo oficial de héroes corporativos.
+Relámpago es una entidad divina de origen chino, hija de Trueno, que anteriormente sirvió como héroe corporativo en MetaCorp, la corporación encargada de gestionar los asuntos metahumanos en Arcadia. Su nombre sugiere poderes relacionados con la velocidad, electricidad o fenómenos atmosféricos, y opera como parte del equipo oficial de héroes corporativos.
 
 ## Poderes Sugeridos
 
-### Habilidades Relacionadas con Relámpago
-Basado en su nombre, es probable que posea:
-- Poderes eléctricos o de control de rayos
-- Habilidades de súper velocidad
-- Poderes relacionados con fenómenos atmosféricos
-- Posible generación o manipulación de descargas eléctricas
+### Poderes Divinos del Rayo
+Como diosa del rayo de la mitología china, posee:
+- **Control absoluto sobre la electricidad**: Generación y manipulación de rayos y descargas eléctricas
+- **Poderes atmosféricos divinos**: Control sobre tormentas y fenómenos meteorológicos
+- **Velocidad sobrenatural**: Capacidad de moverse a la velocidad del rayo
+- **Esencia divina**: Naturaleza inmortal o semi-inmortal como entidad celestial
+- **Poderes hereditarios**: Habilidades transmitidas por su padre Trueno
 
 ## Afiliación MetaCorp
 
-### Héroe Corporativo
-Como metahumano activo de MetaCorp, Relámpago:
-- Opera bajo la supervisión y directrices corporativas
-- Participa en misiones oficialmente sancionadas
-- Representa la face pública del heroísmo corporativo
-- Trabaja en coordinación con otros héroes de MetaCorp
+### Ex-Héroe Corporativo
+Como ex-metahumano de MetaCorp, Relámpago:
+- **Se retiró** del servicio activo según La Familia Session 41
+- Anteriormente operaba bajo supervisión corporativa
+- Participaba en misiones oficialmente sancionadas
+- Representaba la face pública del heroísmo corporativo
+- Trabajaba en estrecha coordinación con Trueno (ahora desaparecido)
 
-### Responsabilidades
+### Responsabilidades Anteriores
 - Respuesta a emergencias metahumanas
-- Operaciones de seguridad pública
+- Operaciones de seguridad pública  
 - Representación corporativa en eventos públicos
+- Colaboración con La Fuerza Oculta (según registros de 2025)
 
 ## Relaciones
 
-### Compañeros de MetaCorp
-- **Trueno**: Compañero héroe de MetaCorp (posible pareja temática)
-- **Oneill**: Líder de MetaCorp y superior directo
-- Otros héroes corporativos activos
+### Ex-Compañeros de MetaCorp
+- **Trueno**: Ex-compañero héroe (pareja temática) - actualmente desaparecido
+- **Oneill**: Ahora líder único de MetaCorp tras el retiro de Relámpago
+- Otros ex-compañeros héroes corporativos
 
 ### Estructura Corporativa
 - **Francisco Egin**: Funcionario de MetaCorp
@@ -60,8 +65,21 @@ Como metahumano activo de MetaCorp, Relámpago:
 
 ## Contexto Operacional
 
-### MetaCorp como Institución
-Relámpago opera dentro del marco institucional de MetaCorp, que regula y coordina las actividades metahumanas en Arcadia, proporcionando estructura y recursos para operaciones heroicas.
+### Estado Actual y Colaboraciones Recientes
+
+#### Retiro de MetaCorp
+Según La Familia Session 41:
+- **"Rayo se ha retirado"** - confirmando su salida del servicio activo
+- Su retiro coincidió con la misteriosa desaparición de su padre Trueno
+- Como diosa, puede haber decidido que su tiempo sirviendo a mortales había terminado
+- Oneill asumió el liderazgo completo de MetaCorp tras perder a ambas deidades
+
+#### Colaboración con La Fuerza Oculta
+Según registros de 2025, Relámpago:
+- Ayudó en la extracción de La Fuerza Oculta del sistema judicial
+- Trabajó junto con Garra y Espectro en operaciones clandestinas
+- Proporcionó refugio en "pisos francos" a metahumanos fugitivos
+- Demostró una postura más independiente respecto a MetaCorp
 
 ## Apariciones Documentadas
 - [La Familia - Sesión 02](../../campaigns/la-familia/session-02.md)
@@ -78,8 +96,16 @@ Relámpago opera dentro del marco institucional de MetaCorp, que regula y coordi
 
 ## Impacto en la Narrativa
 
-Como héroe de MetaCorp, Relámpago representa el modelo de heroísmo institucionalizado, operando dentro de estructuras corporativas establecidas para el beneficio público y la gestión metahumana.
+### Durante su Época Activa
+Como héroe de MetaCorp, Relámpago representaba el modelo de heroísmo institucionalizado.
+
+### Después de su Retiro
+Su retiro marca un cambio significativo:
+- **Fin de una era**: La pareja Trueno-Relámpago era emblemática de MetaCorp
+- **Transición hacia la independencia**: Sus acciones con La Fuerza Oculta sugieren una evolución hacia operaciones más autónomas
+- **Impacto en MetaCorp**: Su salida, junto con la desaparición de Trueno, dejó a Oneill como líder único
+- **Simbolismo**: Su retiro representa la evolución del heroísmo más allá de las estructuras corporativas
 
 ---
 
-*Nota: Relámpago es un héroe activo de MetaCorp que representa el enfoque corporativo del heroísmo en Arcadia, operando con recursos y supervisión institucional.*
+*Nota: Relámpago es una diosa china del rayo, hija de Trueno, que sirvió temporalmente como héroe corporativo en MetaCorp. Su retiro marca el fin de una era donde las deidades chinas colaboraban directamente con instituciones mortales, y su transición hacia operaciones independientes sugiere un regreso a su naturaleza divina fundamental.*

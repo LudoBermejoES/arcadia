@@ -27,6 +27,7 @@ Alice actúa como una de las líderes del grupo "Génesis" debido a sus recursos
 ## Apariciones Documentadas
 - [Genesis Session 02](../../campaigns/genesis/session-02.md)
 - [Genesis Session 03](../../campaigns/genesis/session-03.md)
+- [Genesis Session 04](../../campaigns/genesis/session-04.md)
 - [Genesis Session 05](../../campaigns/genesis/session-05.md)
 - [Genesis Session 06](../../campaigns/genesis/session-06.md)
 

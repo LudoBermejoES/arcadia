@@ -29,13 +29,13 @@ permalink: /characters/character-list/
 - [Oneill]({{ site.baseurl }}/characters/details/oneill/)
 - [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/)
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
-- [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/)
 
 ### Gobierno y Administración
 - [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)
 - [Leopoldo Gómez]({{ site.baseurl }}/characters/details/leopoldo-gomez/)
 - [Alfonso Montenegro]({{ site.baseurl }}/characters/details/alfonso-montenegro/)
 - [Ignacio Rodriguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez-condestable/)
+- [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos universitarios)
 
 ## Metahumanos Héroes y Vigilantes
 
@@ -55,6 +55,7 @@ permalink: /characters/character-list/
 - [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
 
 ### Antiguos Héroes
+- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (héroe fundacional, Guardián)
 - [Venus / Sibila]({{ site.baseurl }}/characters/details/venus-sibila/)
 - [Autoridad]({{ site.baseurl }}/characters/details/autoridad/)
 - [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/)
@@ -84,9 +85,11 @@ permalink: /characters/character-list/
 - [Crazy Mary]({{ site.baseurl }}/characters/details/crazy-mary/)
 - [Pastel de Carne]({{ site.baseurl }}/characters/details/pastel-de-carne/)
 - [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
+- [Aldonza Lorenzo / Dulcinea]({{ site.baseurl }}/characters/details/aldonza-lorenzo/) (miembro de La Farándula)
 - [Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)
 - [Barón Soledad]({{ site.baseurl }}/characters/details/baron-soledad/) (asigna casos criminales)
 - [La Baronesa]({{ site.baseurl }}/characters/details/la-baronesa/) (relacionada con Pastel de Carne)
+- [Mentallo]({{ site.baseurl }}/characters/details/mentallo/) (supervillano telepático de los 80s)
 
 ### Fatum (Familia de Supervillanos)
 - [Janus]({{ site.baseurl }}/characters/details/janus/) (líder, manipulador del futuro, fallecido)
@@ -170,7 +173,7 @@ permalink: /characters/character-list/
 - [Sara10 / Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/) (Chus)
 - [Jorge / Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/) (Rafa)
 - [Thomas / Raza]({{ site.baseurl }}/characters/details/thomas-raza/) (Dani)
-- [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
+- [Lúmen]({{ site.baseurl }}/characters/details/lumen/) (Conchi)
 
 
 ### Profesionales Médicos
@@ -187,6 +190,13 @@ permalink: /characters/character-list/
 - [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)
 - [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
 - [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
+
+### La Cacería Salvaje
+- [Vista]({{ site.baseurl }}/characters/details/vista/) (18 años, Varón, Líder)
+- [Tacto]({{ site.baseurl }}/characters/details/tacto/) (18 años, Hembra, Co-líder)
+- [Oído]({{ site.baseurl }}/characters/details/oido/) (16 años, Hembra)
+- [Olfato]({{ site.baseurl }}/characters/details/olfato/) (16 años, Varón)
+- [Gusto]({{ site.baseurl }}/characters/details/gusto/) (14 años, Varón)
 
 #### Jugadores y Staff
 - Eduardo Vaquerizo (jugador/GM)
@@ -215,9 +225,7 @@ permalink: /characters/character-list/
 ## Otros Personajes Notables
 
 ### Artesanos y Profesionales
-- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/)
 - [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
-- [Lambert]({{ site.baseurl }}/characters/details/lambert/) (diseñador de trajes)
 - [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
 - [Federico López ("El Sastre")]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre tradicional, mentor y rival de Charada)
 
@@ -225,20 +233,24 @@ permalink: /characters/character-list/
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)
 - [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
 - [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
-- [El Señor de las Ratas]({{ site.baseurl }}/characters/details/el-senor-de-las-ratas/)
+
+### Comerciantes y Guías del Submundo
+- [El Señor de las Ratas]({{ site.baseurl }}/characters/details/el-senor-de-las-ratas/) (guía subterráneo sin lengua)
 - [Yeng]({{ site.baseurl }}/characters/details/yeng/) (comerciante del mercado negro en la subciudad)
+
+### Civiles y Familiares
 - Francisco (hermano de Jorge, discapacitado)
 - Elena Fuentes
 - Ignacio Fuentes
-- Inácio la Fuente
-- Mentallo
-- Los Rayos (fuerza militar bajo General Martínez)
-- El Oriental Tormenta
-- Aldonza Lorenzo
-- Gomez
-- Waldo Gutierrez (supervisor de proyectos universitarios)
+- Gomez (forense)
 - Marta Heredia (colega de Ignacio, asesinada)
 - Marta Gutierrez (caso de la empática)
+
+### Fuerzas Especiales y Militares
+- Los Rayos (fuerza militar bajo General Martínez)
+- El Oriental Tormenta
+
+### Personajes Internacionales
 - Rey Ofobutu (rey africano metahumano)
 
 ---

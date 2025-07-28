@@ -226,7 +226,7 @@ permalink: /characters/character-list/
 - [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
 - [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
 - [El Señor de las Ratas]({{ site.baseurl }}/characters/details/el-senor-de-las-ratas/)
-- Yeng (oriental de la subciudad)
+- [Yeng]({{ site.baseurl }}/characters/details/yeng/) (comerciante del mercado negro en la subciudad)
 - Francisco (hermano de Jorge, discapacitado)
 - Elena Fuentes
 - Ignacio Fuentes

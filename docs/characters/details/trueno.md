@@ -7,6 +7,10 @@ slug: trueno
 
 # Trueno
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Trueno.png" alt="Trueno" />
+</div>
+
 ## Información Básica
 
 **Nombre Heroico**: Trueno  

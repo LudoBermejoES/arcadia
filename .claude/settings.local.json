@@ -53,7 +53,8 @@
       "Bash(git pull:*)",
       "Bash(nslookup:*)",
       "Bash(dig:*)",
-      "Bash(curl:*)"
+      "Bash(curl:*)",
+      "Bash(git check-ignore:*)"
     ],
     "deny": []
   }

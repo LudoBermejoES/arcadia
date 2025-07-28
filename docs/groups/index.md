@@ -298,6 +298,31 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
+### **🐱 [La Cacería Salvaje](la-caceria-salvaje.md)**
+**Los Vigilantes Felinos del Barrio Gótico**
+
+#### **Composición Familiar:**
+- **👁️ [Vista](../characters/details/vista.md)** *(18 años, Varón)* - Líder, especialista visual
+- **✋ [Tacto](../characters/details/tacto.md)** *(18 años, Hembra)* - Co-líder, percepción táctil
+- **👂 [Oído](../characters/details/oido.md)** *(16 años, Hembra)* - Especialista auditiva
+- **👃 [Olfato](../characters/details/olfato.md)** *(16 años, Varón)* - Rastreador principal
+- **👅 [Gusto](../characters/details/gusto.md)** *(14 años, Varón)* - Detector de sustancias
+
+#### **Características Únicas:**
+- **👨‍👩‍👧‍👦 Vínculos Familiares**: Cinco hermanos hijos de [Estocada](../characters/details/estocada.md)
+- **🐱 Naturaleza Bestial**: Metahumanos felinos que no pueden pasar desapercibidos
+- **🌆 Territorio Especializado**: Protectores exclusivos del Barrio Gótico
+- **🎯 Especialización Sensorial**: Cada miembro representa un sentido específico
+
+#### **Enemigos Principales:**
+- **🦹‍♂️ Las Bestias**: Organización criminal controlada por El Viejo
+- **🎯 Los Cazadores**: Grupo especializado en cazar metahumanos bestiales
+
+#### **Filosofía Operativa:**
+*"La familia unida puede proteger a quienes la sociedad rechaza"*
+
+---
+
 ### **🦦 Red de Mentores Veteranos**
 **Sistema de Mentoría Heroica**
 
@@ -375,6 +400,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[🏛️ La Familia](../campaigns/la-familia/index.md)** - Los fundadores legendarios
 - **[⚡ Génesis](../campaigns/genesis/index.md)** - La generación puente
 - **[🔮 La Fuerza Oculta](../campaigns/la-fuerza-oculta/index.md)** - Los herederos actuales
+- **[🐱 La Cacería Salvaje](la-caceria-salvaje.md)** - Los vigilantes felinos del Barrio Gótico
 - **[🛡️ Veteranos](../characters/details/los-defensores.md)** - Equipos de apoyo
 
 ### **😈 Organizaciones Villanas**

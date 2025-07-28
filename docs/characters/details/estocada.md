@@ -33,11 +33,28 @@ Eventualmente, Estocada tomó la decisión de marcharse de La Familia para forma
 - [Session 17](../../campaigns/la-familia/session-17.md)
 - [Session 32](../../campaigns/la-familia/session-32.md)
 
-## Detalles Adicionales
-Estocada formó una familia única con cuatro compañeras Bestia, teniendo 5+3+3 cachorros que escaparon para buscar a su padre cuando fue capturado. Estos hijos no tienen el vínculo típico de las Bestias con su creador, y pueden desarrollar genes metahumanos al llegar a la pubertad.
+## La Familia de Estocada
 
+### Formación de una Familia Única
+Estocada formó una familia única con cuatro compañeras Bestia, teniendo múltiples cachorros (5+3+3 según registros) que escaparon para buscar a su padre cuando fue capturado. Estos hijos no tienen el vínculo típico de las Bestias con su creador, y desarrollaron genes metahumanos al llegar a la pubertad como había sido predicho.
+
+### La Cacería Salvaje
+Cinco de sus hijos han formado el grupo heroico conocido como **[La Cacería Salvaje](la-caceria-salvaje.md)**, operando como vigilantes especializados en el Barrio Gótico:
+
+- **[Vista](vista.md)** - 18 años (Varón) - Líder, especialista en percepción visual
+- **[Tacto](tacto.md)** - 18 años (Hembra) - Co-líder, especialista en percepción táctil  
+- **[Oído](oido.md)** - 16 años (Hembra) - Especialista en percepción auditiva
+- **[Olfato](olfato.md)** - 16 años (Varón) - Rastreador, especialista olfativo
+- **[Gusto](gusto.md)** - 14 años (Varón) - Detector de sustancias, especialista gustativo
+
+### Legado Heroico
+A diferencia de las Bestias típicas, estos hijos han canalizado su herencia hacia el heroísmo, demostrando que la naturaleza bestial no determina la moralidad. Su formación de un grupo de vigilantes representa la continuación del legado heroico de Estocada, adaptado a una nueva generación.
+
+## Detalles Adicionales
 Fue capturado por los Cazadores, quienes intentaron despellejarlo y estudiarlo debido a su resistencia única. Cuando el grupo lo rescató, estaba "golpeado" y "le han intentado despellejar con algo muy afilado... pero está vivo".
 
 Una característica única de Estocada es su existencia en múltiples líneas temporales. Esfinge notó que tiene "dos líneas de recuerdos", en una de las cuales "nunca dejó de pasarse por casa", sugiriendo una naturaleza temporal compleja.
 
 En los jeroglíficos proféticos encontrados en la tumba del faraón, Estocada aparece "partida por la mitad", lo que podría referirse a su naturaleza dual temporal o a algún destino trágico futuro. Su pasado como acróbata de circo alcohólico añade una dimensión humana a su carácter sobrenatural.
+
+El hecho de que sus hijos hayan formado un grupo heroico organizado representa una evolución única en Arcadia - los primeros metahumanos bestiales en organizarse como fuerza heroica, demostrando que el legado de Estocada continúa influyendo positivamente en las nuevas generaciones.

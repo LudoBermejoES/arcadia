@@ -90,6 +90,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[6 Julio](manual-notes/session-22-2025-07-06.md)**: Visita a Charada el sastre, diseño de trajes oficiales
 - **[13 Julio](manual-notes/session-23-2025-07-13.md)**: Recepción de trajes, contacto con voz misteriosa, oferta de base en metro
 - **[20 Julio](manual-notes/session-24-2025-07-20.md)**: Primera misión oficial, infiltración subterránea, descubrimiento de La Farándula
+- **[27 Julio](manual-notes/session-25-2025-07-27.md)**: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación del Puño Gris y sustancias potenciadoras
 
 ---
 
@@ -149,7 +150,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">24+</span>
+<span class="stat-number">25+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

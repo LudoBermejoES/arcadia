@@ -410,6 +410,41 @@ Una entidad robótica establece comunicación a través de:
 - **Origen desconocido** de la entidad
 - Se niega a identificarse, afirma que términos tradicionales son "anticuados"
 
+### Sesión 25: Enfrentamiento con La Farándula (27 julio 2025)
+
+**Primera misión oficial como héroes independientes:**
+
+La sesión del 27 de julio marca un momento crucial en la evolución del grupo como equipo superheroico profesional. Durante su primera misión oficial tras obtener trajes y establecer base operativa, se infiltran en una operación subterránea de tráfico de drogas.
+
+**Madurez táctica demostrada:**
+- El grupo muestra **autodisciplina** evitando consumir sustancias desconocidas
+- **Eslizón** demuestra liderazgo en combate físico y reconocimiento
+- **Astrid** engaña exitosamente por radio: *"Todo okay"*
+- **Cia/Psique** coordina telepáticamente pese a dolor de cabeza residual
+- **Coordinación perfecta**: Ataques combinados y uso inteligente de poderes
+
+**Revelaciones sobre estructura criminal:**
+- **Puño Gris**: Mafia del distrito asiático, subsidiaria de **Telaraña**
+- **Jerarquía clara**: Telaraña controla el submundo metahumano de Arcadia
+- **Código criminal**: Los mercenarios prefieren prisión antes que traicionar ubicaciones
+
+**Descubrimiento de sustancias potenciadoras:**
+- **Sobres rojos/blancos**: Drogas que otorgan poderes temporales a humanos
+- **Setas procesadas**: Materia prima para mejoras metahumanas
+- **Costo letal**: Las sustancias quitan años de vida y pueden ser mortales
+- **Comadreja** analiza las drogas y confirma su peligrosidad extrema
+
+**Confrontación con Dulcinea/Aldonza Lorenzo:**
+El grupo se enfrenta por primera vez a un miembro de **La Farándula**:
+- **Identidad**: *"Una mestiza asiática que comenzó a coserse trozos de otras personas"*
+- **Apariencia grotesca**: Cara formada por retales de piel cosidos
+- **Poderes**: Ilusiones teatrales, explosivos, referencias al Quijote
+- **Impacto psicológico**: Psique describe su mente como *"un vórtice de locura"*
+- **Resultado**: **Hotman** resulta gravemente herido, requiriendo curación urgente de Comadreja
+
+**Evolución hacia heroísmo maduro:**
+Esta sesión demuestra la transformación definitiva del grupo de adolescentes impulsivos a héroes responsables, mostrando disciplina táctica, trabajo en equipo coordinado y resistencia a tentaciones que antes los habrían dominado.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes
@@ -550,7 +585,8 @@ Una entidad robótica establece comunicación a través de:
 **Julio:**
 - 06/07: Búsqueda activa de base operativa
 - 13/07: Contacto con entidad robótica misteriosa
-- 20/07: Consolidación como grupo autónomo
+- 20/07: Primera misión oficial, infiltración subterránea
+- 27/07: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación estructura criminal
 
 ---
 

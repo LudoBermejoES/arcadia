@@ -14,7 +14,7 @@ Crazy Mary es una metahumana criminal incluida entre "Los Grandes Criminales" de
 Como miembro de la elite criminal de Arcadia, Crazy Mary ha establecido un patrón de comportamiento criminal lo suficientemente caótico y destructivo como para ser clasificada entre los villanos más peligrosos. Su aparente inestabilidad mental la hace especialmente impredecible y difícil de contener.
 
 ## Apariciones Documentadas
-Crazy Mary figura en los registros oficiales de metahumanos criminales de máximo riesgo mantenidos por las autoridades de seguridad de Arcadia.
+- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
 
 ## Detalles Adicionales
 La combinación de poderes metahumanos con inestabilidad mental hace de Crazy Mary un caso particular dentro del sistema de justicia criminal de Arcadia. Sus métodos impredecibles y su aparente desconexión de la realidad convencional requieren protocolos especiales de contención y manejo.

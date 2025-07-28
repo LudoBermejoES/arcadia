@@ -54,6 +54,9 @@ Probablemente emplea tácticas no convencionales y opera con gran independencia 
 - **Eneiros**: Héroe de la misma generación
 - **Serpiente**: Compañero clásico
 
+## Apariciones Documentadas
+No hay registros de apariciones directas de Anarquista en las sesiones documentadas de las campañas.
+
 ## Apariciones en las Crónicas
 
 Anarquista aparece en referencias a la historia heroica clásica de Arcadia y en contextos relacionados con el desarrollo de filosofías heroicas diversas.

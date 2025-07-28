@@ -67,6 +67,14 @@ Como "Autoridad", probablemente sirvió como:
 ### Retiro Histórico
 Su clasificación como "antiguo héroe" indica que ya no está activo, habiendo pasado a la historia como figura fundacional del heroísmo arcadiano.
 
+## Apariciones Documentadas
+- [La Familia Session 03](../../campaigns/la-familia/session-03.md)
+- [La Familia Session 04](../../campaigns/la-familia/session-04.md)
+- [La Familia Session 20](../../campaigns/la-familia/session-20.md)
+- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
+- [Fatum Index](../../campaigns/fatum/index.md)
+- [Hospital Index](../../campaigns/hospital/index.md)
+
 ## Apariciones en las Crónicas
 
 Autoridad aparece en referencias históricas sobre los orígenes del heroísmo organizado en Arcadia y en contextos relacionados con el desarrollo de tradiciones de liderazgo heroico.

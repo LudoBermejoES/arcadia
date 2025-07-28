@@ -28,6 +28,21 @@ Arcadio es una figura legendaria en la historia de Arcadia, considerado la prime
 **Colaborador Espacial**: Ha participado en proyectos espaciales, incluyendo el impulso de cohetes para misiones lunares, demostrando capacidades que trascienden el combate terrestre.
 
 ## Apariciones Documentadas
+- [La Familia Index](../../campaigns/la-familia/index.md)
+- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Familia Session 09](../../campaigns/la-familia/session-09.md)
+- [La Familia Session 15](../../campaigns/la-familia/session-15.md)
+- [La Familia Session 16](../../campaigns/la-familia/session-16.md)
+- [La Familia Session 17](../../campaigns/la-familia/session-17.md)
+- [La Familia Session 41](../../campaigns/la-familia/session-41.md)
+- [La Familia Session 42](../../campaigns/la-familia/session-42-2025-05-25.md)
+- [Genesis Session 04](../../campaigns/genesis/session-04.md)
+- [La Fuerza Oculta Session 02](../../campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24.md)
+- [La Fuerza Oculta Session 23](../../campaigns/la-fuerza-oculta/manual-notes/session-23-2025-07-13.md)
+- [La Fuerza Oculta AI Notes 2025-07-06](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-06-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-13](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-13](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 
 **Interacción con La Familia**: Apareció durante una de sus misiones en lo que inicialmente parecía ser la embajada francesa, felicitándolos por su trabajo y explicándoles sobre inversiones temporales.
 

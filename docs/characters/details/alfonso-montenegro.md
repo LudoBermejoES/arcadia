@@ -58,6 +58,10 @@ Su posición dentro de la administración municipal le otorga cierta influencia 
 ### Posibles Conexiones Familiares
 - **Ana Montenegro/Atropos**: Posible relación familiar con miembro de Génesis
 
+## Apariciones Documentadas
+- [La Familia Index](../../campaigns/la-familia/index.md)
+- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
+
 ## Apariciones en las Crónicas
 
 Alfonso Montenegro aparece en contextos relacionados con la administración gubernamental de Arcadia y las decisiones burocráticas que afectan la gestión municipal.

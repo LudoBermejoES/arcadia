@@ -14,7 +14,10 @@ Bastet es una entidad mística en el mundo de Arcadia, cuyo nombre evoca a la an
 Como entidad mística, Bastet probablemente mantiene dominios relacionados con la protección, la feminidad, y posiblemente el control sobre felinos o fuerzas naturales asociadas. Su naturaleza divina indica que opera con poderes que trascienden las limitaciones mortales, actuando según propósitos que pueden abarcar siglos o milenios.
 
 ## Apariciones Documentadas
-Bastet aparece registrada en los archivos de seres antiguos y sobrenaturales de Arcadia, clasificada entre las entidades místicas que mantienen una presencia activa en el mundo moderno.
+- [La Familia Index](../../campaigns/la-familia/index.md)
+- [La Familia Session 41](../../campaigns/la-familia/session-41.md)
+- [La Fuerza Oculta Session 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24.md)
+- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md)
 
 ## Detalles Adicionales
 La presencia de Bastet en Arcadia sugiere una continuidad entre el mundo antiguo y el contemporáneo, donde las fuerzas divinas del pasado mantienen influencia en los eventos modernos. Su naturaleza protectora, tradicionalmente asociada con la diosa egipcia, podría manifestarse en la salvaguarda de ciertos individuos, lugares, o aspectos de la realidad que considera sagrados o dignos de protección.

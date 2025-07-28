@@ -18,12 +18,14 @@ Eslizón Esmeralda, también conocido como Esme, es un metahumano con caracterí
 Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta". Su papel incluye la investigación de terrenos, el dibujo de mapas y planos, y el apoyo en combate. Fue seleccionado para participar en el programa "Héroes o Villanos" y comparte habitación con Hotman durante el entrenamiento.
 
 ## Poderes y Habilidades
-- Características reptilianas: Posee cola y otras características físicas de lagarto
-- Habilidades de escalada: Puede explorar terrenos difíciles y acantilados
-- Cartografía: Hábil dibujando mapas y planos de localizaciones
-- Resistencia física: Participa en entrenamientos intensivos de combate
-- Regeneración: Su habilidad de regeneración está ligada a sus hábitos alimenticios carnívoros
-- Habilidades científicas: Especialmente en química y física, con astucia de nivel 10
+- **Características reptilianas**: Posee cola funcional y otras características físicas de lagarto
+- **Habilidades de escalada**: Puede subir por techos y explorar terrenos difíciles, ideal para reconocimiento
+- **Combate desde altura**: Especialista en ataques de sorpresa desde posiciones elevadas
+- **Regeneración acelerada**: Su poder de regeneración le permite curarse en aproximadamente una hora
+- **Fuerza física superior**: El más fuerte del grupo, capaz de cargar compañeros heridos
+- **Cartografía**: Hábil dibujando mapas y planos de localizaciones
+- **Habilidades científicas**: Especialmente en química y física, con astucia de nivel 10
+- **Combate cuerpo a cuerpo**: Efectivo con ataques de cola, capaz de causar hasta 16 puntos de daño
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md)
@@ -31,8 +33,11 @@ Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta"
 - [La Fuerza Oculta Session 04](../../campaigns/la-fuerza-oculta/manual-notes/session-04.md)
 - [La Fuerza Oculta Session 07](../../campaigns/la-fuerza-oculta/manual-notes/session-07.md)
 - [La Fuerza Oculta Session 20](../../campaigns/la-fuerza-oculta/manual-notes/session-20.md)
+- [La Fuerza Oculta Session 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25.md)
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-13](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 
 ## Detalles Adicionales
 Eslizón tiene una habitación especialmente adaptada a su naturaleza reptiliana, con "una extraña cama redonda para hacerse un nido" y "todos los muebles están adaptados a tener cola". Su colección de cómics sugiere intereses típicos de adolescente a pesar de su apariencia única.
@@ -44,3 +49,22 @@ Como explorador del grupo, demostró iniciativa cuando "se escapa a ver qué hay
 Eslizón muestra buenas habilidades académicas, especialmente en ciencias, incluyendo "química y física", aunque "carece de conocimientos en informática o electrónica". Su "astucia de nivel 10" lo convierte en un miembro valioso para la planificación estratégica.
 
 Durante los entrenamientos, ha demostrado resistencia física participando en rutinas de ejercicio matutinas junto con Justa y Astrid. Su naturaleza reptiliana lo hace único dentro del grupo y le proporciona capacidades especiales para exploración y supervivencia.
+
+## Experiencia en Combate Reciente
+
+En las operaciones más recientes de La Fuerza Oculta, Eslizón ha demostrado ser un miembro crucial del equipo en situaciones de combate real:
+
+### Operación Metro (Julio 2025)
+- **Reconocimiento avanzado**: Subió por techos de vagones de metro para explorar sin ser detectado
+- **Combate efectivo**: Realizó ataques devastadores desde altura, causando hasta 16 puntos de daño con ataques de cola
+- **Coordinación táctica**: Trabajó exitosamente con Hotman y Diana en ataques múltiples coordinados
+- **Papel de rescate**: Como el más fuerte del grupo, fue designado para cargar compañeros heridos como Hotman
+
+### Evolución Táctica
+Su estilo de combate se ha refinado hacia un especialista en:
+- **Ataques sorpresa** desde posiciones elevadas inaccesibles para enemigos normales
+- **Neutralización rápida** aprovechando su fuerza superior y cola como arma natural
+- **Apoyo de rescate** utilizando su resistencia física para evacuar compañeros heridos
+- **Regeneración en campo** permitiendo mayor agresividad táctica sabiendo que puede recuperarse
+
+La experiencia reciente ha confirmado que Eslizón ha evolucionado de simple explorador a un combatiente táctico altamente efectivo, especialmente en entornos urbanos complejos donde su habilidad de escalada le proporciona ventajas únicas.

@@ -18,17 +18,24 @@ Astrid, también conocida como Kayface, es una metahumana perteneciente al grupo
 Astrid actúa como la especialista tecnológica del grupo "La Fuerza Oculta". Su papel incluye intentar establecer comunicaciones con el exterior, hackear sistemas de seguridad, y proporcionar apoyo técnico durante las misiones. Fue seleccionada para participar en el programa "Héroes o Villanos".
 
 ## Poderes y Habilidades
-- Habilidades tecnológicas: Especialista en sistemas informáticos y comunicaciones
-- Hackeo: Capaz de intentar romper firewalls y sistemas de seguridad
-- Conocimiento de cultura pop: Amplio conocimiento de entretenimiento moderno
-- Entrenamiento físico: Participa en rutinas de ejercicio matutinas
-- Trabajo en equipo: Efectiva colaborando en entrenamientos grupales
+- **Ilusiones maestras**: Capaz de crear ilusiones convincentes para engañar enemigos
+- **Manipulación de apariencia**: Puede recrear perfectamente la apariencia de otras personas
+- **Desactivación de explosivos**: Conocimientos técnicos para desarmar bombas y trampas tecnológicas
+- **Habilidades tecnológicas**: Especialista en sistemas informáticos y comunicaciones
+- **Hackeo**: Capaz de intentar romper firewalls y sistemas de seguridad
+- **Táctica de distracción**: Experta en atraer y manipular enemigos mediante engaños
+- **Uso de Focus**: Puede potenciar sus habilidades de ilusión en momentos críticos
+- **Conocimiento de cultura pop**: Amplio conocimiento de entretenimiento moderno
+- **Trabajo en equipo**: Efectiva colaborando en entrenamientos grupales
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md)
 - [La Fuerza Oculta Session 02](../../campaigns/la-fuerza-oculta/manual-notes/session-02.md)
 - [La Fuerza Oculta Session 05](../../campaigns/la-fuerza-oculta/manual-notes/session-05.md)
 - [La Fuerza Oculta Session 07](../../campaigns/la-fuerza-oculta/manual-notes/session-07.md)
+- [La Fuerza Oculta Session 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25.md)
+- [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 
 ## Detalles Adicionales
 La habitación de Astrid refleja su personalidad moderna y sus intereses diversos: "tiene muchos elementos de cultura pop, pocas cosas materiales, posters de grupos de música, de wrestling, héroes de acción. Por lo demás es muy normaliza[da]". Esta decoración sugiere una personalidad extrovertida y conectada con las tendencias contemporáneas.
@@ -39,4 +46,25 @@ Astrid muestra disciplina física participando en rutinas de ejercicio matutinas
 
 Durante los entrenamientos de combate, forma parte del equipo 2 junto con "Justa y Diana", sugiriendo que trabaja bien en configuraciones de equipo pequeño. Su colaboración efectiva con otros miembros del grupo es una característica importante de su papel.
 
-Su nombre alternativo "Kayface" sugiere que puede tener habilidades relacionadas con el cambio de identidad o apariencia, aunque esto no se confirma explícitamente en los documentos. Su combinación de habilidades tecnológicas y físicas la convierte en un miembro versátil del equipo "La Fuerza Oculta".
+Su nombre alternativo "Kayface" refleja directamente sus habilidades confirmadas de manipulación de apariencia y creación de ilusiones. Su combinación única de habilidades tecnológicas, poderes de ilusión y conocimientos tácticos la convierte en uno de los miembros más versátiles del equipo "La Fuerza Oculta".
+
+## Experiencia en Combate Reciente
+
+En las operaciones más recientes de La Fuerza Oculta, Astrid ha demostrado ser un elemento táctico crucial mediante sus habilidades de ilusión:
+
+### Operación Metro (Julio 2025)
+- **Desactivación de explosivos**: Exitosamente desarmó una bomba conectada a un ordenador, utilizando un "Benny" para garantizar el éxito
+- **Revelación de La Farándula**: Su trabajo técnico reveló la conexión con el grupo de supervillanos mediante una animación de arlequín
+- **Ilusiones tácticas perfectas**: Creó una recreación exacta de un guardia capturado para atraer enemigos
+- **Manipulación múltiple**: Logró atraer dos enemigos simultáneamente con una sola ilusión usando Focus
+- **Coordinación de combate**: Reservó acciones estratégicamente para apoyar ataques del equipo
+
+### Evolución Táctica
+Su papel se ha especializado como:
+- **Especialista en infiltración**: Sus ilusiones permiten engañar guardias profesionales y militares
+- **Desactivadora de trampas**: Conocimientos técnicos cruciales para neutralizar dispositivos explosivos
+- **Multiplicadora de fuerza**: Sus distracciones permiten que otros miembros ataquen con ventaja
+- **Apoyo táctico flexible**: Capaz de adaptar sus habilidades a diferentes situaciones de combate
+- **Reveladora de información**: Su trabajo técnico descubre conexiones importantes con organizaciones enemigas
+
+La experiencia reciente ha confirmado que Astrid es mucho más que una simple especialista tecnológica. Sus habilidades de ilusión la convierten en una manipuladora del campo de batalla, capaz de crear ventajas tácticas decisivas para todo el equipo. Su capacidad de combinar tecnología y poderes sobrenaturales la hace única dentro de La Fuerza Oculta.

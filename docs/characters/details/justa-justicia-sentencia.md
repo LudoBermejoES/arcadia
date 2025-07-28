@@ -18,18 +18,24 @@ Justa, también conocida como Justicia o Sentencia, es una metahumana pertenecie
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".
 
 ## Poderes y Habilidades
-- Experta en armas de fuego: Especialista en el uso de pistolas y otras armas
-- Liderazgo físico: Lidera rutinas de ejercicio matutinas
-- Disciplina militar: Mantiene horarios estrictos y rutinas de entrenamiento
-- Tácticas de combate: Efectiva destruyendo objetivos estratégicos enemigos
-- Rescate y protección: Hábil en operaciones de rescate de compañeros heridos
+- **Liderazgo táctico**: Coordina ataques múltiples y evalúa capacidades del equipo
+- **Análisis de amenazas**: Identifica tipos de enemigos (militares, paramilitares, mercenarios)
+- **Evaluación estratégica**: Determina niveles de peligro y preparación necesaria
+- **Experta en armas de fuego**: Especialista en el uso de pistolas y otras armas
+- **Adaptabilidad táctica**: Ajusta estrategias ante pérdida de comunicación telepática
+- **Disciplina militar**: Mantiene horarios estrictos y rutinas de entrenamiento
+- **Rescate y protección**: Hábil en operaciones de rescate de compañeros heridos
+- **Coordinación de combate**: Efectiva en operaciones de múltiples objetivos
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md)
 - [La Fuerza Oculta Session 02](../../campaigns/la-fuerza-oculta/manual-notes/session-02.md)
 - [La Fuerza Oculta Session 03](../../campaigns/la-fuerza-oculta/manual-notes/session-03.md)
 - [La Fuerza Oculta Session 07](../../campaigns/la-fuerza-oculta/manual-notes/session-07.md)
+- [La Fuerza Oculta Session 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25.md)
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 
 ## Detalles Adicionales
 Justa mantiene una disciplina militar estricta, evidente en que "suena la alarma de Justa a las 6:00" y lidera las rutinas de ejercicio matutinas junto con Astrid. Su dedicación al entrenamiento físico establece un estándar alto para todo el grupo.
@@ -43,3 +49,31 @@ Justa muestra gran compasión y liderazgo durante crisis. Cuando Eslizón result
 Su relación con Hotman añade complejidad personal al grupo, con "una relación con altibajos" y habiendo "casi se enrollaron recientemente". Esta tensión romántica se evidencia en el hecho de que Hotman tiene "un poster de Justa" en su habitación.
 
 Durante los entrenamientos de combate forma parte del equipo 2 junto con "Astrid y Diana", demostrando versatilidad en diferentes configuraciones de equipo.
+
+## Experiencia en Combate Reciente
+
+En las operaciones más recientes de La Fuerza Oculta, Justa ha emergido como la líder táctica natural del equipo:
+
+### Operación Metro (Julio 2025)
+- **Análisis táctico avanzado**: Identificó enemigos como "militar, paramilitar o mercenario profesional" distinguiéndolos de guardias típicos
+- **Evaluación de amenazas**: Reconoció que el grupo no estaba equipado para enfrentar armas de fuego directamente
+- **Liderazgo en coordinación**: Dirigió ataques múltiples simultáneos contra enemigos dispersos
+- **Adaptabilidad operacional**: Mantuvo efectividad de liderazgo incluso tras pérdida de comunicación telepática
+- **Evaluación realista**: Proporcionó análisis honesto de las capacidades del equipo
+
+### Evolución de Liderazgo
+Su papel de liderazgo se ha cristalizado en:
+- **Comandante de campo**: Toma decisiones tácticas durante operaciones de combate
+- **Analista de inteligencia**: Evalúa tipos de enemigos y niveles de amenaza
+- **Coordinadora de ataques**: Organiza ataques múltiples coordinados
+- **Estratega realista**: Equilibra ambición con evaluación honesta de capacidades
+- **Líder adaptable**: Mantiene control operacional incluso sin ventajas telepáticas
+
+### Reconocimiento de Amenazas
+Su experiencia militar se evidencia en:
+- **Identificación de profesionales**: Distingue entre guardias civiles y personal militar entrenado
+- **Evaluación de equipamiento**: Reconoce implicaciones de armamento enemigo
+- **Análisis de recursos**: Identifica presencia de dinero significativo en operaciones enemigas
+- **Preparación táctica**: Anticipa necesidades específicas para diferentes tipos de amenaza
+
+La experiencia reciente ha confirmado la transición natural de Justa de especialista en armas a comandante táctica del equipo. Su combinación de experiencia militar, análisis realista y liderazgo adaptable la convierte en el elemento estabilizador crucial para La Fuerza Oculta en operaciones de combate real.

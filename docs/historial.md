@@ -14,6 +14,21 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ### **28 de Julio de 2025**
 
+#### **🦸‍♂️ La Fuerza Oculta - Actualización Masiva**
+- **Actualizados todos los protagonistas** - Información completa basada en sesiones más recientes:
+  - **Eslizón Esmeralda**: Evolucionó de explorador a combatiente táctico especializado en ataques desde altura (16 puntos de daño)
+  - **Diana**: Confirmada como fuerza de combate letal del grupo (8 puntos de daño, "elemento de ataque pesado")
+  - **Astrid/Kayface**: Revelada como especialista en ilusiones tácticas y desactivación de explosivos
+  - **Mencia/Psique/Cia**: Centro telepático con visualización 4K y comunicación grupal, pero vulnerable a fatiga
+  - **Justa/Justicia/Sentencia**: Emergió como líder táctica natural con análisis militar profesional
+  - **Hotman**: Especialista en ataques de microondas a distancia, sobrevivió heridas casi mortales
+
+#### **⚔️ Operación Metro - Nuevos Descubrimientos**
+- **La Farándula confirmada** - Grupo de supervillanos regresó tras 10-12 años, anteriormente derrotados por La Familia
+- **Dulcinea/Aldonza Lorenzo** - Villana que se cose trozos de piel, casi mata a Hotman en combate
+- **Puño Gris identificado** - Mafia del distrito asiático, subsidiaria de Telaraña
+- **Sustancias potenciadoras** - Drogas que otorgan poderes metahumanos pero reducen esperanza de vida
+
 #### **🎭 Personajes y Grupos**
 - **Actualizado personaje Yeng** - Información completa como comerciante del mercado negro y arreglador para mercenarios metahumanos, incluyendo nueva imagen
 - **Eliminado personaje "Cabeza Buque"** - Corregido error ya que es un apelativo, no un personaje independiente  
@@ -21,6 +36,11 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Actualizado información de Los Espligan** - Corregida clasificación de mercenarios a amenaza sobrenatural parasitaria
 - **Añadido grupo Las Bestias** - Nueva organización criminal sobrenatural liderada por El Viejo
 - **Revelada identidad de "El Sastre"** - Federico López identificado como el mentor tradicional y rival de Charada, con historia completa de su conflicto maestro-discípulo
+
+#### **🔍 Funcionalidad del Sitio**
+- **Implementada búsqueda completa** - Caja de búsqueda en el header con diseño comic book integrado
+- **Mejorada navegación** - Búsqueda alineada a la derecha con fuente Bangers consistente
+- **Optimizada funcionalidad** - Sistema de búsqueda compatible con GitHub Pages funcionando correctamente
 
 #### **⚡ La Cacería Salvaje**
 - **Creado grupo completo La Cacería Salvaje** - Los cinco hermanos vigilantes del Barrio Gótico:
@@ -156,13 +176,13 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 ## 🎯 **Próximas Actualizaciones**
 
 ### **En Desarrollo**
-- **Más personajes de La Fuerza Oculta** - Documentación completa del grupo actual
+- **Sesiones más recientes de La Fuerza Oculta** - Transcripciones de partidas posteriores a julio 2025
 - **Expansión de organizaciones villanas** - Detalles de Fatum Corporation y La Farándula  
 - **Sesiones recientes** - Transcripciones de partidas más actuales
 - **Worldbuilding avanzado** - Detalles de los distritos de Arcadia
 
 ### **Planificado**
-- **Sistema de búsqueda** - Herramienta para encontrar contenido específico
+- **Mejoras al sistema de búsqueda** - Expansión de funcionalidades y filtros avanzados
 - **Glosario de términos** - Definiciones de conceptos del universo
 - **Mapa interactivo** - Visualización geográfica de Arcadia
 - **Línea temporal visual** - Cronología gráfica de eventos
@@ -195,4 +215,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 28 de Julio de 2025
+**Última actualización del historial**: 28 de Julio de 2025 - 23:30

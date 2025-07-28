@@ -20,6 +20,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Mejorado El Señor de las Ratas** - Información detallada sobre su papel como guía subterráneo sin lengua
 - **Actualizado información de Los Espligan** - Corregida clasificación de mercenarios a amenaza sobrenatural parasitaria
 - **Añadido grupo Las Bestias** - Nueva organización criminal sobrenatural liderada por El Viejo
+- **Revelada identidad de "El Sastre"** - Federico López identificado como el mentor tradicional y rival de Charada, con historia completa de su conflicto maestro-discípulo
 
 #### **⚡ La Cacería Salvaje**
 - **Creado grupo completo La Cacería Salvaje** - Los cinco hermanos vigilantes del Barrio Gótico:
@@ -40,6 +41,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Documentado Puño Gris** - Mafia del distrito asiático, subsidiaria de Telaraña
 - **Añadida sesión del 27 de julio** - Nuevas notas de La Fuerza Oculta
 - **Actualizadas apariciones documentadas** - Enlaces cruzados entre personajes y eventos
+- **Actualizada industria de trajes** - Federico López ahora correctamente identificado como "El Sastre" con rivalidad detallada
 
 ### **27 de Julio de 2025**
 
@@ -129,6 +131,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Grupos**: Documentación de organizaciones heroicas, villanas e institucionales  
 - **Sesiones**: Transcripciones y resúmenes de partidas de rol
 - **Cronología**: Eventos históricos del universo de Arcadia
+- **Correcciones**: Identificación y corrección de información incorrecta (ej. "El Sastre" = Federico López)
 
 ### **🎨 Mejoras Visuales**
 - **Imágenes**: Retratos de personajes y ilustraciones temáticas

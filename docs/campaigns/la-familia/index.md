@@ -80,7 +80,7 @@ Siguiendo el rastro del [Faraón]({{ site.baseurl }}/characters/details/el-farao
 ### 🏝️ **Fase IV: El Clonario y las Visiones del Futuro (2012)**
 **"Isla Pequeña y el Barrio Gótico en Ruinas"**
 
-En la Isla Pequeña descubren una cripta con cuerpos preservados de todos los miembros de La Familia. Son transportados al barrio gótico futurista en ruinas (2025) donde conocen al envejecido Alfonso Montenegro. Descubren carteles de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y periódicos sobre la rendición de España a la República de Arcadia. Las lecturas mentales revelan campos de concentración.
+En la Isla Pequeña descubren una cripta con cuerpos preservados de todos los miembros de La Familia. Son transportados al barrio gótico futurista en ruinas (2025) donde conocen al envejecido Luis Montenegro. Descubren carteles de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y periódicos sobre la rendición de España a la República de Arcadia. Las lecturas mentales revelan campos de concentración.
 
 ### 🧬 **Fase V: Las Manipulaciones Reveladas (2012-2013)**
 **"Mentes Borradas y Edades Falsas"**

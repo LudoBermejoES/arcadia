@@ -31,9 +31,6 @@ permalink: /characters/character-list/
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
 
 ### Gobierno y Administración
-- [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)
-- [Leopoldo Gómez]({{ site.baseurl }}/characters/details/leopoldo-gomez/)
-- [Alfonso Montenegro]({{ site.baseurl }}/characters/details/alfonso-montenegro/)
 - [Ignacio Rodriguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez-condestable/)
 - [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos universitarios)
 
@@ -177,10 +174,11 @@ permalink: /characters/character-list/
 
 
 ### Profesionales Médicos
+- [Luis Montenegro]({{ site.baseurl }}/characters/details/luis-montenegro/) (hermano de Esfinge, especialista en medicina metahumana)
+- [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/) (director de hospital, trata metahumanos peligrosos)
 - Mia Tanaka
 - Dani Rodriguez
 - Lorena Sanchez
-- Luis (hermano de Esfinge, ayuda médica)
 - Dr. Jman
 
 ### La Fuerza Oculta
@@ -210,6 +208,7 @@ permalink: /characters/character-list/
 
 ### Organizaciones Políticas
 - Humanitas (partido anti-metahumano)
+  - [Leopoldo Gómez]({{ site.baseurl }}/characters/details/leopoldo-gomez/) (Presidente de Humanitas)
 - Freilasung (grupo extremista)
 
 ### Instituciones

@@ -10,40 +10,42 @@ slug: felipe-alvarez
 ## Información Básica
 
 **Nombre Completo**: Felipe Álvarez  
-**Categoría**: Autoridades y Funcionarios - Gobierno y Administración  
-**Afiliación**: Administración Gubernamental  
+**Categoría**: Administración Hospitalaria  
+**Afiliación**: Sistema de Salud de Arcadia  
 **Estado**: Activo  
-**Función**: Funcionario Gubernamental
+**Función**: Director de Hospital
 
 ## Descripción
 
-Felipe Álvarez es un funcionario del gobierno de Arcadia que opera dentro de la estructura administrativa estatal. Su posición le otorga responsabilidades en la implementación de políticas gubernamentales, particularmente aquellas relacionadas con la gestión de asuntos metahumanos desde la perspectiva estatal.
+Felipe Álvarez es un director de hospitales importantes en Arcadia, especializado en la administración de centros médicos complejos. Asumió la dirección de hospitales que anteriormente estaban bajo administración religiosa, modernizando su gestión e incorporando el tratamiento de metahumanos peligrosos y presos por las autoridades.
 
-## Rol Gubernamental
+## Gestión Hospitalaria
 
-### Responsabilidades Administrativas
-- Implementación de políticas gubernamentales
-- Coordinación entre diferentes departamentos estatales
-- Supervisión de programas administrativos relacionados con metahumanos
+### Transformación Administrativa
+- **Cambio de liderazgo**: Sustituyó a la administración religiosa (madre superiora) por gestión profesional
+- **Modernización**: Implementó sistemas de gestión hospitalaria contemporáneos
+- **Especialización**: Incorporó tratamiento de metahumanos peligrosos al portafolio de servicios
+- **Coordinación con autoridades**: Estableció protocolos para tratar presos metahumanos
 
-### Función en la Burocracia
-Como funcionario gubernamental, Álvarez forma parte del aparato administrativo que traduce las decisiones políticas en acciones concretas de gobierno.
+### Responsabilidades Directivas
+- **Gestión de personal médico**: Supervisión de equipos especializados
+- **Administración de recursos**: Optimización de presupuestos y equipamiento
+- **Políticas de tratamiento**: Desarrollo de protocolos para casos metahumanos
+- **Seguridad hospitalaria**: Coordinación con fuerzas del orden para pacientes peligrosos
 
-## Contexto Administrativo
+## Apariciones Documentadas
 
-### Gobierno de Arcadia
-Su posición dentro del gobierno municipal o regional le permite influir en las políticas locales que afectan a la comunidad metahumana y la población general de Arcadia.
-
-### Coordinación Interinstitucional
-- Enlace con MetaCorp para asuntos metahumanos
-- Coordinación con fuerzas del orden
-- Colaboración con otras agencias gubernamentales
+### **En Hospital - Sesión 01**
+- **Contexto de cambio**: Se reveló que hace un par de años hubo un cambio significativo en la dirección del hospital
+- **Transición administrativa**: Pasó de estar dirigido por una madre superiora a estar bajo su dirección profesional
+- **Nuevos servicios**: Comenzó a tratar no solo enfermos normales, sino también metahumanos peligrosos que están presos por las autoridades
+- **Especialización**: Su llegada marcó el inicio del tratamiento de casos metahumanos complejos
 
 ## Relaciones Profesionales
 
 ### En el Ámbito Gubernamental
 - **Leopoldo Gómez**: Colega en la administración
-- **Alfonso Montenegro**: Funcionario relacionado
+- **Luis Montenegro**: Médico especialista
 - **Ignacio Rodriguez (Condestable)**: Colaboración en temas de seguridad
 
 ### Con Otras Instituciones

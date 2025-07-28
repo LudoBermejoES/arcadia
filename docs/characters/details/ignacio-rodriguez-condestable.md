@@ -47,7 +47,7 @@ El título de Condestable indica una posición de autoridad tradicional que comb
 ### En el Ámbito Gubernamental
 - **Felipe Álvarez**: Coordinación administrativa
 - **Leopoldo Gómez**: Colaboración gubernamental
-- **Alfonso Montenegro**: Trabajo conjunto en administración
+- **Luis Montenegro**: Coordinación médico-administrativa
 
 ### Con Fuerzas del Orden
 - **General Martínez**: Coordinación militar/civil

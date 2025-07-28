@@ -54,7 +54,8 @@
       "Bash(nslookup:*)",
       "Bash(dig:*)",
       "Bash(curl:*)",
-      "Bash(git check-ignore:*)"
+      "Bash(git check-ignore:*)",
+      "WebFetch(domain:arcadia.ludobermejo.es)"
     ],
     "deny": []
   }

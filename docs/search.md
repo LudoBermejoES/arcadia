@@ -15,6 +15,85 @@ permalink: /search/
 
 <script type="text/javascript" src="{{ site.baseurl }}/assets/js/search.js"></script>
 
+<script>
+// Initialize search on page load
+document.addEventListener('DOMContentLoaded', function() {
+  var searchBox = document.getElementById('search-box');
+  var searchResults = document.getElementById('search-results');
+  
+  // Get search term from URL
+  var urlParams = new URLSearchParams(window.location.search);
+  var searchTerm = urlParams.get('query');
+  
+  if (searchTerm) {
+    searchBox.value = searchTerm;
+    performSearch(searchTerm);
+  }
+  
+  function performSearch(term) {
+    if (!term) return;
+    
+    // Load search data and perform search
+    fetch('{{ site.baseurl }}/search.json')
+      .then(response => response.json())
+      .then(data => {
+        var results = simpleSearch(term, data);
+        displayResults(results);
+      })
+      .catch(error => {
+        console.error('Search error:', error);
+        searchResults.innerHTML = '<p>Error al realizar la búsqueda. Inténtalo de nuevo.</p>';
+      });
+  }
+  
+  function simpleSearch(searchTerm, data) {
+    var results = [];
+    var lowerTerm = searchTerm.toLowerCase();
+    
+    data.forEach(function(item, index) {
+      if (!item.title || !item.content) return;
+      
+      var searchContent = (item.title + ' ' + item.content).toLowerCase();
+      
+      if (searchContent.indexOf(lowerTerm) !== -1) {
+        results.push({
+          title: item.title,
+          url: item.url,
+          content: item.content,
+          category: item.category || 'General'
+        });
+      }
+    });
+    
+    return results;
+  }
+  
+  function displayResults(results) {
+    if (!results || results.length === 0) {
+      searchResults.innerHTML = '<p>No se encontraron resultados para "' + searchBox.value + '".</p>';
+      return;
+    }
+    
+    var html = '<h3>Resultados de búsqueda (' + results.length + '):</h3>';
+    
+    results.forEach(function(result) {
+      html += '<div class="search-result">';
+      html += '<h4><a href="' + result.url + '">' + result.title + '</a></h4>';
+      
+      // Show a snippet of content
+      var snippet = result.content.substring(0, 200);
+      if (result.content.length > 200) snippet += '...';
+      html += '<p>' + snippet + '</p>';
+      
+      html += '<small>Categoría: ' + result.category + '</small>';
+      html += '</div>';
+    });
+    
+    searchResults.innerHTML = html;
+  }
+});
+</script>
+
 <style>
 #search-form {
   margin: 20px 0;

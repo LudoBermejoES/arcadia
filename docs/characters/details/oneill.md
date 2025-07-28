@@ -7,6 +7,10 @@ slug: oneill
 
 # Oneill
 
+<div class="character-image">
+<img src="{{ site.baseurl }}/assets/img/characters/Oneill.png" alt="Oneill" class="character-portrait">
+</div>
+
 ## Presentación
 
 Oneill es el líder actual de MetaCorp, habiendo asumido el mando tras la desaparición de Trueno y la retirada de Rayo. Es un metahumano con poderes propios que ha demostrado ser un aliado confiable de La Familia en situaciones críticas.

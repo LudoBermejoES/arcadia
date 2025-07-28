@@ -7,6 +7,10 @@ slug: la-baronesa
 
 # La Baronesa
 
+<div class="character-image">
+<img src="{{ site.baseurl }}/assets/img/characters/La Baronesa.png" alt="La Baronesa" class="character-portrait">
+</div>
+
 ## Presentación
 La Baronesa es una supervillana metamorfa de alto nivel con un historial criminal devastador. Capturada hace 15 años, es responsable de uno de los accidentes más mortíferos en la historia de Arcadia: el accidente del monorrail que causó 200 muertes. Era la mente maestra de una organización criminal completa que fue posteriormente desmantelada.
 

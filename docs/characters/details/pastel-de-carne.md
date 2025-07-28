@@ -7,6 +7,10 @@ slug: pastel-de-carne
 
 # Pastel de Carne
 
+<div class="character-image">
+<img src="{{ site.baseurl }}/assets/img/characters/Pastel de carne.png" alt="Pastel de Carne" class="character-portrait">
+</div>
+
 ## Presentación
 Pastel de Carne es un asesino especializado que opera dentro de la red criminal **Telaraña**, una de las organizaciones criminales más poderosas de Arcadia. Su función específica es la eliminación sistemática de miembros desleales o problemáticos dentro de la propia organización, lo que lo convierte en el brazo ejecutor interno de Telaraña.
 

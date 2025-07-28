@@ -8,7 +8,7 @@ slug: justa-justicia-sentencia
 # Justa / Justicia / Sentencia
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Justa%3AJusticia%3ASentencia.png" alt="Justa / Justicia / Sentencia" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Justa_Justicia_Sentencia.png" alt="Justa / Justicia / Sentencia" />
 </div>
 
 ## Presentación

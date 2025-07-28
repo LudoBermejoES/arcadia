@@ -61,6 +61,9 @@ Ignacio Rodriguez aparece en contextos relacionados con el mantenimiento del ord
 
 Como Condestable, Rodriguez representa la intersección entre la autoridad civil y el orden público, desempeñando un papel crucial en mantener la estabilidad en una ciudad con población metahumana significativa.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 25](../../campaigns/la-familia/session-25.md)
+
 ---
 
 *Nota: Ignacio Rodriguez (Condestable) ocupa una posición única de autoridad que combina responsabilidades administrativas y de orden público, siendo clave en la coordinación institucional de Arcadia.*

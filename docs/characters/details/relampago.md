@@ -63,9 +63,18 @@ Como metahumano activo de MetaCorp, Relámpago:
 ### MetaCorp como Institución
 Relámpago opera dentro del marco institucional de MetaCorp, que regula y coordina las actividades metahumanas en Arcadia, proporcionando estructura y recursos para operaciones heroicas.
 
-## Apariciones en las Crónicas
-
-Relámpago aparece en contextos relacionados con operaciones oficiales de MetaCorp y actividades heroicas sancionadas corporativamente.
+## Apariciones Documentadas
+- [La Familia - Sesión 02](../../campaigns/la-familia/session-02.md)
+- [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
+- [La Familia - Sesión 14](../../campaigns/la-familia/session-14.md)
+- [La Familia - Sesión 17](../../campaigns/la-familia/session-17.md)
+- [La Familia - Sesión 18](../../campaigns/la-familia/session-18.md)
+- [La Familia - Sesión 20](../../campaigns/la-familia/session-20.md)
+- [La Familia - Sesión 27](../../campaigns/la-familia/session-27.md)
+- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
+- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Fuerza Oculta - Summary](../../campaigns/la-fuerza-oculta/summary/summary.md)
+- [La Fuerza Oculta - AI Notes (15 Junio 2025)](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 
 ## Impacto en la Narrativa
 

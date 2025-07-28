@@ -51,9 +51,10 @@ Su posición refleja la necesidad de coordinación entre las políticas corporat
 - **Francisco Egin**: Colaborador en MetaCorp
 - Personal académico y administrativo universitario
 
-## Apariciones en las Crónicas
-
-Waldo Gutierrez aparece en contextos relacionados con la supervisión de proyectos académicos que involucran investigación metahumana o programas educativos coordinados con MetaCorp.
+## Apariciones Documentadas
+- [La Fuerza Oculta - Sesión 04 (14 Abril 2024)](../../campaigns/la-fuerza-oculta/manual-notes/session-04-2024-04-14.md)
+- [La Fuerza Oculta - Sesión 06 (21 Abril 2024)](../../campaigns/la-fuerza-oculta/manual-notes/session-06-2024-04-21.md)
+- [La Fuerza Oculta - Summary](../../campaigns/la-fuerza-oculta/summary/summary.md)
 
 ---
 

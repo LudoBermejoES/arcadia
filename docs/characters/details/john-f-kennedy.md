@@ -50,6 +50,9 @@ La figura de Kennedy representa una época específica en la historia de Arcadia
 
 Kennedy es mencionado como parte del contexto histórico y político en el que se desarrollaron los eventos de las primeras décadas de actividad metahumana en Arcadia.
 
+## Apariciones Documentadas
+No hay registros de apariciones directas en las sesiones documentadas de las campañas.
+
 ---
 
 *Nota: John F. Kennedy aparece como figura histórica de referencia en el mundo de Arcadia, representando la época en que los metahumanos comenzaron a emerger como factor relevante en la política mundial.*

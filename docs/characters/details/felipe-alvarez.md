@@ -58,6 +58,9 @@ Felipe Álvarez aparece en contextos relacionados con la implementación de pol�
 
 Como funcionario gubernamental, Álvarez representa la face administrativa del gobierno en su relación con la comunidad metahumana, implementando y supervisando políticas que afectan la vida cotidiana en Arcadia.
 
+## Apariciones Documentadas
+- [Hospital - Sesión 01](../../campaigns/hospital/session-01.md)
+
 ---
 
 *Nota: Felipe Álvarez forma parte del aparato gubernamental de Arcadia, contribuyendo a la administración y coordinación de políticas públicas relacionadas con metahumanos.*

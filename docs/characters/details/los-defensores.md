@@ -91,6 +91,9 @@ Los Defensores aparecen en referencias históricas sobre los orígenes del hero�
 
 Como grupo heroico histórico, Los Defensores representan la evolución del heroísmo individual hacia formas organizadas y cooperativas, estableciendo las bases para grupos heroicos posteriores en Arcadia.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 04](../../campaigns/la-familia/session-04.md)
+
 ---
 
 *Nota: Los Defensores fueron un grupo pionero en el heroísmo organizado de Arcadia, estableciendo tradiciones y protocolos que influyeron en el desarrollo posterior de grupos heroicos coordiandos.*

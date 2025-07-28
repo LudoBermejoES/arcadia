@@ -58,6 +58,9 @@ Leopoldo Gómez aparece en contextos relacionados con la administración guberna
 
 Como funcionario gubernamental, Gómez representa la continuidad administrativa del gobierno local, asegurando que las políticas y programas se implementen efectivamente en beneficio de la comunidad.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
+
 ---
 
 *Nota: Leopoldo Gómez forma parte del equipo administrativo del gobierno de Arcadia, contribuyendo a la gestión eficiente de los servicios públicos y la implementación de políticas locales.*

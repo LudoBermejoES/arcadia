@@ -80,6 +80,12 @@ Psicodalia aparece en referencias históricas sobre los métodos heroicos experi
 
 Como heroína histórica, Psicodalia representa la diversidad de enfoques heroicos y la experimentación con métodos alternativos que enriquecieron las tradiciones heroicas de Arcadia.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 04](../../campaigns/la-familia/session-04.md)
+- [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
+- [La Familia - Index](../../campaigns/la-familia/index.md)
+- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+
 ---
 
 *Nota: Psicodalia es una figura histórica importante que representa la experimentación con poderes psíquicos y métodos alternativos en el desarrollo temprano del heroísmo arcadiano.*

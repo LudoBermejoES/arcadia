@@ -69,6 +69,13 @@ Trueno aparece en contextos relacionados con operaciones oficiales de MetaCorp, 
 
 Como héroe de MetaCorp, Trueno representa el heroísmo institucionalizado y la efectividad del trabajo en equipo dentro de estructuras corporativas, demostrando cómo los poderes metahumanos pueden ser coordinados profesionalmente.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
+- [La Familia - Sesión 19](../../campaigns/la-familia/session-19.md)
+- [La Familia - Sesión 27](../../campaigns/la-familia/session-27.md)
+- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
+- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+
 ---
 
 *Nota: Trueno es un héroe activo de MetaCorp que opera en tándem con Relámpago, representando el modelo de heroísmo corporativo coordinado y profesionalizado en Arcadia.*

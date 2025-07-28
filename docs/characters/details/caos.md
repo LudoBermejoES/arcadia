@@ -83,6 +83,9 @@ Caos aparece en contextos relacionados con crímenes masivos, disrupciones urban
 
 Como gran criminal, Caos representa el arquetipo del villano que amenaza el orden social fundamental, requiriendo que los héroes no solo combatan el crimen sino que protejan la estabilidad misma de la sociedad.
 
+## Apariciones Documentadas
+- [Génesis - Sesión 03](../../campaigns/genesis/session-03.md)
+
 ---
 
 *Nota: Caos es uno de los grandes criminales de Arcadia, especializado en crear desorden sistemático y representando una amenaza fundamental para la estabilidad social de la ciudad.*

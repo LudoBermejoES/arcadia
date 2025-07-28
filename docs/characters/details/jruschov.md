@@ -46,9 +46,8 @@ Desde la perspectiva soviética, Jruschov representó una visión particular sob
 - **Fidel Castro**: Aliado revolucionario en el contexto de la Guerra Fría
 - Otros líderes del bloque socialista durante el período
 
-## Apariciones en las Crónicas
-
-Jruschov es mencionado como parte del contexto histórico y político en el que se desarrollaron los eventos de las primeras décadas de actividad metahumana, particularmente en relación con las políticas del bloque oriental.
+## Apariciones Documentadas
+No hay registros de apariciones directas en las sesiones documentadas de las campañas.
 
 ---
 

@@ -47,6 +47,11 @@ Ricardo Abeluengo aparece en contextos relacionados con las operaciones administ
 
 Como funcionario de MetaCorp, Abeluengo representa la cara administrativa de la gestión metahumana, involucrado en los procesos burocráticos que determinan cómo se regulan y supervisan los metahumanos en la ciudad.
 
+## Apariciones Documentadas
+- [La Familia - Sesión 28](../../campaigns/la-familia/session-28.md)
+- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Fuerza Oculta - Sesión 01 (24 Marzo 2024)](../../campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24.md)
+
 ---
 
 *Nota: Ricardo Abeluengo forma parte del aparato administrativo de MetaCorp, contribuyendo a la gestión institucional de los asuntos metahumanos en Arcadia.*

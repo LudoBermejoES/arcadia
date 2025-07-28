@@ -50,6 +50,9 @@ Desde la perspectiva revolucionaria, Castro representó una visión sobre cómo 
 
 Castro es mencionado como parte del contexto histórico revolucionario en el que se desarrollaron los eventos relacionados con la política internacional de metahumanos durante las décadas de los 60s y posteriores.
 
+## Apariciones Documentadas
+No hay registros de apariciones directas en las sesiones documentadas de las campañas.
+
 ---
 
 *Nota: Fidel Castro aparece como figura histórica de referencia en el mundo de Arcadia, representando la perspectiva revolucionaria socialista durante la época en que los metahumanos comenzaron a emerger como factor relevante en los movimientos políticos mundiales.*

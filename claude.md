@@ -120,7 +120,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Telaraña** - Red criminal jerárquica principal
 - **Puño Gris** - Mafia del distrito asiático (subsidiaria de Telaraña)
 - **Los Confesores** - Fanáticos religiosos antimeta
-- **Los Espligan** - Mercenarios especializados antimeta
+- **Los Espligan** - Parásitos temporales (amenaza sobrenatural)
 
 ### 🏛️ **Instituciones Públicas**
 - **Gobierno de Arcadia** - Administración especializada en metahumanos

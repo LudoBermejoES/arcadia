@@ -100,11 +100,17 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 ### Las Bestias
 **Tipo**: Grupo criminal/sobrenatural  
-**Concepto**: Entidades creadas por El Viejo
+**Concepto**: Organización criminal de entidades bestiales creadas artificialmente por El Viejo
+
+**Historia**: Las Bestias son entidades artificiales creadas por El Viejo, un ex-biólogo que desarrolló la capacidad de crear seres con características bestiales. La organización opera desde un cubil en una caverna volcánica subterránea equipada con laboratorios y tecnología avanzada.
+
+**Operaciones**: La organización criminal busca el control territorial del Barrio Gótico, donde entran en conflicto directo con La Cacería Salvaje. Sus métodos incluyen la creación de nuevos miembros bestiales bajo el control absoluto de El Viejo y operaciones violentas contra sus enemigos.
 
 **Miembros**:
-- [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
-- [Estocada]({{ site.baseurl }}/characters/details/estocada/) (conexión con las Bestias)
+- [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador y líder de las Bestias)
+- [La Reina Cobra]({{ site.baseurl }}/characters/details/la-reina-cobra/) (transformista serpentina)
+- [Estocada]({{ site.baseurl }}/characters/details/estocada/) (conexión histórica - ex-miembro de La Familia con vínculos bestiales)
+- Múltiples entidades bestiales creadas artificialmente
 
 ### Los Cazadores
 **Tipo**: Grupo criminal/mercenario  
@@ -206,11 +212,14 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 ## Grupos Sobrenaturales y Místicos
 
 ### Los Espligan
-**Tipo**: Entidades sobrenaturales  
-**Concepto**: Seres místicos antiguos
+**Tipo**: Amenaza sobrenatural parasitaria  
+**Concepto**: Criaturas que ponen huevos en metahumanos y roban tiempo de vida
 
-**Miembros**:
-- [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)
+**Naturaleza**: Los Espligan son parásitos temporales que se organizan por castas (como abejas u hormigas) y se alimentan del tiempo de vida de sus víctimas. Atacan mediante aguijones, depositando huevos que eclosionan causando envejecimiento acelerado en las víctimas.
+
+**Historia**: Documentados desde la Primera Guerra Mundial con ataques navales cerca de Lanzarote. Los Confesores (orden monacal) se especializan en cazarlos. Sus huevos procesados se usan para crear drogas potenciadoras como "Flash".
+
+**Amenaza**: Representan una amenaza existencial parasitaria más que una organización criminal tradicional.
 
 ### Los Confesores
 **Tipo**: Entidades sobrenaturales  

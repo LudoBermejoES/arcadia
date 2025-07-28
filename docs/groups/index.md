@@ -164,17 +164,30 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **⚔️ [Los Espligan](../characters/details/los-espligan.md)**
-**Mercenarios Especializados**
 
-#### **Servicios Profesionales:**
-- **🎯 Contratos Específicos**: Trabajo por encargo, no ideología
-- **🛡️ Anti-Meta**: Especialización en enfrentar metahumanos
-- **🔧 Equipamiento**: Tecnología específicamente diseñada
-- **🎓 Entrenamiento**: Tácticas desarrolladas por experiencia
+### **🐺 [Las Bestias](las-bestias.md)**
+**Organización Criminal Sobrenatural**
 
-#### **Código Mercenario:**
-*"Profesionalismo absoluto, lealtad temporal, resultados garantizados"*
+#### **Estructura Criminal:**
+- **👨‍🔬 Liderazgo**: Controladas por El Viejo (ex-biólogo creador)
+- **🧬 Naturaleza**: Entidades artificialmente creadas con características bestiales
+- **🏛️ Base de Operaciones**: Cubil en caverna volcánica subterránea
+- **🎯 Territorio**: Disputan control del Barrio Gótico con La Cacería Salvaje
+
+#### **Características Únicas:**
+- **🔬 Creación Artificial**: Diseñadas por El Viejo mediante experimentación biológica
+- **🐍 Miembros Notables**: La Reina Cobra (transformación serpentina)
+- **⚔️ Conflicto Principal**: Enemistados con La Cacería Salvaje (hijos de Estocada)
+- **🏺 Historia**: Conexión histórica con Estocada (ex-miembro de La Familia)
+
+#### **Operaciones Criminales:**
+- **🌆 Control Territorial**: Buscan dominar el Barrio Gótico
+- **🔪 Métodos Violentos**: Cazadores especializados en despellejar bestias
+- **🕳️ Infraestructura**: Caverna equipada con tecnología y laboratorios
+- **👥 Reclutamiento**: Creación de nuevos miembros bajo control del Viejo
+
+#### **Filosofía Criminal:**
+*"El poder bestial debe servir únicamente a quien lo creó"*
 
 ---
 
@@ -201,6 +214,39 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Filosofía Criminal:**
 *"Lealtad absoluta a la organización, honor entre criminales"*
+
+---
+
+## ⚠️ **Amenazas Sobrenaturales**
+
+### **🐛 Los Espligan**
+**Parásitos Temporales**
+
+#### **Naturaleza de la Amenaza:**
+- **🐛 Criaturas Parasitarias**: Entidades que ponen huevos en metahumanos
+- **⏰ Robo Temporal**: Se alimentan del tiempo de vida de sus víctimas
+- **🏺 Organización por Castas**: Similar a abejas u hormigas (obreras, reinas)
+- **💊 Conexión con Drogas**: Sus huevos procesados crean sustancias potenciadoras
+
+#### **Método de Ataque:**
+- **🦟 Aguijones**: Entidades con aguijones en lugar de manos
+- **🥚 Depósito de Huevos**: Implantan huevos que eclosionan en las víctimas
+- **👵 Envejecimiento**: Las víctimas envejecen rápidamente al ser parasitadas
+- **🕷️ Supervivencia**: Dejan suficientes víctimas vivas para perpetuar el ciclo
+
+#### **Historia Documentada:**
+- **🌊 Primera Guerra Mundial**: Avistamientos en el mar cerca de Lanzarote
+- **🚢 Ataques Navales**: Eliminaron tripulaciones dejando pocos supervivientes
+- **🧓 Testimonio de Natasha**: Conocimiento transmitido por generaciones
+- **⛪ Los Confesores**: Orden monacal especializada en cazarlos
+
+#### **Productos Derivados:**
+- **💊 Flash**: Droga aceleradora hecha de cáscara de huevo molida
+- **🧪 Sustancias Potenciadoras**: Procesado de material espligan para efectos temporales
+- **⚡ Aumento de Poderes**: Incremento temporal de habilidades a costa de años de vida
+
+#### **Clasificación de Amenaza:**
+*"Amenaza parasitaria existencial - evitar contacto directo"*
 
 ---
 
@@ -406,8 +452,8 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **😈 Organizaciones Villanas**
 - **[🎭 La Farándula](../characters/details/la-farandula.md)** - Los teatrales organizados
 - **[🏢 Fatum](../campaigns/fatum/fatum.md)** - La megacorporación criminal
+- **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
 - **[⛪ Los Confesores](../characters/details/los-confesores.md)** - Fanáticos antimeta
-- **[⚔️ Los Espligan](../characters/details/los-espligan.md)** - Mercenarios especializados
 
 ### **🏛️ Instituciones Públicas**
 - **🏛️ Gobierno de Arcadia** - Administración especializada

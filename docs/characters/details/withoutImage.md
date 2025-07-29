@@ -42,7 +42,6 @@ The following 87 characters currently lack visual representation in their docume
 21. **Ego** (ego.md)
 22. **El Golem** (el-golem.md)
 23. **El Mago** (el-mago.md)
-24. **El Oriental Tormenta** (el-oriental-tormenta.md)
 25. **El Señor de las Ratas** (el-senor-de-las-ratas.md)
 26. **El Viejo** (el-viejo.md)
 27. **Elena Fuentes** (elena-fuentes.md)

@@ -7,6 +7,11 @@ slug: el-senor-de-las-ratas
 
 # El Señor de las Ratas
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/el-senor-de-las-ratas.png" alt="El Señor de las Ratas" />
+</div>
+
+
 ## Presentación
 El Señor de las Ratas es una figura enigmática que habita en los sistemas subterráneos de Arcadia, particularmente en las zonas bajo la antigua embajada francesa. Su condición física más notable es la **ausencia de lengua**, lo que le impide hablar y lo obliga a comunicarse únicamente por señas. A pesar de esta limitación, mantiene una presencia significativa en los espacios ocultos de la ciudad.
 

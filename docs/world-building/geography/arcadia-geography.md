@@ -8,21 +8,23 @@ permalink: /world-building/arcadia-geography/
 
 Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. Los siete distritos de Marius siguen siendo uno de los referentes más extraordinarios de la arquitectura moderna, siete ejemplos de siete exponentes arquitectónicos pasados por el ideario de los arquitectos más afamados del fin del siglo XIX.
 
-DISTRITO CLÁSICO
-También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de arcadia.
+## 🏛️ **DISTRITO CLÁSICO (DISTRITO CENTRAL)**
+
+El corazón político, religioso y judicial de Arcadia, diseñado como símbolo de la legitimidad gubernamental metahumana. Doce manzanas de edificios bajos con mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de Arcadia.
+
+### **Instituciones Principales**
+- **Palacio Gubernamental**: Sede del poder ejecutivo con arquitectura neoclásica adaptada al clima tropical
+- **Tribunales Meta**: Sistema judicial más avanzado del mundo en crímenes que involucran metahumanos
+- **Museo de Historia Metahumana**: Alberga la controvertida bomba atómica lanzada por Estados Unidos sobre Arcadia
+- **Teatro Nacional**: Centro de artes escénicas con programación que celebra la cultura metahumana
+
+### **La Bomba Atómica de Arcadia**
+Durante los primeros años de independencia, **Estados Unidos lanzó una bomba atómica sobre la isla** para eliminar la población metahumana. La bomba fue preservada como testimonio histórico y se exhibe **encerrada en un campo de éxtasis** - tecnología que la mantiene en suspensión temporal y energética.
+
+**→ [VER INFORMACIÓN COMPLETA DEL DISTRITO CLÁSICO](../distrito-clasico/)**
 
 DISTRITO GÓTICO (BARRIO GÓTICO)
 Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, formando un lugar oscuro, oloroso, siniestro y repleto de sombras que constituye el corazón místico y viviente de Arcadia.
-
-**CARACTERÍSTICAS PRINCIPALES:**
-- **Arquitectura Industrial**: Edificios estilo Chicago años 40-50 con múltiples iglesias
-- **Atmósfera Siniestra**: Lugar oscuro, oloroso y repleto de sombras
-- **Distrito Orgánico**: Crece y se regenera automáticamente
-- **Refugio Metahumano**: Principal santuario para metahumanos de Arcadia  
-- **La Cacería Salvaje**: Vigilantes bestiales que protegen el territorio
-- **Fenómenos Sobrenaturales**: Mundo espiritual activo y criaturas inmateriales
-- **Economía Alternativa**: Sistema de intercambio basado en favores
-- **Navegación Especial**: Requiere conocimiento local y "pautas" no escritas
 
 Con un índice de criminalidad moderado, es principalmente utilizado para contrabando, pero su verdadera naturaleza trasciende la actividad criminal - es un distrito viviente que existe en simbiosis con sus habitantes metahumanos.
 

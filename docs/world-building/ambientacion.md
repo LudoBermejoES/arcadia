@@ -254,9 +254,11 @@ Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de Arcadia.
 
 ### Distrito Gótico (Barrio Gótico)
-Tomando como referente ciudades como Venecia o Praga, este distrito une canales de agua continuamente filtrada con rascacielos con formas similares a antiguas catedrales. Veinticinco manzanas residenciales con características únicas que lo convierten en el corazón místico de Arcadia.
+Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, creando un lugar oscuro, oloroso, siniestro y repleto de sombras que se ha convertido en el corazón místico de Arcadia.
 
 **Características principales**: 
+- Arquitectura industrial de mediados del siglo XX con múltiples iglesias
+- Atmósfera oscura, siniestra y repleta de sombras
 - Distrito que "crece" orgánicamente y se regenera por las noches
 - Principal refugio de metahumanos en Arcadia
 - Vigilado por La Cacería Salvaje (cinco hermanos bestiales)

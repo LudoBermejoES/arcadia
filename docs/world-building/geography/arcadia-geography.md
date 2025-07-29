@@ -12,9 +12,11 @@ DISTRITO CLÁSICO
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de arcadia.
 
 DISTRITO GÓTICO (BARRIO GÓTICO)
-Tomando como referente ciudades como Venecia o Praga, este distrito une canales de agua continuamente filtrada con rascacielos con formas similares a antiguas catedrales. Veinticinco manzanas residenciales que forman el corazón místico y viviente de Arcadia.
+Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, formando un lugar oscuro, oloroso, siniestro y repleto de sombras que constituye el corazón místico y viviente de Arcadia.
 
 **CARACTERÍSTICAS PRINCIPALES:**
+- **Arquitectura Industrial**: Edificios estilo Chicago años 40-50 con múltiples iglesias
+- **Atmósfera Siniestra**: Lugar oscuro, oloroso y repleto de sombras
 - **Distrito Orgánico**: Crece y se regenera automáticamente
 - **Refugio Metahumano**: Principal santuario para metahumanos de Arcadia  
 - **La Cacería Salvaje**: Vigilantes bestiales que protegen el territorio

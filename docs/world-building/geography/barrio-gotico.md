@@ -13,7 +13,7 @@ permalink: /world-building/barrio-gotico/
 
 ## 🏰 **Introducción**
 
-El Barrio Gótico es mucho más que un distrito de Arcadia - es un organismo viviente que crece, se regenera y evoluciona junto con sus habitantes metahumanos. Tomando como referente ciudades como Venecia y Praga, este distrito único combina arquitectura gótica medieval con tecnología moderna, creando un laberinto urbano donde lo sobrenatural es cotidiano.
+El Barrio Gótico es mucho más que un distrito de Arcadia - es un organismo viviente que crece, se regenera y evoluciona junto con sus habitantes metahumanos. Este distrito único combina la arquitectura industrial de los años cuarenta y cincuenta con una atmósfera siniestra y sobrenatural, creando un laberinto urbano oscuro donde lo paranormal es cotidiano.
 
 **Ubicación**: Distrito residencial de 25 manzanas  
 **Población**: Refugio principal de metahumanos de Arcadia  
@@ -22,13 +22,19 @@ El Barrio Gótico es mucho más que un distrito de Arcadia - es un organismo viv
 
 ---
 
-## 🏛️ **Arquitectura Orgánica**
+## 🏭 **Arquitectura Siniestra**
 
-### **Diseño Único**
-- **Rascacielos Catedralicios**: Edificios diseñados como catedrales góticas medievales con tecnología moderna integrada
-- **Sistema de Canales Venecianos**: Red de canales con agua continuamente filtrada por métodos desconocidos
-- **Calles Laberínticas**: Calles estrechas y sinuosas que forman un entramado complejo de difícil navegación
+### **Diseño Industrial Gótico**
+- **Edificios de los Años 40-50**: Arquitectura semejante a la de Chicago de mediados del siglo XX
+- **Numerosas Iglesias**: Múltiples templos de diferentes procesiones religiosas intercalados entre edificios
+- **Calles Laberínticas**: Calles estrechas y retorcidas que parecen no llegar a ninguna parte
 - **Plazas Históricas**: Ubicaciones con nombres únicos como la Plaza de la Cabeza Cortada
+
+### **Atmósfera Opresiva**
+- **Lugar Oscuro**: Iluminación natural limitada, abundantes sombras entre edificios
+- **Ambiente Oloroso**: Aromas persistentes de humedad, incienso de iglesias y olores indefinidos
+- **Carácter Siniestro**: Atmósfera inquietante que genera desasosiego en visitantes
+- **Repleto de Sombras**: Numerosos rincones oscuros y callejones que ocultan secretos
 
 ### **Ausencia de Infraestructura Convencional**
 - **Sin Sistema de Metro**: Uno de los pocos distritos de Arcadia sin transporte subterráneo oficial

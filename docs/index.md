@@ -61,7 +61,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **Los Siete Distritos**
 - **🏛️ Distrito Clásico** - Centro político y administrativo
-- **🏰 Distrito Gótico** - Zona histórica residencial (territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/))
+- **🏰 Distrito Gótico** - Zona siniestra con arquitectura industrial años 40-50 e iglesias (territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/))
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico
 - **⛪ Distrito Eclesiástico** - Área religiosa e institucional  
 - **🌿 Distrito Biónico** - Zona residencial premium y natural

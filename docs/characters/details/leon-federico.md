@@ -6,6 +6,8 @@ permalink: /characters/details/leon-federico/
 
 # León Federico - "León Rampante"
 
+![León Federico]({{ site.baseurl }}/assets/img/characters/leon-federico.png)
+
 ## Información Básica
 
 **Nombre Real**: León Federico  

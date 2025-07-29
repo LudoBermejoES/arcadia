@@ -6,6 +6,8 @@ permalink: /characters/details/cerebro/
 
 # Cerebro
 
+![Cerebro]({{ site.baseurl }}/assets/img/characters/cerebro.png)
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (solo se conoce como "Cerebro")  

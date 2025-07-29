@@ -6,6 +6,8 @@ permalink: /characters/details/roberto-vazquez/
 
 # Roberto Vázquez - "Niño-Pulpo" / "Octoniño"
 
+![Roberto Vázquez]({{ site.baseurl }}/assets/img/characters/roberto-vazquez.png)
+
 ## Información Básica
 
 **Nombre Real**: Roberto Vázquez  

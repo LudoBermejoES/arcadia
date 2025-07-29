@@ -6,6 +6,8 @@ permalink: /characters/details/raffella-giovanni/
 
 # Raffella Giovanni - "La Durmiente"
 
+![Raffella Giovanni]({{ site.baseurl }}/assets/img/characters/raffella-giovanni.png)
+
 ## Información Básica
 
 **Nombre Real**: Raffella Giovanni  

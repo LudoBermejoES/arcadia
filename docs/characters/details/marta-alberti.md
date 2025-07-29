@@ -6,6 +6,8 @@ permalink: /characters/details/marta-alberti/
 
 # Marta Alberti - "Sinestesia"
 
+![Marta Alberti]({{ site.baseurl }}/assets/img/characters/marta-alberti.png)
+
 ## Información Básica
 
 **Nombre Real**: Marta Alberti  

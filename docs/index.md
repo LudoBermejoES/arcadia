@@ -21,9 +21,8 @@ Sumérgete en **15 años ininterrumpidos** de narrativa superheroica colaborativ
 
 ## 🎭 **Las Campañas Épicas**
 
-<div class="campaign-grid">
-
 ### 🛡️ **[La Familia]({{ site.baseurl }}/campaigns/la-familia/)** *(2010-2015)*
+
 **Los Fundadores Legendarios**
 
 Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misteriosos. [Mésmero]({{ site.baseurl }}/characters/details/mesmero/), [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/), [Garra]({{ site.baseurl }}/characters/details/garra/), [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/), [Bate]({{ site.baseurl }}/characters/details/bate/) y [Estocada]({{ site.baseurl }}/characters/details/estocada/) establecieron los códigos heroicos que perduran hasta hoy.
@@ -33,6 +32,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 ---
 
 ### 🔄 **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2015-2020)*
+
 **La Generación Puente**
 
 [Sara10/Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/), [Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/), [Lúmen]({{ site.baseurl }}/characters/details/lumen/), [Thomas/Raza]({{ site.baseurl }}/characters/details/thomas-raza/) y [Alice Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) modernizaron el heroísmo, integrando tecnología avanzada y explorando conexiones interdimensionales.
@@ -42,13 +42,12 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 ---
 
 ### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2020-2025)*
+
 **Los Herederos Complejos**
 
 [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/), [Diana]({{ site.baseurl }}/characters/details/diana/), [Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/), [Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/), [Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y [Hotman]({{ site.baseurl }}/characters/details/hotman/) enfrentan dilemas morales sin respuestas claras en un mundo que los observa constantemente.
 
 **🌟 Actualidad**: Meta-narrativa consciente, adolescencia bajo presión pública, dilemas éticos de la era moderna.
-
-</div>
 
 ---
 
@@ -169,27 +168,29 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ## 🚀 **Explora el Universo**
 
-<div class="explore-grid">
-
 ### **🦸‍♂️ [Personajes]({{ site.baseurl }}/characters/)**
+
 Descubre las biografías completas de más de 250 personajes únicos, desde los héroes legendarios hasta los villanos más temidos.
 
 ### **📚 [Campañas]({{ site.baseurl }}/campaigns/)**
+
 Sumérgete en las transcripciones completas de 15 años de aventuras épicas, con notas detalladas y análisis narrativo.
 
 ### **🏛️ [Grupos]({{ site.baseurl }}/groups/)**
+
 Explora las organizaciones que dan forma al mundo: desde equipos heroicos hasta redes criminales complejas.
 
 ### **🌍 [Mundo]({{ site.baseurl }}/world-building/)**
+
 Conoce la geografía, historia, política y cultura de Arcadia, la isla donde todo sucede.
 
 ### **📊 [Estadísticas]({{ site.baseurl }}/stats/)**
+
 Analiza los datos del proyecto: métricas de personajes, eventos, relaciones y evolución temporal.
 
 ### **🎬 [Videos]({{ site.baseurl }}/videos/)**
-Accede a grabaciones de sesiones seleccionadas y contenido audiovisual del universo.
 
-</div>
+Accede a grabaciones de sesiones seleccionadas y contenido audiovisual del universo.
 
 ---
 

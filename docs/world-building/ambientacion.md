@@ -264,7 +264,7 @@ Tomando como referente ciudades como Venecia o Praga, este distrito une canales 
 - Fenómenos sobrenaturales activos y mundo espiritual visible
 - Sistema de navegación único con "pautas" locales
 
-**→ [Ver información completa del Barrio Gótico](geography/barrio-gotico/)**
+**→ [Ver información completa del Barrio Gótico](barrio-gotico/)**
 
 ### Distrito Futurista
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.

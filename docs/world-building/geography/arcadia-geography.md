@@ -24,7 +24,7 @@ Tomando como referente ciudades como Venecia o Praga, este distrito une canales 
 
 Con un índice de criminalidad moderado, es principalmente utilizado para contrabando, pero su verdadera naturaleza trasciende la actividad criminal - es un distrito viviente que existe en simbiosis con sus habitantes metahumanos.
 
-**→ [VER INFORMACIÓN COMPLETA DEL BARRIO GÓTICO](barrio-gotico/)**
+**→ [VER INFORMACIÓN COMPLETA DEL BARRIO GÓTICO](../barrio-gotico/)**
 
 DISTRITO FUTURISTA
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.

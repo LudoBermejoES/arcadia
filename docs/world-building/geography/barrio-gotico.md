@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "El Barrio Gótico de Arcadia"
-permalink: /world-building/geography/barrio-gotico/
+permalink: /world-building/barrio-gotico/
 ---
 
 # El Barrio Gótico (Distrito Gótico)
 ## El Corazón Místico y Viviente de Arcadia
 
-[← Volver a Geografía de Arcadia](../arcadia-geography/)
+[← Volver a Geografía de Arcadia](arcadia-geography/)
 
 ---
 

@@ -7,6 +7,10 @@ slug: siberia
 
 # Siberia
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/siberia.png" alt="Siberia" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (solo conocida como "Siberia")  

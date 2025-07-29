@@ -7,6 +7,10 @@ slug: martillo
 
 # Martillo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/martillo.png" alt="Martillo" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (solo conocido como "Martillo")  

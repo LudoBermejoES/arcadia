@@ -7,6 +7,10 @@ slug: temblores
 
 # Temblores
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Temblores.png" alt="Temblores" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (solo conocida como "Temblores")  

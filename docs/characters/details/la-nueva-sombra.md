@@ -7,6 +7,10 @@ slug: la-nueva-sombra
 
 # La Nueva Sombra
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/la_nueva_sombra.png" alt="La Nueva Sombra" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (siempre enmascarada)  

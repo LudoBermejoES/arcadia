@@ -7,6 +7,10 @@ slug: zambo-mambo
 
 # Zambo y Mambo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/zambo-mambo.png" alt="Zambo y Mambo" />
+</div>
+
 ## Información Básica
 
 **Nombres Reales**: Zambo y Mambo (nombres completos desconocidos)  

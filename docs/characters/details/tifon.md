@@ -7,6 +7,10 @@ slug: tifon
 
 # Tifón
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/tifon.png" alt="Tifón" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido (solo conocido como "Tifón")  

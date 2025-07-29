@@ -7,6 +7,10 @@ slug: cyberpunk
 
 # Cyberpunk
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/cyberpunk.png" alt="Cyberpunk" />
+</div>
+
 ## Información Básica
 
 **Nombre Real**: Desconocido  

@@ -10,40 +10,70 @@ slug: leopoldo-gomez
 ## Información Básica
 
 **Nombre Completo**: Leopoldo Gómez  
-**Categoría**: Autoridades y Funcionarios - Gobierno y Administración  
-**Afiliación**: Administración Gubernamental  
+**Categoría**: Líder Político Anti-Metahumano  
+**Afiliación**: Humanitas (Partido Político)  
 **Estado**: Activo  
-**Función**: Funcionario Gubernamental
+**Función**: Presidente de Humanitas
 
 ## Descripción
 
-Leopoldo Gómez es un funcionario del gobierno de Arcadia que opera dentro de la estructura administrativa estatal. Su posición le otorga responsabilidades específicas en la gestión de políticas públicas y la coordinación de programas gubernamentales relacionados con la administración de la ciudad.
+Leopoldo Gómez es el **Presidente de Humanitas**, el partido político anti-metahumano más prominente de Arcadia. Bajo su liderazgo, Humanitas ha promovido una agenda política de oposición a la presencia y actividades de metahumanos en la sociedad, llegando al extremo de reclamar elecciones tras eventos críticos relacionados con la comunidad metahumana.
 
-## Rol Administrativo
+## Liderazgo de Humanitas
 
-### Responsabilidades Gubernamentales
-- Gestión de políticas públicas locales
-- Coordinación entre departamentos gubernamentales
-- Supervisión de programas administrativos municipales
+### Ideología Política
+- **Anti-metahumana**: Oposición sistemática a la presencia de metahumanos en la sociedad
+- **Nacionalista de Arcadia**: Promotor de la supremacía política de Arcadia sobre otras naciones
+- **Expansionista**: Apoyo a la anexión de España, Portugal, y Canarias bajo bandera arcadiana
+- **Interracial y ecologista**: "Todos unidos contra lo metahumano" como eslogan unificador
 
-### Función Burocrática
-Como funcionario gubernamental, Gómez forma parte del aparato administrativo que ejecuta las decisiones políticas y mantiene el funcionamiento de los servicios públicos.
+### Estrategias Políticas
+- **Reclamo electoral**: Demanda elecciones tras crisis relacionadas con metahumanos
+- **Aprovechamiento de crisis**: Utiliza eventos negativos para ganar apoyo político
+- **Discurso variable**: Alternando entre "controlarlos", "retirar superhéroes" y "exterminarles a todos"
+- **Movilización popular**: Organización de seguidores contra la comunidad metahumana
 
-## Contexto Institucional
+## Apariciones Documentadas
 
-### Administración de Arcadia
-Su posición dentro del gobierno local se centra en la implementación efectiva de políticas que afectan tanto a la población general como a la comunidad metahumana de la ciudad.
+### **En La Familia - Sesión 41**
+**Contexto**: Tras eventos traumáticos relacionados con La Familia:
+- **Reclamo electoral**: Humanitas, bajo su liderazgo, reclamó elecciones inmediatas
+- **Aprovechamiento político**: Utilizó la crisis como plataforma para ganar apoyo anti-metahumano
+- **Comunicado oficial**: Emitió pronunciamiento público como Presidente del partido
+- **Oportunismo**: Capitalizó el momento de tensión social para avanzar su agenda política
 
-### Coordinación Interdepartamental
-- Colaboración con otros funcionarios gubernamentales
-- Enlace con agencias especializadas
-- Coordinación con MetaCorp en asuntos metahumanos
+## Ideología de Humanitas bajo su Liderazgo
+
+### **Filosofía Anti-Metahumana**
+Bajo Gómez, Humanitas ha desarrollado una filosofía integral de oposición:
+- **Control gubernamental**: Los metahumanos deben estar bajo estricta supervisión estatal
+- **Eliminación de superhéroes**: Remoción del reconocimiento público y legal de grupos heroicos
+- **Exterminio selectivo**: En casos extremos, apoyo a la eliminación física de metahumanos peligrosos
+- **Unidad nacional**: Utilización del miedo a metahumanos para unificar a la población normal
+
+### **Expansionismo Nacional**
+- **Reunificación ibérica**: España debería "reunirse" con Arcadia bajo bandera arcadiana
+- **Anexión territorial**: Incorporación de Portugal y Canarias al proyecto nacional
+- **Supremacía cultural**: Arcadia como líder natural de la región ibérica
+- **Modelo anti-meta**: Exportación de políticas anti-metahumanas a territorios anexados
+
+## Relaciones Políticas
+
+### **Con la Oposición**
+- **Conflicto con héroes**: Oposición directa a La Familia y otros grupos heroicos
+- **Tensión gubernamental**: Disputas con administraciones pro-metahumanas
+- **Rivalidad con MetaCorp**: Cuestionamiento de la legitimidad de fuerzas metahumanas oficiales
+
+### **Base de Apoyo**
+- **Población anti-meta**: Ciudadanos que temen o rechazan a los metahumanos
+- **Nacionalistas**: Grupos que apoyan la expansión territorial de Arcadia
+- **Conservadores**: Sectores que prefieren orden tradicional sin metahumanos
 
 ## Relaciones Profesionales
 
 ### En el Ámbito Gubernamental
 - **Felipe Álvarez**: Colega en la administración
-- **Alfonso Montenegro**: Funcionario relacionado
+- **Luis Montenegro**: Médico especialista
 - **Ignacio Rodriguez (Condestable)**: Colaboración en temas administrativos
 
 ### Con Instituciones Externas

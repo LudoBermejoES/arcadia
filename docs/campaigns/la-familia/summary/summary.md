@@ -47,7 +47,7 @@ A continuación, se detalla un resumen pormenorizado de sus aventuras:
     *   Se enteraron de que LSD era el ex de Mesmero y que el Emperador Oscuro se aproximaba.
     *   Comadreja les reveló que **Arcadia había perdido tres días de memoria en el pasado**.
     *   Encontraron un pirómano y una **sombra que les advirtió telepáticamente**.
-    *   Fueron transportados a un **barrio gótico futurista en ruinas** (2025), donde conocieron al envejecido **Alfonso Montenegro** (hermano de Esfinge).
+    *   Fueron transportados a un **barrio gótico futurista en ruinas** (2025), donde conocieron al envejecido **Luis Montenegro** (hermano de Esfinge).
     *   Descubrieron **carteles de "Humanitas"** y periódicos que anunciaban la **rendición de España a la República de Arcadia**.
     *   Una lectura mental de Alfonso reveló **campos de concentración y cuerpos desmembrados** vinculados a Humanitas/Freilassung.
     *   Comadreja explicó que las **sombras eran invocadas por Crazy Mary**.

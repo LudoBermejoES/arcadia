@@ -84,8 +84,8 @@ Master craftsman villain, instant weapon forging powers, metalworking and smithi
 
 ## Additional Characters
 
-### Alfonso Montenegro
-Wealthy businessman, elegant formal attire, corporate executive aesthetic, sophisticated and powerful presence, luxury accessories, authoritative stance, comic by john romita jr, --ar 2:3
+### Luis Montenegro
+Medical professional, doctor's coat, stethoscope, caring medical aesthetic, hospital environment, healing presence, medical expertise appearance, comic by john romita jr, --ar 2:3
 
 ### Doctor Anselmo
 Mad scientist villain, laboratory coat, scientific equipment, experimental devices, intellectual menacing appearance, research facility background, comic by john romita jr, --ar 2:3

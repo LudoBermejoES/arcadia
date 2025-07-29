@@ -69,7 +69,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-## 👥 **Más de 250 Personajes Documentados**
+## 👥 **160 Personajes Únicos Documentados**
 
 ### **🦸‍♂️ Los Héroes Legendarios**
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
@@ -100,7 +100,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">250+</span>
+<span class="stat-number">160</span>
 <span class="stat-label">Personajes Únicos</span>
 </div>
 
@@ -110,7 +110,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">100+</span>
+<span class="stat-number">73</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

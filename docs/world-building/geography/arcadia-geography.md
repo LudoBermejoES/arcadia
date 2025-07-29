@@ -39,117 +39,29 @@ El Distrito Natural, creado tomando como referencia las construcciones orientale
 
 ---
 
-## LA SUBCIUDAD: EL MUNDO SUBTERRÁNEO DE ARCADIA
+## 🕳️ **LA SUBCIUDAD: EL MUNDO SUBTERRÁNEO DE ARCADIA**
 
-### INFRAESTRUCTURA SUBTERRÁNEA
+La Subciudad de Arcadia constituye un mundo completo bajo la superficie, donde las reglas de la sociedad de arriba no se aplican, pero emergen códigos de supervivencia aún más estrictos. Este laberinto subterráneo representa tanto refugio como peligro, un ecosistema independiente donde criminales organizados, refugiados metahumanos y vigilantes independientes coexisten en una compleja red de territorios, alianzas y conflictos.
 
-**Túneles Volcánicos Naturales**:
-- Red de cavernas y túneles formados por la actividad volcánica de la isla
-- Conectan diferentes distritos evitando la vigilancia de superficie
-- Algunos túneles mantienen temperatura elevada por actividad geotérmica
-- Utilizados como rutas de escape y transporte clandestino
+### **Infraestructura Principal**
+- **Túneles Volcánicos Naturales**: Red de cavernas formadas por actividad geológica que conectan todos los distritos
+- **Sistema de Metro Abandonado**: Estaciones clausuradas, vagones convertidos en refugios, laboratorios clandestinos
+- **Red de Alcantarillado Expandida**: Sistema modificado para transporte humano con compuertas especializadas
 
-**Sistema de Metro Abandonado**:
-- **Estaciones clausuradas** por radiación y accidentes del pasado
-- **Estación de La Farándula**: Convertida en laboratorio de drogas potenciadoras
-- **Vagones destruidos** reutilizados como habitaciones y refugios
-- **Túneles bloqueados** por escombros, algunos sellados con cemento por autoridades
-- Red ferroviaria abandonada conecta múltiples distritos subterráneamente
+### **Territorios Criminales**
+- **Dominios de Telaraña**: Control de sectores estratégicos, centros de operaciones en estaciones profundas
+- **Sector del Puño Gris**: Laboratorios de procesamiento y rutas de tráfico especializadas  
+- **Refugios de La Cacería Salvaje**: Madrigueras familiares y zonas de patrullaje bestial
 
-**Red de Alcantarillado Expandida**:
-- Sistema original expandido y modificado para transporte humano
-- **Compuertas manuales** que requieren conocimiento especializado
-- **Pozos de acceso** ocultos en diferentes distritos de superficie
-- Conexiones con sistemas industriales y de servicios
+### **Características Únicas**
+- **Zonas de Radiación**: Áreas selladas por accidentes de Freiglasung con efectos impredecibles en metahumanos
+- **Ecosistema Artificial**: Agricultura subterránea, iluminación independiente, economía de intercambio de favores
+- **Población Estimada**: 5,000-8,000 habitantes entre permanentes y temporales
 
-### GEOGRAFÍA CRIMINAL SUBTERRÁNEA
+### **Peligros y Amenazas**
+- **Riesgos Ambientales**: Derrumbes, inundaciones, gases tóxicos, radiación residual
+- **Conflictos Territoriales**: Guerras de bandas, cazadores anti-meta, redadas oficiales, venganzas personales
 
-**Territorios de Telaraña**:
-- **Control territorial**: Telaraña domina la mayoría de sectores estratégicos
-- **Centros de operaciones**: Localizados en estaciones de metro más profundas
-- **Almacenes de contrabando**: Distribuidos por toda la red subterránea
-- **Rutas de distribución**: Conectan puertos clandestinos con mercados negros
-
-**Dominios del Puño Gris**:
-- **Sector asiático subterráneo**: Subsidiaria de Telaraña en túneles del distrito asiático
-- **Laboratorios de procesamiento**: Especializado en sustancias potenciadoras
-- **Redes de tráfico**: Rutas específicas para mercancía del Puño Gris
-
-**Refugios de La Cacería Salvaje**:
-- **Territorio del Barrio Gótico**: Túneles bajo jurisdicción de los hermanos bestiales
-- **Madrigueras familiares**: Refugios adaptados para metahumanos bestiales
-- **Zonas de patrullaje**: Sectores vigilados contra criminales y cazadores
-
-### CARACTERÍSTICAS ÚNICAS DE LA SUBCIUDAD
-
-**Zonas de Radiación**:
-- **Estaciones selladas**: Clausuradas por accidentes de Freiglasung hace 10 años
-- **Equipos de protección necesarios**: Para acceder a ciertas áreas
-- **Efectos en metahumanos**: Algunas radiaciones afectan poderes de forma impredecible
-
-**Ecosistema Artificial**:
-- **Iluminación improvisada**: Sistemas eléctricos independientes y generadores
-- **Ventilación natural**: Aprovecha túneles volcánicos para circulación de aire
-- **Fuentes de agua**: Conexiones clandestinas con sistemas de superficie
-- **Cultivos subterráneos**: Agricultura básica en cavernas adaptadas
-
-**Mercados y Economía Subterránea**:
-- **Intercambio de favores**: Economía basada en servicios y lealtades
-- **Mercados móviles**: Se trasladan para evitar redadas de superficie
-- **Tecnología adaptada**: Equipos modificados para funcionar sin infraestructura urbana
-- **Refugios temporales**: Espacios alquilados por períodos cortos
-
-### ACCESOS Y CONTROL
-
-**Puntos de Entrada Conocidos**:
-- **Alcantarillas**: Acceso tradicional pero vigilado por autoridades
-- **Sótanos conectados**: Edificios con accesos secretos a túneles
-- **Pozos industriales**: Conexiones desde fábricas y almacenes
-- **Estaciones selladas**: Entradas bloqueadas pero penetrables
-
-**Códigos Territoriales**:
-- **Marcas de Telaraña**: Símbolos que indican control organizacional
-- **Señales de La Cacería**: Marcadores de territorio vigilado por bestiales
-- **Zonas neutrales**: Espacios sin control específico, más peligrosos
-- **Refugios seguros**: Áreas protegidas para metahumanos perseguidos
-
-**Navegación Subterránea**:
-- **Mapas informales**: Conocimiento transmitido oralmente entre habitantes
-- **Referencias por sonidos**: Identificación de ubicaciones por ecos y ruidos
-- **Olores característicos**: Cada sector tiene aromas distintivos
-- **Temperatura**: Variaciones térmicas indican proximidad a túneles volcánicos
-
-### HABITANTES DE LA SUBCIUDAD
-
-**Criminales Organizados**:
-- **Operativos de Telaraña**: Personal permanente en diferentes niveles jerárquicos
-- **Mercenarios independientes**: Criminales que trabajan por contrato
-- **Especialistas técnicos**: Expertos en mantener infraestructura subterránea
-
-**Refugiados y Marginados**:
-- **Metahumanos perseguidos**: Individuos que no pueden vivir en superficie
-- **Fugitivos**: Personas evadiendo justicia o venganzas
-- **Desplazados económicos**: Quienes no pueden costear vida en superficie
-
-**Vigilantes Independientes**:
-- **La Cacería Salvaje**: Patrullan túneles del Barrio Gótico
-- **Investigadores privados**: Operan desde la subciudad para casos sensibles
-- **Informantes**: Red de personas que intercambian información
-
-### AMENAZAS Y PELIGROS SUBTERRÁNEOS
-
-**Riesgos Ambientales**:
-- **Derrumbes**: Túneles inestables por edad y abandono
-- **Inundaciones**: Durante fuertes lluvias, algunos sectores se anegan
-- **Gases tóxicos**: Acumulación de vapores industriales y descomposición
-- **Radiación residual**: En zonas de antiguos accidentes
-
-**Conflictos Territoriales**:
-- **Guerras de bandas**: Disputas por control de rutas lucrativas
-- **Cazadores anti-meta**: Grupos que persiguen metahumanos hasta la subciudad
-- **Redadas oficiales**: Operaciones esporádicas de MetaCorp
-- **Venganzas personales**: Ajustes de cuentas en territorio sin ley
+**→ [VER INFORMACIÓN COMPLETA DE LA SUBCIUDAD](../subciudad/)**
 
 ---
-
-*La subciudad de Arcadia representa tanto refugio como peligro, un mundo completo bajo la superficie donde las reglas de la sociedad de arriba no se aplican, pero emergen códigos de supervivencia aún más estrictos.*

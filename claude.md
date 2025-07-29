@@ -165,7 +165,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Consecuencias Duraderas**: Acciones de campañas anteriores afectan actuales
 
 ### 🌐 **Ecosistema Interconectado**
-- **200+ Personajes** documentados con relaciones complejas
+- **160 Personajes** documentados con relaciones complejas
 - **50+ Organizaciones** activas con dinámicas cambiantes
 - **7 Distritos** de Arcadia con características únicas
 - **Múltiples Niveles** - Individual, grupal, institucional, societal
@@ -182,8 +182,8 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 
 ### 📊 **Estadísticas del Proyecto**
 - **15 años** de desarrollo continuo (2010-2025)
-- **100+ sesiones** documentadas
-- **200+ personajes** detallados
+- **73 sesiones** documentadas
+- **160 personajes** detallados
 - **50+ organizaciones** activas
 - **6 campañas** principales y especializadas
 - **7 distritos** de Arcadia completamente desarrollados
@@ -194,10 +194,10 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **`/campaigns/`** - Sesiones organizadas por campaña
   - `/la-familia/` - 42 sesiones + resúmenes
   - `/genesis/` - 6 sesiones documentadas
-  - `/la-fuerza-oculta/` - 25+ sesiones con AI notes
+  - `/la-fuerza-oculta/` - 23 sesiones con AI notes
   - `/hospital/` - 2 sesiones médicas
   - `/fatum/` - Documentación corporativa
-- **`/characters/`** - 200+ fichas de personajes detalladas
+- **`/characters/`** - 160 fichas de personajes detalladas
 - **`/groups/`** - Organizaciones y facciones
 - **`/world-building/`** - Elementos del universo
 
@@ -237,3 +237,146 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 Con campañas aún activas en 2025, Arcadia continúa creciendo. Cada sesión añade nueva historia, cada personaje desarrolla nuevas relaciones, y cada decisión de los jugadores moldea el futuro de este universo compartido.
 
 **Un testimonio viviente de que las mejores historias no se escriben - se viven.**
+
+---
+
+## 🤖 **Guía para Claude Code**
+
+### **Comandos y Procesos Comunes**
+
+#### **Compilación y Desarrollo**
+- **Build del sitio**: `bundle exec jekyll serve` para desarrollo local
+- **Build de producción**: `bundle exec jekyll build` para generar sitio estático
+- **Verificar enlaces**: No hay script específico, verificar manualmente los enlaces internos
+
+#### **Estructura de Archivos Clave**
+- **Personajes**: `/docs/characters/details/[nombre-personaje].md` - Fichas individuales con front matter específico
+- **Campañas**: `/docs/campaigns/[campaña]/` - Sesiones organizadas por carpetas de campaña
+- **Grupos**: `/docs/groups/character-groups.md` - Organizaciones y facciones
+- **Worldbuilding**: `/docs/world-building/` - Geografía, historia, ambientación
+- **Estadísticas**: `/docs/stats/index.md` - Métricas completas del proyecto
+
+#### **Front Matter Jekyll Obligatorio**
+**Para archivos de personajes (`/docs/characters/details/`):**
+```yaml
+---
+layout: character
+title: Nombre del Personaje
+permalink: /characters/details/nombre-personaje/
+slug: nombre-personaje
+---
+```
+
+**Para archivos de sesiones (`/docs/campaigns/[campaña]/`):**
+```yaml
+---
+layout: page
+title: "Nombre Campaña - Sesión XX"
+permalink: /campaigns/nombre-campaña/session-XX/
+---
+```
+
+**Para páginas generales:**
+```yaml
+---
+layout: page
+title: "Título de la Página"
+permalink: /ruta-de-la-pagina/
+---
+```
+
+#### **Formato de Imágenes de Personajes**
+**Estructura HTML para mostrar fotos:**
+```html
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Nombre_Personaje.png" alt="Nombre Personaje" />
+</div>
+```
+
+**Convenciones de nomenclatura de imágenes:**
+- **Ubicación**: `/docs/assets/img/characters/`
+- **Formato**: Archivos `.png` preferiblemente
+- **Nomenclatura**: Coincidir con el nombre del personaje (puede usar espacios o guiones bajos)
+- **Ejemplos existentes**: 
+  - `Mésmero.png`, `El Faraón.png`, `Astrid_Kayface.png`
+  - `ana-montenegro-esfinge-atropos.png` (para nombres complejos)
+  - `Justa_Justicia_Sentencia.png` (nombres con múltiples identidades)
+
+#### **Convenciones de Nomenclatura**
+- **Archivos de personajes**: Usar nombres en minúsculas con guiones (ej: `mesmero.md`, `el-faraon.md`)
+- **Permalinks**: Seguir estructura `/characters/details/nombre-personaje/`
+- **Imágenes**: Usar nombre del personaje tal como aparece en el título (puede incluir espacios)
+- **Sesiones**: Formato `session-XX.md` con numeración secuencial
+
+#### **Enlaces y Referencias**
+- **Enlaces internos**: Usar `{{ site.baseurl }}/path/` para compatibilidad con GitHub Pages
+- **Referencias entre personajes**: Crear enlaces cruzados entre fichas relacionadas
+- **Organizaciones**: Referenciar grupos usando enlaces a secciones específicas
+
+### **Tareas de Mantenimiento Frecuentes**
+
+#### **Actualización de Estadísticas**
+- **Contar personajes**: Usar `find /docs/characters/details/ -name "*.md" | wc -l`
+- **Contar sesiones**: Revisar carpetas de campañas individualmente
+- **Actualizar**: Modificar `/docs/stats/index.md` y `/docs/index.md` con números actuales
+
+#### **Gestión de Personajes**
+- **Nuevos personajes**: Crear ficha en `/docs/characters/details/` y actualizar `/docs/characters/character-list.md`
+- **Imágenes**: Añadir retratos en `/docs/assets/img/characters/` con mismo nombre base
+- **Enlaces**: Verificar que aparezcan en listas de grupos correspondientes
+
+#### **Documentación de Sesiones**
+- **Nuevas sesiones**: Crear archivo en campaña correspondiente con numeración secuencial
+- **Transcripciones**: Usar formato estándar con timestamps para navegación
+- **Resúmenes**: Incluir resúmenes ejecutivos para sesiones importantes
+
+### **Conocimiento del Universo Arcadia**
+
+#### **Personajes Centrales Actuales (2025)**
+- **La Fuerza Oculta**: Eslizón Esmeralda, Diana, Astrid/Kayface, Psique/Cia, Justa/Justicia/Sentencia, Hotman
+- **La Cacería Salvaje**: Vista, Tacto, Oído, Olfato, Gusto (hermanos bestiales del Barrio Gótico)
+- **Veteranos Activos**: Mésmero, El Faraón, Mecánica entre otros miembros de generaciones anteriores
+
+#### **Organizaciones Principales**
+- **Heroicas**: La Familia, Génesis, La Fuerza Oculta, La Cacería Salvaje, MetaCorp
+- **Villanas**: La Farándula, Fatum Corporation, Telaraña, Humanitas, Los Confesores
+- **Institucionales**: Gobierno de Arcadia, Academia de Entrenamiento, Tribunales Meta
+
+#### **Ubicaciones Importantes**
+- **Barrio Gótico**: Distrito viviente, territorio de La Cacería Salvaje, fenómenos sobrenaturales
+- **Distrito Futurista**: Centro corporativo, sede de empresas como Fatum Corporation
+- **Subciudad**: Red de túneles subterráneos, territorio de organizaciones criminales
+
+### **Continuidad y Coherencia**
+
+#### **Timeline Crítico**
+- **2010-2015**: Era de La Familia (42 sesiones documentadas)
+- **2015-2020**: Era de Génesis (6 sesiones documentadas)  
+- **2020-2025**: Era de La Fuerza Oculta (23 sesiones documentadas)
+- **Eventos Clave**: Atentado Freiglasung (2015), establecimiento de La Cacería Salvaje
+
+#### **Relaciones Generacionales**
+- **Estocada** (La Familia) → Padre de **La Cacería Salvaje**
+- **Mésmero** (La Familia) → Mentor activo de generaciones posteriores
+- **Sara10/Mecánica** (Génesis) → Tecnóloga que modernizó infraestructura heroica
+
+#### **Temas Narrativos Centrales**
+- **Meta-narrativa**: Consciencia del juego "Héroes o Villanos"
+- **Evolución moral**: Cada generación enfrenta dilemas éticos más complejos
+- **Continuidad familiar**: Relaciones padre-hijo, mentor-estudiante entre personajes
+- **Crecimiento orgánico**: El universo evoluciona naturalmente sin planificación previa
+
+### **Recursos y Referencias**
+
+#### **Para Consultas Rápidas**
+- **Lista completa de personajes**: `/docs/characters/character-list.md`
+- **Estadísticas actuales**: `/docs/stats/index.md`  
+- **Grupos organizados**: `/docs/groups/character-groups.md`
+- **Geografia de Arcadia**: `/docs/world-building/geography/arcadia-geography.md`
+
+#### **Para Contexto Histórico**
+- **Ambientación general**: `/docs/world-building/ambientacion.md`
+- **Historia de campañas**: `/docs/campaigns/` (carpetas individuales)
+- **Evolución del proyecto**: Revisar fechas en front matter de archivos más antiguos
+
+---

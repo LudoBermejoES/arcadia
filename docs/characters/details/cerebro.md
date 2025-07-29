@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Cerebro"
+permalink: /characters/details/cerebro/
+---
+
 # Cerebro
 
 ## Información Básica

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "León Federico - León Rampante"
+permalink: /characters/details/leon-federico/
+---
+
 # León Federico - "León Rampante"
 
 ## Información Básica

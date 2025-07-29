@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Martillo"
+permalink: /characters/details/martillo/
+---
+
 # Martillo
 
 ## Información Básica

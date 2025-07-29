@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Marta Alberti - Sinestesia"
+permalink: /characters/details/marta-alberti/
+---
+
 # Marta Alberti - "Sinestesia"
 
 ## Información Básica

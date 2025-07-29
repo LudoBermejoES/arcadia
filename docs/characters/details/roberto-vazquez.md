@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Roberto Vázquez - Niño-Pulpo"
+permalink: /characters/details/roberto-vazquez/
+---
+
 # Roberto Vázquez - "Niño-Pulpo" / "Octoniño"
 
 ## Información Básica

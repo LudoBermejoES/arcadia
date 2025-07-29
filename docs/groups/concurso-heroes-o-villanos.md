@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Concurso Héroes o Villanos"
+permalink: /groups/concurso-heroes-o-villanos/
+---
+
 # Concurso Héroes o Villanos
 
 ## Información Básica

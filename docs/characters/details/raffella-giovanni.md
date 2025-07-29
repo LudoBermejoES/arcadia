@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Raffella Giovanni - La Durmiente"
+permalink: /characters/details/raffella-giovanni/
+---
+
 # Raffella Giovanni - "La Durmiente"
 
 ## Información Básica

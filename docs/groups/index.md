@@ -130,7 +130,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🏢 Fatum Corporation**
+### **🏢 [Fatum Corporation](../campaigns/fatum)** 
 **La Megacorporación Criminal**
 
 #### **Estructura Corporativa:**

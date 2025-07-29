@@ -173,11 +173,11 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 **Información**: Grupo político que se opone a los derechos y presencia de metahumanos en la sociedad.
 
-#### Freilasung
-**Tipo**: Grupo extremista  
-**Concepto**: Organización extremista
+#### [Freiglasung](freiglasung.md)
+**Tipo**: Grupo terrorista (desmantelado)  
+**Concepto**: Brazo armado terrorista de Humanitas
 
-**Información**: Grupo radical con agenda anti-metahumana.
+**Información**: Organización terrorista responsable del atentado del metro con gases químicos (causó clausura permanente de estaciones por radiación), atentado de la sinagoga, y el gran atentado de 2015 donde Marcos Ideacir se inmoló matando al alcalde y toda la cúpula gubernamental. Fue el brazo armado secreto de Humanitas hasta ser desenmascarados por La Familia. Completamente desmantelados tras el atentado de 2015, pero sus acciones moldearon la Arcadia moderna y crearon las estaciones radiactivas subterráneas que ahora usan los criminales.
 
 ### Instituciones Académicas y de Investigación
 

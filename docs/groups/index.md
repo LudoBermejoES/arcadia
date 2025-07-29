@@ -147,6 +147,23 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
+### **💥 [Freiglasung](freiglasung.md)**
+**Grupo Terrorista Anti-Metahumano (Desmantelado)**
+
+#### **Amenaza Histórica:**
+- **💣 Terrorismo Químico**: Atentados masivos con gases anti-meta
+- **🚇 Ataque del Metro**: Clausura permanente de estaciones (2015)
+- **👤 Atentado del Alcalde**: Marcos Ideacir destruye cúpula gubernamental
+- **🔗 Conexión Humanitas**: Brazo armado secreto desenmascarado por La Familia
+
+#### **Legado de Terror:**
+- **☢️ Contaminación**: Estaciones radiactivas utilizadas por criminales actuales
+- **📊 Impacto Político**: Ley marcial, éxodo metahumano, colapso gubernamental
+- **🏛️ Transformación Social**: Sus atentados moldearon la Arcadia moderna
+- **⚰️ Estatus**: Organización completamente desmantelada tras 2015
+
+---
+
 ### **⛪ [Los Confesores](../characters/details/los-confesores.md)**
 **Fanáticos Religiosos Antimeta**
 
@@ -453,6 +470,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[🎭 La Farándula](../characters/details/la-farandula.md)** - Los teatrales organizados
 - **[🏢 Fatum](../campaigns/fatum/fatum.md)** - La megacorporación criminal
 - **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
+- **[💥 Freiglasung](freiglasung.md)** - Terroristas anti-meta (desmantelados)
 - **[⛪ Los Confesores](../characters/details/los-confesores.md)** - Fanáticos antimeta
 
 ### **🏛️ Instituciones Públicas**

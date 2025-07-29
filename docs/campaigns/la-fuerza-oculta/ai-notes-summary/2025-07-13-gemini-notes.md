@@ -98,7 +98,7 @@ La entidad que había contactado previamente reaparece con una oferta concreta:
 
 **Detalles de la Misión:**
 - **Objetivo**: Antigua estación de metro subterránea
-- **Historia**: Cerrada tras atentados de **Frey Laun** hace 10 años
+- **Historia**: Cerrada tras atentados de **Freiglasung** hace 10 años
 - **Contexto**: Grupo relacionado con **Humanitas** (partido antimeta-humano)
 - **Ocupantes actuales**: Delincuentes armados procesando drogas
 

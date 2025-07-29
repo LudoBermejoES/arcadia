@@ -110,12 +110,66 @@ Descubren marines estadounidenses protegiendo instalación con luz verde misteri
 ### 💥 **Fase X: El Gran Final (2015)**
 **"Zona Cero y los Ultracorps"**
 
-[Garra]({{ site.baseurl }}/characters/details/garra/) envejece hasta los 20 años y se detiene. Encuentran tres cabezas clavadas en picas frente a su puerta. En el hospicio, el [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) descubre la cola de bicha de la Reina Cobra. Durante discurso del alcalde aparecen los "Ultracorps" y una gran explosión de "Freiglasung" mata al alcalde. Se forma un vórtice de muerte mientras Bate lucha contra Maniquí y el Faraón confronta al asesino fanático.
+**[Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)**: [Garra]({{ site.baseurl }}/characters/details/garra/) envejece hasta los 20 años y se detiene. Encuentran tres cabezas clavadas en picas frente a su puerta - espías enviados por un hombre de barba roja (posible líder siriano). En el hospicio, el [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) descubre la cola de bicha de la Reina Cobra y establece protecciones mágicas.
 
-### 🔄 **Fase XI: El Regreso (2025)**
+**El Gran Atentado**: Durante el discurso del alcalde presentando los "Ultracorps", Marcos Ideacir (limpiaventanas) se inmola gritando "nunca. Por los Freiglasung", matando al alcalde y toda la cúpula gubernamental. Se forma un vórtice de muerte que enloquece el mundo espiritual. Bate, traumatizado por similitudes con la muerte de su familia, rompe la cúpula protectora y lucha contra los Ultracorps mientras el Faraón confronta y captura al asesino fanático.
+
+**Consecuencias**: Se declara la ley marcial, emigración masiva de metahumanos al barrio gótico, aparición de carteles de [Freiglasung]({{ site.baseurl }}/groups/freiglasung/) con sus caras y la leyenda "tenían razón". [Humanitas]({{ site.baseurl }}/groups/humanitas/) reclama elecciones bajo Leopoldo Gómez.
+
+### 🕷️ **Fase XI: La Conspiración de Humanitas (2015)**
+**"Centrales Eléctricas y Piedras Zumbantes"**
+
+**[Continuación Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)**: Investigan el financiamiento de [Humanitas]({{ site.baseurl }}/groups/humanitas/) descubriendo conexiones con Estados Unidos y la Unión Europea. Poseen cuatro centrales eléctricas, media Universidad de Arcadia y financiaron el colisionador de almas. Descubren marines estadounidenses protegiendo instalaciones con "luz verde" y piedras que emiten zumbidos extraños.
+
+**La Trampa de las Centrales**: Al investigar las instalaciones, encuentran un perímetro de piedras que anula poderes metahumanos y activa defensas automáticas. [Bate]({{ site.baseurl }}/characters/details/bate/) pierde temporalmente sus habilidades, [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) resulta gravemente herida. Un soldado en mecha de tres metros los persigue.
+
+**El Protocolo Activado**: La captura del líder de Humanitas activa un "protocolo" que desintegra el barrio gótico, haciendo que edificios colapsen y pierdan sus poderes. Descubren que el líder tiene tatuajes nazis anti-metahumanos y visiones de Aldonza Lorenzo manipulando la bomba del museo.
+
+### 🕳️ **Fase XII: El Portal del Tiempo (2015)**
+**"Más Allá del Tiempo y la Fusión"**
+
+**El Asalto al Museo**: Enfrentan una red de mercenarios ingleses y mechas transformables protegiendo la bomba atómica. [Garra]({{ site.baseurl }}/characters/details/garra/) hackea drones de los MetaCorp mientras el primer piso del museo explota. Descubren que la bomba está rodeada de un portal temporal con registros de múltiples viajes desde el futuro.
+
+**El Espacio Atemporal**: Transportados a un espacio blanco infinito dominado por una mente inmensa, encuentran a una criatura alada que revela que son "reflejos" y no reales. [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) da a luz una criatura hermafrodita temporal para recuperar su humanidad y regresar al mundo real.
+
+**La Fusión Final**: Se encuentran con versiones futuras de sí mismos, resultando en fusiones: dos [Garra]({{ site.baseurl }}/characters/details/garra/) se unen voluntariamente, dos [Bate]({{ site.baseurl }}/characters/details/bate/) se fusionan tras un conflicto donde Bate del pasado mata a Mésmero del pasado. [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/) se fusiona al tocarse a sí mismo.
+
+### 🐱 **Fase XIII: El Despertar de los Antiguos Dioses (2015)**
+**"Bastet y la Transformación de Arcadia"**
+
+**El Enfrentamiento Final**: Asaltan la mansión de Padre Sangre donde encuentran a Madre Alba. El [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) absorbe almas con su bastón mientras una garra inmensa emerge de los espejos. [Bastet]({{ site.baseurl }}/characters/details/bastet/) se manifiesta globalmente a través de todos los espejos del mundo.
+
+**El Regreso de los Dioses**: [Bastet]({{ site.baseurl }}/characters/details/bastet/) revela que necesitaba las almas para "que vuelvan" los Antiguos Dioses. Terremotos masivos en Egipto hacen surgir pirámides en El Cairo, un escarabajo arrastra el sol por el cielo. Egipto y el norte de África caen bajo el dominio de los antiguos dioses egipcios.
+
+**La Nueva Arcadia**: Las centrales eléctricas son destruidas por terremotos. Se establece una cúpula visible sobre Arcadia que permite el paso de barcos y aviones. El alcalde propone convertir a toda la población en metahumana usando a LSD. Según [Destino]({{ site.baseurl }}/characters/details/destino/), tienen solo 0.7% de posibilidades de sobrevivir los próximos 5 años.
+
+### 🔄 **Fase XIV: El Regreso (2025)**
 **"Diez Años Después - El Faraón Perdido"**
 
 **[Sesión 25 Mayo 2025]({{ site.baseurl }}/campaigns/la-familia/session-42-2025-05-25/)**: Diez años después, [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) convoca a La Familia. [Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) ha ayudado a jóvenes metahumanos. Se reúnen en el parque de bomberos restaurado. El [Faraón]({{ site.baseurl }}/characters/details/el-faraon/) alimentó almas a su gato [Bastet]({{ site.baseurl }}/characters/details/bastet/), quien abrió puertas a antiguos dioses egipcios, destruyendo edificios de más de dos plantas. Buscan redimirlo en el templo de Ra, donde fluctuaciones temporales transforman a Atropos en Esfinge.
+
+### 🌍 **El Mundo Tras La Familia (2015-2025)**
+**"Las Consecuencias de una Década"**
+
+**Transformaciones Globales**:
+- **Egipto**: Bajo dominio de antiguos dioses faraones, en guerra con Saca-Zulu
+- **Israel**: Construyendo pirámides, conversión forzosa o ejecución
+- **Europa**: Dialogando con nuevos dirigentes egipcios para protección
+- **Estados Unidos**: Relaciones cortadas tras revelarse financiamiento a Humanitas
+
+**Arcadia Transformada**:
+- **Cúpula Protectora**: Visible pero permeable a transporte
+- **Bloqueo Comercial**: ONU aísla Arcadia, Rusia y Sudamérica no respetan
+- **Mutaciones Masivas**: Humanos ganan poderes, otros los pierden
+- **Barrio Gótico**: Se regenera automáticamente por las noches
+- **Inmigración**: "Espaldas mojadas" españoles buscan volverse metahumanos
+
+**Estado de los Héroes**:
+- **[El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)**: Desaparecido tras alimentar a Bastet
+- **[Bate]({{ site.baseurl }}/characters/details/bate/)**: Encerrado por riesgo de control mental
+- **[Garra]({{ site.baseurl }}/characters/details/garra/)**: Estudia medicina, colabora con Génesis
+- **[Mésmero]({{ site.baseurl }}/characters/details/mesmero/)**: Intenta curar a Bate
+- **[Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)**: Vive con Pollón666
 
 ### 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-familia/summary/summary/)**
 *Para conocer todos los detalles de estas épicas aventuras, consulta el resumen completo que narra pormenorizadamente cada fase de la campaña original.*

@@ -44,12 +44,15 @@ Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlánti
 - **🏰 Barrio Gótico**: Zona donde la tecnología moderna falla
 - **🏭 Distrito Industrial**: Manufactura y tecnología avanzada
 - **🌊 Puerto de Arcadia**: Conexión con el mundo exterior
+- **🌑 Subciudad**: Red subterránea criminal y refugio
 
 #### **🌊 Características Naturales**
 - **Playas Volcánicas**: Arena negra característica
 - **Manantiales Termales**: Con propiedades curativas únicas
 - **Cavernas Cristalinas**: Formaciones geológicas extraordinarias
 - **Bosques Mágicos**: Vegetación con propiedades sobrenaturales
+- **Túneles Volcánicos**: Red natural conectada con sistemas artificiales
+- **Metro Abandonado**: Estaciones clausuradas convertidas en refugios
 
 ---
 
@@ -268,7 +271,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 🔍 **Navegación Temática**
 
 ### **🗺️ Por Aspecto del Mundo**
-- **[🏝️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico
+- **[🏝️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico y subterráneo
 - **[📚 Historia]({{ site.baseurl }}/world-building/history-overview/)** - El pasado que define el presente
 - **[👥 Sociedad]({{ site.baseurl }}/world-building/arcadia-society/)** - Cómo viven los arcadianos
 - **[💰 Economía]({{ site.baseurl }}/world-building/arcadia-economy/)** - El sistema financiero único

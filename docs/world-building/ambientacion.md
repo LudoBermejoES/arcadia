@@ -256,6 +256,8 @@ También llamado el Distrito Central, es el distrito político, religioso y judi
 ### Distrito Gótico
 Tomando como referente ciudades como Venecia o Praga, este distrito une canales de agua continuamente filtrada con rascacielos con formas similares a antiguas catedrales. Veinticinco manzanas residenciales, a pesar de que en los últimos años algunas empresas hayan decidido apostar por establecerse allí por el bajo coste del suelo (es uno de los pocos distritos que no tiene metro). Con calles estrechas y sinuosas, este distrito tiene un índice de criminalidad moderado, siendo principalmente utilizado para el contrabando.
 
+**Conexiones Subterráneas**: El Barrio Gótico mantiene múltiples túneles y pasadizos que conectan con la red subterránea general de Arcadia, utilizados tanto por criminales como por vigilantes independientes.
+
 ### Distrito Futurista
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.
 
@@ -270,6 +272,33 @@ Zonas residenciales en las afueras de la ciudad, desarrolladas durante los años
 
 ### Centro Proletario Industrial (CENIN)
 Polígonos industriales y fábricas situados en el sur de la isla, representando el corazón industrial de Arcadia.
+
+### La Subciudad
+Bajo la superficie de Arcadia se extiende una **compleja red subterránea** que funciona como un mundo paralelo:
+
+**Infraestructura Natural y Artificial**:
+- **Túneles volcánicos naturales** aprovechados y expandidos
+- **Sistema de metro abandonado** con múltiples estaciones clausuradas
+- **Red de alcantarillado** convertida en rutas de transporte clandestino
+- **Cavernas artificiales** excavadas para refugios y operaciones
+
+**Habitantes y Organizaciones**:
+- **Criminales organizados**: Telaraña controla gran parte del territorio subterráneo
+- **Refugiados y marginados**: Aquellos que no pueden vivir en la superficie
+- **Vigilantes independientes**: Como La Cacería Salvaje en túneles del Barrio Gótico
+- **Laboratorios clandestinos**: Especialmente de La Farándula para producción de drogas
+
+**Características Únicas**:
+- **Zonas de radiación**: Estaciones clausuradas por accidentes del pasado
+- **Mercados negros**: Intercambio de tecnología, armas y sustancias prohibidas
+- **Refugios seguros**: Áreas protegidas donde los metahumanos pueden esconderse
+- **Conexiones interdistritales**: Rutas que evitan la vigilancia de superficie
+
+**Acceso y Control**:
+- **Entradas vigiladas**: Muchas selladas con cemento por las autoridades
+- **Códigos territoriales**: Distintas organizaciones controlan diferentes sectores
+- **Tecnología adaptada**: Equipos diseñados para funcionar sin electricidad urbana
+- **Economía de supervivencia**: Sistema de intercambio basado en favores y recursos
 
 ---
 
@@ -364,7 +393,7 @@ Como se mencionaba, la gente está acostumbrada a arreglar los desperfectos ocas
 
 ### Criminales
 
-**Telaraña** - Nadie sabe quién es, qué aspecto tiene ni dónde vive, pero tanto el estado como los metacorps están de acuerdo en que existe. Es considerado el líder del hampa metahumano de Arcadia. ¿Es un solo metahumano o una organización? Nadie lo sabe.
+**Telaraña** - Nadie sabe quién es, qué aspecto tiene ni dónde vive, pero tanto el estado como los metacorps están de acuerdo en que existe. Es considerado el líder del hampa metahumano de Arcadia y controla gran parte de la **red criminal subterránea**. Opera principalmente desde la subciudad, coordinando organizaciones subsidiarias como el **Puño Gris** (mafia del distrito asiático). Su red se extiende por túneles abandonados, estaciones de metro clausuradas y sistemas de alcantarillado. ¿Es un solo metahumano o una organización? Nadie lo sabe, pero su influencia subterránea es innegable.
 
 **Hermes** - Su primera aparición fue en el Robo del Zeppelin en 1972. Con el poder de volar a velocidades cercanas a la barrera del sonido y utilizando aparatos suministrados por Gadjet, se ha convertido en uno de los criminales más buscados, aunque sus exquisitos modales lo han hecho popular entre la ciudadanía.
 

@@ -15,6 +15,12 @@ permalink: /campaigns/la-fuerza-oculta/
 
 **La Fuerza Oculta** representa la evolución natural del universo de Arcadia. Comenzada en febrero de 2024 tras **10 años de pausa**, esta campaña sigue a un grupo de **jóvenes superhéroes** que deben navegar un mundo más complejo y moralmente ambiguo que sus predecesores.
 
+### 🎬 **[El Concurso "Héroes o Villanos"]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/)**
+
+**El evento que lo cambió todo**: La Fuerza Oculta se formó durante su participación en el reality show televisivo "Concurso Héroes o Villanos" de RTA. Lo que comenzó como una competición entre cuatro grupos de jóvenes metahumanos terminó en tragedia, transformando a estos concursantes del Grupo Beta en los héroes fugitivos más famosos de Arcadia.
+
+**[📺 Lee la historia completa del concurso →]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/)**
+
 ### ⚡ El Equipo
 
 #### 🦎 **[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)** *(Sugus)*

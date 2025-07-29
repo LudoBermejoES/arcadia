@@ -188,6 +188,30 @@ permalink: /characters/character-list/
 - [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
 - [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
 
+## Concursantes del Programa "Héroes o Villanos"
+
+### Grupo Alfa (Ganadores)
+- [Raffella Giovanni - "La Durmiente"]({{ site.baseurl }}/characters/details/raffella-giovanni/)
+- [Roberto Vázquez - "Niño-Pulpo/Octoniño"]({{ site.baseurl }}/characters/details/roberto-vazquez/)
+- [Cerebro]({{ site.baseurl }}/characters/details/cerebro/) (líder del grupo)
+- [León Federico - "León Rampante"]({{ site.baseurl }}/characters/details/leon-federico/)
+- [Marta Alberti - "Sinestesia"]({{ site.baseurl }}/characters/details/marta-alberti/)
+
+### Grupo Beta
+- [La Fuerza Oculta]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/) (ver arriba)
+
+### Grupo Gamma (Eliminados - Criminales de Zaphyra)
+- [Martillo]({{ site.baseurl }}/characters/details/martillo/) (afirma ser hijo de Maza)
+- [Siberia]({{ site.baseurl }}/characters/details/siberia/) (campos de inercia temporal)
+- [2D]({{ site.baseurl }}/characters/details/2d/) (proyección bidimensional)
+- [Cyberpunk]({{ site.baseurl }}/characters/details/cyberpunk/) (HAM - Humano Artificialmente Mejorado)
+
+### Grupo Delta (Eliminados - "Los Dormilones")
+- [Temblores]({{ site.baseurl }}/characters/details/temblores/) (vibración de objetos)
+- [Tifón]({{ site.baseurl }}/characters/details/tifon/) (poderes de fuego descontrolados)
+- [La Nueva Sombra]({{ site.baseurl }}/characters/details/la-nueva-sombra/) (acróbata enmascarada)
+- [Zambo y Mambo]({{ site.baseurl }}/characters/details/zambo-mambo/) (gemelos de metal orgánico, hijos de Manny)
+
 #### Jugadores y Staff
 - Eduardo Vaquerizo (jugador/GM)
 - Ludo Bermejo (jugador/GM)

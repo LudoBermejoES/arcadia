@@ -23,20 +23,20 @@ Durante los primeros años de independencia, **Estados Unidos lanzó una bomba a
 
 **→ [VER INFORMACIÓN COMPLETA DEL DISTRITO CLÁSICO](../distrito-clasico/)**
 
-## DISTRITO GÓTICO (BARRIO GÓTICO)
+## 🏰 **DISTRITO GÓTICO (BARRIO GÓTICO)**
 Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, formando un lugar oscuro, oloroso, siniestro y repleto de sombras que constituye el corazón místico y viviente de Arcadia.
 
 Con un índice de criminalidad moderado, es principalmente utilizado para contrabando, pero su verdadera naturaleza trasciende la actividad criminal - es un distrito viviente que existe en simbiosis con sus habitantes metahumanos.
 
 **→ [VER INFORMACIÓN COMPLETA DEL BARRIO GÓTICO](../barrio-gotico/)**
 
-## DISTRITO FUTURISTA
+## 🌆 **DISTRITO FUTURISTA**
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.
 
-## DISTRITO ECLESIÁSTICO
+## ⛪ **DISTRITO ECLESIÁSTICO**
 Pese a lo que pudiera parecer, Marius era un devoto cristiano. En su diseño original de la ciudad incluyó este pequeño distrito, de apenas doce manzanas, donde el estado tiene la obligación de recoger todas las religiones. Una mezcolanza sin número de instituciones religiosas llenan este distrito y en numerosas ocasiones se han producido altercados sin demasiada importancia.
 
-## DISTRITO BIÓNICO
+## 🌿 **DISTRITO BIÓNICO**
 El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 7km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro de, por ejemplo, el barrio gótico.
 
 ---

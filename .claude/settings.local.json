@@ -62,7 +62,11 @@
       "Bash(then)",
       "Bash(echo:*)",
       "Bash(else)",
-      "Bash(fi)"
+      "Bash(fi)",
+      "Bash(do if ! grep -q '<img src=\\|!\\[.*\\](.*)\\|<div class=\"\"character-photo\"\">' \"$file\")",
+      "Bash(then echo \"$file\")",
+      "Bash(do if ! grep -q -E '(<img src=|!\\[.*\\]\\(.*\\)|<div class=\"\"character-photo\"\">)' \"$file\")",
+      "Bash(rg:*)"
     ],
     "deny": []
   }

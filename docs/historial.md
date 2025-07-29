@@ -12,6 +12,37 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Julio 2025**
 
+### **29 de Julio de 2025**
+
+#### **🖼️ Actualización de Imágenes de Personajes**
+- **Nuevas imágenes de personajes** - Añadidas imágenes para los 7 personajes más recientes:
+  - **Waldo Gutierrez**: Supervisor de proyectos universitarios MetaCorp
+  - **Oneill**: Líder actual de MetaCorp tras la desaparición de Trueno
+  - **Pastel de Carne**: Asesino interno de Telaraña, especialista en eliminación de traidores
+  - **La Baronesa**: Metamorfa aristocrática responsable del accidente del monorrail (200 muertes)
+  - **Yeng**: Comerciante del mercado negro y arreglador para mercenarios (ya tenía imagen)
+  - **Vista**: Líder de La Cacería Salvaje con percepción visual sobrehumana (ya tenía imagen)
+  - **Trueno**: Héroe desaparecido de MetaCorp con poderes atmosféricos (ya tenía imagen)
+
+#### **🔧 Mantenimiento Técnico**
+- **Sincronización de repositorio** - Actualización exitosa con 13 commits pendientes
+- **Integración de nuevos assets** - Incorporación de múltiples imágenes de personajes y assets del sitio
+- **Corrección de referencias** - Actualización de paths de imágenes con formato Jekyll consistente
+
+#### **📚 Expansión de Contenido Reciente**
+- **Nuevos personajes documentados** - 13 nuevos archivos de personajes añadidos al repositorio:
+  - 2D, Cerebro, Cyberpunk, La Nueva Sombra, León Federico, Marta Alberti
+  - Martillo, Raffella Giovanni, Roberto Vázquez, Siberia, Temblores, Tifón, Zambo Mambo
+- **Actualización de El Mago** - Información expandida del personaje místico
+- **Mejoras en Cacharrero y El Matador** - Documentación más detallada
+- **Logo de Arcadia** - Añadido logo oficial del proyecto con favicon
+
+#### **🏛️ Organizaciones y Grupos**
+- **Creado grupo "Concurso Héroes o Villanos"** - Documentación completa del programa de reality show
+- **Documentado Freiglasung** - Organización anti-metahumana con información detallada
+- **Actualizada geografía de Arcadia** - Información expandida sobre la estructura de la isla
+- **Mejorada ambientación general** - Detalles adicionales del worldbuilding
+
 ### **28 de Julio de 2025**
 
 #### **🦸‍♂️ La Fuerza Oculta - Actualización Masiva**
@@ -215,4 +246,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 28 de Julio de 2025 - 23:30
+**Última actualización del historial**: 29 de Julio de 2025 - 12:45

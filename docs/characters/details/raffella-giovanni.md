@@ -1,12 +1,15 @@
 ---
-layout: page
-title: "Raffella Giovanni - La Durmiente"
+layout: character
+title: Raffella Giovanni - La Durmiente
 permalink: /characters/details/raffella-giovanni/
+slug: raffella-giovanni
 ---
 
 # Raffella Giovanni - "La Durmiente"
 
-![Raffella Giovanni]({{ site.baseurl }}/assets/img/characters/raffella-giovanni.png)
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/raffella-giovanni.png" alt="Raffella Giovanni" />
+</div>
 
 ## Información Básica
 

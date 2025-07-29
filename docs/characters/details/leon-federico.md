@@ -1,12 +1,15 @@
 ---
-layout: page
-title: "León Federico - León Rampante"
+layout: character
+title: León Federico - León Rampante
 permalink: /characters/details/leon-federico/
+slug: leon-federico
 ---
 
 # León Federico - "León Rampante"
 
-![León Federico]({{ site.baseurl }}/assets/img/characters/leon-federico.png)
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/leon-federico.png" alt="León Federico" />
+</div>
 
 ## Información Básica
 

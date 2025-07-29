@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Temblores"
+layout: character
+title: Temblores
 permalink: /characters/details/temblores/
+slug: temblores
 ---
 
 # Temblores

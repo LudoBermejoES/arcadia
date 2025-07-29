@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Siberia"
+layout: character
+title: Siberia
 permalink: /characters/details/siberia/
+slug: siberia
 ---
 
 # Siberia

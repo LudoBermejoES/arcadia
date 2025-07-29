@@ -1,12 +1,15 @@
 ---
-layout: page
-title: "Marta Alberti - Sinestesia"
+layout: character
+title: Marta Alberti - Sinestesia
 permalink: /characters/details/marta-alberti/
+slug: marta-alberti
 ---
 
 # Marta Alberti - "Sinestesia"
 
-![Marta Alberti]({{ site.baseurl }}/assets/img/characters/marta-alberti.png)
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/marta-alberti.png" alt="Marta Alberti" />
+</div>
 
 ## Información Básica
 

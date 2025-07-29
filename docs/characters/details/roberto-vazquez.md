@@ -1,12 +1,15 @@
 ---
-layout: page
-title: "Roberto Vázquez - Niño-Pulpo"
+layout: character
+title: Roberto Vázquez - Niño-Pulpo
 permalink: /characters/details/roberto-vazquez/
+slug: roberto-vazquez
 ---
 
 # Roberto Vázquez - "Niño-Pulpo" / "Octoniño"
 
-![Roberto Vázquez]({{ site.baseurl }}/assets/img/characters/roberto-vazquez.png)
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/roberto-vazquez.png" alt="Roberto Vázquez" />
+</div>
 
 ## Información Básica
 

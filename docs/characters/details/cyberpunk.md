@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Cyberpunk"
+layout: character
+title: Cyberpunk
 permalink: /characters/details/cyberpunk/
+slug: cyberpunk
 ---
 
 # Cyberpunk

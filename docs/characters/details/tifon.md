@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Tifón"
+layout: character
+title: Tifón
 permalink: /characters/details/tifon/
+slug: tifon
 ---
 
 # Tifón

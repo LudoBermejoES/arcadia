@@ -1,12 +1,15 @@
 ---
-layout: page
-title: "Cerebro"
+layout: character
+title: Cerebro
 permalink: /characters/details/cerebro/
+slug: cerebro
 ---
 
 # Cerebro
 
-![Cerebro]({{ site.baseurl }}/assets/img/characters/cerebro.png)
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/cerebro.png" alt="Cerebro" />
+</div>
 
 ## Información Básica
 

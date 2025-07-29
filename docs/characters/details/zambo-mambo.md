@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Zambo y Mambo"
+layout: character
+title: Zambo y Mambo
 permalink: /characters/details/zambo-mambo/
+slug: zambo-mambo
 ---
 
 # Zambo y Mambo

@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "La Nueva Sombra"
+layout: character
+title: La Nueva Sombra
 permalink: /characters/details/la-nueva-sombra/
+slug: la-nueva-sombra
 ---
 
 # La Nueva Sombra

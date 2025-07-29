@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "Martillo"
+layout: character
+title: Martillo
 permalink: /characters/details/martillo/
+slug: martillo
 ---
 
 # Martillo

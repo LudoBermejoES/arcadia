@@ -7,6 +7,12 @@ slug: caos
 
 # Caos
 
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Caos.png" alt="Caos" />
+</div>
+
+
 ## Información Básica
 
 **Nombre Villano**: Caos  

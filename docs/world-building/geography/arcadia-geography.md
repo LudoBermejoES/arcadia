@@ -11,9 +11,68 @@ Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser
 DISTRITO CLÁSICO
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de arcadia.
 
-DISTRITO GÓTICO
-Tomando como referente ciudades como Venecia o Praga, este edificio une canales de agua continuamente filtrada con rascacielos con formas similares a antiguas catedrales. Veinticinco manzanas residenciales, a pesar de que en los últimos años algunas empresas hayan decidido apostar por establecerse allí por el bajo coste del suelo (es uno de los pocos distritos que no tiene metro). Con calles estrechas y sinuosas, este distrito tiene un índice de criminalidad
-moderado, siendo principalmente utilizado para el contrabando.
+DISTRITO GÓTICO (BARRIO GÓTICO)
+Tomando como referente ciudades como Venecia o Praga, este distrito une canales de agua continuamente filtrada con rascacielos con formas similares a antiguas catedrales. Veinticinco manzanas residenciales, a pesar de que en los últimos años algunas empresas hayan decidido apostar por establecerse allí por el bajo coste del suelo (es uno de los pocos distritos que no tiene metro).
+
+### CARACTERÍSTICAS ÚNICAS DEL BARRIO GÓTICO
+
+**ARQUITECTURA ORGÁNICA**
+- Rascacielos diseñados como catedrales góticas medievales con tecnología moderna
+- Sistema de canales venecianos con agua continuamente filtrada por métodos desconocidos
+- Calles estrechas y sinuosas que forman un laberinto urbano complejo
+- Plaza de la Cabeza Cortada y otras ubicaciones con nombres históricos únicos
+
+**EL DISTRITO QUE VIVE**
+- **Crecimiento Orgánico**: El barrio literalmente "crece" expandiéndose de forma inexplicable
+- **Regeneración Nocturna**: Se repara automáticamente durante la noche tras daños importantes
+- **Autolimpieza**: No hay basureros ni servicios de recolección - todo desaparece misteriosamente
+- **Perfección Sobrenatural**: Restaurantes y servicios funcionan con calidad impossiblemente alta
+
+**POBLACIÓN Y SOCIEDAD ÚNICA**
+- **Refugio de Metahumanos**: Principal destino tras crisis políticas y persecuciones
+- **Códigos No Escritos**: Sistema de "pautas" que los residentes deben aprender para navegar
+- **Barbero Mentalista**: Figura local - hombre extremadamente alto con poderes telepáticos
+- **Hassir el Quiosquero**: Proveedor de mapas actualizados esenciales para la navegación
+
+**VIGILANCIA INDEPENDIENTE: LA CACERÍA SALVAJE**
+Los cinco hermanos bestiales que patrullan exclusivamente el Barrio Gótico:
+- **Vista** (18 años, líder) - Percepción visual sobrehumana, coordinación táctica
+- **Tacto** (18 años, co-líder) - Percepción táctil avanzada, liderazgo compartido
+- **Oído** (16 años) - Especialista auditiva, detección de amenazas
+- **Olfato** (16 años) - Rastreador olfativo, seguimiento de objetivos
+- **Gusto** (14 años) - Detector de sustancias, análisis químico
+
+**FENÓMENOS SOBRENATURALES**
+- **Mundo Espiritual Activo**: Lleno de "dragones, fantasmas, criaturas inmateriales"
+- **Fluctuaciones Temporales**: Durante crisis, el tiempo se comporta erráticamente
+- **Zonas Sin Espíritus**: Ciertas áreas misteriosamente vacías de actividad paranormal
+- **Interferencia Tecnológica**: Fallos electrónicos y comportamientos extraños de dispositivos
+
+**HISTORIA HEROICA DOCUMENTADA**
+- **Base Original de La Familia**: Los héroes fundacionales establecieron su primer hogar aquí
+- **Protocolo Bate**: Durante esta crisis, el barrio se desintegró temporalmente
+- **Post-Atentado Freiglasung**: Emigración masiva de metahumanos al distrito
+- **Zona de Refugio**: Territorio oficialmente seguro para metahumanos perseguidos
+
+**CONEXIONES SUBTERRÁNEAS ESPECIALIZADAS**
+- **Antigua Embajada Francesa**: Principal acceso a túneles hacia "Baja Arcadia"
+- **Madrigueras de La Cacería**: Refugios familiares adaptados para bestiales
+- **Red Independiente**: Sistema de túneles conectado pero separado de la red general
+- **múltiples Rutas de Escape**: Salidas secretas conocidas solo por vigilantes locales
+
+**ECONOMÍA ALTERNATIVA**
+- **Distrito Más Económico**: Costes de vida más bajos de toda Arcadia
+- **Intercambio de Favores**: Economía basada en servicios y relaciones personales
+- **Pensión Pepa**: Alojamiento familiar que acoge residentes y refugiados
+- **Calidad Sobrenatural**: Servicios que funcionan perfectamente sin explicación lógica
+
+**NAVEGACIÓN Y SUPERVIVENCIA**
+- **Sistema de Pautas**: Reglas no escritas esenciales para moverse seguramente
+- **Ojos de Pájaro**: Objetos mágicos que brillan para indicar direcciones correctas
+- **Mapas Constantemente Actualizados**: Necesarios debido al crecimiento continuo
+- **Conocimiento Local Vital**: Imposible navegar sin ayuda de residentes experimentados
+
+Con un índice de criminalidad moderado, el Barrio Gótico es principalmente utilizado para contrabando, pero su verdadera naturaleza trasciende la actividad criminal - es un distrito viviente que existe en simbiosis con sus habitantes metahumanos.
 
 DISTRITO FUTURISTA
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.

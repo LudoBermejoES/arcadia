@@ -73,3 +73,7 @@ paginate_path: "/page:num/"
 
 # Timezone
 timezone: Europe/Madrid
+
+# Favicon configuration
+logo: /assets/img/arcadia_logo-removebg-preview.ico
+favicon: /assets/img/arcadia_logo-removebg-preview.ico

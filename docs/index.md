@@ -1,4 +1,3 @@
-
 ---
 layout: page
 title: "Proyecto Arcadia - 15 Años de RPG Superheroico"
@@ -8,130 +7,213 @@ description: "Archivo histórico completo de tres campañas épicas de superhér
 # Proyecto Arcadia
 ## 15 Años de Narrativa Superheroica Colaborativa
 
----
-
-## 🌟 **¿Qué es Arcadia?**
-
-**Arcadia** es un **archivo histórico digital único** que documenta **15 años ininterrumpidos** de partidas de rol de superhéroes. Este proyecto contiene las notas, transcripciones y registros completos de **tres campañas interconnectadas** que han construido colaborativamente un universo narrativo épico y coherente.
+[🏠 Inicio]({{ site.baseurl }}/) | [🦸‍♂️ Personajes]({{ site.baseurl }}/characters/) | [📚 Campañas]({{ site.baseurl }}/campaigns/) | [🏛️ Grupos]({{ site.baseurl }}/groups/) | [🌍 Mundo]({{ site.baseurl }}/world-building/) | [📊 Estadísticas]({{ site.baseurl }}/stats/) | [🎬 Videos]({{ site.baseurl }}/videos/) | [📖 Historial]({{ site.baseurl }}/historial/)
 
 ---
 
-## 🦸‍♂️ **Las Tres Campañas Legendarias**
+## 🌟 **Bienvenido a Arcadia**
 
-### **[🏛️ La Familia]({{ site.baseurl }}/campaigns/la-familia/)** *(2009-2014)*
-Los **héroes fundacionales** que establecieron los cimientos del universo de Arcadia. Durante 5 años épicos, estos personajes forjaron las leyendas que inspirarían a futuras generaciones.
+Sumérgete en **15 años ininterrumpidos** de narrativa superheroica colaborativa. Desde 2010 hasta 2025, este archivo viviente documenta la evolución de un universo compartido donde cada decisión, cada personaje y cada historia han sido forjados por años de juego de rol colaborativo.
 
-**Protagonistas**: Garra, El Faraón, Esfinge, Bate, Mésmero, Estocada  
-**Sesiones**: 42 documentadas  
-**Temática**: Identidad, heroísmo fundacional, códigos éticos  
-
-### **[⚡ Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2014-2015)*
-La **generación puente** que modernizó el heroísmo arcadiano. Una nueva generación se alzó con métodos innovadores y perspectivas frescas.
-
-**Protagonistas**: Sara10/Mecánica, Espectro, Lúmen, Thomas, Alice  
-**Sesiones**: 6 clave documentadas  
-**Temática**: Innovación tecnológica, evolución heroica  
-
-### **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2024-presente)*
-Los **herederos modernos** que navegan un mundo más complejo. Tras 10 años de pausa, una nueva generación enfrenta dilemas morales sin respuestas fáciles.
-
-**Protagonistas**: Eslizón Esmeralda, Diana, Astrid/Kayface, Cia/Psique, Justa/Justicia/Sentencia, Hotman  
-**Sesiones**: 28+ activas y en curso  
-**Temática**: Meta-narrativa, complejidad moral, pérdida de privacidad  
+**Arcadia** no es solo una isla volcánica en el Atlántico - es un testimonio de lo que surge cuando la creatividad, la constancia y la pasión se encuentran durante década y media.
 
 ---
 
-## 📚 **Contenido Disponible**
+## 🎭 **Las Campañas Épicas**
 
-### **🎭 Documentación Completa**
-- **📋 Transcripciones detalladas** con timestamps de momentos clave
-- **🤖 Análisis con IA** (Gemini) para identificar patrones narrativos
-- **📊 Resúmenes sesión por sesión** con desarrollo de personajes
-- **🎵 Grabaciones originales** de momentos épicos
+<div class="campaign-grid">
 
-### **🌍 Universo Expandido**
-- **[👥 200+ Personajes]({{ site.baseurl }}/characters/)** con biografías detalladas
-- **[🏛️ Organizaciones]({{ site.baseurl }}/groups/)** heroicas, villanas y civiles
-- **[🏙️ Worldbuilding completo]({{ site.baseurl }}/world-building/)** de la ciudad de Arcadia
-- **[📅 Cronología]({{ site.baseurl }}/timeline/)** de 15 años de eventos
+### 🛡️ **[La Familia]({{ site.baseurl }}/campaigns/la-familia/)** *(2010-2015)*
+**Los Fundadores Legendarios**
+
+Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misteriosos. [Mésmero]({{ site.baseurl }}/characters/details/mesmero/), [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/), [Garra]({{ site.baseurl }}/characters/details/garra/), [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/), [Bate]({{ site.baseurl }}/characters/details/bate/) y [Estocada]({{ site.baseurl }}/characters/details/estocada/) establecieron los códigos heroicos que perduran hasta hoy.
+
+**🌟 Legado**: Salvaron Arcadia de destrucción nuclear, establecieron la infraestructura heroica moderna, y su leyenda inspira a futuras generaciones.
 
 ---
 
-## 🎯 **Características Únicas**
+### 🔄 **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2015-2020)*
+**La Generación Puente**
 
-### **🎭 Meta-Narrativa Revolucionaria**
-Los personajes descubren que son parte de un juego de rol, creando situaciones donde **los héroes encuentran gente jugando "Héroes o Villanos" con ellos como protagonistas**.
+[Sara10/Mecánica]({{ site.baseurl }}/characters/details/sara10-mecanica/), [Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/), [Lúmen]({{ site.baseurl }}/characters/details/lumen/), [Thomas/Raza]({{ site.baseurl }}/characters/details/thomas-raza/) y [Alice Tesla]({{ site.baseurl }}/characters/details/alice-tesla/) modernizaron el heroísmo, integrando tecnología avanzada y explorando conexiones interdimensionales.
 
-### **⏳ Continuidad Temporal Épica**
-**15 años de decisiones** de jugadores han moldeado la realidad del universo. Cada acción tiene consecuencias que trascienden campañas individuales.
-
-### **📖 Archivo Vivo**
-Documentación **exhaustiva y sistemática** que preserva no solo las aventuras, sino la evolución de los jugadores y sus estilos narrativos.
-
-### **🔗 Conexiones Generacionales**
-Los **mismos jugadores** interpretan diferentes personajes a lo largo de las décadas, creando **capas narrativas** únicas donde las decisiones del pasado influyen el presente.
+**🌟 Innovación**: Digitalización de la infraestructura heroica, conexiones con otras realidades, evolución tecnológica del papel heroico.
 
 ---
 
-## 🛠️ **Explora el Archivo**
+### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2020-2025)*
+**Los Herederos Complejos**
 
-### **Por Campaña**
-- **[🏛️ La Familia →]({{ site.baseurl }}/campaigns/la-familia/)** - Los orígenes heroicos
-- **[⚡ Génesis →]({{ site.baseurl }}/campaigns/genesis/)** - La evolución moderna  
-- **[🔮 La Fuerza Oculta →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - La era actual
+[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/), [Diana]({{ site.baseurl }}/characters/details/diana/), [Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/), [Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/), [Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y [Hotman]({{ site.baseurl }}/characters/details/hotman/) enfrentan dilemas morales sin respuestas claras en un mundo que los observa constantemente.
 
-### **Por Contenido**
-- **[👥 Base de Personajes →]({{ site.baseurl }}/characters/)** - Biografías completas
-- **[🏛️ Grupos y Organizaciones →]({{ site.baseurl }}/groups/)** - Facciones del universo
-- **[🌍 Construcción del Mundo →]({{ site.baseurl }}/world-building/)** - Geografía, historia, sociedad
-- **[📋 Índice Completo →]({{ site.baseurl }}/all-content.md)** - Acceso total al archivo
+**🌟 Actualidad**: Meta-narrativa consciente, adolescencia bajo presión pública, dilemas éticos de la era moderna.
+
+</div>
 
 ---
 
-## 📊 **Estadísticas del Proyecto**
+## 🏝️ **El Universo de Arcadia**
+
+### **La Isla Volcánica Única**
+**Ubicación**: Atlántico, nación-estado independiente  
+**Diseño**: 7 distritos especializados creados por el arquitecto Marius  
+**Clima**: Tropical artificialmente mantenido  
+**Población**: Comunidad metahumana más grande del mundo  
+
+### **Los Siete Distritos**
+- **🏛️ Distrito Clásico** - Centro político y administrativo
+- **🏰 Distrito Gótico** - Zona histórica residencial (territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/))
+- **🌆 Distrito Futurista** - Centro corporativo y tecnológico
+- **⛪ Distrito Eclesiástico** - Área religiosa e institucional  
+- **🌿 Distrito Biónico** - Zona residencial premium y natural
+- **🌏 Dos distritos adicionales** con especializaciones únicas
+
+---
+
+## 👥 **Más de 250 Personajes Documentados**
+
+### **🦸‍♂️ Los Héroes Legendarios**
+- **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
+- **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo  
+- **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
+- **[La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)** - Vigilantes bestiales del Barrio Gótico
+
+### **😈 Las Amenazas Persistentes**
+- **[La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula)** - Villanos teatrales obsesionados con el Siglo de Oro
+- **[Fatum Corporation]({{ site.baseurl }}/groups/character-groups/#fatum-corporation)** - Megacorporación criminal multigeneracional
+- **[Telaraña]({{ site.baseurl }}/groups/character-groups/#telaraña)** - Red criminal jerárquica principal
+- **[Humanitas]({{ site.baseurl }}/groups/character-groups/#humanitas)** - Partido político anti-metahumano
+
+### **🏛️ Las Instituciones**
+- **[MetaCorp]({{ site.baseurl }}/groups/character-groups/#metacorp)** - Policía metahumana oficial
+- **Gobierno de Arcadia** - Administración especializada en gestión metahumana
+- **Academia de Entrenamiento** - Educación para jóvenes metahumanos
+- **Red de Sastres** - Artesanos especializados en trajes heroicos
+
+---
+
+## 📊 **Un Proyecto Sin Precedentes**
 
 <div class="stats-grid">
 <div class="stat-card">
 <span class="stat-number">15</span>
-<span class="stat-label">Años Activos</span>
+<span class="stat-label">Años Ininterrumpidos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">75+</span>
+<span class="stat-number">250+</span>
+<span class="stat-label">Personajes Únicos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">50+</span>
+<span class="stat-label">Organizaciones</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">100+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">200+</span>
-<span class="stat-label">Personajes Creados</span>
+<span class="stat-number">3</span>
+<span class="stat-label">Campañas Principales</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">8</span>
-<span class="stat-label">Jugadores Únicos</span>
+<span class="stat-number">7</span>
+<span class="stat-label">Distritos Únicos</span>
 </div>
 </div>
 
 ---
 
-## 🎲 **Tecnología y Métodos**
+## 🔧 **Tecnología de Vanguardia**
 
-- **📝 Markdown** para documentación estructurada
-- **🤖 Transcripción automática** con Gemini AI
-- **📸 Capturas y momentos** preservados visualmente
-- **🔗 Enlaces temporales** para navegación en grabaciones
-- **📊 Metadatos** completos de fechas y participantes
+### **📝 Documentación Avanzada**
+- **Notas Manuales**: Escritas durante sesiones por el DM
+- **Transcripciones IA**: Gemini procesa grabaciones automáticamente
+- **Resúmenes Inteligentes**: IA genera síntesis de sesiones complejas
+- **GitHub Pages**: Documentación web profesional en tiempo real
+- **Enlaces Temporales**: Navegación directa a momentos específicos
+
+### **🎯 Precisión Documental**
+- **Timestamps**: Cada evento indexado temporalmente
+- **Referencias Cruzadas**: Conexiones entre personajes, eventos y organizaciones
+- **Imágenes Integradas**: Capturas visuales de momentos destacados
+- **Búsqueda Avanzada**: Localización instantánea de cualquier información
 
 ---
 
-## 🌟 **Un Legado Único**
+## 🌟 **Características Únicas**
 
-Este archivo no es solo un registro de partidas de rol - es el **testimonio de 15 años de amistad**, **creatividad colaborativa** y **construcción narrativa compartida**. Cada sesión representa domingos dedicados a forjar leyendas, cada personaje es una faceta de la imaginación colectiva, y cada decisión ha moldeado un universo que trasciende el juego mismo.
+### **🎭 Meta-Narrativa Avanzada**
+- **Consciencia del Juego**: Personajes descubren gente jugando "Héroes o Villanos"
+- **Tiempo Real = Tiempo Narrativo**: 15 años reales = 15 años de historia
+- **Archivo Viviente**: El proyecto se documenta a sí mismo
+- **Cuarta Pared**: Referencias directas al proceso de juego
 
-**En Arcadia, las mejores historias son las que creamos juntos.**
+### **🔄 Continuidad Generacional**
+- **Jugadores Evolutivos**: Algunos participantes en múltiples campañas
+- **Personajes Conectados**: Relaciones padre/hijo, mentor/estudiante
+- **Organizaciones Persistentes**: Grupos que evolucionan a través de eras
+- **Consecuencias Duraderas**: Acciones pasadas afectan narrativas actuales
+
+### **🌐 Ecosistema Interconectado**
+- **Múltiples Niveles**: Individual, grupal, institucional, societal
+- **Dinámicas Cambiantes**: Relaciones que evolucionan orgánicamente
+- **Historia Viviente**: Eventos del pasado influyen en el presente
+- **Complejidad Emergente**: Narrativas que surgen de interacciones
 
 ---
 
-*📅 Última actualización: Julio 2025*  
-*👥 Creado por la Mesa de Arcadia*  
-*🌐 Archivo disponible en [arcadia.ludobermejo.es](https://arcadia.ludobermejo.es)*
+## 🚀 **Explora el Universo**
+
+<div class="explore-grid">
+
+### **🦸‍♂️ [Personajes]({{ site.baseurl }}/characters/)**
+Descubre las biografías completas de más de 250 personajes únicos, desde los héroes legendarios hasta los villanos más temidos.
+
+### **📚 [Campañas]({{ site.baseurl }}/campaigns/)**
+Sumérgete en las transcripciones completas de 15 años de aventuras épicas, con notas detalladas y análisis narrativo.
+
+### **🏛️ [Grupos]({{ site.baseurl }}/groups/)**
+Explora las organizaciones que dan forma al mundo: desde equipos heroicos hasta redes criminales complejas.
+
+### **🌍 [Mundo]({{ site.baseurl }}/world-building/)**
+Conoce la geografía, historia, política y cultura de Arcadia, la isla donde todo sucede.
+
+### **📊 [Estadísticas]({{ site.baseurl }}/stats/)**
+Analiza los datos del proyecto: métricas de personajes, eventos, relaciones y evolución temporal.
+
+### **🎬 [Videos]({{ site.baseurl }}/videos/)**
+Accede a grabaciones de sesiones seleccionadas y contenido audiovisual del universo.
+
+</div>
+
+---
+
+## 💎 **Lo Que Hace Especial a Arcadia**
+
+**🎯 Coherencia Total**: Cada detalle conecta con el resto del universo  
+**📈 Evolución Orgánica**: 15 años de desarrollo natural sin planificación previa  
+**🎭 Profundidad Narrativa**: Múltiples capas de significado en cada historia  
+**🔄 Continuidad Perfecta**: Enlaces entre todas las épocas y campañas  
+**🌟 Originalidad Absoluta**: Un universo completamente único y personal  
+**📚 Documentación Completa**: Cada momento preservado para la posteridad
+
+---
+
+## 🎊 **Una Invitación al Asombro**
+
+**Arcadia** no es solo entretenimiento - es un **experimento social único** sobre lo que puede lograr un grupo de personas cuando mantienen una visión compartida durante década y media.
+
+Cada página que explores, cada personaje que conozcas, cada historia que leas, forma parte de un tapiz narrativo que no existe en ningún otro lugar del mundo.
+
+**Bienvenido a 15 años de sueños hechos realidad.**
+
+---
+
+*Última actualización: Julio 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
+
+**[🔍 Buscar Contenido]({{ site.baseurl }}/search/) | [📖 Historial de Cambios]({{ site.baseurl }}/historial/) | [📊 Estadísticas Completas]({{ site.baseurl }}/stats/)**

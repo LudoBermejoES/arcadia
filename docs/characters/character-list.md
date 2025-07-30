@@ -31,8 +31,10 @@ permalink: /characters/character-list/
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
 
 ### Gobierno y Administración
-- [Ignacio Rodriguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez-condestable/)
+- [Ignacio Rodríguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez/)
 - [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos universitarios)
+- [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)
+- [Leopoldo Gómez]({{ site.baseurl }}/characters/details/leopoldo-gomez/)
 
 ## Metahumanos Héroes y Vigilantes
 
@@ -124,7 +126,7 @@ permalink: /characters/character-list/
 - [LSD]({{ site.baseurl }}/characters/details/lsd/)
 - [El Matador]({{ site.baseurl }}/characters/details/el-matador/)
 - [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
-- [Las Hermanas Magdalena]({{ site.baseurl }}/characters/details/las-hermanas-magdalena/)
+- [Hermanas Magdalena]({{ site.baseurl }}/characters/details/hermanas-magdalena/)
 - [La Reina Cobra]({{ site.baseurl }}/characters/details/la-reina-cobra/)
 - [El Guardián]({{ site.baseurl }}/characters/details/el-guardian/)
 
@@ -147,13 +149,13 @@ permalink: /characters/character-list/
 ## Comunidades Específicas
 
 ### Distrito Gótico
-- Anianca
-- Natacha
-- Gregor (carnicero)
-- Hassir (quiosquero/vendedor de periódicos)
-- Julián (cocinero del albergue, conexiones mafiosas)
-- Las monjas del albergue
-- Señora Pepa (regenta pensión)
+- [Anianca]({{ site.baseurl }}/characters/details/anianca/)
+- [Natacha]({{ site.baseurl }}/characters/details/natacha/)
+- [Gregor]({{ site.baseurl }}/characters/details/gregor/) (carnicero)
+- [Hassir]({{ site.baseurl }}/characters/details/hassir/) (quiosquero/vendedor de periódicos)
+- [Julian]({{ site.baseurl }}/characters/details/julian/) (cocinero del albergue, conexiones mafiosas)
+- [Las Monjas del Albergue]({{ site.baseurl }}/characters/details/las-monjas-del-albergue/)
+- [Señora Pepa]({{ site.baseurl }}/characters/details/senora-pepa/) (regenta pensión)
 
 ## Grupos de Protagonistas
 
@@ -175,11 +177,11 @@ permalink: /characters/character-list/
 
 ### Profesionales Médicos
 - [Luis Montenegro]({{ site.baseurl }}/characters/details/luis-montenegro/) (hermano de Esfinge, especialista en medicina metahumana)
-- [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/) (director de hospital, trata metahumanos peligrosos)
-- Mia Tanaka
-- Dani Rodriguez
-- Lorena Sanchez
-- Dr. Jman
+- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
+- [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
+- [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/)
+- [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
+- [Dr. Jman]({{ site.baseurl }}/characters/details/dr-jman/)
 
 ### La Fuerza Oculta
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
@@ -213,12 +215,13 @@ permalink: /characters/character-list/
 - [La Nueva Sombra]({{ site.baseurl }}/characters/details/la-nueva-sombra/) (acróbata enmascarada)
 - [Zambo y Mambo]({{ site.baseurl }}/characters/details/zambo-mambo/) (gemelos de metal orgánico, hijos de Manny)
 
-### La Cacería Salvaje
+## La Cacería Salvaje
 - [Vista]({{ site.baseurl }}/characters/details/vista/) (18 años, Varón, Líder)
 - [Tacto]({{ site.baseurl }}/characters/details/tacto/) (18 años, Hembra, Co-líder)
 - [Oído]({{ site.baseurl }}/characters/details/oido/) (16 años, Hembra)
 - [Olfato]({{ site.baseurl }}/characters/details/olfato/) (16 años, Varón)
 - [Gusto]({{ site.baseurl }}/characters/details/gusto/) (14 años, Varón)
+- [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/) (grupo completo)
 
 #### Jugadores y Staff
 - Eduardo Vaquerizo (jugador/GM)
@@ -244,11 +247,11 @@ permalink: /characters/character-list/
 - Los Barones de Telaraña
 - Las Bestias
 - Los Cazadores
+- [Puño Gris]({{ site.baseurl }}/characters/details/puno-gris/) (mafia asiática)
 
 ## Otros Personajes Notables
 
 ### Artesanos y Profesionales
-- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
 - [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
 - [Federico López ("El Sastre")]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre tradicional, mentor y rival de Charada)
 
@@ -262,19 +265,19 @@ permalink: /characters/character-list/
 - [Yeng]({{ site.baseurl }}/characters/details/yeng/) (comerciante del mercado negro en la subciudad)
 
 ### Civiles y Familiares
-- Francisco (hermano de Jorge, discapacitado)
-- Elena Fuentes
-- Ignacio Fuentes
-- Gomez (forense)
-- Marta Heredia (colega de Ignacio, asesinada)
-- Marta Gutierrez (caso de la empática)
+- [Francisco]({{ site.baseurl }}/characters/details/francisco/) (hermano de Jorge, discapacitado)
+- [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/)
+- [Ignacio Fuentes]({{ site.baseurl }}/characters/details/ignacio-fuentes/) (técnico de OMA, desaparecido)
+- [Gomez]({{ site.baseurl }}/characters/details/gomez/) (forense)
+- [Marta Heredia]({{ site.baseurl }}/characters/details/marta-heredia/) (colega de Ignacio, asesinada)
+- [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)
 
 ### Fuerzas Especiales y Militares
-- Los Rayos (fuerza militar bajo General Martínez)
+- [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar bajo General Martínez)
 - El Oriental Tormenta
 
 ### Personajes Internacionales
-- Rey Ofobutu (rey africano metahumano)
+- [Rey Ofobutu]({{ site.baseurl }}/characters/details/rey-ofobutu/) (rey africano metahumano)
 
 ---
 

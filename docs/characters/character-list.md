@@ -179,7 +179,7 @@ permalink: /characters/character-list/
 - [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
 - [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/)
 - [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
-- [Dr. Jman]({{ site.baseurl }}/characters/details/dr-jman/)
+- [Dr. Hotman]({{ site.baseurl }}/characters/details/dr-Hotman/)
 
 ### La Fuerza Oculta
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)

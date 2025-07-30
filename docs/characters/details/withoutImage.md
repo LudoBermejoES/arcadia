@@ -36,7 +36,7 @@ The following 87 characters currently lack visual representation in their docume
 17. **Destino** (destino.md)
 18. **Diablo** (diablo.md)
 19. **Diana** (diana.md)
-20. **Dr. Jman** (dr-jman.md)
+20. **Dr. Hotman** (dr-Hotman.md)
 
 ### E
 21. **Ego** (ego.md)

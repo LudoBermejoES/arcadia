@@ -4269,7 +4269,7 @@ Al principio de la sesión, Kauneda Arashi y Ludo Bermejo tuvieron problemas de 
 
 **Eduardo Vaquerizo:** Ya,
 **Ludo Bermejo:** ¿Qué poder,
-**Eduardo Vaquerizo:** pero el Dr. Jman no tiene ese poder, seguro, creo
+**Eduardo Vaquerizo:** pero el Dr. Hotman no tiene ese poder, seguro, creo
 **Ludo Bermejo:** qué va?
 **Eduardo Vaquerizo:** el de entrar
 **Ludo Bermejo:** Sabe

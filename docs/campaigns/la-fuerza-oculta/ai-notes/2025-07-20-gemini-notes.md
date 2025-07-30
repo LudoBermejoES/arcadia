@@ -1404,7 +1404,7 @@ El equipo, compuesto por Eduardo Vaquerizo, Ludo Bermejo, Hotman, Justa, Lizón,
 **Eduardo Vaquerizo:** todos por si la cosa sale mal y Juan intentar reducirle y si se pone a disparar pues nos lo cargamos.
 **Kauneda Arashi:** Pero
 **Ludo Bermejo:** Vale,
-**Kauneda Arashi:** Jman no
+**Kauneda Arashi:** Hotman no
 **Ludo Bermejo:** ¿cómo
 **Kauneda Arashi:** puede.
 **Ludo Bermejo:** cómo
@@ -4219,7 +4219,7 @@ El equipo, compuesto por Eduardo Vaquerizo, Ludo Bermejo, Hotman, Justa, Lizón,
 **Alejandro Salamanca:** va a pasar.
 **Kauneda Arashi:** no ahora,
 **Eduardo Vaquerizo:** Bueno,
-**Kauneda Arashi:** Jman, ahora céntrate, ¿eh?
+**Kauneda Arashi:** Hotman, ahora céntrate, ¿eh?
 **Eduardo Vaquerizo:** bro,
 **Xavi Gracia:** Vale.
 **Eduardo Vaquerizo:** ¿dónde está? Me ha tocado un épico. Bueno, pues

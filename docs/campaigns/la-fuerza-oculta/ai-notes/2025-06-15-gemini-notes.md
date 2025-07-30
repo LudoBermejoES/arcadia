@@ -2208,7 +2208,7 @@ Sugus Blanco, Kauneda Arashi, Ludo Bermejo, Eduardo Vaquerizo, y Xavi Gracia res
 **Kauneda Arashi:** O sea, no
 **Eduardo Vaquerizo:** pobre, pobre Hotman.
 **Ludo Bermejo:** Sí, pero es así. Como es que no las entiendo.
-**Kauneda Arashi:** porque no nos entiendes. O sea, yo con Jman tengo una relación de amor odio, o sea, me
+**Kauneda Arashi:** porque no nos entiendes. O sea, yo con Hotman tengo una relación de amor odio, o sea, me
 **Eduardo Vaquerizo:** Mientras
 **Kauneda Arashi:** da pénica, me da
 **Eduardo Vaquerizo:** no
@@ -2458,8 +2458,8 @@ Sugus Blanco, Kauneda Arashi, Ludo Bermejo, Eduardo Vaquerizo, y Xavi Gracia res
 
 **Eduardo Vaquerizo:** No, no, no. Pues cuando esté JR lo hacemos.
 **Kauneda Arashi:** Hay,
-**Eduardo Vaquerizo:** Me voy a la cocina y digo, "Jman, ¿dónde c\*\*\* estás?
-**Ludo Bermejo:** Jman está llorando por algún lado.
+**Eduardo Vaquerizo:** Me voy a la cocina y digo, "Hotman, ¿dónde c\*\*\* estás?
+**Ludo Bermejo:** Hotman está llorando por algún lado.
 **Eduardo Vaquerizo:** Voy a
 **Ludo Bermejo:** Está
 **Eduardo Vaquerizo:** buscar

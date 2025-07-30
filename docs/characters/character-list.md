@@ -175,9 +175,9 @@ permalink: /characters/character-list/
 
 ### Profesionales Médicos
 - [Luis Montenegro]({{ site.baseurl }}/characters/details/luis-montenegro/) (hermano de Esfinge, especialista en medicina metahumana)
-- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/)
+- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/) (especialista en historia metahumana, Museo de Metahumanos)
 - [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
-- [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/)
+- [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/) (camarógrafo especializado en investigación paranormal)
 - [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
 - [Dr. Hotman]({{ site.baseurl }}/characters/details/dr-Hotman/)
 
@@ -264,9 +264,9 @@ permalink: /characters/character-list/
 
 ### Civiles y Familiares
 - [Francisco]({{ site.baseurl }}/characters/details/francisco/) (hermano de Jorge, discapacitado)
-- [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/)
+- [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/) (hermana de Ignacio, testigo clave caso Hermanas Magdalena)
 - [Ignacio Fuentes]({{ site.baseurl }}/characters/details/ignacio-fuentes/) (técnico de OMA, desaparecido)
-- [Gomez]({{ site.baseurl }}/characters/details/gomez/) (forense)
+- [Marcial Gomez]({{ site.baseurl }}/characters/details/marcial-gomez/) (forense envejecido, desaparecido)
 - [Marta Heredia]({{ site.baseurl }}/characters/details/marta-heredia/) (colega de Ignacio, asesinada)
 - [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)
 

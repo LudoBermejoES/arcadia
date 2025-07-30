@@ -12,6 +12,26 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Julio 2025**
 
+### **30 de Julio de 2025**
+
+#### **🔄 Actualización Masiva de Personajes**
+- **Personajes actualizados con información de campañas** - Búsqueda exhaustiva en todas las campañas para reemplazar descripciones genéricas:
+  - **El Viejo/Creador**: Fusionado en una sola ficha, revelado como científico creador de las Bestias
+  - **Destino**: Actualizado como criminal calculador de probabilidades ("0.7% de supervivencia para los próximos 5 años")
+  - **Diablo**: Revelado como primer metahumano estatal con vuelo cercano a velocidad de luz, contexto cubano de Guerra Fría
+  - **Doctor Anselmo**: Expandido con trasfondo trágico de pérdida de tres hijos metahumanos por fallo genético
+  - **EGO**: Detallado como criminal acorazado con métodos brutales ("mata a todos los empleados de los lugares que asalta")
+  - **El Emperador Oscuro**: Reescrito completamente como entidad extraplanar de caos primordial con manipulación de memoria
+  - **Elena Fuentes**: Actualizada como hermana de Ignacio Fuentes, testigo clave en caso Hermanas Magdalena
+  - **Gregor**: Expandido como carnicero del Barrio Gótico, figura comunitaria establecida
+  - **Marcial Gomez**: Renombrado de "Gomez", actualizado con historia completa del forense envejecido 30 años tras incidente sobrenatural
+  - **Hassir**: Actualizado como quiosquero del Barrio Gótico, proveedor de periódicos y mapas
+
+#### **📝 Mantenimiento de Documentación**
+- **Lista de personajes actualizada** - Incorporados todos los cambios recientes con descripciones precisas
+- **Enlaces corregidos** - Actualizado enlace de Marcial Gomez tras renombrado de archivo
+- **Consistencia narrativa** - Todas las fichas ahora basadas en apariciones reales en campañas en lugar de descripciones genéricas
+
 ### **29 de Julio de 2025**
 
 #### **🖼️ Actualización de Imágenes de Personajes**
@@ -246,4 +266,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 29 de Julio de 2025 - 12:45
+**Última actualización del historial**: 30 de Julio de 2025 - 14:30

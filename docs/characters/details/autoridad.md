@@ -7,17 +7,22 @@ slug: autoridad
 
 # Autoridad
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/autoridad.png" alt="Astrid / Kayface" />
+</div>
+
+
 ## Información Básica
 
 **Nombre Heroico**: Autoridad  
-**Categoría**: Metahumanos Héroes y Vigilantes - Antiguos Héroes  
-**Estado**: Inactivo/Retirado  
-**Clasificación**: Héroe Histórico  
-**Período de Actividad**: Era Pre-Clásica
+**Categoría**: Antiguos Héroes → Barón de Telaraña (Caído)  
+**Estado**: Desaparecido/Paradero Desconocido  
+**Clasificación**: Héroe Histórico Corrompido  
+**Período de Actividad**: Era Pre-Clásica → Barón Criminal → Desaparecido
 
 ## Descripción
 
-Autoridad es un héroe histórico de Arcadia que operó durante las primeras eras del heroísmo metahumano. Su nombre sugiere poderes relacionados con el liderazgo, control o influencia, y representa una figura de autoridad moral y práctica en la comunidad heroica temprana.
+Autoridad representa **una de las historias más trágicas del heroísmo de Arcadia**: un héroe fundacional que se convirtió en criminal de alto rango antes de desaparecer misteriosamente. Su caída desde héroe histórico hasta **Barón de Telaraña** ilustra los peligros de la obsesión por el conocimiento prohibido y la corrupción del poder.
 
 ## Poderes Sugeridos
 
@@ -35,37 +40,91 @@ Su denominación como "Autoridad" sugiere:
 - Capacidad de coordinar grupos heroicos
 - Influencia moral en la comunidad
 
-## Contexto Histórico
+## Historia Heroica (Era Pre-Clásica)
 
-### Era de Antiguos Héroes
-Autoridad operó durante los períodos formativos del heroísmo en Arcadia, cuando se establecían las primeras tradiciones y códigos heroicos.
+### **Grupo Heroico Fundacional**
+Autoridad fue miembro de uno de los **grupos heroicos más antiguos de Arcadia**, junto con:
+- **La Comadreja Negra** (The Black Weasel)
+- **Psicodalia** (poderes psíquicos que enloquecían a la gente)
+- **Venus** (quien posteriormente se convirtió en la oráculo Sibila)
 
-### Legado de Liderazgo
-Su estatus como héroe histórico sugiere que:
-- Estableció precedentes de liderazgo heroico
-- Influyó en la organización temprana de grupos heroicos
-- Contribuyó al desarrollo de códigos éticos heroicos
+### **Legado Heroico Original**
+Como héroe fundacional:
+- **Estableció precedentes** de liderazgo heroico en Arcadia
+- **Influyó en la organización** de los primeros grupos heroicos
+- **Contribuyó al desarrollo** de códigos éticos heroicos
+- **Sirvió como figura moral** de referencia para otros héroes
 
-## Relaciones
+## La Corrupción: Obsesión Fatal
 
-### Contemporáneos Históricos
-- **Venus/Sibila**: Heroína de la misma era
-- **Psicodalia**: Compañera histórica
-- **La Desconocida**: Heroína contemporánea
-- **Los Defensores**: Posible conexión con grupo histórico
+### **La Búsqueda Peligrosa**
+La caída de Autoridad comenzó con una **obsesión destructiva**:
+- Se volvió **obsesionado con descubrir el origen de los metahumanos**
+- Esta búsqueda de conocimiento prohibido se convirtió en su perdición
+- La investigación lo llevó por caminos oscuros que corrompieron sus ideales heroicos
+- **Su noble búsqueda de verdad** se transformó en ambición corrupta
 
-## Rol Histórico
+### **Transformación Criminal**
+La obsesión llevó a Autoridad a:
+- **Abandonar completamente** sus principios heroicos
+- **Unirse a Telaraña**, la organización criminal más poderosa de Arcadia
+- **Convertirse en Barón**, uno de los lugartenientes de alto rango
+- **Adoptar máscara y túnica roja**, los distintivos de los Barones de Telaraña
 
-### Figura de Liderazgo
-Como "Autoridad", probablemente sirvió como:
-- Líder o coordinador de grupos heroicos tempranos
-- Figura moral de referencia para otros héroes
-- Establecedor de protocolos y tradiciones heroicas
+## Telaraña: La Era Criminal
 
-## Estado Actual
+### **Organización Telaraña**
+Como **Barón de Telaraña**, Autoridad se convirtió en:
+- **Lugarteniente de alto rango** de la organización criminal más poderosa de Arcadia
+- **Líder regional** con control sobre aspectos específicos del imperio criminal
+- **Usuario de máscara y túnica roja**, distintivos de los Barones
+- **Coordinador criminal** utilizando sus habilidades de liderazgo para fines nefastos
 
-### Retiro Histórico
-Su clasificación como "antiguo héroe" indica que ya no está activo, habiendo pasado a la historia como figura fundacional del heroísmo arcadiano.
+### **Otros Barones Contemporáneos**
+- **Pastel de Carne**: Barón especializado en asesinatos para Telaraña
+- **Otros Barones**: Varios lugartenientes que controlan diferentes aspectos de la organización
+
+## El Misterio Actual: Desaparición
+
+### **Desaparición Inexplicable (La Familia Session 20)**
+**"Hace meses que Autoridad desapareció"**:
+- **Desaparecido incluso para Telaraña**: Su paradero es desconocido hasta para la organización criminal
+- **Misterio sin resolver**: Ni aliados ni enemigos saben dónde está
+- **Timing sospechoso**: Su desaparición coincide con eventos relacionados con La Familia
+- **Múltiples teorías**: Muerte, huida, o involucración en algo aún más profundo
+
+### **Implicaciones de la Desaparición**
+- **Vacío de poder** en la estructura de Telaraña
+- **Preguntas sin respuesta** sobre sus investigaciones sobre el origen metahumano
+- **Posible conexión** con eventos actuales que involucran a La Familia
+- **Destino incierto** de décadas de conocimiento acumulado
+
+## Relaciones a Través del Tiempo
+
+### **Compañeros Heroicos Originales**
+- **La Comadreja Negra**: Antigua compañera que posteriormente ayudó a La Familia
+- **Venus/Sibila**: Heroína contemporánea que se convirtió en oráculo
+- **Psicodalia**: Compañera que enloquecía a la gente, se volvió loca en 1984
+
+### **Conexiones Criminales**
+- **Telaraña (El Líder)**: El misterioso líder de la organización criminal
+- **Otros Barones**: Colegas criminales de alto rango
+- **La Familia**: Enemigos heroicos que investigan la organización
+
+## Significado Narrativo
+
+### **Tema de la Corrupción Heroica**
+Autoridad representa **el peligro de la búsqueda de conocimiento sin límites éticos**:
+- **Noble intención corrompida**: La búsqueda del origen metahumano se volvió obsesión
+- **Caída gradual**: De héroe fundacional a criminal de alto rango
+- **Pérdida de identidad**: Abandono completo de principios heroicos originales
+- **Advertencia narrativa**: Sobre los peligros de la ambición descontrolada
+
+### **Misterio Persistente**
+- **Desaparición sin explicación** añade otra capa de intriga
+- **Conocimiento perdido** sobre los orígenes metahumanos
+- **Posible regreso futuro** como elemento narrativo
+- **Conexión con eventos actuales** aún por revelar
 
 ## Apariciones Documentadas
 - [La Familia Session 03](../../campaigns/la-familia/session-03.md)

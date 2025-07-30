@@ -8,7 +8,7 @@ slug: ignacio-rodriguez
 # Ignacio Rodríguez
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/basteignacio-rodriguezt.png" alt="Ignacio Rodríguez" />
+  <img src="{{ site.baseurl }}/assets/img/characters/ignacio-rodriguez.png" alt="Ignacio Rodríguez" />
 </div>
 
 ## Presentación

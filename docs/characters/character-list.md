@@ -74,7 +74,6 @@ permalink: /characters/character-list/
 - [Pañuelo]({{ site.baseurl }}/characters/details/panuelo/)
 - [Caos]({{ site.baseurl }}/characters/details/caos/)
 - [SuperGlue]({{ site.baseurl }}/characters/details/superglue/)
-- [Creador]({{ site.baseurl }}/characters/details/creador/)
 - [Parda]({{ site.baseurl }}/characters/details/parda/)
 - [Rojo]({{ site.baseurl }}/characters/details/rojo/)
 - [EGO]({{ site.baseurl }}/characters/details/ego/)

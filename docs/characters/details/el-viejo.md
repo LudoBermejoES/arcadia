@@ -12,14 +12,16 @@ slug: el-viejo
 </div>
 
 ## Presentación
-**El Viejo** es el enigmático creador y líder de las **Bestias**, una de las organizaciones criminales más peligrosas de Arcadia. Según los testimonios documentados durante las investigaciones de **La Familia**, se trata de un **biólogo** que experimentó con la creación de seres híbridos metahumano-bestiales, estableciendo una comuna subterránea donde vive desnudo y en comunión con sus creaciones.
+**El Viejo** (conocido también como **"Creador"**) es el enigmático creador y líder de las **Bestias**, una de las organizaciones criminales más peligrosas de Arcadia. Según los testimonios documentados durante las investigaciones de **La Familia**, se trata de un **biólogo científico** que experimentó con la creación de seres híbridos metahumano-bestiales mediante ingeniería genética avanzada, estableciendo una comuna subterránea donde vive desnudo y en comunión con sus creaciones. Su trabajo representa la fusión peligrosa entre ciencia avanzada y experimentación sin límites éticos.
 
 ## Identidad y Trasfondo
 
-### **Profesión Original: Biólogo**
-- **Formación Científica**: Era un biólogo con conocimientos avanzados en experimentación genética y transformación biológica
+### **Profesión Original: Biólogo Científico**
+- **Formación Científica**: Era un biólogo con conocimientos avanzados en **ingeniería genética**, experimentación biológica y **creación de vida metahumana**
+- **Alias "Creador"**: Conocido por este nombre debido a sus capacidades para **crear formas de vida conscientes**
 - **Motivación**: Las razones exactas que lo llevaron a crear las Bestias permanecen desconocidas
 - **Transformación Personal**: Abandonó la sociedad convencional para vivir como líder de una comunidad bestial underground
+- **Especialización**: Experto en **manipulación biológica** y diseño de características específicas en sus creaciones
 
 ### **Apariencia y Comportamiento**
 - **Descripción Física**: Aparece como un humano completamente desnudo
@@ -27,37 +29,43 @@ slug: el-viejo
 - **Estilo de Vida**: Mantiene un estilo de vida primitivo pero con tecnología moderna (fluorescentes, plantas de invernadero)
 - **Autoridad**: Es reconocido como líder absoluto por las Bestias
 
-## El Cubil de las Bestias
+## El Cubil de las Bestias - Laboratorio Científico
 
 ### **Ubicación del Refugio**
 - **Lugar**: Caverna de piedra volcánica ubicada en los túneles subterráneos de Arcadia
 - **Estructura**: Caverna de 200 metros cuadrados con cubículos en los costados y una choza central
-- **Equipamiento**: Plantas de invernadero, múltiples fluorescentes, instalaciones básicas
+- **Equipamiento**: **Laboratorio biológico avanzado** con plantas de invernadero, múltiples fluorescentes, instalaciones científicas
 - **Acceso**: Solo accesible a través de **La Reina Cobra**, quien transporta visitantes mediante mesmerización
+- **Conexiones**: Conectado a la **antigua Embajada Francesa** mediante pasajes subterráneos
 
-### **Organización del Espacio**
-- **Choza Central**: Vivienda personal de El Viejo
-- **Cubículos Laterales**: Espacios para las diferentes Bestias que viven en el cubil
-- **Área de Cultivo**: Jardines especializados para el sustento de la comunidad
-- **Infraestructura**: Sistema eléctrico y ventilación adaptados a la vida subterránea
+### **Organización del Espacio Científico**
+- **Choza Central**: Vivienda personal de El Viejo y centro de operaciones
+- **Cubículos Laterales**: **Posibles áreas de experimentación** o alojamiento para las Bestias
+- **Área de Cultivo**: **Invernaderos especializados** para cultivo de plantas científicas
+- **Infraestructura**: Sistema eléctrico y ventilación adaptados a la **investigación biológica subterránea**
+- **Equipamiento científico**: **Equipamiento avanzado para creación de vida** y experimentación genética
 
 ## Relación con las Bestias
 
-### **Proceso de Creación**
-- **Método**: Utilizó sus conocimientos biológicos para crear seres híbridos con características bestiales
-- **Vínculo Especial**: Mantiene una conexión sobrenatural con sus "hijos" creados
-- **Control**: Puede identificar a aquellas Bestias que han rechazado su autoridad
+### **Proceso de Creación Científica**
+- **Método**: Utilizó **ingeniería genética avanzada** para crear **metahumanos bestiales** con características específicas
+- **Especialización**: **"Él creó a las Bestias, era un biólogo"** - testimonio documentado
+- **Vínculo Psíquico**: Mantiene **conexión telepática** con sus creaciones originales
+- **Control Mental**: Puede **influir en comportamiento** de las Bestias mediante enlace psíquico
+- **Limitaciones**: La conexión **puede romperse** si las criaturas lo rechazan conscientemente
 
-### **Señales de Rechazo**
-El Viejo explicó a La Familia las características distintivas de las Bestias que lo han rechazado:
+### **Señales de Rechazo y Pérdida de Control**
+El Viejo explicó a La Familia las características distintivas de las Bestias que han roto su vínculo telepático:
 - **Ojo Izquierdo Nublado**: Signo de haber roto el vínculo con su creador
-- **Cara Cruzada por Garras**: Automutilación ritual para eliminar la conexión
+- **Cara Cruzada por Garras**: **Automutilación para perder el vínculo** con el creador
 - **Status**: Estas Bestias rebeldes ya no son consideradas sus "hijos"
+- **Pérdida de Control**: Las Bestias pueden **"mutilarse para perder el vínculo con su creador"**
 
-### **Casos Especiales**
-- **Estocada**: No era una Bestia original, sino que se unió al grupo por circunstancias
-- **Hijos de Estocada**: Los descendientes de Estocada no poseen el vínculo sobrenatural con El Viejo
-- **Desarrollo Futuro**: Los hijos de Estocada podrían manifestar genes metahumanos durante la pubertad
+### **Casos Especiales y Limitaciones de Creación**
+- **Estocada**: **No fue creado por él**, sino que **se unió al grupo** voluntariamente
+- **Descendencia Natural**: Las **crías de Estocada** nacieron **sin vínculo psíquico**
+- **Desarrollo Futuro**: Los cachorros pueden **manifestar genes metahumanos en la pubertad**
+- **Limitaciones del Creador**: **No pudo crear** ni controlar a Estocada (se unió voluntariamente)
 
 ## Encuentro con La Familia
 
@@ -85,13 +93,19 @@ El Viejo reveló datos cruciales durante este encuentro:
 - **Status**: No eran "hijos del cubil" y por tanto no tenían obligación de regresar
 - **Bienestar**: El Viejo expresó alegría de que estuvieran "en buenas manos"
 
-## Conocimientos Especializados
+## Capacidades Científicas Avanzadas
 
-### **Biología de las Bestias**
-- **Anatomía**: Comprende perfectamente la fisiología de sus creaciones
-- **Genética**: Conoce los procesos hereditarios y de transformación
-- **Vínculos Sobrenaturales**: Mantiene conexiones psíquicas con sus "hijos"
-- **Identificación**: Puede distinguir entre Bestias leales y rebeldes
+### **Creación Biológica**
+- **Ingeniería Genética**: Capaz de crear **metahumanos bestiales** con características específicas
+- **Manipulación Biológica**: Diseña características específicas en sus creaciones
+- **Experimentación Continua**: Mantiene laboratorio activo para nuevos proyectos
+- **Conocimiento Avanzado**: Comprensión profunda de **genética metahumana**
+
+### **Conexión Psíquica con Creaciones**
+- **Enlace Mental**: Mantiene **conexión psíquica** con las Bestias que crea
+- **Control Telepático**: Puede influir en comportamiento de sus creaciones
+- **Vínculo Frágil**: La conexión **puede romperse** si las criaturas lo rechazan
+- **Identificación**: Puede distinguir entre Bestias leales y rebeldes que han roto el vínculo
 
 ### **Información de Inteligencia**
 - **Red de Contactos**: Mantiene informadores en diferentes organizaciones
@@ -137,9 +151,10 @@ El Viejo reveló datos cruciales durante este encuentro:
 
 ### **Preguntas Fundamentales**
 - **¿Cuál fue la motivación original para crear las Bestias?**
-- **¿Qué métodos científicos específicos utilizó en sus experimentos?**
+- **¿Qué métodos científicos específicos utilizó en sus experimentos de ingeniería genética?**
 - **¿Mantiene contacto con la comunidad científica legítima?**
 - **¿Existen otros experimentos o creaciones además de las Bestias?**
+- **¿Por qué adoptó el alias "Creador" en lugar de usar su nombre real?**
 
 ### **Conexiones Potenciales**
 - **Vínculos Académicos**: Posibles conexiones con universidades o laboratorios
@@ -147,6 +162,24 @@ El Viejo reveló datos cruciales durante este encuentro:
 - **Tecnología**: Acceso a equipos especializados para experimentación
 - **Colaboradores**: Otros científicos que puedan conocer o apoyar su trabajo
 
+## Significado Narrativo
+
+### **Ciencia Sin Ética**
+El Viejo/Creador representa **los peligros de la experimentación sin límites morales**:
+- **Creación de vida**: Poder divino ejercido sin responsabilidad ética
+- **Consecuencias duraderas**: Sus experimentos generan conflictos continuos
+- **Ambigüedad moral**: No claramente villano, pero tampoco completamente benévolo
+- **Responsabilidad científica**: Cuestiona los límites de la investigación biológica
+
+### **Temas de Paternidad y Control**
+- **Creador vs Padre**: Diferencia entre crear vida y cuidarla responsablemente
+- **Control telepático**: Poder de influir mentalmente en seres conscientes
+- **Rebelión de creaciones**: Derecho de los seres creados a rechazar a su creador
+- **Independencia evolutiva**: Las creaciones pueden desarrollarse más allá de su diseño original
+
+## Apariciones Documentadas
+- **La Familia Sesión 15**: Encuentro directo con revelaciones sobre Estocada y los Cazadores
+
 ---
 
-*El Viejo representa una figura única en el panorama criminal de Arcadia: un científico que abandonó la sociedad convencional para crear una familia alternativa basada en experimentación biológica y vínculos sobrenaturales. Su liderazgo de las Bestias demuestra que incluso en el submundo pueden surgir formas complejas de organización social y lealtad.*
+*El Viejo/Creador representa una figura única en el panorama criminal de Arcadia: un científico que abandonó la sociedad convencional para crear una familia alternativa basada en experimentación biológica avanzada y vínculos telepáticos. Su trabajo demuestra que el poder de crear vida consciente conlleva consecuencias impredecibles que se extienden mucho más allá de las intenciones originales del creador.*

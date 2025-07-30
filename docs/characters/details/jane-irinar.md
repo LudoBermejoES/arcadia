@@ -7,6 +7,10 @@ slug: jane-irinar
 
 # Jane Irinar
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/jane-irinar.png" alt="Jane Irinar" />
+</div>
+
 ## Presentación
 Jane Irinar es una figura prominente en el mundo del cine y entretenimiento de Arcadia. Su presencia en los registros oficiales indica que ha alcanzado un nivel de fama y reconocimiento notable dentro de la industria del espectáculo de la ciudad.
 

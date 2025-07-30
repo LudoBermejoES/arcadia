@@ -128,7 +128,6 @@ permalink: /characters/character-list/
 - [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
 - [Hermanas Magdalena]({{ site.baseurl }}/characters/details/hermanas-magdalena/)
 - [La Reina Cobra]({{ site.baseurl }}/characters/details/la-reina-cobra/)
-- [El Guardián]({{ site.baseurl }}/characters/details/el-guardian/)
 
 ## Seres Antiguos y Sobrenaturales
 
@@ -144,7 +143,7 @@ permalink: /characters/character-list/
 ## Tecnología e Inteligencia Artificial
 
 ### IA y Androides
-- [ADAN]({{ site.baseurl }}/characters/details/adan/)
+- [El Guardián]({{ site.baseurl }}/characters/details/el-guardian/) (IA holográfica avanzada)
 
 ## Comunidades Específicas
 

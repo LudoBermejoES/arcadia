@@ -7,6 +7,10 @@ slug: rey-ofobutu
 
 # Rey Ofobutu
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/rey-ofobutu.png" alt="Rey Ofobutu" />
+</div>
+
 ## Presentación
 **Rey Ofobutu** es el **"Gran Señor de Centroáfrica"**, un **rey metahumano** que gobierna el territorio del **Congo** y comanda **ejércitos de espíritus**. Este poderoso líder africano combina **autoridad política tradicional** con **capacidades sobrenaturales** relacionadas con la **manipulación espiritual** y la **proyección astral**. Su única aparición documentada lo reveló como una **figura siniestra** involucrada en **torturas espirituales** de víctimas inocentes.
 

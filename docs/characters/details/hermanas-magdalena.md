@@ -7,6 +7,10 @@ slug: hermanas-magdalena
 
 # Hermanas Magdalena
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/hermanas-magdalena.png" alt="Hermanas Magdalena" />
+</div>
+
 ## Presentación
 Las **Hermanas Magdalena** son **dos entidades espirituales** que han aparecido a lo largo de los siglos en Arcadia, manifestándose como **niñas fantasmales vestidas con ropa del siglo XIX** que buscan ayuda para encontrar sus cuerpos físicos. Su presencia abarca **más de 300 años de historia documentada**, desde el **siglo XVII hasta hace 30 años**, convirtiéndolas en uno de los fenómenos sobrenaturales más persistentes y enigmáticos de la isla.
 

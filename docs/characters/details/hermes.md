@@ -7,6 +7,10 @@ slug: hermes
 
 # Hermes
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/hermes.png" alt="Hermes" />
+</div>
+
 ## Presentación
 Hermes es uno de los criminales más buscados de Arcadia, conocido por su velocidad extraordinaria y sus exquisitos modales que lo han hecho paradójicamente popular entre la ciudadanía. Su primera aparición documentada fue en el famoso "Robo del Zeppelin" en 1972, estableciendo su reputación como un ladrón de alta clase.
 

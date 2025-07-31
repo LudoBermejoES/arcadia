@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Galería de Personajes"
-permalink: /gallery/
+permalink: /characters/gallery/
 ---
 
 # Galería de Personajes de Arcadia

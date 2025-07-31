@@ -7,6 +7,10 @@ slug: panuelo
 
 # Pañuelo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Pañuelo.png" alt="Pañuelo" />
+</div>
+
 ## Presentación
 
 Pañuelo es un criminal metahumano con la habilidad única de teletransportarse utilizando cualquier tipo de tejidos. Hermano de Sedal, representa un contraste interesante ya que, aunque está implicado en varios cargos por asesinato, parece no compartir la sed de sangre extrema de su hermano psicópata.

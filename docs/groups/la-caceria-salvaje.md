@@ -2,6 +2,11 @@
 
 ## Información Básica
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/La caceria salvaje.png" alt="La cacería salvaje" />
+</div>
+
+
 **Nombre del Grupo**: La Cacería Salvaje  
 **Tipo**: Grupo de Vigilantes Metahumanos  
 **Ubicación**: Barrio Gótico, Arcadia  

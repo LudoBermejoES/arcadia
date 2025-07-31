@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'jruschov', name: 'Jruschov', image: 'Jruschov.png' },
     { slug: 'justa-justicia-sentencia', name: 'Justa / Justicia / Sentencia', image: 'Justa_Justicia_Sentencia.png' },
     { slug: 'la-baronesa', name: 'La Baronesa', image: 'La Baronesa.png' },
-    { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'la-caceria-salvaje.png' },
+    { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'La Cacería Salvaje.png' },
     { slug: 'la-dama', name: 'La Dama', image: 'la-dama.png' },
     { slug: 'la-emperatriz', name: 'La Emperatriz', image: 'la-emperatriz.png' },
     { slug: 'la-farandula', name: 'La Farándula', image: 'la-farandula.png' },

@@ -7,6 +7,10 @@ slug: general-martinez
 
 # General Martínez
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/general-martinez.png" alt="General Martinez" />
+</div>
+
 ## Presentación
 
 General Martínez es un oficial militar de alto rango en Arcadia que comanda una fuerza militar especializada conocida como "Los Rayos". Su posición lo convierte en una figura importante dentro de la estructura militar del país.

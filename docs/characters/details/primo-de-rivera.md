@@ -7,6 +7,10 @@ slug: primo-de-rivera
 
 # Primo de Rivera
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/primo-de-rivera.png" alt="Primo de Rivera" />
+</div>
+
 ## Presentación
 
 Primo de Rivera fue un militar y político español que estableció una dictadura en España mediante un golpe de Estado en 1923. Su régimen tuvo impactos indirectos en el desarrollo de Arcadia durante sus primeros años de construcción.

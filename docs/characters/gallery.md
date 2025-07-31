@@ -125,7 +125,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'siberia', name: 'Siberia', image: 'siberia.png' },
     { slug: 'superglue', name: 'SuperGlue', image: 'Superglue.png' },
     { slug: 'tacto', name: 'Tacto', image: 'Tacto.png' },
-    { slug: 'telarana', name: 'Telaraña', image: 'telarana.png' },
+    { slug: 'telarana', name: 'Telaraña', image: 'telaraña.png' },
     { slug: 'temblores', name: 'Temblores', image: 'Temblores.png' },
     { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' },
     { slug: 'thomas-raza', name: 'Thomas / Raza', image: 'Thomas_Raza.png' },

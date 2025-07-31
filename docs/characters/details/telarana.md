@@ -7,6 +7,10 @@ slug: telarana
 
 # Telaraña
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/telaraña.png" alt="Telaraña" />
+</div>
+
 ## Presentación
 Telaraña es la figura criminal más misteriosa y poderosa del mundo de Arcadia. Nadie sabe quién es, qué aspecto tiene ni dónde vive, pero tanto el estado como los metacorps están de acuerdo en que existe. Es considerado el líder del hampa metahumano de Arcadia, controlando una vasta red criminal a través de sus subordinados conocidos como "Los Barones de Telaraña".
 

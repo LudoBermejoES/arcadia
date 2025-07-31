@@ -7,6 +7,10 @@ slug: la-farandula
 
 # La Farándula
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/la-farandula.png" alt="Fidel Castro" />
+</div>
+
 ## Presentación
 La Farándula es un grupo de supervillanos organizados con temática del Siglo de Oro español, específicamente basado en personajes de Don Quijote. Operaron durante años como una amenaza principal para Arcadia hasta su aparente destrucción hace 10-12 años por parte de La Familia. Sin embargo, han regresado recientemente, confirmando que su "extinción" fue temporal.
 

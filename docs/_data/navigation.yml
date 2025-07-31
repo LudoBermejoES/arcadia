@@ -7,6 +7,9 @@
 - name: Personajes
   link: /characters/
 
+- name: Galería
+  link: /characters/gallery
+
 - name: Grupos
   link: /groups/
 

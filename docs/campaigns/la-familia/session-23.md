@@ -8,19 +8,19 @@ permalink: /campaigns/la-familia/session-23/
 
 participantes: todos meno Edu
 
-Esfinge está preocupada por su hermano, reacionó demasiado bien en el viaje al pasado, como si supiera cómo se hacía. También se pregunta: Si pudo volver al pasado desde el futuro ¿Es posible también ir al pasado desde el presente?
+[Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) está preocupada por su hermano, reacionó demasiado bien en el viaje al pasado, como si supiera cómo se hacía. También se pregunta: Si pudo volver al pasado desde el futuro ¿Es posible también ir al pasado desde el presente?
 
-Nos ponemos a discutir sobre la ética de viajar en el tiempo cuando llaman a la puerta. Es una mujer muy delgada y muy pintada: Natacha
+Nos ponemos a discutir sobre la ética de viajar en el tiempo cuando llaman a la puerta. Es una mujer muy delgada y muy pintada: [Natacha]({{ site.baseurl }}/characters/details/natacha/)
 
-Viene alterada, su nieta Anianca ha desaparecido desde hace dos días. Dice que tiene miedo que haya ido â€œA la Umbríaâ€ y no ha regresado. La Umbría es una zona del barrio â€œen la oscuridadâ€. Donde habitan â€œlos que no pueden salir al solâ€. Dice que la vieron meterse en la umbría, pero no sabe porqué entró allí. No sabe mucho mas, ni detalles de la umbría. 
+Viene alterada, su nieta [Anianca]({{ site.baseurl }}/characters/details/anianca/) ha desaparecido desde hace dos días. Dice que tiene miedo que haya ido â€œA la Umbríaâ€ y no ha regresado. La Umbría es una zona del barrio â€œen la oscuridadâ€. Donde habitan â€œlos que no pueden salir al solâ€. Dice que la vieron meterse en la umbría, pero no sabe porqué entró allí. No sabe mucho mas, ni detalles de la umbría. 
 
 Le decimos que nos espere en la entrada del gótico y vamos allí con la furgo. La recogemos y vamos andando a lo que ella llama la Umbia. De cuando en cuando ella levanta el bastón y lo deja caer. Nos metemos por pequeños pasajes que llevan a calles donde nunca habíamos estado.  En algún momento vemos cosas que se arrastran por la oscuridad. Perdemos totalmente el sentido de la orientación, llegamos a estar seguros de que hemos pasado por la misma calle varias veces... hasta que ella dice â€œhemos llegadoâ€. Nos lleva a una plaza pequeñita con un roble muerto de ramas muy extendidas y cubierto de cuervos. 
 
-Memero intenta un telereceive, todos los cuervos echan a volar y empieza a enrar gente pintoresca de todas las calles: Una mujer negra vestida de forma tradicional, un hombre moreno y bajo con bigotito, una mujer regordeta y pálida, un hombre vestido de taparrabos y con marcas redondas en el pecho, un hombre de rasgos eslavos vestido con chandal. 
+[Mésmero]({{ site.baseurl }}/characters/details/mesmero/) intenta un telereceive, todos los cuervos echan a volar y empieza a enrar gente pintoresca de todas las calles: Una mujer negra vestida de forma tradicional, un hombre moreno y bajo con bigotito, una mujer regordeta y pálida, un hombre vestido de taparrabos y con marcas redondas en el pecho, un hombre de rasgos eslavos vestido con chandal. 
 
 Se acercan sin hacer ni un ruido, de hecho la mujer parece que no mueve los pies. Natacha de pone de rodillas en el suelo. Hay un leve rifirafe, nos dicen que si hay una sola amenaza nos matan y que Natacha debe irse. Se presentan como el consejo, dicen que viven allí desde que el barrio cambió. 
 
-Nos dicen que Anianca está dormida, que está en un ritual â€œpara demostrar ser dignoâ€ y que por eso nos han permitido entrar. 
+Nos dicen que [Anianca]({{ site.baseurl }}/characters/details/anianca/) está dormida, que está en un ritual â€œpara demostrar ser dignoâ€ y que por eso nos han permitido entrar. 
 
 Dice que está demostrando ser digna, que está repasando su vida para que el consejo decida, pero está atrapada en la oscuridad, su vida no transcurre. No saben porqué.
 
@@ -30,17 +30,17 @@ Hay pocas pisadas junto a las sillas, pese a que el suelo está lleno de polvo. 
 
 La niña parece en coma. Nos dicen que para ayudarla debemos entrar en el ritual â€œbeber la sangre del primeroâ€ . Que cada uno soñará uyn sueño distinto salvo que podamos mantener el enlace. Que hay leyes y se puede entrar en el sueño de otros, pero que no pueden decirnos como se hace. Que en el sueño podemos cambiar de forma y olvidar quienes somos, tendremos que aferrarnos a nuestros recuerdos. Y el sueño se defenderá si cambiamos demasiadas cosas. Podremos salir y despertar, pero entonces no podremos entrer de nuevo en el sueño. Que la sangre es la del primer soñador. 
 
-La africana se coge cuatro plumas del tocado, las mojan en la copa y nos ponen una gota en la boca. Con mucha suavidad salvo con Garra que ha estado un pelín irrespetuoso durante las charlas. 
+La africana se coge cuatro plumas del tocado, las mojan en la copa y nos ponen una gota en la boca. Con mucha suavidad salvo con [Garra]({{ site.baseurl }}/characters/details/garra/) que ha estado un pelín irrespetuoso durante las charlas. 
 
-Salimos de nuestros cuerpos y nos las arreglamos para permanecer todos juntos, pese a que una fuerza intenta tirar de nosotros en todas las direcciones. Tocamos el hilo que sale de Anianca y Mésmero lanza un telesend el cordon se solidifica, y al tocarlo la sensación de tirón desaparece.
+Salimos de nuestros cuerpos y nos las arreglamos para permanecer todos juntos, pese a que una fuerza intenta tirar de nosotros en todas las direcciones. Tocamos el hilo que sale de [Anianca]({{ site.baseurl }}/characters/details/anianca/) y [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) lanza un telesend el cordon se solidifica, y al tocarlo la sensación de tirón desaparece.
 
 Caminamos siguiendo el cordón, en el aire. Salimos a través del techo y vemos el barrio gótico lleno de fantasmas. Ninguno se acerca a nosotros, todos se mantienen alejados del cordón. En uno de los edificios vemos a alguien conocido: Un tipo enorme con un solo ojo, que nos saluda y desaparece después.
 
-Ascendemos hacia el cierlo. En el aire hay rayos, lluvia... y cuando descendemos ya no somos nosotros. Estamos en un edificio de madera y nuestra apariencia ha cambiado. Garra es un joven de unos 20 años, Esfinge una mujer de cuarenta. Vestimos con traje militar, alrededor nuestro todo está en llamas y la gente corre. Los atuendos son anticuados, hay carros por las calles pero a lo lejos se escuchan motores. En la planta de arriba se oye a un bebé llorar, en la parte de abajo suenan gritos en alemán
+Ascendemos hacia el cierlo. En el aire hay rayos, lluvia... y cuando descendemos ya no somos nosotros. Estamos en un edificio de madera y nuestra apariencia ha cambiado. [Garra]({{ site.baseurl }}/characters/details/garra/) es un joven de unos 20 años, [Esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) una mujer de cuarenta. Vestimos con traje militar, alrededor nuestro todo está en llamas y la gente corre. Los atuendos son anticuados, hay carros por las calles pero a lo lejos se escuchan motores. En la planta de arriba se oye a un bebé llorar, en la parte de abajo suenan gritos en alemán
 
-Bate tiene una herida, posiblemente de bala en el hombro. Se escuchan tiros y cañonazos, no muy lejos. Por una de las calles viene corriendo una multitud. Ya no vemos el hilo. 
+[Bate]({{ site.baseurl }}/characters/details/bate/) tiene una herida, posiblemente de bala en el hombro. Se escuchan tiros y cañonazos, no muy lejos. Por una de las calles viene corriendo una multitud. Ya no vemos el hilo. 
 
-Bate y Mésmero somos rusos, garra y esfinge polacos. La batalla está perdida, estamos en Tannenberg.
+[Bate]({{ site.baseurl }}/characters/details/bate/) y [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) somos rusos, [garra]({{ site.baseurl }}/characters/details/garra/) y [esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) polacos. La batalla está perdida, estamos en Tannenberg.
 
 Somos desertores. Sabiamos que los alemanes estaban preparando una emboscada, asi que escapamos.
 

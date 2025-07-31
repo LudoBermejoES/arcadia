@@ -6,7 +6,7 @@ permalink: /campaigns/la-familia/session-10/
 
 ##  **La casa de Asterión**
 
-Bate (alzando el cuerpo inconsciente de Faraón, que se ha ido de viaje astral) \-¿Ha adelgazado?  
+[Bate]({{ site.baseurl }}/characters/details/bate/) (alzando el cuerpo inconsciente de [Faraón]({{ site.baseurl }}/characters/details/el-faraon/), que se ha ido de viaje astral) \-¿Ha adelgazado?  
 Edu: \- 21 gramos
 
 Frase de la partida: Chus, apunta, en una partida Eduardo ha dicho "A ver, concentraros"
@@ -14,7 +14,7 @@ Frase de la partida: Chus, apunta, en una partida Eduardo ha dicho "A ver, conce
 Decidimos ir a ver a la sibila  
 El espiritu aliado de Faraón le indica que la sibilia le indicará el camino si quiere. Pero puede ser complicado que el nos guie al resto. El faraón decide intentar un viaje astral y ver si puede mantener la conexión mental
 
-En el viaje astral, garra, mesmero y el faraón tiene el alma "verde", esfinge vibra, y bate parecen un montón de pelotitas multicolores dentro de un armazón.
+En el viaje astral, [garra]({{ site.baseurl }}/characters/details/garra/), [mesmero]({{ site.baseurl }}/characters/details/mesmero/) y [el faraón]({{ site.baseurl }}/characters/details/el-faraon/) tiene el alma "verde", [esfinge]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) vibra, y [bate]({{ site.baseurl }}/characters/details/bate/) parecen un montón de pelotitas multicolores dentro de un armazón.
 
 La conexión mental es debil en el plano astral, pero aún se oye. Mejora después de tomar algo de marihuana de la de la furgoneta
 
@@ -22,7 +22,7 @@ Al ascender fuera de la casa, descubre que el barrio gótico está lleno de cria
 
 Cargamos el cuerpo de Faraón en la furgo y el nos va indicando el camino
 
-El Faraón se enrenta a criaturas del astral: Dos niñas cogidas de la mano vestidas con ropa del 19 y un unicornio. Para que le dejen pasar por la calle, las "Hermanas Magdalena" piden que busquen sus cuerpos. El unicornio dice a faraón que "recordarás, tarde o temprano recordarás"
+El Faraón se enrenta a criaturas del astral: Dos niñas cogidas de la mano vestidas con ropa del 19 y un unicornio. Para que le dejen pasar por la calle, las "[Hermanas Magdalena]({{ site.baseurl }}/characters/details/hermanas-magdalena/)" piden que busquen sus cuerpos. El unicornio dice a faraón que "recordarás, tarde o temprano recordarás"
 
 Llegamos a una pequeña iglesia derruida y abandonada (que en el astral se ve como una inmensa catedral)
 

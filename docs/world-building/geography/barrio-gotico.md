@@ -18,7 +18,7 @@ El Barrio Gótico es mucho más que un distrito de Arcadia - es un organismo viv
 **Ubicación**: Distrito residencial de 25 manzanas  
 **Población**: Refugio principal de metahumanos de Arcadia  
 **Características**: Distrito sin metro, economía alternativa, fenómenos sobrenaturales activos  
-**Vigilancia**: La Cacería Salvaje (vigilantes independientes)
+**Vigilancia**: [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/) (vigilantes independientes)
 
 ---
 
@@ -80,46 +80,46 @@ El Barrio Gótico se ha establecido como el principal santuario para metahumanos
 - **Descripción**: Hombre extremadamente alto con manos excepcionalmente largas
 - **Habilidades**: Poderes telepáticos y conocimiento profundo del barrio
 - **Función**: Informante local, fuente de noticias y guardián de secretos
-- **Historia**: Testigo de eventos como la pérdida de memoria causada por el Emperador Oscuro
+- **Historia**: Testigo de eventos como la pérdida de memoria causada por [el Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/)
 
-#### **Hassir el Quiosquero** 📰
+#### **[Hassir]({{ site.baseurl }}/characters/details/hassir/) el Quiosquero** 📰
 - **Servicio**: Proveedor de periódicos y mapas actualizados del distrito
 - **Importancia**: Sus mapas son esenciales para navegar debido al crecimiento constante
 - **Ubicación**: Quiosco estratégicamente ubicado para servir a residentes y visitantes
 
-#### **Señora Pepa (Pensión Pepa)** 🏠
+#### **[Señora Pepa]({{ site.baseurl }}/characters/details/senora-pepa/) (Pensión Pepa)** 🏠
 - **Establecimiento**: Pensión familiar que acoge tanto a residentes como a refugiados temporales
 - **Características**: Hospitalidad extraordinaria, ambiente familiar y seguro
 - **Rol Social**: Centro de información y apoyo para nuevos llegados
 
 ---
 
-## 🛡️ **Vigilancia Independiente: La Cacería Salvaje**
+## 🛡️ **Vigilancia Independiente: [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)**
 
 ### **Los Cinco Hermanos Bestiales**
 Un grupo único de vigilantes metahumanos que patrullan exclusivamente el Barrio Gótico:
 
-#### **👁️ Vista** (18 años, Masculino) - Líder
+#### **👁️ [Vista]({{ site.baseurl }}/characters/details/vista/)** (18 años, Masculino) - Líder
 - **Poderes**: Percepción visual sobrehumana, visión telescópica, visión nocturna
 - **Rol**: Coordinador táctico y estratega principal del grupo
 - **Responsabilidades**: Planificación de operaciones, reconocimiento del territorio
 
-#### **🤚 Tacto** (18 años, Femenino) - Co-líder  
+#### **🤚 [Tacto]({{ site.baseurl }}/characters/details/tacto/)** (18 años, Femenino) - Co-líder  
 - **Poderes**: Percepción táctil avanzada, análisis de superficies
 - **Rol**: Liderazgo compartido, especialista en infiltración
 - **Habilidades**: Detección de vibraciones, análisis de materiales
 
-#### **👂 Oído** (16 años, Femenino) - Especialista Auditiva
+#### **👂 [Oído]({{ site.baseurl }}/characters/details/oido/)** (16 años, Femenino) - Especialista Auditiva
 - **Poderes**: Audición sobrehumana, análisis de sonidos
 - **Función**: Detección temprana de amenazas, comunicaciones
 - **Especialidad**: Identificación de personas por patrones vocales
 
-#### **👃 Olfato** (16 años, Masculino) - Rastreador
+#### **👃 [Olfato]({{ site.baseurl }}/characters/details/olfato/)** (16 años, Masculino) - Rastreador
 - **Poderes**: Olfato sobrehumano, rastreo de olores
 - **Rol**: Seguimiento de objetivos, detección de sustancias
 - **Habilidades**: Análisis químico por aroma, identificación de individuos
 
-#### **👅 Gusto** (14 años, Masculino) - Detector de Sustancias
+#### **👅 [Gusto]({{ site.baseurl }}/characters/details/gusto/)** (14 años, Masculino) - Detector de Sustancias
 - **Poderes**: Gusto sobrehumano, análisis químico oral
 - **Función**: Detección de venenos, drogas y sustancias peligrosas
 - **Importancia**: Protección contra amenazas químicas y biológicas
@@ -127,7 +127,7 @@ Un grupo único de vigilantes metahumanos que patrullan exclusivamente el Barrio
 ### **Territorio y Operaciones**
 - **Jurisdicción Exclusiva**: Solo operan dentro del Barrio Gótico
 - **Estilo de Vigilancia**: Evitan el foco público, prefieren la eficacia silenciosa
-- **Enemigos Principales**: Las Bestias (organización criminal) y Los Cazadores (grupo anti-metahumano)
+- **Enemigos Principales**: [Las Bestias]({{ site.baseurl }}/groups/las-bestias/) (organización criminal) y Los Cazadores (grupo anti-metahumano)
 - **Refugios**: Madrigueras familiares adaptadas en los túneles subterráneos
 
 ---

@@ -8,21 +8,21 @@ permalink: /world-building/ambientacion/
 
 ## De España a Arcadia en Veintiún Años
 
-En 1920, el afamado arquitecto, científico y empresario **Marius Fernández** presentó a los responsables de proyectos del gobierno español una serie de planos para diseñar lo que él consideraba sería la mayor obra arquitectónica realizada desde la última maravilla del mundo; una ciudad que tomaría las referencias arquitectónicas más influyentes de varias épocas recreándolas en una serie de barrios de la ciudad "más bella del mundo".
+En 1920, el afamado arquitecto, científico y empresario **[Marius Fernández]({{ site.baseurl }}/characters/details/marius-fernandez/)** presentó a los responsables de proyectos del gobierno español una serie de planos para diseñar lo que él consideraba sería la mayor obra arquitectónica realizada desde la última maravilla del mundo; una ciudad que tomaría las referencias arquitectónicas más influyentes de varias épocas recreándolas en una serie de barrios de la ciudad "más bella del mundo".
 
-La empresa, que en principio contó con un buen número de detractores, fue finalmente admitida gracias al aporte de un enorme capital donado por el propio Marius, quien por aquel momento contaba con una increíble fortuna personal gracias a las numerosas industrias con las que contaba, tanto en España como en el extranjero.
+La empresa, que en principio contó con un buen número de detractores, fue finalmente admitida gracias al aporte de un enorme capital donado por el propio [Marius]({{ site.baseurl }}/characters/details/marius-fernandez/), quien por aquel momento contaba con una increíble fortuna personal gracias a las numerosas industrias con las que contaba, tanto en España como en el extranjero.
 
-Cabe destacar que Marius estaba ocupado en un proyecto secreto que había iniciado antes de la guerra civil española, cuya naturaleza exacta permanece desconocida hasta el día de hoy.
+Cabe destacar que [Marius]({{ site.baseurl }}/characters/details/marius-fernandez/) estaba ocupado en un proyecto secreto que había iniciado antes de la guerra civil española, cuya naturaleza exacta permanece desconocida hasta el día de hoy.
 
 ### La Adquisición de la Isla de Tandera
 
-Las peticiones de Marius incluían la adquisición al estado español de la **Isla de Tandera**, una enorme extensión de tierra situada a unos doscientos kilómetros al oeste de la Isla de El Hierro; una isla completamente deshabitada debido a la imposibilidad de encontrar agua potable. 
+Las peticiones de [Marius]({{ site.baseurl }}/characters/details/marius-fernandez/) incluían la adquisición al estado español de la **Isla de Tandera**, una enorme extensión de tierra situada a unos doscientos kilómetros al oeste de la Isla de El Hierro; una isla completamente deshabitada debido a la imposibilidad de encontrar agua potable. 
 
-Naturalmente, el gobierno estuvo encantado de ceder la isla a un precio irrisorio tras una serie de investigaciones geológicas. No encontrando nada de valor, la venta se llevó a cabo el **12 de febrero de 1922**. Las obras empezaron en diciembre del mismo año, bajo fuertes medidas de seguridad frente a la prensa, que calificó la osadía de Marius como "una visión acaso imposible de la voluntad humana".
+Naturalmente, el gobierno estuvo encantado de ceder la isla a un precio irrisorio tras una serie de investigaciones geológicas. No encontrando nada de valor, la venta se llevó a cabo el **12 de febrero de 1922**. Las obras empezaron en diciembre del mismo año, bajo fuertes medidas de seguridad frente a la prensa, que calificó la osadía de [Marius]({{ site.baseurl }}/characters/details/marius-fernandez/) como "una visión acaso imposible de la voluntad humana".
 
 ### Los Primeros Años de Construcción
 
-La primera serie de obras fueron dirigidas a abastecer la colonia con comida y agua. Fue el primer momento en el que el genio de Marius se puso de manifiesto, planificando una serie de mejoras que estaban enormemente avanzadas con respecto a su tiempo:
+La primera serie de obras fueron dirigidas a abastecer la colonia con comida y agua. Fue el primer momento en el que el genio de [Marius]({{ site.baseurl }}/characters/details/marius-fernandez/) se puso de manifiesto, planificando una serie de mejoras que estaban enormemente avanzadas con respecto a su tiempo:
 
 - **Abonos artificiales** que hacían brotar plantas de la tierra más dura
 - Enormes **"fábricas de agua"** capaces de transformar las aguas salinas en la más exquisita agua potable

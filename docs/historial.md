@@ -12,6 +12,28 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Julio 2025**
 
+### **31 de Julio de 2025**
+
+#### **🔧 Corrección Masiva de Descripciones de Personajes**
+- **Actualización de character-list.md e index.md** - Corrección de múltiples inaccuracies en descripciones de personajes principales:
+  - **Garra**: Corregido de "regeneración, garras letales, instintos animales" a "garras de energía telequinética, campos de fuerza, control molecular"
+  - **El Faraón**: Eliminada afirmación no documentada de "2M de víctimas", actualizado como "místico manipulado por Bastet"
+  - **Los Rayos**: Corregido de "especialistas en velocidad" a "fuerza militar de elite bajo General Martínez"
+  - **Sara10/Mecánica**: Clarificada como personaje independiente de Mésmero, no evolución del mismo
+  - **Bate**: Añadida naturaleza compleja como clon con alma de Samuel, medida de seguridad
+  - **Ana Montenegro**: Actualizado rol actual como abogada y fragmento temporal de Luis Montenegro
+  - **Diana**: Expandida información de trasfondo Fatum, hija de Cloris, criada por Janus
+
+#### **📊 Actualización de Estadísticas**
+- **Conteo preciso de personajes**: Actualizado de "200+" a "151 personajes únicos" basado en archivos reales
+- **Eliminación de duplicados**: Removido El Faraón duplicado de sección "Figuras Misteriosas"
+- **Verificación de coherencia**: Confirmada exactitud entre archivos de resumen y fichas detalladas
+
+#### **✅ Control de Calidad**
+- **Análisis exhaustivo**: Revisión completa de precisión entre archivos índice y fichas individuales
+- **Corrección de inconsistencias**: Eliminadas descripciones obsoletas y erróneas
+- **Validación cruzada**: Confirmada coherencia entre character-list.md, index.md y archivos de detalles
+
 ### **30 de Julio de 2025**
 
 #### **🔄 Actualización Masiva de Personajes**
@@ -266,4 +288,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 30 de Julio de 2025 - 14:30
+**Última actualización del historial**: 31 de Julio de 2025 - 12:35

@@ -7,6 +7,10 @@ slug: diana
 
 # Diana
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/diana.png" alt="Diana" />
+</div>
+
 ## Presentación
 Diana es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Eslizo. Tiene una conexión familiar compleja con el grupo de supervillanos Fatum, siendo hija de Cloris (fallecida) y habiendo sido preparada por Janus para liderar la siguiente generación de Fatum antes de su muerte. Se caracteriza por su interés en la meditación, la cultura asiática gótica, y una personalidad más introspectiva.
 

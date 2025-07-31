@@ -7,6 +7,11 @@ slug: jorge-espectro
 
 # Jorge / Espectro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/espectro.png" alt="Espectro" />
+</div>
+
+
 ## Presentación
 Jorge, también conocido como Espectro, es un metahumano perteneciente al grupo "Génesis". Es jugado por Rafa y se caracteriza por ser descrito como "un vacío" y "algo que debe ser llenado" por las entidades místicas. Su naturaleza única lo distingue de otros miembros del grupo.
 

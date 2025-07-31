@@ -7,6 +7,10 @@ slug: john-f-kennedy
 
 # John F. Kennedy
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/john-f-kennedy.png" alt="Keneddy" />
+</div>
+
 ## Información Básica
 
 **Nombre Completo**: John Fitzgerald Kennedy  

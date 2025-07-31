@@ -7,6 +7,11 @@ slug: jruschov
 
 # Jruschov
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/jruschov.png" alt="Jruschov" />
+</div>
+
+
 ## Información Básica
 
 **Nombre Completo**: Nikita Sergeyevich Jruschov  

@@ -7,6 +7,11 @@ slug: leopoldo-gomez
 
 # Leopoldo Gómez
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/leopoldo-gomez.png" alt="Leopoldo Gomez" />
+</div>
+
+
 ## Información Básica
 
 **Nombre Completo**: Leopoldo Gómez  

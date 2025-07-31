@@ -7,6 +7,10 @@ slug: francisco-franco
 
 # Francisco Franco
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/francisco-franco.png" alt="Francisco Franco" />
+</div>
+
 ## Presentación
 
 Francisco Franco fue el general que lideró la sublevación militar en España en 1936 y posteriormente se convirtió en jefe de estado. Su ascenso al poder tuvo consecuencias directas para Arcadia, contribuyendo a la independencia de la ciudad-estado.

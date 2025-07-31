@@ -7,6 +7,10 @@ slug: fidel-castro
 
 # Fidel Castro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/fidel-castro.png" alt="Fidel Castro" />
+</div>
+
 ## Información Básica
 
 **Nombre Completo**: Fidel Alejandro Castro Ruz  

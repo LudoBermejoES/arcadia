@@ -120,7 +120,6 @@ permalink: /characters/character-list/
 - [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
 
 ### Figuras Misteriosas
-- [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)
 - [Destino]({{ site.baseurl }}/characters/details/destino/)
 - [LSD]({{ site.baseurl }}/characters/details/lsd/)
 - [El Matador]({{ site.baseurl }}/characters/details/el-matador/)
@@ -280,4 +279,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*Última actualización: Julio 2025*
+*151 personajes documentados - Última actualización: Julio 2025*

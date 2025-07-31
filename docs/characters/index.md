@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Personajes de Arcadia"
-description: "200+ Héroes, Villanos y Aliados"
+description: "151 Héroes, Villanos y Aliados"
 ---
 
 # Base de Datos de Personajes
@@ -14,7 +14,7 @@ description: "200+ Héroes, Villanos y Aliados"
 ## 🌟 **Universo de Personajes**
 
 
-Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a más de **200 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
+Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **151 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
 
 **🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**
 
@@ -25,18 +25,18 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **👑 La Familia - Los Fundadores (2010-2015)**
 
 #### [🐺 **Garra**]({{ site.baseurl }}/characters/details/garra/) *(Conchi)*
-**El Feroz Protector**
-- **Poderes**: Regeneración, garras letales, instintos animales
-- **Legado**: Estableció el código moral heroico de Arcadia
-- **Evolución**: De guerrera salvaje a mentora sabia
-- **Conexión Futura**: Ayuda en la evasión de La Fuerza Oculta
+**El Genio Tecnológico Rejuvenecido**
+- **Poderes**: Garras de energía telequinética, campos de fuerza, control molecular
+- **Historia Única**: Ex-actor adulto rejuvenecido artificialmente a adolescente
+- **Especialidad**: Tecnología, hackeo, estrategia práctica
+- **Conexión Futura**: Mentor y facilitador de refugios para La Fuerza Oculta
 
 #### [👑 **El Faraón**]({{ site.baseurl }}/characters/details/el-faraon/) *(Edu)*  
-**El Maestro de Arenas Místicas**
-- **Poderes**: Control de arenas, magia egipcia antigua
-- **Trasfondo**: Responsable de cataclismo con 2M de víctimas
-- **Estatus**: Criminal de guerra buscado internacionalmente
-- **Arco**: De conquistador a héroe redentor
+**El Místico Manipulado**
+- **Poderes**: Magia egipcia ancestral, viaje astral, control de tormentas de arena
+- **Trasfondo**: Presentador de TV manipulado por Bastet, entidad cósmica felina
+- **Naturaleza**: Instrumento en plan cósmico para restaurar equilibrio universal
+- **Arco**: De héroe ingenuo a pieza clave en fuerzas cósmicas
 
 #### [🔮 **Esfinge**]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/) *(Jandro)*
 **El Guardián de Secretos**
@@ -45,10 +45,10 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Especialidad**: Resolver misterios interdimensionales
 
 #### [🦇 **Bate**]({{ site.baseurl }}/characters/details/bate/) *(Dani)*
-**El Vigilante Tecnológico**
-- **Poderes**: Tecnología avanzada, tácticas nocturnas
-- **Estilo**: Vigilante urbano con recursos ilimitados
-- **Filosofía**: Justicia a través de preparación e intimidación
+**El Clon con Alma Heroica**
+- **Poderes**: Superfuerza, invulnerabilidad, vuelo, bate de arcadino
+- **Verdad Devastadora**: Clon creado como medida de seguridad, alberga alma de Samuel
+- **Naturaleza Dual**: Programación de control vs humanidad del alma de policía heroico
 
 #### [🧠 **Mésmero**]({{ site.baseurl }}/characters/details/mesmero/) *(Chus)*
 **El Manipulador Mental**
@@ -68,9 +68,9 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 #### [⚙️ **Sara10/Mecánica**]({{ site.baseurl }}/characters/details/sara10-mecanica/) *(Chus)*
 **La Ingeniera Prodigio**
-- **Evolución**: De Mésmero (mental) a genio tecnológico
-- **Poderes**: Interfaz cibernética, control tecnológico
-- **Legado**: Revolucionó la infraestructura heroica de Arcadia
+- **Naturaleza**: Nueva generación de metahumana, diferente carácter que Mésmero
+- **Poderes**: Genio tecnológico, fabricación improvisada, hackeo de sistemas
+- **Especialidad**: Conexión biológica con tecnología (olor a "grasa metálica")
 
 #### [👻 **Espectro**]({{ site.baseurl }}/characters/details/jorge-espectro/) *(Rafa)*
 **El Fantasma Justiciero**  
@@ -107,10 +107,11 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Evolución**: De criatura simple a estratega del equipo
 
 #### [💎 **Diana**]({{ site.baseurl }}/characters/details/diana/) *(Eslizo)*
-**La Heredera Poderosa**
-- **Poderes**: Fuerza descomunal, resistencia sobrehumana
-- **Trasfondo**: Linaje de poderosa familia metahumana
-- **Conflicto**: Equilibrar privilegio con responsabilidad
+**La Heredera de Fatum Redimida**
+- **Poderes**: Fuerza sobrehumana letal, resistencia, disciplina meditativa
+- **Trasfondo**: Hija de Cloris (Fatum), criada por Janus para liderar siguiente generación criminal
+- **Conflicto**: Destino criminal vs elección heroica, bajo tutela de Mulciber
+- **Evolución**: De heredera villana predestinada a atacante principal de La Fuerza Oculta
 
 #### [🎪 **Astrid/Kayface**]({{ site.baseurl }}/characters/details/astrid-kayface/) *(Xavi)*
 **La Ilusionista Traumatizada**
@@ -196,9 +197,10 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 #### [⚖️ **Ana Montenegro**]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)
 **La Abogada Heroica**
-- **Especialidad**: Derecho metahumano y defensa de héroes
-- **Historia**: Conectada con todas las campañas
-- **Contribución**: Organizó la evasión de La Fuerza Oculta
+- **Evolución**: De Esfinge/Atropos (temporal) a abogada especializada
+- **Especialidad**: Derecho metahumano, coordinación de operaciones heroicas
+- **Verdad Cósmica**: Fragmento temporal de Luis Montenegro, no su hermana
+- **Rol Actual**: Organizó la evasión de La Fuerza Oculta, mentora legal
 
 #### [🎭 **Charada**]({{ site.baseurl }}/characters/details/charada/)
 **El Sastre Metamórfico**
@@ -264,7 +266,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **⚡ Génesis**: La generación puente (5 miembros)  
 - **🔮 La Fuerza Oculta**: Los herederos actuales (6 miembros)
 - **🛡️ [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/)**: Veteranos aliados
-- **⚡ [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/)**: Especialistas en velocidad
+- **⚡ [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/)**: Fuerza militar de elite bajo General Martínez
 
 ### **😈 Organizaciones Villanas**
 - **🎭 [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)**: Villanos teatrales organizados
@@ -333,7 +335,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-- **200+** Personajes Únicos
+- **151** Personajes Únicos
 - **17** Protagonistas Principales  
 - **50+** Villanos Documentados
 - **15** Años de Desarrollo

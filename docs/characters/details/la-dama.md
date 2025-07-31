@@ -8,8 +8,8 @@ slug: la-dama
 # La Dama
 
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/la-dama.png" alt="La Dama" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/la-dama.png" alt="La Dama" />
 </div>
 
 ## Presentación

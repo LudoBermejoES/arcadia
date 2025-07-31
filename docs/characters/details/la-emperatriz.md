@@ -7,8 +7,8 @@ slug: la-emperatriz
 
 # La Emperatriz de Jade
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/\la-emperatriz.png" alt="La Emperatriz de Jade" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/\la-emperatriz.png" alt="La Emperatriz de Jade" />
 </div>
 
 ## Presentación

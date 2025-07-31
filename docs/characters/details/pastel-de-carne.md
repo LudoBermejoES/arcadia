@@ -7,8 +7,8 @@ slug: pastel-de-carne
 
 # Pastel de Carne
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/Pastel de carne.png" alt="Pastel de Carne" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Pastel de carne.png" alt="Pastel de Carne" />
 </div>
 
 ## Presentación

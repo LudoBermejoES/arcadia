@@ -7,8 +7,8 @@ slug: la-baronesa
 
 # La Baronesa
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/La Baronesa.png" alt="La Baronesa" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/La Baronesa.png" alt="La Baronesa" />
 </div>
 
 ## Presentación

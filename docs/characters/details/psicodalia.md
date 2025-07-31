@@ -7,8 +7,8 @@ slug: psicodalia
 
 # Psicodalia
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/psicodalia.png" alt="Psicodalia" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/psicodalia.png" alt="Psicodalia" />
 </div>
 
 ## Información Básica

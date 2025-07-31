@@ -7,8 +7,8 @@ slug: yeng
 
 # Yeng
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/Yeng.png" alt="Yeng" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Yeng.png" alt="Yeng" />
 </div>
 
 ## Presentación

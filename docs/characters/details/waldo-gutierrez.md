@@ -7,8 +7,8 @@ slug: waldo-gutierrez
 
 # Waldo Gutierrez
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/Waldo Gutierrez.png" alt="Waldo Gutierrez" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Waldo Gutierrez.png" alt="Waldo Gutierrez" />
 </div>
 
 ## Información Básica

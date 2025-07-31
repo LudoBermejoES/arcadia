@@ -68,7 +68,6 @@ permalink: /characters/character-list/
 ### Los Grandes Criminales
 - [Telaraña]({{ site.baseurl }}/characters/details/telarana/)
 - [Hermes]({{ site.baseurl }}/characters/details/hermes/)
-- [Gadjet]({{ site.baseurl }}/characters/details/gadjet/)
 - [Maza]({{ site.baseurl }}/characters/details/maza/)
 - [Sedal]({{ site.baseurl }}/characters/details/sedal/)
 - [Pañuelo]({{ site.baseurl }}/characters/details/panuelo/)

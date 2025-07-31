@@ -7,6 +7,10 @@ slug: sedal
 
 # Sedal
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Sedal.png" alt="Sedal" />
+</div>
+
 ## Presentación
 
 Sedal es un asesino múltiple metahumano que padece psicopatía grave, conocido por su método distintivo de asesinato utilizando un fino sedal. Es hermano de Pañuelo, otro criminal metahumano, aunque Sedal representa el extremo más violento de la dupla fraternal.

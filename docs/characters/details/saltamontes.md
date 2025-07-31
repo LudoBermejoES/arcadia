@@ -7,6 +7,12 @@ slug: saltamontes
 
 # Saltamontes
 
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Saltamontes.png" alt="Saltamontes" />
+</div>
+
+
 ## Presentación
 Saltamontes es actualmente el segundo metahumano más buscado de Arcadia, conocido por su capacidad de evadir todas las defensas de seguridad y realizar robos aparentemente imposibles. Apareció hace aproximadamente un año y rápidamente se convirtió en una figura criminal de primer nivel, culminando con su audaz asalto al banco de Rhiad.
 

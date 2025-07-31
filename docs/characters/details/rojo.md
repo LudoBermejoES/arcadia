@@ -7,6 +7,10 @@ slug: rojo
 
 # Rojo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Rojo.png" alt="Rojo" />
+</div>
+
 ## Presentación
 Rojo es un metahumano criminal clasificado entre "Los Grandes Criminales" de Arcadia. Su nombre distintivo sugiere una posible conexión con el color rojo, ya sea en su apariencia, poderes, o metodología criminal.
 

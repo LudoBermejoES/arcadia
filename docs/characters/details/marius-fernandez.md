@@ -7,6 +7,10 @@ slug: marius-fernandez
 
 # Marius Fernández
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/marius.png" alt="Marius" />
+</div>
+
 ## Presentación
 
 Marius Fernández fue un afamado arquitecto, científico y empresario de principios del siglo XX, considerado el padre fundador y visionario principal de la ciudad de Arcadia. Su desaparición misteriosa tras condenar públicamente el bombardeo de Hiroshima lo convirtió en una figura legendaria.

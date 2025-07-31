@@ -8,7 +8,7 @@ slug: marcial-gomez
 # Marcial Gomez
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/gregors.png" alt="Gregor" />
+  <img src="{{ site.baseurl }}/assets/img/characters/marcial-gomez.png" alt="Marcial Gómez" />
 </div>
 
 ## Presentación

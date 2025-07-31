@@ -7,6 +7,10 @@ slug: nicolas-cifuentes
 
 # Nicolás Cifuentes
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/nicolas-cifuentes.png" alt="Nicolás Cifuentes" />
+</div>
+
 ## Presentación
 Nicolás Cifuentes es un periodista especializado en metahumanos en Arcadia, lo que lo convierte en una figura clave en la documentación y comunicación pública sobre las actividades de seres con poderes especiales. Su especialización indica un profundo conocimiento del mundo metahumano y sus complejidades.
 

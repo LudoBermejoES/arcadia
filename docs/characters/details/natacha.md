@@ -7,6 +7,10 @@ slug: natacha
 
 # Natacha
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/natacha.jpg" alt="Natacha" />
+</div>
+
 ## Presentación
 
 Natacha es una figura enigmática del Distrito Gótico, descrita como una mujer muy delgada y muy pintada, que posteriormente se revela como una entidad sobrenatural peligrosa. Su verdadera naturaleza como criatura monstruosa se descubre durante los eventos investigados por La Familia.

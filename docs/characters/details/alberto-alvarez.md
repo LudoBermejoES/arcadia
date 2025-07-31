@@ -7,6 +7,10 @@ slug: alberto-alvarez
 
 # Alberto Álvarez
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/alberto-alvarez.png" alt="Alberto Alvarez" />
+</div>
+
 ## Presentación
 
 Alberto Álvarez fue el discípulo de Marius Fernández y su sucesor en el conocimiento de las tecnologías avanzadas de Arcadia. Se convirtió en una figura clave durante la Guerra Fría, cuando heredó los secretos tecnológicos del fundador de la ciudad.

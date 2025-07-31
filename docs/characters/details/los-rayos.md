@@ -7,6 +7,11 @@ slug: los-rayos
 
 # Los Rayos
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/los-rayos.png" alt="Los Rayos" />
+</div>
+
+
 ## Presentación
 Los Rayos son una fuerza militar que opera bajo el General Martínez en Arcadia. Su nombre evoca rapidez, precisión y poder destructivo, sugiriendo una unidad militar de elite especializada en operaciones que requieren velocidad y efectividad.
 

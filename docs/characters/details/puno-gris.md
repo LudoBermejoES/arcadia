@@ -7,6 +7,10 @@ slug: puno-gris
 
 # Puño Gris
 
+<div class="character-image">
+<img src="{{ site.baseurl }}/assets/img/characters/puno-gris.png" alt="Puño Gris" class="character-portrait">
+</div>
+
 ## Presentación
 **Puño Gris** es una organización criminal mafiosa que opera desde el **distrito asiático** de Arcadia, específicamente en la zona de los puertos. Funcionan como mercenarios que se venden al mejor postor, actuando como una subsidiaria de la poderosa organización criminal **Telaraña**, que gobierna el submundo metahumano de la ciudad.
 

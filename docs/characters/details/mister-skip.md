@@ -7,6 +7,11 @@ slug: mister-skip
 
 # Mister Skip
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/mister-skip.png" alt="Mister Skip" />
+</div>
+
+
 ## Presentación
 
 Mister Skip fue un maleante metahumano de origen escocés que operó en Arcadia durante los años 50. Su reputación ha perdurado en la memoria criminal de la ciudad, siendo recordado por personajes como Pandorum décadas después.

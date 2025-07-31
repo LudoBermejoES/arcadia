@@ -51,7 +51,7 @@ Su posición refleja la necesidad de coordinación entre las políticas corporat
 - Gestión de proyectos interdisciplinarios
 
 ### En MetaCorp
-- **Ricardo Abeluengo**: Colega funcionario
+- **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido, anteriormente relacionado con MetaCorp)
 - **Francisco Egin**: Colaborador en MetaCorp
 - Personal académico y administrativo universitario
 

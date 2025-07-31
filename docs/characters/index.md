@@ -227,8 +227,9 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **🎖️ Oficiales y Políticos**
 
 #### [🏛️ **Ricardo Abeluengo**]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
-**Alcalde de Arcadia**
-- **Posición**: Líder político de la ciudad-estado
+**Alcalde de Arcadia (Fallecido)**
+- **Posición**: Líder político de la ciudad-estado (asesinado en atentado de Freiglasung)
+- **Legado**: Su muerte marcó el inicio de una crisis política en Arcadia
 - **Políticas**: Regulación equilibrada de metahumanos
 - **Desafíos**: Mantener orden en sociedad superhumana
 

@@ -279,7 +279,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **💰 Economía Metahumana**: Regulación de industrias únicas
 
 #### **Figuras Clave:**
-- **🏛️ [Ricardo Abeluengo](../characters/details/ricardo-abeluengo.md)** - Alcalde equilibrista
+- **🏛️ [Ricardo Abeluengo](../characters/details/ricardo-abeluengo.md)** - Alcalde asesinado por Freiglasung
 - **⚖️ [Ana Montenegro](../characters/details/ana-montenegro-esfinge-atropos.md)** - Abogada especializada
 - **🎖️ Autoridades Policiales** - Adaptadas a realidad meta
 

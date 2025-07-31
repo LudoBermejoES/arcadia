@@ -104,7 +104,7 @@ permalink: /all-content/
 - [🏛️ Arcadio]({{ site.baseurl }}/characters/details/arcadio/) - El héroe fundacional
 
 ### **Autoridades y Civiles**
-- [🏛️ Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/) - Alcalde de Arcadia
+- [🏛️ Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/) - Alcalde de Arcadia (fallecido en atentado)
 - [⭐ Eneiros]({{ site.baseurl }}/characters/details/eneiros/) - El héroe más querido
 - [🎭 Bailarina]({{ site.baseurl }}/characters/details/bailarina/) - La heroína del hielo
 - [🔥 Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/) - El pyro-heroico

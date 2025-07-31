@@ -60,7 +60,7 @@ Como ex-metahumano de MetaCorp, Relámpago:
 
 ### Estructura Corporativa
 - **Francisco Egin**: Funcionario de MetaCorp
-- **Ricardo Abeluengo**: Personal administrativo
+- **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido en atentado)
 - **General Martínez**: Coordinación militar
 
 ## Contexto Operacional

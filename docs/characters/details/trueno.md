@@ -54,7 +54,7 @@ La pareja Relámpago-Trueno sugiere una estrategia coordinada donde los poderes 
 
 ### Estructura Corporativa
 - **Francisco Egin**: Funcionario de MetaCorp
-- **Ricardo Abeluengo**: Personal administrativo
+- **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido en atentado)
 - **General Martínez**: Coordinación con autoridades militares
 
 ## Estado Actual

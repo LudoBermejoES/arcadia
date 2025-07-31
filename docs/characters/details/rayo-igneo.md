@@ -7,6 +7,10 @@ slug: rayo-igneo
 
 # Rayo Ígneo
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/rayo-igneo.png" alt="Rayo Igneo" />
+</div>
+
 ## Presentación
 
 Rayo Ígneo es un héroe metahumano veterano de Arcadia, reconocido por su imponente físico y sus poderosos poderes elementales. Casado con la también heroína Bailarina, forma parte de una de las parejas de superhéroes más exitosas de la ciudad.

@@ -103,7 +103,7 @@ slug: ego
 ## Relaciones Criminales
 
 ### **Entre "Los Grandes Criminales"**
-- **Peer criminal**: Opera al mismo nivel que **Hermes**, **Gadjet**, **Telaraña**
+- **Peer criminal**: Opera al mismo nivel que **Hermes**, **Cacharrero**, **Telaraña**
 - **Competencia implícita**: Su ego puede generar **rivalidad** con otros villanos prominentes
 - **Métodos distintivos**: Su **brutalidad sistemática** lo distingue de otros grandes criminales
 - **Reconocimiento mutuo**: Respetado por **capacidad destructiva** aunque no por colaboración

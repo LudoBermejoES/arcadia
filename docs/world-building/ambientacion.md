@@ -405,9 +405,7 @@ Como se mencionaba, la gente está acostumbrada a arreglar los desperfectos ocas
 
 **Telaraña** - Nadie sabe quién es, qué aspecto tiene ni dónde vive, pero tanto el estado como los metacorps están de acuerdo en que existe. Es considerado el líder del hampa metahumano de Arcadia y controla gran parte de la **red criminal subterránea**. Opera principalmente desde la subciudad, coordinando organizaciones subsidiarias como el **Puño Gris** (mafia del distrito asiático). Su red se extiende por túneles abandonados, estaciones de metro clausuradas y sistemas de alcantarillado. ¿Es un solo metahumano o una organización? Nadie lo sabe, pero su influencia subterránea es innegable.
 
-**Hermes** - Su primera aparición fue en el Robo del Zeppelin en 1972. Con el poder de volar a velocidades cercanas a la barrera del sonido y utilizando aparatos suministrados por Gadjet, se ha convertido en uno de los criminales más buscados, aunque sus exquisitos modales lo han hecho popular entre la ciudadanía.
-
-**Gadjet** - Criminal experto en creación de gases y explosivos. Fue capturado en el robo del banco Sabadell en 1993 por la intervención conjunta de los metacorps y Rayo Ígneo. Cumple veinte años en prisión de alta seguridad.
+**Hermes** - Su primera aparición fue en el Robo del Zeppelin en 1972. Con el poder de volar a velocidades cercanas a la barrera del sonido y utilizando aparatos suministrados por Cacharrero, se ha convertido en uno de los criminales más buscados, aunque sus exquisitos modales lo han hecho popular entre la ciudadanía.
 
 **Maza** - Una mole de pura roca viviente de más de dos metros y medio. Su primera aparición fue en el asalto al Crucero Victoria, responsable de la muerte por ahogamiento de más de doscientas personas. Ha escapado tres veces de la cárcel.
 

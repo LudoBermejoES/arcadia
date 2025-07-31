@@ -8,7 +8,7 @@ slug: gregor
 # Gregor
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/gregors.png" alt="Gregor" />
+  <img src="{{ site.baseurl }}/assets/img/characters/gregor.png" alt="Gregor" />
 </div>
 
 ## Presentación

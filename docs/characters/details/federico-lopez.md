@@ -7,6 +7,10 @@ slug: federico-lopez
 
 # Federico López ("El Sastre")
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/federico-lopez.png" alt="Federico López" />
+</div>
+
 ## Presentación
 **Federico López**, conocido profesionalmente como **"El Sastre"**, es el mentor tradicional y rival de Charada en la industria de trajes de superhéroes en Arcadia. Como sastre humano sin poderes metahumanos, representa la maestría artesanal tradicional en oposición al enfoque metamórfico de su ex-discípulo Charada. Su rivalidad profesional define gran parte de la política en la industria de confección heroica.
 

@@ -21,13 +21,13 @@ Rayo Ígneo es un héroe metahumano veterano de Arcadia, reconocido por su impon
 
 **Especialista en Elementos**: Su dominio sobre el fuego y la electricidad le permite enfrentar una amplia variedad de amenazas, desde criminales comunes hasta metahumanos peligrosos.
 
-**Colaborador con MetaCorp**: Ha trabajado en operaciones conjuntas con las fuerzas oficiales, como la captura de Gadjet en el robo del banco Sabadell en 1993.
+**Colaborador con MetaCorp**: Ha trabajado en operaciones conjuntas con las fuerzas oficiales, como la captura de Cacharrero en el robo del banco Sabadell en 1993.
 
 **Compañero Heroico**: Su matrimonio con Bailarina representa un ejemplo de trabajo en equipo tanto personal como profesional en el mundo de los superhéroes.
 
 ## Apariciones Documentadas
 
-**1993**: Participación en la captura de Gadjet durante el robo del banco Sabadell, trabajando en colaboración con MetaCorp.
+**1993**: Participación en la captura de Cacharrero durante el robo del banco Sabadell, trabajando en colaboración con MetaCorp.
 
 **Carrera Heroica**: A lo largo de su carrera ha detenido a más de doscientos criminales, estableciéndolo como uno de los héroes más productivos de Arcadia.
 

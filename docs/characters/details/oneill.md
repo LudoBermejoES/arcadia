@@ -7,9 +7,10 @@ slug: oneill
 
 # Oneill
 
-<div class="character-image">
-<img src="{{ site.baseurl }}/assets/img/characters/Oneill.png" alt="Oneill" class="character-portrait">
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Oneill.png" alt="Oneill" >
 </div>
+
 
 ## Presentación
 

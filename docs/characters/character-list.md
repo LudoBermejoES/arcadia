@@ -117,6 +117,7 @@ permalink: /characters/character-list/
 - [La Dama]({{ site.baseurl }}/characters/details/la-dama/)
 - [El Mago]({{ site.baseurl }}/characters/details/el-mago/)
 - [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/)
+- [Amira Roxana]({{ site.baseurl }}/characters/details/amira-roxana/) (intermediaria para metahumanos, defensora de mujeres musulmanas)
 - [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
 
 ### Figuras Misteriosas
@@ -283,4 +284,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*155 personajes documentados - Última actualización: Agosto 2025*
+*156 personajes documentados - Última actualización: Agosto 2025*

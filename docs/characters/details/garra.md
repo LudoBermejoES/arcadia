@@ -90,12 +90,22 @@ Como **experto tecnológico** y **estratega práctico** del grupo, Garra aporta 
 
 ## Relaciones Clave
 
-### Relación con Mecánica
-Su primera experiencia romántica genuinamente adolescente:
+### Relación con Mecánica (2011-2013)
+Su experiencia romántica genuinamente adolescente posterior:
 - **Citas en la chatarrería**: Encuentros románticos en el taller de su padre
 - **Sobreprotección paterna**: El Chatarrero le implantó dispositivos de seguimiento
 - **Celos de Sara10**: Su compañera de casa mostró celos evidentes
 - **Ruptura dolorosa**: Terminó debido a las complicaciones de su vida heroica
+
+
+### Relación con Amira Roxana (2015-2017)
+Su primera relación seria post-rejuvenecimiento:
+- **Encuentro fortuito**: Se conocieron cuando Garra necesitaba navegar el submundo sin comprometer sus principios heroicos
+- **Conexión intelectual**: [Amira Roxana]({{ site.baseurl }}/characters/details/amira-roxana/) fue una de las pocas personas que comprendió su dualidad edad/madurez
+- **Crecimiento mutuo**: Ella le enseñó navegación social, él le enseñó autodefensa
+- **Separación madura**: Terminaron amistosamente cuando sus caminos profesionales divergieron
+- **Legado duradero**: Amira utiliza las técnicas de combate que Garra le enseñó en su trabajo humanitario
+
 
 ## La Tragedia de la Reinvención
 Garra representa la **plasticidad de la identidad** y las **segundas oportunidades**:

@@ -21,8 +21,9 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 - **📋 Transcripciones Completas** - Sesiones grabadas con timestamps
 - **🤖 Notas con IA** - Análisis automáticos con Gemini
 - **📊 Resúmenes Narrativos** - Análisis profundos de cada sesión
-- **👥 Desarrollo de Personajes** - 15 años de evolución
+- **👥 Base de Datos de Personajes** - 156 personajes únicos documentados
 - **🌍 Worldbuilding** - El universo de Arcadia completo
+- **🏛️ Historia y Geografia** - Cronología detallada y mapas de Arcadia
 
 ## 🎭 Características Únicas
 
@@ -43,9 +44,11 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 
 - **⏱️ Duración**: 15 años activos (2010-2025)
 - **🎲 Sesiones**: 100+ documentadas
-- **👥 Jugadores**: 8 participantes únicos
-- **📝 Contenido**: Miles de páginas de notas
+- **👥 Personajes**: 156 personajes únicos
+- **🎭 Jugadores**: 8 participantes únicos
+- **📝 Contenido**: Miles de páginas de documentación
 - **🎵 Audio**: Decenas de horas grabadas
+- **🌍 Ubicaciones**: 7 distritos de Arcadia completamente desarrollados
 
 ## 🎯 Navegación del Archivo
 
@@ -53,14 +56,24 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 docs/
 ├── index.md                 # Página principal
 ├── campaigns/              # Las tres campañas
-│   ├── la-familia/         # Primera campaña
-│   ├── genesis/            # Segunda campaña  
-│   └── la-fuerza-oculta/   # Campaña actual
-│       ├── manual-notes/   # Notas manuales
-│       ├── ai-notes/       # Transcripciones IA
+│   ├── la-familia/         # Primera campaña (42 sesiones)
+│   ├── genesis/            # Segunda campaña (6 sesiones)
+│   └── la-fuerza-oculta/   # Campaña actual (25+ sesiones)
+│       ├── manual-notes/   # Notas manuales del GM
+│       ├── ai-notes/       # Transcripciones automáticas
 │       └── ai-notes-summary/ # Resúmenes analíticos
-├── _config.yml             # Configuración Jekyll
-└── assets/css/             # Estilos personalizados
+├── characters/             # Base de datos de personajes
+│   ├── details/           # 156 fichas individuales
+│   ├── gallery.md         # Galería visual
+│   └── character-list.md  # Lista completa
+├── world-building/         # Universo de Arcadia
+│   ├── geography/         # Los 7 distritos
+│   └── history/           # Cronología detallada
+├── groups/                # Organizaciones y facciones
+├── _config.yml            # Configuración Jekyll
+└── assets/               # Recursos multimedia
+    ├── css/              # Estilos personalizados
+    └── img/              # Imágenes de personajes
 ```
 
 ## 🔧 Desarrollo Local

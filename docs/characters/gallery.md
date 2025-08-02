@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería de Personajes de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora los <strong>155 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
+  <p>Explora los <strong>156 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="gallery-container" id="character-gallery">
@@ -25,6 +25,7 @@ document.addEventListener('DOMContentLoaded', function() {
   const characters = [
     { slug: '2d', name: '2D', image: '2d.png' },
     { slug: 'alberto-alvarez', name: 'Alberto Álvarez', image: 'alberto-alvarez.png' },
+    { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
     { slug: 'aldonza-lorenzo', name: 'Aldonza Lorenzo', image: 'Aldonza Lorenzo.png' },
     { slug: 'alfonso-xiii', name: 'Alfonso XIII', image: 'Alfonso Montenegro.png' },
     { slug: 'alice-tesla', name: 'Alice Tesla', image: 'Alice_Tesla.png' },

@@ -8,7 +8,7 @@ slug: lambert
 # Lambert
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Lambert.png" alt="Lambert" />
+  <img src="{{ site.baseurl }}/assets/img/characters/lambert.png" alt="Lambert" />
 </div>
 
 ## Presentación

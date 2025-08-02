@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería de Personajes de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora los <strong>151 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
+  <p>Explora los <strong>152 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="gallery-container" id="character-gallery">
@@ -114,6 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
     { slug: 'rayo-igneo', name: 'Rayo Ígneo', image: 'rayo-igneo.png' },
     { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },
+    { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto_mckomick.png' },
     { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
     { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
     { slug: 'saltamontes', name: 'Saltamontes', image: 'Saltamontes.png' },

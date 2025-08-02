@@ -12,7 +12,7 @@ slug: justa-justicia-sentencia
 </div>
 
 ## Presentación
-Justa, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión.
+Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión.
 
 ## Rol y Actividades
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".

@@ -8,7 +8,7 @@ slug: lorena-sanchez
 # Lorena Sanchez
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Lorena Sanchez.png" alt="Lorena Sanchez" />
+  <img src="{{ site.baseurl }}/assets/img/characters/lorena-sanchez.png" alt="Lorena Sanchez" />
 </div>
 
 ## Presentación

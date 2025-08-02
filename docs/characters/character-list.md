@@ -267,6 +267,7 @@ permalink: /characters/character-list/
 - [Marcial Gomez]({{ site.baseurl }}/characters/details/marcial-gomez/) (forense envejecido, desaparecido)
 - [Marta Heredia]({{ site.baseurl }}/characters/details/marta-heredia/) (colega de Ignacio, asesinada)
 - [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)
+- [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
 ### Fuerzas Especiales y Militares
 - [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar bajo General Martínez)
@@ -278,4 +279,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*151 personajes documentados - Última actualización: Julio 2025*
+*152 personajes documentados - Última actualización: Agosto 2025*

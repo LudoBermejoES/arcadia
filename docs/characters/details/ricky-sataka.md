@@ -7,6 +7,10 @@ slug: ricky-sataka
 
 # Ricky Sataka
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/ricky-sataka.png" alt="Ricky Sataka" />
+</div>
+
 ## Información Personal
 
 **Nombre Real**: Ricky Sataka  

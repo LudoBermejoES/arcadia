@@ -304,6 +304,29 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 📺 **Organizaciones de Medios**
 
+### **📰 [Los Periodistas de Arcadia](periodistas.md)**
+**Red Especializada de Profesionales de Medios**
+
+#### **Composición Profesional:**
+- **📺 [Magdalena Agapé](../characters/details/magdalena.md)** - Presentadora principal especializada en superhéroes
+- **📰 [Nicolás Cifuentes](../characters/details/nicolas-cifuentes.md)** - Periodista veterano especializado en metahumanos
+- **🎮 [Ricky Sataka](../characters/details/ricky-sataka.md)** - Presentador de "Héroes o Villanos"
+- **🌐 [Trifásico](../characters/details/trifasico.md)** - Streamer internacional multilingüe
+- **📹 [Dani Rodriguez](../characters/details/dani-rodriguez.md)** - Camarógrafo especializado en documentación paranormal
+- **📜 [Juan Guzmán](../characters/details/juan-guzman.md)** - Figura histórica en archivos mediáticos
+
+#### **Especialización Única:**
+- **🦸‍♂️ Periodismo Metahumano**: Cobertura especializada de actividades heroicas
+- **📡 Tecnología Paranormal**: Equipos especializados para documentar fenómenos sobrenaturales
+- **🎭 Ética Profesional**: Balance entre transparencia e privacidad heroica
+- **🌐 Alcance Global**: Proyección internacional de eventos arcadianos
+
+#### **Impacto en la Sociedad:**
+- **📢 Puente Social**: Conexión entre comunidad heroica y ciudadanía
+- **🎓 Educación Pública**: Explicación de conceptos metahumanos complejos
+- **📚 Preservación Histórica**: Documentación de la evolución heroica
+- **🏛️ Influencia Política**: Formación de opinión pública sobre políticas metahumanas
+
 ### **📺 RTA (Radio Televisión Arcadia)**
 **Medios Públicos Especializados**
 
@@ -482,6 +505,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **🛠️ Organizaciones de Apoyo**
 - **👔 Industria de Trajes** - Sastres especializados
 - **🦦 Red de Mentores** - Sistema de entrenamiento
+- **📺 [Los Periodistas](periodistas.md)** - Profesionales de medios especializados
 - **📺 Medios Especializados** - RTA y otros
 - **💰 Economía de Favores** - Intercambio profesional
 

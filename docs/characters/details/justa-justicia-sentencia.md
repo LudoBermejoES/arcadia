@@ -12,7 +12,7 @@ slug: justa-justicia-sentencia
 </div>
 
 ## Presentación
-Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión. Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
+Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Tras una experiencia traumática en los juzgados que expuso la corrupción del sistema judicial, ha evolucionado hacia una nueva identidad como "Sentencia", dedicándose a servir una justicia universal que trasciende las leyes manipuladas. Comparte habitación con Psique durante el entrenamiento en la mansión. Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
 
 ## Rol y Actividades
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".
@@ -77,6 +77,60 @@ Su experiencia militar se evidencia en:
 - **Preparación táctica**: Anticipa necesidades específicas para diferentes tipos de amenaza
 
 La experiencia reciente ha confirmado la transición natural de Justa de especialista en armas a comandante táctica del equipo. Su combinación de experiencia militar, análisis realista y liderazgo adaptable la convierte en el elemento estabilizador crucial para La Fuerza Oculta en operaciones de combate real.
+
+## Transformación Filosófica: De Justa a Sentencia
+
+### El Despertar en los Juzgados
+La experiencia judicial que siguió a las acciones de La Fuerza Oculta marcó un punto de inflexión profundo en la personalidad de Justa:
+
+- **Confrontación con la injusticia sistémica**: Descubrió que el sistema judicial estaba manipulado contra los metahumanos
+- **Cuestionamiento existencial**: "¿Si la justicia no es igual para todos, si las leyes se manejan e interpretan, qué justicia queda?"
+- **Revelación del control**: Reconoció que la justicia institucional era "un fantasma pobre y triste, manipulado, tergiversado, impuesto como herramienta de control"
+- **Despertar a la justicia universal**: Encontró una "justicia por encima de todos ellos, una justicia universal que creaba un paraguas perpetuo para todos los hombres y metahumanos"
+
+### La Identidad "Sentencia"
+Su transformación culminó en una nueva comprensión de su propósito:
+
+- **Más allá del nombre**: Ya no podía ser simplemente "Justa" porque la verdadera justicia no admite dudas
+- **Brazo ejecutor**: Se ve a sí misma como "el brazo ejecutor de esa justicia enorme, que lo sobrevolaba todo"
+- **Justicia absoluta**: Su nueva misión juzga "cada acto cruel, malvado, terrible, fuera mínimo o enorme"
+- **Independencia del sistema**: Opera por encima de "abogados y jueces cortos de miras, torpes y limitados, de leyes manipuladas"
+
+### Simbolismo del Collar Inhibidor
+La experiencia de llevar el "yugo electrónico" simbolizó su vulnerabilidad ante un sistema corrupto:
+
+- **Indefensión forzada**: "La habían convertido en alguien indefenso"
+- **Interferencia sistemática**: El dispositivo representaba la opresión institucional de los metahumanos
+- **Conexión con su padre**: Recordó a Anselmo enfrentando al Faraón sin poderes, cuestionando qué justicia permite tal desigualdad
+
+Esta evolución filosófica ha convertido a Justa/Sentencia en algo más que una líder táctica: es ahora una fuerza moral que busca justicia verdadera más allá de las limitaciones legales corruptas.
+
+## Reflexiones Post-Metro: Madurez Moral y Determinación
+
+Tras la batalla del metro y su vida como fugitiva, Justa experimenta una profundización de su transformación filosófica que afecta tanto su psicología como su determinación:
+
+### Pérdida de la Simplicidad
+- **Insomnio persistente**: La complejidad moral le impide descansar como antes, cuando solo entrenaba con claridad de propósito
+- **Nostalgia por la certeza**: Extraña los días cuando todo era "diáfano" - entrenar, disparar, fortalecerse para hacer orgulloso a su padre
+- **Mundo complicado**: Reconoce que la realidad heroica es infinitamente más compleja que sus expectativas iniciales
+
+### Misión Personal y Carga Emocional
+- **Objetivo paterno**: Determina rescatar lo que queda de su padre en la mente de Mésmero, sin saber si es real o señuelo
+- **Tarea ingente**: Comprende que no puede lograrlo sola, especialmente como fugitiva y paria social
+- **Rabia productiva**: Su ira por la injusticia se convierte en combustible para la determinación, aunque dificulta el sueño
+
+### Madurez Moral Desarrollada
+- **Brújula personal**: Abandona la búsqueda de una justicia externa para desarrollar su propio código moral
+- **Navegación moral**: Cada situación requiere análisis individual de "múltiples facetas" para llegar a una sentencia justa
+- **Responsabilidad creativa**: Comprende que los héroes no sirven la justicia, sino que la **crean** con cada acción y decisión
+- **Aceptación del error**: Reconoce que pueden equivocarse, pero que la inacción es peor que el error
+
+### Determinación Cristalizada
+- **Propósito dual**: Navegar un mundo corrupto hacia su objetivo personal mientras crea justicia en el camino
+- **Rechazo de la pasividad**: Prefiere tomar decisiones imperfectas antes que permitir que otros decidan por ella
+- **Fuerza diaria**: Su nueva comprensión no facilita el descanso, pero sí intensifica su esfuerzo cotidiano
+
+Esta maduración post-metro muestra a Justa/Sentencia evolucionando de una idealista que busca servir la justicia absoluta, hacia una pragmática que acepta la responsabilidad de crear justicia relativa en un mundo moralmente complejo.
 
 ## Conexiones Familiares
 

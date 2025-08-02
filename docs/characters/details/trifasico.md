@@ -7,12 +7,17 @@ slug: trifasico
 
 # Trifásico
 
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/trifasico.png" alt="Trifásico" />
+</div>
+
 ## Información Personal
 
 **Nombre Real**: Desconocido  
 **Alias**: Trifásico  
 **Ocupación**: Streamer y Influencer  
-**Estado**: Activo  
+**Estado**: Activo
 **Afiliación**: Independiente  
 
 ## Poderes y Habilidades

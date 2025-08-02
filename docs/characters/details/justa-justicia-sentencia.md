@@ -12,7 +12,7 @@ slug: justa-justicia-sentencia
 </div>
 
 ## Presentación
-Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión.
+Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Comparte habitación con Psique durante el entrenamiento en la mansión. Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
 
 ## Rol y Actividades
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".
@@ -77,3 +77,21 @@ Su experiencia militar se evidencia en:
 - **Preparación táctica**: Anticipa necesidades específicas para diferentes tipos de amenaza
 
 La experiencia reciente ha confirmado la transición natural de Justa de especialista en armas a comandante táctica del equipo. Su combinación de experiencia militar, análisis realista y liderazgo adaptable la convierte en el elemento estabilizador crucial para La Fuerza Oculta en operaciones de combate real.
+
+## Conexiones Familiares
+
+### Roberto McKomick - Tío y Proveedor Logístico
+[Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), tío de Justa, mantiene una red de apoyo logístico crucial para sus actividades heroicas:
+
+- **12 ubicaciones de armas**: Distribuidas por toda Arcadia para acceso rápido
+- **3 almacenes seguros**: Espacios protegidos para entrenamiento y almacenamiento
+- **Especialización diferente**: Roberto prefiere subfusiles mientras Justa usa Desert Eagle
+- **Acceso al legado paterno**: Custodio de la colección de armas de Anselmo McKomick
+- **Entrenamiento seguro**: Proporciona lugares donde practicar sin ser detectada
+
+### Legado de Anselmo McKomick - Padre Fallecido
+El padre de Justa murió durante el ataque de MetaCorps a La Familia, evento que:
+- **Definió su personalidad**: La disciplina militar y dedicación al entrenamiento
+- **Motivó su arsenal**: Las armas heredadas mantienen conexión emocional con su memoria
+- **Influyó en su misión**: La protección de compañeros como familia sustituta
+- **Trauma persistente**: Revivido en sesión 14 al explorar la mente de Mésmero

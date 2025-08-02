@@ -30,7 +30,7 @@ Roberto actúa como el gestor logístico y proveedor de armamento para Justa, ma
 - **Seguridad operacional**: Mantenimiento de ubicaciones ocultas y protegidas
 - **Diversidad de arsenal**: Acceso a diferentes tipos de armamento según necesidades
 
-## Relaci�n Familiar
+## Relación Familiar
 ### Conexión con Justa
 Roberto representa la continuidad familiar tras la muerte de Anselmo. Su relación con Justa va más allá del simple suministro de armas; actúa como:
 - **Preservador del legado**: Mantiene viva la conexión con su padre fallecido
@@ -58,7 +58,7 @@ Roberto mantiene una red logística compleja:
 - **Especializaciones variables**: Diferentes tipos de armamento según ubicación
 - **Acceso controlado**: Solo Justa y Roberto conocen todas las ubicaciones
 
-### Protocoles de Seguridad
+### Protocolos de Seguridad
 - **Ubicaciones secretas**: Protegidas del conocimiento público y oficial
 - **Acceso restringido**: Solo familia McKomick tiene acceso completo
 - **Entrenamiento seguro**: Lugares donde practicar sin ser detectado
@@ -88,7 +88,7 @@ Roberto mantiene vivo el legado de Anselmo:
 - **Continuidad operacional**: Mantiene los recursos que Anselmo había acumulado
 - **Conexión emocional**: Las armas representan la memoria del padre fallecido
 
-### Evoluci�n del Rol
+### Evolución del Rol
 De hermano superviviente a mentor activo:
 - **Responsabilidad familiar**: Asumió el cuidado del legado armamentístico
 - **Adaptación a nuevas necesidades**: Expandió la red para apoyar las actividades heroicas de Justa

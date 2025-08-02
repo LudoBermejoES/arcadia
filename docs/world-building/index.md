@@ -209,13 +209,17 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 - **🎭 Teatro Imposible**: Obras que requieren poderes para ser realizadas
 - **🎵 Música Sobrenatural**: Sonidos créables solo con habilidades especiales
 - **🏟️ Deportes Meta**: Competiciones que trascienden límites humanos
-- **📺 Medios Especializados**: RTA y otros medios adaptados
+- **📺 Medios Especializados**: RTA y programas como "Héroes o Villanos"
+- **🎬 ArcadiaWood**: Industria cinematográfica con figuras como Jane Irinar y The Rock
+- **🎪 Cabaret Metahumano**: Espectáculos que combinan arte tradicional con poderes reales
 
 #### **🖼️ Arte Visual Meta**
+- **🖼️ "Pintura de Alma"**: Técnica revolucionaria de Ramón Beguell que expone la esencia espiritual
 - **🎨 Esculturas Vivientes**: Arte que cambia con poderes del artista
 - **🌈 Pinturas Dimensionales**: Obras que existen en múltiples planos
 - **💫 Arte Temporal**: Creaciones que solo existen momentáneamente
 - **🔮 Instalaciones Místicas**: Obras que interactúan con observadores
+- **🧵 Sastrería Heroica**: Dos escuelas artísticas (Charada vs Federico López) especializadas en trajes metahumanos
 
 ---
 
@@ -262,7 +266,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 - **15** Años de Desarrollo
 - **6** Eras Históricas  
 - **12** Distritos Urbanos
-- **200+** Personajes Únicos
+- **155** Personajes Únicos
 - **50+** Organizaciones
 - **100+** Ubicaciones Detalladas
 

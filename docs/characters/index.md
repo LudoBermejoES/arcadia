@@ -14,7 +14,7 @@ description: "151 Héroes, Villanos y Aliados"
 ## 🌟 **Universo de Personajes**
 
 
-Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **151 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
+Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **155 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
 
 **🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**
 
@@ -228,12 +228,19 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ### **🎖️ Oficiales y Políticos**
 
+#### [🏛️ **François Chalá**]({{ site.baseurl }}/characters/details/francois-chala/)
+**Alcalde Actual de Arcadia**
+- **Posición**: Líder político actual de la ciudad-estado
+- **Origen**: Descendiente de inmigrantes liberianos, segundo al mando de Abeluengo
+- **Supervivencia**: Logró mantener el poder tras la crisis del atentado
+- **Desafíos**: Presión por la Ley de Prevención y gestión de incidentes metahumanos
+
 #### [🏛️ **Ricardo Abeluengo**]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
-**Alcalde de Arcadia (Fallecido)**
-- **Posición**: Líder político de la ciudad-estado (asesinado en atentado de Freiglasung)
+**Ex-Alcalde de Arcadia (Fallecido)**
+- **Posición**: Anterior líder político (asesinado en atentado de Freiglasung)
 - **Legado**: Su muerte marcó el inicio de una crisis política en Arcadia
 - **Políticas**: Regulación equilibrada de metahumanos
-- **Desafíos**: Mantener orden en sociedad superhumana
+- **Predecesor**: De François Chalá, actual alcalde
 
 #### [⭐ **Eneiros**]({{ site.baseurl }}/characters/details/eneiros/)
 **El Héroe Más Querido**
@@ -335,7 +342,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-- **151** Personajes Únicos
+- **155** Personajes Únicos
 - **17** Protagonistas Principales  
 - **50+** Villanos Documentados
 - **15** Años de Desarrollo

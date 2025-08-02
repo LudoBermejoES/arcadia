@@ -27,7 +27,7 @@ permalink: /maps/distrito-aureliano/
     });
 
     // Define the bounds for the SVG overlay
-    var bounds = [[0, 0], [1000, 1000]]; // Adjust these values based on your SVG dimensions
+    var bounds = [[0, 0], [1963, 1568]]; // Adjust these values based on your SVG dimensions
     
     // Add the SVG overlay
     var imageUrl = '{{ site.baseurl }}/assets/maps/DistritoAurileano.svg';

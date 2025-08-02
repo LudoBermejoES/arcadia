@@ -31,6 +31,7 @@ permalink: /characters/character-list/
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)
 
 ### Gobierno y Administración
+- [François Chalá]({{ site.baseurl }}/characters/details/francois-chala/) (Alcalde actual de Arcadia)
 - [Ignacio Rodríguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez/)
 - [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos universitarios)
 - [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)
@@ -255,12 +256,15 @@ permalink: /characters/character-list/
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)
 - [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
 - [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
+- [Ricky Sataka]({{ site.baseurl }}/characters/details/ricky-sataka/) (presentador de "Héroes o Villanos")
+- [Trifásico]({{ site.baseurl }}/characters/details/trifasico/) (streamer multilingüe)
 
 ### Comerciantes y Guías del Submundo
 - [El Señor de las Ratas]({{ site.baseurl }}/characters/details/el-senor-de-las-ratas/) (guía subterráneo sin lengua)
 - [Yeng]({{ site.baseurl }}/characters/details/yeng/) (comerciante del mercado negro en la subciudad)
 
 ### Civiles y Familiares
+- [Eduardo Vaquerizo]({{ site.baseurl }}/characters/details/eduardo-vaquerizo/) (vigilante de seguridad, víctima de Saltamontes)
 - [Francisco]({{ site.baseurl }}/characters/details/francisco/) (hermano de Jorge, discapacitado)
 - [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/) (hermana de Ignacio, testigo clave caso Hermanas Magdalena)
 - [Ignacio Fuentes]({{ site.baseurl }}/characters/details/ignacio-fuentes/) (técnico de OMA, desaparecido)
@@ -279,4 +283,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*152 personajes documentados - Última actualización: Agosto 2025*
+*155 personajes documentados - Última actualización: Agosto 2025*

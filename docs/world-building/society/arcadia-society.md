@@ -24,7 +24,44 @@ jornada laboral es de siete horas por ley, y la realización de horas extraordin
 
 La cultura es, posiblemente, el principal baluarte de Arcadia ante el extranjero. Desde 1992 el gobierno ha invertido un fuerte capital en mejorar la enseñanza primaria y secundaria, así como de habilitar numerosos centros para la realización de exposiciones, charlas y coloquios bajo el auspicio de los últimos coletazos del sector republicano. No obstante, esa tendencia se ha ido suprimiendo lentamente con la llegada de un modelo capitalista más agresivo que, sin ir en contra de la constitución (que se mantiene fieramente por los partidos políticos) sí ha suprimido ciertas ventajas de la ciudadanía, que se presenta a las urnas con una decepción que aumenta de candidatura en candidatura.
 
-La relación de los arcadios con los metahumanos es buena, pero con reservas. Aunque populares, no dejan de verse como una fuente de problemas. En los últimos años y debido a los actos cada vez más radicales en los que toman parte los metahumanos (robos con sangre, agresiones, asesinatos y extorsión) han ido apareciendo grupos que votan por realizar un cambio constitucional que obligue a los metahumanos a tener una ficha policial en cuanto descubren sus poderes y, si bien algún que otro metahumano está fichado (sea por haber sido capturado o por propia voluntad) aún son muy escasas las anotaciones a ese respecto. No obstante esta opinión está ganando cada vez más simpatizantes que quieren saber si su vecino es en realidad un ser capaz de lanzar rayos con un simple movimiento de manos.
+La relación de los arcadios con los metahumanos es buena, pero con reservas. Aunque populares, no dejan de verse como una fuente de problemas. En los últimos años y debido a los actos cada vez más radicales en los que toman parte los metahumanos (robos con sangre, agresiones, asesinatos y extorsión) han ido apareciendo grupos que votan por realizar un cambio constitucional que obligue a los metahumanos a tener una ficha policial en cuanto descubren sus poderes. 
+
+### Situación Política Actual (2024-2025)
+
+El actual alcalde, **François Chalá**, descendiente de inmigrantes liberianos y anterior segundo al mando de Ricardo Abeluengo, ha mantenido una postura cautelosa respecto a las políticas metahumanas. Tras asumir el cargo después del trágico atentado que acabó con la vida de su predecesor, Chalá enfrenta presiones constantes del **Grupo Mixto** para aprobar la **Ley de Prevención**, que obligaría a realizar pruebas genéticas metahumanas en recién nacidos.
+
+Incidentes recientes, como el del niño con poderes de fuego descontrolados en el Distrito Biónico (marzo 2024), han intensificado estas presiones, aunque el alcalde mantiene que "circunstancias excepcionales no deben dictar políticas generales". Esta tensión refleja la división social creciente entre quienes apoyan mayor control sobre los metahumanos y quienes defienden sus derechos civiles.
+
+### Medios de Comunicación y Cultura Popular
+
+La **Radio Televisión de Arcadia (RTA)**, la cadena pública, ha desarrollado programación especializada en contenido metahumano, incluyendo el controvertido reality show **"Héroes o Villanos"** presentado por **Ricky Sataka**. Este programa, donde jóvenes metahumanos conviven para aprender a controlar sus poderes, ha generado debate sobre la ética del entretenimiento basado en menores con habilidades peligrosas.
+
+Paralelamente, figuras como **Trifásico**, el streamer con más seguidores del mundo capaz de transmitir simultáneamente en tres idiomas, han revolucionado el panorama mediático, organizando eventos masivos como "La Fiesta Definitiva" que atraen atención internacional hacia Arcadia.
+
+### Escena Artística y Cultural
+
+Arcadia ha desarrollado una **escena artística única** que combina creatividad tradicional con elementos metahumanos, creando formas de expresión completamente nuevas:
+
+#### **Industria Cinematográfica: "ArcadiaWood"**
+La industria del cine local, conocida como **"ArcadiaWood"**, cuenta con figuras prominentes como **Jane Irinar** y **The Rock**, que han establecido a Arcadia como un centro de producción cinematográfica distintivo. La proximidad de eventos extraordinarios y la presencia de metahumanos ha generado un género cinematográfico único que mezcla realidad y ficción de manera innovadora.
+
+#### **Artes Visuales Revolucionarias**
+El panorama artístico está dominado por innovadores como **Ramón Beguell**, creador de la revolucionaria **"Pintura de Alma"** - una técnica única donde utiliza posibles habilidades metahumanas para **exponer la representación del alma** de sus sujetos. Sus obras se venden a **precios desorbitados** en el mercado del arte exclusivo, estableciendo un nuevo género artístico que trasciende la representación física tradicional.
+
+La música y las artes escénicas también florecen, con figuras como **Alonso Dossantos** contribuyendo al patrimonio cultural reconocido de la ciudad.
+
+#### **Industria de Trajes Especializados**
+Un sector cultural único es la **sastrería heroica**, representada por la famosa rivalidad entre **Charada** y **Federico López ("El Sastre")**. Esta industria especializada ha desarrollado dos escuelas artísticas distintas:
+
+- **Escuela Tradicional** (Federico López): Métodos artesanales clásicos, operaciones transparentes, énfasis en la técnica humana pura
+- **Escuela Metahumana** (Charada): Uso de poderes de transformación para medidas exactas, operaciones discretas, innovación tecnológica
+
+Esta rivalidad profesional, que data de los años 90 cuando Charada "robó" clientela a su mentor Federico, ha creado opciones diversas para los héroes y establecido estándares de calidad competitivos en la industria.
+
+#### **Artes Escénicas Metahumanas**
+El sector del entretenimiento incluye formas únicas como el **cabaret con elementos sobrenaturales**, donde artistas como **Mésmero** (antes de su carrera heroica) combinaban habilidades telepáticas reales con actuaciones de mentalismo y transformismo, creando espectáculos que trascienden las limitaciones del entretenimiento tradicional.
+
+Si bien algún que otro metahumano está fichado (sea por haber sido capturado o por propia voluntad) aún son muy escasas las anotaciones a ese respecto. No obstante esta opinión está ganando cada vez más simpatizantes que quieren saber si su vecino es en realidad un ser capaz de lanzar rayos con un simple movimiento de manos.
 
 Destacar aquí la relación de los arcadios con los metahumanos “alterados”, o simplemente los alterados: aquellos metahumanos que por sus rarezas físicas no son capaces de hacerse pasar por humanos. El sentimiento general hacia ellos es de rechazo o desconfianza, llegando en algunos casos al desprecio o incluso el racismo, máxime si demuestran poderes peligrosos. Se sabe de
 algunas agrupaciones de aspectos xenófobos que buscan la expulsión de estos metahumanos, y en varias ocasiones los metacorps han tenido que proteger a algunos alterados de las iras de algunos exhaltados.

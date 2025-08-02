@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería de Personajes de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora los <strong>152 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
+  <p>Explora los <strong>155 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="gallery-container" id="character-gallery">
@@ -46,6 +46,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'crazy-mary', name: 'Crazy Mary', image: 'crazy-mary.png' },
     { slug: 'cyberpunk', name: 'Cyberpunk', image: 'cyberpunk.png' },
     { slug: 'david', name: 'David', image: 'david.png' },
+    { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
     { slug: 'destino', name: 'Destino', image: 'destino.png' },
     { slug: 'diablo', name: 'Diablo', image: 'diablo.png' },
     { slug: 'diana', name: 'Diana', image: 'diana.png' },
@@ -64,6 +65,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'estocada', name: 'Estocada', image: 'Estocada.png' },
     { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
     { slug: 'fidel-castro', name: 'Fidel Castro', image: 'fidel-castro.png' },
+    { slug: 'francois-chala', name: 'François Chalá', image: 'generic.png' },
     { slug: 'francisco-franco', name: 'Francisco Franco', image: 'francisco-franco.png' },
     { slug: 'furina', name: 'Furina', image: 'Furina.jpg' },
     { slug: 'garra', name: 'Garra', image: 'Garra.png' },
@@ -114,6 +116,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
     { slug: 'rayo-igneo', name: 'Rayo Ígneo', image: 'rayo-igneo.png' },
     { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },
+    { slug: 'ricky-sataka', name: 'Ricky Sataka', image: 'generic.png' },
     { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
     { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
     { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
@@ -130,6 +133,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' },
     { slug: 'thomas-raza', name: 'Thomas / Raza', image: 'Thomas_Raza.png' },
     { slug: 'tifon', name: 'Tifón', image: 'tifon.png' },
+    { slug: 'trifasico', name: 'Trifásico', image: 'generic.png' },
     { slug: 'trueno', name: 'Trueno', image: 'Trueno.png' },
     { slug: 'venus-sibila', name: 'Venus / Sibila', image: 'Venus Sibila.png' },
     { slug: 'vista', name: 'Vista', image: 'Vista.png' },

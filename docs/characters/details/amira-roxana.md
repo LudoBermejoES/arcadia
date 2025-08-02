@@ -8,7 +8,7 @@ slug: amira-roxana
 # Amira Roxana
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Amira_Roxana.png" alt="Amira Roxana" />
+  <img src="{{ site.baseurl }}/assets/img/characters/amira-roxana.png" alt="Amira Roxana" />
 </div>
 
 ## Presentación

@@ -114,7 +114,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
     { slug: 'rayo-igneo', name: 'Rayo Ígneo', image: 'rayo-igneo.png' },
     { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },
-    { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto_mckomick.png' },
+    { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
     { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
     { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
     { slug: 'saltamontes', name: 'Saltamontes', image: 'Saltamontes.png' },

@@ -55,17 +55,25 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **La Isla Volcánica Única**
 **Ubicación**: Atlántico, nación-estado independiente  
-**Diseño**: 7 distritos especializados creados por el arquitecto Marius  
+**Diseño**: 12 distritos únicos (5 especializados + 7 residenciales)  
 **Clima**: Tropical artificialmente mantenido  
-**Población**: Comunidad metahumana más grande del mundo  
+**Población**: Más de 10 millones de habitantes, la comunidad metahumana más grande del mundo  
 
-### **Los Siete Distritos**
-- **🏛️ Distrito Clásico** - Centro político y administrativo
-- **🏰 Distrito Gótico** - Zona siniestra con arquitectura industrial años 40-50 e iglesias (territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/))
-- **🌆 Distrito Futurista** - Centro corporativo y tecnológico
-- **⛪ Distrito Eclesiástico** - Área religiosa e institucional  
-- **🌿 Distrito Biónico** - Zona residencial premium y natural
-- **🌏 Dos distritos adicionales** con especializaciones únicas
+### **Los Cinco Distritos Especializados de Marius**
+- **🏛️ Distrito Clásico** - Centro político, religioso y judicial
+- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/geography/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
+- **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
+- **⛪ Distrito Eclesiástico** - Área religiosa multi-confesional  
+- **🌿 Distrito Biónico** - Distrito natural premium con arquitectura oriental
+
+### **Los Siete Distritos Residenciales**
+- **☀️ Distrito Solis** (Domingo) - Residencial tradicional y familiar
+- **🌙 Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales
+- **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
+- **💼 Distrito Mercurii** (Miércoles) - Residencial de clase media profesional
+- **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
+- **💕 Distrito Veneris** (Viernes) - Distrito juvenil y estudiantil
+- **🛡️ Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
 
 ---
 
@@ -120,7 +128,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">7</span>
+<span class="stat-number">12</span>
 <span class="stat-label">Distritos Únicos</span>
 </div>
 </div>

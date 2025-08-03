@@ -10,6 +10,95 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ---
 
+## 📅 **Agosto 2025**
+
+### **01 de Agosto de 2025**
+
+#### **📋 Planificación y Análisis**
+- **Día de planificación** - Análisis del sistema de mapas existente y preparación para mejoras
+- **Evaluación de contenido** - Revisión de la estructura de distritos y necesidades de documentación
+- **Preparación técnica** - Investigación de tecnologías para mapas interactivos avanzados
+
+### **02 de Agosto de 2025**
+
+#### **👥 Expansión de Personajes**
+- **Añadidos 4 nuevos personajes** con documentación completa:
+  - **Eduardo Vaquerizo** - Nuevo personaje con imagen incluida
+  - **François Chala** - Personaje francés con imagen incluida
+  - **Ricky Sataka** - Personaje completamente documentado
+  - **Trifásico** - Nuevo metahumano con poderes eléctricos
+
+#### **🗺️ Primeros Experimentos con Mapas**
+- **Primer intento de mapas interactivos** - Creación inicial del sistema de mapas:
+  - **DistritoAurileano.svg** - Primer mapa en formato SVG
+  - **distritoAurileano.md** - Primera página de distrito con mapa básico
+  - Fundación del concepto de mapas interactivos para distritos
+
+#### **📰 Contenido Narrativo**
+- **Transcripciones de noticias TV** - Añadido contenido de noticias televisivas del universo:
+  - Nuevas transcripciones documentando eventos en el mundo de Arcadia
+  - Integración de medios de comunicación como elemento narrativo
+
+#### **🏛️ Sociedad y Worldbuilding**
+- **Expandida arcadia-society.md** - Información adicional sobre la estructura social de Arcadia
+- **Actualizaciones en world-building** - Mejoras generales en la documentación del mundo
+- **Actualizada galería de personajes** - Incorporación de nuevas imágenes
+
+#### **🖼️ Actualizaciones de Personajes Existentes**
+- **Justa** - Múltiples actualizaciones y correcciones
+- **Roberto McKonick** - Mejoras en documentación
+- **Amira** - Actualizaciones varias en el personaje
+
+### **03 de Agosto de 2025**
+
+#### **🗺️ Sistema de Mapas Interactivos - Implementación Completa**
+- **Creado Distrito Iovis interactivo** - Nuevo mapa completamente funcional con tiles generados:
+  - Generados 217 tiles (512×512 pixels) para zoom levels 0-6
+  - Configuración dinámica de maxZoom basada en tiles disponibles
+  - Compatible con sistema de marcadores GeoJSON
+  - Funcionalidad completa de zoom, pan y marcadores
+
+#### **🔧 Sistema de Mapas Mejorado**
+- **Backend dinámico** - Actualizado marker-manager.js para detectar automáticamente niveles de zoom disponibles:
+  - Función `getMapConfig()` ahora escanea directorios de tiles
+  - Configuración automática de `maxZoom` y `minZoom` por mapa
+  - Prevención de errores por diferencias en estructura de tiles
+- **Frontend adaptativo** - Actualizado marker-app.js para usar configuración dinámica:
+  - Uso de `mapConfig.maxZoom` en lugar de valor hardcodeado
+  - Generación de resoluciones adaptada a cada mapa
+  - Compatibilidad con mapas de diferentes tamaños
+
+#### **📍 Marcadores Funcionando**
+- **Sistema de marcadores operativo** - Confirmado funcionamiento completo:
+  - Creación, edición y eliminación de marcadores
+  - Diferentes categorías con estilos visuales únicos
+  - Guardado automático en archivos GeoJSON
+  - Integración con mapas tanto de Martis como Iovis
+
+#### **🌍 Actualización Masiva de Geografía**
+- **Documentación completa de distritos** - Actualización integral del sistema geográfico:
+  - **index.md**: Cambiado de "7 distritos" a "12 distritos únicos (5 especializados + 7 residenciales)"
+  - **ambientacion.md**: Añadidos enlaces a mapas interactivos disponibles
+  - **arcadia-geography.md**: Enlace al nuevo distrito Iovis
+  - **distrito-iovis.md**: Página completa con mapa interactivo y información institucional
+
+#### **🏛️ Los 7 Distritos Residenciales Documentados**
+- **Sistema completo de distritos residenciales** - Documentación detallada de todos los distritos con nombres latinos:
+  - **Distrito Solis** (Domingo) - Residencial tradicional y familiar
+  - **Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales  
+  - **Distrito Martis** (Martes) - Obrero y clase trabajadora [con mapa interactivo]
+  - **Distrito Mercurii** (Miércoles) - Clase media profesional
+  - **Distrito Iovis** (Jueves) - Institucional y funcionarios [con mapa interactivo]
+  - **Distrito Veneris** (Viernes) - Juvenil y estudiantil
+  - **Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
+
+#### **🔗 Navegación Integrada**
+- **Enlaces cruzados completos** - Sistema de navegación coherente entre todas las páginas de geografía
+- **Mapas interactivos accesibles** - Enlaces directos desde páginas principales a mapas funcionales
+- **Estructura consistente** - Formato unificado para todas las páginas de distritos
+
+---
+
 ## 📅 **Julio 2025**
 
 ### **31 de Julio de 2025**
@@ -288,4 +377,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 31 de Julio de 2025 - 12:35
+**Última actualización del historial**: 03 de Agosto de 2025 - 15:40

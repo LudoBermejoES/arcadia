@@ -143,7 +143,16 @@ En 1985 se descubrió un enorme yacimiento de silicio en el suelo de la isla, lo
 
 El desarrollo ha traído consigo espionaje industrial, raptos de "cerebros" e incluso asesinatos. Han surgido grupos criminales que venden sus "servicios" a empresas sin escrúpulos, incluyendo criminales metahumanos que trabajan indirectamente para multinacionales.
 
-En un país de 15.028 kilómetros cuadrados de superficie y más de diez millones de habitantes se estima que la población de metahumanos es de aproximadamente un centenar, aunque en los últimos años parecen haber sido excelentes para la aparición de nuevos metahumanos con nuevos poderes.
+En un país de 15.028 kilómetros cuadrados de superficie y más de diez millones de habitantes, la población de metahumanos ha experimentado un crecimiento exponencial. Mientras que en las décadas anteriores se estimaba en aproximadamente un centenar, **las crisis y eventos de los últimos años han provocado una explosión demográfica metahumana**. 
+
+Los registros oficiales documentan al menos **2,500 metahumanos activos**, aunque muchos expertos creen que la cifra real podría ser significativamente superior debido a:
+
+- **Metahumanos no registrados** que evitan los censos oficiales
+- **Activaciones recientes** tras eventos traumáticos como el atentado de Freiglasung
+- **Migraciones** de metahumanos refugiados de otros países
+- **Nuevas generaciones** nacidas con poderes manifiestos desde temprana edad
+
+Esta proliferación ha llevado a la creación de infraestructura especializada, reality shows metahumanos, organizaciones heroicas multigeneracionales como "La Familia" y "La Fuerza Oculta", y la necesidad de marcos legales adaptados a esta nueva realidad demográfica.
 
 Pero no todos son grandes noticias para el recien nacido país. La política de inmigración ha ido recrudeciéndose paulativamente hasta asemejarse a la de Australia. En los momentos actuales resulta verdaderamente dificil entrar en Arcadia y solo se condede la residencia automática a aquellos que portan genes metahumanos. La ley del país protege, sin embargo, a esas personas, que pueden escoger no registrarse en el que se ha empezado a conocer como índice metahumano, el registro de personas con genes metahumanos de Arcadia.
 
@@ -154,7 +163,7 @@ La idea de los metahumanos es diferente para cada persona; unos los ven como sal
 
 O como diría un arcadio, "los pájaros vuelan, hay monstruos en las esquinas y salvadores en los cielos… así que todo va bien".
 
-En un país de **15.028 kilómetros cuadrados** y más de **diez millones de habitantes**, se estima que la población de metahumanos es de aproximadamente un centenar.
+En un país de **15.028 kilómetros cuadrados** y más de **diez millones de habitantes**, la población metahumana oficial supera los **2,500 individuos registrados**, aunque la cifra real podría ser considerablemente mayor.
 
 ---
 
@@ -246,9 +255,9 @@ La expedición de títulos académicos y profesionales corresponde exclusivament
 
 # Geografía de Arcadia
 
-Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. Los siete distritos de Marius siguen siendo uno de los referentes más extraordinarios de la arquitectura moderna, siete ejemplos de exponentes arquitectónicos pasados por el ideario de los arquitectos más afamados del fin del siglo XIX.
+Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. La isla está organizada en **doce distritos principales**: los cinco distritos especializados diseñados por Marius como referentes extraordinarios de la arquitectura moderna, y los siete grandes distritos residenciales que albergan al grueso de la población.
 
-## Los Distritos de Arcadia
+## Los Distritos Especializados de Marius
 
 ### Distrito Clásico
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de Arcadia.
@@ -277,11 +286,36 @@ Pese a lo que pudiera parecer, Marius era un devoto cristiano. En su diseño ori
 ### Distrito Biónico
 El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 7km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro del distrito gótico.
 
-### Los Suburbios
-Zonas residenciales en las afueras de la ciudad, desarrolladas durante los años de mayor inmigración.
-
 ### Centro Proletario Industrial (CENIN)
 Polígonos industriales y fábricas situados en el sur de la isla, representando el corazón industrial de Arcadia.
+
+## Los Siete Distritos Residenciales
+
+Además de los cinco distritos especializados diseñados por Marius, Arcadia cuenta con **siete grandes distritos residenciales** que albergan al grueso de la población. Estos distritos, nombrados según los días de la semana en latín, fueron desarrollados durante las oleadas de inmigración para proveer servicios específicos a diferentes sectores poblacionales:
+
+### Distrito Solis (Domingo)
+Distrito residencial tradicional y familiar, **significativamente reducido por la expansión gótica**. Población: ~850,000 habitantes (reducida desde ~1.4 millones).
+
+### Distrito Lunae (Lunes)  
+Distrito residencial de servicios sanitarios, **parcialmente absorbido por expansión gótica**. Población: ~900,000 habitantes (reducida desde ~1.1 millones).
+
+### Distrito Martis (Martes)
+Distrito residencial obrero, vivienda social de calidad para la clase trabajadora. Población: ~1.2 millones de habitantes.
+
+### Distrito Mercurii (Miércoles)
+Distrito residencial de clase media, servicios educativos avanzados para profesionales. Población: ~1.3 millones de habitantes.
+
+### Distrito Iovis (Jueves)
+Distrito residencial institucional, vivienda funcionarial y servicios públicos de calidad. Población: ~900,000 habitantes.
+
+### Distrito Veneris (Viernes)
+Distrito residencial juvenil y estudiantil, servicios para población universitaria y jóvenes profesionales. Población: ~800,000 habitantes.
+
+### Distrito Saturni (Sábado)
+Distrito residencial de servicios de seguridad y emergencias, **integrado progresivamente al ecosistema gótico**. Población: ~550,000 habitantes (reducida desde ~700,000).
+
+**Población total de los distritos residenciales: ~6.8 millones de habitantes**
+*(Reducción debido a la expansión orgánica del Distrito Gótico)*
 
 ### La Subciudad
 Bajo la superficie de Arcadia se extiende una **compleja red subterránea** que funciona como un mundo paralelo:

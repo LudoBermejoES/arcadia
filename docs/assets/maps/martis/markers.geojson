@@ -1,6 +1,22 @@
 {
   "type": "FeatureCollection",
   "features": [
-    
+    {
+      "type": "Feature",
+      "id": "1754226953841",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3448.9470282570965,
+          1739.2434574128101
+        ]
+      },
+      "properties": {
+        "name": "Base de La Fuerza Oculta",
+        "description": "",
+        "category": "character",
+        "created": "2025-08-03T13:15:53.841Z"
+      }
+    }
   ]
 }

@@ -68,16 +68,37 @@ permalink: /maps/distrito-martis/
         
         if (useTiles) {
             // XYZ Tile Layer (when tiles are available)
+            const tileGrid = new TileGrid({
+                extent: mapConfig.extent,
+                origin: [0, 0], // Bottom-left origin to match tile structure
+                resolutions: generateResolutions(),
+                tileSize: mapConfig.tileSize
+            });
+            
             const tileLayer = new TileLayer({
                 source: new XYZ({
                     url: tileUrlTemplate,
                     projection: mapProjection,
-                    tileGrid: new TileGrid({
-                        extent: mapConfig.extent,
-                        origin: [0, 0], // Bottom-left origin for XYZ tiles
-                        resolutions: generateResolutions(),
-                        tileSize: mapConfig.tileSize
-                    }),
+                    tileGrid: tileGrid,
+                    tileUrlFunction: function(tileCoord, pixelRatio, projection) {
+                        if (!tileCoord) {
+                            return undefined;
+                        }
+                        const z = tileCoord[0];
+                        const x = tileCoord[1];
+                        const y = tileCoord[2];
+                        
+                        // Check if tile coordinates are valid (non-negative)
+                        if (x < 0 || y < 0) {
+                            console.warn('🚫 Invalid tile coordinates:', z, x, y);
+                            return undefined;
+                        }
+                        
+                        const baseUrl = '{{ site.baseurl }}/assets/maps/martis/tiles/';
+                        const url = `${baseUrl}${z}/${x}/${y}.png`;
+                        console.log('🗺️ Loading tile:', url);
+                        return url;
+                    },
                     wrapX: false
                 })
             });

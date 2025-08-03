@@ -71,7 +71,10 @@
       "WebFetch(domain:mapplic.com)",
       "WebFetch(domain:openlayers.org)",
       "WebFetch(domain:gist.github.com)",
-      "WebFetch(domain:docs.maptiler.com)"
+      "WebFetch(domain:docs.maptiler.com)",
+      "Bash(npm start)",
+      "Bash(npm run:*)",
+      "Bash(taskkill:*)"
     ],
     "deny": []
   }

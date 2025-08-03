@@ -28,12 +28,12 @@ let availableMaps = [];
 
 // Initialize the application
 document.addEventListener('DOMContentLoaded', async function() {
-    console.log('🗺️ Initializing Arcadia Marker Manager...');
+    console.log('🗺️ Inicializando Gestor de Marcadores Arcadia...');
     
     await loadAvailableMaps();
     setupEventListeners();
     
-    console.log('✅ Marker Manager initialized');
+    console.log('✅ Gestor de Marcadores inicializado');
 });
 
 // Load available maps from the server
@@ -43,19 +43,19 @@ async function loadAvailableMaps() {
         availableMaps = await response.json();
         
         const mapSelect = document.getElementById('mapSelect');
-        mapSelect.innerHTML = '<option value="">Select a map...</option>';
+        mapSelect.innerHTML = '<option value="">Selecciona un mapa...</option>';
         
         availableMaps.forEach(map => {
             const option = document.createElement('option');
             option.value = map.id;
-            option.textContent = `${map.name} (${map.hasTiles ? 'Tiled' : 'Image'})`;
+            option.textContent = `${map.name} (${map.hasTiles ? 'Mosaicos' : 'Imagen'})`;
             mapSelect.appendChild(option);
         });
         
-        console.log(`📂 Loaded ${availableMaps.length} available maps`);
+        console.log(`📂 Cargados ${availableMaps.length} mapas disponibles`);
     } catch (error) {
-        console.error('❌ Error loading maps:', error);
-        showStatus('Error loading available maps', 'error');
+        console.error('❌ Error cargando mapas:', error);
+        showStatus('Error cargando mapas disponibles', 'error');
     }
 }
 
@@ -85,12 +85,12 @@ async function handleMapSelection(e) {
             currentMap = null;
             currentMapConfig = null;
         }
-        document.getElementById('markerList').innerHTML = '<p>Select a map to see markers</p>';
+        document.getElementById('markerList').innerHTML = '<p>Selecciona un mapa para ver marcadores</p>';
         return;
     }
     
     try {
-        showStatus('Loading map...', 'success');
+        showStatus('Cargando mapa...', 'success');
         
         // Load map configuration
         const mapResponse = await fetch(`/api/maps/${mapId}`);
@@ -103,17 +103,17 @@ async function handleMapSelection(e) {
         // Initialize the map
         await initializeMap(currentMapConfig, markersData);
         
-        showStatus(`Map "${currentMapConfig.name}" loaded successfully!`, 'success');
+        showStatus(`Mapa "${currentMapConfig.name}" cargado exitosamente!`, 'success');
         
     } catch (error) {
-        console.error('❌ Error loading map:', error);
-        showStatus('Error loading map', 'error');
+        console.error('❌ Error cargando mapa:', error);
+        showStatus('Error cargando mapa', 'error');
     }
 }
 
 // Initialize OpenLayers map
 async function initializeMap(mapConfig, markersData) {
-    console.log('🗺️ Initializing map:', mapConfig.name);
+    console.log('🗺️ Inicializando mapa:', mapConfig.name);
     
     // Clean up existing map
     if (currentMap) {
@@ -174,7 +174,7 @@ async function initializeMap(mapConfig, markersData) {
     // Load markers
     loadMarkersOnMap(markersData);
     
-    console.log('✅ Map initialized successfully');
+    console.log('✅ Mapa inicializado exitosamente');
 }
 
 // Create tile layer for maps with tiles
@@ -278,7 +278,7 @@ function createMarkerStyle(feature) {
             })
         }),
         text: new Text({
-            text: feature.get('name') || 'Marker',
+            text: feature.get('name') || 'Marcador',
             offsetY: -25,
             fill: new Fill({
                 color: '#000000'
@@ -306,7 +306,7 @@ function createSelectedMarkerStyle(feature) {
             })
         }),
         text: new Text({
-            text: feature.get('name') || 'Marker',
+            text: feature.get('name') || 'Marcador',
             offsetY: -30,
             fill: new Fill({
                 color: '#000000'
@@ -332,7 +332,7 @@ function loadMarkersOnMap(markersData) {
         });
         
         vectorSource.addFeatures(features);
-        console.log(`📍 Loaded ${features.length} markers`);
+        console.log(`📍 Cargados ${features.length} marcadores`);
     }
     
     updateMarkerList(markersData);
@@ -343,7 +343,7 @@ function updateMarkerList(markersData) {
     const markerList = document.getElementById('markerList');
     
     if (!markersData.features || markersData.features.length === 0) {
-        markerList.innerHTML = '<p>No markers found. Click "Add Marker Mode" and then click on the map to add markers.</p>';
+        markerList.innerHTML = '<p>No se encontraron marcadores. Haz clic en "Modo Añadir Marcador" y luego haz clic en el mapa para añadir marcadores.</p>';
         return;
     }
     
@@ -358,7 +358,7 @@ function updateMarkerList(markersData) {
         const props = feature.properties;
         
         markerItem.innerHTML = `
-            <div class="marker-name">${props.name || 'Unnamed Marker'}</div>
+            <div class="marker-name">${props.name || 'Marcador Sin Nombre'}</div>
             <div class="marker-coords">(${Math.round(coords[0])}, ${Math.round(coords[1])})</div>
             <div style="font-size: 0.8em; margin-top: 5px;">${props.category || 'general'}</div>
         `;
@@ -418,11 +418,11 @@ window.enableAddMode = function() {
     const button = document.querySelector('button[onclick="enableAddMode()"]');
     
     if (addMarkerMode) {
-        button.textContent = '❌ Cancel Add Mode';
+        button.textContent = '❌ Cancelar Modo Añadir';
         button.style.background = '#dc3545';
-        showStatus('Click on the map to add a marker', 'success');
+        showStatus('Haz clic en el mapa para añadir un marcador', 'success');
     } else {
-        button.textContent = '➕ Add Marker Mode';
+        button.textContent = '➕ Modo Añadir Marcador';
         button.style.background = '#007bff';
     }
 };
@@ -445,11 +445,11 @@ function showMarkerModal(markerId = null, x = 0, y = 0) {
             document.getElementById('markerCategory').value = props.category || 'general';
         }
         
-        document.querySelector('.modal-header').textContent = 'Edit Marker';
+        document.querySelector('.modal-header').textContent = 'Editar Marcador';
         currentMarkerId = markerId;
     } else {
         // Adding new marker
-        document.querySelector('.modal-header').textContent = 'Add New Marker';
+        document.querySelector('.modal-header').textContent = 'Añadir Nuevo Marcador';
         currentMarkerId = null;
     }
     
@@ -522,13 +522,13 @@ async function addMarker(markerData) {
     const result = await response.json();
     
     // Show status including Git operations
-    let statusMessage = 'Marker added successfully';
+    let statusMessage = 'Marcador añadido exitosamente';
     if (result.git) {
         if (result.git.success) {
             statusMessage += ` - ${result.git.message}`;
         } else {
-            console.warn('Git operation failed:', result.git.message);
-            statusMessage += ' (Git sync failed - check console)';
+            console.warn('Operación Git falló:', result.git.message);
+            statusMessage += ' (Sincronización Git falló - revisar consola)';
         }
     }
     
@@ -553,13 +553,13 @@ async function updateMarker(markerId, markerData) {
     const result = await response.json();
     
     // Show status including Git operations
-    let statusMessage = 'Marker updated successfully';
+    let statusMessage = 'Marcador actualizado exitosamente';
     if (result.git) {
         if (result.git.success) {
             statusMessage += ` - ${result.git.message}`;
         } else {
-            console.warn('Git operation failed:', result.git.message);
-            statusMessage += ' (Git sync failed - check console)';
+            console.warn('Operación Git falló:', result.git.message);
+            statusMessage += ' (Sincronización Git falló - revisar consola)';
         }
     }
     
@@ -569,11 +569,11 @@ async function updateMarker(markerId, markerData) {
 // Delete selected marker
 window.deleteSelectedMarker = async function() {
     if (!currentMarkerId) {
-        showStatus('No marker selected', 'error');
+        showStatus('Ningún marcador seleccionado', 'error');
         return;
     }
     
-    if (!confirm('Are you sure you want to delete this marker?')) {
+    if (!confirm('¿Estás seguro de que quieres eliminar este marcador?')) {
         return;
     }
     
@@ -590,13 +590,13 @@ window.deleteSelectedMarker = async function() {
         const result = await response.json();
         
         // Show status including Git operations
-        let statusMessage = `Marker "${result.deletedMarker}" deleted successfully`;
+        let statusMessage = `Marcador "${result.deletedMarker}" eliminado exitosamente`;
         if (result.git) {
             if (result.git.success) {
                 statusMessage += ` - ${result.git.message}`;
             } else {
-                console.warn('Git operation failed:', result.git.message);
-                statusMessage += ' (Git sync failed - check console)';
+                console.warn('Operación Git falló:', result.git.message);
+                statusMessage += ' (Sincronización Git falló - revisar consola)';
             }
         }
         
@@ -605,14 +605,14 @@ window.deleteSelectedMarker = async function() {
         clearMarkerSelection();
         
     } catch (error) {
-        console.error('❌ Error deleting marker:', error);
-        showStatus('Error deleting marker', 'error');
+        console.error('❌ Error eliminando marcador:', error);
+        showStatus('Error eliminando marcador', 'error');
     }
 };
 
 // Save all markers
 window.saveAllMarkers = async function() {
-    showStatus('All markers are automatically saved and committed to Git', 'success');
+    showStatus('Todos los marcadores se guardan automáticamente y se confirman en Git', 'success');
 };
 
 // Reload markers from server
@@ -624,8 +624,8 @@ async function reloadMarkers() {
         const markersData = await response.json();
         loadMarkersOnMap(markersData);
     } catch (error) {
-        console.error('❌ Error reloading markers:', error);
-        showStatus('Error reloading markers', 'error');
+        console.error('❌ Error recargando marcadores:', error);
+        showStatus('Error recargando marcadores', 'error');
     }
 }
 

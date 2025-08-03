@@ -16,8 +16,8 @@ permalink: /world-building/arcadia-geography/distrito-martis/
     <div id="popup-content"></div>
 </div>
 <div id="map-info" class="map-info">
-    <p><strong>Zoom Level:</strong> <span id="current-zoom">0</span></p>
-    <p><strong>Coordinates:</strong> <span id="current-coords">Click on map</span></p>
+    <p><strong>Nivel de Zoom:</strong> <span id="current-zoom">0</span></p>
+    <p><strong>Coordenadas:</strong> <span id="current-coords">Haz clic en el mapa</span></p>
 </div>
 
 <script type="module">
@@ -51,9 +51,9 @@ permalink: /world-building/arcadia-geography/distrito-martis/
         extent: mapConfig.extent,
     });
     
-    console.log('Loading Distrito Martis raster tile map...');
-    console.log('Map extent:', mapConfig.extent);
-    console.log('Map dimensions:', mapConfig.originalDimensions);
+    console.log('Cargando mapa de mosaicos raster del Distrito Martis...');
+    console.log('Extensión del mapa:', mapConfig.extent);
+    console.log('Dimensiones del mapa:', mapConfig.originalDimensions);
     
     // Generate resolutions for each zoom level
     function generateResolutions() {
@@ -151,19 +151,51 @@ permalink: /world-building/arcadia-geography/distrito-martis/
                     // Style based on category
                     let fillColor, strokeColor, textColor;
                     switch (category) {
-                        case 'character':
-                            fillColor = 'rgba(33, 150, 243, 0.8)'; // Blue
-                            strokeColor = 'rgba(21, 101, 192, 1)';
+                        case 'general':
+                            fillColor = 'rgba(158, 158, 158, 0.8)'; // Gray
+                            strokeColor = 'rgba(97, 97, 97, 1)';
                             textColor = '#ffffff';
                             break;
-                        case 'location':
+                        case 'building':
+                        case 'edificio':
+                            fillColor = 'rgba(96, 125, 139, 0.8)'; // Blue Gray
+                            strokeColor = 'rgba(69, 90, 100, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        case 'landmark':
+                        case 'punto de referencia':
                             fillColor = 'rgba(76, 175, 80, 0.8)'; // Green
                             strokeColor = 'rgba(56, 142, 60, 1)';
                             textColor = '#ffffff';
                             break;
+                        case 'character':
+                        case 'ubicación de personaje':
+                            fillColor = 'rgba(33, 150, 243, 0.8)'; // Blue
+                            strokeColor = 'rgba(21, 101, 192, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        case 'event':
+                        case 'ubicación de evento':
+                            fillColor = 'rgba(156, 39, 176, 0.8)'; // Purple
+                            strokeColor = 'rgba(123, 31, 162, 1)';
+                            textColor = '#ffffff';
+                            break;
                         case 'danger':
+                        case 'zona de peligro':
                             fillColor = 'rgba(244, 67, 54, 0.8)'; // Red
                             strokeColor = 'rgba(198, 40, 40, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        case 'safe':
+                        case 'zona segura':
+                            fillColor = 'rgba(76, 175, 80, 0.8)'; // Green
+                            strokeColor = 'rgba(56, 142, 60, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        // Legacy compatibility
+                        case 'location':
+                            fillColor = 'rgba(76, 175, 80, 0.8)'; // Green
+                            strokeColor = 'rgba(56, 142, 60, 1)';
                             textColor = '#ffffff';
                             break;
                         default:
@@ -261,21 +293,35 @@ permalink: /world-building/arcadia-geography/distrito-martis/
             
             if (feature) {
                 // Show popup with marker information
-                const name = feature.get('name') || 'Unnamed Location';
-                const description = feature.get('description') || 'No description available';
+                const name = feature.get('name') || 'Ubicación Sin Nombre';
+                const description = feature.get('description') || 'Sin descripción disponible';
                 const category = feature.get('category') || 'unknown';
                 const created = feature.get('created');
+                
+                // Translate category for display
+                let displayCategory = category;
+                switch (category) {
+                    case 'general': displayCategory = 'General'; break;
+                    case 'building': displayCategory = 'Edificio'; break;
+                    case 'landmark': displayCategory = 'Punto de Referencia'; break;
+                    case 'character': displayCategory = 'Ubicación de Personaje'; break;
+                    case 'event': displayCategory = 'Ubicación de Evento'; break;
+                    case 'danger': displayCategory = 'Zona de Peligro'; break;
+                    case 'safe': displayCategory = 'Zona Segura'; break;
+                    case 'location': displayCategory = 'Ubicación'; break;
+                    default: displayCategory = 'Desconocido'; break;
+                }
                 
                 let createdText = '';
                 if (created) {
                     const date = new Date(created);
-                    createdText = `<p><strong>Created:</strong> ${date.toLocaleDateString()}</p>`;
+                    createdText = `<p><strong>Creado:</strong> ${date.toLocaleDateString()}</p>`;
                 }
                 
                 popupContent.innerHTML = `
                     <h3>${name}</h3>
-                    <p><strong>Category:</strong> <span class="category-${category}">${category}</span></p>
-                    <p><strong>Description:</strong> ${description}</p>
+                    <p><strong>Categoría:</strong> <span class="category-${category}">${displayCategory}</span></p>
+                    <p><strong>Descripción:</strong> ${description}</p>
                     ${createdText}
                 `;
                 
@@ -361,26 +407,6 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 - **Navegación**: Haz clic y arrastra para moverte por el mapa
 - **Coordenadas**: Las coordenadas se actualizan en tiempo real al mover el ratón
 - **Nivel de Zoom**: El nivel actual se muestra en la esquina superior
-
-### Tecnología del Mapa
-
-Este mapa utiliza **OpenLayers v9.2.4** con **raster tiles** (mosaicos de imagen) generados usando Sharp/Node.js:
-
-- **🔧 Sistema Activo**: Mosaicos XYZ de 512×512 píxeles 
-- **📊 Tiles Generados**: ~217 mosaicos en 7 niveles de zoom (0-6)
-- **⚡ Beneficios**: Carga incremental, mejor rendimiento, navegación fluida
-- **🗺️ Formato**: Estándar XYZ compatible con servicios de mapas web
-
-**Niveles de Zoom Disponibles:**
-- **Nivel 6**: ~160 tiles (20×8) - Máxima resolución 10155×3948
-- **Nivel 5**: ~40 tiles (10×4) - Alta resolución 5078×1974
-- **Nivel 4**: ~10 tiles (5×2) - Resolución media 2539×987
-- **Nivel 3**: ~3 tiles - Resolución baja 1270×494
-- **Nivel 2**: ~2 tiles - Muy baja resolución 635×247
-- **Nivel 1**: 1 tile - Vista general 318×124
-- **Nivel 0**: 1 tile - Vista completa
-
-El sistema está optimizado para mostrar el detalle apropiado según el nivel de zoom seleccionado.
 
 ### Enlaces Relacionados
 
@@ -533,18 +559,50 @@ El sistema está optimizado para mostrar el detalle apropiado según el nivel de
 }
 
 /* Category styling */
-.category-character {
-    color: #2196F3;
+.category-general {
+    color: #9E9E9E;
     font-weight: bold;
 }
 
-.category-location {
+.category-building,
+.category-edificio {
+    color: #607D8B;
+    font-weight: bold;
+}
+
+.category-landmark,
+.category-punto-de-referencia {
     color: #4CAF50;
     font-weight: bold;
 }
 
-.category-danger {
+.category-character,
+.category-ubicación-de-personaje {
+    color: #2196F3;
+    font-weight: bold;
+}
+
+.category-event,
+.category-ubicación-de-evento {
+    color: #9C27B0;
+    font-weight: bold;
+}
+
+.category-danger,
+.category-zona-de-peligro {
     color: #F44336;
+    font-weight: bold;
+}
+
+.category-safe,
+.category-zona-segura {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+/* Legacy compatibility */
+.category-location {
+    color: #4CAF50;
     font-weight: bold;
 }
 

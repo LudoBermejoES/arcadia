@@ -10,12 +10,95 @@ const express = require('express');
 const fs = require('fs');
 const path = require('path');
 const { execSync } = require('child_process');
+const winston = require('winston');
 const app = express();
-const PORT = 3000;
+const PORT = process.env.PORT || 3000;
+
+// Configure Winston logging
+const logger = winston.createLogger({
+    level: process.env.LOG_LEVEL || 'info',
+    format: winston.format.combine(
+        winston.format.timestamp({
+            format: 'YYYY-MM-DD HH:mm:ss'
+        }),
+        winston.format.errors({ stack: true }),
+        winston.format.json()
+    ),
+    defaultMeta: { service: 'arcadia-marker-manager' },
+    transports: [
+        // Write all logs to console with colorized output
+        new winston.transports.Console({
+            format: winston.format.combine(
+                winston.format.colorize(),
+                winston.format.simple(),
+                winston.format.printf(({ timestamp, level, message, service, ...meta }) => {
+                    return `${timestamp} [${service}] ${level}: ${message} ${Object.keys(meta).length ? JSON.stringify(meta) : ''}`;
+                })
+            )
+        }),
+        // Write all logs to file
+        new winston.transports.File({ 
+            filename: 'logs/error.log', 
+            level: 'error',
+            maxsize: 5242880, // 5MB
+            maxFiles: 5
+        }),
+        new winston.transports.File({ 
+            filename: 'logs/combined.log',
+            maxsize: 5242880, // 5MB
+            maxFiles: 5
+        }),
+        // Write info and above to a separate file
+        new winston.transports.File({ 
+            filename: 'logs/app.log', 
+            level: 'info',
+            maxsize: 5242880, // 5MB
+            maxFiles: 5
+        })
+    ]
+});
+
+// Create logs directory if it doesn't exist
+const logsDir = path.join(__dirname, 'logs');
+if (!fs.existsSync(logsDir)) {
+    fs.mkdirSync(logsDir, { recursive: true });
+}
 
 // Middleware
 app.use(express.static('.'));
 app.use(express.json());
+
+// Request logging middleware
+app.use((req, res, next) => {
+    const start = Date.now();
+    
+    // Log the request
+    logger.info('HTTP Request', {
+        method: req.method,
+        url: req.url,
+        userAgent: req.get('User-Agent'),
+        ip: req.ip,
+        operation: 'http_request'
+    });
+    
+    // Override res.end to log response
+    const originalEnd = res.end;
+    res.end = function(chunk, encoding) {
+        const duration = Date.now() - start;
+        
+        logger.info('HTTP Response', {
+            method: req.method,
+            url: req.url,
+            statusCode: res.statusCode,
+            duration: `${duration}ms`,
+            operation: 'http_response'
+        });
+        
+        originalEnd.call(this, chunk, encoding);
+    };
+    
+    next();
+});
 
 // Get available maps (directories with images, excluding node_modules)
 function getAvailableMaps() {
@@ -43,7 +126,7 @@ function getAvailableMaps() {
             }
         }
     } catch (error) {
-        console.error('Error scanning maps directory:', error);
+        logger.error('Error escaneando directorio de mapas', { error: error.message });
     }
     
     return maps;
@@ -87,12 +170,15 @@ function getMapConfig(mapName, mapDir) {
                     config.originalDimensions = dimensions;
                     config.extent = [0, 0, dimensions.width, dimensions.height];
                 } catch (e) {
-                    console.warn(`Could not read dimensions for ${imageFile}:`, e.message);
+                    logger.warn('No se pudieron leer las dimensiones de la imagen', { 
+                        imageFile, 
+                        error: e.message 
+                    });
                 }
             }
         }
     } catch (error) {
-        console.warn(`Error reading map config for ${mapName}:`, error.message);
+        logger.warn('Error leyendo configuración del mapa', { mapName, error: error.message });
     }
     
     return config;
@@ -124,7 +210,7 @@ function loadMarkers(mapId) {
             const content = fs.readFileSync(markersFile, 'utf8');
             return JSON.parse(content);
         } catch (error) {
-            console.error(`Error loading markers for ${mapId}:`, error);
+            logger.error('Error cargando marcadores', { mapId, error: error.message });
         }
     }
     
@@ -141,20 +227,26 @@ function executeGitCommands(mapId, markersFile) {
         // Get the project root (go up to ArcadiaPage directory)
         const projectRoot = path.resolve(__dirname, '../../..');
         
-        console.log(`🔧 Git operations for map: ${mapId}`);
-        console.log(`📁 Project root: ${projectRoot}`);
-        console.log(`📄 Markers file: ${markersFile}`);
+        logger.info('Iniciando operaciones Git', { 
+            mapId, 
+            projectRoot, 
+            markersFile, 
+            operation: 'git_start' 
+        });
         
         // Make paths relative to project root for git commands
         const relativeMarkersFile = path.relative(projectRoot, markersFile);
-        console.log(`📍 Relative path: ${relativeMarkersFile}`);
+        logger.debug('Rutas Git resueltas', { 
+            relativeMarkersFile, 
+            operation: 'git_paths' 
+        });
         
         // Change to project root directory and execute git commands
         process.chdir(projectRoot);
         
         // Add the markers file
         const addCmd = `git add "${relativeMarkersFile}"`;
-        console.log(`⚡ Executing: ${addCmd}`);
+        logger.debug('Ejecutando git add', { command: addCmd, operation: 'git_add' });
         execSync(addCmd, { stdio: 'pipe' });
         
         // Check if there are changes to commit
@@ -163,40 +255,55 @@ function executeGitCommands(mapId, markersFile) {
             const status = execSync(statusCmd, { encoding: 'utf8', stdio: 'pipe' });
             
             if (!status.trim()) {
-                console.log(`ℹ️  No changes to commit for ${mapId}`);
-                return { success: true, message: 'No changes to commit' };
+                logger.info('No hay cambios para confirmar', { mapId, operation: 'git_no_changes' });
+                return { success: true, message: 'No hay cambios para confirmar' };
             }
         } catch (statusError) {
-            console.log(`⚠️  Could not check git status, proceeding with commit`);
+            logger.warn('No se pudo verificar el estado de git, continuando con commit', { 
+                error: statusError.message, 
+                operation: 'git_status_check' 
+            });
         }
         
         // Commit the changes
-        const commitMessage = `Changes in map ${mapId}
+        const commitMessage = `Cambios en mapa ${mapId}
 
-🗺️ Updated markers for ${mapId}
-📍 Modified: ${relativeMarkersFile}
+🗺️ Marcadores actualizados para ${mapId}
+📍 Modificado: ${relativeMarkersFile}
 
-🤖 Generated with [Claude Code](https://claude.ai/code)
+🤖 Generado con [Claude Code](https://claude.ai/code)
 
 Co-Authored-By: Claude <noreply@anthropic.com>`;
         
         const commitCmd = `git commit -m "${commitMessage.replace(/"/g, '\\"')}"`;
-        console.log(`⚡ Executing: git commit -m "Changes in map ${mapId}"`);
+        logger.debug('Ejecutando git commit', { 
+            command: `git commit -m "Cambios en mapa ${mapId}"`, 
+            operation: 'git_commit' 
+        });
         execSync(commitCmd, { stdio: 'pipe' });
         
         // Push the changes
         const pushCmd = `git push`;
-        console.log(`⚡ Executing: ${pushCmd}`);
+        logger.debug('Ejecutando git push', { command: pushCmd, operation: 'git_push' });
         execSync(pushCmd, { stdio: 'pipe' });
         
-        console.log(`✅ Git operations completed successfully for ${mapId}`);
+        logger.info('Operaciones Git completadas exitosamente', { 
+            mapId, 
+            operation: 'git_complete' 
+        });
         return { 
             success: true, 
-            message: `Changes committed and pushed for map ${mapId}` 
+            message: `Cambios confirmados y enviados para mapa ${mapId}` 
         };
         
     } catch (error) {
-        console.error(`❌ Git operation failed for ${mapId}:`, error.message);
+        logger.error('Operación Git falló', { 
+            mapId, 
+            error: error.message,
+            stderr: error.stderr,
+            stdout: error.stdout,
+            operation: 'git_error'
+        });
         
         // Try to get more specific error information
         let errorMessage = error.message;
@@ -209,11 +316,15 @@ Co-Authored-By: Claude <noreply@anthropic.com>`;
         
         return { 
             success: false, 
-            message: `Git operation failed: ${errorMessage}` 
+            message: `Operación Git falló: ${errorMessage}` 
         };
     } finally {
         // Change back to original directory
         process.chdir(__dirname);
+        logger.debug('Regresado al directorio original', { 
+            directory: __dirname, 
+            operation: 'git_cleanup' 
+        });
     }
 }
 
@@ -246,7 +357,7 @@ function saveMarkers(mapId, markersData) {
             git: gitResult 
         };
     } catch (error) {
-        console.error(`Error saving markers for ${mapId}:`, error);
+        logger.error('Error guardando marcadores', { mapId, error: error.message });
         return { 
             success: false, 
             error: error.message 
@@ -259,6 +370,7 @@ function saveMarkers(mapId, markersData) {
 // Get all available maps
 app.get('/api/maps', (req, res) => {
     const maps = getAvailableMaps();
+    logger.info('Mapas disponibles obtenidos', { count: maps.length });
     res.json(maps);
 });
 
@@ -268,7 +380,7 @@ app.get('/api/maps/:mapId', (req, res) => {
     const mapDir = path.join(__dirname, mapId);
     
     if (!fs.existsSync(mapDir)) {
-        return res.status(404).json({ error: 'Map not found' });
+        return res.status(404).json({ error: 'Mapa no encontrado' });
     }
     
     const config = getMapConfig(mapId, mapDir);
@@ -291,12 +403,12 @@ app.post('/api/maps/:mapId/markers', (req, res) => {
     
     if (result.success) {
         res.json({ 
-            message: 'Markers saved successfully',
+            message: 'Marcadores guardados exitosamente',
             git: result.git
         });
     } else {
         res.status(500).json({ 
-            error: 'Failed to save markers',
+            error: 'Error al guardar marcadores',
             details: result.error
         });
     }
@@ -318,7 +430,7 @@ app.post('/api/maps/:mapId/markers/add', (req, res) => {
             coordinates: [markerData.x, markerData.y]
         },
         properties: {
-            name: markerData.name || 'Unnamed Marker',
+            name: markerData.name || 'Marcador sin nombre',
             description: markerData.description || '',
             category: markerData.category || 'general',
             created: new Date().toISOString()
@@ -331,13 +443,13 @@ app.post('/api/maps/:mapId/markers/add', (req, res) => {
     
     if (result.success) {
         res.json({ 
-            message: 'Marker added successfully', 
+            message: 'Marcador añadido exitosamente', 
             marker: feature,
             git: result.git
         });
     } else {
         res.status(500).json({ 
-            error: 'Failed to add marker',
+            error: 'Error al añadir marcador',
             details: result.error
         });
     }
@@ -352,7 +464,7 @@ app.put('/api/maps/:mapId/markers/:markerId', (req, res) => {
     const markerIndex = markers.features.findIndex(f => f.id === markerId);
     
     if (markerIndex === -1) {
-        return res.status(404).json({ error: 'Marker not found' });
+        return res.status(404).json({ error: 'Marcador no encontrado' });
     }
     
     // Update marker
@@ -380,13 +492,13 @@ app.put('/api/maps/:mapId/markers/:markerId', (req, res) => {
     
     if (result.success) {
         res.json({ 
-            message: 'Marker updated successfully', 
+            message: 'Marcador actualizado exitosamente', 
             marker,
             git: result.git
         });
     } else {
         res.status(500).json({ 
-            error: 'Failed to update marker',
+            error: 'Error al actualizar marcador',
             details: result.error
         });
     }
@@ -400,7 +512,7 @@ app.delete('/api/maps/:mapId/markers/:markerId', (req, res) => {
     const markerIndex = markers.features.findIndex(f => f.id === markerId);
     
     if (markerIndex === -1) {
-        return res.status(404).json({ error: 'Marker not found' });
+        return res.status(404).json({ error: 'Marcador no encontrado' });
     }
     
     // Store deleted marker info for logging
@@ -411,13 +523,13 @@ app.delete('/api/maps/:mapId/markers/:markerId', (req, res) => {
     
     if (result.success) {
         res.json({ 
-            message: 'Marker deleted successfully',
+            message: 'Marcador eliminado exitosamente',
             deletedMarker: deletedMarker.properties.name,
             git: result.git
         });
     } else {
         res.status(500).json({ 
-            error: 'Failed to delete marker',
+            error: 'Error al eliminar marcador',
             details: result.error
         });
     }
@@ -431,7 +543,7 @@ app.get('/', (req, res) => {
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Arcadia Map Marker Manager</title>
+    <title>Gestor de Marcadores de Mapas Arcadia</title>
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css" type="text/css">
     <style>
         body {
@@ -648,35 +760,35 @@ app.get('/', (req, res) => {
 <body>
     <div class="container">
         <div class="header">
-            <h1>🗺️ Arcadia Map Marker Manager</h1>
-            <p>Create, edit, and manage markers on district maps</p>
+            <h1>🗺️ Gestor de Marcadores de Mapas Arcadia</h1>
+            <p>Crea, edita y gestiona marcadores en mapas de distritos</p>
         </div>
         
         <div class="content">
             <div class="sidebar">
                 <div class="map-selector">
-                    <label for="mapSelect">Select Map:</label>
+                    <label for="mapSelect">Seleccionar Mapa:</label>
                     <select id="mapSelect">
-                        <option value="">Loading maps...</option>
+                        <option value="">Cargando mapas...</option>
                     </select>
                 </div>
                 
                 <div class="instructions">
-                    <strong>Instructions:</strong><br>
-                    1. Select a map from the dropdown<br>
-                    2. Click on the map to add markers<br>
-                    3. Click on existing markers to edit them<br>
-                    4. Use the controls below to manage markers
+                    <strong>Instrucciones:</strong><br>
+                    1. Selecciona un mapa del menú desplegable<br>
+                    2. Haz clic en el mapa para añadir marcadores<br>
+                    3. Haz clic en marcadores existentes para editarlos<br>
+                    4. Usa los controles de abajo para gestionar marcadores
                 </div>
                 
                 <div class="marker-controls">
-                    <button class="btn" onclick="enableAddMode()">➕ Add Marker Mode</button>
-                    <button class="btn" onclick="saveAllMarkers()">💾 Save All Markers</button>
-                    <button class="btn btn-danger" onclick="deleteSelectedMarker()">🗑️ Delete Selected</button>
+                    <button class="btn" onclick="enableAddMode()">➕ Modo Añadir Marcador</button>
+                    <button class="btn" onclick="saveAllMarkers()">💾 Guardar Todos los Marcadores</button>
+                    <button class="btn btn-danger" onclick="deleteSelectedMarker()">🗑️ Eliminar Seleccionado</button>
                 </div>
                 
                 <div class="marker-list" id="markerList">
-                    <p>Select a map to see markers</p>
+                    <p>Selecciona un mapa para ver marcadores</p>
                 </div>
             </div>
             
@@ -691,31 +803,31 @@ app.get('/', (req, res) => {
     <!-- Marker Edit Modal -->
     <div class="modal" id="markerModal">
         <div class="modal-content">
-            <div class="modal-header">Edit Marker</div>
+            <div class="modal-header">Editar Marcador</div>
             <form id="markerForm">
                 <div class="form-group">
-                    <label for="markerName">Name:</label>
+                    <label for="markerName">Nombre:</label>
                     <input type="text" id="markerName" required>
                 </div>
                 <div class="form-group">
-                    <label for="markerDescription">Description:</label>
+                    <label for="markerDescription">Descripción:</label>
                     <textarea id="markerDescription"></textarea>
                 </div>
                 <div class="form-group">
-                    <label for="markerCategory">Category:</label>
+                    <label for="markerCategory">Categoría:</label>
                     <select id="markerCategory">
                         <option value="general">General</option>
-                        <option value="building">Building</option>
-                        <option value="landmark">Landmark</option>
-                        <option value="character">Character Location</option>
-                        <option value="event">Event Location</option>
-                        <option value="danger">Danger Zone</option>
-                        <option value="safe">Safe Zone</option>
+                        <option value="building">Edificio</option>
+                        <option value="landmark">Punto de Referencia</option>
+                        <option value="character">Ubicación de Personaje</option>
+                        <option value="event">Ubicación de Evento</option>
+                        <option value="danger">Zona de Peligro</option>
+                        <option value="safe">Zona Segura</option>
                     </select>
                 </div>
                 <div class="form-group">
-                    <button type="submit" class="btn">Save Marker</button>
-                    <button type="button" class="btn" onclick="closeMarkerModal()">Cancel</button>
+                    <button type="submit" class="btn">Guardar Marcador</button>
+                    <button type="button" class="btn" onclick="closeMarkerModal()">Cancelar</button>
                 </div>
             </form>
         </div>
@@ -729,23 +841,45 @@ app.get('/', (req, res) => {
 
 // Start server
 app.listen(PORT, () => {
-    console.log('🗺️ Arcadia Map Marker Manager');
-    console.log('================================');
-    console.log(`🚀 Server running at http://localhost:${PORT}`);
-    console.log('🎯 Features:');
-    console.log('  - Map selection from available districts');
-    console.log('  - Interactive marker creation and editing');
-    console.log('  - GeoJSON storage format for OpenLayers compatibility');
-    console.log('  - Responsive web interface');
+    logger.info('🗺️ Gestor de Marcadores de Mapas Arcadia iniciado', {
+        port: PORT,
+        environment: process.env.NODE_ENV || 'development',
+        logLevel: process.env.LOG_LEVEL || 'info'
+    });
+    
+    // Still show startup message in console for immediate feedback
+    console.log('🗺️ Gestor de Marcadores de Mapas Arcadia');
+    console.log('=========================================');
+    console.log(`🚀 Servidor ejecutándose en http://localhost:${PORT}`);
+    console.log('🎯 Características:');
+    console.log('  - Selección de mapas de distritos disponibles');
+    console.log('  - Creación y edición interactiva de marcadores');
+    console.log('  - Formato de almacenamiento GeoJSON compatible con OpenLayers');
+    console.log('  - Interfaz web responsiva');
+    console.log('  - Registro Winston con rotación de archivos');
+    console.log('  - Gestión de procesos PM2 lista');
     console.log('');
-    console.log('📂 Available maps will be scanned from subdirectories');
-    console.log('💾 Markers are stored as markers.geojson in each map directory');
+    console.log('📂 Los mapas disponibles se escanearán desde subdirectorios');
+    console.log('💾 Los marcadores se almacenan como markers.geojson en cada directorio de mapa');
+    console.log('📁 Los registros se almacenan en el directorio ./logs/');
     console.log('');
-    console.log('Press Ctrl+C to stop the server');
+    console.log('Presiona Ctrl+C para detener el servidor');
 });
 
 // Graceful shutdown
 process.on('SIGINT', () => {
-    console.log('\n🛑 Shutting down marker manager...');
+    logger.info('SIGINT recibido, cerrando servidor de forma elegante');
+    console.log('\n🛑 Cerrando gestor de marcadores...');
     process.exit(0);
+});
+
+// Handle uncaught exceptions
+process.on('uncaughtException', (error) => {
+    logger.error('Excepción no capturada', { error: error.stack });
+    process.exit(1);
+});
+
+// Handle unhandled promise rejections
+process.on('unhandledRejection', (reason, promise) => {
+    logger.error('Rechazo de promesa no manejado', { reason, promise });
 });

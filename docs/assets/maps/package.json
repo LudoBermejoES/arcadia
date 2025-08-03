@@ -1,6 +1,11 @@
 {
   "dependencies": {
+    "express": "^4.18.2",
     "image-size": "^2.0.2",
     "sharp": "^0.34.3"
+  },
+  "scripts": {
+    "start": "node marker-manager.js",
+    "dev": "node marker-manager.js"
   }
 }

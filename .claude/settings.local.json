@@ -70,7 +70,8 @@
       "Bash(rg:*)",
       "WebFetch(domain:mapplic.com)",
       "WebFetch(domain:openlayers.org)",
-      "WebFetch(domain:gist.github.com)"
+      "WebFetch(domain:gist.github.com)",
+      "WebFetch(domain:docs.maptiler.com)"
     ],
     "deny": []
   }

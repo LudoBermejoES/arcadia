@@ -79,7 +79,8 @@ Distrito residencial de servicios sanitarios y asistenciales, donde se concentra
 - Servicios: Hospitales convencionales, clínicas góticas especializadas, centros de rehabilitación
 - Instituciones: Hospital Central de Arcadia, Centro de Medicina Metahumana, Servicios de Emergencia, Clínicas Góticas
 
-### ⚔️ **DISTRITO MARTIS** (Martes)
+
+### [⚔️ **DISTRITO MARTIS** (Martes)](distrito-martis/)**
 Distrito residencial obrero y de clase trabajadora, donde viven empleados del sector industrial, servicios públicos y trabajadores especializados. Caracterizado por viviendas sociales de calidad, servicios sindicales y una fuerte identidad de clase trabajadora.
 
 **Características principales:**

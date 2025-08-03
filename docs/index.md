@@ -60,7 +60,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 **Población**: Más de 10 millones de habitantes, la comunidad metahumana más grande del mundo  
 
 ### **Los Cinco Distritos Especializados de Marius**
-- **🏛️ Distrito Clásico** - Centro político, religioso y judicial
+- **🏛️ [Distrito Clásico]{{ site.baseurl }}/world-building/distrito-clasico/** - Centro político, religioso y judicial
 - **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
 - **⛪ Distrito Eclesiástico** - Área religiosa multi-confesional  

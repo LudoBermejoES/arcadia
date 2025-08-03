@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/claude-code-settings.json",
   "permissions": {
     "allow": [
       "Bash(for file in *.docx)",
@@ -67,9 +68,9 @@
       "Bash(then echo \"$file\")",
       "Bash(do if ! grep -q -E '(<img src=|!\\[.*\\]\\(.*\\)|<div class=\"\"character-photo\"\">)' \"$file\")",
       "Bash(rg:*)",
-      "WebFetch(domain:mapplic.com)"
+      "WebFetch(domain:mapplic.com)",
+      "WebFetch(domain:openlayers.org)"
     ],
     "deny": []
-  },
-  "$schema": "https://json.schemastore.org/claude-code-settings.json"
+  }
 }

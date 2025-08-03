@@ -8,38 +8,86 @@ permalink: /maps/distrito-aureliano/
 
 ## Mapa Interactivo
 
-<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
-     integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
-     crossorigin=""/>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css" type="text/css">
 
 <div id="map" class="map-container"></div>
 
-<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
-     integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
-     crossorigin=""></script>
-
-<script>
-    // Initialize the map
-    var map = L.map('map', {
-        crs: L.CRS.Simple,
-        minZoom: -2,
-        maxZoom: 4
+<script type="module">
+    import Map from 'https://cdn.skypack.dev/ol@v9.2.4/Map.js';
+    import View from 'https://cdn.skypack.dev/ol@v9.2.4/View.js';
+    import ImageLayer from 'https://cdn.skypack.dev/ol@v9.2.4/layer/Image.js';
+    import Static from 'https://cdn.skypack.dev/ol@v9.2.4/source/ImageStatic.js';
+    import Projection from 'https://cdn.skypack.dev/ol@v9.2.4/proj/Projection.js';
+    import {getCenter} from 'https://cdn.skypack.dev/ol@v9.2.4/extent.js';
+    import Overlay from 'https://cdn.skypack.dev/ol@v9.2.4/Overlay.js';
+    
+    // Initialize the map with OpenLayers v9.2.4
+    const imageUrl = '{{ site.baseurl }}/assets/maps/DistritoAurileano.svg';
+    
+    // Define image extent [minX, minY, maxX, maxY]
+    const imageExtent = [0, 0, 1568, 1963];
+    
+    // Create a custom projection for the image
+    const imageProjection = new Projection({
+        code: 'distrito-aureliano',
+        units: 'pixels',
+        extent: imageExtent,
     });
-
-    // Define the bounds for the SVG overlay
-    var bounds = [[0, 0], [1963, 1568]]; // Adjust these values based on your SVG dimensions
     
-    // Add the SVG overlay
-    var imageUrl = '{{ site.baseurl }}/assets/maps/DistritoAurileano.svg';
-    L.imageOverlay(imageUrl, bounds).addTo(map);
+    // Create the image layer
+    const imageLayer = new ImageLayer({
+        source: new Static({
+            url: imageUrl,
+            imageExtent: imageExtent,
+            projection: imageProjection,
+        }),
+    });
     
-    // Fit the map to the bounds
-    map.fitBounds(bounds);
+    // Create the map
+    const map = new Map({
+        target: 'map',
+        layers: [imageLayer],
+        view: new View({
+            projection: imageProjection,
+            center: getCenter(imageExtent),
+            zoom: 2,
+            minZoom: 0,
+            maxZoom: 5
+        })
+    });
     
-    // Optional: Add some markers or interactive elements
-    // Example marker:
-    // L.marker([500, 500]).addTo(map)
-    //     .bindPopup('Punto de Interés<br>Descripción del lugar');
+    // Fit the view to the image extent
+    map.getView().fit(imageExtent, {
+        padding: [20, 20, 20, 20]
+    });
+    
+    // Optional: Add interactive features
+    // Example: Add a marker/overlay
+    /*
+    const markerElement = document.createElement('div');
+    markerElement.className = 'marker';
+    markerElement.innerHTML = '📍';
+    
+    const marker = new Overlay({
+        position: getCenter(imageExtent),
+        positioning: 'center-center',
+        element: markerElement,
+        stopEvent: false
+    });
+    map.addOverlay(marker);
+    */
+    
+    // Add click interaction to show coordinates (for development)
+    map.on('click', function(event) {
+        const coordinate = event.coordinate;
+        console.log('Clicked at:', coordinate);
+        // You can use these coordinates to place markers or overlays
+    });
+    
+    // Resize map when window resizes
+    window.addEventListener('resize', function() {
+        map.updateSize();
+    });
 </script>
 
 ## Descripción
@@ -73,13 +121,26 @@ El Distrito Aureliano es una de las zonas más importantes de Arcadia, caracteri
     }
 }
 
-/* Customize Leaflet controls */
-.leaflet-control-zoom {
-    border: none !important;
+/* Customize OpenLayers controls */
+.ol-zoom {
+    top: 0.5em;
+    left: 0.5em;
 }
 
-.leaflet-control-zoom a {
+.ol-zoom button {
     background-color: rgba(255, 255, 255, 0.8) !important;
     border: 1px solid #ccc !important;
+    border-radius: 2px;
+}
+
+.ol-zoom button:hover {
+    background-color: rgba(255, 255, 255, 0.9) !important;
+}
+
+/* Custom marker style */
+.marker {
+    font-size: 20px;
+    color: #ff6b6b;
+    text-shadow: 1px 1px 2px rgba(0,0,0,0.5);
 }
 </style>

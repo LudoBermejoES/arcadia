@@ -70,7 +70,7 @@ permalink: /maps/distrito-martis/
             // XYZ Tile Layer (when tiles are available)
             const tileGrid = new TileGrid({
                 extent: mapConfig.extent,
-                origin: [0, 0], // Bottom-left origin to match tile structure
+                origin: [0, mapConfig.extent[3]], // Top-left origin for XYZ tiles
                 resolutions: generateResolutions(),
                 tileSize: mapConfig.tileSize
             });
@@ -88,15 +88,21 @@ permalink: /maps/distrito-martis/
                         const x = tileCoord[1];
                         const y = tileCoord[2];
                         
-                        // Check if tile coordinates are valid (non-negative)
-                        if (x < 0 || y < 0) {
-                            console.warn('🚫 Invalid tile coordinates:', z, x, y);
+                        // For XYZ with top-left origin, Y needs to be flipped
+                        // Calculate the number of tiles at this zoom level in Y direction
+                        const resolution = generateResolutions()[z];
+                        const tilesY = Math.ceil(mapConfig.originalDimensions.height / resolution / mapConfig.tileSize);
+                        const flippedY = tilesY - 1 - y;
+                        
+                        // Check if tile coordinates are valid
+                        if (x < 0 || y < 0 || flippedY < 0) {
+                            console.warn('🚫 Invalid tile coordinates:', {z, x, y, flippedY, tilesY});
                             return undefined;
                         }
                         
                         const baseUrl = '{{ site.baseurl }}/assets/maps/martis/tiles/';
-                        const url = `${baseUrl}${z}/${x}/${y}.png`;
-                        console.log('🗺️ Loading tile:', url);
+                        const url = `${baseUrl}${z}/${x}/${flippedY}.png`;
+                        console.log('🗺️ Loading tile:', {z, x, y: flippedY, url});
                         return url;
                     },
                     wrapX: false

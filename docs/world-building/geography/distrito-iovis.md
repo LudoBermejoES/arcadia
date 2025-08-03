@@ -41,7 +41,7 @@ permalink: /world-building/arcadia-geography/distrito-iovis/
         extent: [0, 0, 10155, 3948],
         tileSize: 512,
         minZoom: 0,
-        maxZoom: 5
+        maxZoom: 6
     };
     
     // Create custom projection for the map

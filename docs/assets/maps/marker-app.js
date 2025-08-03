@@ -157,8 +157,8 @@ async function initializeMap(mapConfig, markersData) {
             projection: mapProjection,
             center: getCenter(mapConfig.extent),
             zoom: 2,
-            minZoom: 0,
-            maxZoom: 6,
+            minZoom: mapConfig.minZoom || 0,
+            maxZoom: mapConfig.maxZoom || 6,
             extent: mapConfig.extent
         })
     });
@@ -182,8 +182,9 @@ function createTileLayer(mapConfig, mapProjection) {
     // Generate resolutions for each zoom level
     function generateResolutions() {
         const resolutions = [];
-        for (let z = 0; z <= 6; z++) {
-            resolutions[z] = Math.pow(2, 6 - z);
+        const maxZoom = mapConfig.maxZoom || 6;
+        for (let z = 0; z <= maxZoom; z++) {
+            resolutions[z] = Math.pow(2, maxZoom - z);
         }
         return resolutions;
     }

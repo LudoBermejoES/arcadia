@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1754228391848",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1101.94370555526,
+          1455.1278374517335
+        ]
+      },
+      "properties": {
+        "name": "Edificio de oficinas Gilgamesh",
+        "description": "",
+        "category": "building",
+        "created": "2025-08-03T13:39:51.848Z"
+      }
+    }
+  ]
 }

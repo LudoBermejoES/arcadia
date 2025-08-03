@@ -144,10 +144,29 @@ function getMapConfig(mapName, mapDir) {
     };
     
     try {
-        // Check for tiles
+        // Check for tiles and determine max zoom level
         const tilesDir = path.join(mapDir, 'tiles');
         if (fs.existsSync(tilesDir)) {
             config.hasTiles = true;
+            
+            // Find the maximum zoom level by checking tile directories
+            try {
+                const zoomDirs = fs.readdirSync(tilesDir)
+                    .filter(dir => /^\d+$/.test(dir))
+                    .map(dir => parseInt(dir))
+                    .sort((a, b) => b - a); // Sort descending
+                
+                if (zoomDirs.length > 0) {
+                    config.maxZoom = zoomDirs[0];
+                    config.minZoom = 0;
+                } else {
+                    config.maxZoom = 5; // Default fallback
+                    config.minZoom = 0;
+                }
+            } catch (e) {
+                config.maxZoom = 5; // Default fallback
+                config.minZoom = 0;
+            }
         }
         
         // Find main image file

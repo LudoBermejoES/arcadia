@@ -21,11 +21,13 @@ permalink: /maps/distrito-aureliano/
     import {getCenter} from 'https://cdn.skypack.dev/ol@v9.2.4/extent.js';
     import Overlay from 'https://cdn.skypack.dev/ol@v9.2.4/Overlay.js';
     
-    // Initialize the map with OpenLayers v9.2.4
-    const imageUrl = '{{ site.baseurl }}/assets/maps/DistritoAurileano.svg';
+    // Initialize the map with OpenLayers v9.2.4 - now using PNG instead of SVG
+    const imageUrl = '{{ site.baseurl }}/assets/maps/martis/Martis.png';
+    console.log('Image URL:', imageUrl);
     
     // Define image extent [minX, minY, maxX, maxY]
-    const imageExtent = [0, 0, 1993.2, 1568.4];
+    // Using actual PNG dimensions for proper rendering
+    const imageExtent = [0, 0, 10155, 3948];
     
     // Create a custom projection for the image
     const imageProjection = new Projection({
@@ -34,32 +36,68 @@ permalink: /maps/distrito-aureliano/
         extent: imageExtent,
     });
     
-    // Create the image layer
-    const imageLayer = new ImageLayer({
-        source: new Static({
-            url: imageUrl,
-            imageExtent: imageExtent,
-            projection: imageProjection,
-        }),
-    });
+    // Test if image can be loaded first
+    const img = new Image();
+    img.onload = function() {
+        console.log('Image dimensions:', img.width, 'x', img.height);
+        console.log('Image loaded successfully, creating map...');
+        const map = initializeMap();
+        setupMapInteractions(map);
+    };
+    img.onerror = function(e) {
+        console.error('Failed to load image:', imageUrl);
+        console.error('Error:', e);
+        // Try alternative approach or show error message
+        document.getElementById('map').innerHTML = '<p style="text-align: center; padding: 50px;">Error: Unable to load map image. Please check the file path.</p>';
+    };
+    img.src = imageUrl;
     
-    // Create the map
-    const map = new Map({
-        target: 'map',
-        layers: [imageLayer],
-        view: new View({
-            projection: imageProjection,
-            center: getCenter(imageExtent),
-            zoom: 2,
-            minZoom: 0,
-            maxZoom: 5
-        })
-    });
+    function createMapLayer() {
+        // Create the image layer
+        const imageLayer = new ImageLayer({
+            source: new Static({
+                url: imageUrl,
+                imageExtent: imageExtent,
+                projection: imageProjection,
+            }),
+        });
+        
+        // Add error handling for image loading
+        imageLayer.getSource().on('imageloaderror', function(event) {
+            console.error('OpenLayers image failed to load:', imageUrl);
+            console.error('Error event:', event);
+        });
+        
+        imageLayer.getSource().on('imageloadend', function(event) {
+            console.log('OpenLayers image loaded successfully:', imageUrl);
+        });
+        
+        return imageLayer;
+    }
     
-    // Fit the view to the image extent
-    map.getView().fit(imageExtent, {
-        padding: [20, 20, 20, 20]
-    });
+    function initializeMap() {
+        const imageLayer = createMapLayer();
+        
+        // Create the map
+        const map = new Map({
+            target: 'map',
+            layers: [imageLayer],
+            view: new View({
+                projection: imageProjection,
+                center: getCenter(imageExtent),
+                zoom: 2,
+                minZoom: 0,
+                maxZoom: 5
+            })
+        });
+        
+        // Fit the view to the image extent
+        map.getView().fit(imageExtent, {
+            padding: [20, 20, 20, 20]
+        });
+        
+        return map;
+    }
     
     // Optional: Add interactive features
     // Example: Add a marker/overlay
@@ -77,17 +115,19 @@ permalink: /maps/distrito-aureliano/
     map.addOverlay(marker);
     */
     
-    // Add click interaction to show coordinates (for development)
-    map.on('click', function(event) {
-        const coordinate = event.coordinate;
-        console.log('Clicked at:', coordinate);
-        // You can use these coordinates to place markers or overlays
-    });
-    
-    // Resize map when window resizes
-    window.addEventListener('resize', function() {
-        map.updateSize();
-    });
+    function setupMapInteractions(map) {
+        // Add click interaction to show coordinates (for development)
+        map.on('click', function(event) {
+            const coordinate = event.coordinate;
+            console.log('Clicked at:', coordinate);
+            // You can use these coordinates to place markers or overlays
+        });
+        
+        // Resize map when window resizes
+        window.addEventListener('resize', function() {
+            map.updateSize();
+        });
+    }
 </script>
 
 ## Descripción

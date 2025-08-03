@@ -69,7 +69,8 @@
       "Bash(do if ! grep -q -E '(<img src=|!\\[.*\\]\\(.*\\)|<div class=\"\"character-photo\"\">)' \"$file\")",
       "Bash(rg:*)",
       "WebFetch(domain:mapplic.com)",
-      "WebFetch(domain:openlayers.org)"
+      "WebFetch(domain:openlayers.org)",
+      "WebFetch(domain:gist.github.com)"
     ],
     "deny": []
   }

@@ -1,0 +1,364 @@
+# Arcadia Page Project - GitIgnore
+# Node.js, Jekyll, and Tile Generation
+
+# ===========================
+# Node.js Dependencies (Located in docs/assets/maps/)
+# ===========================
+node_modules/
+docs/assets/maps/node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Package lock files (keep package.json, ignore lock files)
+package-lock.json
+yarn.lock
+.pnpm-lock.yaml
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# nyc test coverage
+.nyc_output
+
+# Grunt intermediate storage
+.grunt
+
+# Bower dependency directory
+bower_components
+
+# node-waf configuration
+.lock-wscript
+
+# Compiled binary addons
+build/Release
+
+# Dependency directories
+jspm_packages/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional stylelint cache
+.stylelintcache
+
+# Microbundle cache
+.rpt2_cache/
+.rts2_cache_cjs/
+.rts2_cache_es/
+.rts2_cache_umd/
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variable files
+.env
+.env.development.local
+.env.test.local
+.env.production.local
+.env.local
+
+# parcel-bundler cache
+.cache
+.parcel-cache
+
+# Next.js build output
+.next
+
+# Nuxt.js build / generate output
+.nuxt
+dist
+
+# Gatsby files
+.cache/
+public
+
+# Storybook build outputs
+.out
+.storybook-out
+storybook-static
+
+# Temporary folders
+tmp/
+temp/
+
+# ===========================
+# Jekyll
+# ===========================
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler
+vendor/
+.bundle/
+
+# ===========================
+# Image Processing & Tiles
+# ===========================
+
+# Temporary tile generation files
+docs/assets/maps/*/tiles_temp/
+docs/assets/maps/temp/
+
+# Large original images (keep source, ignore temporary processing files)
+docs/assets/maps/*/*_temp.png
+docs/assets/maps/*/*_processing.png
+docs/assets/maps/*/*_backup_*.png
+
+# Generated configuration files that are rebuilt
+docs/assets/maps/*/*_config.json
+docs/assets/maps/*/*_openlayers.js
+docs/assets/maps/*/*_tile_commands.sh
+
+# ImageMagick temporary files
+magick-*
+convert-*
+
+# Sharp temporary files
+sharp-*
+
+# ===========================
+# IDE & Editor Files
+# ===========================
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+!.vscode/*.code-snippets
+
+# Local History for Visual Studio Code
+.history/
+
+# Built Visual Studio Code Extensions
+*.vsix
+
+# JetBrains IDEs
+.idea/
+*.swp
+*.swo
+
+# Sublime Text
+*.sublime-project
+*.sublime-workspace
+
+# Vim
+*.swp
+*.swo
+*~
+
+# Emacs
+*~
+\#*\#
+/.emacs.desktop
+/.emacs.desktop.lock
+*.elc
+auto-save-list
+tramp
+.\#*
+
+# ===========================
+# Operating System Files
+# ===========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# Windows
+Thumbs.db
+Thumbs.db:encryptable
+ehthumbs.db
+ehthumbs_vista.db
+*.stackdump
+[Dd]esktop.ini
+$RECYCLE.BIN/
+*.cab
+*.msi
+*.msix
+*.msm
+*.msp
+*.lnk
+
+# Linux
+*~
+.fuse_hidden*
+.directory
+.Trash-*
+.nfs*
+
+# ===========================
+# Logs & Debug Files
+# ===========================
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# Runtime data
+pids
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# ===========================
+# Project Specific
+# ===========================
+
+# Backup files created during development
+*.bak
+*.backup
+*.orig
+
+# Large test images
+docs/assets/maps/test_*.png
+docs/assets/maps/sample_*.png
+
+# Generated documentation files
+docs/generated/
+
+# Compressed archives
+*.zip
+*.tar.gz
+*.rar
+*.7z
+
+# ===========================
+# Security & Secrets
+# ===========================
+
+# Environment variables
+.env*
+!.env.example
+
+# API keys and secrets
+secrets.json
+config/secrets.yml
+
+# Private keys
+*.pem
+*.key
+*.p12
+*.pfx
+
+# ===========================
+# Optional: Large Binary Files
+# ===========================
+
+# Uncomment these lines if you want to ignore large image files
+# and store them with Git LFS instead
+
+# Large images (>10MB)
+# *.png filter=lfs diff=lfs merge=lfs -text
+# *.jpg filter=lfs diff=lfs merge=lfs -text
+# *.jpeg filter=lfs diff=lfs merge=lfs -text
+# *.gif filter=lfs diff=lfs merge=lfs -text
+# *.bmp filter=lfs diff=lfs merge=lfs -text
+# *.tiff filter=lfs diff=lfs merge=lfs -text
+
+# Video files
+# *.mp4 filter=lfs diff=lfs merge=lfs -text
+# *.avi filter=lfs diff=lfs merge=lfs -text
+# *.mov filter=lfs diff=lfs merge=lfs -text
+
+# ===========================
+# Keep Important Files
+# ===========================
+
+# Keep tile directories but ignore temporary processing
+!docs/assets/maps/*/tiles/
+!docs/assets/maps/generate-tiles.js
+!docs/assets/maps/tile-generator.js
+
+# Keep Node.js configuration in maps directory
+!docs/assets/maps/package.json
+
+# Keep source images
+!docs/assets/maps/*/*.png
+!docs/assets/maps/*/*.jpg
+!docs/assets/maps/*/*.svg
+
+# Keep documentation
+!README.md
+!CLAUDE.md
+!docs/
+
+# ===========================
+# Performance & Optimization
+# ===========================
+
+# Webpack bundles
+bundle.js
+bundle.js.map
+
+# Rollup bundles
+dist/
+
+# ===========================
+# Comments & Documentation
+# ===========================
+
+# This .gitignore is designed for the Arcadia RPG documentation project
+# which uses:
+# - Jekyll for static site generation
+# - Node.js for tile generation with Sharp library (located in docs/assets/maps/)
+# - Multiple large PNG images for district maps
+# - Raster tile system with 512x512 tiles in XYZ format
+#
+# Project Structure:
+# - Root: Jekyll site with documentation
+# - docs/assets/maps/: Node.js tile generation scripts and dependencies
+# - docs/assets/maps/*/tiles/: Generated XYZ tile pyramids
+#
+# Key considerations:
+# 1. Keep generated tiles (they're the final product)
+# 2. Ignore Node.js dependencies (node_modules/ in maps directory)
+# 3. Keep source images and package.json as backups
+# 4. Ignore temporary processing files and lock files
+# 5. Standard exclusions for Jekyll, OS files, and IDE files

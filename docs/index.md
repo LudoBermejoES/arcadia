@@ -61,7 +61,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **Los Cinco Distritos Especializados de Marius**
 - **🏛️ Distrito Clásico** - Centro político, religioso y judicial
-- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/arcadia-geography/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
+- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
 - **⛪ Distrito Eclesiástico** - Área religiosa multi-confesional  
 - **🌿 Distrito Biónico** - Distrito natural premium con arquitectura oriental

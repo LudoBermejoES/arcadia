@@ -11,6 +11,10 @@ permalink: /world-building/arcadia-geography/distrito-martis/
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/ol@v9.2.4/ol.css" type="text/css">
 
 <div id="map" class="map-container"></div>
+<div id="popup" class="ol-popup">
+    <a href="#" id="popup-closer" class="ol-popup-closer"></a>
+    <div id="popup-content"></div>
+</div>
 <div id="map-info" class="map-info">
     <p><strong>Zoom Level:</strong> <span id="current-zoom">0</span></p>
     <p><strong>Coordinates:</strong> <span id="current-coords">Click on map</span></p>
@@ -20,11 +24,15 @@ permalink: /world-building/arcadia-geography/distrito-martis/
     import Map from 'https://cdn.skypack.dev/ol@v9.2.4/Map.js';
     import View from 'https://cdn.skypack.dev/ol@v9.2.4/View.js';
     import TileLayer from 'https://cdn.skypack.dev/ol@v9.2.4/layer/Tile.js';
+    import VectorLayer from 'https://cdn.skypack.dev/ol@v9.2.4/layer/Vector.js';
+    import VectorSource from 'https://cdn.skypack.dev/ol@v9.2.4/source/Vector.js';
+    import GeoJSON from 'https://cdn.skypack.dev/ol@v9.2.4/format/GeoJSON.js';
     import XYZ from 'https://cdn.skypack.dev/ol@v9.2.4/source/XYZ.js';
     import TileGrid from 'https://cdn.skypack.dev/ol@v9.2.4/tilegrid/TileGrid.js';
     import Projection from 'https://cdn.skypack.dev/ol@v9.2.4/proj/Projection.js';
     import {getCenter} from 'https://cdn.skypack.dev/ol@v9.2.4/extent.js';
     import Overlay from 'https://cdn.skypack.dev/ol@v9.2.4/Overlay.js';
+    import {Style, Circle, Fill, Stroke, Text} from 'https://cdn.skypack.dev/ol@v9.2.4/style.js';
     
     // Raster tile configuration for Distrito Martis
     const mapConfig = {
@@ -113,13 +121,105 @@ permalink: /world-building/arcadia-geography/distrito-martis/
         }
     }
     
+    // Create GeoJSON markers layer
+    async function createMarkersLayer() {
+        try {
+            const response = await fetch('{{ site.baseurl }}/assets/maps/martis/markers.geojson');
+            if (!response.ok) {
+                console.warn('📍 Could not load markers.geojson');
+                return null;
+            }
+            
+            const geojsonData = await response.json();
+            console.log('📍 Loaded markers:', geojsonData.features.length, 'features');
+            
+            // Create vector source from GeoJSON
+            const vectorSource = new VectorSource({
+                features: new GeoJSON({
+                    dataProjection: mapProjection,
+                    featureProjection: mapProjection
+                }).readFeatures(geojsonData)
+            });
+            
+            // Create vector layer with styled markers
+            const vectorLayer = new VectorLayer({
+                source: vectorSource,
+                style: function(feature) {
+                    const category = feature.get('category') || 'default';
+                    const name = feature.get('name') || 'Unnamed';
+                    
+                    // Style based on category
+                    let fillColor, strokeColor, textColor;
+                    switch (category) {
+                        case 'character':
+                            fillColor = 'rgba(33, 150, 243, 0.8)'; // Blue
+                            strokeColor = 'rgba(21, 101, 192, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        case 'location':
+                            fillColor = 'rgba(76, 175, 80, 0.8)'; // Green
+                            strokeColor = 'rgba(56, 142, 60, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        case 'danger':
+                            fillColor = 'rgba(244, 67, 54, 0.8)'; // Red
+                            strokeColor = 'rgba(198, 40, 40, 1)';
+                            textColor = '#ffffff';
+                            break;
+                        default:
+                            fillColor = 'rgba(158, 158, 158, 0.8)'; // Gray
+                            strokeColor = 'rgba(97, 97, 97, 1)';
+                            textColor = '#ffffff';
+                    }
+                    
+                    return new Style({
+                        image: new Circle({
+                            radius: 12,
+                            fill: new Fill({
+                                color: fillColor
+                            }),
+                            stroke: new Stroke({
+                                color: strokeColor,
+                                width: 2
+                            })
+                        }),
+                        text: new Text({
+                            text: name.length > 20 ? name.substring(0, 17) + '...' : name,
+                            offsetY: -25,
+                            fill: new Fill({
+                                color: textColor
+                            }),
+                            stroke: new Stroke({
+                                color: 'rgba(0, 0, 0, 0.8)',
+                                width: 3
+                            }),
+                            font: '12px Arial, sans-serif'
+                        })
+                    });
+                }
+            });
+            
+            return vectorLayer;
+        } catch (error) {
+            console.error('❌ Error loading markers:', error);
+            return null;
+        }
+    }
+    
     async function initializeMap() {
-        const layers = await createTileLayer();
+        const tileLayers = await createTileLayer();
+        const markersLayer = await createMarkersLayer();
+        
+        // Combine all layers
+        const allLayers = [...tileLayers];
+        if (markersLayer) {
+            allLayers.push(markersLayer);
+        }
         
         // Create the map
         const map = new Map({
             target: 'map',
-            layers: layers,
+            layers: allLayers,
             view: new View({
                 projection: mapProjection,
                 center: getCenter(mapConfig.extent),
@@ -129,6 +229,67 @@ permalink: /world-building/arcadia-geography/distrito-martis/
                 // Constrain view to image bounds
                 extent: mapConfig.extent
             })
+        });
+        
+        // Add popup overlay
+        const popupContainer = document.getElementById('popup');
+        const popupContent = document.getElementById('popup-content');
+        const popupCloser = document.getElementById('popup-closer');
+        
+        const popup = new Overlay({
+            element: popupContainer,
+            autoPan: {
+                animation: {
+                    duration: 250,
+                },
+            },
+        });
+        map.addOverlay(popup);
+        
+        // Close popup when X is clicked
+        popupCloser.onclick = function() {
+            popup.setPosition(undefined);
+            popupCloser.blur();
+            return false;
+        };
+        
+        // Add click interaction for markers
+        map.on('click', function(event) {
+            const feature = map.forEachFeatureAtPixel(event.pixel, function(feature) {
+                return feature;
+            });
+            
+            if (feature) {
+                // Show popup with marker information
+                const name = feature.get('name') || 'Unnamed Location';
+                const description = feature.get('description') || 'No description available';
+                const category = feature.get('category') || 'unknown';
+                const created = feature.get('created');
+                
+                let createdText = '';
+                if (created) {
+                    const date = new Date(created);
+                    createdText = `<p><strong>Created:</strong> ${date.toLocaleDateString()}</p>`;
+                }
+                
+                popupContent.innerHTML = `
+                    <h3>${name}</h3>
+                    <p><strong>Category:</strong> <span class="category-${category}">${category}</span></p>
+                    <p><strong>Description:</strong> ${description}</p>
+                    ${createdText}
+                `;
+                
+                popup.setPosition(event.coordinate);
+                console.log('📍 Clicked marker:', name);
+            } else {
+                // Hide popup and show coordinates as before
+                popup.setPosition(undefined);
+                const coordinate = event.coordinate;
+                const x = Math.round(coordinate[0]);
+                const y = Math.round(coordinate[1]);
+                document.getElementById('current-coords').textContent = `(${x}, ${y})`;
+                console.log('Clicked at:', coordinate);
+            }
         });
         
         // Fit the view to show the entire district
@@ -147,14 +308,7 @@ permalink: /world-building/arcadia-geography/distrito-martis/
             document.getElementById('current-zoom').textContent = zoom ? zoom.toFixed(1) : '0';
         });
         
-        // Add click interaction to show coordinates
-        map.on('click', function(event) {
-            const coordinate = event.coordinate;
-            const x = Math.round(coordinate[0]);
-            const y = Math.round(coordinate[1]);
-            document.getElementById('current-coords').textContent = `(${x}, ${y})`;
-            console.log('Clicked at:', coordinate);
-        });
+        // Click interaction is handled in initializeMap() for both markers and coordinates
         
         // Update coordinates on mouse move
         map.on('pointermove', function(event) {
@@ -303,5 +457,99 @@ El sistema está optimizado para mostrar el detalle apropiado según el nivel de
 .ol-attribution ul {
     color: #333;
     text-shadow: 1px 1px 2px rgba(255,255,255,0.8);
+}
+
+/* Popup styling */
+.ol-popup {
+    position: absolute;
+    background-color: white;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+    padding: 15px;
+    border-radius: 10px;
+    border: 1px solid #cccccc;
+    bottom: 12px;
+    left: -50px;
+    min-width: 280px;
+    max-width: 400px;
+    z-index: 1000;
+}
+
+.ol-popup:after, .ol-popup:before {
+    top: 100%;
+    border: solid transparent;
+    content: " ";
+    height: 0;
+    width: 0;
+    position: absolute;
+    pointer-events: none;
+}
+
+.ol-popup:after {
+    border-color: rgba(255, 255, 255, 0);
+    border-top-color: white;
+    border-width: 10px;
+    left: 48px;
+    margin-left: -10px;
+}
+
+.ol-popup:before {
+    border-color: rgba(204, 204, 204, 0);
+    border-top-color: #cccccc;
+    border-width: 11px;
+    left: 48px;
+    margin-left: -11px;
+}
+
+.ol-popup-closer {
+    text-decoration: none;
+    position: absolute;
+    top: 2px;
+    right: 8px;
+    color: #c3c3c3;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ol-popup-closer:after {
+    content: "✖";
+}
+
+.ol-popup-closer:hover {
+    color: #999;
+}
+
+.ol-popup h3 {
+    margin: 0 0 10px 0;
+    color: #333;
+    font-size: 16px;
+    border-bottom: 1px solid #eee;
+    padding-bottom: 5px;
+}
+
+.ol-popup p {
+    margin: 5px 0;
+    font-size: 14px;
+    line-height: 1.4;
+}
+
+/* Category styling */
+.category-character {
+    color: #2196F3;
+    font-weight: bold;
+}
+
+.category-location {
+    color: #4CAF50;
+    font-weight: bold;
+}
+
+.category-danger {
+    color: #F44336;
+    font-weight: bold;
+}
+
+.category-unknown {
+    color: #9E9E9E;
+    font-weight: bold;
 }
 </style>

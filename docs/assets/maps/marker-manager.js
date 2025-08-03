@@ -135,6 +135,88 @@ function loadMarkers(mapId) {
     };
 }
 
+// Git operations
+function executeGitCommands(mapId, markersFile) {
+    try {
+        // Get the project root (go up to ArcadiaPage directory)
+        const projectRoot = path.resolve(__dirname, '../../..');
+        
+        console.log(`🔧 Git operations for map: ${mapId}`);
+        console.log(`📁 Project root: ${projectRoot}`);
+        console.log(`📄 Markers file: ${markersFile}`);
+        
+        // Make paths relative to project root for git commands
+        const relativeMarkersFile = path.relative(projectRoot, markersFile);
+        console.log(`📍 Relative path: ${relativeMarkersFile}`);
+        
+        // Change to project root directory and execute git commands
+        process.chdir(projectRoot);
+        
+        // Add the markers file
+        const addCmd = `git add "${relativeMarkersFile}"`;
+        console.log(`⚡ Executing: ${addCmd}`);
+        execSync(addCmd, { stdio: 'pipe' });
+        
+        // Check if there are changes to commit
+        try {
+            const statusCmd = `git status --porcelain "${relativeMarkersFile}"`;
+            const status = execSync(statusCmd, { encoding: 'utf8', stdio: 'pipe' });
+            
+            if (!status.trim()) {
+                console.log(`ℹ️  No changes to commit for ${mapId}`);
+                return { success: true, message: 'No changes to commit' };
+            }
+        } catch (statusError) {
+            console.log(`⚠️  Could not check git status, proceeding with commit`);
+        }
+        
+        // Commit the changes
+        const commitMessage = `Changes in map ${mapId}
+
+🗺️ Updated markers for ${mapId}
+📍 Modified: ${relativeMarkersFile}
+
+🤖 Generated with [Claude Code](https://claude.ai/code)
+
+Co-Authored-By: Claude <noreply@anthropic.com>`;
+        
+        const commitCmd = `git commit -m "${commitMessage.replace(/"/g, '\\"')}"`;
+        console.log(`⚡ Executing: git commit -m "Changes in map ${mapId}"`);
+        execSync(commitCmd, { stdio: 'pipe' });
+        
+        // Push the changes
+        const pushCmd = `git push`;
+        console.log(`⚡ Executing: ${pushCmd}`);
+        execSync(pushCmd, { stdio: 'pipe' });
+        
+        console.log(`✅ Git operations completed successfully for ${mapId}`);
+        return { 
+            success: true, 
+            message: `Changes committed and pushed for map ${mapId}` 
+        };
+        
+    } catch (error) {
+        console.error(`❌ Git operation failed for ${mapId}:`, error.message);
+        
+        // Try to get more specific error information
+        let errorMessage = error.message;
+        if (error.stderr) {
+            errorMessage += `\nStderr: ${error.stderr}`;
+        }
+        if (error.stdout) {
+            errorMessage += `\nStdout: ${error.stdout}`;
+        }
+        
+        return { 
+            success: false, 
+            message: `Git operation failed: ${errorMessage}` 
+        };
+    } finally {
+        // Change back to original directory
+        process.chdir(__dirname);
+    }
+}
+
 // Save markers for a specific map
 function saveMarkers(mapId, markersData) {
     const mapDir = path.join(__dirname, mapId);
@@ -155,10 +237,20 @@ function saveMarkers(mapId, markersData) {
         }
         
         fs.writeFileSync(markersFile, JSON.stringify(markersData, null, 2));
-        return true;
+        
+        // Perform Git operations
+        const gitResult = executeGitCommands(mapId, markersFile);
+        
+        return { 
+            success: true, 
+            git: gitResult 
+        };
     } catch (error) {
         console.error(`Error saving markers for ${mapId}:`, error);
-        return false;
+        return { 
+            success: false, 
+            error: error.message 
+        };
     }
 }
 
@@ -195,12 +287,18 @@ app.post('/api/maps/:mapId/markers', (req, res) => {
     const { mapId } = req.params;
     const markersData = req.body;
     
-    const success = saveMarkers(mapId, markersData);
+    const result = saveMarkers(mapId, markersData);
     
-    if (success) {
-        res.json({ message: 'Markers saved successfully' });
+    if (result.success) {
+        res.json({ 
+            message: 'Markers saved successfully',
+            git: result.git
+        });
     } else {
-        res.status(500).json({ error: 'Failed to save markers' });
+        res.status(500).json({ 
+            error: 'Failed to save markers',
+            details: result.error
+        });
     }
 });
 
@@ -229,12 +327,19 @@ app.post('/api/maps/:mapId/markers/add', (req, res) => {
     
     markers.features.push(feature);
     
-    const success = saveMarkers(mapId, markers);
+    const result = saveMarkers(mapId, markers);
     
-    if (success) {
-        res.json({ message: 'Marker added successfully', marker: feature });
+    if (result.success) {
+        res.json({ 
+            message: 'Marker added successfully', 
+            marker: feature,
+            git: result.git
+        });
     } else {
-        res.status(500).json({ error: 'Failed to add marker' });
+        res.status(500).json({ 
+            error: 'Failed to add marker',
+            details: result.error
+        });
     }
 });
 
@@ -271,12 +376,19 @@ app.put('/api/maps/:mapId/markers/:markerId', (req, res) => {
     
     marker.properties.updated = new Date().toISOString();
     
-    const success = saveMarkers(mapId, markers);
+    const result = saveMarkers(mapId, markers);
     
-    if (success) {
-        res.json({ message: 'Marker updated successfully', marker });
+    if (result.success) {
+        res.json({ 
+            message: 'Marker updated successfully', 
+            marker,
+            git: result.git
+        });
     } else {
-        res.status(500).json({ error: 'Failed to update marker' });
+        res.status(500).json({ 
+            error: 'Failed to update marker',
+            details: result.error
+        });
     }
 });
 
@@ -291,14 +403,23 @@ app.delete('/api/maps/:mapId/markers/:markerId', (req, res) => {
         return res.status(404).json({ error: 'Marker not found' });
     }
     
+    // Store deleted marker info for logging
+    const deletedMarker = markers.features[markerIndex];
     markers.features.splice(markerIndex, 1);
     
-    const success = saveMarkers(mapId, markers);
+    const result = saveMarkers(mapId, markers);
     
-    if (success) {
-        res.json({ message: 'Marker deleted successfully' });
+    if (result.success) {
+        res.json({ 
+            message: 'Marker deleted successfully',
+            deletedMarker: deletedMarker.properties.name,
+            git: result.git
+        });
     } else {
-        res.status(500).json({ error: 'Failed to delete marker' });
+        res.status(500).json({ 
+            error: 'Failed to delete marker',
+            details: result.error
+        });
     }
 });
 

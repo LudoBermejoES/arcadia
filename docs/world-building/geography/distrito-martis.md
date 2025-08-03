@@ -68,16 +68,43 @@ permalink: /world-building/arcadia-geography/distrito-martis/
         
         if (useTiles) {
             // XYZ Tile Layer (when tiles are available)
+            const tileGrid = new TileGrid({
+                extent: mapConfig.extent,
+                origin: [0, mapConfig.extent[3]], // Top-left origin for XYZ tiles
+                resolutions: generateResolutions(),
+                tileSize: mapConfig.tileSize
+            });
+            
             const tileLayer = new TileLayer({
                 source: new XYZ({
                     url: tileUrlTemplate,
                     projection: mapProjection,
-                    tileGrid: new TileGrid({
-                        extent: mapConfig.extent,
-                        origin: [0, 0], // Bottom-left origin for XYZ tiles
-                        resolutions: generateResolutions(),
-                        tileSize: mapConfig.tileSize
-                    }),
+                    tileGrid: tileGrid,
+                    tileUrlFunction: function(tileCoord, pixelRatio, projection) {
+                        if (!tileCoord) {
+                            return undefined;
+                        }
+                        const z = tileCoord[0];
+                        const x = tileCoord[1];
+                        const y = tileCoord[2];
+                        
+                        // For XYZ with top-left origin, Y needs to be flipped
+                        // Calculate the number of tiles at this zoom level in Y direction
+                        const resolution = generateResolutions()[z];
+                        const tilesY = Math.ceil(mapConfig.originalDimensions.height / resolution / mapConfig.tileSize);
+                        const flippedY = tilesY - 1 - y;
+                        
+                        // Check if tile coordinates are valid
+                        if (x < 0 || y < 0 || flippedY < 0) {
+                            console.warn('🚫 Invalid tile coordinates:', {z, x, y, flippedY, tilesY});
+                            return undefined;
+                        }
+                        
+                        const baseUrl = '{{ site.baseurl }}/assets/maps/martis/tiles/';
+                        const url = `${baseUrl}${z}/${x}/${flippedY}.png`;
+                        console.log('🗺️ Loading tile:', {z, x, y: flippedY, url});
+                        return url;
+                    },
                     wrapX: false
                 })
             });
@@ -92,7 +119,7 @@ permalink: /world-building/arcadia-geography/distrito-martis/
         // Create the map
         const map = new Map({
             target: 'map',
-            layers: layers, 
+            layers: layers,
             view: new View({
                 projection: mapProjection,
                 center: getCenter(mapConfig.extent),

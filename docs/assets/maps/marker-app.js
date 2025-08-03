@@ -519,7 +519,20 @@ async function addMarker(markerData) {
         throw new Error('Failed to add marker');
     }
     
-    showStatus('Marker added successfully', 'success');
+    const result = await response.json();
+    
+    // Show status including Git operations
+    let statusMessage = 'Marker added successfully';
+    if (result.git) {
+        if (result.git.success) {
+            statusMessage += ` - ${result.git.message}`;
+        } else {
+            console.warn('Git operation failed:', result.git.message);
+            statusMessage += ' (Git sync failed - check console)';
+        }
+    }
+    
+    showStatus(statusMessage, 'success');
 }
 
 // Update existing marker
@@ -537,7 +550,20 @@ async function updateMarker(markerId, markerData) {
         throw new Error('Failed to update marker');
     }
     
-    showStatus('Marker updated successfully', 'success');
+    const result = await response.json();
+    
+    // Show status including Git operations
+    let statusMessage = 'Marker updated successfully';
+    if (result.git) {
+        if (result.git.success) {
+            statusMessage += ` - ${result.git.message}`;
+        } else {
+            console.warn('Git operation failed:', result.git.message);
+            statusMessage += ' (Git sync failed - check console)';
+        }
+    }
+    
+    showStatus(statusMessage, 'success');
 }
 
 // Delete selected marker
@@ -561,7 +587,20 @@ window.deleteSelectedMarker = async function() {
             throw new Error('Failed to delete marker');
         }
         
-        showStatus('Marker deleted successfully', 'success');
+        const result = await response.json();
+        
+        // Show status including Git operations
+        let statusMessage = `Marker "${result.deletedMarker}" deleted successfully`;
+        if (result.git) {
+            if (result.git.success) {
+                statusMessage += ` - ${result.git.message}`;
+            } else {
+                console.warn('Git operation failed:', result.git.message);
+                statusMessage += ' (Git sync failed - check console)';
+            }
+        }
+        
+        showStatus(statusMessage, 'success');
         await reloadMarkers();
         clearMarkerSelection();
         
@@ -573,7 +612,7 @@ window.deleteSelectedMarker = async function() {
 
 // Save all markers
 window.saveAllMarkers = async function() {
-    showStatus('All markers are automatically saved', 'success');
+    showStatus('All markers are automatically saved and committed to Git', 'success');
 };
 
 // Reload markers from server

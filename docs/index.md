@@ -61,7 +61,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **Los Cinco Distritos Especializados de Marius**
 - **🏛️ Distrito Clásico** - Centro político, religioso y judicial
-- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/geography/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
+- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/arcadia-geography/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
 - **⛪ Distrito Eclesiástico** - Área religiosa multi-confesional  
 - **🌿 Distrito Biónico** - Distrito natural premium con arquitectura oriental
@@ -69,9 +69,9 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 ### **Los Siete Distritos Residenciales**
 - **☀️ Distrito Solis** (Domingo) - Residencial tradicional y familiar
 - **🌙 Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales
-- **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
+- **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/arcadia-geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
 - **💼 Distrito Mercurii** (Miércoles) - Residencial de clase media profesional
-- **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
+- **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/arcadia-geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
 - **💕 Distrito Veneris** (Viernes) - Distrito juvenil y estudiantil
 - **🛡️ Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
 

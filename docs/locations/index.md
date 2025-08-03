@@ -95,23 +95,35 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 
 ---
 
-## 🌆 **DISTRITO AZUL**
+## ⚓ **DISTRITO NAÚTICO (DISTRITO ORIENTAL)**
 
 ### **Tienda "No Solo Juegos"**
 **Campañas:** La Fuerza Oculta  
-**Descripción:** Tienda especializada ubicada en el límite entre Distrito Azul y Verde. Lugar clave donde se desarrolló una sesión meta-narrativa con jugadores veteranos jugando "Héroes o Villanos".
+**Descripción:** Tienda especializada ubicada en el límite entre Distrito Naútico y Distrito Biónico (también llamado Distrito Verde). Lugar clave donde se desarrolló una sesión meta-narrativa con jugadores veteranos jugando "Héroes o Villanos".
 
-### **Canales de Agua de Mar**
+### **Canales de Agua de Mar con Sistema de Filtrado**
 **Campañas:** La Fuerza Oculta  
-**Descripción:** Característica arquitectónica distintiva del distrito diseñada por Marius. Los canales integran el agua de mar en la estructura urbana, creando una zona cara y estéticamente sofisticada.
+**Descripción:** Característica arquitectónica distintiva del distrito diseñada por Marius. Compleja red de canales con compuertas especializadas que integran el agua de mar en la estructura urbana, equipados con filtros especiales para limpiar las aguas antes de devolverlas al océano.
+
+### **Puerto Principal de Arcadia**
+**Campañas:** La Familia  
+**Descripción:** El puerto más importante de la isla, centro neurálgico del comercio marítimo internacional. Zona con numerosos bares y clubs donde se realizaban fiestas rave y actividades inusuales, formando el centro de la vida nocturna alternativa de la ciudad.
+
+### **Astilleros Industriales**
+**Campañas:** Múltiples  
+**Descripción:** Complejo industrial dedicado a la construcción y reparación naval. Los astilleros combinan tecnología avanzada con métodos tradicionales, siendo uno de los sectores económicos más importantes del distrito.
+
+### **Barrio Asiático**
+**Campañas:** La Fuerza Oculta  
+**Descripción:** Zona residencial donde se concentra la población asiática del distrito por motivos históricos. Área cultural distintiva que ha dado al distrito su nombre alternativo de "Distrito Oriental". Incluye comercios especializados, restaurantes tradicionales y centros comunitarios.
 
 ---
 
-## 🌿 **DISTRITO VERDE**
+## 🌿 **DISTRITO BIÓNICO**
 
 ### **Zona Residencial Exclusiva**
 **Campañas:** La Fuerza Oculta  
-**Descripción:** El distrito más exclusivo y costoso de Arcadia, donde viven los más ricos de la ciudad. Acceso altamente restringido y casas con grandes espacios privados.
+**Descripción:** El distrito más exclusivo y costoso de Arcadia, también conocido como Distrito Verde en las campañas. Distrito natural creado con arquitectura oriental adaptada a la naturaleza, considerado el pulmón de Arcadia. Donde viven los más ricos de la ciudad con acceso altamente restringido y casas con grandes espacios privados.
 
 ---
 
@@ -185,9 +197,9 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 **Campañas:** La Familia  
 **Descripción:** Red de cavernas naturales formadas por actividad geológica que conectan todos los distritos. Sistema de transporte alternativo y refugio para actividades clandestinas.
 
-### **La Tienda de Yeng (Distrito Oriental de la Subciudad)**
+### **La Tienda de Yeng (Zona Subterránea del Distrito Naútico)**
 **Campañas:** La Familia  
-**Descripción:** Comercio especializado en materiales robados regentado por Yeng, un arreglador para mercenarios metahumanos. Ubicado en una zona marginal de la subciudad con actividades semi-legales, sirve como punto de contacto para operaciones clandestinas.
+**Descripción:** Comercio especializado en materiales robados regentado por Yeng, un arreglador para mercenarios metahumanos. Ubicado en los túneles subterráneos bajo el Distrito Naútico, aprovecha la proximidad del puerto y la comunidad asiática de superficie. Sirve como punto de contacto para operaciones clandestinas con conexiones tanto marítimas como terrestres.
 
 ---
 
@@ -212,14 +224,6 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 ### **Cine Odeón**
 **Campañas:** Genesis  
 **Descripción:** Cinema histórico mencionado en las investigaciones temporales. Referencia cultural importante para comprender la evolución de la ciudad.
-
----
-
-## 🌊 **ZONAS PORTUARIAS Y ENTRETENIMIENTO**
-
-### **El Puerto**
-**Campañas:** La Familia  
-**Descripción:** Zona costera de Arcadia con numerosos bares y clubs donde se realizaban fiestas rave y actividades inusuales. Centro de la vida nocturna alternativa de la ciudad.
 
 ---
 

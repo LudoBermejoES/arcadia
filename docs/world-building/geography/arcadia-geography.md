@@ -6,7 +6,7 @@ permalink: /world-building/arcadia-geography/
 
 # GEOGRAFÍA DE ARCADIA
 
-Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. La isla está organizada en **doce distritos principales**: los cinco distritos especializados diseñados por Marius como referentes extraordinarios de la arquitectura moderna, y los siete grandes distritos residenciales que albergan al grueso de la población de más de diez millones de habitantes.
+Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. La isla está organizada en **doce distritos principales**: los seis distritos especializados diseñados por Marius como referentes extraordinarios de la arquitectura moderna, y los siete grandes distritos residenciales que albergan al grueso de la población de más de diez millones de habitantes.
 
 ## 🏛️ **DISTRITO CLÁSICO (DISTRITO CENTRAL)**
 
@@ -51,11 +51,28 @@ Pese a lo que pudiera parecer, Marius era un devoto cristiano. En su diseño ori
 ## 🌿 **DISTRITO BIÓNICO**
 El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 7km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro de, por ejemplo, el barrio gótico.
 
+## ⚓ **DISTRITO NAÚTICO (DISTRITO ORIENTAL)**
+Diseñado como el corazón marítimo e industrial de Arcadia, este distrito combina la funcionalidad portuaria con la elegancia arquitectónica característica de Marius. Quince manzanas dedicadas a astilleros, comercio marítimo y industria naval, intercaladas con una compleja red de canales que integran el agua de mar en la vida urbana.
+
+### **Características Arquitectónicas**
+- **Sistema de Canales Inteligentes**: Red de vías acuáticas con compuertas automatizadas y sistemas de filtrado que limpian las aguas antes de devolverlas al océano
+- **Astilleros Modernos**: Instalaciones de construcción naval que combinan métodos tradicionales con tecnología metahumana avanzada
+- **Puerto Principal**: El centro neurálgico del comercio internacional de Arcadia, diseñado para manejar tanto mercancías convencionales como tecnología especializada
+
+### **Identidad Cultural Dual**
+**También conocido como Distrito Oriental** debido a la concentración histórica de población asiática que se estableció aquí durante las primeras oleadas de inmigración. Esta comunidad desarrolló una identidad cultural distintiva que ha enriquecido el carácter único del distrito.
+
+### **Funcionalidad Industrial y Social**
+- **Astilleros Metahumanos**: Construcción naval asistida por poderes especializados
+- **Vida Nocturna Portuaria**: Bares, clubs y establecimientos que atienden tanto a marineros como a residentes locales
+- **Comercio Internacional**: Punto de entrada principal para mercancías del exterior
+- **Filtración Ecológica**: Tecnología avanzada para mantener la limpieza de las aguas costeras
+
 ---
 
 ## 🏘️ **LOS SIETE DISTRITOS RESIDENCIALES**
 
-Además de los cinco distritos especializados diseñados por Marius, Arcadia cuenta con **siete grandes distritos residenciales** que albergan al grueso de la población. Estos distritos, nombrados según los días de la semana en latín, fueron desarrollados durante las oleadas de inmigración y constituyen el corazón demográfico de la isla.
+Además de los seis distritos especializados diseñados por Marius, Arcadia cuenta con **siete grandes distritos residenciales** que albergan al grueso de la población. Estos distritos, nombrados según los días de la semana en latín, fueron desarrollados durante las oleadas de inmigración y constituyen el corazón demográfico de la isla.
 
 ### ☀️ **DISTRITO SOLIS** (Domingo)
 Distrito residencial tradicional y familiar, construido durante las primeras oleadas de inmigración. Centro de vida comunitaria con arquitectura mediterránea adaptada, plazas públicas y tradiciones culturales arraigadas. **Originalmente el más grande de los distritos residenciales, ha perdido aproximadamente el 40% de su territorio al crecimiento orgánico del Distrito Gótico.**

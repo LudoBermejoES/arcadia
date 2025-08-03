@@ -255,7 +255,7 @@ La expedición de títulos académicos y profesionales corresponde exclusivament
 
 # Geografía de Arcadia
 
-Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. La isla está organizada en **doce distritos principales**: los cinco distritos especializados diseñados por Marius como referentes extraordinarios de la arquitectura moderna, y los siete grandes distritos residenciales que albergan al grueso de la población.
+Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser humano. La isla está organizada en **trece distritos principales**: los seis distritos especializados diseñados por Marius como referentes extraordinarios de la arquitectura moderna, y los siete grandes distritos residenciales que albergan al grueso de la población.
 
 ## Los Distritos Especializados de Marius
 
@@ -286,12 +286,15 @@ Pese a lo que pudiera parecer, Marius era un devoto cristiano. En su diseño ori
 ### Distrito Biónico
 El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 7km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro del distrito gótico.
 
+### Distrito Naútico
+También conocido como Distrito Oriental, es el corazón marítimo e industrial de Arcadia. Quince manzanas dedicadas a astilleros, comercio marítimo e industria naval, intercaladas con una compleja red de canales que integran el agua de mar en la vida urbana. Su sistema de canales inteligentes cuenta con compuertas automatizadas y filtros especiales que limpian las aguas antes de devolverlas al océano. La concentración histórica de población asiática le ha dado su nombre alternativo y una identidad cultural distintiva.
+
 ### Centro Proletario Industrial (CENIN)
 Polígonos industriales y fábricas situados en el sur de la isla, representando el corazón industrial de Arcadia.
 
 ## Los Siete Distritos Residenciales
 
-Además de los cinco distritos especializados diseñados por Marius, Arcadia cuenta con **siete grandes distritos residenciales** que albergan al grueso de la población. Estos distritos, nombrados según los días de la semana en latín, fueron desarrollados durante las oleadas de inmigración para proveer servicios específicos a diferentes sectores poblacionales:
+Además de los seis distritos especializados diseñados por Marius, Arcadia cuenta con **siete grandes distritos residenciales** que albergan al grueso de la población. Estos distritos, nombrados según los días de la semana en latín, fueron desarrollados durante las oleadas de inmigración para proveer servicios específicos a diferentes sectores poblacionales:
 
 ### Distrito Solis (Domingo)
 Distrito residencial tradicional y familiar, **significativamente reducido por la expansión gótica**. Población: ~850,000 habitantes (reducida desde ~1.4 millones).

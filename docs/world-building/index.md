@@ -39,11 +39,10 @@ Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlánti
 
 #### **🏘️ Distritos Urbanos**
 - **🏛️ Distrito Central**: Núcleo gubernamental y heroico
-- **💙 Distrito Azul**: Canales elegantes diseñados por Marius
-- **💚 Distrito Verde**: Zona exclusiva de la élite metahumana  
+- **⚓ Distrito Naútico**: Puerto principal, astilleros y canales inteligentes diseñados por Marius
+- **💚 Distrito Biónico**: Zona exclusiva de la élite metahumana con arquitectura natural
 - **🏰 Barrio Gótico**: Zona donde la tecnología moderna falla
 - **🏭 Distrito Industrial**: Manufactura y tecnología avanzada
-- **🌊 Puerto de Arcadia**: Conexión con el mundo exterior
 - **🌑 Subciudad**: Red subterránea criminal y refugio
 
 #### **🌊 Características Naturales**

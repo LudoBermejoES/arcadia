@@ -9,7 +9,6 @@
 const express = require('express');
 const fs = require('fs');
 const path = require('path');
-const { execSync } = require('child_process');
 const winston = require('winston');
 const app = express();
 const PORT = process.env.PORT || 3000;
@@ -221,111 +220,19 @@ function loadMarkers(mapId) {
     };
 }
 
-// Git operations
-function executeGitCommands(mapId, markersFile) {
-    try {
-        // Get the project root (go up to ArcadiaPage directory)
-        const projectRoot = path.resolve(__dirname, '../../..');
-        
-        logger.info('Iniciando operaciones Git', { 
-            mapId, 
-            projectRoot, 
-            markersFile, 
-            operation: 'git_start' 
-        });
-        
-        // Make paths relative to project root for git commands
-        const relativeMarkersFile = path.relative(projectRoot, markersFile);
-        logger.debug('Rutas Git resueltas', { 
-            relativeMarkersFile, 
-            operation: 'git_paths' 
-        });
-        
-        // Change to project root directory and execute git commands
-        process.chdir(projectRoot);
-        
-        // Add the markers file
-        const addCmd = `git add "${relativeMarkersFile}"`;
-        logger.debug('Ejecutando git add', { command: addCmd, operation: 'git_add' });
-        execSync(addCmd, { stdio: 'pipe' });
-        
-        // Check if there are changes to commit
-        try {
-            const statusCmd = `git status --porcelain "${relativeMarkersFile}"`;
-            const status = execSync(statusCmd, { encoding: 'utf8', stdio: 'pipe' });
-            
-            if (!status.trim()) {
-                logger.info('No hay cambios para confirmar', { mapId, operation: 'git_no_changes' });
-                return { success: true, message: 'No hay cambios para confirmar' };
-            }
-        } catch (statusError) {
-            logger.warn('No se pudo verificar el estado de git, continuando con commit', { 
-                error: statusError.message, 
-                operation: 'git_status_check' 
-            });
-        }
-        
-        // Commit the changes
-        const commitMessage = `Cambios en mapa ${mapId}
-
-🗺️ Marcadores actualizados para ${mapId}
-📍 Modificado: ${relativeMarkersFile}
-
-🤖 Generado con [Claude Code](https://claude.ai/code)
-
-Co-Authored-By: Claude <noreply@anthropic.com>`;
-        
-        const commitCmd = `git commit -m "${commitMessage.replace(/"/g, '\\"')}"`;
-        logger.debug('Ejecutando git commit', { 
-            command: `git commit -m "Cambios en mapa ${mapId}"`, 
-            operation: 'git_commit' 
-        });
-        execSync(commitCmd, { stdio: 'pipe' });
-        
-        // Push the changes
-        const pushCmd = `git push`;
-        logger.debug('Ejecutando git push', { command: pushCmd, operation: 'git_push' });
-        execSync(pushCmd, { stdio: 'pipe' });
-        
-        logger.info('Operaciones Git completadas exitosamente', { 
-            mapId, 
-            operation: 'git_complete' 
-        });
-        return { 
-            success: true, 
-            message: `Cambios confirmados y enviados para mapa ${mapId}` 
-        };
-        
-    } catch (error) {
-        logger.error('Operación Git falló', { 
-            mapId, 
-            error: error.message,
-            stderr: error.stderr,
-            stdout: error.stdout,
-            operation: 'git_error'
-        });
-        
-        // Try to get more specific error information
-        let errorMessage = error.message;
-        if (error.stderr) {
-            errorMessage += `\nStderr: ${error.stderr}`;
-        }
-        if (error.stdout) {
-            errorMessage += `\nStdout: ${error.stdout}`;
-        }
-        
-        return { 
-            success: false, 
-            message: `Operación Git falló: ${errorMessage}` 
-        };
-    } finally {
-        // Change back to original directory
-        process.chdir(__dirname);
-        logger.debug('Regresado al directorio original', { 
-            directory: __dirname, 
-            operation: 'git_cleanup' 
-        });
-    }
+// No git operations - markers saved locally only
+function logMarkerOperation(mapId, markersFile, operation) {
+    logger.info('Operación de marcadores', { 
+        mapId, 
+        markersFile, 
+        operation: operation,
+        timestamp: new Date().toISOString()
+    });
+    
+    return { 
+        success: true, 
+        message: `Marcadores ${operation} para mapa ${mapId}` 
+    };
 }
 
 // Save markers for a specific map
@@ -349,12 +256,12 @@ function saveMarkers(mapId, markersData) {
         
         fs.writeFileSync(markersFile, JSON.stringify(markersData, null, 2));
         
-        // Perform Git operations
-        const gitResult = executeGitCommands(mapId, markersFile);
+        // Log operation without git
+        const logResult = logMarkerOperation(mapId, markersFile, 'guardados');
         
         return { 
             success: true, 
-            git: gitResult 
+            log: logResult 
         };
     } catch (error) {
         logger.error('Error guardando marcadores', { mapId, error: error.message });
@@ -404,7 +311,7 @@ app.post('/api/maps/:mapId/markers', (req, res) => {
     if (result.success) {
         res.json({ 
             message: 'Marcadores guardados exitosamente',
-            git: result.git
+            log: result.log
         });
     } else {
         res.status(500).json({ 
@@ -445,7 +352,7 @@ app.post('/api/maps/:mapId/markers/add', (req, res) => {
         res.json({ 
             message: 'Marcador añadido exitosamente', 
             marker: feature,
-            git: result.git
+            log: result.log
         });
     } else {
         res.status(500).json({ 
@@ -494,7 +401,7 @@ app.put('/api/maps/:mapId/markers/:markerId', (req, res) => {
         res.json({ 
             message: 'Marcador actualizado exitosamente', 
             marker,
-            git: result.git
+            log: result.log
         });
     } else {
         res.status(500).json({ 
@@ -525,7 +432,7 @@ app.delete('/api/maps/:mapId/markers/:markerId', (req, res) => {
         res.json({ 
             message: 'Marcador eliminado exitosamente',
             deletedMarker: deletedMarker.properties.name,
-            git: result.git
+            log: result.log
         });
     } else {
         res.status(500).json({ 

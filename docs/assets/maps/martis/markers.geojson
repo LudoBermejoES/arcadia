@@ -13,9 +13,10 @@
       },
       "properties": {
         "name": "Base de La Fuerza Oculta",
-        "description": "",
+        "description": "Situada bajo tierra, en la antigua linea de metro Orión",
         "category": "character",
-        "created": "2025-08-03T13:15:53.841Z"
+        "created": "2025-08-03T13:15:53.841Z",
+        "updated": "2025-08-03T13:20:20.994Z"
       }
     }
   ]

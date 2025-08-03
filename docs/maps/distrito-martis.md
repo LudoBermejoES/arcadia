@@ -83,31 +83,6 @@ permalink: /maps/distrito-martis/
             });
             
             return [tileLayer];
-        } else {
-            // Fallback: Single image layer (current implementation)
-            const ImageLayer = (await import('https://cdn.skypack.dev/ol@v9.2.4/layer/Image.js')).default;
-            const Static = (await import('https://cdn.skypack.dev/ol@v9.2.4/source/ImageStatic.js')).default;
-            
-            const imageLayer = new ImageLayer({
-                source: new Static({
-                    url: fallbackImageUrl,
-                    imageExtent: mapConfig.extent,
-                    projection: mapProjection,
-                })
-            });
-            
-            // Add error handling
-            imageLayer.getSource().on('imageloaderror', function(event) {
-                console.error('Failed to load image:', fallbackImageUrl);
-                document.getElementById('map').innerHTML = 
-                    '<p style="text-align: center; padding: 50px; color: #d32f2f;">⚠️ Error loading map image. Please check the file path.</p>';
-            });
-            
-            imageLayer.getSource().on('imageloadend', function(event) {
-                console.log('✅ Image loaded successfully (fallback mode):', fallbackImageUrl);
-            });
-            
-            return [imageLayer];
         }
     }
     

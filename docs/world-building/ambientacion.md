@@ -262,7 +262,7 @@ Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser
 ### Distrito Clásico
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de Arcadia.
 
-### Distrito Gótico (Barrio Gótico)
+### [Distrito Gótico (Barrio Gótico)](geography/barrio-gotico/)
 Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, creando un lugar oscuro, oloroso, siniestro y repleto de sombras que se ha convertido en el corazón místico de Arcadia.
 
 **Características principales**: 
@@ -275,7 +275,7 @@ Veinticinco manzanas residenciales con arquitectura industrial de los años cuar
 - Fenómenos sobrenaturales activos y mundo espiritual visible
 - Sistema de navegación único con "pautas" locales
 
-**→ [Ver información completa del Barrio Gótico](barrio-gotico/)**
+**→ [Ver información completa del Barrio Gótico](geography/barrio-gotico/)**
 
 ### Distrito Futurista
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.
@@ -299,13 +299,13 @@ Distrito residencial tradicional y familiar, **significativamente reducido por l
 ### Distrito Lunae (Lunes)  
 Distrito residencial de servicios sanitarios, **parcialmente absorbido por expansión gótica**. Población: ~900,000 habitantes (reducida desde ~1.1 millones).
 
-### Distrito Martis (Martes)
+### [Distrito Martis (Martes)](geography/distrito-martis/)
 Distrito residencial obrero, vivienda social de calidad para la clase trabajadora. Población: ~1.2 millones de habitantes.
 
 ### Distrito Mercurii (Miércoles)
 Distrito residencial de clase media, servicios educativos avanzados para profesionales. Población: ~1.3 millones de habitantes.
 
-### Distrito Iovis (Jueves)
+### [Distrito Iovis (Jueves)](geography/distrito-iovis/)
 Distrito residencial institucional, vivienda funcionarial y servicios públicos de calidad. Población: ~900,000 habitantes.
 
 ### Distrito Veneris (Viernes)

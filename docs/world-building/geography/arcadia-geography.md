@@ -80,7 +80,7 @@ Distrito residencial de servicios sanitarios y asistenciales, donde se concentra
 - Instituciones: Hospital Central de Arcadia, Centro de Medicina Metahumana, Servicios de Emergencia, Clínicas Góticas
 
 
-### [⚔️ **DISTRITO MARTIS** (Martes)](distrito-martis/)**
+### [⚔️ **DISTRITO MARTIS** (Martes)](distrito-martis/)
 Distrito residencial obrero y de clase trabajadora, donde viven empleados del sector industrial, servicios públicos y trabajadores especializados. Caracterizado por viviendas sociales de calidad, servicios sindicales y una fuerte identidad de clase trabajadora.
 
 **Características principales:**
@@ -98,7 +98,7 @@ Distrito residencial de clase media, donde viven profesionales, técnicos y empl
 - Servicios: Institutos, academias privadas, centros de idiomas, bibliotecas especializadas
 - Instituciones: Universidades Privadas, Centros de Formación Continua, Colegios Profesionales
 
-### 👑 **DISTRITO IOVIS** (Jueves)
+### [👑 **DISTRITO IOVIS** (Jueves)](distrito-iovis/)
 Distrito residencial institucional, donde viven funcionarios, empleados públicos y trabajadores de servicios esenciales. Diseñado con viviendas funcionariales y acceso privilegiado a servicios públicos de calidad.
 
 **Características principales:**

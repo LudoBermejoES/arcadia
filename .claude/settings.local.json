@@ -74,7 +74,8 @@
       "WebFetch(domain:docs.maptiler.com)",
       "Bash(npm start)",
       "Bash(npm run:*)",
-      "Bash(taskkill:*)"
+      "Bash(taskkill:*)",
+      "Bash(npm rebuild:*)"
     ],
     "deny": []
   }

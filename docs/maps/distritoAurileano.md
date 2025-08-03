@@ -25,7 +25,7 @@ permalink: /maps/distrito-aureliano/
     const imageUrl = '{{ site.baseurl }}/assets/maps/DistritoAurileano.svg';
     
     // Define image extent [minX, minY, maxX, maxY]
-    const imageExtent = [0, 0, 1568, 1963];
+    const imageExtent = [0, 0, 1993.2, 1568.4];
     
     // Create a custom projection for the image
     const imageProjection = new Projection({

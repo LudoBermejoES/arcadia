@@ -1,4 +1,22 @@
 {
   "type": "FeatureCollection",
-  "features": []
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1754226041478",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          5834.065564752089,
+          2563.6910475577097
+        ]
+      },
+      "properties": {
+        "name": "Base de La Fuerza Oculta",
+        "description": "La salida del antiguo metro donde se encuentra, en el subterráneo, la fuerza oculta",
+        "category": "character",
+        "created": "2025-08-03T13:00:41.478Z"
+      }
+    }
+  ]
 }

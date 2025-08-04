@@ -1,3 +1,8 @@
+---
+layout: page
+title: "La cacería salvaje"
+permalink: /groups/la-caceria-salvaje/
+---
 # La Cacería Salvaje
 
 ## Información Básica

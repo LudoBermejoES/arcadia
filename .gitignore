@@ -277,6 +277,9 @@ docs/generated/
 .env*
 !.env.example
 
+# Specific environment files
+docs/assets/maps/.env
+
 # API keys and secrets
 secrets.json
 config/secrets.yml

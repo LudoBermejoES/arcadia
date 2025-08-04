@@ -33,9 +33,9 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 **Campañas:** Hospital  
 **Descripción:** Hospital religioso cerrado hace 11 años tras tratar metahumanos peligrosos bajo la dirección de Felipe Álvarez. Edificio abandonado con actividad paranormal, voces espectrales y fenómenos inexplicables. Fue objeto de una investigación paranormal por parte de Mia Tanaka y Lorena Sanchez. Durante muchos años fue el único hospital que atendía el distrito gótico.
 
-### **Casa de Mésmero**
-**Campañas:** La Fuerza Oculta  
-**Descripción:** Refugio seguro para metahumanos fugitivos en el corazón del Barrio Gótico. Casa equipada específicamente para ocultar y proteger a metahumanos, con características sobrenaturales propias del distrito.
+### **[Casa de Mésmero - Parque de Bomberos]({{ site.baseurl }}/locations/casa-mesmero-parque-bomberos/)**
+**Campañas:** La Familia, La Fuerza Oculta  
+**Descripción:** Histórico parque de bomberos convertido en hogar de múltiples generaciones de superhéroes. Sirvió como residencia principal de **La Familia** (2010-2015) antes de convertirse en el refugio de **Mésmero** para metahumanos fugitivos. Edificio con consciencia propia y presencia espiritual, equipado específicamente para ocultar y proteger metahumanos, restaurado meticulosamente por Mésmero tras la era de La Familia.
 
 ### **Plaza del Golem**
 **Campañas:** La Fuerza Oculta  

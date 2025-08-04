@@ -177,15 +177,6 @@ permalink: /characters/character-list/
 - [Thomas / Raza]({{ site.baseurl }}/characters/details/thomas-raza/) (Dani)
 - [Lúmen]({{ site.baseurl }}/characters/details/lumen/) (Conchi)
 
-
-### Profesionales Médicos
-- [Luis Montenegro]({{ site.baseurl }}/characters/details/luis-montenegro/) (hermano de Esfinge, especialista en medicina metahumana)
-- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/) (especialista en historia metahumana, Museo de Metahumanos)
-- [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
-- [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/) (camarógrafo especializado en investigación paranormal)
-- [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
-- [Dr. Hotman]({{ site.baseurl }}/characters/details/dr-Hotman/)
-
 ### La Fuerza Oculta
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
 - [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
@@ -193,6 +184,15 @@ permalink: /characters/character-list/
 - [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)
 - [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
 - [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
+
+
+## Profesionales Médicos
+- [Luis Montenegro]({{ site.baseurl }}/characters/details/luis-montenegro/) (hermano de Esfinge, especialista en medicina metahumana)
+- [Doctor Anselmo]({{ site.baseurl }}/characters/details/doctor-anselmo/) (especialista en historia metahumana, Museo de Metahumanos)
+- [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
+- [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/) (camarógrafo especializado en investigación paranormal)
+- [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
+- [Dr. Hotman]({{ site.baseurl }}/characters/details/dr-Hotman/)
 
 ## Concursantes del Programa "Héroes o Villanos"
 
@@ -224,7 +224,7 @@ permalink: /characters/character-list/
 - [Oído]({{ site.baseurl }}/characters/details/oido/) (16 años, Hembra)
 - [Olfato]({{ site.baseurl }}/characters/details/olfato/) (16 años, Varón)
 - [Gusto]({{ site.baseurl }}/characters/details/gusto/) (14 años, Varón)
-- [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/) (grupo completo)
+- [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/) (grupo completo)
 
 #### Jugadores y Staff
 - Eduardo Vaquerizo (jugador/GM)

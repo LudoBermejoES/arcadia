@@ -22,7 +22,7 @@ slug: ricardo-abeluengo
 
 ## Presentación
 
-Ricardo Abeluengo fue el **Alcalde de Arcadia** durante un período crítico en la historia de la ciudad, caracterizado por las tensiones crecientes entre humanos y metahumanos. Su administración se centró en la gestión de políticas metahumanas, incluyendo el controvertido **registro de metahumanos**. Su mandato terminó trágicamente cuando fue **asesinado en un atentado terrorista** perpetrado por **Marcos Ideacir** (miembro de **Freiglasung**) durante la presentación de los "Ultracorps".
+Ricardo Abeluengo fue el **Alcalde de Arcadia** durante un período crítico en la historia de la ciudad, caracterizado por las tensiones crecientes entre humanos y metahumanos. Su administración se centró en la gestión de políticas metahumanas, incluyendo el controvertido **registro de metahumanos**. Su mandato terminó trágicamente cuando fue **asesinado en un atentado terrorista** perpetrado por **Marcos Ideacir** (miembro de **Freiglasung**) durante la presentación de los [Ultracorps](../../groups/ultracorps/).
 
 ## Historia Personal
 
@@ -73,13 +73,13 @@ Durante los eventos críticos en el bunker presidencial:
 ## El Gran Atentado
 
 ### **Presentación de los Ultracorps**
-El último acto público del alcalde Abeluengo fue la presentación de los **"Ultracorps"** de la **"Nueva Guardia MetaCorp"**:
+El último acto público del alcalde Abeluengo fue la presentación de los [**Ultracorps**](../../groups/ultracorps/) de la **"Nueva Guardia MetaCorp"**:
 
 #### **Evento Público**
 - **Discurso televisado**: Presentó públicamente la nueva unidad anti-metahumana
-- **"Nueva Guardia MetaCorp"**: Anunció que los Ultracorps "nacieron humanos sin poderes"
+- **"Nueva Guardia MetaCorp"**: Anunció que los [Ultracorps](../../groups/ultracorps/) "nacieron humanos sin poderes"
 - **Mensaje controvertido**: Prometió "enfrentarse a metahumanos con sus mismas armas"
-- **Demostración de fuerza**: Los Ultracorps cayeron del cielo como demostración
+- **Demostración de fuerza**: Los [Ultracorps](../../groups/ultracorps/) cayeron del cielo como demostración
 
 ### **El Atentado Terrorista**
 Durante el discurso, **Marcos Ideacir** ejecutó un atentado suicida:

@@ -94,6 +94,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **🏛️ Las Instituciones**
 - **[MetaCorp]({{ site.baseurl }}/groups/character-groups/#metacorp)** - Policía metahumana oficial
+- **[Ultracorps]({{ site.baseurl }}/groups/ultracorps/)** - División especial de MetaCorp con humanos mejorados
 - **Gobierno de Arcadia** - Administración especializada en gestión metahumana
 - **Academia de Entrenamiento** - Educación para jóvenes metahumanos
 - **Red de Sastres** - Artesanos especializados en trajes heroicos

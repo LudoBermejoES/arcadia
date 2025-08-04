@@ -30,7 +30,7 @@ Oneill es el líder actual de MetaCorp, habiendo asumido el mando tras la desapa
 
 **Operación de Rescate**: Durante una misión crítica con La Familia, sus poderes metahumanos fueron temporalmente neutralizados junto con los del resto del grupo, pero se recuperaron cuando la amenaza tecnológica fue eliminada.
 
-**Coordinación con Ultracorp**: Llamó a los Ultracorp durante una operación táctica, demostrando su capacidad de coordinar diferentes recursos.
+**Coordinación con Ultracorps**: Llamó a los [Ultracorps](../../groups/ultracorps/) durante una operación táctica, demostrando su capacidad de coordinar diferentes recursos.
 
 **Gestión de Crisis**: Intentó ponerse en contacto con Rayo cuando Relámpago había desaparecido, mostrando su rol como coordinador de las comunicaciones del equipo.
 

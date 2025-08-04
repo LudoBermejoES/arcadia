@@ -43,7 +43,8 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'la-caceria-salvaje.png', description: 'Vigilantes bestiales del Barrio Gótico' },
     { slug: 'los-confesores', name: 'Los Confesores', image: 'los-confesores.png', description: 'Fanáticos religiosos antimeta' },
     { slug: 'los-espligan', name: 'Los Espligan', image: 'espligan.png', description: 'Mercenarios especializados parasitarios' },
-    { slug: 'puno-gris', name: 'Puño Gris', image: 'puno-gris.png', description: 'Mafia del distrito asiático' }
+    { slug: 'puno-gris', name: 'Puño Gris', image: 'puno-gris.png', description: 'Mafia del distrito asiático' },
+    { slug: 'ultracorps', name: 'Ultracorps', image: 'ultracorps.png', description: 'División especial de MetaCorp con humanos mejorados' }
   ];
   
   // Character data - mapping character slugs to their details

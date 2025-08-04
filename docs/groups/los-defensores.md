@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: Los Defensores
-permalink: /characters/details/los-defensores/
-slug: los-defensores
+permalink: /groups/los-defensores/
 ---
 
 # Los Defensores

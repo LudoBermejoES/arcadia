@@ -88,7 +88,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Organización criminal
 
 **Miembros**:
-- [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
+- [La Farándula]({{ site.baseurl }}/groups/la-farandula/) (grupo criminal)
 
 ### Los Barones de Telaraña
 **Tipo**: Organización criminal  
@@ -137,7 +137,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 **Miembros**:
 - [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/) (comandante)
-- [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar)
+- [Los Rayos]({{ site.baseurl }}/groups/los-rayos/) (fuerza militar)
 
 ## Grupos Históricos y Legendarios
 
@@ -146,7 +146,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Grupo legendario de superhéroes del pasado
 
 **Miembros**:
-- [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/) (grupo histórico)
+- [Los Defensores]({{ site.baseurl }}/groups/los-defensores/) (grupo histórico)
 - [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario asociado)
 
 ### Los Clásicos
@@ -226,7 +226,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Seres místicos con rol confesional
 
 **Miembros**:
-- [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)
+- [Los Confesores]({{ site.baseurl }}/groups/los-confesores/)
 
 ### Los Antiguos
 **Tipo**: Entidades primordiales  

@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: Los Confesores
-permalink: /characters/details/los-confesores/
-slug: los-confesores
+permalink: /groups/los-confesores/
 ---
 
 # Los Confesores

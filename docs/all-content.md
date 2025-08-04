@@ -89,7 +89,7 @@ permalink: /all-content/
 - [🔥 Hotman]({{ site.baseurl }}/characters/details/hotman/) *(Jandro)* - El maestro del calor
 
 ### **Villanos Icónicos**
-- [🎭 La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) - Los villanos teatrales
+- [🎭 La Farándula]({{ site.baseurl }}/groups/la-farandula/) - Los villanos teatrales
 - [👑 La Emperatriz]({{ site.baseurl }}/characters/details/la-emperatriz/) - La tirana suprema
 - [🌑 La Sombra]({{ site.baseurl }}/characters/details/la-sombra/) - El terror nocturno
 - [⚡ Saltamontes]({{ site.baseurl }}/characters/details/saltamontes/) - El ladrón imposible
@@ -119,14 +119,14 @@ permalink: /all-content/
 - **La Familia** - Los fundadores originales
 - **Génesis** - La segunda generación  
 - **La Fuerza Oculta** - Los herederos actuales
-- **[Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/)** - Veteranos aliados
-- **[Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/)** - Especialistas en velocidad
+- **[Los Defensores]({{ site.baseurl }}/groups/los-defensores/)** - Veteranos aliados
+- **[Los Rayos]({{ site.baseurl }}/groups/los-rayos/)** - Especialistas en velocidad
 
 **Organizaciones Villanas:**
-- **[La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)** - Villanos teatrales
+- **[La Farándula]({{ site.baseurl }}/groups/la-farandula/)** - Villanos teatrales
 - **Fatum** - La corporación del crimen
-- **[Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)** - Fanáticos religiosos
-- **[Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)** - Mercenarios especializados
+- **[Los Confesores]({{ site.baseurl }}/groups/los-confesores/)** - Fanáticos religiosos
+- **[Los Espligan]({{ site.baseurl }}/groups/los-espligan/)** - Mercenarios especializados
 
 **Instituciones:**
 - **Humanitas** - Partido político antimeta

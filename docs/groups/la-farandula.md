@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: La Farandula
-permalink: /characters/details/la-farandula/
-slug: la-farandula
+permalink: /groups/la-farandula/
 ---
 
 # La Farándula

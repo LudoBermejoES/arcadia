@@ -95,12 +95,12 @@ Derrotan al minotauro mágico y encuentran el "Pozo de almas" con caras congelad
 ### 🕷️ **Fase VII: Los Parásitos del Tiempo (2013-2014)**
 **"Espligan, Confesores y Guardianes"**
 
-[Mésmero]({{ site.baseurl }}/characters/details/mesmero/) sufre ataques mentales durante actuaciones. Conocen a Natasha quien revela los "espligan" (bichos que roban tiempo) y los [confesores]({{ site.baseurl }}/characters/details/los-confesores/) (cazadores). Encuentran el cubil bajo la embajada francesa. [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) revela formar parte de los "Guardianes" junto con el Mago y [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/).
+[Mésmero]({{ site.baseurl }}/characters/details/mesmero/) sufre ataques mentales durante actuaciones. Conocen a Natasha quien revela los "espligan" (bichos que roban tiempo) y los [confesores]({{ site.baseurl }}/groups/los-confesores/) (cazadores). Encuentran el cubil bajo la embajada francesa. [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) revela formar parte de los "Guardianes" junto con el Mago y [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/).
 
 ### 🎭 **Fase VIII: La Telaraña y La Farándula (2014)**
 **"Mercenarios Locos y Venganzas Literarias"**
 
-Se infiltran en prisión para entrevistar a Marta, cuya alma está "rota". La ciudad sufre siete explosiones simultáneas. Descubren conexiones con sirianos y un líder de secta. Confirman la existencia de la [Telaraña]({{ site.baseurl }}/characters/details/telarana/) y sus mercenarios "[La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)", obsesionados con el Siglo de Oro. Enfrentan al "Lazarillo de Tormes" que busca venganza "ojo por ojo".
+Se infiltran en prisión para entrevistar a Marta, cuya alma está "rota". La ciudad sufre siete explosiones simultáneas. Descubren conexiones con sirianos y un líder de secta. Confirman la existencia de la [Telaraña]({{ site.baseurl }}/characters/details/telarana/) y sus mercenarios "[La Farándula]({{ site.baseurl }}/groups/la-farandula/)", obsesionados con el Siglo de Oro. Enfrentan al "Lazarillo de Tormes" que busca venganza "ojo por ojo".
 
 ### 🔄 **Fase IX: Falsas Banderas y Protocolos (2014-2015)**
 **"Marines, Piedras Zumbantes y Fusiones"**

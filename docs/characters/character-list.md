@@ -60,7 +60,7 @@ permalink: /characters/character-list/
 - [Autoridad]({{ site.baseurl }}/characters/details/autoridad/)
 - [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/)
 - [La Desconocida]({{ site.baseurl }}/characters/details/la-desconocida/)
-- [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/) (grupo histórico)
+- [Los Defensores]({{ site.baseurl }}/groups/los-defensores/) (grupo histórico)
 - [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario)
 - [David]({{ site.baseurl }}/characters/details/david/) (héroe del Barrio Gótico)
 
@@ -82,7 +82,7 @@ permalink: /characters/character-list/
 - [Metalo]({{ site.baseurl }}/characters/details/metalo/)
 - [Crazy Mary]({{ site.baseurl }}/characters/details/crazy-mary/)
 - [Pastel de Carne]({{ site.baseurl }}/characters/details/pastel-de-carne/) (asesino interno de Telaraña, "poco sutil")
-- [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/) (grupo criminal)
+- [La Farándula]({{ site.baseurl }}/groups/la-farandula/) (grupo criminal)
 - [Aldonza Lorenzo / Dulcinea]({{ site.baseurl }}/characters/details/aldonza-lorenzo/) (miembro de La Farándula)
 - [Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)
 - [Barón Soledad]({{ site.baseurl }}/characters/details/baron-soledad/) (asigna casos criminales)
@@ -141,8 +141,8 @@ permalink: /characters/character-list/
 - [Alfred]({{ site.baseurl }}/characters/details/alfred/)
 - [El Golem]({{ site.baseurl }}/characters/details/el-golem/)
 - [La Emperatriz]({{ site.baseurl }}/characters/details/la-emperatriz/)
-- [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)
-- [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)
+- [Los Espligan]({{ site.baseurl }}/groups/los-espligan/)
+- [Los Confesores]({{ site.baseurl }}/groups/los-confesores/)
 
 ## Tecnología e Inteligencia Artificial
 
@@ -280,7 +280,7 @@ permalink: /characters/character-list/
 - [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
 ### Fuerzas Especiales y Militares
-- [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/) (fuerza militar bajo General Martínez)
+- [Los Rayos]({{ site.baseurl }}/groups/los-rayos/) (fuerza militar bajo General Martínez)
 - El Oriental Tormenta
 
 ### Personajes Internacionales

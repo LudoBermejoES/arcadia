@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: Los Rayos
-permalink: /characters/details/los-rayos/
-slug: los-rayos
+permalink: /groups/los-rayos/
 ---
 
 # Los Rayos

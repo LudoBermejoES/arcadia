@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: Los Espligan
-permalink: /characters/details/los-espligan/
-slug: los-espligan
+permalink: /groups/los-espligan/
 ---
 
 # Los Espligan

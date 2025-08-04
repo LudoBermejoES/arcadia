@@ -80,7 +80,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 🛡️ **Equipos Heroicos Veteranos**
 
-### **🛡️ [Los Defensores](../characters/details/los-defensores.md)**
+### **🛡️ [Los Defensores](los-defensores.md)**
 **Veteranos de Múltiples Generaciones**
 
 #### **Rol Institucional:**
@@ -94,7 +94,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **⚡ [Los Rayos](../characters/details/los-rayos.md)**
+### **⚡ [Los Rayos](los-rayos.md)**
 **Especialistas en Velocidad y Rescate**
 
 #### **Capacidades Únicas:**
@@ -110,7 +110,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 😈 **Organizaciones Villanas**
 
-### **🎭 [La Farándula](../characters/details/la-farandula.md)**
+### **🎭 [La Farándula](la-farandula.md)**
 **Los Villanos Teatrales Organizados**
 
 #### **Estructura Criminal:**
@@ -164,7 +164,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **⛪ [Los Confesores](../characters/details/los-confesores.md)**
+### **⛪ [Los Confesores](los-confesores.md)**
 **Fanáticos Religiosos Antimeta**
 
 #### **Ideología Extremista:**
@@ -487,14 +487,14 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[⚡ Génesis](../campaigns/genesis/index.md)** - La generación puente
 - **[🔮 La Fuerza Oculta](../campaigns/la-fuerza-oculta/index.md)** - Los herederos actuales
 - **[🐱 La Cacería Salvaje](la-caceria-salvaje.md)** - Los vigilantes felinos del Barrio Gótico
-- **[🛡️ Veteranos](../characters/details/los-defensores.md)** - Equipos de apoyo
+- **[🛡️ Veteranos](los-defensores.md)** - Equipos de apoyo
 
 ### **😈 Organizaciones Villanas**
-- **[🎭 La Farándula](../characters/details/la-farandula.md)** - Los teatrales organizados
+- **[🎭 La Farándula](la-farandula.md)** - Los teatrales organizados
 - **[🏢 Fatum](../campaigns/fatum/fatum.md)** - La megacorporación criminal
 - **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
 - **[💥 Freiglasung](freiglasung.md)** - Terroristas anti-meta (desmantelados)
-- **[⛪ Los Confesores](../characters/details/los-confesores.md)** - Fanáticos antimeta
+- **[⛪ Los Confesores](los-confesores.md)** - Fanáticos antimeta
 
 ### **🏛️ Instituciones Públicas**
 - **🏛️ Gobierno de Arcadia** - Administración especializada

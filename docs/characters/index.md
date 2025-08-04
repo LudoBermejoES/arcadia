@@ -144,7 +144,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ### **🎭 Antagonistas Principales**
 
-#### [🎭 **La Farándula**]({{ site.baseurl }}/characters/details/la-farandula/)
+#### [🎭 **La Farándula**]({{ site.baseurl }}/groups/la-farandula/)
 **Los Villanos Teatrales**
 - **Concepto**: Supervillanos con máscaras de personajes de Don Quijote
 - **Historia**: Desaparecidos tras intento de bomba atómica (La Familia)
@@ -272,20 +272,29 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **🏛️ La Familia**: Los fundadores originales (6 miembros)
 - **⚡ Génesis**: La generación puente (5 miembros)  
 - **🔮 La Fuerza Oculta**: Los herederos actuales (6 miembros)
-- **🛡️ [Los Defensores]({{ site.baseurl }}/characters/details/los-defensores/)**: Veteranos aliados
-- **⚡ [Los Rayos]({{ site.baseurl }}/characters/details/los-rayos/)**: Fuerza militar de elite bajo General Martínez
+- **🐺 [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Vigilantes bestiales del Barrio Gótico (5 hermanos)
+- **🛡️ [Los Defensores]({{ site.baseurl }}/groups/los-defensores/)**: Veteranos aliados
+- **⚡ [Los Rayos]({{ site.baseurl }}/groups/los-rayos/)**: Fuerza militar de elite bajo General Martínez
 
 ### **😈 Organizaciones Villanas**
-- **🎭 [La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)**: Villanos teatrales organizados
+- **🎭 [La Farándula]({{ site.baseurl }}/groups/la-farandula/)**: Villanos teatrales organizados
 - **🏢 Fatum**: La corporación criminal más poderosa  
-- **⛪ [Los Confesores]({{ site.baseurl }}/characters/details/los-confesores/)**: Fanáticos religiosos antimeta
-- **⚔️ [Los Espligan]({{ site.baseurl }}/characters/details/los-espligan/)**: Mercenarios especializados
+- **🐾 Las Bestias**: Entidades artificiales criminales bajo El Viejo
+- **⛪ [Los Confesores]({{ site.baseurl }}/groups/los-confesores/)**: Fanáticos religiosos antimeta
+- **⚔️ [Los Espligan]({{ site.baseurl }}/groups/los-espligan/)**: Mercenarios especializados
 
 ### **🏛️ Instituciones**
 - **🗳️ Humanitas**: Partido político antimeta-humano
 - **📺 RTA**: Radio Televisión de Arcadia (medios públicos)
+- **📰 Los Periodistas de Arcadia**: Red especializada de medios metahumanos (6+ miembros)
 - **🏫 Academias de Entrenamiento**: Formación heroica institucional
 - **👔 Sastres Especializados**: Industria de trajes y equipamiento
+
+### **🏆 Grupos del Concurso "Héroes o Villanos" (2024)**
+- **🥇 [Grupo Alfa]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/#grupo-alfa---los-favoritos-del-público)**: Los Favoritos del Público (5 miembros - ganadores)
+- **🥈 [Grupo Beta - La Fuerza Oculta]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/#grupo-beta---la-fuerza-oculta)**: Los Supervivientes Heroicos (6 miembros)
+- **🥉 [Grupo Gamma]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/#grupo-gamma---los-criminales-rehabilitados)**: Los Criminales Rehabilitados (4 miembros - eliminados)
+- **4️⃣ [Grupo Delta]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/#grupo-delta---los-dormilones)**: Los Dormilones (4 miembros - eliminados)
 
 ---
 
@@ -317,7 +326,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **⭐ Personajes Más Referenciados**
 1. **[El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)** - Aparece en todas las eras
 2. **[Garra]({{ site.baseurl }}/characters/details/garra/)** - Conecta La Familia con La Fuerza Oculta  
-3. **[La Farándula]({{ site.baseurl }}/characters/details/la-farandula/)** - Villanos recurrentes
+3. **[La Farándula]({{ site.baseurl }}/groups/la-farandula/)** - Villanos recurrentes
 4. **[Ana Montenegro]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** - Figura legal central
 5. **[Alice Tesla]({{ site.baseurl }}/characters/details/alice-tesla/)** - El gran misterio interdimensional
 

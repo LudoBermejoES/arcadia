@@ -17,14 +17,14 @@ slug: zambo-mambo
 **Alias**: Los Gemelos de Metal  
 **Edad**: 16 años  
 **Parentesco**: Gemelos  
-**Padre**: Manny (supervillano de la época clásica)  
+**Padre**: [Manni](../manni/) (pirómano mercenario especializado)  
 **Grupo**: Grupo Delta (Concurso Héroes o Villanos)  
 **Estado**: Eliminados del concurso tras prueba de robots  
 **Clasificación**: Metahumanos con cuerpos de metal orgánico
 
 ## Descripción
 
-Zambo y Mambo son hermanos gemelos de 16 años, hijos del supervillano clásico conocido como Manny. Su característica más distintiva es que sus cuerpos están compuestos de metal orgánico más duro que el acero, otorgándoles resistencia y fuerza extraordinarias. Sin embargo, su forma física deficiente impide que se muevan con rapidez, y su actitud abusiva y zafia les ganó la enemistad de los telespectadores durante su participación en el Concurso Héroes o Villanos como parte del eliminado Grupo Delta.
+Zambo y Mambo son hermanos gemelos de 16 años, hijos del pirómano mercenario conocido como [Manni](../manni/). Su característica más distintiva es que sus cuerpos están compuestos de metal orgánico más duro que el acero, otorgándoles resistencia y fuerza extraordinarias. Sin embargo, su forma física deficiente impide que se muevan con rapidez, y su actitud abusiva y zafia les ganó la enemistad de los telespectadores durante su participación en el Concurso Héroes o Villanos como parte del eliminado Grupo Delta.
 
 ## Poderes y Habilidades
 
@@ -47,7 +47,8 @@ Zambo y Mambo son hermanos gemelos de 16 años, hijos del supervillano clásico 
 - **Agilidad Comprometida**: Su composición metálica reduce su flexibilidad
 
 ### Herencia Metahumana
-- **Genética Villana**: Han heredado poderes de su padre Manny
+- **Genética Villana**: Han heredado poderes metahumanos de su padre [Manni](../manni/)
+- **Naturaleza diferente**: Sus poderes metálicos difieren de la piroquinesis paterna
 - **Potencial Sin Desarrollar**: Sus habilidades podrían ser más poderosas con entrenamiento adecuado
 - **Influencia Paterna**: Su desarrollo ha sido afectado por el legado criminal familiar
 
@@ -73,8 +74,9 @@ Zambo y Mambo son hermanos gemelos de 16 años, hijos del supervillano clásico 
 
 ## Historia Familiar
 
-### Legado de Manny
-- **Padre Villano**: Manny fue un supervillano reconocido de la época clásica
+### Legado de Manni
+- **Padre Criminal**: [Manni](../manni/) es un pirómano mercenario especializado en asesinatos por fuego
+- **Separación reciente**: Su padre ha estado encarcelado los últimos 4 años
 - **Influencia Negativa**: Su crianza ha sido moldeada por valores y métodos criminales
 - **Expectativas**: Presión de vivir a la altura del legado paterno
 - **Identidad**: Su autoconcepto está ligado a ser "hijos de villano"
@@ -156,7 +158,7 @@ Zambo y Mambo son hermanos gemelos de 16 años, hijos del supervillano clásico 
 - **Oportunidad Perdida**: El concurso podría haber sido chance de reforma
 
 ### Barreras para el Mejoramiento
-- **Influencia Paterna**: El legado de Manny dificultaba cambio de perspectiva
+- **Influencia Paterna**: El legado de Manni dificultaba cambio de perspectiva
 - **Codependencia**: Su relación gemela reforzaba malos hábitos
 - **Orgullo**: Su arrogancia impedía admitir necesidad de cambio
 - **Ambiente Tóxico**: Se rodeaban de influencias que validaban su comportamiento

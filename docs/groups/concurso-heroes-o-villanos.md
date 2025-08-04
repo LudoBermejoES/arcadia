@@ -184,7 +184,7 @@ El "Concurso Héroes o Villanos" fue un reality show producido por RTA que prese
 - **Estilo**: Acrobacias y combate cuerpo a cuerpo
 
 **[Zambo y Mambo](../characters/details/zambo-mambo.md)**
-- **Parentesco**: Gemelos de 16 años, hijos del supervillano Manny
+- **Parentesco**: Gemelos de 16 años, hijos del supervillano Manni
 - **Poderes**: Cuerpos de metal orgánico más duro que el acero
 - **Limitaciones**: Forma física deficiente impide movimiento rápido
 - **Personalidad**: Actitud abusiva y zafia que alienó a los telespectadores

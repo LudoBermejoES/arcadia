@@ -42,5 +42,5 @@ Sus integratnes eran:
 
 - La nueva sombra, joven heroína autodenominada a sí misma, siempre con una máscara sobre el rostro. Excepcionales habilidades acrobáticas pero fue la primera en caer con los robots por sobre confianza.
 
-- Zambo y Mambo, hijos de Manny, uno de los supervillanos de la época clásica. Dos gemenos de dieciséis años, su cuerpo está formado por metal orgánico más duro que el acero. A pesar de su fuerza su escasa forma física no les permitía moverse demasiado rápido y su actitud abusiva y zafia se ganó la enemistad de los telespectadores.
+- Zambo y Mambo, hijos de Manni, uno de los supervillanos de la época clásica. Dos gemenos de dieciséis años, su cuerpo está formado por metal orgánico más duro que el acero. A pesar de su fuerza su escasa forma física no les permitía moverse demasiado rápido y su actitud abusiva y zafia se ganó la enemistad de los telespectadores.
 

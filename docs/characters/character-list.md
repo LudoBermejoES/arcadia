@@ -124,6 +124,8 @@ permalink: /characters/character-list/
 ### Mercenarios y Criminales Organizados
 - [Mateo Shu]({{ site.baseurl }}/characters/details/mateo-shu/) (mercenario del Puño Gris, colaborador de La Farándula)
 - [Hassan Oleg]({{ site.baseurl }}/characters/details/hassan-oleg/) (capataz de obras, subordinado de Malik)
+- [Manni]({{ site.baseurl }}/characters/details/manni/) (pirómano mercenario, "hermano" de Zanni, especialista en asesinatos por fuego)
+- [Zanni]({{ site.baseurl }}/characters/details/zanni/) (metahumano metálico mercenario, "hermano" de Manni, origen misterioso)
 
 ### Figuras Misteriosas
 - [Destino]({{ site.baseurl }}/characters/details/destino/)
@@ -289,4 +291,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*156 personajes documentados - Última actualización: Agosto 2025*
+*161 personajes documentados - Última actualización: Agosto 2025*

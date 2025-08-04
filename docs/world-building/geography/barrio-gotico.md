@@ -18,7 +18,7 @@ El Barrio Gótico es mucho más que un distrito de Arcadia - es un organismo viv
 **Ubicación**: Distrito residencial de 25 manzanas  
 **Población**: Refugio principal de metahumanos de Arcadia  
 **Características**: Distrito sin metro, economía alternativa, fenómenos sobrenaturales activos  
-**Vigilancia**: [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/) (vigilantes independientes)
+**Vigilancia**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje) (vigilantes independientes)
 
 ---
 
@@ -94,7 +94,7 @@ El Barrio Gótico se ha establecido como el principal santuario para metahumanos
 
 ---
 
-## 🛡️ **Vigilancia Independiente: [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)**
+## 🛡️ **Vigilancia Independiente: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje)**
 
 ### **Los Cinco Hermanos Bestiales**
 Un grupo único de vigilantes metahumanos que patrullan exclusivamente el Barrio Gótico:
@@ -394,7 +394,7 @@ El Barrio Gótico representa mucho más que un distrito residencial:
 ## 🔗 **Enlaces Relacionados**
 
 - **[Geografía General de Arcadia](../arcadia-geography/)** - Contexto de todos los distritos
-- **[La Cacería Salvaje](../../characters/details/la-caceria-salvaje/)** - Vigilantes del distrito
+- **[La Cacería Salvaje](../../groups/la-caceria-salvaje)** - Vigilantes del distrito
 - **[La Familia](../../campaigns/la-familia/)** - Historia de los héroes fundacionales
 - **[Ambientación de Arcadia](../ambientacion/)** - Historia general de la isla
 - **[Telaraña](../../groups/character-groups/#telaraña)** - Organización criminal rival

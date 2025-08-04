@@ -61,7 +61,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **Los Seis Distritos Especializados de Marius**
 - **🏛️ [Distrito Clásico]({{ site.baseurl }}/world-building/distrito-clasico/)** - Centro político, religioso y judicial
-- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)
+- **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje)
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
 - **⛪ Distrito Eclesiástico** - Área religiosa multi-confesional  
 - **🌿 Distrito Biónico** - Distrito natural premium con arquitectura oriental
@@ -84,7 +84,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
 - **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo  
 - **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
-- **[La Cacería Salvaje]({{ site.baseurl }}/characters/details/la-caceria-salvaje/)** - Vigilantes bestiales del Barrio Gótico
+- **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)** - Vigilantes bestiales del Barrio Gótico
 
 ### **😈 Las Amenazas Persistentes**
 - **[La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula)** - Villanos teatrales obsesionados con el Siglo de Oro

@@ -14,7 +14,7 @@ description: "151 Héroes, Villanos y Aliados"
 ## 🌟 **Universo de Personajes**
 
 
-Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **156 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
+Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **165 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
 
 **🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**
 
@@ -272,6 +272,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **🏛️ La Familia**: Los fundadores originales (6 miembros)
 - **⚡ Génesis**: La generación puente (5 miembros)  
 - **🔮 La Fuerza Oculta**: Los herederos actuales (6 miembros)
+- **🤖 [Ultracorps]({{ site.baseurl }}/groups/ultracorps/)**: Primera generación de humanos artificialmente mejorados (5 veteranos)
 - **🐺 [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Vigilantes bestiales del Barrio Gótico (5 hermanos)
 - **🛡️ [Los Defensores]({{ site.baseurl }}/groups/los-defensores/)**: Veteranos aliados
 - **⚡ [Los Rayos]({{ site.baseurl }}/groups/los-rayos/)**: Fuerza militar de elite bajo General Martínez
@@ -351,12 +352,12 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-- **156** Personajes Únicos
+- **165** Personajes Únicos
 - **17** Protagonistas Principales  
 - **50+** Villanos Documentados
 - **15** Años de Desarrollo
 - **8** Jugadores Únicos
-- **3** Generaciones Heroicas
+- **4** Generaciones Heroicas (incluye Ultracorps)
 
 ---
 

@@ -52,7 +52,14 @@ permalink: /characters/character-list/
 ### MetaCorp Activos
 - [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
 - [Trueno]({{ site.baseurl }}/characters/details/trueno/)
-- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
+- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Consultor Senior de MetaCorp)
+
+### Ultracorps (Primera Generación de Humanos Mejorados)
+- [Neill O'Hara (Oneill)]({{ site.baseurl }}/characters/details/oneill/) (Fundador y Consultor Senior)
+- [Mario Igarruti]({{ site.baseurl }}/characters/details/mario-igarruti/) (Especialista Social Veterano)
+- [Iñigo Temblez]({{ site.baseurl }}/characters/details/inigo-temblez/) (Arquitecto Tecnológico Jefe)
+- [Pablo de la Serna]({{ site.baseurl }}/characters/details/pablo-de-la-serna/) (Comandante Táctico de Campo)
+- [Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/) (Maestro de Infiltración)
 
 ### Antiguos Héroes
 - [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (héroe fundacional, Guardián)
@@ -124,8 +131,8 @@ permalink: /characters/character-list/
 ### Mercenarios y Criminales Organizados
 - [Mateo Shu]({{ site.baseurl }}/characters/details/mateo-shu/) (mercenario del Puño Gris, colaborador de La Farándula)
 - [Hassan Oleg]({{ site.baseurl }}/characters/details/hassan-oleg/) (capataz de obras, subordinado de Malik)
-- [Manni]({{ site.baseurl }}/characters/details/manni/) (pirómano mercenario, "hermano" de Zanni, especialista en asesinatos por fuego)
-- [Zanni]({{ site.baseurl }}/characters/details/zanni/) (metahumano metálico mercenario, "hermano" de Manni, origen misterioso)
+- [Manni]({{ site.baseurl }}/characters/details/manni/) (metahumano metálico mercenario, "hermano" de Zanni, especialista en fuerza bruta)
+- [Zanni]({{ site.baseurl }}/characters/details/zanni/) (pirómano mercenario, "hermano" de Manni, origen misterioso)
 
 ### Figuras Misteriosas
 - [Destino]({{ site.baseurl }}/characters/details/destino/)
@@ -291,4 +298,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*161 personajes documentados - Última actualización: Agosto 2025*
+*165 personajes documentados - Última actualización: Enero 2025*

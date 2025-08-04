@@ -16,7 +16,7 @@ permalink: /groups/ultracorps/
 **Tipo**: División Especial de MetaCorp  
 **Ubicación**: Arcadia (Base de operaciones oficial)  
 **Estado**: Activo (tras reorganización post-atentado)  
-**Número de Miembros**: 4+ operativos especializados  
+**Número de Miembros**: 5 operativos especializados  
 **Clasificación**: Humanos Artificialmente Mejorados
 
 ## Descripción
@@ -68,25 +68,63 @@ La presentación fue interrumpida por un ataque terrorista:
 
 ## Miembros del Grupo
 
-### Operativos Confirmados
-Aunque los nombres específicos no están documentados, se confirma la existencia de al menos **4 operativos activos**:
+### Operativos Activos
+Los Ultracorps están compuestos por **5 operativos especializados**, cada uno mejorado artificialmente para cumplir roles específicos:
 
-#### **Especialista en Campos de Fuerza**
-- **Habilidad principal**: Generación de domos protectores de energía
-- **Función táctica**: Protección de área y contención de amenazas
-- **Equipamiento**: Tecnología de proyección de campos energéticos
-- **Experiencia en combate**: Enfrentamiento documentado con Bate de La Familia
+#### **[Neill O'Hara (Oneill)](../characters/details/oneill.md) - Consultor Senior**
+- **Edad**: 55 años | **Clasificación**: Humano sin poderes, especialista en investigación criminal
+- **Rol**: Fundador y consultor senior (semi-retirado del liderazgo activo)
+- **Especialización**: Mentoría institucional, consultoría de crisis, historiador operativo
+- **Background**: Fundó Ultracorps y los lideró durante una década completa (2015-2025)
+- **Estado actual**: Semi-retirado, disponible para consultoría estratégica y situaciones críticas
 
-#### **Operativo de Captura**
-- **Habilidad principal**: Interceptación y inmovilización de objetivos
-- **Función táctica**: Neutralización rápida de amenazas identificadas
-- **Experiencia operativa**: Captura exitosa de Marcos Ideacir antes de la explosión
-- **Resistencia**: Supervivencia a explosión directa (aunque con heridas)
+#### **[Mario Igarruti](../characters/details/mario-igarruti.md) - Especialista Social Veterano**
+- **Edad**: 38 años | **Clasificación**: Humano mejorado artificialmente, especialista en manipulación social
+- **Mejoras**: Smooth Operator Nivel 4, belleza artificial, sex appeal sobrehumano
+- **Especialización**: Infiltración social, negociación, interrogatorio psicológico, control de masas
+- **Función táctica**: Operaciones encubiertas, diplomacia, obtención de inteligencia mediante manipulación
+- **Equipamiento**: SIG-Sauer P226, identidades falsas, red de contactos en alta sociedad y submundo
 
-#### **Miembros Adicionales**
-- **Dos operativos más**: Identidades y especializaciones no documentadas
-- **Roles complementarios**: Probablemente especializados en combate, reconocimiento o apoyo técnico
-- **Entrenamiento coordinado**: Capacidad de trabajo en equipo bajo presión extrema
+#### **[Iñigo Temblez](../characters/details/inigo-temblez.md) - Arquitecto Tecnológico Jefe**
+- **Edad**: 33 años | **Clasificación**: Humano mejorado artificialmente, genio tecnológico
+- **Mejoras**: Memoria Eidética, Inteligencia Potenciada, Gizmo Nivel 2
+- **Especialización**: Maestría electrónica completa, ingeniería avanzada, guerra electrónica
+- **Función táctica**: Soporte técnico, contramedidas tecnológicas, análisis de amenazas, ciberguerra
+- **Equipamiento**: Arsenal tecnológico avanzado, laboratorio móvil, sistemas de hackeo
+
+#### **[Pablo de la Serna](../characters/details/pablo-de-la-serna.md) - Comandante Táctico de Campo**
+- **Edad**: 43 años | **Clasificación**: Humano mejorado artificialmente, comandante táctico veterano
+- **Mejoras**: Fuerza Sobrehumana, Resistencia Mejorada, Percepción Táctica
+- **Especialización**: Combate de alta intensidad, breaching, control de multitudes, protección de equipo
+- **Función táctica**: Punto de entrada, neutralización de amenazas físicas, coordinación táctica de campo
+- **Equipamiento**: Arsenal de combate pesado, herramientas de breaching, sistemas de restraint metahumano
+
+#### **[Roberto Gómez](../characters/details/roberto-gomez.md) - Maestro de Infiltración y Jefe de Inteligencia**
+- **Edad**: 39 años | **Clasificación**: Humano mejorado artificialmente, maestro de infiltración
+- **Mejoras**: Destreza Sobrehumana, Velocidad Mejorada, Percepción Táctica
+- **Especialización**: Infiltración avanzada, reconocimiento, operaciones encubiertas, recopilación de inteligencia
+- **Función táctica**: Penetración silenciosa, vigilancia prolongada, sabotaje selectivo, extracción encubierta
+- **Equipamiento**: Kit de infiltración completo, tecnología de camuflaje, dispositivos de bypass
+
+### Dinámica de Equipo y Coordinación
+
+#### **Estructura de Comando Evolucionada (2025)**
+- **Liderazgo transicional**: Pablo de la Serna como comandante de campo, Neill O'Hara como consultor senior
+- **Especialización veterana**: Cada miembro ha desarrollado expertise única tras década de servicio
+- **Autonomía operativa**: Capacidad de operar independientemente con mínima supervisión externa
+- **Mentoría integrada**: Estructura permite entrenamiento de nuevas generaciones de operativos mejorados
+
+#### **Combinaciones Tácticas Veteranas (2025)**
+- **Infiltración-Social Legendaria**: Roberto + Mario forman el dúo de infiltración más efectivo de Arcadia
+- **Fuerza-Tecnología Integral**: Pablo + Iñigo combinan experiencia táctica con innovación tecnológica
+- **Comando-Consultoría**: Pablo lidera operaciones mientras Neill proporciona sabiduría estratégica
+- **Respuesta total**: Los veteranos proporcionan capacidades que superan ampliamente equipos convencionales
+
+#### **Ventajas del Modelo Veterano**
+- **Experiencia comprobada**: Década completa de operaciones exitosas bajo cualquier condición
+- **Anticipación estratégica**: Capacidad de prever y prepararse para amenazas antes de que se manifiesten
+- **Red de contactos global**: Conexiones desarrolladas durante años de servicio en múltiples organizaciones
+- **Mentoría especializada**: Cada veterano puede entrenar a múltiples generaciones de nuevos operativos
 
 ---
 
@@ -227,12 +265,20 @@ Los Ultracorps representan un avance tecnológico significativo:
 
 ## Estado Actual y Proyección Futura
 
-### Situación en 2025
-Los Ultracorps continúan operando como división élite de MetaCorp:
-- **Operaciones activas**: Continúan con misiones de seguridad y respuesta a crisis
-- **Desarrollo tecnológico**: Mejoras continuas en equipamiento y capacidades
-- **Expansión potencial**: Posibilidad de reclutamiento de nuevos candidatos
-- **Integración institucional**: Consolidación como parte permanente de MetaCorp
+### Situación en 2025 - La Era Veterana
+Los Ultracorps han evolucionado hasta convertirse en la división más respetada y efectiva de MetaCorp:
+
+#### **Estado Operativo Actual**
+- **Liderazgo transicional**: Pablo de la Serna ha asumido el comando de campo tras el semi-retiro de O'Hara
+- **Capacidades legendarias**: Cada miembro ha alcanzado niveles de maestría que los convierten en leyendas vivientes en sus especialidades
+- **Autonomía estratégica**: Operan con independencia casi total, consultando con O'Hara solo en crisis mayores
+- **Mentoría activa**: Cada veterano entrena nuevas generaciones de operativos mejorados
+
+#### **Transformación Organizacional**
+- **De experimentales a institucionales**: Han demostrado que los humanos mejorados pueden ser más efectivos que metahumanos naturales
+- **Modelo replicable**: Su éxito ha llevado a la expansión del programa a otras ciudades y países
+- **Sabiduría acumulada**: Una década de experiencia ha creado un corpus de conocimiento operativo único
+- **Legado establecido**: Son considerados los fundadores de una nueva era en seguridad metahumana
 
 ### Desafíos Futuros
 #### **Sostenibilidad del Programa**

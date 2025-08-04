@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>161 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>165 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -104,6 +104,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
     { slug: 'hermes', name: 'Hermes', image: 'hermes.png' },
     { slug: 'hotman', name: 'Hotman', image: 'Hotman.png' },
+    { slug: 'inigo-temblez', name: 'Iñigo Temblez', image: 'Inigo_Temblez.png' },
     { slug: 'janus', name: 'Janus', image: 'Janus.jpg' },
     { slug: 'john-f-kennedy', name: 'John F. Kennedy', image: 'john-f-kennedy.png' },
     { slug: 'jorge-espectro', name: 'Jorge / Espectro', image: 'espectro.png' },
@@ -119,6 +120,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'lsd', name: 'LSD', image: 'lsd.png' },
     { slug: 'lumen', name: 'Lúmen', image: 'Lumen.png' },
     { slug: 'malik', name: 'Malik', image: 'Malik.png' },
+    { slug: 'mario-igarruti', name: 'Mario Igarruti', image: 'Mario_Igarruti.png' },
     { slug: 'manni', name: 'Manni', image: 'Manni.png' },
     { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
     { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
@@ -137,6 +139,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'oido', name: 'Oído', image: 'Oido.png' },
     { slug: 'olfato', name: 'Olfato', image: 'Olfato.png' },
     { slug: 'oneill', name: 'Oneill', image: 'Oneill.png' },
+    { slug: 'pablo-de-la-serna', name: 'Pablo de la Serna', image: 'Pablo_de_la_Serna.png' },
     { slug: 'pandorum', name: 'Pandorum', image: 'Pandorum.png' },
     { slug: 'panuelo', name: 'Pañuelo', image: 'Pañuelo.png' },
     { slug: 'pastel-de-carne', name: 'Pastel de Carne', image: 'Pastel de carne.png' },
@@ -147,6 +150,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },
     { slug: 'ricky-sataka', name: 'Ricky Sataka', image: 'ricky-sataka.png' },
     { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
+    { slug: 'roberto-gomez', name: 'Roberto Gómez', image: 'Roberto_Gomez.png' },
     { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
     { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
     { slug: 'saltamontes', name: 'Saltamontes', image: 'Saltamontes.png' },

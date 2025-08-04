@@ -208,19 +208,18 @@ document.addEventListener('DOMContentLoaded', function() {
     
     // Console easter egg for Arcadia
     console.log(`
-    🦸‍♂️ WELCOME TO ARCADIA! 🦸‍♀️
-    
-    ════════════════════════════════════════
-    💥 15 Years of Epic Superhero Adventures
-    🎭 3 Legendary Campaigns: La Familia, Génesis, La Fuerza Oculta
-    👥 200+ Heroic Characters and Memorable Villains
-    ⚡ Powered by Comic Book Theme
-    🎮 Built with Jekyll & Hosted on GitHub Pages
-    ════════════════════════════════════════
-    
-    Ready for action, hero? The city needs you!
-    
-    🎯 Explore the campaigns and discover your destiny!
+🦸‍♂️ ¡BIENVENIDO A ARCADIA! 🦸‍♀️
+
+════════════════════════════════════════
+💥 15 Años de Épicas Aventuras de Superhéroes  
+🎭 3 Campañas Legendarias: La Familia, Génesis, La Fuerza Oculta  
+👥 Más de 165 Héroes y Villanos Memorables  
+🎮 Creado con Jekyll y Alojado en GitHub Pages  
+════════════════════════════════════════
+
+¿Listo para la acción, héroe? ¡La ciudad te necesita!
+
+🎯 Explora las campañas y descubre tu destino.
     `);
 });
 

@@ -25,7 +25,7 @@ Furina actúa como los ojos y oídos de Fatum, utilizando sus habilidades de inv
 - **Sigilo absoluto**: Indetectable por medios visuales, auditivos u olfativos
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../campaigns/fatum/fatum.md)
+- [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Detalles Adicionales
 La habilidad de Furina para convertirse en humo la hace única incluso entre metahumanos. Su forma intangible no solo es invisible, sino también inodora, lo que la hace indetectable incluso para enemigos con sentidos mejorados. Esta capacidad la convierte en la espía perfecta.

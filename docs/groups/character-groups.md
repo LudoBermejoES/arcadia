@@ -70,9 +70,9 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 ## Grupos Villanos y Criminales
 
-### Fatum
-**Tipo**: Familia de supervillanos  
-**Concepto**: Villanos excepcionalmente ricos con nombres de dioses etrusco-romanos, unidos por lazos familiares
+### [Fatum Corporation](fatum.md)
+**Tipo**: Megacorporación Criminal  
+**Concepto**: Corporación que opera simultáneamente en los mundos legítimo e ilegal, con tentáculos que se extienden a través de toda la sociedad arcadiana
 
 **Miembros**:
 - [Janus]({{ site.baseurl }}/characters/details/janus/) (líder, manipulador del futuro, fallecido)

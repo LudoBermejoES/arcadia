@@ -37,7 +37,7 @@ Diana actúa como un miembro de apoyo del grupo "La Fuerza Oculta" con inclinaci
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 - [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
-- [Fatum Campaign](../../campaigns/fatum/fatum.md)
+- [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)
 

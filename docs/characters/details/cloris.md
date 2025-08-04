@@ -24,7 +24,7 @@ Cloris actuaba como el núcleo emocional de Fatum, proporcionando cohesión y es
 - **Rol cohesivo**: Habilidad natural para mantener unido al grupo familiar
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../campaigns/fatum/fatum.md) - Mencionada como figura histórica central
+- [Fatum Campaign](../../groups/fatum/fatum.md) - Mencionada como figura histórica central
 
 ## Detalles Adicionales
 La muerte de Cloris durante el parto de Diana marcó un punto de inflexión traumático para Fatum. Su pérdida no solo privó al grupo de sus habilidades regenerativas y de control vegetal, sino que también eliminó la figura que mantenía la cohesión emocional del grupo familiar.

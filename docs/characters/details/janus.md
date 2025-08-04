@@ -24,7 +24,7 @@ Como jefe del grupo Fatum, Janus dirigía las operaciones de esta familia de sup
 - **Anticipación**: Puede prever movimientos enemigos y planificar con precisión
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../campaigns/fatum/fatum.md)
+- [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Detalles Adicionales
 Janus poseía la habilidad más estratégicamente valiosa del grupo Fatum: la manipulación del futuro. Esta capacidad le permitía liderar efectivamente a otros miembros poderosos como Bellona (peso pesado), Voltumna (electroquinético) y Merx (velocista).

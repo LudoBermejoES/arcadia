@@ -129,7 +129,7 @@ Los Confesores **adquirieron notoriedad pública** cuando fue encontrada **una n
 - [La Familia Session 15](../../campaigns/la-familia/session-15.md) - Información sobre su naturaleza y ubicación
 - [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto de caza de espligan
 - [La Familia Index](../../campaigns/la-familia/index.md) - Fase de parásitos temporales
-- [Fatum Index](../../campaigns/fatum/index.md) - Colaboración ocasional antimeta
+- [Fatum Corporation](fatum.md) - Colaboración ocasional antimeta
 
 ## Amenaza Actual y Futura
 

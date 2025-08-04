@@ -17,19 +17,19 @@ slug: zanni
 **Categoría**: Metahumanos Criminales y Villanos  
 **Afiliación**: Mercenario independiente (asociado con Manni)  
 **Estado**: Activo  
-**Clasificación**: Metahumano metálico, mercenario especializado  
+**Clasificación**: Pirómano metahumano, mercenario especializado  
 **Relación Familiar**: "Hermano" adoptivo de Manni  
-**Poderes**: Forma metálica, resistencia sobrehumana, fuerza aumentada
+**Poderes**: Piroquinesis, resistencia al fuego, control térmico
 
 ## Descripción
 
-Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e introducido al sistema carcelario sin conocimiento de su pasado o identidad. Completamente incapaz de funcionar socialmente al despertar, fue educado y protegido por Manni, con quien desarrolló un vínculo fraternal inquebrantable. Su nombre actual fue auto-escogido después de un año de aprendizaje social básico. Durante los últimos cuatro años, mientras Manni estuvo encarcelado, Zanni demostró su lealtad trabajando como mercenario para pagar los gastos de Zambo y Mambo, los hijos gemelos de Manni.
+Zanni es un metahumano pirómano de 55 años de apariencia italiana, reconocible por su hábito constante de jugar con un mechero. Fue encontrado inconsciente e introducido al sistema carcelario sin conocimiento de su pasado o identidad. Completamente incapaz de funcionar socialmente al despertar, fue educado y protegido por Manni, con quien desarrolló un vínculo fraternal inquebrantable. Su nombre actual fue auto-escogido después de un año de aprendizaje social básico. Durante los últimos cuatro años, mientras Manni estuvo encarcelado, Zanni demostró su lealtad trabajando como mercenario para pagar los gastos de Zambo y Mambo, los hijos gemelos de Manni.
 
 ## Historia Personal
 
 ### **Orígenes Misteriosos**
 - **Llegada nocturna**: Fue traído a la prisión durante la noche, inconsciente
-- **Estado físico**: Descrito como "una mole de metal desmayada y poderosa"
+- **Estado físico**: Descrito como "una masa desmayada y poderosa"
 - **Amnesia total**: Despertó sin memoria de su pasado, identidad o habilidades sociales
 - **Incapacidad inicial**: No sabía relacionarse ni comunicarse al despertar
 
@@ -47,17 +47,18 @@ Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e
 
 ## Poderes y Habilidades
 
-### **Naturaleza Metálica**
-- **Composición corporal**: Cuerpo de metal orgánico o transformación metálica completa
-- **Resistencia física**: Prácticamente invulnerable a daño físico convencional
-- **Fuerza sobrehumana**: Capacidades físicas aumentadas debido a su naturaleza metálica
-- **Masa corporal**: "Mole" sugiere tamaño y peso considerables
+### **Piroquinesis Avanzada**
+- **Generación de fuego**: Capacidad de crear llamas a voluntad
+- **Control de temperatura**: Manipulación precisa del calor generado
+- **Resistencia al fuego**: Inmunidad completa a quemaduras y efectos térmicos
+- **Alcance extendido**: Puede proyectar llamas a distancia considerable
+- **Tic característico**: Constantemente juega con un mechero, manifestación de su obsesión con el fuego
 
 ### **Habilidades Desarrolladas**
 - **Supervivencia carcelaria**: Entrenado por Manni en dinámicas penitenciarias
-- **Combate físico**: Aprovechamiento de ventajas metálicas en enfrentamientos
-- **Trabajo en equipo**: Coordinación perfecta con las habilidades de fuego de Manni
-- **Adaptación social**: Capacidad de aprender y desarrollar relaciones a pesar de inicio deficitario
+- **Combate ígneo**: Aprovechamiento de sus poderes piromaniáticos en enfrentamientos
+- **Trabajo en equipo**: Coordinación perfecta con las habilidades metálicas de Manni
+- **Adaptación social**: Capacidad de aprender y desarroller relaciones a pesar de inicio deficitario
 
 ## Relaciones
 
@@ -70,7 +71,7 @@ Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e
 #### **Dinámica de la Relación**
 - **Dependencia inicial**: Comenzó completamente dependiente de la guía de Manni
 - **Evolución hacia igualdad**: Se convirtió en compañero equilibrado después de su desarrollo
-- **Complementariedad operativa**: Sus habilidades metálicas complementan la piroquinesis de Manni
+- **Complementariedad operativa**: Sus habilidades de fuego complementan perfectamente la fuerza metálica de Manni
 - **Lealtad mutua**: Vínculo de "uña y carne" que define ambas identidades
 - **Responsabilidad extendida**: Durante el encarcelamiento de Manni, asumió el cuidado financiero de sus hijos
 
@@ -84,7 +85,7 @@ Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e
 ### **Sociedad Mercenaria con Manni**
 - **Escape carcelario**: Huyeron juntos aprovechando el ataque del Arlequinado
 - **Vida mercenaria**: "Viven, y bastante bien, alquilando sus servicios"
-- **Especialización dual**: Combinan fuego (Manni) y metal (Zanni) para máxima efectividad
+- **Especialización dual**: Combinan fuego (Zanni) y metal (Manni) para máxima efectividad
 - **Asesinos profesionales**: Operan como equipo especializado en eliminaciones
 
 ### **Responsabilidad Durante la Ausencia de Manni (Últimos 4 Años)**
@@ -94,9 +95,9 @@ Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e
 - **Lealtad fraternal**: Mantuvo su compromiso con la familia de Manni durante su ausencia
 
 ### **Servicios Especializados**
-- **Fuerza bruta**: Zanni proporciona el componente físico de sus operaciones
-- **Resistencia**: Su naturaleza metálica lo hace ideal para misiones de alto riesgo
-- **Intimidación**: Su presencia imponente complementa las amenazas ígneas de Manni
+- **Destrucción ígnea**: Zanni proporciona poder de fuego devastador
+- **Resistencia térmica**: Su inmunidad al fuego lo hace ideal para misiones de alto riesgo
+- **Intimidación**: Su dominio de las llamas complementa perfectamente la presencia física imponente de Manni
 - **Trabajo en equipo**: Coordinación perfecta desarrollada a través de años de convivencia
 
 ## Misión Actual: Laboratorios Chusor
@@ -133,7 +134,7 @@ Zanni es un metahumano de naturaleza metálica que fue encontrado inconsciente e
 ### **Origen Desconocido**
 - **Identidad previa**: No se conoce quién era antes de llegar a prisión
 - **Circunstancias de captura**: Cómo y por qué fue traído inconsciente
-- **Naturaleza de sus poderes**: Origen de su transformación metálica
+- **Naturaleza de sus poderes**: Origen de sus capacidades piromaniáticas
 - **Conexiones potenciales**: Posibles vínculos con organizaciones o experimentos
 
 ### **Implicaciones Narrativas**
@@ -161,9 +162,9 @@ Zanni representa:
 ### **Fuerza Narrativa**
 Su presencia añade:
 - **Misterio**: Preguntas sobre su origen y naturaleza real
-- **Complementariedad**: Equilibrio perfecto con las habilidades de Manni
+- **Complementariedad**: Perfecta coordinación entre fuego (Zanni) y metal (Manni)
 - **Complejidad moral**: Criminal que desarrolló humanidad a través de relación fraternal
 
 ---
 
-**Zanni es un enigma metálico cuya verdadera historia permanece oculta. Su transformación de ser inconsciente y asocial a mercenario leal y auto-determinado, guiado por el vínculo fraternal con Manni, lo convierte en un personaje fascinante que equilibra amenaza física con desarrollo emocional genuino.**
+**Zanni es un enigma pirómano cuya verdadera historia permanece oculta. Su transformación de ser inconsciente y asocial a mercenario leal y auto-determinado, guiado por el vínculo fraternal con Manni, lo convierte en un personaje fascinante que equilibra poder destructivo con desarrollo emocional genuino.**

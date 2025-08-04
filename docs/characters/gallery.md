@@ -39,6 +39,7 @@ document.addEventListener('DOMContentLoaded', function() {
   // Group data - organizations and teams
   const groups = [
     { slug: 'la-farandula', name: 'La Farándula', image: 'la-farandula.png', description: 'Villanos teatrales organizados' },
+    { slug: 'fatum', name: 'Fatum Corporation', image: 'Fatum.jpeg', description: 'Megacorporación criminal multigeneracional' },
     { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png', description: 'Fuerza militar de elite' },
     { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'la-caceria-salvaje.png', description: 'Vigilantes bestiales del Barrio Gótico' },
     { slug: 'los-confesores', name: 'Los Confesores', image: 'los-confesores.png', description: 'Fanáticos religiosos antimeta' },

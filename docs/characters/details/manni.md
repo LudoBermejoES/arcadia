@@ -17,46 +17,46 @@ slug: manni
 **Categoría**: Metahumanos Criminales y Villanos  
 **Afiliación**: Mercenario independiente (asociado con Zanni)  
 **Estado**: Activo  
-**Clasificación**: Piromaníaco criminal, mercenario especializado  
+**Clasificación**: Metahumano metálico, mercenario especializado  
 **Relación Familiar**: "Hermano" adoptivo de Zanni, padre de Zambo y Mambo  
-**Poderes**: Piroquinesis, resistencia al fuego
+**Poderes**: Forma metálica, resistencia sobrehumana, fuerza aumentada
 
 ## Descripción
 
-Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que se desarrolló desde la primera infancia. Su historial criminal incluye múltiples homicidios por incineración y una carrera como mercenario especializado en asesinatos por fuego. Forma un dúo letal con Zanni, a quien considera su hermano adoptivo tras conocerlo en prisión. Es padre de los gemelos metahumanos Zambo y Mambo, quienes han heredado tanto sus poderes como su problemática influencia criminal. Los últimos cuatro años estuvo encarcelado, separado tanto de Zanni como de sus hijos.
+Manni es un metahumano de 55 años con cuerpo de metal orgánico que lo convierte en una mole prácticamente invulnerable. Su historial criminal incluye múltiples homicidios y una carrera como mercenario especializado en intimidación y fuerza bruta. Forma un dúo letal con Zanni, a quien considera su hermano adoptivo tras conocerlo en prisión. Es padre de los gemelos metahumanos Zambo y Mambo, quienes han heredado tanto sus poderes metálicos como su problemática influencia criminal. Los últimos cuatro años estuvo encarcelado, separado tanto de Zanni como de sus hijos.
 
 ## Historia Personal
 
 ### **Infancia y Primeras Manifestaciones**
-- **Fascinación temprana**: Desde los 2 años mostró obsesión por quemar objetos
-- **Primer incidente grave**: Incendió las cortinas de su casa familiar
-- **Escalada criminal**: Roció con alcohol y prendió fuego al gato familiar
-- **Consecuencias**: Inicio de un periplo por hogares de acogida tras ser separado de su familia
+- **Contexto familiar**: Criado en ambiente complejo que moldeó su personalidad agresiva
+- **Primer incidente**: Problemas de comportamiento desde temprana edad
+- **Escalada de violencia**: Desarrollo gradual de tendencias violentas
+- **Consecuencias**: Inicio de un periplo por instituciones correccionales
 
 ### **Manifestación de Poderes**
 - **Edad de manifestación**: 11 años, durante su estancia en hogares de acogida
-- **Primer homicidio**: Incineró a su hermanastro sin intención, marca el inicio de su carrera criminal
-- **Pérdida de control**: Sus poderes se manifestaron de forma violenta e incontrolable
+- **Primer homicidio**: Aplastó a su hermanastro sin intención, marca el inicio de su carrera criminal
+- **Pérdida de control**: Sus poderes metálicos se manifestaron de forma violenta e incontrolable
 - **Institucionalización**: Transferido a reformatorios especializados en metahumanos
 
 ### **Carrera Criminal Temprana**
 - **Reformatorios metahumanos**: Primera experiencia con el sistema penitenciario especializado
 - **Transición a cárceles**: Escalada a instituciones para adultos debido a la gravedad de sus crímenes
-- **Especialización profesional**: Desarrollo de reputación como incendiario y asesino especializado
+- **Especialización profesional**: Desarrollo de reputación como mole de metal y músculo especializado
 
 ## Poderes y Habilidades
 
-### **Piroquinesis Avanzada**
-- **Generación de fuego**: Capacidad de crear llamas a voluntad
-- **Control de temperatura**: Manipulación precisa del calor generado
-- **Resistencia al fuego**: Inmunidad completa a quemaduras y efectos térmicos
-- **Alcance extendido**: Puede proyectar llamas a distancia considerable
+### **Naturaleza Metálica**
+- **Composición corporal**: Cuerpo de metal orgánico más duro que el acero
+- **Resistencia física**: Prácticamente invulnerable a daño físico convencional
+- **Fuerza sobrehumana**: Capacidades físicas aumentadas debido a su naturaleza metálica
+- **Masa corporal**: "Mole" que sugiere tamaño y peso considerables
 
 ### **Especialización Criminal**
-- **Incendios provocados**: Experto en crear conflagraciones destructivas
-- **Asesinatos por fuego**: Técnicas refinadas para eliminar objetivos específicos
-- **Tortura térmica**: Uso de calor controlado para interrogatorios
-- **Destrucción de evidencias**: Eliminación completa de rastros mediante incineración
+- **Intimidación física**: Experto en crear temor a través de presencia imponente
+- **Fuerza bruta**: Técnicas refinadas para eliminar objetivos mediante fuerza
+- **Resistencia**: Capacidad de absorber daño extremo durante operaciones
+- **Destrucción estructural**: Capacidad de atravesar obstáculos físicos
 
 ## Relaciones
 
@@ -68,7 +68,7 @@ Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que 
 
 #### **Dinámica de la Relación**
 - **Liderazgo social**: Manni actúa como el cerebro social de la pareja
-- **Complementariedad**: Sus habilidades de fuego complementan las capacidades metálicas de Zanni
+- **Complementariedad**: Sus habilidades metálicas complementan las capacidades piromaniáticas de Zanni
 - **Lealtad absoluta**: "Como uña y carne" desde su tiempo en prisión
 - **Responsabilidad emocional**: Se siente responsable del desarrollo personal de Zanni
 
@@ -79,7 +79,7 @@ Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que 
 
 ### **Zambo y Mambo - Sus Hijos**
 - **Gemelos metahumanos**: Padre de los gemelos de 16 años [Zambo y Mambo](../zambo-mambo/)
-- **Herencia de poderes**: Sus hijos heredaron naturaleza metálica y fuerza sobrehumana
+- **Herencia de poderes**: Sus hijos heredaron su naturaleza metálica y fuerza sobrehumana
 - **Legado problemático**: Su influencia paterna ha moldeado negativamente el carácter de sus hijos
 - **Separación por encarcelamiento**: Los últimos 4 años de prisión lo han mantenido separado de ellos
 
@@ -92,10 +92,10 @@ Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que 
 ## Carrera Criminal Profesional
 
 ### **Servicios Especializados**
-- **Incendios por contrato**: Destrucción de propiedades específicas
-- **Asesinatos térmicos**: Eliminación de personalidades mediante incineración
-- **Eliminación de soplones**: Especialización en "rostizar" informantes
-- **Intimidación**: Uso del fuego como herramienta de coerción
+- **Destrucción por contrato**: Demolición de propiedades específicas mediante fuerza bruta
+- **Eliminaciones físicas**: Asesinatos mediante fuerza letal
+- **Eliminación de soplones**: Especialización en "aplastar" informantes
+- **Intimidación**: Uso de su presencia física como herramienta de coerción
 
 ### **Reputación en el Submundo**
 - **Reconocimiento criminal**: Nombre conocido entre metahumanos delincuentes
@@ -126,13 +126,13 @@ Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que 
 ## Psicología y Motivaciones
 
 ### **Perfiles Psicológicos**
-- **Piromanía compulsiva**: Obsesión patológica con el fuego desde la infancia
+- **Tendencias agresivas**: Propensión a resolver problemas mediante violencia física
 - **Sociopatía criminal**: Falta de empatía hacia las víctimas
 - **Pragmatismo profesional**: Enfoque utilitario hacia el trabajo criminal
 - **Vínculo emocional selectivo**: Capacidad de apego limitada exclusivamente a Zanni
 
 ### **Motivaciones Centrales**
-- **Fascinación por el fuego**: Impulso primario que define su identidad
+- **Dominio físico**: Impulso de demostrar superioridad mediante fuerza
 - **Lealtad fraternal**: Protección y compañerismo con Zanni
 - **Profesionalismo mercenario**: Cumplimiento eficiente de contratos
 - **Búsqueda de entretenimiento**: Disfrute del "espectáculo" en enfrentamientos
@@ -150,7 +150,7 @@ Manni es un metahumano pirómano con una fascinación obsesiva por el fuego que 
 Manni representa el arquetipo del criminal metahumano profesional:
 - **Peligrosidad controlada**: Capacidades letales con restricciones contractuales
 - **Complejidad moral**: Criminal con vínculos emocionales genuinos
-- **Desafío táctico**: Oponente que requiere estrategias específicas anti-fuego
+- **Desafío táctico**: Oponente que requiere estrategias específicas anti-metálicas
 
 ### **Elemento de Prueba**
 Su rol como "examinador final" añade:
@@ -160,4 +160,4 @@ Su rol como "examinador final" añade:
 
 ---
 
-**Manni es un pirómano profesional cuya vida ha estado definida por el fuego desde la infancia. Su transformación de niño problemático a mercenario especializado, junto con su inesperada capacidad de formar vínculos emocionales con Zanni, lo convierte en un antagonista complejo que combina peligrosidad letal con humanidad selectiva.**
+**Manni es una mole metálica profesional cuya vida ha estado definida por la fuerza desde la infancia. Su transformación de niño problemático a mercenario especializado, junto con su inesperada capacidad de formar vínculos emocionales con Zanni, lo convierte en un antagonista complejo que combina peligrosidad letal con humanidad selectiva.**

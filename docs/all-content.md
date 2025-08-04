@@ -55,7 +55,7 @@ permalink: /all-content/
 - [Sesión 01]({{ site.baseurl }}/campaigns/hospital/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/hospital/session-02/)
 
 #### **Fatum** - Villanos Icónicos  
-- [Archivo Fatum]({{ site.baseurl }}/campaigns/fatum/)
+- [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ---
 

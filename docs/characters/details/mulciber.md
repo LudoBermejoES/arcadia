@@ -25,7 +25,7 @@ Mulciber actúa como el especialista en armamento de Fatum, creando armas y herr
 - **Custodia legal**: Autoridad legal sobre Diana tras la muerte de Janus
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../campaigns/fatum/fatum.md)
+- [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Detalles Adicionales
 Mulciber mantiene una relación especialmente estrecha con Bellona, para quien forja armas especializadas que complementan perfectamente sus habilidades como peso pesado del grupo. Esta colaboración profesional es crucial para la efectividad de Bellona en combate.

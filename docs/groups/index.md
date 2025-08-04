@@ -130,7 +130,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🏢 [Fatum Corporation](../campaigns/fatum)** 
+### **🏢 [Fatum Corporation](fatum.md)** 
 **La Megacorporación Criminal**
 
 #### **Estructura Corporativa:**
@@ -491,7 +491,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ### **😈 Organizaciones Villanas**
 - **[🎭 La Farándula](la-farandula.md)** - Los teatrales organizados
-- **[🏢 Fatum](../campaigns/fatum/fatum.md)** - La megacorporación criminal
+- **[🏢 Fatum Corporation](fatum.md)** - La megacorporación criminal
 - **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
 - **[💥 Freiglasung](freiglasung.md)** - Terroristas anti-meta (desmantelados)
 - **[⛪ Los Confesores](los-confesores.md)** - Fanáticos antimeta

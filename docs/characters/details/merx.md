@@ -25,7 +25,7 @@ Merx actúa como el especialista en reconocimiento, escape y ataques de alta vel
 - **Trabajo en equipo**: Especialista en operaciones coordinadas con Furina
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../campaigns/fatum/fatum.md)
+- [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Detalles Adicionales
 La velocidad de Merx va más allá del simple movimiento rápido; sus habilidades incluyen la capacidad de weaponizar su velocidad mediante la creación de ráfagas de viento y ondas de choque. Esto lo convierte en un combatiente formidable capaz tanto de ataques directos como de control del campo de batalla.

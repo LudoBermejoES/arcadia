@@ -131,7 +131,7 @@ Autoridad representa **el peligro de la búsqueda de conocimiento sin límites �
 - [La Familia Session 04](../../campaigns/la-familia/session-04.md)
 - [La Familia Session 20](../../campaigns/la-familia/session-20.md)
 - [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
-- [Fatum Index](../../campaigns/fatum/index.md)
+- [Fatum Index](../../groups/fatum/index.md)
 - [Hospital Index](../../campaigns/hospital/index.md)
 
 ## Apariciones en las Crónicas

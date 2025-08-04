@@ -88,7 +88,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **😈 Las Amenazas Persistentes**
 - **[La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula)** - Villanos teatrales obsesionados con el Siglo de Oro
-- **[Fatum Corporation]({{ site.baseurl }}/groups/character-groups/#fatum-corporation)** - Megacorporación criminal multigeneracional
+- **[Fatum Corporation]({{ site.baseurl }}/groups/fatum/)** - Megacorporación criminal multigeneracional
 - **[Telaraña]({{ site.baseurl }}/groups/character-groups/#telaraña)** - Red criminal jerárquica principal
 - **[Humanitas]({{ site.baseurl }}/groups/character-groups/#humanitas)** - Partido político anti-metahumano
 

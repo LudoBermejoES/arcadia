@@ -1,13 +1,27 @@
 ---
 layout: default
-title: "Galería de Personajes"
+title: "Galería Completa de Arcadia"
 permalink: /characters/gallery/
 ---
 
-# Galería de Personajes de Arcadia
+# Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora los <strong>159 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>159 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+</div>
+
+<div class="section-header">
+  <h2>🏛️ Organizaciones y Grupos</h2>
+  <p>Los equipos, facciones y organizaciones que definen el panorama heroico y villano de Arcadia.</p>
+</div>
+
+<div class="gallery-container" id="groups-gallery">
+  <!-- Group cards will be dynamically loaded here -->
+</div>
+
+<div class="section-header">
+  <h2>👥 Personajes Individuales</h2>
+  <p>Héroes, villanos, aliados y figuras que han marcado la historia de Arcadia.</p>
 </div>
 
 <div class="gallery-container" id="character-gallery">
@@ -19,7 +33,17 @@ permalink: /characters/gallery/
 
 <script>
 document.addEventListener('DOMContentLoaded', function() {
-  const gallery = document.getElementById('character-gallery');
+  const groupsGallery = document.getElementById('groups-gallery');
+  const charactersGallery = document.getElementById('character-gallery');
+  
+  // Group data - organizations and teams
+  const groups = [
+    { slug: 'la-farandula', name: 'La Farándula', image: 'la-farandula.png', description: 'Villanos teatrales organizados' },
+    { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png', description: 'Fuerza militar de elite' },
+    { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'la-caceria-salvaje.png', description: 'Vigilantes bestiales del Barrio Gótico' },
+    { slug: 'los-confesores', name: 'Los Confesores', image: 'los-confesores.png', description: 'Fanáticos religiosos antimeta' },
+    { slug: 'los-espligan', name: 'Los Espligan', image: 'espligan.png', description: 'Mercenarios especializados parasitarios' }
+  ];
   
   // Character data - mapping character slugs to their details
   const characters = [
@@ -85,12 +109,10 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'la-baronesa', name: 'La Baronesa', image: 'La Baronesa.png' },
     { slug: 'la-dama', name: 'La Dama', image: 'la-dama.png' },
     { slug: 'la-emperatriz', name: 'La Emperatriz', image: 'la-emperatriz.png' },
-    { slug: 'la-farandula', name: 'La Farándula', image: 'la-farandula.png' },
     { slug: 'la-nueva-sombra', name: 'La Nueva Sombra', image: 'la_nueva_sombra.png' },
     { slug: 'la-sombra', name: 'La Sombra', image: 'La Sombra.png' },
     { slug: 'leon-federico', name: 'León Federico', image: 'leon-federico.png' },
     { slug: 'leopoldo-gomez', name: 'Leopoldo Gómez', image: 'leopoldo-gomez.png' },
-    { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png' },
     { slug: 'lsd', name: 'LSD', image: 'lsd.png' },
     { slug: 'lumen', name: 'Lúmen', image: 'Lumen.png' },
     { slug: 'malik', name: 'Malik', image: 'Malik.png' },
@@ -147,6 +169,31 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'zambo-mambo', name: 'Zambo y Mambo', image: 'zambo-mambo.png' }
   ];
 
+  // Create group cards
+  groups.forEach(group => {
+    const card = document.createElement('div');
+    card.className = 'character-card group-card';
+    card.innerHTML = `
+      <a href="{{ site.baseurl }}/groups/${group.slug}/" class="character-link">
+        <div class="character-image-container">
+          <img src="{{ site.baseurl }}/assets/img/characters/${group.image}" 
+               alt="${group.name}" 
+               class="character-image"
+               loading="lazy"
+               onerror="this.style.display='none'; this.nextElementSibling.style.display='block';">
+          <div class="character-placeholder" style="display: none;">
+            <span class="character-initial">${group.name.charAt(0)}</span>
+          </div>
+        </div>
+        <div class="character-info">
+          <h3 class="character-name">${group.name}</h3>
+          <p class="group-description">${group.description}</p>
+        </div>
+      </a>
+    `;
+    groupsGallery.appendChild(card);
+  });
+  
   // Create character cards
   characters.forEach(character => {
     const card = document.createElement('div');
@@ -168,12 +215,21 @@ document.addEventListener('DOMContentLoaded', function() {
         </div>
       </a>
     `;
-    gallery.appendChild(card);
+    charactersGallery.appendChild(card);
   });
 
-  // Initialize Masonry after images load
-  imagesLoaded(gallery, function() {
-    new Masonry(gallery, {
+  // Initialize Masonry for both galleries after images load
+  imagesLoaded(groupsGallery, function() {
+    new Masonry(groupsGallery, {
+      itemSelector: '.character-card',
+      columnWidth: '.character-card',
+      gutter: 20,
+      fitWidth: true
+    });
+  });
+  
+  imagesLoaded(charactersGallery, function() {
+    new Masonry(charactersGallery, {
       itemSelector: '.character-card',
       columnWidth: '.character-card',
       gutter: 20,
@@ -190,6 +246,28 @@ document.addEventListener('DOMContentLoaded', function() {
   padding: 1rem;
   background: rgba(255, 215, 0, 0.1);
   border-radius: 8px;
+}
+
+.section-header {
+  text-align: center;
+  margin: 3rem 0 2rem 0;
+  padding: 1.5rem;
+  background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+  border-radius: 12px;
+  border: 2px solid #e0e8f0;
+}
+
+.section-header h2 {
+  margin: 0 0 0.5rem 0;
+  color: #2c3e50;
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.section-header p {
+  margin: 0;
+  color: #5a6c7d;
+  font-size: 1.1rem;
 }
 
 .gallery-container {
@@ -210,6 +288,16 @@ document.addEventListener('DOMContentLoaded', function() {
 .character-card:hover {
   transform: translateY(-5px);
   box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.group-card {
+  border: 2px solid #FFD700;
+  background: linear-gradient(135deg, #fff9e6 0%, #fff 100%);
+}
+
+.group-card:hover {
+  border-color: #FFA500;
+  box-shadow: 0 8px 25px rgba(255, 165, 0, 0.2);
 }
 
 .character-link {
@@ -269,6 +357,14 @@ document.addEventListener('DOMContentLoaded', function() {
   font-family: 'Bangers', cursive;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.group-description {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.85rem;
+  color: #666;
+  font-style: italic;
+  line-height: 1.3;
 }
 
 /* Responsive design */

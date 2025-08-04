@@ -61,7 +61,7 @@ La presentación fue interrumpida por un ataque terrorista:
 #### **Respuesta Post-Atentado**
 - **Formación de domo protector**: Un Ultracorp generó una cúpula de energía sobre la zona de explosión
 - **Confrontación con Bate**: Enfrentamiento directo con miembro de La Familia
-- **Intervención de Oneill**: El líder de MetaCorp coordinó la respuesta
+- **Intervención de Oneill**: El entonces líder de MetaCorp coordinó la respuesta
 - **Continuidad operativa**: Los Ultracorps mantuvieron función a pesar del trauma del atentado
 
 ---
@@ -75,8 +75,8 @@ Los Ultracorps están compuestos por **5 operativos especializados**, cada uno m
 - **Edad**: 55 años | **Clasificación**: Humano sin poderes, especialista en investigación criminal
 - **Rol**: Fundador y consultor senior (semi-retirado del liderazgo activo)
 - **Especialización**: Mentoría institucional, consultoría de crisis, historiador operativo
-- **Background**: Fundó Ultracorps y los lideró durante una década completa (2015-2025)
-- **Estado actual**: Semi-retirado, disponible para consultoría estratégica y situaciones críticas
+- **Background**: Miembro original de MetaCorp (2014), fundador y líder de Ultracorps (2014-2015), luego líder de MetaCorp completo (2015-2025)
+- **Estado actual**: Semi-retirado tras década de liderazgo total, disponible para consultoría estratégica
 
 #### **[Mario Igarruti](../characters/details/mario-igarruti.md) - Especialista Social Veterano**
 - **Edad**: 38 años | **Clasificación**: Humano mejorado artificialmente, especialista en manipulación social
@@ -215,7 +215,7 @@ Los Ultracorps representan un avance tecnológico significativo:
 ### Integración con MetaCorp
 #### **Estructura Organizacional**
 - **División especializada**: Operan como unidad élite dentro de MetaCorp
-- **Coordinación con Oneill**: Reportan al líder actual de MetaCorp
+- **Coordinación con liderazgo**: Operan con autonomía, consultando a Neill O'Hara según necesidad
 - **Complemento operativo**: Trabajan junto con metahumanos naturales como Relámpago
 - **Recursos compartidos**: Acceso a infraestructura y apoyo de MetaCorp
 

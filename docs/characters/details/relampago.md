@@ -55,7 +55,7 @@ Como ex-metahumano de MetaCorp, Relámpago:
 
 ### Ex-Compañeros de MetaCorp
 - **Trueno**: Ex-compañero héroe (pareja temática) - actualmente desaparecido
-- **Oneill**: Ahora líder único de MetaCorp tras el retiro de Relámpago
+- **Oneill**: Sucedió como líder de MetaCorp tras el retiro de Relámpago (ahora consultor senior)
 - Otros ex-compañeros héroes corporativos
 
 ### Estructura Corporativa
@@ -72,7 +72,7 @@ Según La Familia Session 41:
 - **"Rayo se ha retirado"** - confirmando su salida del servicio activo
 - Su retiro coincidió con la misteriosa desaparición de su padre Trueno
 - Como diosa, puede haber decidido que su tiempo sirviendo a mortales había terminado
-- Oneill asumió el liderazgo completo de MetaCorp tras perder a ambas deidades
+- Oneill asumió el liderazgo de MetaCorp tras perder a ambas deidades (posteriormente semi-retirado)
 
 #### Colaboración con La Fuerza Oculta
 Según registros de 2025, Relámpago:
@@ -103,7 +103,7 @@ Como héroe de MetaCorp, Relámpago representaba el modelo de heroísmo instituc
 Su retiro marca un cambio significativo:
 - **Fin de una era**: La pareja Trueno-Relámpago era emblemática de MetaCorp
 - **Transición hacia la independencia**: Sus acciones con La Fuerza Oculta sugieren una evolución hacia operaciones más autónomas
-- **Impacto en MetaCorp**: Su salida, junto con la desaparición de Trueno, dejó a Oneill como líder único
+- **Impacto en MetaCorp**: Su salida, junto con la desaparición de Trueno, llevó a Oneill al liderazgo (ahora semi-retirado)
 - **Simbolismo**: Su retiro representa la evolución del heroísmo más allá de las estructuras corporativas
 
 ---

@@ -25,7 +25,7 @@ slug: oneill
 
 ## Descripción
 
-Neill O'Hara, conocido operacionalmente como "Oneill", es el fundador y ex-comandante de los [Ultracorps](../../groups/ultracorps/), ahora en su rol de consultor senior para MetaCorp. Con aspecto de irlandés veterano, nariz un poco roja y aspecto de mala ostia que se ha acentuado con los años, es un investigador policial de 55 años que dedicó una década completa a liderar la primera generación de humanos artificialmente mejorados. Tras una carrera distinguida al frente de Ultracorps, O'Hara se ha semi-retirado del servicio activo, manteniendo un rol consultivo y de mentoría para las nuevas generaciones de operativos.
+Neill O'Hara, conocido operacionalmente como "Oneill", es el veterano fundador de los [Ultracorps](../../groups/ultracorps/) y ex-líder de MetaCorp, ahora en su rol de consultor senior. Con aspecto de irlandés veterano, nariz un poco roja y aspecto de mala ostia que se ha acentuado con los años, es un investigador policial de 55 años con una carrera única: comenzó como miembro de MetaCorp (2014), se convirtió en el primer líder de Ultracorps (2014-2015), y ascendió a líder de toda MetaCorp cuando Trueno desapareció en 2015 (2015-2025). Tras una década de liderazgo total de la organización, O'Hara se ha semi-retirado del servicio activo, manteniendo un rol consultivo y de mentoría para las nuevas generaciones.
 
 ## Historia Personal
 
@@ -35,11 +35,22 @@ Neill O'Hara, conocido operacionalmente como "Oneill", es el fundador y ex-coman
 - **Trauma personal**: Carga con la culpa por la muerte de su hijo
 - **Obsesión profesional**: No volver a dejar un caso abandonado
 
-### **Ascenso a MetaCorp y Liderazgo de Ultracorps (2015-2025)**
+### **Ingreso a MetaCorp (2014)**
 - **Transición inicial**: Promovido desde la policía convencional a fuerzas metahumanas
-- **Liderazgo natural**: Asumió el mando tras la desaparición de Trueno y retirada de Rayo
-- **Comando de Ultracorps**: Fundador y primer líder del equipo de humanos mejorados
-- **Década de servicio**: Diez años liderando operaciones críticas y desarrollando protocolos
+- **Miembro de MetaCorp**: Integración como investigador especializado en casos metahumanos
+- **Experiencia operativa**: Trabajo directo con Trueno y Relámpago en operaciones complejas
+
+### **Liderazgo de Ultracorps (2014-2015)**
+- **Comando fundacional**: Nombrado líder del nuevo programa de humanos artificialmente mejorados
+- **Desarrollo acelerado**: Reclutamiento y entrenamiento intensivo de los primeros Ultracorps en un año
+- **Establecimiento de protocolos**: Creación rápida de procedimientos operativos para humanos mejorados
+- **Prueba de concepto exitosa**: Demostración de la viabilidad del programa en tiempo récord
+
+### **Liderazgo de MetaCorp Completo (2015-2025)**
+- **Ascenso por crisis**: Asumió el liderazgo total tras la desaparición de Trueno en 2015
+- **Consolidación organizacional**: Integración de Ultracorps dentro de la estructura completa de MetaCorp
+- **Expansión operativa**: Gestión tanto de metahumanos naturales como humanos mejorados
+- **Liderazgo de década**: Diez años dirigiendo la evolución completa de la organización
 
 ### **Transición a Consultor Senior (2025-presente)**
 - **Semi-retiro estratégico**: Paso gradual del liderazgo operativo a rol consultivo
@@ -63,17 +74,28 @@ Neill O'Hara, conocido operacionalmente como "Oneill", es el fundador y ex-coman
 
 ## Evolución de Rol y Actividades
 
-### **Era de Liderazgo Activo (2015-2025)**
-- **Líder de Ultracorps**: Comandó el equipo de humanos mejorados durante su década formativa
-- **Comandante de MetaCorp**: Lideró MetaCorp tras los cambios organizacionales mayores
-- **Desarrollador de protocolos**: Estableció procedimientos estándar para operaciones con humanos mejorados
-- **Coordinador inter-agencias**: Gestionó relaciones con La Familia, gobierno de Arcadia y otras organizaciones
+### **Era de Miembro MetaCorp (2014)**
+- **Investigador especializado**: Casos complejos que requerían experiencia policial tradicional
+- **Apoyo a líderes**: Trabajo directo con Trueno y Relámpago en operaciones críticas
+- **Puente civil-meta**: Conexión entre fuerzas convencionales y metahumanas
+
+### **Era de Liderazgo Ultracorps (2014-2015)**
+- **Fundador del programa**: Creación acelerada del primer equipo de humanos artificialmente mejorados
+- **Desarrollador de protocolos**: Establecimiento rápido de procedimientos para operativos mejorados
+- **Líder de campo**: Comandancia directa de operaciones especializadas de Ultracorps
+- **Innovador organizacional**: Demostración exitosa de viabilidad en solo un año
+
+### **Era de Liderazgo MetaCorp Completo (2015-2025)**
+- **Ascenso por crisis**: Liderazgo total tras desaparición de Trueno en 2015
+- **Comandante integral**: Gestión tanto de metahumanos naturales como Ultracorps
+- **Coordinador inter-agencias**: Relaciones con La Familia, gobierno de Arcadia y otras organizaciones
+- **Estratega organizacional**: Década completa integrando ambos tipos de operativos bajo estructura unificada
 
 ### **Era de Consultoría (2025-presente)**
-- **Consultor Senior**: Asesoría estratégica para operaciones críticas de Ultracorps
-- **Mentor institucional**: Formación de nuevos líderes y transmisión de conocimiento operativo
-- **Especialista en crisis**: Intervención directa solo en situaciones que requieren su experiencia específica
-- **Historiador operativo**: Documentación y preservación de lecciones aprendidas durante su liderazgo
+- **Consultor Senior**: Asesoría estratégica para operaciones críticas tanto de MetaCorp como Ultracorps
+- **Mentor institucional**: Formación de nuevos líderes y transmisión de década de experiencia
+- **Especialista en crisis**: Intervención directa solo en situaciones que requieren su expertise única
+- **Historiador operativo**: Preservación de conocimiento sobre evolución organizacional completa
 
 ## Personalidad y Motivaciones
 

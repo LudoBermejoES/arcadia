@@ -49,7 +49,7 @@ La pareja Relámpago-Trueno sugiere una estrategia coordinada donde los poderes 
 
 ### Compañeros de MetaCorp
 - **Relámpago**: Compañero principal y pareja temática
-- **Oneill**: Líder de MetaCorp y superior directo
+- **Oneill**: Sucesor como líder de MetaCorp (ahora consultor senior)
 - Otros héroes corporativos activos
 
 ### Estructura Corporativa
@@ -69,7 +69,7 @@ Según información más reciente de La Familia Session 41:
 ### Contexto Cósmico de su Desaparición
 - Ocurrió durante un período de inestabilidad política en Arcadia, posiblemente relacionado
 - Provocó el retiro inmediato de su hija Relámpago del servicio mortal
-- Oneill, un simple mortal, tuvo que asumir el liderazgo completo tras perder ambas deidades
+- Oneill, un simple mortal, asumió el liderazgo tras perder ambas deidades (posteriormente semi-retirado)
 - Su ausencia ha dejado a MetaCorp sin protección celestial
 - La desaparición de un dios sugiere amenazas de nivel cósmico o conflictos entre deidades
 
@@ -94,7 +94,7 @@ Como héroe de MetaCorp, Trueno representaba el heroísmo institucionalizado y l
 Su misteriosa desaparición ha creado:
 - **Incertidumbre en MetaCorp**: La pérdida de un héroe clave ha afectado la estabilidad organizacional
 - **Misterio narrativo**: Su paradero desconocido genera tensión y preguntas sin respuesta
-- **Cambio en la dinámica**: Oneill tuvo que asumir mayor liderazgo tras la pérdida de Trueno y el retiro de Relámpago
+- **Cambio en la dinámica**: Oneill asumió el liderazgo tras la pérdida de Trueno y el retiro de Relámpago, dirigiendo una década antes de semi-retirarse
 - **Búsqueda activa**: Los MetaCorp necesitan localizarlo, sugiriendo su importancia crítica para la organización
 
 ## Apariciones Documentadas

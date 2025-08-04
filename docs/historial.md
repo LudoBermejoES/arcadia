@@ -148,7 +148,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 #### **🖼️ Actualización de Imágenes de Personajes**
 - **Nuevas imágenes de personajes** - Añadidas imágenes para los 7 personajes más recientes:
   - **Waldo Gutierrez**: Supervisor de proyectos universitarios MetaCorp
-  - **Oneill**: Líder actual de MetaCorp tras la desaparición de Trueno
+  - **Oneill**: Fundador de Ultracorps y ex-líder de MetaCorp (ahora consultor senior)
   - **Pastel de Carne**: Asesino interno de Telaraña, especialista en eliminación de traidores
   - **La Baronesa**: Metamorfa aristocrática responsable del accidente del monorrail (200 muertes)
   - **Yeng**: Comerciante del mercado negro y arreglador para mercenarios (ya tenía imagen)

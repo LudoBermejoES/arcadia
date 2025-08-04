@@ -126,7 +126,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Fuerzas del orden oficiales para metahumanos
 
 **Miembros**:
-- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Líder de MetaCorp)
+- [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Consultor Senior de MetaCorp)
 - [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
 - [Trueno]({{ site.baseurl }}/characters/details/trueno/)
 - [Francisco Egin]({{ site.baseurl }}/characters/details/francisco-egin/)

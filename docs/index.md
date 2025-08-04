@@ -130,7 +130,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">12</span>
+<span class="stat-number">13</span>
 <span class="stat-label">Distritos Únicos</span>
 </div>
 </div>
@@ -180,7 +180,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **🦸‍♂️ [Personajes]({{ site.baseurl }}/characters/)**
 
-Descubre las biografías completas de más de 250 personajes únicos, desde los héroes legendarios hasta los villanos más temidos.
+Descubre las biografías completas de 161 personajes únicos, desde los héroes legendarios hasta los villanos más temidos.
 
 ### **📚 [Campañas]({{ site.baseurl }}/campaigns/)**
 

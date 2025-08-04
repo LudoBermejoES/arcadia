@@ -89,6 +89,69 @@ A diferencia de otros grupos criminales que surgen y desaparecen, Fatum Corporat
 - **📺 Influencia Mediática**: Control de narrativas públicas
 - **🌍 Conexiones Internacionales**: Socios criminales globales
 
+---
+
+## La Familia Fatum - Miembros Principales
+
+### 👑 **Núcleo Familiar (Los Dioses Etruscos)**
+
+#### **[Janus](../characters/details/janus.md) - El Líder (Fallecido)**
+- **Edad al morir**: ~50 años | **Estado**: Fallecido hace unos años
+- **Poderes**: Manipulación temporal, visión de múltiples líneas de tiempo, planificación predictiva
+- **Rol**: Ex-líder y estratega supremo del grupo familiar
+- **Legado**: Responsable de los experimentos con Diana para prepararla como sucesora
+- **Impacto**: Su muerte ha creado tensiones internas y sospechas sobre las causas
+
+#### **[Bellona](../characters/details/bellona.md) - La Fuerza Bruta**
+- **Edad**: ~45 años | **Estado**: Activa
+- **Poderes**: Fuerza sobrehumana excepcional, resistencia física superior
+- **Rol**: "Peso pesado" del grupo, especialista en intimidación y eliminación física
+- **Apariencia**: Engañosa con vestido rosa que oculta su naturaleza destructiva
+- **Conexión**: Posiblemente contribuyó genéticamente a la creación de Diana
+
+#### **[Voltumna](../characters/details/voltumna.md) - El Electroquinético**
+- **Edad**: ~40 años | **Estado**: Activo
+- **Poderes**: Control y generación de electricidad, manipulación de campos electromagnéticos
+- **Rol**: Especialista en sabotaje tecnológico y neutralización de sistemas de seguridad
+- **Especialización**: Infiltración en instalaciones de alta tecnología
+
+#### **[Merx](../characters/details/merx.md) - El Velocista**
+- **Edad**: ~35 años | **Estado**: Activo
+- **Poderes**: Super-velocidad, reflejos acelerados, movimiento dimensional limitado
+- **Rol**: Mensajero, espía, ladrón especializado y operaciones de precisión
+- **Especialización**: Misiones que requieren velocidad y sigilo extremos
+
+#### **[Furina](../characters/details/furina.md) - La Forma de Humo**
+- **Edad**: ~38 años | **Estado**: Activa
+- **Poderes**: Transformación en forma gaseosa, infiltración por espacios microscópicos
+- **Rol**: Especialista en infiltración absoluta y asesinatos indetectables
+- **Especialización**: Operaciones donde la penetración física es imposible
+
+#### **[Mulciber](../characters/details/mulciber.md) - El Armero**
+- **Edad**: ~50 años | **Estado**: Activo
+- **Poderes**: Maestría en creación y modificación de armas y tecnología
+- **Rol**: Proveedor de equipamiento especializado y tutor legal actual de Diana
+- **Importancia**: Guardián y protector de Diana tras la muerte de Janus
+- **Conexión especial**: Única figura paterna positiva para Diana dentro de Fatum
+
+#### **[Cloris](../characters/details/cloris.md) - La Madre (Fallecida)**
+- **Estado**: Fallecida | **Era**: Madre biológica de Diana
+- **Poderes**: Regeneración avanzada, control de plantas y naturaleza
+- **Legado**: Diana heredó sus poderes regenerativos y conexión con la naturaleza
+- **Impacto**: Su muerte dejó a Diana bajo la tutela y experimentación de Janus
+
+### 💎 **Nueva Generación**
+
+#### **[Diana](../characters/details/diana.md) - La Heredera Redimida**
+- **Edad**: 17 años | **Estado**: Activa (ahora heroica con La Fuerza Oculta)
+- **Poderes**: Fuerza sobrehumana letal, resistencia extrema, disciplina meditativa
+- **Trasfondo**: Hija de Cloris, criada y experimentada por Janus para liderar Fatum
+- **Evolución**: Rechazó su destino criminal y se unió a La Fuerza Oculta
+- **Conflicto**: Lucha constante entre su crianza villana y elección heroica
+- **Protección**: Bajo tutela de Mulciber, quien respeta su decisión heroica
+
+---
+
 ## Objetivos Estratégicos
 
 ### 🏛️ Control de Arcadia

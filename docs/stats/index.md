@@ -127,26 +127,26 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **La Familia**: Los fundadores legendarios
 - **Génesis**: La generación puente  
 - **La Fuerza Oculta**: Los herederos actuales
-- **La Cacería Salvaje**: Vigilantes bestiales independientes
-- **Los Defensores**: Veteranos multigeneracionales
-- **Los Rayos**: Especialistas en velocidad y rescate
+- **La Cacería Salvaje**: Vigilantes bestiales independientes *(documentación específica)*
+- **Los Defensores**: Veteranos multigeneracionales *(documentación específica)*
+- **Los Rayos**: Especialistas en velocidad y rescate *(documentación específica)*
 - **MetaCorp**: Policía metahumana oficial
+- **Ultracorps**: División especial de MetaCorp con humanos mejorados *(documentación específica)*
 - **Academia de Entrenamiento**: Educación heroica
 - **Red de Mentores**: Sistema veterano de guía
 - **Aliados Civiles**: Redes de apoyo ciudadano
 - **Sastres Especializados**: Artesanos heroicos
-- **Médicos Especializados**: Personal sanitario meta
 
 #### **😈 Organizaciones Villanas (15 grupos)**
-- **La Farándula**: Villanos teatrales del Siglo de Oro
+- **La Farándula**: Villanos teatrales del Siglo de Oro *(documentación específica)*
 - **Fatum Corporation**: Megacorporación criminal
 - **Telaraña**: Red criminal jerárquica principal
-- **Puño Gris**: Mafia del distrito asiático
-- **Las Bestias**: Criminales metahumanos bestiales
-- **Los Confesores**: Fanáticos religiosos anti-meta
-- **Los Espligan**: Parásitos temporales sobrenaturales
+- **Puño Gris**: Mafia del distrito asiático *(documentación específica)*
+- **Las Bestias**: Criminales metahumanos bestiales *(documentación específica)*
+- **Los Confesores**: Fanáticos religiosos anti-meta *(documentación específica)*
+- **Los Espligan**: Parásitos temporales sobrenaturales *(documentación específica)*
 - **Humanitas**: Partido político anti-metahumano
-- **Freiglasung**: Organización terrorista anti-meta
+- **Freiglasung**: Organización terrorista anti-meta *(documentación específica)*
 - **Cazadores**: Grupos que persiguen bestiales
 - **Redes de Contrabando**: Múltiples organizaciones
 - **Sicarios Independientes**: Asesinos especializados
@@ -163,7 +163,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Fuerzas del Orden**: Policía convencional
 - **Servicios de Emergencia**: Bomberos y rescate
 - **Medios Públicos**: RTA y comunicaciones
-- **Servicios Sociales**: Asistencia ciudadana
+- **Periodistas**: Profesionales de medios especializados *(documentación específica)*
 - **Transporte Público**: Sistemas de movilidad
 
 #### **🛠️ Organizaciones de Apoyo (13+ grupos)**
@@ -180,6 +180,9 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Artistas**: Creadores inspirados en metahumanos
 - **Restauradores**: Reparación post-conflictos
 - **Mediadores**: Resolución de conflictos meta
+
+#### **📺 Programas y Eventos Especiales**
+- **Concurso Héroes o Villanos**: Programa televisivo *(documentación específica)*
 
 ---
 

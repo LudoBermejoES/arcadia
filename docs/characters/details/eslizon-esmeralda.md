@@ -38,6 +38,36 @@ Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta"
 - [La Fuerza Oculta AI Notes 2025-07-13](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+
+## Cosas a Hacer (Agosto 2025)
+
+Tras la sesión del 3 de agosto de 2025, Eslizón tiene varias tareas y desarrollos pendientes:
+
+### **🦎 Equipamiento y Preparación Personal**
+- **Adaptación de traje**: Añadir bolsillos tácticos para mejorar funcionalidad en operaciones
+- **Zona de calor personal**: Crear área cálida en la base renovada para necesidades reptilianas
+- **Línea de comunicación segura**: Establecer móvil con línea segura para contactos discretos
+
+### **👥 Contactos y Reuniones Pendientes**
+- **Encuentro con La Cacería Salvaje**: Responder al mensaje "*Tenemos que hablar, ven al barrio gótico*"
+  - Reunirse con los cinco hermanos bestiales (Vista, Tacto, Oído, Olfato, Gusto)
+  - Hijos de Estocada, veterano de La Familia
+  - Vigilantes independientes que operan exclusivamente en el Barrio Gótico
+  - Posible establecimiento de alianza o coordinación operativa
+
+### **💼 Desarrollo Profesional**
+- **Carrera como profesor universitario online**: 
+  - Usar avatar de mapache y filtro deep fake para ocultar apariencia metahumana
+  - Evitar detección por "metacorp" mediante tecnología de camuflaje
+  - Enseñar ciencias (química y física) a estudiantes universitarios
+  - Mantener fuente de ingresos estable para financiar operaciones del grupo
+
+### **🏗️ Gestión de Base Operativa**
+- **Supervisión de renovaciones**: Coordinar con equipo de Hassan (capataz de Malik)
+- **Planificación del espacio**: Decidir distribución y funcionalidad de la base renovada
+- **Instalación de equipamiento**: Preparar espacios para equipamiento especializado futuro
 
 ## Detalles Adicionales
 Eslizón tiene una habitación especialmente adaptada a su naturaleza reptiliana, con "una extraña cama redonda para hacerse un nido" y "todos los muebles están adaptados a tener cola". Su colección de cómics sugiere intereses típicos de adolescente a pesar de su apariencia única.

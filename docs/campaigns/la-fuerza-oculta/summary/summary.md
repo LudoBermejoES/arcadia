@@ -445,6 +445,68 @@ El grupo se enfrenta por primera vez a un miembro de **La Farándula**:
 **Evolución hacia heroísmo maduro:**
 Esta sesión demuestra la transformación definitiva del grupo de adolescentes impulsivos a héroes responsables, mostrando disciplina táctica, trabajo en equipo coordinado y resistencia a tentaciones que antes los habrían dominado.
 
+### Sesión 26: Entrega de Justicia y Establecimiento de Base (3 agosto 2025)
+
+**Consolidación de la independencia heroica:**
+
+La sesión del 3 de agosto completa la transformación de La Fuerza Oculta hacia la verdadera autonomía operativa. Tras el enfrentamiento con Dulcinea, el grupo gestiona profesionalmente las consecuencias de su primera misión oficial.
+
+**Gestión post-operación:**
+- **Decisión pragmática**: Conservan 2 sobres de drogas como recurso de emergencia extrema
+- **Show mediático**: **Hotman** coordina entrega de mercenarios con **Magdalena Agapé**
+- **Entrega profesional**: 8-10 mercenarios del **Puño Gris** entregados a autoridades
+- **Retirada táctica**: Escape coordinado tras llegada de sirenas policiales
+
+**Establecimiento de base operativa:**
+- **Evaluación realista**: Reconocimiento de limitaciones técnicas para reparaciones
+- **Negociación estratégica**: Acuerdo con **Malik** (barón mendigo) para renovación completa
+- **Verificación telepática**: **Psique** confirma honestidad e integridad de Malik
+- **Compromiso económico**: Pago mediante servicios futuros y "tiradas de riqueza"
+
+**Diversificación de ingresos:**
+- **Eslizón**: Profesor universitario online con avatar de mapache y filtro deep fake
+- **Psique**: Consulta psicológica trabajando en negro, éxito profesional inmediato  
+- **Hotman**: Influencer pro-metahumanos, canal OnlyFans especializado, suscriptores pagados
+- **Sentencia**: Entrenadora personal, instructora de armas, estudio de tácticas militares
+- **Diana**: Apoyo logístico, mantiene perfil bajo en operaciones públicas
+- **Astrid**: Observación estratégica, desarrollo de red de contactos
+
+**Salto temporal - Dos meses después:**
+- **Base renovada**: Refugio habitable con baños, luz, agua e internet funcionando
+- **Carreras establecidas**: Ingresos estables para cada miembro del grupo
+- **Red de contactos**: Conexiones en múltiples sectores de la sociedad arcadiana
+
+**Nuevas oportunidades y conexiones:**
+
+**Eslizón** - Mensaje de **La Cacería Salvaje**:
+- Grupo de metahumanos bestiales hijos de **Estocada** (veterano de La Familia)
+- Cinco hermanos con poderes sensoriales: Vista, Tacto, Oído, Olfato, Gusto
+- Operan exclusivamente en el **Barrio Gótico** como vigilantes independientes
+- Solicitud de reunión: *"Tenemos que hablar, ven al barrio gótico"*
+
+**Psique** - Expansión profesional:
+- **Comadreja** solicita búsqueda de oficina en **barrio friki** por demanda excesiva
+- Email misterioso requiriendo presencia en residencia de tercera edad (**Distrito Biónico**)
+
+**Sentencia** - Legado familiar:
+- Mensaje del **tío**: *"Es el momento de que continúes mi legado"*
+- Ubicación desconocida, conexión con herencia familiar misteriosa
+
+**Hotman** - Círculos de elite:
+- Video invitación de **Neiros** (metahumano más sexy de Arcadia)
+- Poderes de transmutación dorada temporal, muy querido públicamente
+- Invitación a evento exclusivo en **Distrito Biónico** con acompañantes permitidos
+- Entrada mediante contraseña bitcoin, acceso a círculos metahumanos de alta sociedad
+
+**Preparación para futuro:**
+- **Eslizón**: Adaptación de traje con bolsillos, zona de calor personal, línea segura
+- **Hotman**: Contactos políticos pro-metahumanos, partido progresista de igualdad
+- **Psique**: Búsqueda de **Mésmero** como mentor para desarrollo avanzado
+- **Sentencia**: Armamento menos letal y armas pesadas para amenazas metahumanas superiores
+
+**Consolidación de independencia:**
+Esta sesión marca la transición completa de adolescentes fugitivos a héroes independientes con base operativa propia, ingresos estables, red de contactos diversificada y reconocimiento público. El equilibrio entre pragmatismo heroico y principios morales establece las bases para operaciones de mayor envergadura.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes
@@ -587,6 +649,10 @@ Esta sesión demuestra la transformación definitiva del grupo de adolescentes i
 - 13/07: Contacto con entidad robótica misteriosa
 - 20/07: Primera misión oficial, infiltración subterránea
 - 27/07: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación estructura criminal
+
+**Agosto:**
+- 03/08: Entrega de mercenarios, establecimiento de base e ingresos independientes
+- Salto temporal de 2 meses - Consolidación como héroes autónomos
 
 ---
 

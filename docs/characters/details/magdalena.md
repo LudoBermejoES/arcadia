@@ -154,6 +154,9 @@ Sus inicios se centraron en la cobertura de noticias relacionadas con metahumano
 ## Apariciones Documentadas
 - [La Familia Session 20](../../campaigns/la-familia/session-20.md) - Trabajo periodístico en cobertura carcelaria
 - [La Familia Index](../../campaigns/la-familia/index.md) - Contexto de actividades periodísticas
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md) - Entrevista exclusiva con La Fuerza Oculta
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md) - Cobertura de entrega de mercenarios
+- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md) - Contexto de cobertura actual
 
 ## Legado Profesional
 
@@ -192,6 +195,22 @@ Su cobertura actual se centra en la generación heroica contemporánea:
 - **Cobertura generacional**: Análisis especializado sobre la evolución del heroísmo adolescente
 - **Mediación pública**: Ayuda al público a comprender las complejidades de los héroes jóvenes
 - **Protección mediática**: Equilibra la cobertura informativa con la protección de la privacidad heroica
+
+### **Cobertura Reciente: Operación Anti-Criminal (Agosto 2025)**
+Magdalena coordinó con **Hotman** para una cobertura exclusiva de la entrega de mercenarios:
+- **Contacto privilegiado**: **Hotman** la contactó directamente usando móvil de prepago
+- **Coordinación mediática**: Organizó la cobertura de entrega de mercenarios del **Puño Gris**
+- **Entrevista especializada**: Realizó preguntas sobre drogas potenciadoras y regreso de **La Farándula**
+- **Cobertura profesional**: Gestionó el evento mediático antes de la llegada de autoridades
+- **Análisis contextual**: Proporcionó contexto histórico sobre La Farándula para audiencia
+
+### **Expertise Demostrada en Cobertura Heroica**
+Su manejo de la situación reveló:
+- **Preparación profesional**: Llegada rápida y equipada para cobertura en vivo
+- **Conocimiento especializado**: Comprensión inmediata de las implicaciones de La Farándula
+- **Habilidades de entrevista**: Preguntas específicas y relevantes para cada miembro del equipo
+- **Gestión temporal**: Coordinación eficiente de cobertura antes de intervención policial
+- **Construcción de narrativa**: Presentación clara de eventos complejos para público general
 
 ### **Proyección Futura**
 Su posición la establece como:

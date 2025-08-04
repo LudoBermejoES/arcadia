@@ -34,6 +34,40 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+
+## Cosas a Hacer (Agosto 2025)
+
+Tras la sesión del 3 de agosto de 2025, Hotman tiene varias tareas y desarrollos pendientes:
+
+### **🎬 Carrera como Influencer y Medios**
+- **Influencer pro-metahumanos**: Desarrollar contenido sobre derechos metahumanos y alimentación saludable
+- **Canal OnlyFans metahumano**: Monetizar actos heroicos y contenido especializado
+- **Contacto con medios**: Mantener relación profesional con **Magdalena Agapé** para futuras colaboraciones
+- **Crecimiento de suscriptores**: Expandir base de seguidores mediante contenido de calidad
+
+### **🏛️ Activismo Político**
+- **Contactos políticos pro-metahumanos**: Establecer vínculos con partido progresista de igualdad
+- **Promoción de derechos**: Abogar por la igualdad de derechos metahumanos
+- **Colaboración con movimientos**: Coordinar con grupos de orgullo y diversidad (sugerencia de Psique)
+
+### **🌟 Círculos Sociales de Elite**
+- **Invitación de Neiros**: Responder a invitación del "metahumano más sexi de Arcadia"
+  - Evento exclusivo en **Distrito Biónico**
+  - Acceso mediante contraseña bitcoin
+  - Acompañantes permitidos
+  - Oportunidad de networking con círculos metahumanos de alta sociedad
+
+### **💰 Gestión Financiera**
+- **Monetización de contenido**: Optimizar ingresos de plataformas digitales
+- **Criptomoneda**: Gestionar pagos en cripto para evitar restricciones de patrocinio legal
+- **Inversión en equipamiento**: Mejorar calidad de producción de contenido
+
+### **🛡️ Equipamiento Heroico**
+- **Mejoras de traje**: Coordinar con **Charada** para posibles modificaciones (primera pieza gratuita)
+- **Chaleco de kevlar**: Considerar protección adicional para operaciones peligrosas
+- **Equipamiento de grabación**: Material profesional para documentar actividades heroicas
 
 ## Detalles Adicionales
 Hotman muestra una personalidad típicamente adolescente, evidente en la decoración de su habitación que incluye "posters con ídolos de internet", "hay un poster de Justa", y "comics y revistas sospechosas debajo de la cama". Su interés romántico por Justa es aparente tanto por el poster como por su comportamiento.

@@ -36,6 +36,39 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+
+## Cosas a Hacer (Agosto 2025)
+
+Tras la sesión del 3 de agosto de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
+
+### **⚔️ Desarrollo Táctico y Militar**
+- **Estudio de tácticas militares**: Investigar técnicas de combate para ser menos letal
+- **Armamento no letal**: Buscar armas que aturdan sin causar daño permanente
+- **Armas pesadas para metahumanos**: Investigar armamento para enfrentar "tanques metahumanos"
+- **Entrenamiento especializado**: Desarrollar técnicas de combate más sofisticadas
+
+### **💼 Actividades Profesionales**
+- **Entrenadora personal**: Continuar trabajo con Comadreja
+- **Instructora de armas**: Ofrecer entrenamiento en técnicas de disparo
+- **Desarrollo de habilidades**: Mantener y mejorar capacidades físicas y tácticas
+
+### **👨‍👩‍👧‍👦 Legado Familiar**
+- **Mensaje del tío**: Responder a comunicación "*Es el momento de que continúes mi legado*"
+  - Investigar ubicación desconocida mencionada
+  - Comprender qué implica "continuar el legado"
+  - Evaluar conexiones familiares y responsabilidades heredadas
+
+### **🛡️ Equipamiento y Preparación**
+- **Chaleco de kevlar**: Obtener protección corporal para operaciones peligrosas
+- **Reformas de uniforme**: Gestionar costos de modificaciones (preocupación expresada)
+- **Equipamiento táctico**: Evaluar necesidades de equipamiento especializado
+
+### **🎯 Desarrollo de Rol en el Equipo**
+- **Liderazgo táctico**: Continuar desarrollo como coordinadora de operaciones
+- **Especialización en combate**: Mantener rol como experta en armas del grupo
+- **Entrenamiento grupal**: Liderar preparación física y táctica del equipo
 
 ## Detalles Adicionales
 Justa mantiene una disciplina militar estricta, evidente en que "suena la alarma de Justa a las 6:00" y lidera las rutinas de ejercicio matutinas junto con Astrid. Su dedicación al entrenamiento físico establece un estándar alto para todo el grupo.

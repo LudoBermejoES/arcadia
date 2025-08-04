@@ -119,6 +119,11 @@ permalink: /characters/character-list/
 - [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/)
 - [Amira Roxana]({{ site.baseurl }}/characters/details/amira-roxana/) (intermediaria para metahumanos, defensora de mujeres musulmanas)
 - [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
+- [Malik]({{ site.baseurl }}/characters/details/malik/) ("El Barón Mendigo", líder de indigentes y contratista discreto)
+
+### Mercenarios y Criminales Organizados
+- [Mateo Shu]({{ site.baseurl }}/characters/details/mateo-shu/) (mercenario del Puño Gris, colaborador de La Farándula)
+- [Hassan Oleg]({{ site.baseurl }}/characters/details/hassan-oleg/) (capataz de obras, subordinado de Malik)
 
 ### Figuras Misteriosas
 - [Destino]({{ site.baseurl }}/characters/details/destino/)
@@ -256,7 +261,7 @@ permalink: /characters/character-list/
 ### Periodistas y Medios
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)
 - [Juan Guzmán]({{ site.baseurl }}/characters/details/juan-guzman/)
-- [Magdalena]({{ site.baseurl }}/characters/details/magdalena/) (becaria)
+- [Magdalena Agapé]({{ site.baseurl }}/characters/details/magdalena/) (presentadora principal de noticias superheroicas, programa "Hola, Superarcadia")
 - [Ricky Sataka]({{ site.baseurl }}/characters/details/ricky-sataka/) (presentador de "Héroes o Villanos")
 - [Trifásico]({{ site.baseurl }}/characters/details/trifasico/) (streamer multilingüe)
 

@@ -35,7 +35,38 @@ Diana actúa como un miembro de apoyo del grupo "La Fuerza Oculta" con inclinaci
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
 - [Fatum Campaign](../../campaigns/fatum/fatum.md)
+
+## Cosas a Hacer (Agosto 2025)
+
+Tras la sesión del 3 de agosto de 2025, Diana tiene varias tareas y desarrollos pendientes:
+
+### **🏗️ Rol en Operaciones del Grupo**
+- **Especialista en demolición**: Continuar usando habilidades de destrucción precisas (como colapsar entrada de estación)
+- **Apoyo logístico**: Mantener funciones de coordinación y apoyo durante operaciones
+- **Perfil discreto**: Continuar estrategia de bajo perfil durante actividades públicas
+
+### **💼 Desarrollo Profesional**
+- **Apoyo operativo**: Contribuir a la planificación logística de misiones del grupo
+- **Gestión de recursos**: Participar en coordinación de recursos del equipo
+- **Coordinación estratégica**: Aportar perspectiva en planificación de operaciones
+
+### **🏛️ Gestión de Herencia Familiar**
+- **Propiedad familiar**: Continuar gestión de mansión familiar en Arcadia
+- **Distanciamiento de Fatum**: Mantener separación de organización villana familiar
+- **Construcción de identidad independiente**: Consolidar identidad heroica propia
+
+### **💰 Contribución Económica**
+- **Recursos familiares**: Evaluar cómo usar recursos heredados para beneficio del grupo
+- **Financiación de operaciones**: Contribuir a gastos operativos de La Fuerza Oculta
+- **Gestión discreta**: Mantener privacidad sobre origen de recursos
+
+### **🤝 Relaciones y Desarrollo Personal**
+- **Relación con Psique**: Continuar desarrollando relación romántica
+- **Integración grupal**: Fortalecer vínculos con todos los miembros del equipo
+- **Desarrollo de liderazgo**: Explorar roles de liderazgo dentro del grupo
 
 ## Detalles Adicionales
 La habitación de Diana refleja su personalidad espiritual y sus intereses culturales únicos: tiene un "altar de meditación, libros y posters de asiáticos gotiquillos y Quintus". Esta decoración sugiere una personalidad contemplativa con intereses en filosofías orientales y estética gótica.

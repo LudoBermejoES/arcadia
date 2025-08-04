@@ -37,6 +37,38 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
+- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+
+## Cosas a Hacer (Agosto 2025)
+
+Tras la sesión del 3 de agosto de 2025, Psique tiene varias tareas y desarrollos pendientes:
+
+### **🧠 Desarrollo Profesional como Terapeuta**
+- **Consulta psicológica en negro**: Mantener trabajo como "superpsicóloga" en despachito de Comadreja
+- **Búsqueda de oficina**: Encontrar nuevo espacio en el **barrio friki** por exceso de demanda
+- **Expansión de práctica**: Gestionar el éxito profesional y la necesidad de más espacio
+- **Atención especializada**: Continuar ofreciendo terapia psicológica a la comunidad
+
+### **👥 Servicio Comunitario**
+- **Apoyo a indigentes**: Ofrecer ayuda psicológica a la gente de Malik
+- **Email misterioso**: Responder a solicitud de presencia en residencia de tercera edad (**Distrito Biónico**)
+- **Colaboración con movimientos sociales**: Incluir gente del orgullo en esfuerzos políticos de Hotman
+
+### **🎓 Búsqueda de Mentor**
+- **Contacto con Mésmero**: Buscar mentoría para desarrollo avanzado de poderes telepáticos
+- **Altea Argos (nueva identidad)**: Fortalecer identidad alternativa para proteger a su familia
+- **Desarrollo de habilidades**: Continuar mejorando capacidades telepáticas y curativas
+
+### **💰 Gestión Económica**
+- **Mejorar situación económica**: Continuar construyendo estabilidad financiera personal
+- **Contribución al grupo**: Participar en financiación de operaciones de La Fuerza Oculta
+- **Trabajo en negro**: Mantener discreción en actividades profesionales
+
+### **🔍 Funciones de Inteligencia**
+- **Verificación telepática**: Continuar usando habilidades para evaluar confiabilidad de contactos
+- **Coordinación grupal**: Mantener enlaces telepáticos durante operaciones
+- **Análisis psicológico**: Proporcionar evaluaciones de enemigos y aliados potenciales
 
 ## Detalles Adicionales
 Mencia se presenta inicialmente como "Cia" cuando el grupo se conoce, sugiriendo que prefiere mantener cierta distancia o misterio sobre su identidad real. Su naturaleza reservada se confirma cuando "Mencia intenta saber qué piensa Cia y no es capaz de descubrir su pensamiento íntimo", indicando que tiene defensas mentales naturales.

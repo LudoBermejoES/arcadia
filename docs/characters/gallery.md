@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería de Personajes de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora los <strong>156 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
+  <p>Explora los <strong>159 personajes únicos</strong> que habitan el universo de Arcadia. Desde héroes legendarios hasta villanos inolvidables, cada personaje representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="gallery-container" id="character-gallery">
@@ -73,6 +73,7 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'general-martinez', name: 'General Martínez', image: 'general-martinez.png' },
     { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
     { slug: 'gusto', name: 'Gusto', image: 'Gusto.png' },
+    { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
     { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
     { slug: 'hermes', name: 'Hermes', image: 'hermes.png' },
     { slug: 'hotman', name: 'Hotman', image: 'Hotman.png' },
@@ -92,9 +93,11 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png' },
     { slug: 'lsd', name: 'LSD', image: 'lsd.png' },
     { slug: 'lumen', name: 'Lúmen', image: 'Lumen.png' },
+    { slug: 'malik', name: 'Malik', image: 'Malik.png' },
     { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
     { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
     { slug: 'martillo', name: 'Martillo', image: 'martillo.png' },
+    { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
     { slug: 'maza', name: 'Maza', image: 'Maza.png' },
     { slug: 'mencia-psique-cia', name: 'Mencia / Psique / Cia', image: 'Mencia_Psique_Cia.png' },
     { slug: 'mentallo', name: 'Mentallo', image: 'Mentallo.png' },

@@ -38,6 +38,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Group data - organizations and teams
   const groups = [
+    { slug: 'la-familia', name: 'La Familia', image: 'La familia.png', description: 'Los héroes fundadores originales' },
     { slug: 'la-farandula', name: 'La Farándula', image: 'la-farandula.png', description: 'Villanos teatrales organizados' },
     { slug: 'fatum', name: 'Fatum Corporation', image: 'Fatum.jpeg', description: 'Megacorporación criminal multigeneracional' },
     { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png', description: 'Fuerza militar de elite' },

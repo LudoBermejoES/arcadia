@@ -1,4 +1,14 @@
-# La familia
+---
+layout: page
+title: "La Familia"
+permalink: /groups/la-familia/
+---
+
+# La Familia
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/La familia.png" alt="La Familia" />
+</div>
 
 # Biografías de "La Familia" - Héroes de Arcadia
 

@@ -185,9 +185,13 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 
 ## 🕳️ **LA SUBCIUDAD**
 
-### **Estaciones de Metro Abandonadas**
+### **[Base de La Fuerza Oculta - Estación de Metro Abandonada]({{ site.baseurl }}/locations/base-fuerza-oculta-estacion-metro/)**
 **Campañas:** La Fuerza Oculta  
-**Descripción:** Red de estaciones subterráneas clausuradas, especialmente una cerrada por radiación. Utilizada como guarida por organizaciones criminales y laboratorios clandestinos de drogas.
+**Descripción:** Antigua estación de metro clausurada por radiación en los años 80, posteriormente utilizada por **La Farándula** como laboratorio de drogas clandestino. Liberada por La Fuerza Oculta en julio 2025 y transformada en su base operativa independiente tras 2 meses de renovación completa por **Hassan Oleg** bajo contrato con **Malik**. Primera base heroica completamente autónoma del grupo, equipada con servicios básicos, tecnología avanzada y adaptaciones especiales para cada miembro.
+
+### **Estaciones de Metro Abandonadas (Otras)**
+**Campañas:** La Fuerza Oculta  
+**Descripción:** Red adicional de estaciones subterráneas clausuradas por diversos motivos. Línea completa cerrada por radiación de supervillanos, utilizada ocasionalmente por organizaciones criminales para actividades clandestinas.
 
 ### **Red de Alcantarillado Expandida**
 **Campañas:** La Fuerza Oculta  

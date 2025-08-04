@@ -208,7 +208,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🥊 [Puño Gris](../characters/details/puno-gris.md)**
+### **🥊 [Puño Gris](puno-gris.md)**
 **Mafia del Distrito Asiático**
 
 #### **Estructura Criminal:**

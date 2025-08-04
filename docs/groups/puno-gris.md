@@ -1,8 +1,7 @@
 ---
-layout: character
+layout: page
 title: Puño Gris
-permalink: /characters/details/puno-gris/
-slug: puno-gris
+permalink: /groups/puno-gris/
 ---
 
 # Puño Gris

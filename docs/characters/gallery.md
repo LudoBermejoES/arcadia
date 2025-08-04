@@ -42,7 +42,8 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'los-rayos', name: 'Los Rayos', image: 'los_rayos.png', description: 'Fuerza militar de elite' },
     { slug: 'la-caceria-salvaje', name: 'La Cacería Salvaje', image: 'la-caceria-salvaje.png', description: 'Vigilantes bestiales del Barrio Gótico' },
     { slug: 'los-confesores', name: 'Los Confesores', image: 'los-confesores.png', description: 'Fanáticos religiosos antimeta' },
-    { slug: 'los-espligan', name: 'Los Espligan', image: 'espligan.png', description: 'Mercenarios especializados parasitarios' }
+    { slug: 'los-espligan', name: 'Los Espligan', image: 'espligan.png', description: 'Mercenarios especializados parasitarios' },
+    { slug: 'puno-gris', name: 'Puño Gris', image: 'puno-gris.png', description: 'Mafia del distrito asiático' }
   ];
   
   // Character data - mapping character slugs to their details
@@ -138,7 +139,6 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'pastel-de-carne', name: 'Pastel de Carne', image: 'Pastel de carne.png' },
     { slug: 'primo-de-rivera', name: 'Primo de Rivera', image: 'primo-de-rivera.png' },
     { slug: 'psicodalia', name: 'Psicodalia', image: 'psicodalia.png' },
-    { slug: 'puno-gris', name: 'Puño Gris', image: 'puno-gris.png' },
     { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
     { slug: 'rayo-igneo', name: 'Rayo Ígneo', image: 'rayo-igneo.png' },
     { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },

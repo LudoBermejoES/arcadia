@@ -250,7 +250,7 @@ permalink: /characters/character-list/
 - Los Barones de Telaraña
 - Las Bestias
 - Los Cazadores
-- [Puño Gris]({{ site.baseurl }}/characters/details/puno-gris/) (mafia asiática)
+- [Puño Gris]({{ site.baseurl }}/groups/puno-gris/) (mafia asiática)
 
 ## Otros Personajes Notables
 

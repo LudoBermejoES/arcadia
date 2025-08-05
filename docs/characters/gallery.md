@@ -272,7 +272,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'mario-igarruti', name: 'Mario Igarruti', image: 'Mario_Igarruti.png' },
       { slug: 'oneill', name: 'Oneill', image: 'Oneill.png' },
       { slug: 'pablo-de-la-serna', name: 'Pablo de la Serna', image: 'Pablo_de_la_Serna.png' },
-      { slug: 'roberto-gomez', name: 'Roberto Gómez', image: 'Roberto_Gomez.png' }
+      { slug: 'roberto-gomez', name: 'Roberto Gómez', image: 'Roberto_Gomez.png' },
+      { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     estudiantes: [
@@ -306,11 +307,11 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     profesionales: [
+      { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
-      { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     historicos: [
@@ -328,7 +329,6 @@ document.addEventListener('DOMContentLoaded', function() {
     
     independientes: [
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
-      { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },
       { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },

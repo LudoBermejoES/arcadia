@@ -96,11 +96,35 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Independientes -->
+<!-- Profesionales -->
 <div class="character-section">
-  <h3 class="character-category-title">🔄 Independientes</h3>
-  <div class="gallery-container" id="independientes-gallery">
-    <!-- Independent character cards will be dynamically loaded here -->
+  <h3 class="character-category-title">👔 Profesionales</h3>
+  <div class="gallery-container" id="profesionales-gallery">
+    <!-- Professional character cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Históricos -->
+<div class="character-section">
+  <h3 class="character-category-title">🏛️ Históricos</h3>
+  <div class="gallery-container" id="historicos-gallery">
+    <!-- Historical figure cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Criminales -->
+<div class="character-section">
+  <h3 class="character-category-title">🔪 Criminales</h3>
+  <div class="gallery-container" id="criminales-gallery">
+    <!-- Criminal character cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Civiles -->
+<div class="character-section">
+  <h3 class="character-category-title">🏘️ Civiles</h3>
+  <div class="gallery-container" id="civiles-gallery">
+    <!-- Civilian character cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -252,28 +276,39 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'general-martinez', name: 'General Martínez', image: 'general-martinez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
-    independientes: [
+    profesionales: [
+      { slug: 'charada', name: 'Charada', image: 'Charada.png' },
+      { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
+      { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
+    historicos: [
       { slug: 'alberto-alvarez', name: 'Alberto Álvarez', image: 'alberto-alvarez.png' },
+      { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
+      { slug: 'mister-skip', name: 'Mister Skip', image: 'mister-skip.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
+    criminales: [
+      { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
+      { slug: 'malik', name: 'Malik', image: 'Malik.png' },
+      { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
+    civiles: [
       { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'autoridad', name: 'Autoridad', image: 'autoridad.png' },
       { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
-      { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'david', name: 'David', image: 'david.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
       { slug: 'el-golem', name: 'El Golem', image: 'el-golem.png' },
       { slug: 'el-guardian', name: 'El Guardián', image: 'el-guardian.png' },
       { slug: 'el-mago', name: 'El Mago', image: 'El Mago.png' },
-      { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
-      { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
       { slug: 'hermes', name: 'Hermes', image: 'hermes.png' },
-      { slug: 'malik', name: 'Malik', image: 'Malik.png' },
-      { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
       { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
-      { slug: 'mister-skip', name: 'Mister Skip', image: 'mister-skip.png' },
       { slug: 'nube', name: 'Nube', image: 'Nube.png' },
       { slug: 'panuelo', name: 'Pañuelo', image: 'Pañuelo.png' },
       { slug: 'pastel-de-carne', name: 'Pastel de Carne', image: 'Pastel de carne.png' },
@@ -283,9 +318,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
       { slug: 'superglue', name: 'SuperGlue', image: 'Superglue.png' },
       { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' },
-      { slug: 'venus-sibila', name: 'Venus / Sibila', image: 'Venus Sibila.png' },
-      { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' },
-      { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' }
+      { slug: 'venus-sibila', name: 'Venus / Sibila', image: 'Venus Sibila.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
@@ -351,7 +384,10 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.medicos, 'medicos-gallery');
   createCharacterCards(characterCategories.politicos, 'politicos-gallery');
   createCharacterCards(characterCategories.militares, 'militares-gallery');
-  createCharacterCards(characterCategories.independientes, 'independientes-gallery');
+  createCharacterCards(characterCategories.profesionales, 'profesionales-gallery');
+  createCharacterCards(characterCategories.historicos, 'historicos-gallery');
+  createCharacterCards(characterCategories.criminales, 'criminales-gallery');
+  createCharacterCards(characterCategories.civiles, 'civiles-gallery');
 
   // Initialize Masonry for all galleries after images load
   function initializeMasonry(galleryId) {
@@ -388,7 +424,10 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('medicos-gallery');
   initializeMasonry('politicos-gallery');
   initializeMasonry('militares-gallery');
-  initializeMasonry('independientes-gallery');
+  initializeMasonry('profesionales-gallery');
+  initializeMasonry('historicos-gallery');
+  initializeMasonry('criminales-gallery');
+  initializeMasonry('civiles-gallery');
 });
 </script>
 

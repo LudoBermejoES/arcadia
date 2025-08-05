@@ -308,15 +308,17 @@ document.addEventListener('DOMContentLoaded', function() {
     
     independientes: [
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
+      { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
+      { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
       { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     civiles: [
       { slug: 'alonso-dossantos', name: 'Alonso Dossantos', image: 'alonso-dossantos.png' },
-      { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'anianca', name: 'Anianca', image: 'anianca.png' },
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
@@ -324,8 +326,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
-      { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
       { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))

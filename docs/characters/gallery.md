@@ -32,6 +32,14 @@ permalink: /characters/gallery/
   </div>
 </div>
 
+<!-- Participantes de Héroes o Villanos -->
+<div class="character-section">
+  <h3 class="character-category-title">📺 Participantes de Héroes o Villanos</h3>
+  <div class="gallery-container" id="participantes-hevi-gallery">
+    <!-- Héroes o Villanos contest participant cards will be dynamically loaded here -->
+  </div>
+</div>
+
 <!-- Héroes -->
 <div class="character-section">
   <h3 class="character-category-title">🦸‍♂️ Héroes</h3>
@@ -170,6 +178,25 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'thomas-raza', name: 'Thomas / Raza', image: 'Thomas_Raza.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
+    participantesHeVi: [
+      // Grupo Alfa - Los Favoritos del Público
+      { slug: 'cerebro', name: 'Cerebro', image: 'cerebro.png' },
+      { slug: 'leon-federico', name: 'León Federico', image: 'leon-federico.png' },
+      { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
+      { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
+      { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
+      // Grupo Gamma - Los Criminales Rehabilitados  
+      { slug: '2d', name: '2D', image: '2d.png' },
+      { slug: 'cyberpunk', name: 'Cyberpunk', image: 'cyberpunk.png' },
+      { slug: 'martillo', name: 'Martillo', image: 'martillo.png' },
+      { slug: 'siberia', name: 'Siberia', image: 'siberia.png' },
+      // Grupo Delta - Los Dormilones
+      { slug: 'la-nueva-sombra', name: 'La Nueva Sombra', image: 'la_nueva_sombra.png' },
+      { slug: 'temblores', name: 'Temblores', image: 'Temblores.png' },
+      { slug: 'tifon', name: 'Tifón', image: 'tifon.png' },
+      { slug: 'zambo-mambo', name: 'Zambo y Mambo', image: 'zambo-mambo.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
     heroes: [
       { slug: 'alice-tesla', name: 'Alice Tesla', image: 'Alice_Tesla.png' },
       { slug: 'anarquista', name: 'Anarquista', image: 'anarquista.png' },
@@ -177,7 +204,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'autoridad', name: 'Autoridad', image: 'autoridad.png' },
       { slug: 'bailarina', name: 'Bailarina', image: 'Bailarina.png' },
       { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
-      { slug: 'cerebro', name: 'Cerebro', image: 'cerebro.png' },
       { slug: 'comadreja-negra', name: 'Comadreja Negra', image: 'Comadreja negra.png' },
       { slug: 'david', name: 'David', image: 'david.png' },
       { slug: 'el-golem', name: 'El Golem', image: 'el-golem.png' },
@@ -187,17 +213,13 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'estocada', name: 'Estocada', image: 'Estocada.png' },
       { slug: 'gusto', name: 'Gusto', image: 'Gusto.png' },
       { slug: 'la-sombra', name: 'La Sombra', image: 'La Sombra.png' },
-      { slug: 'leon-federico', name: 'León Federico', image: 'leon-federico.png' },
       { slug: 'lucifer-hero', name: 'Lucifer', image: 'Lucifer.png' },
-      { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
       { slug: 'neon', name: 'Neón', image: 'Neon.png' },
       { slug: 'nube', name: 'Nube', image: 'Nube.png' },
       { slug: 'oido', name: 'Oído', image: 'Oido.png' },
       { slug: 'olfato', name: 'Olfato', image: 'Olfato.png' },
-      { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
       { slug: 'rayo-igneo', name: 'Rayo Ígneo', image: 'rayo-igneo.png' },
       { slug: 'relampago', name: 'Relámpago', image: 'Relampago.png' },
-      { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
       { slug: 'serpiente', name: 'Serpiente', image: 'Serpiente.png' },
       { slug: 'tacto', name: 'Tacto', image: 'Tacto.png' },
       { slug: 'trueno', name: 'Trueno', image: 'Trueno.png' },
@@ -206,14 +228,12 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     villanos: [
-      { slug: '2d', name: '2D', image: '2d.png' },
       { slug: 'aldonza-lorenzo', name: 'Aldonza Lorenzo', image: 'Aldonza Lorenzo.png' },
       { slug: 'baron-soledad', name: 'Barón Soledad', image: 'baron-soledad.png' },
       { slug: 'bellona', name: 'Bellona', image: 'Bellona.jpg' },
       { slug: 'caos', name: 'Caos', image: 'Caos.png' },
       { slug: 'cloris', name: 'Cloris', image: 'Cloris.jpg' },
       { slug: 'crazy-mary', name: 'Crazy Mary', image: 'crazy-mary.png' },
-      { slug: 'cyberpunk', name: 'Cyberpunk', image: 'cyberpunk.png' },
       { slug: 'destino', name: 'Destino', image: 'destino.png' },
       { slug: 'diablo', name: 'Diablo', image: 'diablo.png' },
       { slug: 'ego', name: 'EGO', image: 'ego.png' },
@@ -226,10 +246,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'la-baronesa', name: 'La Baronesa', image: 'La Baronesa.png' },
       { slug: 'la-dama', name: 'La Dama', image: 'la-dama.png' },
       { slug: 'la-emperatriz', name: 'La Emperatriz', image: 'la-emperatriz.png' },
-      { slug: 'la-nueva-sombra', name: 'La Nueva Sombra', image: 'la_nueva_sombra.png' },
       { slug: 'lsd', name: 'LSD', image: 'lsd.png' },
       { slug: 'manni', name: 'Manni', image: 'Manni.png' },
-      { slug: 'martillo', name: 'Martillo', image: 'martillo.png' },
       { slug: 'maza', name: 'Maza', image: 'Maza.png' },
       { slug: 'mentallo', name: 'Mentallo', image: 'Mentallo.png' },
       { slug: 'merx', name: 'Merx', image: 'Merx.jpg' },
@@ -243,13 +261,9 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
       { slug: 'saltamontes', name: 'Saltamontes', image: 'Saltamontes.png' },
       { slug: 'sedal', name: 'Sedal', image: 'Sedal.png' },
-      { slug: 'siberia', name: 'Siberia', image: 'siberia.png' },
       { slug: 'superglue', name: 'SuperGlue', image: 'Superglue.png' },
       { slug: 'telarana', name: 'Telaraña', image: 'telaraña.png' },
-      { slug: 'temblores', name: 'Temblores', image: 'Temblores.png' },
-      { slug: 'tifon', name: 'Tifón', image: 'tifon.png' },
       { slug: 'voltumna', name: 'Voltumna', image: 'Voltumna.jpg' },
-      { slug: 'zambo-mambo', name: 'Zambo y Mambo', image: 'zambo-mambo.png' },
       { slug: 'zanni', name: 'Zanni', image: 'Zanni.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
@@ -289,8 +303,10 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     profesionales: [
+      { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
       { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
@@ -309,10 +325,8 @@ document.addEventListener('DOMContentLoaded', function() {
     independientes: [
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
       { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
-      { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
       { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
       { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
@@ -385,6 +399,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Create character cards for each category
   createCharacterCards(characterCategories.protagonistas, 'protagonistas-gallery');
+  createCharacterCards(characterCategories.participantesHeVi, 'participantes-hevi-gallery');
   createCharacterCards(characterCategories.heroes, 'heroes-gallery');
   createCharacterCards(characterCategories.villanos, 'villanos-gallery');
   createCharacterCards(characterCategories.metacorp, 'metacorp-gallery');
@@ -425,6 +440,7 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Initialize Masonry for all character category galleries
   initializeMasonry('protagonistas-gallery');
+  initializeMasonry('participantes-hevi-gallery');
   initializeMasonry('heroes-gallery');
   initializeMasonry('villanos-gallery');
   initializeMasonry('metacorp-gallery');

@@ -143,7 +143,7 @@ En 1985 se descubrió un enorme yacimiento de silicio en el suelo de la isla, lo
 
 El desarrollo ha traído consigo espionaje industrial, raptos de "cerebros" e incluso asesinatos. Han surgido grupos criminales que venden sus "servicios" a empresas sin escrúpulos, incluyendo criminales metahumanos que trabajan indirectamente para multinacionales.
 
-En un país de 15.028 kilómetros cuadrados de superficie y 1.5 millones de habitantes, la población de metahumanos ha experimentado un crecimiento exponencial. Mientras que en las décadas anteriores se estimaba en aproximadamente un centenar, **las crisis y eventos de los últimos años han provocado una explosión demográfica metahumana**. 
+En un país de 2,760 kilómetros cuadrados de superficie terrestre (15,028 km² incluyendo aguas territoriales) y 1.5 millones de habitantes, la población de metahumanos ha experimentado un crecimiento exponencial. Mientras que en las décadas anteriores se estimaba en aproximadamente un centenar, **las crisis y eventos de los últimos años han provocado una explosión demográfica metahumana**. 
 
 Los registros oficiales documentan al menos **2,500 metahumanos activos**, aunque muchos expertos creen que la cifra real podría ser significativamente superior debido a:
 
@@ -163,7 +163,7 @@ La idea de los metahumanos es diferente para cada persona; unos los ven como sal
 
 O como diría un arcadio, "los pájaros vuelan, hay monstruos en las esquinas y salvadores en los cielos… así que todo va bien".
 
-En un país de **15.028 kilómetros cuadrados** y **1.5 millones de habitantes**, la población metahumana oficial supera los **375 individuos registrados**, aunque la cifra real podría ser considerablemente mayor.
+En un país de **2,760 kilómetros cuadrados de superficie terrestre** (15,028 km² total con aguas territoriales) y **1.5 millones de habitantes**, la población metahumana oficial supera los **375 individuos registrados**, aunque la cifra real podría ser considerablemente mayor.
 
 ---
 

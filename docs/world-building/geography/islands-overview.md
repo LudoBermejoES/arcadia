@@ -22,6 +22,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **La Isla Principal del Archipiélago**
 
 - **Población**: ~480,000 habitantes
+- **Superficie**: ~667 km² (la isla más grande del archipiélago)
+- **Densidad**: ~720 hab/km²
 - **Características**: La más grande y desarrollada, sede del poder político y social
 - **Distritos que alberga**:
   - [Distrito Clásico](specialized-districts.md#distrito-clasico) - Centro político y judicial
@@ -40,6 +42,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro de Síntesis Cultural**
 
 - **Población**: ~210,000 habitantes
+- **Superficie**: ~367 km²
+- **Densidad**: ~570 hab/km²
 - **Características**: Purificación y claridad, unificación cultural
 - **Distritos que alberga**:
   - [Distrito Solis](residential-districts.md#distrito-solis) - Síntesis cultural intercultural
@@ -55,6 +59,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro de Entrenamiento Volcánico**
 
 - **Población**: ~75 habitantes (personal especializado)
+- **Superficie**: ~33 km²
+- **Densidad**: ~2.3 hab/km² (muy baja por condiciones extremas)
 - **Características**: Única isla con volcán activo, muy cálida
 - **Función**: Centro de entrenamiento para metahumanos que no pueden controlar sus poderes
 
@@ -69,6 +75,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Residencias de Clase Media**
 
 - **Población**: ~195,000 habitantes
+- **Superficie**: ~367 km²
+- **Densidad**: ~525 hab/km²
 - **Características**: Centro de comunicaciones y transformación intelectual
 - **Distritos que alberga**:
   - [Distrito Mercurii](residential-districts.md#distrito-mercurii) - Profesionales y clase media
@@ -84,6 +92,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Distrito Obrero y Trabajador**
 
 - **Población**: ~180,000 habitantes
+- **Superficie**: ~367 km²
+- **Densidad**: ~495 hab/km²
 - **Características**: Símbolo del alma y la energía de los trabajadores
 - **Distritos que alberga**:
   - [Distrito Martis](residential-districts.md#distrito-martis) - Clase trabajadora e industrial
@@ -99,6 +109,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **El Distrito Natural Premium**
 
 - **Población**: ~1,200 habitantes (densidad muy baja, ultra-exclusivo)
+- **Superficie**: 47 km² (diseño paisajístico oriental)
+- **Densidad**: ~26 hab/km² (ultra-baja densidad premium)
 - **Características**: Armonía entre lo construido y lo natural
 - **Distritos que alberga**:
   - [Distrito Biónico](specialized-districts.md#distrito-bionico) - El pulmón natural de Arcadia
@@ -114,6 +126,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro Institucional**
 
 - **Población**: ~135,000 habitantes
+- **Superficie**: ~300 km²
+- **Densidad**: ~450 hab/km²
 - **Características**: Iluminación y despertar administrativo
 - **Distritos que alberga**:
   - [Distrito Iovis](residential-districts.md#distrito-iovis) - Funcionarios e instituciones
@@ -129,6 +143,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro Juvenil y Universitario**
 
 - **Población**: ~120,000 habitantes
+- **Superficie**: ~267 km²
+- **Densidad**: ~450 hab/km²
 - **Características**: Culminación de la juventud y energía creativa
 - **Distritos que alberga**:
   - [Distrito Veneris](residential-districts.md#distrito-veneris) - Juventud estudiantil
@@ -144,6 +160,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro Industrial y Tecnológico**
 
 - **Población**: ~90,000 habitantes (empleados especializados)
+- **Superficie**: ~200 km²
+- **Densidad**: ~450 hab/km²
 - **Características**: Transformación industrial y tecnológica
 - **Distritos que alberga**:
   - [Distrito Futurista](specialized-districts.md#distrito-futurista) - Rascacielos y centros corporativos
@@ -159,6 +177,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **Centro Espiritual**
 
 - **Población**: ~22,500 habitantes
+- **Superficie**: ~133 km²
+- **Densidad**: ~168 hab/km² (baja por espacios sagrados)
 - **Características**: Búsqueda espiritual interior y diversidad religiosa
 - **Distritos que alberga**:
   - [Distrito Eclesiástico](specialized-districts.md#distrito-eclesiastico) - Diversidad religiosa
@@ -174,6 +194,8 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 **La Isla Misteriosa**
 
 - **Población**: 1 habitante permanente
+- **Superficie**: ~13 km²
+- **Densidad**: 0.08 hab/km² (prácticamente deshabitada)
 - **Características**: Diminuta isla deshabitada envuelta en misterio ancestral
 - **Habitantes**:
   - **Sara Saavedra** - Farera que lleva 40 años manteniendo el faro
@@ -183,6 +205,23 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 - Solo accesible por ferry (90 minutos desde Isla Lapis)
 - Representa el enigma del eterno retorno: quienes desaparecen nunca regresan
 - Un faro solitario como única estructura permanente
+
+---
+
+## 🗺️ **ANÁLISIS TERRITORIAL**
+
+### **Distribución de Superficie:**
+- **Isla Principal**: Lapis (667 km²) - 24% del territorio total
+- **Islas Medias**: Albedo, Nigredo, Sulfuro (367 km² c/u) - 40% del territorio
+- **Islas Pequeñas**: Citrinitas (300 km²), Rubedo (267 km²), Athanor (200 km²) - 28% del territorio
+- **Islas Especializadas**: Vitriol (133 km²), Sal (47 km²), Azoge (33 km²), Ouroboros (13 km²) - 8% del territorio
+
+### **Tipos de Densidad:**
+- **Densidad Media-Alta**: Lapis (720 hab/km²) - Centro gubernamental
+- **Densidad Media**: Albedo, Nigredo, Sulfuro (495-570 hab/km²) - Zonas residenciales
+- **Densidad Media-Baja**: Citrinitas, Rubedo, Athanor (450 hab/km²) - Zonas especializadas
+- **Densidad Baja**: Vitriol (168 hab/km²), Sal (26 hab/km²) - Zonas premium/sagradas
+- **Densidad Mínima**: Azoge (2.3 hab/km²), Ouroboros (0.08 hab/km²) - Zonas especiales
 
 ---
 
@@ -223,20 +262,20 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 
 ## 📊 **DISTRIBUCIÓN POBLACIONAL**
 
-| Isla | Población | Porcentaje | Función Principal |
-|------|-----------|------------|-------------------|
-| **Lapis** | 480K | 32% | Gubernamental/Residencial |
-| **Albedo** | 210K | 14% | Cultural/Residencial |
-| **Nigredo** | 195K | 13% | Comunicaciones/Residencial |
-| **Sulfuro** | 180K | 12% | Industrial/Residencial |
-| **Citrinitas** | 135K | 9% | Institucional/Residencial |
-| **Rubedo** | 120K | 8% | Educativo/Residencial |
-| **Athanor** | 90K | 6% | Tecnológico/Industrial |
-| **Sal** | 1.2K | 0.08% | Natural/Ultra-Premium |
-| **Vitriol** | 22.5K | 1.5% | Espiritual/Religioso |
-| **Azoge** | 75 | 0.05% | Entrenamiento Especial |
-| **Ouroboros** | 1 | 0.0001% | Misterioso/Deshabitado |
-| **TOTAL** | **~1.5M** | **100%** | **Archipiélago Completo** |
+| Isla | Población | Superficie | Densidad | Función Principal |
+|------|-----------|------------|----------|-------------------|
+| **Lapis** | 480K | 667 km² | 720 hab/km² | Gubernamental/Residencial |
+| **Albedo** | 210K | 367 km² | 570 hab/km² | Cultural/Residencial |
+| **Nigredo** | 195K | 367 km² | 525 hab/km² | Comunicaciones/Residencial |
+| **Sulfuro** | 180K | 367 km² | 495 hab/km² | Industrial/Residencial |
+| **Citrinitas** | 135K | 300 km² | 450 hab/km² | Institucional/Residencial |
+| **Rubedo** | 120K | 267 km² | 450 hab/km² | Educativo/Residencial |
+| **Athanor** | 90K | 200 km² | 450 hab/km² | Tecnológico/Industrial |
+| **Vitriol** | 22.5K | 133 km² | 168 hab/km² | Espiritual/Religioso |
+| **Sal** | 1.2K | 47 km² | 26 hab/km² | Natural/Ultra-Premium |
+| **Azoge** | 75 | 33 km² | 2.3 hab/km² | Entrenamiento Especial |
+| **Ouroboros** | 1 | 13 km² | 0.08 hab/km² | Misterioso/Deshabitado |
+| **TOTAL** | **~1.5M** | **2,760 km²** | **~540 hab/km²** | **Archipiélago Completo** |
 
 ---
 

@@ -8,7 +8,7 @@ permalink: /world-building/geography/
 
 ## 🏝️ **EL ARCHIPIÉLAGO ARCADIANO**
 
-**Arcadia no es una sola isla, sino un archipiélago de 11 islas volcánicas** organizadas según principios fundamentales donde cada isla representa una fase o elemento esencial. Este complejo geográfico único alberga **1.5 millones de habitantes** distribuidos en múltiples distritos especializados.
+**Arcadia no es una sola isla, sino un archipiélago de 11 islas volcánicas** organizadas según principios fundamentales donde cada isla representa una fase o elemento esencial. Este complejo geográfico único de **2,760 km²** alberga **1.5 millones de habitantes** distribuidos en múltiples distritos especializados.
 
 ---
 

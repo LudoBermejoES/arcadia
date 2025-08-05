@@ -168,12 +168,12 @@ Una mezcolanza sin número de instituciones religiosas llenan este distrito y en
 ### 🌿 **DISTRITO BIÓNICO**
 **Armonía Perfecta con la Naturaleza**
 
-El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Ubicado en la **Isla Sal**, símbolo de la corporeidad y la fijación, representa la armonía perfecta entre lo construido y lo natural. Se considera también el pulmón de Arcadia, con una superficie de 7km².
+El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Ubicado en la **Isla Sal**, símbolo de la corporeidad y la fijación, representa la armonía perfecta entre lo construido y lo natural. Se considera también el pulmón de Arcadia, con una superficie de 47km².
 
 **Población**: ~1,200 habitantes (élite metahumana, multimillonarios, personalidades exclusivas)
 
 #### **Características Naturales:**
-- **Superficie de 7km²** - El distrito más extenso en términos de área verde
+- **Superficie de 47km²** - El distrito más extenso en términos de área verde
 - **Arquitectura oriental** - Construcciones que se integran al paisaje
 - **Adaptación natural** - Edificios que siguen las formas del terreno
 - **Biodiversidad** - Flora y fauna preservadas

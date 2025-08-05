@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>165 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>170 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -175,7 +175,12 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' },
     { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' },
     { slug: 'zambo-mambo', name: 'Zambo y Mambo', image: 'zambo-mambo.png' },
-    { slug: 'zanni', name: 'Zanni', image: 'Zanni.png' }
+    { slug: 'zanni', name: 'Zanni', image: 'Zanni.png' },
+    { slug: 'marina-sato-garcia', name: 'Marina Sato-García', image: 'marina-sato-garcia.png' },
+    { slug: 'kai-okonkwo-singh', name: 'Kai Okonkwo-Singh', image: 'kai-okonkwo-singh.png' },
+    { slug: 'elena-petrov-nielsen', name: 'Elena Petrov-Nielsen', image: 'elena-petrov-nielsen.png' },
+    { slug: 'diego-moreau-kim', name: 'Diego Moreau-Kim', image: 'diego-moreau-kim.png' },
+    { slug: 'zara-al-mahmoud-silva', name: 'Zara Al-Mahmoud-Silva', image: 'zara-al-mahmoud-silva.png' }
   ];
 
   // Create group cards

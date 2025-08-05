@@ -64,6 +64,19 @@ Tras la sesión del 3 de agosto de 2025, Eslizón tiene varias tareas y desarrol
   - Enseñar ciencias (química y física) a estudiantes universitarios
   - Mantener fuente de ingresos estable para financiar operaciones del grupo
 
+#### **👥 Estudiantes Actuales**
+Eslizón Esmeralda enseña a un grupo diverso de estudiantes arcadianos que reflejan la naturaleza multicultural de la isla:
+
+- **[Marina Sato-García](marina-sato-garcia.md)** *(20 años)* - Estudiante de Química especializada en ciencias de materiales. Herencia japonesa-española, tercera generación arcadiana. Familia con tradición en desarrollo de materiales industriales.
+
+- **[Kai Okonkwo-Singh](kai-okonkwo-singh.md)** *(19 años)* - Estudiante de Física con aplicaciones biomédicas. Herencia nigeriana-india, segunda generación arcadiana. Fascinated por la fisiología metahumana desde perspectiva científica.
+
+- **[Elena Petrov-Nielsen](elena-petrov-nielsen.md)** *(21 años)* - Estudiante de Química Física especializada en geología volcánica. Herencia rusa-danesa, cuarta generación arcadiana. Familia pionera en estudios geológicos de la isla.
+
+- **[Diego Moreau-Kim](diego-moreau-kim.md)** *(20 años)* - Estudiante de Química Ambiental con enfoque en sostenibilidad. Herencia francesa-coreana, tercera generación arcadiana. Familia estableció sistemas de agricultura sostenible.
+
+- **[Zara Al-Mahmoud-Silva](zara-al-mahmoud-silva.md)** *(22 años)* - Estudiante senior de Física Teórica especializada en fundamentos cuánticos. Herencia libanesa-brasileña, segunda generación arcadiana. Interesada en aplicar física teórica a fenómenos metahumanos.
+
 ### **🏗️ Gestión de Base Operativa**
 - **Supervisión de renovaciones**: Coordinar con equipo de Hassan (capataz de Malik)
 - **Planificación del espacio**: Decidir distribución y funcionalidad de la base renovada

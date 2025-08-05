@@ -288,6 +288,13 @@ permalink: /characters/character-list/
 - [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)
 - [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
+### Estudiantes de OMA
+- [Marina Sato-García]({{ site.baseurl }}/characters/details/marina-sato-garcia/) (estudiante de Química, especializada en ciencias de materiales)
+- [Kai Okonkwo-Singh]({{ site.baseurl }}/characters/details/kai-okonkwo-singh/) (estudiante de Física con aplicaciones biomédicas)
+- [Elena Petrov-Nielsen]({{ site.baseurl }}/characters/details/elena-petrov-nielsen/) (estudiante de Química Física, especializada en geología volcánica)
+- [Diego Moreau-Kim]({{ site.baseurl }}/characters/details/diego-moreau-kim/) (estudiante de Química Ambiental, enfoque en sostenibilidad)
+- [Zara Al-Mahmoud-Silva]({{ site.baseurl }}/characters/details/zara-al-mahmoud-silva/) (estudiante senior de Física Teórica, fundamentos cuánticos)
+
 ### Fuerzas Especiales y Militares
 - [Los Rayos]({{ site.baseurl }}/groups/los-rayos/) (fuerza militar bajo General Martínez)
 - El Oriental Tormenta

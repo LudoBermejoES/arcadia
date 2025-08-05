@@ -13,7 +13,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 🦸‍♂️ **Equipos Heroicos Principales**
 
-### **🏛️ La Familia - Los Fundadores Originales**
+### **🏛️ [La Familia](La%20familia/La%20Familia.md) - Los Fundadores Originales**
 **(2010-2015) | 6 Miembros (5 Principales + 1 Temporal)**
 
 #### **Composición Histórica:**
@@ -236,7 +236,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## ⚠️ **Amenazas Sobrenaturales**
 
-### **🐛 Los Espligan**
+### **🐛 [Los Espligan](los-espligan.md)**
 **Parásitos Temporales**
 
 #### **Naturaleza de la Amenaza:**
@@ -332,7 +332,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Programación Única:**
 - **📰 Noticias Meta**: Cobertura especializada en eventos heroicos
-- **🎮 Entretenimiento**: "Héroes o Villanos" y otros shows temáticos
+- **🎮 [Concurso Héroes o Villanos](concurso-heroes-o-villanos.md)**: Reality show que originó La Fuerza Oculta
 - **🎓 Educación**: Programas sobre convivencia meta/normal
 - **🚨 Emergencias**: Canal de comunicación en crisis
 
@@ -483,7 +483,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ## 🔍 **Navegación por Tipo**
 
 ### **🦸‍♂️ Organizaciones Heroicas**
-- **[🏛️ La Familia](../campaigns/la-familia/index.md)** - Los fundadores legendarios
+- **[🏛️ La Familia](La%20familia/La%20Familia.md)** - Los fundadores legendarios
 - **[⚡ Génesis](../campaigns/genesis/index.md)** - La generación puente
 - **[🔮 La Fuerza Oculta](../campaigns/la-fuerza-oculta/index.md)** - Los herederos actuales
 - **[🐱 La Cacería Salvaje](la-caceria-salvaje.md)** - Los vigilantes felinos del Barrio Gótico
@@ -499,7 +499,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **🏛️ Instituciones Públicas**
 - **🏛️ Gobierno de Arcadia** - Administración especializada
 - **⚖️ Tribunales Meta** - Justicia adaptada
-- **[🚨 MetaCorp](character-groups.md#metacorp)** - Policía metahumana oficial
+- **🚨 MetaCorp** - Policía metahumana oficial (ver [character-groups.md](character-groups.md#metacorp))
 - **[🤖 Ultracorps](ultracorps.md)** - División especial de MetaCorp con humanos mejorados
 - **🎓 Sistema Educativo** - Academias de entrenamiento
 

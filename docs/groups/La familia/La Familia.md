@@ -70,10 +70,17 @@ Vive una vida doble entre ser una adolescente normal (incluyendo quedadas online
 
 Tiene una conexión especial con su hermano Luis, quien también posee habilidades temporales y conocimientos médicos
 
-[Bate](La%20familia%201fe4d9bb8c068021b2c6c378c70f749a/Bate%201fe4d9bb8c0680a2833feb97ebc162e2.md)
+## Enlaces a Personajes Individuales
 
-[Atropos](La%20familia%201fe4d9bb8c068021b2c6c378c70f749a/Atropos%201fe4d9bb8c068087ad5fd81bc3aa07e5.md)
+### Fichas Principales (Detalles Completos)
+- **[Bate](../../characters/details/bate.md)** - El corazón emocional del grupo
+- **[Atropos](../../characters/details/ana-montenegro-esfinge-atropos.md)** - La manipuladora temporal
+- **[El Faraón](../../characters/details/el-faraon.md)** - El líder espiritual 
+- **[Garra](../../characters/details/garra.md)** - El estratega telequinético
+- **[Mésmero](../../characters/details/mesmero.md)** - El telepático coordinador
 
-[El faraón](La%20familia%201fe4d9bb8c068021b2c6c378c70f749a/El%20farao%CC%81n%201fe4d9bb8c06805db6f4f3349dc9c7c1.md)
-
-[Garra](La%20familia%201fe4d9bb8c068021b2c6c378c70f749a/Garra%201fe4d9bb8c068004b069d788ff80bc61.md)
+### Archivos de Grupo (Resúmenes)
+- **[Bate](Bate.md)** - Resumen del grupo
+- **[Atropos](Atropos.md)** - Resumen del grupo
+- **[El Faraón](El%20faraón.md)** - Resumen del grupo
+- **[Garra](Garra.md)** - Resumen del grupo

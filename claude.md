@@ -9,13 +9,23 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 ### 🏝️ **Arcadia: La Isla Volcánica**
 **Ubicación**: Isla volcánica en el Atlántico  
 **Naturaleza**: Nación-estado independiente con clima tropical artificial  
-**Diseño**: 7 distritos especializados diseñados por el arquitecto Marius:
+**Diseño**: 12 distritos únicos (5 especializados + 7 residenciales) diseñados por el arquitecto Marius:
+**Los 5 Distritos Especializados:**
 - **Distrito Clásico** - Centro político y administrativo
 - **Distrito Gótico** (Barrio Gótico) - Zona histórica y residencial
 - **Distrito Futurista** - Centro corporativo y tecnológico  
 - **Distrito Eclesiástico** - Área religiosa e institucional
 - **Distrito Biónico** - Zona residencial premium y natural
-- **Dos distritos adicionales** - Especializaciones complementarias
+- **Distrito Náutico** - Puerto principal y actividades marítimas
+
+**Los 7 Distritos Residenciales:**
+- **Distrito Solis** (Domingo) - Residencial tradicional y familiar
+- **Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales
+- **Distrito Martis** (Martes) - Obrero y clase trabajadora
+- **Distrito Mercurii** (Miércoles) - Clase media profesional
+- **Distrito Iovis** (Jueves) - Institucional y funcionarios
+- **Distrito Veneris** (Viernes) - Juvenil y estudiantil
+- **Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
 
 **Características Únicas**:
 - Geología volcánica con infraestructura adaptada
@@ -165,9 +175,9 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Consecuencias Duraderas**: Acciones de campañas anteriores afectan actuales
 
 ### 🌐 **Ecosistema Interconectado**
-- **160 Personajes** documentados con relaciones complejas
+- **163 Personajes** documentados con relaciones complejas
 - **50+ Organizaciones** activas con dinámicas cambiantes
-- **7 Distritos** de Arcadia con características únicas
+- **12 Distritos** de Arcadia con características únicas
 - **Múltiples Niveles** - Individual, grupal, institucional, societal
 
 ## Infraestructura Técnica
@@ -182,11 +192,11 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 
 ### 📊 **Estadísticas del Proyecto**
 - **15 años** de desarrollo continuo (2010-2025)
-- **73 sesiones** documentadas
-- **160 personajes** detallados
+- **78 sesiones** documentadas (41 La Familia + 6 Génesis + 31 La Fuerza Oculta)
+- **163 personajes** detallados
 - **50+ organizaciones** activas
 - **6 campañas** principales y especializadas
-- **7 distritos** de Arcadia completamente desarrollados
+- **12 distritos** de Arcadia completamente desarrollados
 
 ## Estructura del Contenido
 
@@ -194,10 +204,10 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **`/campaigns/`** - Sesiones organizadas por campaña
   - `/la-familia/` - 42 sesiones + resúmenes
   - `/genesis/` - 6 sesiones documentadas
-  - `/la-fuerza-oculta/` - 23 sesiones con AI notes
+  - `/la-fuerza-oculta/` - 31 sesiones (24 manuales + 7 AI notes)
   - `/hospital/` - 2 sesiones médicas
   - `/fatum/` - Documentación corporativa
-- **`/characters/`** - 160 fichas de personajes detalladas
+- **`/characters/`** - 163 fichas de personajes detalladas
 - **`/groups/`** - Organizaciones y facciones
 - **`/world-building/`** - Elementos del universo
 
@@ -316,9 +326,16 @@ permalink: /ruta-de-la-pagina/
 ### **Tareas de Mantenimiento Frecuentes**
 
 #### **Actualización de Estadísticas**
-- **Contar personajes**: Usar `find /docs/characters/details/ -name "*.md" | wc -l`
-- **Contar sesiones**: Revisar carpetas de campañas individualmente
-- **Actualizar**: Modificar `/docs/stats/index.md` y `/docs/index.md` con números actuales
+- **Contar personajes**: Usar `find /docs/characters/details/ -name "*.md" | wc -l` (163 actual)
+- **Contar sesiones**: Revisar carpetas de campañas individualmente (78 total actual)
+- **Archivos a actualizar simultáneamente**:
+  - `/docs/index.md` - Página principal con estadísticas
+  - `/docs/stats/index.md` - Página de estadísticas detalladas
+  - `/docs/characters/index.md` - Índice de personajes
+  - `/docs/characters/character-list.md` - Lista completa
+  - `/docs/all-content.md` - **REQUIERE actualización manual** (no se actualiza automáticamente)
+  - `/docs/README.md` - Documentación del repositorio
+  - `CLAUDE.md` - Este archivo de contexto
 
 #### **Gestión de Personajes**
 - **Nuevos personajes**: Crear ficha en `/docs/characters/details/` y actualizar `/docs/characters/character-list.md`
@@ -352,7 +369,7 @@ permalink: /ruta-de-la-pagina/
 #### **Timeline Crítico**
 - **2010-2015**: Era de La Familia (42 sesiones documentadas)
 - **2015-2020**: Era de Génesis (6 sesiones documentadas)  
-- **2020-2025**: Era de La Fuerza Oculta (23 sesiones documentadas)
+- **2020-2025**: Era de La Fuerza Oculta (31 sesiones documentadas: 24 manuales + 7 AI)
 - **Eventos Clave**: Atentado Freiglasung (2015), establecimiento de La Cacería Salvaje
 
 #### **Relaciones Generacionales**
@@ -366,17 +383,38 @@ permalink: /ruta-de-la-pagina/
 - **Continuidad familiar**: Relaciones padre-hijo, mentor-estudiante entre personajes
 - **Crecimiento orgánico**: El universo evoluciona naturalmente sin planificación previa
 
+### **Actualizaciones Recientes (Agosto 2025)**
+
+#### **Reorganización de Galería de Personajes**
+- **`/docs/characters/gallery.md`** - Reorganizada en 14 categorías temáticas
+- **Nueva categoría**: "Participantes de Héroes o Villanos" para concursantes del reality show
+- **Recategorización**: Múltiples personajes reclasificados de "independientes" y "civiles"
+- **Verificación de imágenes**: Añadidas secciones de foto faltantes en archivos de detalles
+
+#### **Actualizaciones Geográficas**
+- **Sistema de distritos clarificado**: 12 distritos totales (5 especializados + 7 residenciales)
+- **Nuevo Distrito Náutico**: Documentado como sexto distrito especializado
+- **Mapas interactivos**: Disponibles para Distrito Martis y Distrito Iovis
+
+#### **Estado Actual de Sesiones (Agosto 2025)**
+- **La Fuerza Oculta**: 24 sesiones manuales documentadas (hasta session-26-2025-08-03)
+- **AI Notes**: 7 transcripciones automáticas con Gemini (hasta 2025-08-03)
+- **Total actual**: 78 sesiones documentadas en todo el proyecto
+
 ### **Recursos y Referencias**
 
 #### **Para Consultas Rápidas**
 - **Lista completa de personajes**: `/docs/characters/character-list.md`
+- **Galería de personajes**: `/docs/characters/gallery.md` - Organizada por categorías
 - **Estadísticas actuales**: `/docs/stats/index.md`  
 - **Grupos organizados**: `/docs/groups/character-groups.md`
 - **Geografia de Arcadia**: `/docs/world-building/geography/arcadia-geography.md`
+- **Índice completo**: `/docs/all-content.md` - Navegación exhaustiva (requiere actualización manual)
 
 #### **Para Contexto Histórico**
 - **Ambientación general**: `/docs/world-building/ambientacion.md`
 - **Historia de campañas**: `/docs/campaigns/` (carpetas individuales)
+- **Historial de cambios**: `/docs/historial.md` - Registro cronológico de modificaciones
 - **Evolución del proyecto**: Revisar fechas en front matter de archivos más antiguos
 
 ---

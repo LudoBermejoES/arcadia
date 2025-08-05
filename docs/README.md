@@ -21,7 +21,7 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 - **📋 Transcripciones Completas** - Sesiones grabadas con timestamps
 - **🤖 Notas con IA** - Análisis automáticos con Gemini
 - **📊 Resúmenes Narrativos** - Análisis profundos de cada sesión
-- **👥 Base de Datos de Personajes** - 156 personajes únicos documentados
+- **👥 Base de Datos de Personajes** - 163 personajes únicos documentados
 - **🌍 Worldbuilding** - El universo de Arcadia completo
 - **🏛️ Historia y Geografia** - Cronología detallada y mapas de Arcadia
 
@@ -44,11 +44,11 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 
 - **⏱️ Duración**: 15 años activos (2010-2025)
 - **🎲 Sesiones**: 100+ documentadas
-- **👥 Personajes**: 156 personajes únicos
+- **👥 Personajes**: 163 personajes únicos
 - **🎭 Jugadores**: 8 participantes únicos
 - **📝 Contenido**: Miles de páginas de documentación
 - **🎵 Audio**: Decenas de horas grabadas
-- **🌍 Ubicaciones**: 7 distritos de Arcadia completamente desarrollados
+- **🌍 Ubicaciones**: 12 distritos de Arcadia completamente desarrollados
 
 ## 🎯 Navegación del Archivo
 
@@ -63,11 +63,11 @@ docs/
 │       ├── ai-notes/       # Transcripciones automáticas
 │       └── ai-notes-summary/ # Resúmenes analíticos
 ├── characters/             # Base de datos de personajes
-│   ├── details/           # 156 fichas individuales
+│   ├── details/           # 163 fichas individuales
 │   ├── gallery.md         # Galería visual
 │   └── character-list.md  # Lista completa
 ├── world-building/         # Universo de Arcadia
-│   ├── geography/         # Los 7 distritos
+│   ├── geography/         # Los 12 distritos
 │   └── history/           # Cronología detallada
 ├── groups/                # Organizaciones y facciones
 ├── _config.yml            # Configuración Jekyll

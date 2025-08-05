@@ -114,7 +114,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
   - **Diana**: Expandida información de trasfondo Fatum, hija de Cloris, criada por Janus
 
 #### **📊 Actualización de Estadísticas**
-- **Conteo preciso de personajes**: Actualizado de "200+" a "151 personajes únicos" basado en archivos reales
+- **Conteo preciso de personajes**: Actualizado de "200+" a "163 personajes únicos" basado en archivos reales
 - **Eliminación de duplicados**: Removido El Faraón duplicado de sección "Figuras Misteriosas"
 - **Verificación de coherencia**: Confirmada exactitud entre archivos de resumen y fichas detalladas
 
@@ -377,4 +377,98 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 *Este historial se actualiza automáticamente con cada cambio significativo en el sitio. Para ver cambios técnicos detallados, consulta el [repositorio de GitHub](https://github.com/LudoBermejoES/arcadia).*
 
-**Última actualización del historial**: 03 de Agosto de 2025 - 15:40
+---
+
+## 📅 **Agosto 2025**
+
+### **05 de Agosto de 2025**
+
+#### **🎨 Reorganización Masiva de la Galería de Personajes**
+- **Transformación estructural completa** - Reorganización de la galería de personajes desde lista única a 14 categorías temáticas:
+  - **Protagonistas**: Personajes principales de campañas (ordenados alfabéticamente)
+  - **Héroes**: Metahumanos heroicos y vigilantes
+  - **Villanos**: Antagonistas y criminales organizados
+  - **Estudiantes**: Personajes en formación académica
+  - **Metacorps**: Empleados y asociados de corporaciones metahumanas
+  - **Periodistas**: Profesionales de medios de comunicación
+  - **Médicos**: Personal sanitario especializado
+  - **Profesionales**: Expertos técnicos y especialistas
+  - **Independientes**: Personajes sin afiliación específica
+  - **Políticos**: Figuras del gobierno y la administración
+  - **Militares**: Personal de fuerzas armadas y seguridad
+  - **Civiles**: Ciudadanos ordinarios sin poderes
+  - **Participantes de Héroes o Villanos**: Concursantes del reality show original
+  - **Otros**: Personajes de clasificación especial
+
+#### **🔄 Recategorización Sistemática de Personajes**
+- **Revisión completa de independientes** - Análisis individual de 15+ personajes para reclasificación apropiada:
+  - **Mateo Shu** y **Cacharrero**: Movidos a Profesionales (especialistas técnicos)
+  - **Amira Roxana**: Reclasificada apropiadamente según su rol
+  - **Roberto McKomick**: Reubicado según su función actual
+- **Auditoría de civiles** - Identificación y reubicación de personajes con poderes mal clasificados:
+  - Múltiples personajes con habilidades metahumanas movidos a categorías apropiadas
+  - Corrección de clasificaciones erróneas de años anteriores
+
+#### **🎭 Nueva Categoría: Participantes de Héroes o Villanos**
+- **Creación de categoría especializada** - Documentación de concursantes del reality show original:
+  - Basada en información del archivo `concurso-heroes-o-villanos.md`
+  - Exclusión correcta de grupos activos como La Fuerza Oculta
+  - Reconocimiento de participantes históricos del programa televisivo
+
+#### **📸 Gestión Integral de Imágenes de Personajes**
+- **Verificación sistemática de imágenes** - Revisión completa de assets visuales:
+  - Confirmación de existencia de archivos de imagen específicos
+  - Adición de secciones de foto faltantes en archivos de detalles
+  - Actualización de múltiples personajes con formato estándar de imagen Jekyll
+- **Personajes actualizados con imágenes**:
+  - **Anarquista**, **Alfonso XIII**, **Antonio Calvero**, **Anianca**, **Alonso Dossantos**
+  - **Las Hermanas Magdalena** y otros personajes identificados sin sección de foto
+
+#### **🔍 Identificación y Adición de Personajes Faltantes**
+- **Auditoría completa de personajes** - Comparación sistemática entre galería y archivos de detalles:
+  - **Las Hermanas Magdalena**: Personajes encontrados y añadidos a la galería
+  - **Felipe Álvarez**, **Ignacio Rodríguez**, **Juan Guzmán**: Personajes adicionales incorporados
+  - **La Desconocida**, **Nicolás Cifuentes**, **Jane Irinar**: Personajes identificados y categorizados
+
+#### **✨ Mejora de Perfil: Alonso Dossantos**
+- **Expansión completa de personaje** - Transformación de descripción básica a perfil detallado:
+  - Desarrollo como director de **"La Primera Orquesta Clásica Metahumana"**
+  - Información detallada sobre innovaciones musicales y impacto cultural
+  - Expansión de trasfondo profesional y contribuciones artísticas
+  - Modelo de mejora para futuros desarrollos de personajes
+
+#### **🔧 Optimizaciones Técnicas**
+- **JavaScript de galería actualizado** - Migración de array simple a objeto categorizado:
+  - Implementación de `characterCategories` con ordenación alfabética automática
+  - Generación dinámica de secciones de galería por categoría
+  - Mantenimiento de compatibilidad con Masonry layout
+- **Estructura HTML mejorada** - Secciones categorizadas con estilos distintivos:
+  - Headers de categoría con gradientes de color
+  - Organización visual clara para navegación mejorada
+
+#### **🗺️ Actualización Mayor de Geografía de Arcadia**
+- **Expansión del sistema de distritos** - Documentación completa de los 7 distritos residenciales:
+  - **Distrito Náutico**: Nuevo distrito marítimo con puerto principal y actividades acuáticas
+  - **Distrito Clásico**: Documentación ampliada del centro administrativo y gubernamental
+  - **Distrito Gótico (Barrio Gótico)**: Información detallada de la zona histórica y sobrenatural
+  - **Distrito Futurista**: Actualización del centro corporativo y tecnológico
+  - **Distrito Eclesiástico**: Expansión de la zona religiosa e institucional
+  - **Distrito Biónico**: Mejora de documentación del área residencial premium
+  - **Los 7 Distritos Residenciales**: Confirmación y organización de distritos habitacionales
+
+#### **🏛️ Corrección de Información Histórica**
+- **Sistema de distritos clarificado** - Corrección de inconsistencias sobre el número total de distritos:
+  - Confirmación de **12 distritos únicos totales** (5 especializados + 7 residenciales)
+  - Eliminación de referencias obsoletas a "7 distritos totales"
+  - Actualización de múltiples archivos de geografía para coherencia
+- **Enlaces de navegación actualizados** - Mejora de la interconexión entre páginas geográficas
+
+#### **📊 Estadísticas de Reorganización**
+- **14 categorías temáticas** creadas desde sección única original
+- **163 personajes** reorganizados sistemáticamente
+- **10+ personajes** recategorizados por primera vez
+- **4 personajes faltantes** identificados y añadidos
+- **8+ archivos de detalles** actualizados con secciones de imagen
+- **6+ archivos de geografía** actualizados con información de distritos
+
+**Última actualización del historial**: 05 de Agosto de 2025 - 18:30

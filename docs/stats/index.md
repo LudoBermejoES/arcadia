@@ -22,7 +22,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 </div>
 
 <div class="stat-highlight">
-<span class="stat-big">165</span>
+<span class="stat-big">163</span>
 <span class="stat-label">Personajes Detallados</span>
 </div>
 
@@ -42,7 +42,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ## 🦸‍♂️ **Estadísticas de Personajes**
 
 ### **📋 Archivo de Personajes**
-- **Total de Personajes Documentados**: 165 fichas completas
+- **Total de Personajes Documentados**: 163 fichas completas
 - **Personajes con Imágenes**: 78 retratos únicos
 - **Cobertura Visual**: 48.75% de personajes ilustrados
 - **Líneas de Documentación**: 281 líneas en el índice principal
@@ -191,7 +191,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ### **📖 Documentación del Mundo: 13 archivos especializados**
 
 #### **🏛️ Geografía de Arcadia**
-- **Distritos Documentados**: 7 distritos únicos completamente detallados
+- **Distritos Documentados**: 12 distritos únicos completamente detallados
 - **Barrio Gótico**: Archivo dedicado de 500+ líneas
 - **Subciudad**: Red subterránea completa documentada
 - **Ubicaciones Especiales**: 25+ lugares únicos registrados
@@ -254,7 +254,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ### **📊 Records de Continuidad**
 - **15 Años Ininterrumpidos**: Sin interrupciones en la narrativa
 - **3 Generaciones Heroicas**: Evolución narrativa documentada
-- **165 Personajes**: Uno de los mayores elencos documentados
+- **163 Personajes**: Uno de los mayores elencos documentados
 - **73 Sesiones**: Registro completo de adventures épicas
 
 ### **🎯 Innovaciones Narrativas**
@@ -370,4 +370,4 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ---
 
-*Proyecto Arcadia © 2010-2025 | Documentación generada automáticamente | Actualización continua*
+*Proyecto Arcadia © 2010-2025 | Documentación generada automáticamente | Última actualización: 5 de agosto de 2025*

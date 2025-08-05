@@ -34,16 +34,16 @@ permalink: /all-content/
 
 #### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2020-2025)
 
-**Notas Manuales (23 Sesiones):**
+**Notas Manuales (24 Sesiones):**
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02/) | [Sesión 03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-03/) | [Sesión 04]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-04/) | [Sesión 05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-05/)
 - [Sesión 06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-06/) | [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07/) | [Sesión 08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-08/) | [Sesión 09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-09/) | [Sesión 10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-10/)
 - [Sesión 11]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-11/) | [Sesión 12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-12/) | [Sesión 13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-13/) | [Sesión 14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-14/) | [Sesión 15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-15/)
 - [Sesión 16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-16/) | [Sesión 17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-17/) | [Sesión 18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-18/) | [Sesión 20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20/) | [Sesión 21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-21/)
-- [Sesión 22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22/) | [Sesión 23]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-23/) | [Sesión 24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24/)
+- [Sesión 22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22/) | [Sesión 23]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-23/) | [Sesión 24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24/) | [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25/) | [Sesión 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26/)
 
-**Notas con IA (5 Transcripciones Gemini):**
-- [15 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/) | [22 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/) | [29 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-29-gemini-notes/)
-- [6 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/) | [13 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/) | [20 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/)
+**Notas con IA (7 Transcripciones Gemini):**
+- [15 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/) | [22 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/) | [6 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/) | [13 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/)
+- [20 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) | [28 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/) | [3 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
 
 **Resúmenes Analíticos (5 Análisis Profundos):**
 - [Análisis 15/06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-15-gemini-notes/) | [Análisis 22/06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-22-gemini-notes/) | [Análisis 6/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-06-gemini-notes/)
@@ -141,7 +141,7 @@ permalink: /all-content/
 ### **[Ambientación General]({{ site.baseurl }}/world-building/ambientacion/)**
 
 ### **🗺️ Geografía**
-- **[Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)** - El archipiélago de 11 islas volcánicas
+- **[Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)** - La isla volcánica con 12 distritos únicos
 
 ### **📚 Historia Cronológica**
 - **[Visión General]({{ site.baseurl }}/world-building/history/history-overview/)**
@@ -172,7 +172,7 @@ permalink: /all-content/
 ### **📅 Por Cronología**
 - **2010-2015**: Era de La Familia (41 sesiones)
 - **2015-2020**: Era de Génesis (6 sesiones + solapamiento)
-- **2020-2025**: Era de La Fuerza Oculta (28+ sesiones)
+- **2020-2025**: Era de La Fuerza Oculta (31 sesiones: 24 manuales + 7 IA)
 - **Especiales**: Hospital, Fatum y otros
 
 ### **🎭 Por Temas**
@@ -217,6 +217,10 @@ Todos los enlaces están optimizados para navegación móvil. El sitio es comple
 
 ---
 
-*Este índice garantiza que cada archivo, personaje, sesión y elemento del universo de Arcadia sea completamente accesible desde cualquier punto del sitio. Con más de 200 archivos documentados, represents the most comprehensive RPG archive ever created.*
+*Este índice garantiza que cada archivo, personaje, sesión y elemento del universo de Arcadia sea completamente accesible desde cualquier punto del sitio. Con más de 200 archivos documentados, representa el archivo de RPG más completo jamás creado.*
 
 **🎲 ¡Explora 15 años de aventuras épicas navegando por cualquiera de los enlaces anteriores!**
+
+---
+
+*Última actualización del índice: 5 de agosto de 2025*

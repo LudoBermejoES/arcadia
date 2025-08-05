@@ -143,7 +143,7 @@ En 1985 se descubrió un enorme yacimiento de silicio en el suelo de la isla, lo
 
 El desarrollo ha traído consigo espionaje industrial, raptos de "cerebros" e incluso asesinatos. Han surgido grupos criminales que venden sus "servicios" a empresas sin escrúpulos, incluyendo criminales metahumanos que trabajan indirectamente para multinacionales.
 
-En un país de 15.028 kilómetros cuadrados de superficie y más de diez millones de habitantes, la población de metahumanos ha experimentado un crecimiento exponencial. Mientras que en las décadas anteriores se estimaba en aproximadamente un centenar, **las crisis y eventos de los últimos años han provocado una explosión demográfica metahumana**. 
+En un país de 15.028 kilómetros cuadrados de superficie y 1.5 millones de habitantes, la población de metahumanos ha experimentado un crecimiento exponencial. Mientras que en las décadas anteriores se estimaba en aproximadamente un centenar, **las crisis y eventos de los últimos años han provocado una explosión demográfica metahumana**. 
 
 Los registros oficiales documentan al menos **2,500 metahumanos activos**, aunque muchos expertos creen que la cifra real podría ser significativamente superior debido a:
 
@@ -163,7 +163,7 @@ La idea de los metahumanos es diferente para cada persona; unos los ven como sal
 
 O como diría un arcadio, "los pájaros vuelan, hay monstruos en las esquinas y salvadores en los cielos… así que todo va bien".
 
-En un país de **15.028 kilómetros cuadrados** y más de **diez millones de habitantes**, la población metahumana oficial supera los **2,500 individuos registrados**, aunque la cifra real podría ser considerablemente mayor.
+En un país de **15.028 kilómetros cuadrados** y **1.5 millones de habitantes**, la población metahumana oficial supera los **375 individuos registrados**, aunque la cifra real podría ser considerablemente mayor.
 
 ---
 
@@ -303,10 +303,10 @@ Distrito residencial tradicional y familiar, **significativamente reducido por l
 Distrito residencial de servicios sanitarios, **parcialmente absorbido por expansión gótica**. Población: ~900,000 habitantes (reducida desde ~1.1 millones).
 
 ### [Distrito Martis (Martes)](geography/distrito-martis/)
-Distrito residencial obrero, vivienda social de calidad para la clase trabajadora. Población: ~1.2 millones de habitantes.
+Distrito residencial obrero, vivienda social de calidad para la clase trabajadora. Población: ~180,000 habitantes.
 
 ### Distrito Mercurii (Miércoles)
-Distrito residencial de clase media, servicios educativos avanzados para profesionales. Población: ~1.3 millones de habitantes.
+Distrito residencial de clase media, servicios educativos avanzados para profesionales. Población: ~195,000 habitantes.
 
 ### [Distrito Iovis (Jueves)](geography/distrito-iovis/)
 Distrito residencial institucional, vivienda funcionarial y servicios públicos de calidad. Población: ~900,000 habitantes.
@@ -317,7 +317,7 @@ Distrito residencial juvenil y estudiantil, servicios para población universita
 ### Distrito Saturni (Sábado)
 Distrito residencial de servicios de seguridad y emergencias, **integrado progresivamente al ecosistema gótico**. Población: ~550,000 habitantes (reducida desde ~700,000).
 
-**Población total de los distritos residenciales: ~6.8 millones de habitantes**
+**Población total de los distritos residenciales: ~1,020,000 habitantes**
 *(Reducción debido a la expansión orgánica del Distrito Gótico)*
 
 ### La Subciudad

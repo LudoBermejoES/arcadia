@@ -55,11 +55,11 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **La Isla Volcánica Única**
 **Ubicación**: Atlántico, nación-estado independiente  
-**Diseño**: 13 distritos únicos (6 especializados + 7 residenciales)  
+**Diseño**: 12 distritos únicos (5 especializados + 7 residenciales)  
 **Clima**: Tropical artificialmente mantenido  
 **Población**: 1.5 millones de habitantes, la comunidad metahumana más grande del mundo  
 
-### **Los Seis Distritos Especializados de Marius**
+### **Los Cinco Distritos Especializados de Marius**
 - **🏛️ [Distrito Clásico]({{ site.baseurl }}/world-building/distrito-clasico/)** - Centro político, religioso y judicial
 - **🏰 [Distrito Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)** - Distrito viviente que crece orgánicamente, territorio de [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje)
 - **🌆 Distrito Futurista** - Centro corporativo y tecnológico con rascacielos
@@ -130,7 +130,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">13</span>
+<span class="stat-number">12</span>
 <span class="stat-label">Distritos Únicos</span>
 </div>
 </div>

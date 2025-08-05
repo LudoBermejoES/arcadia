@@ -396,7 +396,7 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 
 ### Características Principales
 
-- **Población**: ~1.2 millones de habitantes
+- **Población**: ~180,000 habitantes
 - **Enfoque**: Vivienda social, servicios laborales
 - **Servicios**: Guarderías públicas, centros de formación profesional, comedores sociales
 - **Instituciones**: Central Sindical, Escuelas Técnicas, Cooperativas de Trabajadores

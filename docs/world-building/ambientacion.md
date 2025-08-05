@@ -284,7 +284,7 @@ Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron d
 Pese a lo que pudiera parecer, Marius era un devoto cristiano. En su diseño original de la ciudad incluyó este pequeño distrito, de apenas doce manzanas, donde el estado tiene la obligación de recoger todas las religiones. Una mezcolanza sin número de instituciones religiosas llenan este distrito y en numerosas ocasiones se han producido altercados sin demasiada importancia.
 
 ### Distrito Biónico
-El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 7km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro del distrito gótico.
+El Distrito Natural, creado tomando como referencia las construcciones orientales que se adaptan a la naturaleza. Se considera también el pulmón de Arcadia, con una superficie de 47km². El precio de la vivienda en este distrito es el más alto de toda Arcadia, costando hasta siete veces el valor de los precios por metro del distrito gótico.
 
 ### Distrito Naútico
 También conocido como Distrito Oriental, es el corazón marítimo e industrial de Arcadia. Quince manzanas dedicadas a astilleros, comercio marítimo e industria naval, intercaladas con una compleja red de canales que integran el agua de mar en la vida urbana. Su sistema de canales inteligentes cuenta con compuertas automatizadas y filtros especiales que limpian las aguas antes de devolverlas al océano. La concentración histórica de población asiática le ha dado su nombre alternativo y una identidad cultural distintiva.

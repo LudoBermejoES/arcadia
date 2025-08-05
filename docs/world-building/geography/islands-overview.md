@@ -117,7 +117,7 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 
 **Particularidades**:
 - Precios de vivienda más altos del archipiélago (7x barrio gótico)
-- Superficie de 7km² de diseño paisajístico oriental
+- Superficie de 47km² de diseño paisajístico oriental
 - Construcciones que se adaptan completamente a la naturaleza
 
 ---

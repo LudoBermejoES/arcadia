@@ -57,7 +57,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 **Ubicación**: Atlántico, nación-estado independiente  
 **Diseño**: 13 distritos únicos (6 especializados + 7 residenciales)  
 **Clima**: Tropical artificialmente mantenido  
-**Población**: Más de 10 millones de habitantes, la comunidad metahumana más grande del mundo  
+**Población**: 1.5 millones de habitantes, la comunidad metahumana más grande del mundo  
 
 ### **Los Seis Distritos Especializados de Marius**
 - **🏛️ [Distrito Clásico]({{ site.baseurl }}/world-building/distrito-clasico/)** - Centro político, religioso y judicial
@@ -70,9 +70,9 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 ### **Los Siete Distritos Residenciales**
 - **☀️ Distrito Solis** (Domingo) - Residencial tradicional y familiar
 - **🌙 Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales
-- **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/arcadia-geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
+- **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
 - **💼 Distrito Mercurii** (Miércoles) - Residencial de clase media profesional
-- **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/arcadia-geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
+- **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
 - **💕 Distrito Veneris** (Viernes) - Distrito juvenil y estudiantil
 - **🛡️ Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
 

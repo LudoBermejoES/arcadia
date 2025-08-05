@@ -7,7 +7,7 @@ permalink: /world-building/barrio-gotico/
 # El Barrio Gótico (Distrito Gótico)
 ## El Corazón Místico y Viviente de Arcadia
 
-[← Volver a Geografía de Arcadia](arcadia-geography/)
+[← Volver a Geografía de Arcadia](index.md)
 
 ---
 
@@ -393,7 +393,7 @@ El Barrio Gótico representa mucho más que un distrito residencial:
 
 ## 🔗 **Enlaces Relacionados**
 
-- **[Geografía General de Arcadia](../arcadia-geography/)** - Contexto de todos los distritos
+- **[Geografía General de Arcadia](index.md)** - Contexto de todos los distritos
 - **[La Cacería Salvaje](../../groups/la-caceria-salvaje)** - Vigilantes del distrito
 - **[La Familia](../../campaigns/la-familia/)** - Historia de los héroes fundacionales
 - **[Ambientación de Arcadia](../ambientacion/)** - Historia general de la isla

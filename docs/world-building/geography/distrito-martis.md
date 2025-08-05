@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Distrito Martis - Mapa Interactivo"
-permalink: /world-building/arcadia-geography/distrito-martis/
+permalink: /world-building/geography/distrito-martis/
 ---
 
 # Distrito Martis
@@ -410,7 +410,7 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 
 ### Enlaces Relacionados
 
-- [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/arcadia-geography/)
+- [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)
 - [Distrito Solis]({{ site.baseurl }}/world-building/geography/distrito-solis/)
 - [Distrito Lunae]({{ site.baseurl }}/world-building/geography/distrito-lunae/)
 

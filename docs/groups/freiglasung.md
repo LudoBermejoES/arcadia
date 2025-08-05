@@ -307,4 +307,4 @@ permalink: /groups/freiglasung/
 - **[Humanitas]({{ site.baseurl }}/groups/humanitas/)** - Su partido político matriz
 - **[La Familia]({{ site.baseurl }}/campaigns/la-familia/)** - Los héroes que los desenmascararon
 - **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Herederos del mundo post-Freiglasung
-- **[Geografía Subterránea]({{ site.baseurl }}/world-building/geography/arcadia-geography/#la-subciudad-el-mundo-subterráneo-de-arcadia)** - Ruinas de sus atentados
+- **[Geografía Subterránea]({{ site.baseurl }}/world-building/geography/infrastructure/#la-subciudad-el-mundo-subterráneo-de-arcadia)** - Ruinas de sus atentados

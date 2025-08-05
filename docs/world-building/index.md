@@ -26,7 +26,7 @@ El documento fundacional que establece el tono, estilo y reglas básicas del uni
 
 ## 🗺️ **Geografía del Mundo**
 
-### **🏝️ [Geografía de Arcadia]({{ site.baseurl }}/world-building/arcadia-geography/)**
+### **🏝️ [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)**
 **La Isla Volcánica Extraordinaria**
 
 Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlántico, creada por fuerzas que trascienden la geología normal:
@@ -274,7 +274,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ## 🔍 **Navegación Temática**
 
 ### **🗺️ Por Aspecto del Mundo**
-- **[🏝️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico y subterráneo
+- **[🏝️ Geografía]({{ site.baseurl }}/world-building/geography/)** - El mundo físico y subterráneo
 - **[📚 Historia]({{ site.baseurl }}/world-building/history-overview/)** - El pasado que define el presente
 - **[👥 Sociedad]({{ site.baseurl }}/world-building/arcadia-society/)** - Cómo viven los arcadianos
 - **[💰 Economía]({{ site.baseurl }}/world-building/arcadia-economy/)** - El sistema financiero único
@@ -298,7 +298,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
 ### **🚀 Enlaces Rápidos**
 - **[🎭 Ambientación]({{ site.baseurl }}/world-building/ambientacion/)** - Introducción al universo
-- **[🗺️ Geografía]({{ site.baseurl }}/world-building/arcadia-geography/)** - El mundo físico
+- **[🗺️ Geografía]({{ site.baseurl }}/world-building/geography/)** - El mundo físico
 - **[📚 Historia]({{ site.baseurl }}/world-building/history-overview/)** - Cronología completa
 - **[👥 Sociedad]({{ site.baseurl }}/world-building/arcadia-society/)** - Estructura social
 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Distrito Iovis - Mapa Interactivo"
-permalink: /world-building/arcadia-geography/distrito-iovis/
+permalink: /world-building/geography/distrito-iovis/
 ---
 
 # Distrito Iovis
@@ -407,7 +407,7 @@ El **Distrito Iovis** es el distrito residencial institucional de Arcadia, donde
 
 ### Enlaces Relacionados
 
-- [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/arcadia-geography/)
+- [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)
 - [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)
 - [Distrito Solis]({{ site.baseurl }}/world-building/geography/distrito-solis/)
 

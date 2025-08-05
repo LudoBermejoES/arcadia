@@ -145,7 +145,7 @@ Como alcalde afrodescendiente en una sociedad diversa, Chalá representa:
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/) - Su predecesor
 - [Bailarina]({{ site.baseurl }}/characters/details/bailarina/) - Héroe que asistió durante crisis
 - [Gobierno de Arcadia]({{ site.baseurl }}/world-building/society/arcadia-society/)
-- [Distrito Biónico]({{ site.baseurl }}/world-building/geography/arcadia-geography/)
+- [Distrito Biónico]({{ site.baseurl }}/world-building/geography/)
 
 ---
 

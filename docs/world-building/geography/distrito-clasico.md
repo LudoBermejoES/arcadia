@@ -7,7 +7,7 @@ permalink: /world-building/distrito-clasico/
 # El Distrito Clásico (Distrito Central)
 ## El Corazón Político y Cultural de Arcadia
 
-[← Volver a Geografía de Arcadia](arcadia-geography/)
+[← Volver a Geografía de Arcadia](index.md)
 
 ---
 
@@ -378,7 +378,7 @@ El Distrito Clásico representa mucho más que el centro administrativo de Arcad
 
 ## 🔗 **Enlaces Relacionados**
 
-- **[Geografía General de Arcadia](../arcadia-geography/)** - Contexto de todos los distritos
+- **[Geografía General de Arcadia](index.md)** - Contexto de todos los distritos
 - **[Barrio Gótico](../barrio-gotico/)** - Distrito residencial metahumano
 - **[La Subciudad](../subciudad/)** - Mundo subterráneo de Arcadia
 - **[La Familia](../../campaigns/la-familia/)** - Los héroes que defendieron el museo

@@ -7,7 +7,7 @@ permalink: /world-building/subciudad/
 # La Subciudad
 ## El Mundo Subterráneo de Arcadia
 
-[← Volver a Geografía de Arcadia](arcadia-geography/)
+[← Volver a Geografía de Arcadia](index.md)
 
 ---
 
@@ -355,7 +355,7 @@ La Subciudad ha desarrollado un sistema de vida independiente de la superficie:
 
 ## 🔗 **Enlaces Relacionados**
 
-- **[Geografía General de Arcadia](../arcadia-geography/)** - Contexto de la superficie
+- **[Geografía General de Arcadia](index.md)** - Contexto de la superficie
 - **[Barrio Gótico](../barrio-gotico/)** - Distrito con mayor conexión subterránea
 - **[Telaraña](../../groups/character-groups/#telaraña)** - Organización criminal dominante
 - **[La Cacería Salvaje](../../groups/la-caceria-salvaje/)** - Vigilantes subterráneos

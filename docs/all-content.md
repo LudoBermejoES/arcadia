@@ -141,7 +141,7 @@ permalink: /all-content/
 ### **[Ambientación General]({{ site.baseurl }}/world-building/ambientacion/)**
 
 ### **🗺️ Geografía**
-- **[Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/arcadia-geography/)** - La isla volcánica completa
+- **[Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)** - El archipiélago de 11 islas volcánicas
 
 ### **📚 Historia Cronológica**
 - **[Visión General]({{ site.baseurl }}/world-building/history/history-overview/)**

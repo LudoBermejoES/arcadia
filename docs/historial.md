@@ -79,7 +79,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Documentación completa de distritos** - Actualización integral del sistema geográfico:
   - **index.md**: Cambiado de "7 distritos" a "12 distritos únicos (5 especializados + 7 residenciales)"
   - **ambientacion.md**: Añadidos enlaces a mapas interactivos disponibles
-  - **arcadia-geography.md**: Enlace al nuevo distrito Iovis
+  - **geography/index.md**: Enlace al nuevo distrito Iovis
   - **distrito-iovis.md**: Página completa con mapa interactivo y información institucional
 
 #### **🏛️ Los 7 Distritos Residenciales Documentados**

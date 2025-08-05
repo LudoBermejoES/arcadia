@@ -284,12 +284,14 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     periodistas: [
+      { slug: 'magdalena', name: 'Magdalena Agapé', image: 'Magdalena.png' },
       { slug: 'ricky-sataka', name: 'Ricky Sataka', image: 'ricky-sataka.png' },
       { slug: 'trifasico', name: 'Trifásico', image: 'trifasico.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     medicos: [
       { slug: 'doctor-anselmo', name: 'Doctor Anselmo', image: 'doctor-anselmo.png' },
+      { slug: 'felipe-alvarez', name: 'Felipe Álvarez', image: 'felipe-alvarez.png' },
       { slug: 'luis-montenegro', name: 'Luis Montenegro', image: 'Luis Montenegro.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
@@ -299,7 +301,8 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     militares: [
-      { slug: 'general-martinez', name: 'General Martínez', image: 'general-martinez.png' }
+      { slug: 'general-martinez', name: 'General Martínez', image: 'general-martinez.png' },
+      { slug: 'ignacio-rodriguez', name: 'Ignacio Rodríguez', image: 'ignacio-rodriguez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     profesionales: [
@@ -318,6 +321,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'francisco-franco', name: 'Francisco Franco', image: 'francisco-franco.png' },
       { slug: 'john-f-kennedy', name: 'John F. Kennedy', image: 'john-f-kennedy.png' },
       { slug: 'jruschov', name: 'Jruschov', image: 'Jruschov.png' },
+      { slug: 'juan-guzman', name: 'Juan Guzmán', image: 'juan-guzman.png' },
       { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
       { slug: 'primo-de-rivera', name: 'Primo de Rivera', image: 'primo-de-rivera.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),

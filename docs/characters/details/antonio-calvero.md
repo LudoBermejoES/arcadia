@@ -7,6 +7,10 @@ slug: antonio-calvero
 
 # Antonio Calvero
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/antonio-calvero.png" alt="Antonio Calvero" />
+</div>
+
 ## Presentación
 
 Antonio Calvero fue el líder de la Nueva Izquierda en Arcadia y protagonista del primer conflicto armado de la ciudad. Su fallido golpe de estado en 1939 marcó un momento decisivo en la historia temprana de Arcadia y demostró el poder tecnológico de Marius Fernández.

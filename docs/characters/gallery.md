@@ -188,7 +188,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'gusto', name: 'Gusto', image: 'Gusto.png' },
       { slug: 'la-sombra', name: 'La Sombra', image: 'La Sombra.png' },
       { slug: 'leon-federico', name: 'León Federico', image: 'leon-federico.png' },
-      { slug: 'lucifer-hero', name: 'Lucifer', image: 'lucifer-hero.png' },
+      { slug: 'lucifer-hero', name: 'Lucifer', image: 'Lucifer.png' },
       { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
       { slug: 'neon', name: 'Neón', image: 'Neon.png' },
       { slug: 'nube', name: 'Nube', image: 'Nube.png' },
@@ -296,7 +296,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     historicos: [
       { slug: 'alberto-alvarez', name: 'Alberto Álvarez', image: 'alberto-alvarez.png' },
-      { slug: 'alfonso-xiii', name: 'Alfonso XIII', image: 'Alfonso Montenegro.png' },
+      { slug: 'alfonso-xiii', name: 'Alfonso XIII', image: 'alfonso-xiii.png' },
       { slug: 'antonio-calvero', name: 'Antonio Calvero', image: 'antonio-calvero.png' },
       { slug: 'fidel-castro', name: 'Fidel Castro', image: 'fidel-castro.png' },
       { slug: 'francisco-franco', name: 'Francisco Franco', image: 'francisco-franco.png' },

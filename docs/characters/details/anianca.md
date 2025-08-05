@@ -7,6 +7,10 @@ slug: anianca
 
 # Anianca
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/anianca.png" alt="Anianca" />
+</div>
+
 ## Presentación
 
 Anianca es una joven habitante del Distrito Gótico, nieta de una residente del barrio que se vio envuelta en eventos sobrenaturales relacionados con "La Umbría". Su desaparición desencadenó una de las investigaciones más complejas de La Familia, revelando conexiones con fuerzas místicas y rituales antiguos.

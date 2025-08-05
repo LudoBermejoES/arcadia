@@ -7,6 +7,10 @@ slug: anarquista
 
 # Anarquista
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/anarquista.png" alt="Anarquista" />
+</div>
+
 ## Información Básica
 
 **Nombre Heroico**: Anarquista  

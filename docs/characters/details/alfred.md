@@ -7,6 +7,10 @@ slug: alfred
 
 # Alfred
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/alfred.png" alt="Alfred" />
+</div>
+
 ## Presentación
 Alfred es una entidad mística clasificada entre los seres antiguos y sobrenaturales de Arcadia. Su nombre, aparentemente mundano, contrasta con su naturaleza sobrenatural, sugiriendo una entidad que puede haber adoptado una identidad más familiar para interactuar con el mundo moderno.
 

@@ -7,6 +7,10 @@ slug: las-hermanas-magdalena
 
 # Las Hermanas Magdalena
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/hermanas-magdalena.png" alt="Las Hermanas Magdalena" />
+</div>
+
 ## Presentación
 Las Hermanas Magdalena son figuras misteriosas del submundo de Arcadia, cuyo nombre evoca tanto religiosidad como pecado, en referencia a la figura bíblica de María Magdalena. Su naturaleza plural sugiere un grupo organizado que opera con métodos y propósitos enigmáticos.
 

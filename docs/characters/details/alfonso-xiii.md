@@ -7,6 +7,10 @@ slug: alfonso-xiii
 
 # Alfonso XIII
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/alfonso-xiii.png" alt="Alfonso XIII" />
+</div>
+
 ## Presentación
 
 Alfonso XIII fue el rey de España durante el período inicial de construcción de Arcadia, conocido por su apoyo al golpe de Estado de Primo de Rivera en 1923. Su reinado coincidió con los primeros años del desarrollo del proyecto visionario de Marius Fernández.

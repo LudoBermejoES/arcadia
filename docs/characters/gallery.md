@@ -80,6 +80,14 @@ permalink: /characters/gallery/
   </div>
 </div>
 
+<!-- Artistas -->
+<div class="character-section">
+  <h3 class="character-category-title">🎨 Artistas</h3>
+  <div class="gallery-container" id="artistas-gallery">
+    <!-- Artist cards will be dynamically loaded here -->
+  </div>
+</div>
+
 <!-- Médicos -->
 <div class="character-section">
   <h3 class="character-category-title">⚕️ Médicos</h3>
@@ -290,11 +298,17 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     periodistas: [
-      { slug: 'jane-irinar', name: 'Jane Irinar', image: 'jane-irinar.png' },
       { slug: 'magdalena', name: 'Magdalena Agapé', image: 'Magdalena.png' },
       { slug: 'nicolas-cifuentes', name: 'Nicolás Cifuentes', image: 'nicolas-cifuentes.png' },
       { slug: 'ricky-sataka', name: 'Ricky Sataka', image: 'ricky-sataka.png' },
       { slug: 'trifasico', name: 'Trifásico', image: 'trifasico.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
+    artistas: [
+      { slug: 'alonso-dossantos', name: 'Alonso Dossantos', image: 'alonso-dossantos.png' },
+      { slug: 'jane-irinar', name: 'Jane Irinar', image: 'jane-irinar.png' },
+      { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'ramon-beguell.png' },
+      { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     medicos: [
@@ -321,8 +335,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
       { slug: 'lambert', name: 'Lambert', image: 'lambert.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
-      { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'ramon-beguell.png' }
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     historicos: [
@@ -348,7 +361,6 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     civiles: [
-      { slug: 'alonso-dossantos', name: 'Alonso Dossantos', image: 'alonso-dossantos.png' },
       { slug: 'anianca', name: 'Anianca', image: 'anianca.png' },
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
@@ -364,8 +376,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
-      { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
-      { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
+      { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
@@ -429,6 +440,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.metacorp, 'metacorp-gallery');
   createCharacterCards(characterCategories.estudiantes, 'estudiantes-gallery');
   createCharacterCards(characterCategories.periodistas, 'periodistas-gallery');
+  createCharacterCards(characterCategories.artistas, 'artistas-gallery');
   createCharacterCards(characterCategories.medicos, 'medicos-gallery');
   createCharacterCards(characterCategories.politicos, 'politicos-gallery');
   createCharacterCards(characterCategories.militares, 'militares-gallery');
@@ -470,6 +482,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('metacorp-gallery');
   initializeMasonry('estudiantes-gallery');
   initializeMasonry('periodistas-gallery');
+  initializeMasonry('artistas-gallery');
   initializeMasonry('medicos-gallery');
   initializeMasonry('politicos-gallery');
   initializeMasonry('militares-gallery');

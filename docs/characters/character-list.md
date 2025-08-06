@@ -140,6 +140,7 @@ permalink: /characters/character-list/
 - [El Matador]({{ site.baseurl }}/characters/details/el-matador/)
 - [El Viejo]({{ site.baseurl }}/characters/details/el-viejo/) (creador de las Bestias)
 - [Hermanas Magdalena]({{ site.baseurl }}/characters/details/hermanas-magdalena/)
+- [Las Hermanas Magdalena]({{ site.baseurl }}/characters/details/las-hermanas-magdalena/)
 - [La Reina Cobra]({{ site.baseurl }}/characters/details/la-reina-cobra/)
 
 ## Seres Antiguos y Sobrenaturales
@@ -266,6 +267,7 @@ permalink: /characters/character-list/
 ### Artesanos y Profesionales
 - [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
 - [Federico López ("El Sastre")]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre tradicional, mentor y rival de Charada)
+- [Lambert]({{ site.baseurl }}/characters/details/lambert/) (diseñador de trajes arácnido, creador de armaduras orgánicas, fallecido en ataques de Freiglasung 2015)
 
 ### Periodistas y Medios
 - [Nicolás Cifuentes]({{ site.baseurl }}/characters/details/nicolas-cifuentes/) (periodista especializado en metahumanos)

@@ -78,7 +78,8 @@
       "Bash(npm rebuild:*)",
       "Bash(do if ! grep -q \"character-photo\" \"$file\")",
       "Bash(then basename \"$file\")",
-      "Bash(diff:*)"
+      "Bash(diff:*)",
+      "Bash(comm:*)"
     ],
     "deny": []
   }

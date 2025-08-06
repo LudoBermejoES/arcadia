@@ -245,7 +245,9 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'janus', name: 'Janus', image: 'Janus.jpg' },
       { slug: 'la-baronesa', name: 'La Baronesa', image: 'La Baronesa.png' },
       { slug: 'la-dama', name: 'La Dama', image: 'la-dama.png' },
+      { slug: 'la-desconocida', name: 'La Desconocida', image: 'la-desconocida.png' },
       { slug: 'la-emperatriz', name: 'La Emperatriz', image: 'la-emperatriz.png' },
+      { slug: 'la-reina-cobra', name: 'La Reina Cobra', image: 'la-reina-cobra.png' },
       { slug: 'lsd', name: 'LSD', image: 'lsd.png' },
       { slug: 'manni', name: 'Manni', image: 'Manni.png' },
       { slug: 'maza', name: 'Maza', image: 'Maza.png' },
@@ -256,6 +258,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'mulciber', name: 'Mulciber', image: 'Mulcifer.jpg' },
       { slug: 'pandorum', name: 'Pandorum', image: 'Pandorum.png' },
       { slug: 'panuelo', name: 'Pañuelo', image: 'Pañuelo.png' },
+      { slug: 'parda', name: 'Parda', image: 'parda.png' },
       { slug: 'pastel-de-carne', name: 'Pastel de Carne', image: 'Pastel de carne.png' },
       { slug: 'psicodalia', name: 'Psicodalia', image: 'psicodalia.png' },
       { slug: 'rojo', name: 'Rojo', image: 'Rojo.png' },
@@ -268,10 +271,12 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     metacorp: [
+      { slug: 'francisco-egin', name: 'Francisco Egin', image: 'francisco-egin.png' },
       { slug: 'inigo-temblez', name: 'Iñigo Temblez', image: 'Inigo_Temblez.png' },
       { slug: 'mario-igarruti', name: 'Mario Igarruti', image: 'Mario_Igarruti.png' },
       { slug: 'oneill', name: 'Oneill', image: 'Oneill.png' },
       { slug: 'pablo-de-la-serna', name: 'Pablo de la Serna', image: 'Pablo_de_la_Serna.png' },
+      { slug: 'ricardo-abeluengo', name: 'Ricardo Abeluengo', image: 'ricardo-abeluengo.png' },
       { slug: 'roberto-gomez', name: 'Roberto Gómez', image: 'Roberto_Gomez.png' },
       { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
@@ -285,7 +290,9 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     periodistas: [
+      { slug: 'jane-irinar', name: 'Jane Irinar', image: 'jane-irinar.png' },
       { slug: 'magdalena', name: 'Magdalena Agapé', image: 'Magdalena.png' },
+      { slug: 'nicolas-cifuentes', name: 'Nicolás Cifuentes', image: 'nicolas-cifuentes.png' },
       { slug: 'ricky-sataka', name: 'Ricky Sataka', image: 'ricky-sataka.png' },
       { slug: 'trifasico', name: 'Trifásico', image: 'trifasico.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
@@ -293,7 +300,9 @@ document.addEventListener('DOMContentLoaded', function() {
     medicos: [
       { slug: 'doctor-anselmo', name: 'Doctor Anselmo', image: 'doctor-anselmo.png' },
       { slug: 'felipe-alvarez', name: 'Felipe Álvarez', image: 'felipe-alvarez.png' },
-      { slug: 'luis-montenegro', name: 'Luis Montenegro', image: 'Luis Montenegro.png' }
+      { slug: 'lorena-sanchez', name: 'Lorena Sanchez', image: 'lorena-sanchez.png' },
+      { slug: 'luis-montenegro', name: 'Luis Montenegro', image: 'Luis Montenegro.png' },
+      { slug: 'mia-tanaka', name: 'Mia Tanaka', image: 'mia-tanaka.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     politicos: [
@@ -311,7 +320,9 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' }
+      { slug: 'lambert', name: 'Lambert', image: 'lambert.png' },
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
+      { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'ramon-beguell.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     historicos: [
@@ -324,7 +335,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'jruschov', name: 'Jruschov', image: 'Jruschov.png' },
       { slug: 'juan-guzman', name: 'Juan Guzmán', image: 'juan-guzman.png' },
       { slug: 'marius-fernandez', name: 'Marius Fernández', image: 'marius.png' },
-      { slug: 'primo-de-rivera', name: 'Primo de Rivera', image: 'primo-de-rivera.png' }
+      { slug: 'primo-de-rivera', name: 'Primo de Rivera', image: 'primo-de-rivera.png' },
+      { slug: 'rey-ofobutu', name: 'Rey Ofobutu', image: 'rey-ofobutu.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     independientes: [
@@ -341,9 +353,17 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
       { slug: 'elena-fuentes', name: 'Elena Fuentes', image: 'elena-fuentes.png' },
+      { slug: 'francisco', name: 'Francisco', image: 'francisco.png' },
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
+      { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
+      { slug: 'ignacio-fuentes', name: 'Ignacio Fuentes', image: 'ignacio-fuentes.png' },
+      { slug: 'las-hermanas-magdalena', name: 'Las Hermanas Magdalena', image: 'hermanas-magdalena.png' },
+      { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
+      { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
+      { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
+      { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
       { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))

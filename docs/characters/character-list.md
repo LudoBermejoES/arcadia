@@ -282,7 +282,6 @@ permalink: /characters/character-list/
 
 ### Civiles y Familiares
 - [Eduardo Vaquerizo]({{ site.baseurl }}/characters/details/eduardo-vaquerizo/) (vigilante de seguridad, víctima de Saltamontes)
-- [Francisco]({{ site.baseurl }}/characters/details/francisco/) (hermano de Jorge, discapacitado)
 - [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/) (hermana de Ignacio, testigo clave caso Hermanas Magdalena)
 - [Ignacio Fuentes]({{ site.baseurl }}/characters/details/ignacio-fuentes/) (técnico de OMA, desaparecido)
 - [Marcial Gomez]({{ site.baseurl }}/characters/details/marcial-gomez/) (forense envejecido, desaparecido)
@@ -291,6 +290,7 @@ permalink: /characters/character-list/
 - [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
 ### Estudiantes de OMA
+- [Francisco Moreau]({{ site.baseurl }}/characters/details/francisco-moreau/) (estudiante de Física Aplicada, hermano de Jorge/Espectro, estudiante de Eslizón Esmeralda)
 - [Marina Sato-García]({{ site.baseurl }}/characters/details/marina-sato-garcia/) (estudiante de Química, especializada en ciencias de materiales)
 - [Kai Okonkwo-Singh]({{ site.baseurl }}/characters/details/kai-okonkwo-singh/) (estudiante de Física con aplicaciones biomédicas)
 - [Elena Petrov-Nielsen]({{ site.baseurl }}/characters/details/elena-petrov-nielsen/) (estudiante de Química Física, especializada en geología volcánica)

@@ -67,6 +67,7 @@ Tras la sesión del 3 de agosto de 2025, Eslizón tiene varias tareas y desarrol
 #### **👥 Estudiantes Actuales**
 Eslizón Esmeralda enseña a un grupo diverso de estudiantes arcadianos que reflejan la naturaleza multicultural de la isla:
 
+
 - **[Marina Sato-García](marina-sato-garcia.md)** *(20 años)* - Estudiante de Química especializada en ciencias de materiales. Herencia japonesa-española, tercera generación arcadiana. Familia con tradición en desarrollo de materiales industriales.
 
 - **[Kai Okonkwo-Singh](kai-okonkwo-singh.md)** *(19 años)* - Estudiante de Física con aplicaciones biomédicas. Herencia nigeriana-india, segunda generación arcadiana. Fascinated por la fisiología metahumana desde perspectiva científica.
@@ -74,6 +75,8 @@ Eslizón Esmeralda enseña a un grupo diverso de estudiantes arcadianos que refl
 - **[Elena Petrov-Nielsen](elena-petrov-nielsen.md)** *(21 años)* - Estudiante de Química Física especializada en geología volcánica. Herencia rusa-danesa, cuarta generación arcadiana. Familia pionera en estudios geológicos de la isla.
 
 - **[Diego Moreau-Kim](diego-moreau-kim.md)** *(20 años)* - Estudiante de Química Ambiental con enfoque en sostenibilidad. Herencia francesa-coreana, tercera generación arcadiana. Familia estableció sistemas de agricultura sostenible.
+
+- **[Francisco Moreau](francisco-moreau.md)** *(23 años)* - Estudiante de Física Aplicada. Discapacitado, vive independientemente gracias a un exoesqueleto y vehículo especializado muy avanzado.
 
 - **[Zara Al-Mahmoud-Silva](zara-al-mahmoud-silva.md)** *(22 años)* - Estudiante senior de Física Teórica especializada en fundamentos cuánticos. Herencia libanesa-brasileña, segunda generación arcadiana. Interesada en aplicar física teórica a fenómenos metahumanos.
 

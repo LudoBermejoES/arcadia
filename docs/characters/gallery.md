@@ -291,6 +291,7 @@ document.addEventListener('DOMContentLoaded', function() {
     estudiantes: [
       { slug: 'diego-moreau-kim', name: 'Diego Moreau-Kim', image: 'diego-moreau-kim.png' },
       { slug: 'elena-petrov-nielsen', name: 'Elena Petrov-Nielsen', image: 'elena-petrov-nielsen.png' },
+      { slug: 'francisco-moreau', name: 'Francisco Moreau', image: 'francisco-moureu.png' },
       { slug: 'kai-okonkwo-singh', name: 'Kai Okonkwo-Singh', image: 'kai-okonkwo-singh.png' },
       { slug: 'marina-sato-garcia', name: 'Marina Sato-García', image: 'marina-sato-garcia.png' },
       { slug: 'zara-al-mahmoud-silva', name: 'Zara Al-Mahmoud-Silva', image: 'zara-al-mahmoud-silva.png' }
@@ -315,7 +316,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'felipe-alvarez', name: 'Felipe Álvarez', image: 'felipe-alvarez.png' },
       { slug: 'lorena-sanchez', name: 'Lorena Sanchez', image: 'lorena-sanchez.png' },
       { slug: 'luis-montenegro', name: 'Luis Montenegro', image: 'Luis Montenegro.png' },
-      { slug: 'mia-tanaka', name: 'Mia Tanaka', image: 'mia-tanaka.png' }
+      { slug: 'mia-tanaka', name: 'Mia Tanaka', image: 'Mia_Tanaka.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     politicos: [
@@ -366,7 +367,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
       { slug: 'elena-fuentes', name: 'Elena Fuentes', image: 'elena-fuentes.png' },
-      { slug: 'francisco', name: 'Francisco', image: 'francisco.png' },
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },

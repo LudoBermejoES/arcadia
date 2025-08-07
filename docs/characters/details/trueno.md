@@ -53,7 +53,7 @@ La pareja Relámpago-Trueno sugiere una estrategia coordinada donde los poderes 
 - Otros héroes corporativos activos
 
 ### Estructura Corporativa
-- **Francisco Egin**: Funcionario de MetaCorp
+- **Francis Egin**: Fundador y Director de MetaCorp (1940-1993, fallecido 2005)
 - **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido en atentado)
 - **General Martínez**: Coordinación con autoridades militares
 

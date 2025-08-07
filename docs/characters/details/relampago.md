@@ -59,7 +59,7 @@ Como ex-metahumano de MetaCorp, Relámpago:
 - Otros ex-compañeros héroes corporativos
 
 ### Estructura Corporativa
-- **Francisco Egin**: Funcionario de MetaCorp
+- **Francis Egin**: Fundador y Director de MetaCorp (1940-1993, fallecido 2005)
 - **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido en atentado)
 - **General Martínez**: Coordinación militar
 

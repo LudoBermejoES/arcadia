@@ -279,12 +279,11 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     metacorp: [
-      { slug: 'francisco-egin', name: 'Francisco Egin', image: 'francisco-egin.png' },
+      { slug: 'francisco-egin', name: 'Francis Egin', image: 'francisco-egin.png' },
       { slug: 'inigo-temblez', name: 'Iñigo Temblez', image: 'Inigo_Temblez.png' },
       { slug: 'mario-igarruti', name: 'Mario Igarruti', image: 'Mario_Igarruti.png' },
       { slug: 'oneill', name: 'Oneill', image: 'Oneill.png' },
       { slug: 'pablo-de-la-serna', name: 'Pablo de la Serna', image: 'Pablo_de_la_Serna.png' },
-      { slug: 'ricardo-abeluengo', name: 'Ricardo Abeluengo', image: 'ricardo-abeluengo.png' },
       { slug: 'roberto-gomez', name: 'Roberto Gómez', image: 'Roberto_Gomez.png' },
       { slug: 'waldo-gutierrez', name: 'Waldo Gutierrez', image: 'Waldo Gutierrez.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
@@ -307,7 +306,7 @@ document.addEventListener('DOMContentLoaded', function() {
     artistas: [
       { slug: 'alonso-dossantos', name: 'Alonso Dossantos', image: 'alonso-dossantos.png' },
       { slug: 'jane-irinar', name: 'Jane Irinar', image: 'jane-irinar.png' },
-      { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'ramon-beguell.png' },
+      { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'Ramon_Beguell.png' },
       { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
@@ -321,7 +320,9 @@ document.addEventListener('DOMContentLoaded', function() {
     
     politicos: [
       { slug: 'francois-chala', name: 'François Chalá', image: 'francois-chala.png' },
-      { slug: 'leopoldo-gomez', name: 'Leopoldo Gómez', image: 'leopoldo-gomez.png' }
+      { slug: 'leopoldo-gomez', name: 'Leopoldo Gómez', image: 'leopoldo-gomez.png' },
+        { slug: 'ricardo-abeluengo', name: 'Ricardo Abeluengo', image: 'Ricardo_Abeluengo.png' },
+
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     militares: [

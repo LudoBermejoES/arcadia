@@ -25,7 +25,7 @@ permalink: /characters/character-list/
 ## Autoridades y Funcionarios
 
 ### MetaCorp y Fuerzas del Orden
-- [Francisco Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
+- [Francis Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
 - [Oneill]({{ site.baseurl }}/characters/details/oneill/)
 - [General Martínez]({{ site.baseurl }}/characters/details/general-martinez/)
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/)

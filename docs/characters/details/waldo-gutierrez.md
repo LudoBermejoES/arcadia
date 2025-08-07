@@ -52,7 +52,7 @@ Su posición refleja la necesidad de coordinación entre las políticas corporat
 
 ### En MetaCorp
 - **Ricardo Abeluengo**: Alcalde de Arcadia (fallecido, anteriormente relacionado con MetaCorp)
-- **Francisco Egin**: Colaborador en MetaCorp
+- **Francis Egin**: Fundador y ex-Director de MetaCorp (1940-1993, fallecido 2005)
 - Personal académico y administrativo universitario
 
 ## Apariciones Documentadas

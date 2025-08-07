@@ -221,7 +221,7 @@ Los Ultracorps representan un avance tecnológico significativo:
 
 #### **Relaciones Internas**
 - **Colaboración con veteranos**: Trabajo coordinado con miembros tradicionales
-- **Supervisión de Francisco Egin**: Posible oversight del instructor fundador
+- **Legado de Francis Egin**: Inspiración del fundador de MetaCorp (1940-1993, fallecido 2005)
 - **Protocolo de emergencia**: Capacidad de coordinación en crisis mayores
 
 ### Interacción con La Familia

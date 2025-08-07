@@ -115,7 +115,13 @@ La respuesta no tardó en llegar. EEUU, la URSS y otros países hicieron campañ
 
 ### Los MetaCorp
 
-La cada vez mayor presencia de metahumanos en el mundo del crimen obligó al estado Arcadio a crear el primer grupo de **policía metahumanos: los MetaCorp**. Contando originariamente con solo cinco miembros y dirigidos por el instructor **Francisco Egin**, se convirtieron en el referente de un nuevo tipo de moda: la **metachic**.
+La cada vez mayor presencia de metahumanos en el mundo del crimen obligó al estado Arcadio a crear el primer grupo de **policía metahumanos: los MetaCorp**. Esta organización revolucionaria fue fundada por **[Francis Egin]({{ site.baseurl }}/characters/details/francisco-egin/)**, un refugiado afroamericano que había huido de Estados Unidos en 1940 escapando de la persecución del Ku Klux Klan.
+
+Francis Egin llegó a Arcadia como un hombre **negro, homosexual y socialista** - una triple marginación que lo convertía en objetivo de violencia en la América de 1940. Sin embargo, el visionario **[Marius Fernández]({{ site.baseurl }}/characters/details/marius-fernandez/)** reconoció inmediatamente su potencial. Francisco era uno de los mejores tiradores del mundo, pero más importante aún, Marius **sabía que los metahumanos estaban llegando** mucho antes de que fueran una realidad visible.
+
+Con esta visión profética, Marius propuso a Francisco crear algo sin precedentes: **el primer cuerpo policial especializado en metahumanos del mundo**. Francisco seleccionó cuidadosamente a cinco miembros fundadores, conocidos como **"Los Primeros"**, estableciendo los cimientos de MetaCorp durante los años 1940.
+
+Bajo el liderazgo de Francis Egin, MetaCorp no solo se convirtió en una fuerza policial efectiva, sino que también estableció las bases de un nuevo movimiento cultural: la **metachic**. Durante sus 53 años de servicio (1940-1993), Francisco transformó MetaCorp de un experimento audaz en el modelo mundial de seguridad metahumana.
 
 Los MetaCorp se volvieron tan populares como los grupos musicales, vistiendo trajes extravagantes con estilo vanguardista. Propuestas similares aparecieron en países industrializados, con los MetaCorp formando la primera fuerza de choque contra criminales con poderes. También fueron reclutados por equipos deportivos antes de que la ley internacional prohibiera a los metahumanos en competiciones deportivas.
 
@@ -298,6 +304,8 @@ Además de los seis distritos especializados diseñados por Marius, Arcadia cuen
 
 ### Distrito Solis (Domingo)
 Distrito residencial tradicional y familiar, **significativamente reducido por la expansión gótica**. Población: ~850,000 habitantes (reducida desde ~1.4 millones).
+
+**Lugar histórico destacado**: En este distrito descansan los restos de **[Francis Egin]({{ site.baseurl }}/characters/details/francisco-egin/)** (1914-2005), el fundador visionario de MetaCorp. Llegó como refugiado en 1940 a los 26 años, dirigió MetaCorp durante 53 años (1940-1993), y vivió en este distrito hasta su muerte a los 91 años. Su memorial público puede ser visitado como recordatorio de que los más grandes líderes a menudo emergen de las circunstancias más adversas.
 
 ### Distrito Lunae (Lunes)  
 Distrito residencial de servicios sanitarios, **parcialmente absorbido por expansión gótica**. Población: ~900,000 habitantes (reducida desde ~1.1 millones).

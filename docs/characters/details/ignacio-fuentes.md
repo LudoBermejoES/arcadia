@@ -7,6 +7,10 @@ slug: ignacio-fuentes
 
 # Ignacio Fuentes
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/ignacio-fuentes.png" alt="Espectro" />
+</div>
+
 ## Presentación
 Ignacio Fuentes fue un **técnico del acelerador de partículas de la OMA** que se vio envuelto en los misterios sobrenaturales de las **Hermanas Magdalena** en el Barrio Gótico. Su historia representa la tragedia de un civil atrapado entre fuerzas sobrenaturales y los peligros de intentar ayudar a entidades que no comprendía completamente.
 

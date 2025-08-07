@@ -7,6 +7,11 @@ slug: marta-heredia
 
 # Marta Heredia
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/marta-heredia.png" alt="Marta Heredia" />
+</div>
+
+
 ## Presentación
 Marta Heredia era una colega de Ignacio que fue asesinada, convirtiendo su caso en un elemento trágico dentro de la narrativa de Arcadia. Su muerte violenta sugiere que estuvo involucrada en actividades o investigaciones que la pusieron en peligro.
 

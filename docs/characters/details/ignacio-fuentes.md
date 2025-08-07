@@ -8,7 +8,7 @@ slug: ignacio-fuentes
 # Ignacio Fuentes
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/ignacio-fuentes.png" alt="Espectro" />
+  <img src="{{ site.baseurl }}/assets/img/characters/ignacio-fuentes.png" alt="Ignacio Fuentes" />
 </div>
 
 ## Presentación

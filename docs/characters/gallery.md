@@ -324,7 +324,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'felipe-alvarez', name: 'Felipe Álvarez', image: 'felipe-alvarez.png' },
       { slug: 'lorena-sanchez', name: 'Lorena Sanchez', image: 'lorena-sanchez.png' },
       { slug: 'luis-montenegro', name: 'Luis Montenegro', image: 'Luis Montenegro.png' },
-      { slug: 'mia-tanaka', name: 'Mia Tanaka', image: 'Mia_Tanaka.png' }
+      { slug: 'mia-tanaka', name: 'Mia Tanaka', image: 'mia-tanaka.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     politicos: [

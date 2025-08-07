@@ -8,7 +8,7 @@ slug: mia-tanaka
 # Mia Tanaka
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Mia_Tanaka.png" alt="Mia Tanaka" />
+  <img src="{{ site.baseurl }}/assets/img/characters/mia-tanaka.png" alt="Mia Tanaka" />
 </div>
 
 ## Presentación

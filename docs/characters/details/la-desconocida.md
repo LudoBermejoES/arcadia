@@ -21,7 +21,7 @@ slug: la-desconocida
 
 ## Descripción
 
-La Desconocida es una heroína histórica de Arcadia cuya identidad y naturaleza exacta permanecen envueltas en misterio. Su nombre sugiere que incluso durante su período de actividad, mantuvo su identidad secreta de manera más efectiva que otros héroes, creando una leyenda de misterio que perdura hasta hoy.
+La Desconocida es una heroína histórica de Arcadia cuya identidad y naturaleza exacta permanecen envueltas en misterio. Solo estuvo dos años en activo, de 1960 a 1962, nunca se supo quien era. Vestía siempre con una máscara plateada y un traje del mismo color. Su nombre sugiere que incluso durante su período de actividad, mantuvo su identidad secreta de manera más efectiva que otros héroes, creando una leyenda de misterio que perdura hasta hoy.
 
 ## Características del Misterio
 

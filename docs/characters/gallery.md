@@ -144,6 +144,14 @@ permalink: /characters/gallery/
   </div>
 </div>
 
+<!-- Entidades -->
+<div class="character-section">
+  <h3 class="character-category-title">🔮 Entidades</h3>
+  <div class="gallery-container" id="entidades-gallery">
+    <!-- Entity character cards will be dynamically loaded here -->
+  </div>
+</div>
+
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
@@ -370,14 +378,19 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
-      { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
       { slug: 'ignacio-fuentes', name: 'Ignacio Fuentes', image: 'ignacio-fuentes.png' },
-      { slug: 'las-hermanas-magdalena', name: 'Las Hermanas Magdalena', image: 'hermanas-magdalena.png' },
       { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+    
+    entidades: [
+      { slug: 'el-guardian', name: 'El Guardián', image: 'el-guardian.png' },
+      { slug: 'el-emperador-oscuro', name: 'El Emperador Oscuro', image: 'El Emperador Oscuro.png' },
+      { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
+      { slug: 'bastet', name: 'Bastet', image: 'bastet.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
@@ -449,6 +462,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.historicos, 'historicos-gallery');
   createCharacterCards(characterCategories.independientes, 'independientes-gallery');
   createCharacterCards(characterCategories.civiles, 'civiles-gallery');
+  createCharacterCards(characterCategories.entidades, 'entidades-gallery');
 
   // Initialize Masonry for all galleries after images load
   function initializeMasonry(galleryId) {
@@ -491,6 +505,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('historicos-gallery');
   initializeMasonry('independientes-gallery');
   initializeMasonry('civiles-gallery');
+  initializeMasonry('entidades-gallery');
 });
 </script>
 

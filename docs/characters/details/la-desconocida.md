@@ -7,6 +7,10 @@ slug: la-desconocida
 
 # La Desconocida
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/la-desconocida.png" alt="La Desconocida" />
+</div>
+
 ## Información Básica
 
 **Nombre Heroico**: La Desconocida  

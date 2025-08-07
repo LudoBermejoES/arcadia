@@ -219,7 +219,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'arcadio', name: 'Arcadio', image: 'Arcadio.png' },
       { slug: 'autoridad', name: 'Autoridad', image: 'autoridad.png' },
       { slug: 'bailarina', name: 'Bailarina', image: 'Bailarina.png' },
-      { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
       { slug: 'comadreja-negra', name: 'Comadreja Negra', image: 'Comadreja negra.png' },
       { slug: 'david', name: 'David', image: 'david.png' },
       { slug: 'el-golem', name: 'El Golem', image: 'el-golem.png' },

@@ -32,35 +32,27 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Participantes de Héroes o Villanos -->
+<!-- Artistas -->
 <div class="character-section">
-  <h3 class="character-category-title">📺 Participantes de Héroes o Villanos</h3>
-  <div class="gallery-container" id="participantes-hevi-gallery">
-    <!-- Héroes o Villanos contest participant cards will be dynamically loaded here -->
+  <h3 class="character-category-title">🎨 Artistas</h3>
+  <div class="gallery-container" id="artistas-gallery">
+    <!-- Artist cards will be dynamically loaded here -->
   </div>
 </div>
 
-<!-- Héroes -->
+<!-- Civiles -->
 <div class="character-section">
-  <h3 class="character-category-title">🦸‍♂️ Héroes</h3>
-  <div class="gallery-container" id="heroes-gallery">
-    <!-- Hero cards will be dynamically loaded here -->
+  <h3 class="character-category-title">🏘️ Civiles</h3>
+  <div class="gallery-container" id="civiles-gallery">
+    <!-- Civilian character cards will be dynamically loaded here -->
   </div>
 </div>
 
-<!-- Villanos -->
+<!-- Entidades -->
 <div class="character-section">
-  <h3 class="character-category-title">🦹‍♂️ Villanos</h3>
-  <div class="gallery-container" id="villanos-gallery">
-    <!-- Villain cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- MetaCorp -->
-<div class="character-section">
-  <h3 class="character-category-title">🚔 MetaCorp</h3>
-  <div class="gallery-container" id="metacorp-gallery">
-    <!-- MetaCorp cards will be dynamically loaded here -->
+  <h3 class="character-category-title">🔮 Entidades</h3>
+  <div class="gallery-container" id="entidades-gallery">
+    <!-- Entity character cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -72,51 +64,11 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Periodistas -->
+<!-- Héroes -->
 <div class="character-section">
-  <h3 class="character-category-title">📺 Periodistas</h3>
-  <div class="gallery-container" id="periodistas-gallery">
-    <!-- Journalist cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- Artistas -->
-<div class="character-section">
-  <h3 class="character-category-title">🎨 Artistas</h3>
-  <div class="gallery-container" id="artistas-gallery">
-    <!-- Artist cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- Médicos -->
-<div class="character-section">
-  <h3 class="character-category-title">⚕️ Médicos</h3>
-  <div class="gallery-container" id="medicos-gallery">
-    <!-- Medical professional cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- Políticos -->
-<div class="character-section">
-  <h3 class="character-category-title">🏛️ Políticos</h3>
-  <div class="gallery-container" id="politicos-gallery">
-    <!-- Political figure cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- Militares -->
-<div class="character-section">
-  <h3 class="character-category-title">⚔️ Militares</h3>
-  <div class="gallery-container" id="militares-gallery">
-    <!-- Military character cards will be dynamically loaded here -->
-  </div>
-</div>
-
-<!-- Profesionales -->
-<div class="character-section">
-  <h3 class="character-category-title">👔 Profesionales</h3>
-  <div class="gallery-container" id="profesionales-gallery">
-    <!-- Professional character cards will be dynamically loaded here -->
+  <h3 class="character-category-title">🦸‍♂️ Héroes</h3>
+  <div class="gallery-container" id="heroes-gallery">
+    <!-- Hero cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -136,19 +88,67 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Civiles -->
+<!-- Médicos -->
 <div class="character-section">
-  <h3 class="character-category-title">🏘️ Civiles</h3>
-  <div class="gallery-container" id="civiles-gallery">
-    <!-- Civilian character cards will be dynamically loaded here -->
+  <h3 class="character-category-title">⚕️ Médicos</h3>
+  <div class="gallery-container" id="medicos-gallery">
+    <!-- Medical professional cards will be dynamically loaded here -->
   </div>
 </div>
 
-<!-- Entidades -->
+<!-- MetaCorp -->
 <div class="character-section">
-  <h3 class="character-category-title">🔮 Entidades</h3>
-  <div class="gallery-container" id="entidades-gallery">
-    <!-- Entity character cards will be dynamically loaded here -->
+  <h3 class="character-category-title">🚔 MetaCorp</h3>
+  <div class="gallery-container" id="metacorp-gallery">
+    <!-- MetaCorp cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Militares -->
+<div class="character-section">
+  <h3 class="character-category-title">⚔️ Militares</h3>
+  <div class="gallery-container" id="militares-gallery">
+    <!-- Military character cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Participantes de Héroes o Villanos -->
+<div class="character-section">
+  <h3 class="character-category-title">📺 Participantes de Héroes o Villanos</h3>
+  <div class="gallery-container" id="participantes-hevi-gallery">
+    <!-- Héroes o Villanos contest participant cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Periodistas -->
+<div class="character-section">
+  <h3 class="character-category-title">📺 Periodistas</h3>
+  <div class="gallery-container" id="periodistas-gallery">
+    <!-- Journalist cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Políticos -->
+<div class="character-section">
+  <h3 class="character-category-title">🏛️ Políticos</h3>
+  <div class="gallery-container" id="politicos-gallery">
+    <!-- Political figure cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Profesionales -->
+<div class="character-section">
+  <h3 class="character-category-title">👔 Profesionales</h3>
+  <div class="gallery-container" id="profesionales-gallery">
+    <!-- Professional character cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Villanos -->
+<div class="character-section">
+  <h3 class="character-category-title">🦹‍♂️ Villanos</h3>
+  <div class="gallery-container" id="villanos-gallery">
+    <!-- Villain cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -448,21 +448,21 @@ document.addEventListener('DOMContentLoaded', function() {
 
   // Create character cards for each category
   createCharacterCards(characterCategories.protagonistas, 'protagonistas-gallery');
-  createCharacterCards(characterCategories.participantesHeVi, 'participantes-hevi-gallery');
-  createCharacterCards(characterCategories.heroes, 'heroes-gallery');
-  createCharacterCards(characterCategories.villanos, 'villanos-gallery');
-  createCharacterCards(characterCategories.metacorp, 'metacorp-gallery');
-  createCharacterCards(characterCategories.estudiantes, 'estudiantes-gallery');
-  createCharacterCards(characterCategories.periodistas, 'periodistas-gallery');
   createCharacterCards(characterCategories.artistas, 'artistas-gallery');
-  createCharacterCards(characterCategories.medicos, 'medicos-gallery');
-  createCharacterCards(characterCategories.politicos, 'politicos-gallery');
-  createCharacterCards(characterCategories.militares, 'militares-gallery');
-  createCharacterCards(characterCategories.profesionales, 'profesionales-gallery');
-  createCharacterCards(characterCategories.historicos, 'historicos-gallery');
-  createCharacterCards(characterCategories.independientes, 'independientes-gallery');
   createCharacterCards(characterCategories.civiles, 'civiles-gallery');
   createCharacterCards(characterCategories.entidades, 'entidades-gallery');
+  createCharacterCards(characterCategories.estudiantes, 'estudiantes-gallery');
+  createCharacterCards(characterCategories.heroes, 'heroes-gallery');
+  createCharacterCards(characterCategories.historicos, 'historicos-gallery');
+  createCharacterCards(characterCategories.independientes, 'independientes-gallery');
+  createCharacterCards(characterCategories.medicos, 'medicos-gallery');
+  createCharacterCards(characterCategories.metacorp, 'metacorp-gallery');
+  createCharacterCards(characterCategories.militares, 'militares-gallery');
+  createCharacterCards(characterCategories.participantesHeVi, 'participantes-hevi-gallery');
+  createCharacterCards(characterCategories.periodistas, 'periodistas-gallery');
+  createCharacterCards(characterCategories.politicos, 'politicos-gallery');
+  createCharacterCards(characterCategories.profesionales, 'profesionales-gallery');
+  createCharacterCards(characterCategories.villanos, 'villanos-gallery');
 
   // Initialize Masonry for all galleries after images load
   function initializeMasonry(galleryId) {
@@ -491,21 +491,21 @@ document.addEventListener('DOMContentLoaded', function() {
   
   // Initialize Masonry for all character category galleries
   initializeMasonry('protagonistas-gallery');
-  initializeMasonry('participantes-hevi-gallery');
-  initializeMasonry('heroes-gallery');
-  initializeMasonry('villanos-gallery');
-  initializeMasonry('metacorp-gallery');
-  initializeMasonry('estudiantes-gallery');
-  initializeMasonry('periodistas-gallery');
   initializeMasonry('artistas-gallery');
-  initializeMasonry('medicos-gallery');
-  initializeMasonry('politicos-gallery');
-  initializeMasonry('militares-gallery');
-  initializeMasonry('profesionales-gallery');
-  initializeMasonry('historicos-gallery');
-  initializeMasonry('independientes-gallery');
   initializeMasonry('civiles-gallery');
   initializeMasonry('entidades-gallery');
+  initializeMasonry('estudiantes-gallery');
+  initializeMasonry('heroes-gallery');
+  initializeMasonry('historicos-gallery');
+  initializeMasonry('independientes-gallery');
+  initializeMasonry('medicos-gallery');
+  initializeMasonry('metacorp-gallery');
+  initializeMasonry('militares-gallery');
+  initializeMasonry('participantes-hevi-gallery');
+  initializeMasonry('periodistas-gallery');
+  initializeMasonry('politicos-gallery');
+  initializeMasonry('profesionales-gallery');
+  initializeMasonry('villanos-gallery');
 });
 </script>
 

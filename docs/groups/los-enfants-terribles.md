@@ -142,6 +142,171 @@ Los **enfants terribles** representan varios desafíos únicos para la sociedad 
 
 **Los enfants terribles** representan la cristalización de uno de los temores centrales de Arcadia: que la concentración de poder y tecnología pueda crear amenazas incontrolables cuando cae en manos equivocadas. Su juventud los convierte tanto en víctimas como en victimarios, planteando dilemas morales complejos para una sociedad heroica.
 
+## Algunos miembros fotografiados de la banda
+
+<div class="gallery-container">
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/aisha-espectro-okafor.png" alt="Espectro carmesí" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Espectro</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/andre-salvavidas-washington.png" alt="Salvavidas" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Salvavidas</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/diego-cuchilla-santos.png" alt="Cuchilla" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Cuchilla</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/emma-profeta-osullivan.png" alt="Profeta" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Profeta</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/kai-vortice-nakamura.png" alt="Vórtice" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Vórtice</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/luna-choque-petrov.png" alt="Choque" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Choque</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/marcus-oleada-rodriguez.png" alt="Oleada" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Oleada</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/sophia-eco-kowalski.png" alt="Eco" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Eco</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/tyler-explosion-mckenzie.png" alt="Explosión" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Explosión</h3>
+    </div>
+  </div>
+  
+  <div class="character-card">
+    <div class="character-image-container">
+      <img src="{{ site.baseurl }}/assets/img/characters/zara-fantasma-chen.png" alt="Fantasma" class="character-image" loading="lazy">
+    </div>
+    <div class="character-info">
+      <h3 class="character-name">Fantasma</h3>
+    </div>
+  </div>
+</div>
+
+<style>
+.gallery-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+  margin: 2rem 0;
+}
+
+.character-card {
+  width: 150px;
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+  transition: all 0.3s ease;
+  overflow: hidden;
+}
+
+.character-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
+}
+
+.character-image-container {
+  width: 100%;
+  height: 150px;
+  overflow: hidden;
+  background: #f5f5f5;
+}
+
+.character-image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  transition: transform 0.3s ease;
+}
+
+.character-card:hover .character-image {
+  transform: scale(1.05);
+}
+
+.character-info {
+  padding: 10px;
+  text-align: center;
+}
+
+.character-name {
+  margin: 0;
+  font-size: 0.9rem;
+  font-weight: bold;
+  color: #333;
+  font-family: 'Bangers', cursive;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+@media (max-width: 768px) {
+  .character-card {
+    width: 120px;
+  }
+  
+  .character-image-container {
+    height: 120px;
+  }
+  
+  .character-name {
+    font-size: 0.8rem;
+  }
+}
+</style>
+
 ## Apariciones Documentadas
 - En desarrollo - grupo emergente en campañas actuales
 - Referencias en testimonios de miembros capturados

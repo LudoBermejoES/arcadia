@@ -6,6 +6,10 @@ permalink: /groups/los-enfants-terribles/
 
 # Los enfants terribles
 
+<div class="character-photo wide-image">
+  <img src="{{ site.baseurl }}/assets/img/characters/los-enfants-terribles.png" alt="Los enfants terribles" />
+</div>
+
 ## Presentación
 **Los enfants terribles** es una banda juvenil anarquista que ha emergido como una nueva amenaza en Arcadia en los últimos dos años. Compuesta exclusivamente por **menores de veintiún años**, representan una de las consecuencias más perturbadoras de la increíble concentración de tecnologías y poderes que convergen en la isla. Su capacidad para adquirir y utilizar tecnología avanzada que les otorga superpoderes los convierte en una amenaza impredecible y escalante.
 

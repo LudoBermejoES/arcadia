@@ -8,7 +8,7 @@ permalink: /locations/almacenes-hevi/
 *Centro Comercial del Distrito Martis*
 
 <div class="location-photo">
-  <img src="{{ site.baseurl }}/assets/img/locations/almacenes_hêvî.png" alt="Almacenes Hêvî" />
+  <img src="{{ site.baseurl }}/assets/img/locations/almacenes_hêvî.png" alt="Almacenes Hêvî" style="max-width: 600px; height: auto; display: block; margin: 0 auto;" />
   <p class="caption">Vista aérea de los Almacenes Hêvî, centro comercial multicultural del Distrito Martis</p>
 </div>
 

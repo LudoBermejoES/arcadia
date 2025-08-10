@@ -234,6 +234,32 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
+### **🏴‍☠️ [Los enfants terribles](los-enfants-terribles.md)**
+**Banda Juvenil Anarquista Tecnológica**
+
+#### **Estructura Juvenil:**
+- **👶 Composición**: Exclusivamente menores de 21 años
+- **📈 Tamaño**: Estimados hasta un centenar de miembros
+- **🤖 Equipamiento**: Tecnología avanzada que otorga superpoderes
+- **⏱️ Actividad**: Dos años de escalada criminal progresiva
+
+#### **Operaciones Características:**
+- **🎨 Vandalismo Organizado**: Destrucción de propiedad escalante
+- **🏪 Asaltos Diurnos**: Robos cada vez más audaces en comercios
+- **💥 Escalada de Violencia**: Patrón progresivo de temeridad
+- **💣 Autodestrucción**: Tecnología que se destruye al ser capturada
+
+#### **El Conciliábulo de Cuervos:**
+- **🐦‍⬛ Estructura Oculta**: Supuesto consejo que organizaría al grupo
+- **❓ Naturaleza Misteriosa**: Información limitada sobre su composición
+- **⚖️ Paradoja**: Jerarquía secreta en movimiento anarquista
+- **🗣️ Evidencia**: Solo testimonios de miembros capturados
+
+#### **Filosofía Criminal:**
+*"El caos juvenil armado con tecnología sin supervisión responsable"*
+
+---
+
 ## ⚠️ **Amenazas Sobrenaturales**
 
 ### **🐛 [Los Espligan](los-espligan.md)**
@@ -458,7 +484,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 </div>
 
 <div class="stat-card">
-<span class="stat-number">13</span>
+<span class="stat-number">14</span>
 <span class="stat-label">Grupos Villanos</span>
 </div>
 
@@ -493,6 +519,8 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[🎭 La Farándula](la-farandula.md)** - Los teatrales organizados
 - **[🏢 Fatum Corporation](fatum.md)** - La megacorporación criminal
 - **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
+- **[🥊 Puño Gris](puno-gris.md)** - Mafia del distrito asiático
+- **[🏴‍☠️ Los enfants terribles](los-enfants-terribles.md)** - Banda juvenil anarquista tecnológica
 - **[💥 Freiglasung](freiglasung.md)** - Terroristas anti-meta (desmantelados)
 - **[⛪ Los Confesores](los-confesores.md)** - Fanáticos antimeta
 

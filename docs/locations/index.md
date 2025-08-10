@@ -83,6 +83,14 @@ Esta es una recopilación completa de todas las ubicaciones especiales que han a
 
 ---
 
+## 🏭 **DISTRITO MARTIS (DISTRITO OBRERO)**
+
+### **[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**
+**Campañas:** La Fuerza Oculta  
+**Descripción:** Centro comercial multicultural de dos plantas que representa el verdadero espíritu cosmopolita del Distrito Martis. Complejo diverso regentado por inmigrantes y refugiados que incluye restaurantes internacionales, cafeterías, tiendas especializadas, joyería, gimnasio, arcade y comercios variados. Más que un simple centro comercial, funciona como hub cultural y económico donde la población trabajadora del distrito de 180,000 habitantes encuentra productos, servicios y encuentro social auténtico.
+
+---
+
 ## 🌿 **DISTRITO BIÓNICO**
 
 ### **Casa de Alice (Estilo Mansión Wayne)**

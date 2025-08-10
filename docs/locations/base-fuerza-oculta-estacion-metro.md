@@ -90,9 +90,10 @@ La Fuerza Oculta establece alianza con **Malik "El Barón Mendigo"**:
 
 #### **Acuerdo de Renovación**
 - **Servicios proporcionados**: Renovación completa a través de **Hassan Oleg** (capataz)
-- **Costo**: 40% más que servicios oficiales, pagado mediante "tiradas de riqueza" grupales
+- **Costo**: Cantidad considerable pagada mediante "tiradas de riqueza" grupales
 - **Duración**: Proyecto de 2 meses de renovación intensiva
 - **Verificación**: **Psique** confirma honestidad e integridad de Malik telepáticamente
+- **Necesidad de empleos**: Los miembros deben buscar trabajo para costear el proyecto
 
 #### **Especificaciones del Proyecto**
 - **Limpieza total**: Eliminación de chatarra, vagones destruidos y material contaminado
@@ -104,71 +105,91 @@ La Fuerza Oculta establece alianza con **Malik "El Barón Mendigo"**:
 
 ## 🏠 **Características de la Base Renovada (Octubre 2025)**
 
-### **Infraestructura Básica**
-Tras 2 meses de renovación bajo supervisión de Hassan:
+### **Estado Actual Tras Renovación**
+Tras 2 meses de renovación bajo supervisión de Hassan Oleg (capataz de Malik):
 
-#### **Servicios Esenciales**
-- **Sistema eléctrico**: Instalación completa de cableado y puntos de luz
+#### **Servicios Básicos Instalados**
+- **Sistema eléctrico**: Conexión a la corriente ministerial con puntos de luz
 - **Fontanería**: Baños funcionales y acceso a agua corriente
-- **Climatización**: Zona de calor personal para **Eslizón** (necesidades reptilianas)
-- **Conectividad**: Internet de alta velocidad mediante cables RJ45
+- **Conectividad**: Internet mediante cables RJ45
+- **Limpieza**: Eliminación de chatarra, vagones destruidos y material contaminado
 
-#### **Espacios Funcionales**
-- **Áreas residenciales**: Habitaciones individuales adaptadas a cada miembro
-- **Zona común**: Espacio central para reuniones y coordinación grupal
-- **Área de entrenamiento**: Espacio adaptado para práctica de poderes
-- **Centro de comunicaciones**: Hub tecnológico con líneas seguras
+#### **Estado del Espacio**
+- **Espacio vacío**: Base habitable pero sin mobiliario ni equipamiento
+- **Suelo en condiciones regulares**: No en perfectas condiciones según documentado
+- **Sin camas ni muebles**: Espacio completamente desnudo tras la limpieza
+- **Sin adaptaciones especiales**: No se han realizado modificaciones para necesidades individuales
+- **Base por construir**: Los miembros aún deben organizar y acondicionar todo el espacio
 
-### **Medidas de Seguridad**
-- **Acceso controlado**: Entrada secreta conocida solo por miembros del grupo
-- **Rutas de escape**: Múltiples salidas de emergencia a través de túneles
-- **Detección de intrusos**: Sistemas de alerta temprana
-- **Almacenamiento seguro**: Espacios protegidos para equipamiento y materiales sensibles
-
-### **Adaptaciones Especiales**
-#### **Zona Reptiliana (Eslizón)**
-- **Control de temperatura**: Área climatizada para necesidades metabólicas específicas
-- **Iluminación especializada**: Luz adaptada a fisiología reptiliana
-- **Superficie de escalada**: Paredes y techo adaptados para movilidad única
-
-#### **Centro Telepático (Psique)**
-- **Aislamiento mental**: Espacio protegido para trabajo telepático intensivo
-- **Amplificación**: Sistemas que mejoran alcance y precisión de poderes
-- **Recuperación**: Área de descanso especializada para fatiga telepática
-
-#### **Arsenal Táctico (Sentencia)**
-- **Armería**: Almacenamiento seguro para equipamiento militar
-- **Sala de planificación**: Espacio para análisis táctico y estratégico
-- **Entrenamiento de combate**: Área adaptada para práctica con armas
+### **Acceso y Seguridad**
+- **Entrada principal colapsada**: Diana cerró el acceso original con 8 metros de escombro
+- **Acceso alternativo**: A través de las instalaciones de agua de la ciudad
+- **Ubicación secreta**: Solo conocida por los miembros de La Fuerza Oculta
 
 ---
 
-## 🔧 **Equipamiento y Tecnología**
+## 🔧 **Recursos y Equipamiento Actual**
 
-### **Sistemas de Comunicación**
-- **Líneas seguras**: Móviles con encriptación para contactos discretos
-- **Internet de alta velocidad**: Conectividad para investigación y coordinación
-- **Red interna**: Sistema de comunicación interno entre miembros
-- **Monitoreo exterior**: Acceso a información pública y redes sociales
+### **Infraestructura Disponible**
+- **Internet**: Conectividad mediante cables RJ45 instalados
+- **Electricidad**: Sistema básico de iluminación funcional
+- **Agua corriente**: Acceso a fontanería y baños operativos
+- **Espacio limpio**: Área libre de chatarra y material contaminado previo
 
-### **Equipamiento Heroico**
-- **Almacenamiento de trajes**: Espacios especializados para uniformes superheroicos
-- **Estación de reparaciones**: Área para mantenimiento de equipamiento
-- **Laboratorio básico**: Espacio para análisis de evidencias y sustancias
-- **Centro médico**: Instalaciones para primeros auxilios y recuperación
+### **Recursos Conservados**
+- **Sobres de drogas**: 2 sobres confiscados (1 rojo, 1 blanco) guardados como recurso de emergencia extrema
+- **Subfusiles**: Aproximadamente 20 SMGs confiscados de los mercenarios
+- **Equipamiento táctico**: Kevlar y comunicadores recuperados
 
-### **Recursos Especiales**
-- **Sobres conservados**: 2 sobres de drogas potenciadoras guardados como emergencia extrema
-- **Archivo de inteligencia**: Información recopilada sobre organizaciones criminales
-- **Mapas de túneles**: Planos detallados de red subterránea de Arcadia
-- **Contactos documentados**: Base de datos de aliados y conexiones
+### **Necesidades Pendientes**
+- **Mobiliario**: La base carece completamente de camas, muebles o equipamiento
+- **Adaptaciones**: No se han realizado modificaciones para necesidades específicas de los miembros
+- **Equipamiento especializado**: Sin instalaciones de entrenamiento, laboratorio o centro médico
+
+---
+
+## 💼 **Financiación y Organización (Agosto 2025)**
+
+### **Búsqueda de Empleos para Costear la Base**
+Para poder pagar la renovación a Malik, cada miembro de La Fuerza Oculta ha tenido que buscar trabajo:
+
+#### **Empleos de los Miembros**
+- **Psique/Cia**: Trabaja como "superpsicóloga" en negro en un despacho proporcionado por Comadreja
+- **Eslizón Esmeralda**: Da clases particulares a universitarios de ciencias
+- **Hotman**: Desarrolla un canal de OnlyFans metahumano como influencer superheroico
+- **Sentencia/Justa**: Trabaja como personal trainer en el gimnasio de Comadreja
+- **Diana**: Contribuye mediante sus recursos familiares
+- **Astrid/Kayface**: Apoya las actividades grupales
+
+#### **Desafíos Económicos**
+- **Pago considerable**: La renovación requiere un desembolso importante para el grupo
+- **Trabajo en negro**: Varios miembros operan en economía sumergida por su estatus de menores
+- **Coordinación**: Deben balancear trabajo, heroísmo y estudios
+
+### **Estado Actual de la Base**
+#### **Lo que Está Completo**
+- **Estructura básica**: Limpieza, electricidad, agua, baños, internet
+- **Espacio habitable**: Técnicamente habitable pero completamente vacío
+
+#### **Lo que Falta por Hacer**
+- **Mobiliario básico**: Camas, mesas, sillas, armarios
+- **Organización del espacio**: Decidir distribución de áreas
+- **Equipamiento**: Cualquier equipamiento especializado para sus actividades
+- **Acondicionamiento**: Adaptaciones para las necesidades específicas de cada miembro
+- **Seguridad**: Sistemas de protección y comunicación avanzados
+
+### **Proceso de Construcción en Curso**
+- **Fase actual**: Post-renovación básica, inicio de amueblado
+- **Responsabilidad grupal**: Cada miembro debe contribuir a planificar y equipar su espacio
+- **Decisiones pendientes**: Distribución de habitaciones, áreas comunes, espacios especializados
+- **Recursos limitados**: Deben priorizar compras según presupuesto disponible
 
 ---
 
 ## 🌐 **Ubicación Estratégica**
 
 ### **Posición Geográfica**
-- **Distrito Mártir**: Ubicación en distrito de 900,000 habitantes
+- **Distrito Martis**: Ubicación en distrito de 180,000 habitantes
 - **Red subterránea**: Conexión con sistema expandido de alcantarillado
 - **Acceso múltiple**: Rutas variadas hacia diferentes distritos de Arcadia
 - **Proximidad a superficie**: Acceso controlado a instalaciones de agua urbanas
@@ -274,24 +295,24 @@ La Base de La Fuerza Oculta representa varios temas narrativos fundamentales:
 ## 🔮 **Estado Actual y Proyección Futura**
 
 ### **Situación en 2025**
-La base se encuentra completamente operativa:
-- **Funcionalidad total**: Todos los sistemas básicos operando correctamente
-- **Habitabilidad completa**: Espacio residencial cómodo para todos los miembros
-- **Capacidad operativa**: Lista para servir como centro de coordinación heroica
-- **Seguridad establecida**: Protocolos de acceso y protección implementados
+La base se encuentra en estado básico tras la renovación:
+- **Servicios esenciales**: Electricidad, agua corriente, baños e internet operativos
+- **Espacio habitable**: Limpio y estructuralmente seguro, pero completamente vacío
+- **Sin equipamiento**: Carece de mobiliario, camas o instalaciones especializadas
+- **Acceso seguro**: Entrada secreta conocida solo por el grupo
 
-### **Potencial de Expansión**
-#### **Mejoras Planificadas**
-- **Equipamiento avanzado**: Instalación de tecnología especializada según necesidades
-- **Espacios especializados**: Desarrollo de áreas para funciones específicas
-- **Sistemas defensivos**: Implementación de medidas de seguridad más sofisticadas
-- **Capacidad de hospedaje**: Preparación para alojar aliados temporales
+### **Necesidades Inmediatas**
+#### **Equipamiento Básico**
+- **Mobiliario**: Camas, mesas, sillas y elementos básicos de habitabilidad
+- **Almacenamiento**: Espacios para guardar equipamiento y pertenencias
+- **Comunicaciones**: Líneas telefónicas seguras para coordinación
+- **Seguridad**: Sistemas de detección y protección básicos
 
-#### **Integración con Red Heroica**
-- **Centro de coordinación**: Hub para cooperación con otros grupos heroicos
-- **Base de entrenamiento**: Espacio para desarrollo de nuevos metahumanos
-- **Archivo de inteligencia**: Centro de información sobre amenazas criminales
-- **Refugio de emergencia**: Santuario para metahumanos en crisis
+#### **Desarrollo Futuro**
+- **Planificación del espacio**: Distribución de áreas según necesidades del grupo
+- **Adquisición de muebles**: Compra o construcción de equipamiento necesario
+- **Adaptaciones específicas**: Posibles modificaciones para miembros con necesidades especiales
+- **Expansión de servicios**: Mejoras según recursos y requisitos operativos
 
 ### **Legado a Largo Plazo**
 - **Modelo de independencia**: Ejemplo para futuras generaciones de héroes jóvenes

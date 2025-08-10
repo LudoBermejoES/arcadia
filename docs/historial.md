@@ -471,4 +471,62 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **8+ archivos de detalles** actualizados con secciones de imagen
 - **6+ archivos de geografía** actualizados con información de distritos
 
-**Última actualización del historial**: 05 de Agosto de 2025 - 18:30
+### **10 de Agosto de 2025**
+
+#### **🏢 Nueva Ubicación: Almacenes Hêvî**
+- **Creada ubicación completa** - Centro comercial multicultural del Distrito Martis:
+  - **13 tipos de establecimientos** documentados con propietarios específicos
+  - **Cafeterías**: Café Central (Ahmed Hassan), Café del Primer Piso (Emma O'Brien)
+  - **Restaurantes**: 4 restaurantes internacionales con chefs especializados
+  - **Tiendas especializadas**: Boutique persa, joyería india, mercado sirio, gimnasio checo
+  - **Servicios técnicos**: Electrodomésticos, ordenadores, perfumería, arcade japonés
+  - **Población diversa**: 60+ personajes de múltiples nacionalidades (japoneses, rusos, africanos, árabes, europeos, latinos)
+
+#### **🖼️ Integración de Imagen de Ubicación**
+- **Añadida imagen oficial** - Vista aérea de Almacenes Hêvî con arquitectura clásica:
+  - Formato Jekyll con `{{ site.baseurl }}` para compatibilidad GitHub Pages
+  - Estilo `location-photo` para consistencia visual
+  - Caption descriptivo integrado
+
+#### **🔧 Corrección Crítica de Base de La Fuerza Oculta**
+- **Eliminación de información inventada** - Corrección masiva de detalles no documentados en sesiones:
+  - **Removidos**: Habitaciones individuales, zona climática para Eslizón, centro telepático para Psique
+  - **Removidos**: Arsenal táctico, sistema de seguridad avanzado, adaptaciones especializadas
+  - **Confirmado estado real**: Solo electricidad, agua, baños e internet RJ-45
+  - **Actualizado**: Base vacía sin camas, muebles o equipamiento, requiere organización completa
+
+#### **💼 Documentación de Situación Económica**
+- **Añadida sección de financiación** - Explicación detallada del estado económico actual:
+  - **Empleos documentados**: Psique (superpsicóloga), Eslizón (profesor particular), Hotman (OnlyFans)
+  - **Situación real**: Miembros trabajan para pagar renovación a Malik
+  - **Desafíos económicos**: Trabajo en negro por estatus de menores
+  - **Necesidades pendientes**: Compra de mobiliario básico y organización del espacio
+
+#### **🗺️ Actualización Mayor del Distrito Martis**
+- **Expansión completa de geografía** - Documentación exhaustiva de ubicaciones conocidas:
+  - **Almacenes Hêvî**: Centro comercial con todos los establecimientos detallados
+  - **Base de La Fuerza Oculta**: Estación de metro abandonada con estado actual real
+  - **Infraestructura urbana**: Red de alcantarillado, instalaciones de agua municipal
+  - **Áreas residenciales**: Viviendas sociales y barrios obreros documentados
+  - **Instituciones**: Central sindical, escuelas técnicas, cooperativas de trabajadores
+
+#### **🏛️ Índice de Ubicaciones Actualizado**
+- **Nueva sección del Distrito Martis** - Añadida categoría completa en el índice de ubicaciones:
+  - Descripción como "hub cultural y económico" para 180,000 habitantes
+  - Enlaces cruzados con otras ubicaciones relevantes
+  - Integración con sistema de navegación existente
+
+#### **🔗 Mejora de Enlaces Cruzados**
+- **Enlaces internos optimizados** - Conexiones bidireccionales entre:
+  - Distrito Martis ↔ Almacenes Hêvî ↔ Base de La Fuerza Oculta
+  - Índice de ubicaciones ↔ Páginas de distritos individuales
+  - Personajes propietarios ↔ Sus establecimientos comerciales
+
+#### **📊 Estadísticas de la Actualización**
+- **1 nueva ubicación mayor** creada con documentación completa
+- **60+ personajes** asignados a roles específicos como propietarios
+- **13 tipos de comercios** documentados en detalle
+- **4 archivos principales** actualizados con información cruzada
+- **Corrección de información inventada** en base heroica principal
+
+**Última actualización del historial**: 10 de Agosto de 2025 - 20:45

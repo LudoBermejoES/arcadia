@@ -401,6 +401,62 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 - **Servicios**: Guarderías públicas, centros de formación profesional, comedores sociales
 - **Instituciones**: Central Sindical, Escuelas Técnicas, Cooperativas de Trabajadores
 
+## 📍 **Ubicaciones Conocidas**
+
+### **Comercial y Servicios**
+
+#### **[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**
+**Tipo:** Centro Comercial Multicultural  
+**Descripción:** Complejo comercial de dos plantas que representa el espíritu cosmopolita del distrito trabajador. Incluye restaurantes internacionales, cafeterías, tiendas de ropa, joyería, gimnasio, arcade y comercios variados. Regentado por inmigrantes y refugiados de múltiples nacionalidades, funciona como hub cultural y económico del distrito.
+
+**Establecimientos destacados:**
+- **Restaurantes:** Asador Napolitano (Giuseppe Romano), Grill Mediterráneo (Amina Okafor), Cantina Mexicana (Roberto Herrera), Sports Bar & Grill (Diego Fernandez)
+- **Cafeterías:** Café Central (Ahmed Hassan), Café del Primer Piso (Emma O'Brien)
+- **Tiendas:** Boutique Nasiri (Leila Nasiri), Joyería Mehta (Indira Mehta), Mercado Al-Mahmoud (Bashir Al-Mahmoud)
+- **Servicios:** Fitness Novak (Karolina Novak), Tech Solutions Volkov (Dimitri Volkov), Perfumería Al-Rashid (Fatima Al-Rashid)
+
+### **Subterráneo**
+
+#### **[Base de La Fuerza Oculta - Estación de Metro Abandonada]({{ site.baseurl }}/locations/base-fuerza-oculta-estacion-metro/)**
+**Tipo:** Base Heroica Independiente  
+**Descripción:** Antigua estación de metro clausurada por radiación en los años 80, posteriormente utilizada por La Farándula como laboratorio de drogas clandestino. Liberada por La Fuerza Oculta en julio 2025 y transformada en su base operativa tras renovación completa por Hassan Oleg bajo contrato con Malik "El Barón Mendigo".
+
+**Estado actual:** Base con servicios básicos (electricidad, agua, baños, internet RJ-45) pero completamente vacía, sin mobiliario ni equipamiento especializado.
+
+### **Infraestructura Urbana**
+
+#### **Red de Alcantarillado Expandida**
+**Tipo:** Sistema de Transporte Subterráneo  
+**Descripción:** Sistema modificado para permitir transporte humano con compuertas especializadas. Proporciona acceso a las instalaciones subterráneas y conexión con otras partes de la red subterránea de Arcadia.
+
+#### **Instalaciones de Agua de la Ciudad**
+**Tipo:** Infraestructura Municipal  
+**Descripción:** Instalaciones de tratamiento y distribución de agua que sirven como punto de acceso alternativo a la base de La Fuerza Oculta. Incluyen canales de riego urbanos.
+
+### **Áreas Residenciales**
+
+#### **Viviendas Sociales**
+**Tipo:** Residencial Obrero  
+**Descripción:** Conjuntos de viviendas de calidad orientadas a trabajadores del distrito. Diseñadas para familias de clase trabajadora con acceso a servicios comunitarios y transporte público.
+
+#### **Barrios Obreros**
+**Tipo:** Residencial Tradicional  
+**Descripción:** Zonas residenciales consolidadas donde viven empleados industriales, trabajadores especializados y familias de clase media-baja. Caracterizadas por fuerte identidad comunitaria y servicios sindicales.
+
+### **Instituciones y Servicios**
+
+#### **Central Sindical**
+**Tipo:** Institución Laboral  
+**Descripción:** Sede principal de los sindicatos del distrito, centro de organización laboral y servicios para trabajadores.
+
+#### **Escuelas Técnicas**
+**Tipo:** Educación Especializada  
+**Descripción:** Centros de formación profesional que preparan trabajadores especializados para las industrias de Arcadia.
+
+#### **Cooperativas de Trabajadores**
+**Tipo:** Organizaciones Económicas  
+**Descripción:** Empresas cooperativas dirigidas por y para trabajadores del distrito, especializadas en servicios y pequeña industria.
+
 ### Navegación del Mapa
 
 - **Zoom**: Utiliza los controles de zoom (+/-) o la rueda del ratón para explorar diferentes niveles de detalle

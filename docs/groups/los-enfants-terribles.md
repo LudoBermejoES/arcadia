@@ -150,7 +150,7 @@ Los **enfants terribles** representan varios desafíos únicos para la sociedad 
       <img src="{{ site.baseurl }}/assets/img/characters/aisha-espectro-okafor.png" alt="Espectro carmesí" class="character-image" loading="lazy">
     </div>
     <div class="character-info">
-      <h3 class="character-name">Espectro</h3>
+      <h3 class="character-name">Espectro carmesí</h3>
     </div>
   </div>
   

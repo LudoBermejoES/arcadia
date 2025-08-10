@@ -13,8 +13,8 @@ Este repositorio contiene la documentación completa de **15 años de campañas 
 ### Las Tres Campañas Legendarias
 
 1. **🦸‍♂️ [La Familia](docs/campaigns/la-familia/)** - Los héroes fundacionales (2010-2015)
-2. **⚡ [Génesis](docs/campaigns/genesis/)** - La generación puente (2015-2020)  
-3. **🔮 [La Fuerza Oculta](docs/campaigns/la-fuerza-oculta/)** - Los herederos actuales (2020-2025)
+2. **⚡ [Génesis](docs/campaigns/genesis/)** - La generación puente (2013-2014)  
+3. **🔮 [La Fuerza Oculta](docs/campaigns/la-fuerza-oculta/)** - Los herederos actuales (2024-2025)
 
 ### Documentación Disponible
 

@@ -12,42 +12,161 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Agosto 2025**
 
-### **01 de Agosto de 2025**
+### **10 de Agosto de 2025**
 
-#### **📋 Planificación y Análisis**
-- **Día de planificación** - Análisis del sistema de mapas existente y preparación para mejoras
-- **Evaluación de contenido** - Revisión de la estructura de distritos y necesidades de documentación
-- **Preparación técnica** - Investigación de tecnologías para mapas interactivos avanzados
+#### **🏢 Nueva Ubicación: Almacenes Hêvî**
+- **Creada ubicación completa** - Centro comercial multicultural del Distrito Martis:
+  - **13 tipos de establecimientos** documentados con propietarios específicos
+  - **Cafeterías**: Café Central (Ahmed Hassan), Café del Primer Piso (Emma O'Brien)
+  - **Restaurantes**: 4 restaurantes internacionales con chefs especializados
+  - **Tiendas especializadas**: Boutique persa, joyería india, mercado sirio, gimnasio checo
+  - **Servicios técnicos**: Electrodomésticos, ordenadores, perfumería, arcade japonés
+  - **Población diversa**: 60+ personajes de múltiples nacionalidades (japoneses, rusos, africanos, árabes, europeos, latinos)
 
-### **02 de Agosto de 2025**
+#### **🖼️ Integración de Imagen de Ubicación**
+- **Añadida imagen oficial** - Vista aérea de Almacenes Hêvî con arquitectura clásica:
+  - Formato Jekyll con `{{ site.baseurl }}` para compatibilidad GitHub Pages
+  - Estilo `location-photo` para consistencia visual
+  - Caption descriptivo integrado
 
-#### **👥 Expansión de Personajes**
-- **Añadidos 4 nuevos personajes** con documentación completa:
-  - **Eduardo Vaquerizo** - Nuevo personaje con imagen incluida
-  - **François Chala** - Personaje francés con imagen incluida
-  - **Ricky Sataka** - Personaje completamente documentado
-  - **Trifásico** - Nuevo metahumano con poderes eléctricos
+#### **🔧 Corrección Crítica de Base de La Fuerza Oculta**
+- **Eliminación de información inventada** - Corrección masiva de detalles no documentados en sesiones:
+  - **Removidos**: Habitaciones individuales, zona climática para Eslizón, centro telepático para Psique
+  - **Removidos**: Arsenal táctico, sistema de seguridad avanzado, adaptaciones especializadas
+  - **Confirmado estado real**: Solo electricidad, agua, baños e internet RJ-45
+  - **Actualizado**: Base vacía sin camas, muebles o equipamiento, requiere organización completa
 
-#### **🗺️ Primeros Experimentos con Mapas**
-- **Primer intento de mapas interactivos** - Creación inicial del sistema de mapas:
-  - **DistritoAurileano.svg** - Primer mapa en formato SVG
-  - **distritoAurileano.md** - Primera página de distrito con mapa básico
-  - Fundación del concepto de mapas interactivos para distritos
+#### **💼 Documentación de Situación Económica**
+- **Añadida sección de financiación** - Explicación detallada del estado económico actual:
+  - **Empleos documentados**: Psique (superpsicóloga), Eslizón (profesor particular), Hotman (OnlyFans)
+  - **Situación real**: Miembros trabajan para pagar renovación a Malik
+  - **Desafíos económicos**: Trabajo en negro por estatus de menores
+  - **Necesidades pendientes**: Compra de mobiliario básico y organización del espacio
 
-#### **📰 Contenido Narrativo**
-- **Transcripciones de noticias TV** - Añadido contenido de noticias televisivas del universo:
-  - Nuevas transcripciones documentando eventos en el mundo de Arcadia
-  - Integración de medios de comunicación como elemento narrativo
+#### **🗺️ Actualización Mayor del Distrito Martis**
+- **Expansión completa de geografía** - Documentación exhaustiva de ubicaciones conocidas:
+  - **Almacenes Hêvî**: Centro comercial con todos los establecimientos detallados
+  - **Base de La Fuerza Oculta**: Estación de metro abandonada con estado actual real
+  - **Infraestructura urbana**: Red de alcantarillado, instalaciones de agua municipal
+  - **Áreas residenciales**: Viviendas sociales y barrios obreros documentados
+  - **Instituciones**: Central sindical, escuelas técnicas, cooperativas de trabajadores
 
-#### **🏛️ Sociedad y Worldbuilding**
-- **Expandida arcadia-society.md** - Información adicional sobre la estructura social de Arcadia
-- **Actualizaciones en world-building** - Mejoras generales en la documentación del mundo
-- **Actualizada galería de personajes** - Incorporación de nuevas imágenes
+#### **🏛️ Índice de Ubicaciones Actualizado**
+- **Nueva sección del Distrito Martis** - Añadida categoría completa en el índice de ubicaciones:
+  - Descripción como "hub cultural y económico" para 180,000 habitantes
+  - Enlaces cruzados con otras ubicaciones relevantes
+  - Integración con sistema de navegación existente
 
-#### **🖼️ Actualizaciones de Personajes Existentes**
-- **Justa** - Múltiples actualizaciones y correcciones
-- **Roberto McKonick** - Mejoras en documentación
-- **Amira** - Actualizaciones varias en el personaje
+#### **🔗 Mejora de Enlaces Cruzados**
+- **Enlaces internos optimizados** - Conexiones bidireccionales entre:
+  - Distrito Martis ↔ Almacenes Hêvî ↔ Base de La Fuerza Oculta
+  - Índice de ubicaciones ↔ Páginas de distritos individuales
+  - Personajes propietarios ↔ Sus establecimientos comerciales
+
+#### **🖼️ Galería de Los Enfants Terribles**
+- **Añadida galería completa de miembros** - Sección visual "Algunos miembros fotografiados de la banda":
+  - **10 imágenes de personajes** con solo apodos mostrados (sin nombres reales)
+  - **Estilo coherente** con galería principal pero sin enlaces (manteniendo misterio)
+  - **Personajes incluidos**: Espectro carmesí, Salvavidas, Cuchilla, Profeta, Vórtice, Choque, Oleada, Eco, Explosión, Fantasma
+  - **CSS integrado** con diseño responsive y efectos hover
+  - **Filosofía narrativa**: Refuerza que "nadie conoce sus identidades reales"
+
+#### **📊 Estadísticas de la Actualización**
+- **1 nueva ubicación mayor** creada con documentación completa
+- **60+ personajes** asignados a roles específicos como propietarios
+- **13 tipos de comercios** documentados en detalle
+- **4 archivos principales** actualizados con información cruzada
+- **Corrección de información inventada** en base heroica principal
+
+### **05 de Agosto de 2025**
+
+#### **🎨 Reorganización Masiva de la Galería de Personajes**
+- **Transformación estructural completa** - Reorganización de la galería de personajes desde lista única a 14 categorías temáticas:
+  - **Protagonistas**: Personajes principales de campañas (ordenados alfabéticamente)
+  - **Héroes**: Metahumanos heroicos y vigilantes
+  - **Villanos**: Antagonistas y criminales organizados
+  - **Estudiantes**: Personajes en formación académica
+  - **Metacorps**: Empleados y asociados de corporaciones metahumanas
+  - **Periodistas**: Profesionales de medios de comunicación
+  - **Médicos**: Personal sanitario especializado
+  - **Profesionales**: Expertos técnicos y especialistas
+  - **Independientes**: Personajes sin afiliación específica
+  - **Políticos**: Figuras del gobierno y la administración
+  - **Militares**: Personal de fuerzas armadas y seguridad
+  - **Civiles**: Ciudadanos ordinarios sin poderes
+  - **Participantes de Héroes o Villanos**: Concursantes del reality show original
+  - **Otros**: Personajes de clasificación especial
+
+#### **🔄 Recategorización Sistemática de Personajes**
+- **Revisión completa de independientes** - Análisis individual de 15+ personajes para reclasificación apropiada:
+  - **Mateo Shu** y **Cacharrero**: Movidos a Profesionales (especialistas técnicos)
+  - **Amira Roxana**: Reclasificada apropiadamente según su rol
+  - **Roberto McKomick**: Reubicado según su función actual
+- **Auditoría de civiles** - Identificación y reubicación de personajes con poderes mal clasificados:
+  - Múltiples personajes con habilidades metahumanas movidos a categorías apropiadas
+  - Corrección de clasificaciones erróneas de años anteriores
+
+#### **🎭 Nueva Categoría: Participantes de Héroes o Villanos**
+- **Creación de categoría especializada** - Documentación de concursantes del reality show original:
+  - Basada en información del archivo `concurso-heroes-o-villanos.md`
+  - Exclusión correcta de grupos activos como La Fuerza Oculta
+  - Reconocimiento de participantes históricos del programa televisivo
+
+#### **📸 Gestión Integral de Imágenes de Personajes**
+- **Verificación sistemática de imágenes** - Revisión completa de assets visuales:
+  - Confirmación de existencia de archivos de imagen específicos
+  - Adición de secciones de foto faltantes en archivos de detalles
+  - Actualización de múltiples personajes con formato estándar de imagen Jekyll
+- **Personajes actualizados con imágenes**:
+  - **Anarquista**, **Alfonso XIII**, **Antonio Calvero**, **Anianca**, **Alonso Dossantos**
+  - **Las Hermanas Magdalena** y otros personajes identificados sin sección de foto
+
+#### **🔍 Identificación y Adición de Personajes Faltantes**
+- **Auditoría completa de personajes** - Comparación sistemática entre galería y archivos de detalles:
+  - **Las Hermanas Magdalena**: Personajes encontrados y añadidos a la galería
+  - **Felipe Álvarez**, **Ignacio Rodríguez**, **Juan Guzmán**: Personajes adicionales incorporados
+  - **La Desconocida**, **Nicolás Cifuentes**, **Jane Irinar**: Personajes identificados y categorizados
+
+#### **✨ Mejora de Perfil: Alonso Dossantos**
+- **Expansión completa de personaje** - Transformación de descripción básica a perfil detallado:
+  - Desarrollo como director de **"La Primera Orquesta Clásica Metahumana"**
+  - Información detallada sobre innovaciones musicales y impacto cultural
+  - Expansión de trasfondo profesional y contribuciones artísticas
+  - Modelo de mejora para futuros desarrollos de personajes
+
+#### **🔧 Optimizaciones Técnicas**
+- **JavaScript de galería actualizado** - Migración de array simple a objeto categorizado:
+  - Implementación de `characterCategories` con ordenación alfabética automática
+  - Generación dinámica de secciones de galería por categoría
+  - Mantenimiento de compatibilidad con Masonry layout
+- **Estructura HTML mejorada** - Secciones categorizadas con estilos distintivos:
+  - Headers de categoría con gradientes de color
+  - Organización visual clara para navegación mejorada
+
+#### **🗺️ Actualización Mayor de Geografía de Arcadia**
+- **Expansión del sistema de distritos** - Documentación completa de los 7 distritos residenciales:
+  - **Distrito Náutico**: Nuevo distrito marítimo con puerto principal y actividades acuáticas
+  - **Distrito Clásico**: Documentación ampliada del centro administrativo y gubernamental
+  - **Distrito Gótico (Barrio Gótico)**: Información detallada de la zona histórica y sobrenatural
+  - **Distrito Futurista**: Actualización del centro corporativo y tecnológico
+  - **Distrito Eclesiástico**: Expansión de la zona religiosa e institucional
+  - **Distrito Biónico**: Mejora de documentación del área residencial premium
+  - **Los 7 Distritos Residenciales**: Confirmación y organización de distritos habitacionales
+
+#### **🏛️ Corrección de Información Histórica**
+- **Sistema de distritos clarificado** - Corrección de inconsistencias sobre el número total de distritos:
+  - Confirmación de **12 distritos únicos totales** (5 especializados + 7 residenciales)
+  - Eliminación de referencias obsoletas a "7 distritos totales"
+  - Actualización de múltiples archivos de geografía para coherencia
+- **Enlaces de navegación actualizados** - Mejora de la interconexión entre páginas geográficas
+
+#### **📊 Estadísticas de Reorganización**
+- **14 categorías temáticas** creadas desde sección única original
+- **163 personajes** reorganizados sistemáticamente
+- **10+ personajes** recategorizados por primera vez
+- **4 personajes faltantes** identificados y añadidos
+- **8+ archivos de detalles** actualizados con secciones de imagen
+- **6+ archivos de geografía** actualizados con información de distritos
 
 ### **03 de Agosto de 2025**
 
@@ -96,6 +215,43 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Enlaces cruzados completos** - Sistema de navegación coherente entre todas las páginas de geografía
 - **Mapas interactivos accesibles** - Enlaces directos desde páginas principales a mapas funcionales
 - **Estructura consistente** - Formato unificado para todas las páginas de distritos
+
+### **02 de Agosto de 2025**
+
+#### **👥 Expansión de Personajes**
+- **Añadidos 4 nuevos personajes** con documentación completa:
+  - **Eduardo Vaquerizo** - Nuevo personaje con imagen incluida
+  - **François Chala** - Personaje francés con imagen incluida
+  - **Ricky Sataka** - Personaje completamente documentado
+  - **Trifásico** - Nuevo metahumano con poderes eléctricos
+
+#### **🗺️ Primeros Experimentos con Mapas**
+- **Primer intento de mapas interactivos** - Creación inicial del sistema de mapas:
+  - **DistritoAurileano.svg** - Primer mapa en formato SVG
+  - **distritoAurileano.md** - Primera página de distrito con mapa básico
+  - Fundación del concepto de mapas interactivos para distritos
+
+#### **📰 Contenido Narrativo**
+- **Transcripciones de noticias TV** - Añadido contenido de noticias televisivas del universo:
+  - Nuevas transcripciones documentando eventos en el mundo de Arcadia
+  - Integración de medios de comunicación como elemento narrativo
+
+#### **🏛️ Sociedad y Worldbuilding**
+- **Expandida arcadia-society.md** - Información adicional sobre la estructura social de Arcadia
+- **Actualizaciones en world-building** - Mejoras generales en la documentación del mundo
+- **Actualizada galería de personajes** - Incorporación de nuevas imágenes
+
+#### **🖼️ Actualizaciones de Personajes Existentes**
+- **Justa** - Múltiples actualizaciones y correcciones
+- **Roberto McKonick** - Mejoras en documentación
+- **Amira** - Actualizaciones varias en el personaje
+
+### **01 de Agosto de 2025**
+
+#### **📋 Planificación y Análisis**
+- **Día de planificación** - Análisis del sistema de mapas existente y preparación para mejoras
+- **Evaluación de contenido** - Revisión de la estructura de distritos y necesidades de documentación
+- **Preparación técnica** - Investigación de tecnologías para mapas interactivos avanzados
 
 ---
 
@@ -529,4 +685,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **4 archivos principales** actualizados con información cruzada
 - **Corrección de información inventada** en base heroica principal
 
-**Última actualización del historial**: 10 de Agosto de 2025 - 20:45
+**Última actualización del historial**: 10 de Agosto de 2025 - 21:30

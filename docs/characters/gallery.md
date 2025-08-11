@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>173 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>174 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -384,6 +384,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
+      { slug: 'nasrin-ahmadi', name: 'Nasrin Ahmadi', image: 'nasrin-ahmadi.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),

@@ -15,7 +15,7 @@ slug: carmen-delgado
 Carmen Delgado es una camarera que trabaja en la cafetería de los Almacenes Hêvî, en el Distrito Martis. Atendió a La Fuerza Oculta durante su visita de compras en agosto de 2025.
 
 ## Rol y Actividades
-Carmen trabaja como camarera en los Almacenes Hêvî, proporcionando servicio atento a los clientes de la cafetería.
+Carmen trabaja como camarera en el "Café Central" de los Almacenes Hêvî, proporcionando servicio atento a los clientes de la cafetería.
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)

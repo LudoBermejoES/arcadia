@@ -290,6 +290,7 @@ permalink: /characters/character-list/
 - [Marcial Gomez]({{ site.baseurl }}/characters/details/marcial-gomez/) (forense envejecido, desaparecido)
 - [Marta Heredia]({{ site.baseurl }}/characters/details/marta-heredia/) (colega de Ignacio, asesinada)
 - [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)
+- [Nasrin Ahmadi]({{ site.baseurl }}/characters/details/nasrin-ahmadi/) (propietaria arcade "Arcadia 4Ever", Almacenes Hêvî)
 - [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
 ### Estudiantes de OMA

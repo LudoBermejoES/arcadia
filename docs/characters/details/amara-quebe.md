@@ -15,7 +15,7 @@ slug: amara-quebe
 Amara Quebé es la propietaria de una tienda de ropa artesanal en los Almacenes Hêvî, en el Distrito Martis. Especializada en ropa hecha a mano, atendió a La Fuerza Oculta durante su visita de compras en agosto de 2025.
 
 ## Rol y Actividades
-Amara regenta una tienda de ropa especializada en prendas artesanales y hechas a medida en los Almacenes Hêvî.
+Amara regenta "Artesanías Quebé", una tienda especializada en prendas artesanales y hechas a mano en los Almacenes Hêvî.
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)

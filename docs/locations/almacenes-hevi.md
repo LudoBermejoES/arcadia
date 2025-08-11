@@ -36,8 +36,9 @@ El primer piso alberga comercios especializados, entretenimiento y servicios má
 
 ### **Café Central (Planta Baja)**
 **Propietario:** Ahmed Hassan  
-**Nacionalidad:** Árabe  
-**Descripción:** Ubicada estratégicamente en la entrada principal, es el punto de encuentro matutino de trabajadores del distrito. Ahmed, un barista experimentado que trabaja turnos dobles para mantener a su familia, ha convertido este espacio en el corazón social del complejo. Conocido por su café árabe tradicional y su hospitalidad, a pesar del cansancio visible por sus largas jornadas laborales.
+**Personal:** [Carmen Delgado]({{ site.baseurl }}/characters/details/carmen-delgado/) (camarera)  
+**Nacionalidad:** Árabe (propietario)  
+**Descripción:** Ubicada estratégicamente en la entrada principal, es el punto de encuentro matutino de trabajadores del distrito. Ahmed, un barista experimentado que trabaja turnos dobles para mantener a su familia, ha convertido este espacio en el corazón social del complejo. Carmen Delgado, la camarera principal, proporciona servicio atento a los clientes, incluyendo opciones personalizadas como proteínas adicionales. En agosto de 2025 atendió a La Fuerza Oculta durante su visita de compras.
 
 ### **Café del Primer Piso**
 **Propietaria:** Emma O'Brien  
@@ -72,10 +73,15 @@ El primer piso alberga comercios especializados, entretenimiento y servicios má
 
 ## 👕 **TIENDAS DE ROPA**
 
+### **Artesanías Quebé**
+**Propietaria:** [Amara Quebé]({{ site.baseurl }}/characters/details/amara-quebe/)  
+**Nacionalidad:** Marroquí  
+**Descripción:** Tienda especializada en ropa artesanal hecha a mano. Amara ofrece prendas únicas y servicios de cambio de imagen, combinando técnicas tradicionales con diseños modernos. En agosto de 2025 atendió a La Fuerza Oculta, ofreciendo un vestido para Justa, aunque resultó ser demasiado corto para las necesidades del grupo.
+
 ### **Boutique Nasiri**
-**Propietaria:** Leila Nasiri  
+**Propietaria:** [Leila Nasiri]({{ site.baseurl }}/characters/details/leila-nasiri/)  
 **Nacionalidad:** Persa  
-**Descripción:** Tienda de ropa elegante y sofisticada. Leila, ex-diseñadora de moda que escapó de Irán, crea piezas personalizadas para clientela adinerada. Su estilo sofisticado y ojo para la moda han convertido su boutique en referencia de elegancia en el complejo.
+**Descripción:** Tienda de ropa elegante y sofisticada. Leila, ex-diseñadora de moda que escapó de Irán, crea piezas personalizadas para clientela adinerada. Su estilo sofisticado y ojo para la moda han convertido su boutique en referencia de elegancia en el complejo. En agosto de 2025 atendió a La Fuerza Oculta, ayudando a vestir a Diana con ropa blanca elegante.
 
 ### **Moda Urbana Petrov**
 **Propietario:** Aleksandr Petrov  
@@ -173,10 +179,10 @@ El primer piso alberga comercios especializados, entretenimiento y servicios má
 
 ## 🕹️ **ARCADE**
 
-### **Retro Gaming Watanabe**
-**Gerente:** Jin Watanabe  
-**Nacionalidad:** Japonesa  
-**Descripción:** Arcade con máquinas clásicas y modernas. Jin, ex-trabajador de IT especializado en sistemas electrónicos, mantiene todas las máquinas en perfectas condiciones. Su enfoque metodical y expertise técnico garantizan la mejor experiencia de gaming retro del distrito.
+### **Arcadia 4Ever**
+**Propietaria:** [Nasrin Ahmadi]({{ site.baseurl }}/characters/details/nasrin-ahmadi/)  
+**Nacionalidad:** Iraní  
+**Descripción:** Arcade con máquinas clásicas y modernas. Nasrin es una empresaria pragmática que gestiona tanto las máquinas recreativas como las situaciones especiales que puedan surgir. En agosto de 2025 tuvo un encuentro memorable con La Fuerza Oculta, ofreciendo fichas gratis a cambio de mantener discreción tras la demostración espectacular de habilidades de Justa en las máquinas de disparos.
 
 ---
 

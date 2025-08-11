@@ -281,9 +281,12 @@ permalink: /characters/character-list/
 - [Yeng]({{ site.baseurl }}/characters/details/yeng/) (comerciante del mercado negro en la subciudad)
 
 ### Civiles y Familiares
+- [Amara Quebé]({{ site.baseurl }}/characters/details/amara-quebe/) (propietaria tienda ropa artesanal, Almacenes Hêvî)
+- [Carmen Delgado]({{ site.baseurl }}/characters/details/carmen-delgado/) (camarera cafetería, Almacenes Hêvî)
 - [Eduardo Vaquerizo]({{ site.baseurl }}/characters/details/eduardo-vaquerizo/) (vigilante de seguridad, víctima de Saltamontes)
 - [Elena Fuentes]({{ site.baseurl }}/characters/details/elena-fuentes/) (hermana de Ignacio, testigo clave caso Hermanas Magdalena)
 - [Ignacio Fuentes]({{ site.baseurl }}/characters/details/ignacio-fuentes/) (técnico de OMA, desaparecido)
+- [Leila Nasiri]({{ site.baseurl }}/characters/details/leila-nasiri/) (propietaria tienda ropa asiática, Almacenes Hêvî)
 - [Marcial Gomez]({{ site.baseurl }}/characters/details/marcial-gomez/) (forense envejecido, desaparecido)
 - [Marta Heredia]({{ site.baseurl }}/characters/details/marta-heredia/) (colega de Ignacio, asesinada)
 - [Marta Gutierrez]({{ site.baseurl }}/characters/details/marta-gutierrez/) (caso de la empática)

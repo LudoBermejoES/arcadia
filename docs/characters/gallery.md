@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>170 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>173 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -370,7 +370,9 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     civiles: [
+      { slug: 'amara-quebe', name: 'Amara Quebé', image: 'amara-quebe.png' },
       { slug: 'anianca', name: 'Anianca', image: 'anianca.png' },
+      { slug: 'carmen-delgado', name: 'Carmen Delgado', image: 'carmen-delgado.png' },
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
       { slug: 'elena-fuentes', name: 'Elena Fuentes', image: 'elena-fuentes.png' },
@@ -378,6 +380,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
       { slug: 'ignacio-fuentes', name: 'Ignacio Fuentes', image: 'ignacio-fuentes.png' },
+      { slug: 'leila-nasiri', name: 'Leila Nasiri', image: 'leila-nasiri.png' },
       { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },

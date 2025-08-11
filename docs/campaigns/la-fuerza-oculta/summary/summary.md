@@ -507,11 +507,11 @@ La sesión del 3 de agosto completa la transformación de La Fuerza Oculta hacia
 **Consolidación de independencia:**
 Esta sesión marca la transición completa de adolescentes fugitivos a héroes independientes con base operativa propia, ingresos estables, red de contactos diversificada y reconocimiento público. El equilibrio entre pragmatismo heroico y principios morales establece las bases para operaciones de mayor envergadura.
 
-### Sesión 27: Compras en Heavy y Ataque de Les Enfant Terribles (10 agosto 2025)
+### Sesión 27: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) y Ataque de Les Enfant Terribles (10 agosto 2025)
 
 **De compras cotidianas a crisis emergente:**
 
-La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de equipar su base con electrodomésticos en el centro comercial Heavy, en el **Distrito Martis**. La rutina se ve dramáticamente interrumpida por el primer ataque organizado que enfrentan como héroes independientes.
+La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de equipar su base con electrodomésticos en el centro comercial [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), en el **Distrito Martis**. La rutina se ve dramáticamente interrumpida por el primer ataque organizado que enfrentan como héroes independientes.
 
 **Experimentos con la furgoneta:**
 - **Descubrimiento de arsenal**: Diana encuentra en la guantera heroína, entradas antiguas de Los Chunguitos, música sureña y panfletos del programa de Iker Jiménez
@@ -535,7 +535,7 @@ La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia
 
 **Revelaciones importantes:**
 - **Distrito Martis**: Zona con alta inmigración, parte del 1.5 millón de habitantes de las islas de Arcadia
-- **Centro comercial Heavy**: Nueva ubicación social significativa con diversidad comercial
+- **[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**: Nueva ubicación social significativa con diversidad comercial
 - **Dinámica grupal**: Astrid "obnubilada", Eslizón evita ser visto, Hotman dejado "vigilando"
 
 Esta sesión marca el equilibrio entre aspiraciones de normalidad adolescente (compras, moda, diversión) y la realidad constante de vida heroica pública, culminando en la introducción de **Les Enfant Terribles** como nueva amenaza organizacional que requiere respuesta inmediata.
@@ -685,7 +685,7 @@ Esta sesión marca el equilibrio entre aspiraciones de normalidad adolescente (c
 
 **Agosto:**
 - 03/08: Entrega de mercenarios, establecimiento de base e ingresos independientes
-- 10/08: Compras en Heavy, experimentos con furgoneta, ataque de Les Enfant Terribles
+- 10/08: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), experimentos con furgoneta, ataque de Les Enfant Terribles
 - Salto temporal de 2 meses - Consolidación como héroes autónomos
 
 ---

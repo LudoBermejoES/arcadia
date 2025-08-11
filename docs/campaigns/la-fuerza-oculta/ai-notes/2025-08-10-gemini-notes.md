@@ -8,7 +8,7 @@ Registros de la reunión [Transcripción](?tab=t.8nrsp3lqqsam)
 
 ### Resumen
 
-Ludo Bermejo, Kauneda Arashi, Eduardo Vaquerizo y Ernesto Diezhandino comentaron sobre la riqueza mal distribuida en Dublín, los precios del alquiler y las críticas al proceso ETA. Se discutieron las nuevas características de Hero Forge y el desarrollo del personaje de Diana, incluyendo su nuevo estipendio. Los participantes se prepararon para la próxima partida, que involucró un viaje de compras al centro comercial Heavy, donde experimentaron con una furgoneta, se encontraron con fans y tuvieron que lidiar con una explosión causada por "Les Enfant Terribles".
+Ludo Bermejo, Kauneda Arashi, Eduardo Vaquerizo y Ernesto Diezhandino comentaron sobre la riqueza mal distribuida en Dublín, los precios del alquiler y las críticas al proceso ETA. Se discutieron las nuevas características de Hero Forge y el desarrollo del personaje de Diana, incluyendo su nuevo estipendio. Los participantes se prepararon para la próxima partida, que involucró un viaje de compras al centro comercial [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), donde experimentaron con una furgoneta, se encontraron con fans y tuvieron que lidiar con una explosión causada por "Les Enfant Terribles".
 
 ### Detalles
 

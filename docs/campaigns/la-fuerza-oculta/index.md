@@ -98,7 +98,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[20 Julio](manual-notes/session-24-2025-07-20.md)**: Primera misión oficial, infiltración subterránea, descubrimiento de La Farándula
 - **[27 Julio](manual-notes/session-25-2025-07-27.md)**: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación del Puño Gris y sustancias potenciadoras
 - **[3 Agosto](manual-notes/session-26-2025-08-03.md)**: Entrega de mercenarios, establecimiento de base e ingresos independientes
-- **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en Heavy, experimentos con furgoneta, ataque de Les Enfant Terribles
+- **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), experimentos con furgoneta, ataque de Les Enfant Terribles
 
 ---
 

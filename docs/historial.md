@@ -12,6 +12,15 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Agosto 2025**
 
+### **11 de Agosto de 2025**
+
+#### **🔗 Corrección de Referencias a "Heavy"**
+- **Actualizadas todas las referencias** - Cambio masivo de "Heavy" a "[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)":
+  - **Archivos actualizados**: `/summary/summary.md`, `/ai-notes-summary/2025-08-10-gemini-notes.md`, `/index.md`, `/ai-notes/2025-08-10-gemini-notes.md`
+  - **Cambios realizados**: 8+ referencias corregidas con enlaces apropiados
+  - **Consistencia mejorada**: Todas las menciones del centro comercial ahora apuntan correctamente al archivo de ubicación
+  - **Enlaces Jekyll**: Uso correcto de `{{ site.baseurl }}` para compatibilidad GitHub Pages
+
 ### **10 de Agosto de 2025**
 
 #### **🏢 Nueva Ubicación: Almacenes Hêvî**

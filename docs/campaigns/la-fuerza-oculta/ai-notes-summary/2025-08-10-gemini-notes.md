@@ -1,5 +1,5 @@
 # Resumen Analítico - Sesión del 11 de Agosto 2025
-## La Fuerza Oculta: Compras en Heavy y el Ataque de Les Enfant Terribles
+## La Fuerza Oculta: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) y el Ataque de Les Enfant Terribles
 
 ---
 
@@ -13,7 +13,7 @@
 
 ## 🎯 **Resumen Ejecutivo**
 
-La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de ir de compras al centro comercial Heavy, equipando su nueva base con electrodomésticos y experimentando momentos de normalidad adolescente. La rutina se ve dramáticamente interrumpida por el ataque de **"Les Enfant Terribles"**, un grupo de pseudo-metahumanos anarquistas que usan tecnología para emular poderes, marcando la primera confrontación del equipo con amenazas organizadas desde su establecimiento como héroes independientes.
+La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de ir de compras al centro comercial [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), equipando su nueva base con electrodomésticos y experimentando momentos de normalidad adolescente. La rutina se ve dramáticamente interrumpida por el ataque de **"Les Enfant Terribles"**, un grupo de pseudo-metahumanos anarquistas que usan tecnología para emular poderes, marcando la primera confrontación del equipo con amenazas organizadas desde su establecimiento como héroes independientes.
 
 **Momento Clave**: El descubrimiento del arsenal de la furgoneta (heroína, entradas de Los Chunguitos, panfletos de Iker Jiménez) subraya lo absurdo de la situación mientras el equipo debe equilibrar compras cotidianas con su naturaleza heroica pública.
 
@@ -66,7 +66,7 @@ La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia
 - **Asiento emergente**: Compartimento del techo con mecanismo potente
 - **Arsenal secreto**: Descubrimiento de drogas y parafernalia extraña en guantera
 
-### **🛒 Fase II: Compras en Centro Comercial Heavy**
+### **🛒 Fase II: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**
 - **Reconocimiento público**: Fans piden autógrafos a "La Fuerza Oculta"
 - **Dilemas de imagen**: Equilibrio entre normalidad y vida pública heroica
 - **Compras estratégicas**: Electrodomésticos para base (frigorífico, lavadora, lavavajillas, TV, cocina)
@@ -111,7 +111,7 @@ La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia
 - **Táctica disruptiva**: Atacan espacios públicos con espectáculo
 - **Evolución criminal**: De vandalismo simple a amenaza seria
 
-### **🏢 Geografía Social de Heavy**
+### **🏢 Geografía Social de [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**
 - **Centro comercial antiguo**: Bien mantenido pero no moderno
 - **Diversidad comercial**: Desde arcade hasta tiendas especializadas
 - **Reconocimiento público**: Imposible anonimato para héroes conocidos
@@ -192,7 +192,7 @@ Navigación de relaciones interpersonales, críticas constructivas, y establecim
 - **Responsabilidad pública**: Obligación de responder en espacio civil
 
 ### **🌍 Expansión del Mundo**
-- **Centro comercial Heavy**: Nueva ubicación social significativa
+- **[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)**: Nueva ubicación social significativa
 - **Diversidad de NPCs**: Comerciantes, fans, personal de servicio
 - **Complicaciones urbanas**: Navegación de vida heroica en espacios cotidianos
 

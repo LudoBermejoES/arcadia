@@ -507,6 +507,39 @@ La sesión del 3 de agosto completa la transformación de La Fuerza Oculta hacia
 **Consolidación de independencia:**
 Esta sesión marca la transición completa de adolescentes fugitivos a héroes independientes con base operativa propia, ingresos estables, red de contactos diversificada y reconocimiento público. El equilibrio entre pragmatismo heroico y principios morales establece las bases para operaciones de mayor envergadura.
 
+### Sesión 27: Compras en Heavy y Ataque de Les Enfant Terribles (10 agosto 2025)
+
+**De compras cotidianas a crisis emergente:**
+
+La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de equipar su base con electrodomésticos en el centro comercial Heavy, en el **Distrito Martis**. La rutina se ve dramáticamente interrumpida por el primer ataque organizado que enfrentan como héroes independientes.
+
+**Experimentos con la furgoneta:**
+- **Descubrimiento de arsenal**: Diana encuentra en la guantera heroína, entradas antiguas de Los Chunguitos, música sureña y panfletos del programa de Iker Jiménez
+- **Controles tipo arcade**: Justa experimenta con botones sin etiquetas, activando asiento eyectable y lanzallamas
+- **Sistemas desconocidos**: El vehículo revela capacidades ocultas y peligrosas
+
+**Vida social heroica:**
+- **Reconocimiento público**: Un operario tímido les pide autógrafos, confirmando su fama
+- **Imposibilidad de anonimato**: Justa y Diana atraen multitudes en las máquinas recreativas por sus habilidades extraordinarias
+- **Gestión de imagen**: Tensión entre deseos de normalidad y responsabilidades heroicas
+
+**Compras y normalización:**
+- **Tienda de Amara Quebé**: Ropa artesanal a medida, Psique propone cambio de imagen para Justa
+- **Tienda asiática de Leila Nasiri**: Ropa elegante, experimentos estéticos con Diana
+- **Electrodomésticos**: Compra exitosa de nevera, televisión gigante, vitrocerámica, licuadora y lavavajillas
+
+**Crisis emergente:**
+- **Ataque de Les Enfant Terribles**: Granada de humo, ráfaga de ametralladora y voz distorsionada por megáfono
+- **Nueva amenaza**: Grupo anarquista de humanos con dispositivos aumentados que emulan poderes metahumanos
+- **Escalada táctica**: Primera confrontación con amenaza organizada desde su establecimiento independiente
+
+**Revelaciones importantes:**
+- **Distrito Martis**: Zona con alta inmigración, parte del 1.5 millón de habitantes de las islas de Arcadia
+- **Centro comercial Heavy**: Nueva ubicación social significativa con diversidad comercial
+- **Dinámica grupal**: Astrid "obnubilada", Eslizón evita ser visto, Hotman dejado "vigilando"
+
+Esta sesión marca el equilibrio entre aspiraciones de normalidad adolescente (compras, moda, diversión) y la realidad constante de vida heroica pública, culminando en la introducción de **Les Enfant Terribles** como nueva amenaza organizacional que requiere respuesta inmediata.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes
@@ -652,6 +685,7 @@ Esta sesión marca la transición completa de adolescentes fugitivos a héroes i
 
 **Agosto:**
 - 03/08: Entrega de mercenarios, establecimiento de base e ingresos independientes
+- 10/08: Compras en Heavy, experimentos con furgoneta, ataque de Les Enfant Terribles
 - Salto temporal de 2 meses - Consolidación como héroes autónomos
 
 ---

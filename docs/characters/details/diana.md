@@ -37,6 +37,8 @@ Diana actúa como un miembro de apoyo del grupo "La Fuerza Oculta" con inclinaci
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 - [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+- [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
+- [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)
@@ -59,9 +61,10 @@ Tras la sesión del 3 de agosto de 2025, Diana tiene varias tareas y desarrollos
 - **Construcción de identidad independiente**: Consolidar identidad heroica propia
 
 ### **💰 Contribución Económica**
-- **Recursos familiares**: Evaluar cómo usar recursos heredados para beneficio del grupo
-- **Financiación de operaciones**: Contribuir a gastos operativos de La Fuerza Oculta
-- **Gestión discreta**: Mantener privacidad sobre origen de recursos
+- **Fideicomiso desbloqueado**: Acceso a estipendio de **120.000 euros anuales** (agosto 2025)
+- **Financiera principal del grupo**: Realiza tiradas de riqueza para gastos importantes del equipo
+- **Recursos para equipamiento**: Financia compras de electrodomésticos y suministros para la base
+- **Gestión discreta**: Mantener privacidad sobre origen de recursos heredados
 
 ### **🤝 Relaciones y Desarrollo Personal**
 - **Relación con Psique**: Continuar desarrollando relación romántica

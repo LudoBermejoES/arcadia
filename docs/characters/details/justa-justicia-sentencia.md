@@ -38,6 +38,8 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 - [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+- [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
+- [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -110,6 +112,15 @@ Su experiencia militar se evidencia en:
 - **Preparación táctica**: Anticipa necesidades específicas para diferentes tipos de amenaza
 
 La experiencia reciente ha confirmado la transición natural de Justa de especialista en armas a comandante táctica del equipo. Su combinación de experiencia militar, análisis realista y liderazgo adaptable la convierte en el elemento estabilizador crucial para La Fuerza Oculta en operaciones de combate real.
+
+### Desarrollo Físico y Habilidades (Agosto 2025)
+En actividades recientes, Justa ha demostrado evolución tanto física como en habilidades:
+
+- **Crecimiento físico**: A los 17 años, descrita como "más rellenita" y "más cachas", mostrando desarrollo muscular continuo
+- **Habilidades de tiro extremas**: Dominio perfecto de máquinas arcade de disparos que atrae multitudes de espectadores
+- **Precisión sobrehumana**: Su rendimiento en juegos de tiro es tan extraordinario que la gente sospecha que no es una persona normal
+- **Atención no deseada**: Sus habilidades causan grabaciones con móviles y solicitudes de autógrafos, complicando misiones de bajo perfil
+- **Gestión de crisis social**: Aprende a manejar reconocimiento público mientras intenta mantener normalidad adolescente
 
 ## Transformación Filosófica: De Justa a Sentencia
 

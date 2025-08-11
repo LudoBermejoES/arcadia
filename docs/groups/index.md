@@ -36,7 +36,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ---
 
 ### **⚡ Génesis - La Generación Puente**
-**(2015-2020) | 5 Miembros Principales**
+**(2013-2014) | 5 Miembros Principales**
 
 #### **Composición de Transición:**
 - **⚙️ [Sara10/Mecánica](../characters/details/sara10-mecanica.md)** *(Chus)* - Revolución tecnológica
@@ -57,7 +57,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ---
 
 ### **🔮 La Fuerza Oculta - Los Herederos Actuales**
-**(2020-2025) | 6 Miembros Activos**
+**(2024-2025) | 6 Miembros Activos**
 
 #### **Composición Actual:**
 - **🦎 [Eslizón Esmeralda](../characters/details/eslizon-esmeralda.md)** *(Sugus)* - Estratega noble

@@ -31,7 +31,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🔄 **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2015-2020)*
+### 🔄 **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** *(2013-2014)*
 
 **La Generación Puente**
 
@@ -41,7 +41,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2020-2025)*
+### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2024-2025)*
 
 **Los Herederos Complejos**
 

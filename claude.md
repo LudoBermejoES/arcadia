@@ -56,8 +56,8 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 **Legado**: Definieron los códigos heroicos, salvaron Arcadia de destrucción nuclear, establecieron infraestructura heroica moderna.
 
 ### 2. Génesis (Segunda Campaña)
-**Período**: ~2015-2020 (Era de Transición)  
-**Concepto**: La generación puente entre clásico y moderno
+**Período**: 2013-2014 (Era de Transición Breve pero Intensa)  
+**Concepto**: La generación puente entre clásico y moderno, período experimental que exploró nuevas mecánicas y narrativas
 
 **Jugadores y Personajes**:
 - **Chus** → Sara10/Mecánica (Genio tecnológico)
@@ -68,9 +68,11 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 
 **Innovaciones**: Modernización tecnológica, conexiones interdimensionales, digitalización de infraestructura heroica.
 
+**Nota Histórica**: Génesis fue una campaña experimental que se ejecutó de manera concurrente con los últimos años de La Familia, explorando qué sucede cuando una nueva generación debe llenar los zapatos de leyendas vivientes. Su corta duración (2013-2014) la convierte en un puente narrativo intenso entre las dos eras principales.
+
 ### 3. La Fuerza Oculta (Tercera Campaña)
-**Período**: 2020-2025 (Era Actual)  
-**Concepto**: Los herederos enfrentando dilemas morales complejos
+**Período**: 2024-2025 (Era Actual tras Pausa de 9 Años)  
+**Concepto**: Los herederos enfrentando dilemas morales complejos, reinicio del proyecto tras hiato prolongado
 
 **Jugadores y Personajes**:
 - **Sugus** → Eslizón Esmeralda (Estratega noble reptiliano)
@@ -81,6 +83,13 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Jandro** → Hotman (Controlador térmico)
 
 **Características**: Narrativa meta-consciente, dilemas éticos sin respuestas claras, adolescencia bajo presión pública.
+
+**Contexto del Reinicio**: Tras un hiato de 9 años (2015-2023), La Fuerza Oculta representa un renacimiento del proyecto con nuevos elementos:
+- **Documentación IA**: Introducción de transcripciones automáticas con Gemini
+- **Sistema "Héroes o Villanos"**: Migración a un sistema de juego establecido
+- **Meta-narrativa consciente**: Los personajes descubren que la gente juega a su historia como un juego de rol
+- **GitHub Pages**: Documentación web profesional en tiempo real
+- **Madurez narrativa**: 15 años de experiencia aplicados a historias más complejas
 
 ## Campañas Especializadas
 
@@ -152,13 +161,35 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 3. **Arcadia Awakening** - Aparición de los primeros metahumanos
 4. **Last Twenty Years** - Era moderna pre-heroica
 5. **Golden Age** - Era de La Familia (2010-2015)
-6. **Maturity Arrives** - Era compleja actual (2015-2025)
+6. **Maturity Arrives** - Era compleja actual (2024-2025, tras pausa 2015-2023)
 
-### ⏰ **Línea Temporal Actual**
-- **2010**: Inicio de La Familia
-- **2015**: Transición a Génesis
-- **2020**: Comienzo de La Fuerza Oculta
-- **2025**: Campañas activas actuales
+### ⏰ **Línea Temporal Detallada**
+- **2010-2015**: Era de La Familia (42 sesiones documentadas)
+  - Los fundadores establecen los códigos heroicos
+  - Salvación de Arcadia de destrucción nuclear
+  - Desarrollo de infraestructura heroica moderna
+- **2013-2014**: Era de Génesis (6 sesiones, solapamiento con La Familia)
+  - Campaña experimental ejecutada concurrentemente
+  - Exploración de nueva generación de héroes
+  - Modernización tecnológica y conexiones interdimensionales
+- **2015-2023**: El Gran Hiato (9 años de pausa narrativa)
+  - Los jugadores tomaron un descanso del proyecto
+  - El mundo de Arcadia "continuó" existiendo conceptualmente
+  - Desarrollo de la profesionalización del sistema "Héroes o Villanos"
+- **2024**: Renacimiento con La Fuerza Oculta
+  - Reinicio del proyecto tras 9 años
+  - Nueva generación de personajes herederos
+  - Introducción de elementos meta-narrativos conscientes
+- **2025**: Era de Documentación Avanzada
+  - Transcripciones AI con Gemini
+  - Archivo web completo en GitHub Pages
+  - Proyecto se vuelve consciente de sí mismo
+
+### 🔄 **Particularidades Cronológicas del Proyecto**
+- **Tiempo Real ≠ Tiempo Narrativo**: A diferencia de otros proyectos de rol, Arcadia tuvo una pausa real de 9 años que se integra narrativamente
+- **Solapamiento de Campañas**: Génesis se ejecutó parcialmente durante La Familia, creando continuidad única
+- **Meta-tiempo**: Los personajes de La Fuerza Oculta descubren que su historia se convirtió en un juego popular durante el hiato
+- **Documentación Evolutiva**: Cada era tiene diferente nivel de documentación (manual → AI → web profesional)
 
 ## Características Narrativas Únicas
 
@@ -192,7 +223,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 
 ### 📊 **Estadísticas del Proyecto**
 - **15 años** de desarrollo continuo (2010-2025)
-- **78 sesiones** documentadas (41 La Familia + 6 Génesis + 31 La Fuerza Oculta)
+- **78 sesiones** documentadas (42 La Familia + 6 Génesis + 30 La Fuerza Oculta)
 - **163 personajes** detallados
 - **50+ organizaciones** activas
 - **6 campañas** principales y especializadas
@@ -249,6 +280,50 @@ Con campañas aún activas en 2025, Arcadia continúa creciendo. Cada sesión a�
 **Un testimonio viviente de que las mejores historias no se escriben - se viven.**
 
 ---
+
+---
+
+## 🤖 **Guía Detallada para Claude Code**
+
+### 📅 **Comprensión de la Cronología Crítica**
+
+**IMPORTANTE**: El proyecto Arcadia tiene una cronología única que debe entenderse correctamente:
+
+#### **Cronología Real de Campañas:**
+1. **La Familia**: 2010-2015 (5 años continuos, 42 sesiones)
+2. **Génesis**: 2013-2014 (2 años, solapamiento con La Familia, 6 sesiones)
+3. **Pausa del Proyecto**: 2015-2023 (9 años sin juego activo)
+4. **La Fuerza Oculta**: 2024-2025 (reinicio tras hiato, 30+ sesiones)
+
+#### **Por Qué Esta Cronología Es Importante:**
+- **Génesis NO fue 2015-2020**: Fue una campaña experimental breve (2013-2014)
+- **La Fuerza Oculta NO empezó en 2020**: Empezó en 2024 tras 9 años de pausa
+- **El hiato (2015-2023) es narrativamente significativo**: Los personajes descubren que su historia se convirtió en un juego popular durante este período
+
+#### **Elementos Meta-Narrativos Clave:**
+- Los personajes de La Fuerza Oculta juegan al sistema "Héroes o Villanos"
+- Descubren que hay gente "jugando a ser ellos" en el mundo real
+- Esta es la clave de la meta-narrativa: el juego dentro del juego
+- El hiato de 9 años permitió que su historia se "profesionalizara" como sistema de juego
+
+### 🎯 **Elementos Únicos que Debes Entender:**
+
+#### **1. Continuidad Multigeneracional:**
+- Algunos jugadores participaron en múltiples campañas con diferentes personajes
+- **Chus**: Mésmero (La Familia) → Sara10/Mecánica (Génesis) → No participa en La Fuerza Oculta
+- **Conchi**: Garra (La Familia) → Lúmen (Génesis) → Psique/Cia (La Fuerza Oculta)
+- **Edu**: El Faraón (La Familia) → No participa en Génesis → Justa/Justicia/Sentencia (La Fuerza Oculta)
+
+#### **2. Evolución Tecnológica de la Documentación:**
+- **La Familia (2010-2015)**: Notas manuales del DM durante las sesiones
+- **Génesis (2013-2014)**: Documentación mínima, campaña experimental
+- **La Fuerza Oculta (2024-2025)**: Transcripciones AI automáticas + notas manuales + GitHub Pages
+
+#### **3. El Significado del Hiato (2015-2023):**
+- No fue abandono del proyecto, sino una pausa consciente
+- Durante este tiempo, conceptualmente, el sistema "Héroes o Villanos" se desarrolló
+- Los jugadores retomaron el proyecto con mayor madurez narrativa
+- La documentación web profesional surge en esta era de reinicio
 
 ## 🤖 **Guía para Claude Code**
 

@@ -53,9 +53,9 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 #### **Metahumanos Héroes y Vigilantes**
 - **La Familia** (2010-2015): 6 personajes principales
   - Mésmero, El Faraón, Garra, Esfinge/Atropos, Bate, Estocada
-- **Génesis** (2015-2020): 5 personajes principales  
+- **Génesis** (2013-2014): 5 personajes principales  
   - Sara10/Mecánica, Espectro, Lúmen, Thomas/Raza, Alice Tesla
-- **La Fuerza Oculta** (2020-2025): 6 personajes principales
+- **La Fuerza Oculta** (2024-2025): 6 personajes principales
   - Eslizón Esmeralda, Diana, Astrid/Kayface, Psique/Cia, Justa/Justicia/Sentencia, Hotman
 - **La Cacería Salvaje**: 5 hermanos bestiales
   - Vista, Tacto, Oído, Olfato, Gusto
@@ -91,14 +91,14 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Estado**: Campaña completada, archivo histórico
 - **Legado**: Estableció los códigos heroicos de Arcadia
 
-#### **🔄 Génesis (2015-2020)**  
+#### **🔄 Génesis (2013-2014)**  
 - **Sesiones Documentadas**: 6 sesiones registradas
 - **Período**: Era de transición y modernización
 - **Jugadores**: 5 participantes principales
 - **Estado**: Archivo parcial, transición completa
 - **Innovación**: Digitalización de infraestructura heroica
 
-#### **🎯 La Fuerza Oculta (2020-2025)**
+#### **🎯 La Fuerza Oculta (2024-2025)**
 - **Sesiones Documentadas**: 23 sesiones activas
 - **Período**: Era actual de dilemas morales complejos
 - **Jugadores**: 6 participantes activos

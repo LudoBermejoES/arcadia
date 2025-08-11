@@ -27,12 +27,12 @@ permalink: /all-content/
 - [Sesión 36]({{ site.baseurl }}/campaigns/la-familia/session-36/) | [Sesión 37]({{ site.baseurl }}/campaigns/la-familia/session-37/) | [Sesión 38]({{ site.baseurl }}/campaigns/la-familia/session-38/) | [Sesión 39]({{ site.baseurl }}/campaigns/la-familia/session-39/) | [Sesión 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
 - [Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 
-#### **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** - Segunda Campaña (2015-2020)
+#### **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** - Segunda Campaña (2013-2014)
 **6 Sesiones Documentadas:**
 - [Sesión 01]({{ site.baseurl }}/campaigns/genesis/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/genesis/session-02/) | [Sesión 03]({{ site.baseurl }}/campaigns/genesis/session-03/) 
 - [Sesión 04]({{ site.baseurl }}/campaigns/genesis/session-04/) | [Sesión 05]({{ site.baseurl }}/campaigns/genesis/session-05/) | [Sesión 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
-#### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2020-2025)
+#### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2024-2025)
 
 **Notas Manuales (24 Sesiones):**
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02/) | [Sesión 03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-03/) | [Sesión 04]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-04/) | [Sesión 05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-05/)
@@ -171,8 +171,8 @@ permalink: /all-content/
 
 ### **📅 Por Cronología**
 - **2010-2015**: Era de La Familia (41 sesiones)
-- **2015-2020**: Era de Génesis (6 sesiones + solapamiento)
-- **2020-2025**: Era de La Fuerza Oculta (31 sesiones: 24 manuales + 7 IA)
+- **2013-2014**: Era de Génesis (6 sesiones + solapamiento)
+- **2024-2025**: Era de La Fuerza Oculta (31 sesiones: 24 manuales + 7 IA)
 - **Especiales**: Hospital, Fatum y otros
 
 ### **🎭 Por Temas**

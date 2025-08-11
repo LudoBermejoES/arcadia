@@ -63,7 +63,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Dualidad**: Puente entre mundo humano y criaturas místicas
 
 
-### **⚡ Génesis - La Generación Puente (2015-2020)**
+### **⚡ Génesis - La Generación Puente (2013-2014)**
 
 
 #### [⚙️ **Sara10/Mecánica**]({{ site.baseurl }}/characters/details/sara10-mecanica/) *(Chus)*
@@ -97,7 +97,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Influencia**: Catalizador de eventos que conectan todas las eras
 
 
-### **🔮 La Fuerza Oculta - Los Herederos (2020-2025)**
+### **🔮 La Fuerza Oculta - Los Herederos (2024-2025)**
 
 
 #### [🦎 **Eslizón Esmeralda**]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) *(Sugus)*
@@ -317,8 +317,8 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ### **📅 Por Era de Aparición**
 - **🏛️ Era Clásica (2010-2015)**: La Familia y aliados originales
-- **⚡ Era de Transición (2015-2020)**: Génesis y figuras puente
-- **🔮 Era Moderna (2020-2025)**: La Fuerza Oculta y nuevos desafíos
+- **⚡ Era de Transición (2013-2014)**: Génesis y figuras puente
+- **🔮 Era Moderna (2024-2025)**: La Fuerza Oculta y nuevos desafíos
 
 ---
 

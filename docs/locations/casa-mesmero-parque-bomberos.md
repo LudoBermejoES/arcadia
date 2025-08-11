@@ -49,7 +49,7 @@ El edificio posee elementos únicos que reflejan su ubicación en el Barrio Gót
 
 ---
 
-## 🦸‍♂️ **Función como Refugio Seguro (2020-2025)**
+## 🦸‍♂️ **Función como Refugio Seguro (2024-2025)**
 
 ### **Casa Equipada para Metahumanos**
 Durante la era de **La Fuerza Oculta**, la casa de Mésmero se estableció como refugio especializado:
@@ -101,11 +101,11 @@ La casa proporciona servicios especializados para metahumanos en crisis:
 - **Atropos/Ana Montenegro**: Manipuladora temporal y su familia
 - **Familia de Atropos**: Residentes civiles protegidos
 
-### **Era de Transición (2015-2020)**
+### **Era de Transición (2013-2014)**
 - **Mésmero**: Propietario y mantenedor exclusivo
 - **Visitantes ocasionales**: Veteranos de La Familia para reuniones
 
-### **Era de La Fuerza Oculta (2020-2025)**
+### **Era de La Fuerza Oculta (2024-2025)**
 - **La Fuerza Oculta completa**: Refugio temporal tras fuga del sistema de protección
 - **Garra**: Aparece como guía para la nueva generación
 - **Mésmero**: Anfitrión y mentor especializado

@@ -29,7 +29,7 @@ permalink: /campaigns/la-fuerza-oculta/
 - **Evolución**: De criatura simple a estratega del equipo
 
 #### 💎 **[Diana]({{ site.baseurl }}/characters/details/diana/)** *(Eslizo)*
-- **Poderes**: Fuerza descomunal, resistencia, linaje noble
+- **Poderes**: Detección de puntos débiles, combate directo efectivo
 - **Trasfondo**: Heredera de una poderosa familia metahumana
 - **Conflicto**: Equilibrar privilegio con responsabilidad heroica
 

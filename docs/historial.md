@@ -14,6 +14,33 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ### **11 de Agosto de 2025**
 
+#### **📊 Actualización Sistemática de Documentos Principales**
+- **Actualizados archivos de índice y navegación** - Sincronización completa con el estado actual del proyecto:
+  - **transcriptions.md**: Añadidas 3 nuevas transcripciones AI (2025-07-28, 2025-08-03, 2025-08-10)
+  - **all-content.md**: Actualizado contador de sesiones de La Fuerza Oculta (25 manuales + 8 AI = 33 total)
+  - **index.md**: Corregido número total de sesiones documentadas de 73 a 82
+  - **timeline.md**: Expandida información de 2025 con datos específicos de transcripciones AI
+  - **work-in-progress.md**: Marcadas secciones como "Completamente Disponible" con datos actuales
+
+#### **🔢 Corrección de Conteo de Sesiones**
+- **Cálculo preciso actualizado** - Nueva metodología de conteo:
+  - **La Familia**: 41 sesiones documentadas
+  - **Génesis**: 6 sesiones documentadas  
+  - **La Fuerza Oculta**: 25 sesiones manuales + 8 transcripciones AI = 33 sesiones
+  - **Hospital**: 2 sesiones especiales
+  - **Total actual**: 82 sesiones documentadas (actualización de 73)
+
+#### **📅 Fechas de Actualización Sincronizadas**
+- **Actualización de metadatos** - Todas las páginas principales ahora reflejan "11 de agosto de 2025" como última actualización
+- **Consistencia temporal** - Eliminadas discrepancias en fechas entre archivos de índice
+
+#### **🤖 Documentación de Transcripciones AI**
+- **Estado actualizado**: 8 transcripciones Gemini completadas hasta agosto 2025
+- **Última transcripción**: 2025-08-10-gemini-notes incorporada a todos los índices
+- **Progreso continuo**: Documentación de IA como proceso estándar establecido
+
+### **11 de Agosto de 2025** (Entrada Anterior)
+
 #### **🔗 Corrección de Referencias a "Heavy"**
 - **Actualizadas todas las referencias** - Cambio masivo de "Heavy" a "[Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/)":
   - **Archivos actualizados**: `/summary/summary.md`, `/ai-notes-summary/2025-08-10-gemini-notes.md`, `/index.md`, `/ai-notes/2025-08-10-gemini-notes.md`

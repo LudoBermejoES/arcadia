@@ -11,16 +11,16 @@ Esta página temporalmente alberga enlaces a secciones que están siendo desarro
 ## 📝 Secciones en Desarrollo
 
 ### 🎬 Transcripciones
-**Estado**: ✅ Disponible  
-**Descripción**: Transcripciones automáticas con IA de La Fuerza Oculta  
+**Estado**: ✅ Completamente Disponible  
+**Descripción**: Transcripciones automáticas con IA de La Fuerza Oculta (8 transcripciones hasta agosto 2025)  
 **Enlace**: [Ver Transcripciones]({{ site.baseurl }}/transcriptions/)  
-**Contenido**: Notas de IA, resúmenes analíticos, y notas manuales  
+**Contenido**: Notas de IA, resúmenes analíticos, y notas manuales actualizadas  
 
 ### 📅 Línea Temporal
-**Estado**: ✅ Disponible  
-**Descripción**: Cronología detallada de 15 años del universo de Arcadia  
+**Estado**: ✅ Completamente Disponible  
+**Descripción**: Cronología detallada de 15 años del universo de Arcadia (actualizada a agosto 2025)  
 **Enlace**: [Ver Línea Temporal]({{ site.baseurl }}/timeline/)  
-**Contenido**: Análisis temporal completo de las tres campañas, indicadores narrativos, patrones únicos  
+**Contenido**: Análisis temporal completo de las tres campañas, 82 sesiones documentadas, patrones narrativos únicos  
 
 ## 🔗 Enlaces Temporales
 

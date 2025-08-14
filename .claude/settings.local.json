@@ -81,6 +81,7 @@
       "Bash(diff:*)",
       "Bash(comm:*)"
     ],
-    "deny": []
+    "deny": [],
+    "defaultMode": "acceptEdits"
   }
 }

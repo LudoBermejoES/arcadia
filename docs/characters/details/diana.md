@@ -18,6 +18,7 @@ Diana es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Es
 Diana actúa como un miembro de apoyo del grupo "La Fuerza Oculta" con inclinaciones espirituales y meditativas. Su papel incluye proporcionar perspectiva reflexiva al grupo, participar en entrenamientos de combate, y ofrecer consejos estratégicos. Fue seleccionada para participar en el programa "Héroes o Villanos".
 
 ## Poderes y Habilidades
+- **Detección de puntos débiles**: Capacidad de identificar y golpear puntos débiles estructurales para acelerar demolición
 - **Fuerza sobrehumana letal**: Capaz de causar 8 puntos de daño en combate cuerpo a cuerpo
 - **Combate directo efectivo**: Especialista en ataques físicos directos y devastadores
 - **Prácticas meditativas**: Técnicas de meditación y concentración que mejoran su enfoque

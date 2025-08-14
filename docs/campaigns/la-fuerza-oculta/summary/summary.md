@@ -19,7 +19,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 - **Justa McKomick** (Edu) - Tiradora experta que evoluciona hacia "Sentencia", rechazando el sistema judicial
 - **Eslizón Esmeralda** (Sugus) - Metahumano reptil con habilidades de metamorfosis 
 - **Astrid/Kayface** (Xavi) - Joven con poderes de ilusión y creación de objetos
-- **Diana** (Eslizo) - Heredera genéticamente modificada por Fatum con habilidades telepáticas
+- **Diana** (Eslizo) - Heredera genéticamente modificada por Fatum con capacidad de detectar puntos débiles
 - **Cia/Psique** (Conchi) - Telépata transgénero (Mateo) con poderes de manipulación mental
 - **Hotman** (Jandro) - Metahumano con poderes de calor, hijo de familia adinerada
 

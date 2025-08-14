@@ -21,40 +21,33 @@ La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia
 
 ## 🦸‍♂️ **Desarrollo de Personajes**
 
+### **Personajes Presentes en la Sesión**
+
 ### **🧠 Psique/Cia - La Mediadora Social**
-- Intenta mediar en las tensiones entre Diana y Hotman
-- Critica el trato de Diana hacia Hotman, defendiendo su dedicación
 - Se disfraza con peluca castaña, ropa amplia y gafas de sol para pasar desapercibida
 - Propone compras de ropa y maquillaje antes que electrodomésticos
+- Actúa como mediadora entre Diana y Justa durante las compras
+- Experimenta con controles de la furgoneta junto a sus compañeras
 
 ### **🌟 Diana - La Noble Adinerada**
 - Desbloquea fideicomiso con **120.000 pesetas/euros anuales** de estipendio
-- Realiza tiradas de riqueza para compras del grupo
-- Defiende su carácter fuerte ante críticas del grupo
+- Financia las compras de electrodomésticos para la base
+- Experimenta con botones peligrosos de la furgoneta (activando lanzallamas)
 - Se siente incómoda con vestido demasiado corto en tienda de ropa
 - Recibe sugerencias sobre carrera de modelaje
-
-### **🔥 Hotman - El Experimentador Imprudente**
-- Experimenta temerariamente con controles de la furgoneta
-- Activa múltiples botones desconocidos causando efectos extraños
-- Descubre arsenal en guantera (heroína, entradas antiguas, panfletos)
-- Defiende conservar drogas confiscadas para "emergencias extremas"
+- Negocia con vendedores para obtener mejores equipos
 
 ### **⚖️ Justa/Sentencia - La Guerrera Adaptándose**
 - Descrita como "más rellenita" y "más cachas" a los 17 años
 - Domina perfectamente máquinas arcade de disparos
 - Atrae multitudes por habilidad extraordinaria en juegos
-- Busca vestido más práctico para combate
+- Busca ropa más práctica para combate en las tiendas
+- Experimenta con controles de la furgoneta (activando asientos eyectables)
 
-### **🦎 Eslizón Esmeralda - El Observador Prudente**
-- Actúa como voz de precaución ante experimentos con la furgoneta
-- Propone búsqueda de manual de instrucciones
-- Preocupado por mantener perfil bajo en público
-
-### **✨ Astrid/Kayface - La Estratega de Imagen**
-- Propone liderazgo democrático para el grupo
-- Enfatiza importancia de discreción y perfil bajo
-- Contribuye a discusiones sobre seguridad y táctica
+### **Personajes Ausentes**
+- **Hotman**: Dejado "vigilando" en la base
+- **Eslizón Esmeralda**: Prefirió no ser visto en público
+- **Astrid/Kayface**: Se había "obnubilado" y no participó
 
 ---
 
@@ -149,13 +142,13 @@ La sesión del 11 de agosto presenta a La Fuerza Oculta navegando la experiencia
 ### **💎 Citas Destacadas**
 > *"Siete de cada diez personas en Madrid quieren irse de Madrid"* - Conversación sobre problemas urbanos
 
-> *"Los superhéroes no necesitamos instrucciones"* - Hotman justificando experimentación temeraria
+> *"Los superhéroes no necesitamos instrucciones"* - Comentario de jugador justificando experimentación temeraria
 
 > *"¿Vamos a pelear en braguitas?"* - Justa ante interrupción de compras por ataque
 
 ### **⚡ Momentos de Tensión**
-- **Críticas a Diana**: Confrontación grupal sobre trato a Hotman
-- **Arsenal descubierto**: Decisión sobre qué hacer con drogas encontradas
+- **Discusiones de jugadores**: Conversación meta sobre dinámicas de personajes
+- **Arsenal descubierto**: Decisión sobre qué hacer con drogas encontradas en furgoneta
 - **Reconocimiento público**: Pérdida total de anonimato en arcade
 - **Llegada de amenaza**: Explosión interrumpe normalidad cotidiana
 
@@ -220,7 +213,7 @@ Navigación de relaciones interpersonales, críticas constructivas, y establecim
 - **🛒 Actividades civiles**: 4 ubicaciones comerciales exploradas
 - **🎭 Desarrollo social**: 3 momentos de tensión interpersonal resueltos
 - **⚡ Momentos de acción**: 1 cliffhanger de combate inminente
-- **👥 Participación**: Momentos balanceados para todos los personajes
+- **👥 Participación**: Momentos balanceados para los tres personajes presentes (Diana, Justa, Psique)
 
 ---
 

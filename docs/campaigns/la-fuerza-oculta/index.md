@@ -90,7 +90,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[18 Agosto](manual-notes/session-16-2024-08-18.md)**: Entrega voluntaria, proceso con Ana Montenegro, adopción del nombre "Fuerza Oculta"
 - **[25 Agosto](manual-notes/session-17-2024-08-25.md)**: Juicio público, sentencia con collares inhibidores, escape por intervención misteriosa
 
-### 🦸‍♂️ **Fase VI: Consolidación Heroica (Junio-Julio 2025)**
+### 🦸‍♂️ **Fase VI: Consolidación Heroica (Junio-Agosto 2025)**
 - **[15 Junio](manual-notes/session-20-2025-06-15.md)**: Reunión en mansión Fatum tras meses separados, decisión de ser superhéroes independientes
 - **[22 Junio](manual-notes/session-21-2025-06-22.md)**: Ataque a la mansión, huida, llegada al gimnasio de Comadreja
 - **[6 Julio](manual-notes/session-22-2025-07-06.md)**: Visita a Charada el sastre, diseño de trajes oficiales
@@ -183,13 +183,15 @@ Mezcla elementos de:
 - **[📊 Resúmenes Analíticos](ai-notes-summary/)** - Análisis profundos narrativos
 
 ### 📅 **Por Fecha**
-- **[📁 Junio 2025](sessions/june-2025.md)** - Los orígenes como fugitivos
-- **[📁 Julio 2025](sessions/july-2025.md)** - Profesionalización del equipo
+- **[📁 Sesiones Cronológicas](sessions/)** - Todas las sesiones organizadas por fecha
+- **[📁 Junio 2025](sessions/#junio-2025---los-fugitivos)** - Los orígenes como fugitivos  
+- **[📁 Julio 2025](sessions/#julio-2025---profesionalización-heroica)** - Profesionalización del equipo
+- **[📁 Agosto 2025](sessions/#agosto-2025---independencia-heroica)** - Establecimiento de independencia
 
 ### 🎯 **Por Tema**
-- **[⚖️ Evolución Moral](themes/moral-evolution.md)** - De Justa a Sentencia
-- **[👥 Dinámicas de Grupo](themes/group-dynamics.md)** - Relaciones y conflictos
-- **[🌃 Arcadia Moderna](themes/modern-arcadia.md)** - La ciudad después de 10 años
+- **[⚖️ Navegación Temática](sessions/#navegación-temática)** - Análisis por temas narrativos
+- **[👥 Evolución de la Campaña](sessions/#evolución-de-la-campaña)** - Fases y desarrollo
+- **[🌃 Análisis de Contenido](sessions/#análisis-por-contenido)** - Por tipo de registro
 
 ---
 

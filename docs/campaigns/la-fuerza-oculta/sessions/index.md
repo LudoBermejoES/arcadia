@@ -106,6 +106,19 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 10 de Agosto](2025-08-10.md)
+**"Compras en Almacenes Hêvî y Ataque Terrorista"**
+- 🛒 **Compras**: Día de shopping en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) del Distrito Martis
+- 🚗 **Experimentos**: Descubrimiento de funciones secretas de la furgoneta heredada
+- 👗 **Moda**: Sesiones de cambio de imagen en tiendas locales
+- 🎮 **Reconocimiento**: Interacción con fans en las máquinas recreativas
+- 💥 **Crisis**: Ataque sorpresa de Les Enfant Terribles al centro comercial
+- ⚡ **Cliffhanger**: Sesión termina justo al inicio del enfrentamiento
+
+**Temas Clave**: Vida cotidiana heroica, exposición pública, preparación para nueva amenaza
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -123,7 +136,9 @@ Transcripciones automáticas con análisis:
 - **[2025-07-06-gemini-notes](../ai-notes/2025-07-06-gemini-notes.md)**
 - **[2025-07-13-gemini-notes](../ai-notes/2025-07-13-gemini-notes.md)**
 - **[2025-07-20-gemini-notes](../ai-notes/2025-07-20-gemini-notes.md)**
+- **[2025-07-28-gemini-notes](../ai-notes/2025-07-28-gemini-notes.md)**
 - **[2025-08-03-gemini-notes](../ai-notes/2025-08-03-gemini-notes.md)**
+- **[2025-08-10-gemini-notes](../ai-notes/2025-08-10-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -132,7 +147,9 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 06/07](../ai-notes-summary/2025-07-06-gemini-notes.md)** - Identidad y meta-juego
 - **[Resumen 13/07](../ai-notes-summary/2025-07-13-gemini-notes.md)** - Profesionalización
 - **[Resumen 20/07](../ai-notes-summary/2025-07-20-gemini-notes.md)** - Operación y revelaciones
+- **[Resumen 28/07](../ai-notes-summary/2025-07-28-gemini-notes.md)** - Enfrentamiento La Farándula
 - **[Resumen 03/08](../ai-notes-summary/2025-08-03-gemini-notes.md)** - Independencia y base operativa
+- **[Resumen 10/08](../ai-notes-summary/2025-08-10-gemini-notes.md)** - Vida cotidiana y amenaza terrorista
 
 ---
 
@@ -183,11 +200,11 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 7 sesiones documentadas en detalle
-- **Páginas de Notas**: ~120 páginas de contenido
-- **Horas de Juego**: ~21 horas registradas
+- **Sesiones Totales**: 8 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~140 páginas de contenido
+- **Horas de Juego**: ~24 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
-- **Conexiones Narrativas**: 20+ referencias a campañas anteriores
+- **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 
 ---
 

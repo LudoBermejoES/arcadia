@@ -365,3 +365,5 @@ dist/
 # 3. Keep source images and package.json as backups
 # 4. Ignore temporary processing files and lock files
 # 5. Standard exclusions for Jekyll, OS files, and IDE files
+
+manuales/

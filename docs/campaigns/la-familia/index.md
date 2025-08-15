@@ -7,7 +7,7 @@ permalink: /campaigns/la-familia/
 # La Familia
 ## Primera Campaña - Los Fundadores (2010-2015)
 
-[← Volver al Índice Principal](../../index.md)
+[← Volver al Índice Principal]({{ site.baseurl }}/)
 
 ---
 
@@ -292,12 +292,9 @@ Creación del ecosistema que sostiene la vida heroica:
 - **[Génesis - Continuidad](../genesis/index.md#conexión-con-la-familia)** 
 - **[La Fuerza Oculta - Homenajes](../la-fuerza-oculta/index.md#conexiones-con-la-familia)**
 
-### 🎭 **Análisis Temático**
-- **[Evolución Moral en 15 Años](../../themes/moral-evolution.md)**
-- **[Construcción de Mundo Colaborativo](../../themes/worldbuilding.md)**
 
-### 📊 **Estadísticas del Proyecto**
-- **[Métricas Completas](../../stats/campaign-metrics.md)**
+
+
 
 ---
 

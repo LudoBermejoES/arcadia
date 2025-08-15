@@ -7,7 +7,7 @@ permalink: /campaigns/genesis/
 # Génesis
 ## Segunda Campaña - La Nueva Generación (2013-2014)
 
-[← Volver al Índice Principal](../../index.md)
+[← Volver al Índice Principal]({{ site.baseurl }}/)
 
 ---
 
@@ -214,15 +214,12 @@ Integración de tecnología y heroísmo:
 ## 🚀 Explorar la Evolución
 
 ### 📖 **Conexiones Narrativas**
-- **[La Familia - Legado Transferido](../la-familia/index.md#hacia-génesis)**
-- **[La Fuerza Oculta - Herencias Recibidas](../la-fuerza-oculta/index.md#conexiones-con-génesis)**
+- **[La Familia - Legado Transferido]({{ site.baseurl }}/campaigns/la-familia/#hacia-génesis)**
+- **[La Fuerza Oculta - Herencias Recibidas]({{ site.baseurl }}/campaigns/la-fuerza-oculta/#conexiones-con-génesis)**
 
-### 🎭 **Análisis Temático**
-- **[Evolución Tecnológica en Heroísmo](../../themes/tech-evolution.md)**
-- **[Transiciones Generacionales](../../themes/generational-change.md)**
 
-### 📊 **Métricas de Impacto**
-- **[Innovaciones Catalogadas](../../stats/genesis-innovations.md)**
+
+
 
 ---
 

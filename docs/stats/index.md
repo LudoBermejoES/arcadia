@@ -22,7 +22,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 </div>
 
 <div class="stat-highlight">
-<span class="stat-big">163</span>
+<span class="stat-big">167</span>
 <span class="stat-label">Personajes Detallados</span>
 </div>
 
@@ -42,7 +42,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ## 🦸‍♂️ **Estadísticas de Personajes**
 
 ### **📋 Archivo de Personajes**
-- **Total de Personajes Documentados**: 163 fichas completas
+- **Total de Personajes Documentados**: 167 fichas completas
 - **Personajes con Imágenes**: 78 retratos únicos
 - **Cobertura Visual**: 48.75% de personajes ilustrados
 - **Líneas de Documentación**: 281 líneas en el índice principal
@@ -254,7 +254,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ### **📊 Records de Continuidad**
 - **15 Años Ininterrumpidos**: Sin interrupciones en la narrativa
 - **3 Generaciones Heroicas**: Evolución narrativa documentada
-- **163 Personajes**: Uno de los mayores elencos documentados
+- **167 Personajes**: Uno de los mayores elencos documentados
 - **73 Sesiones**: Registro completo de adventures épicas
 
 ### **🎯 Innovaciones Narrativas**
@@ -281,7 +281,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ### **🎮 Vs. Campañas Tradicionales de RPG**
 - **Duración**: 15 años vs. promedio 2-3 años
-- **Personajes**: 160 vs. promedio 20-50  
+- **Personajes**: 167 vs. promedio 20-50  
 - **Documentación**: 300+ archivos vs. promedio 10-30
 - **Continuidad**: Perfecta vs. frecuentes reinicios
 

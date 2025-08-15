@@ -176,7 +176,6 @@ Exploración de la ciudad 10 años después:
 ### 🎭 **Meta-Narrativa**
 El juego dentro del juego:
 - **[06/07 - Descubrimiento Inicial](2025-07-06.md#meta-narrativa)**
-- **[Análisis Completo del Fenómeno](../themes/meta-narrative.md)**
 
 ---
 

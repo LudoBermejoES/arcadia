@@ -206,7 +206,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 - **Consecuencias Duraderas**: Acciones de campañas anteriores afectan actuales
 
 ### 🌐 **Ecosistema Interconectado**
-- **163 Personajes** documentados con relaciones complejas
+- **167 Personajes** documentados con relaciones complejas
 - **50+ Organizaciones** activas con dinámicas cambiantes
 - **12 Distritos** de Arcadia con características únicas
 - **Múltiples Niveles** - Individual, grupal, institucional, societal
@@ -224,7 +224,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
 ### 📊 **Estadísticas del Proyecto**
 - **15 años** de desarrollo continuo (2010-2025)
 - **78 sesiones** documentadas (42 La Familia + 6 Génesis + 30 La Fuerza Oculta)
-- **163 personajes** detallados
+- **167 personajes** detallados
 - **50+ organizaciones** activas
 - **6 campañas** principales y especializadas
 - **12 distritos** de Arcadia completamente desarrollados
@@ -238,7 +238,7 @@ Este proyecto contiene las notas y registros de **15 años de partidas de rol de
   - `/la-fuerza-oculta/` - 31 sesiones (24 manuales + 7 AI notes)
   - `/hospital/` - 2 sesiones médicas
   - `/fatum/` - Documentación corporativa
-- **`/characters/`** - 163 fichas de personajes detalladas
+- **`/characters/`** - 167 fichas de personajes detalladas
 - **`/groups/`** - Organizaciones y facciones
 - **`/world-building/`** - Elementos del universo
 

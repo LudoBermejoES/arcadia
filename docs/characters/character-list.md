@@ -311,4 +311,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*163 personajes documentados - Última actualización: 5 de agosto de 2025*
+*167 personajes documentados - Última actualización: 5 de agosto de 2025*

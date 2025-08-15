@@ -7,7 +7,7 @@ permalink: /campaigns/hospital/
 # Hospital
 ## Campaña Especial - Thriller Médico Metahumano
 
-[← Volver al Índice Principal](../../index.md) | [📋 Índice Completo](../../all-content.md)
+[← Volver al Índice Principal]({{ site.baseurl }}/) | [📋 Índice Completo]({{ site.baseurl }}/all-content/)
 
 ---
 
@@ -19,14 +19,14 @@ permalink: /campaigns/hospital/
 
 ## 📋 **Sesiones Documentadas**
 
-### **[📝 Sesión 01](session-01.md)**
+### **[📝 Sesión 01]({{ site.baseurl }}/campaigns/hospital/session-01/)**
 **"Emergencia en el Turno de Noche"**
 - 🚨 **Primer Contacto**: Introducción al ambiente hospitalario de Arcadia
 - 🏥 **Protocolos Únicos**: Procedimientos médicos adaptados para metahumanos
 - ⚕️ **Dilemas Éticos**: Decisiones médicas con implicaciones superhumanas
 - 👨‍⚕️ **Personajes Médicos**: Staff hospitalario especializado
 
-### **[📝 Sesión 02](session-02.md)** 
+### **[📝 Sesión 02]({{ site.baseurl }}/campaigns/hospital/session-02/)** 
 **"Códigos de Emergencia Meta"**
 - 🚨 **Crisis Escalada**: Situaciones médicas que solo pueden ocurrir con poderes
 - 🧬 **Ciencia Médica**: Investigación de fisiología metahumana
@@ -168,13 +168,13 @@ A diferencia de las campañas heroicas principales, **Hospital** se centra en:
 ## 🚀 **Explorar las Sesiones**
 
 ### **📋 Navegación Rápida**
-- **[📝 Sesión 01](session-01.md)** - El primer turno de emergencias meta
-- **[📝 Sesión 02](session-02.md)** - Escalada de crisis médicas
+- **[📝 Sesión 01]({{ site.baseurl }}/campaigns/hospital/session-01/)** - El primer turno de emergencias meta
+- **[📝 Sesión 02]({{ site.baseurl }}/campaigns/hospital/session-02/)** - Escalada de crisis médicas
 
 ### **🔗 Conexiones**
-- **[👥 Personajes](../../characters/)** - Staff médico y pacientes
-- **[🌍 Worldbuilding](../../world-building/)** - Contexto médico de Arcadia
-- **[🦸‍♂️ Campañas Principales](../../campaigns/)** - Héroes como pacientes
+- **[👥 Personajes]({{ site.baseurl }}/characters/)** - Staff médico y pacientes
+- **[🌍 Worldbuilding]({{ site.baseurl }}/world-building/)** - Contexto médico de Arcadia
+- **[🦸‍♂️ Campañas Principales]({{ site.baseurl }}/campaigns/)** - Héroes como pacientes
 
 ---
 
@@ -198,4 +198,4 @@ Los conocimientos médicos desarrollados aquí informan:
 
 *Hospital demuestra que en el universo de Arcadia, incluso los aspectos más mundanos como la medicina se vuelven extraordinarios cuando se mezclan con superpoderes. Es un recordatorio de que detrás de cada héroe hay personas normales - médicos, enfermeros, técnicos - que hacen posible que el heroísmo continúe.*
 
-**⚕️ [Explora las Sesiones Médicas →](session-01.md)**
+**⚕️ [Explora las Sesiones Médicas →]({{ site.baseurl }}/campaigns/hospital/session-01/)**

@@ -293,6 +293,14 @@ permalink: /characters/character-list/
 - [Nasrin Ahmadi]({{ site.baseurl }}/characters/details/nasrin-ahmadi/) (propietaria arcade "Arcadia 4Ever", Almacenes Hêvî)
 - [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/) (tío de Justa, custodio de arsenales familiares)
 
+### Pacientes de Althea Argos (Psique)
+- [Carmen Rousseau-Nakamura]({{ site.baseurl }}/characters/details/carmen-rousseau-nakamura/) (arquitecta divorciada, Distrito Futurista)
+- [Viktor Chen-Andersson]({{ site.baseurl }}/characters/details/viktor-chen-andersson/) (ingeniero de sistemas, Distrito Mercurii)
+- [Esperanza Kowalski-Okafor]({{ site.baseurl }}/characters/details/esperanza-kowalski-okafor/) (enfermera jubilada, Distrito Lunae)
+- [Adrian Belmont-Vasquez]({{ site.baseurl }}/characters/details/adrian-belmont-vasquez/) (artista freelance, Distrito Veneris)
+- [Isabella Rodriguez-Tanaka]({{ site.baseurl }}/characters/details/isabella-rodriguez-tanaka/) (contable, Distrito Iovis)
+- [Marcus Thompson-Petrov]({{ site.baseurl }}/characters/details/marcus-thompson-petrov/) (profesor de instituto, Distrito Solis)
+
 ### Estudiantes de OMA
 - [Francisco Moreau]({{ site.baseurl }}/characters/details/francisco-moreau/) (estudiante de Física Aplicada, hermano de Jorge/Espectro, estudiante de Eslizón Esmeralda)
 - [Marina Sato-García]({{ site.baseurl }}/characters/details/marina-sato-garcia/) (estudiante de Química, especializada en ciencias de materiales)

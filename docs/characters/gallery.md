@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>174 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>180 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -386,7 +386,14 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
       { slug: 'nasrin-ahmadi', name: 'Nasrin Ahmadi', image: 'nasrin-ahmadi.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
-      { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' }
+      { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
+      // Pacientes de Althea Argos (Psique)
+      { slug: 'adrian-belmont-vasquez', name: 'Adrian Belmont-Vasquez', image: 'adrian-belmont-vasquez.png' },
+      { slug: 'carmen-rousseau-nakamura', name: 'Carmen Rousseau-Nakamura', image: 'carmen-rousseau-nakamura.png' },
+      { slug: 'esperanza-kowalski-okafor', name: 'Esperanza Kowalski-Okafor', image: 'esperanza-kowalski-okafor.png' },
+      { slug: 'isabella-rodriguez-tanaka', name: 'Isabella Rodriguez-Tanaka', image: 'isabella-rodriguez-tanaka.png' },
+      { slug: 'marcus-thompson-petrov', name: 'Marcus Thompson-Petrov', image: 'marcus-thompson-petrov.png' },
+      { slug: 'viktor-chen-andersson', name: 'Viktor Chen-Andersson', image: 'viktor-chen-andersson.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     entidades: [

@@ -72,6 +72,21 @@ Tras la sesión del 3 de agosto de 2025, Psique tiene varias tareas y desarrollo
 - **Coordinación grupal**: Mantener enlaces telepáticos durante operaciones
 - **Análisis psicológico**: Proporcionar evaluaciones de enemigos y aliados potenciales
 
+#### **👥 Pacientes Regulares de Althea Argos**
+Bajo su identidad profesional como **Althea Argos**, Psique mantiene una consulta psicológica discreta que atiende a una clientela diversa con problemas comunes pero significativos:
+
+- **[Carmen Rousseau-Nakamura](carmen-rousseau-nakamura.md)** *(42 años)* - Arquitecta divorciada del Distrito Futurista. Herencia francesa-japonesa, segunda generación arcadiana. Procesando duelo por divorcio y redefiniendo identidad personal tras 15 años de matrimonio.
+
+- **[Viktor Chen-Andersson](viktor-chen-andersson.md)** *(38 años)* - Ingeniero de sistemas del Distrito Mercurii. Herencia china-sueca, tercera generación arcadiana. Lidiando con ansiedad laboral y síndrome del impostor en empresa tecnológica.
+
+- **[Esperanza Kowalski-Okafor](esperanza-kowalski-okafor.md)** *(55 años)* - Enfermera jubilada del Distrito Lunae. Herencia polaca-nigeriana, primera generación arcadiana. Procesando duelo por pérdida del esposo y adaptándose a la jubilación anticipada.
+
+- **[Adrian Belmont-Vasquez](adrian-belmont-vasquez.md)** *(29 años)* - Artista freelance del Distrito Veneris. Herencia francesa-mexicana, cuarta generación arcadiana. Trabajando ansiedad social y bloqueo creativo tras crisis personal.
+
+- **[Isabella Rodriguez-Tanaka](isabella-rodriguez-tanaka.md)** *(46 años)* - Contable del Distrito Iovis. Herencia española-japonesa, tercera generación arcadiana. Gestionando estrés laboral y conflictos familiares intergeneracionales.
+
+- **[Marcus Thompson-Petrov](marcus-thompson-petrov.md)** *(34 años)* - Profesor de instituto del Distrito Solis. Herencia inglesa-rusa, segunda generación arcadiana. Recuperándose de episodio depresivo y reevaluando carrera profesional.
+
 ## Detalles Adicionales
 Mencia se presenta inicialmente como "Cia" cuando el grupo se conoce, sugiriendo que prefiere mantener cierta distancia o misterio sobre su identidad real. Su naturaleza reservada se confirma cuando "Mencia intenta saber qué piensa Cia y no es capaz de descubrir su pensamiento íntimo", indicando que tiene defensas mentales naturales.
 

@@ -384,6 +384,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
+      { slug: 'nacho-smuck', name: 'Nacho Smück', image: 'nacho-smuck.png' },
       { slug: 'nasrin-ahmadi', name: 'Nasrin Ahmadi', image: 'nasrin-ahmadi.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },

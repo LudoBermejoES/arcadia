@@ -12,7 +12,7 @@ slug: nacho-smuck
 </div>
 
 ## Presentación
-Nacho Smück (nombre completo: Ignacio Smück) es un taxista/conductor de Uber en Arcadia y declarado "Hottie" - fan entusiasta de Hotman. Durante la crisis de Les Enfant Terribles en agosto de 2025, demostró valor excepcional al ayudar a La Fuerza Oculta en una misión de rescate peligrosa, arriesgando su propia seguridad para transportar a los héroes al centro comercial atacado.
+Nacho Smück (nombre completo: Ignacio Smück) es un taxista/conductor de Uber en Arcadia y declarado "Hottie" - fan entusiasta de Hotman. Durante la crisis de Les Enfant Terribles en agosto de 2025, demostró irracionalidad excepcional al ayudar a La Fuerza Oculta en una misión de rescate peligrosa, arriesgando su propia seguridad para transportar a los héroes al centro comercial atacado.
 
 ## Rol y Actividades
 Nacho trabaja como conductor profesional en Arcadia, operando tanto como taxista tradicional como conductor de plataformas digitales como Uber. Su conocimiento de las calles de la ciudad y su disposición a conducir agresivamente cuando la situación lo requiere lo convierten en un recurso valioso durante emergencias.

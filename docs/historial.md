@@ -12,6 +12,57 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Agosto 2025**
 
+### **17 de Agosto de 2025**
+
+#### **🎮 Sesión 28: Les Enfant Terribles y Monos Dorados**
+- **Nueva sesión documentada** - Transcripción completa de la sesión del 17 de agosto 2025:
+  - **Notas manuales**: session-28-2025-08-17.md con eventos detallados
+  - **Transcripción AI**: 2025-08-17-gemini-notes.md procesada automáticamente por Gemini
+  - **Resumen ejecutivo**: Análisis comprehensivo en ai-notes-summary/2025-08-17-gemini-notes.md
+  - **Actualización narrativa**: Primera crisis de comunicación significativa de La Fuerza Oculta
+
+#### **👥 Nuevo Personaje: Nacho Smück**
+- **Creado perfil completo** - Primer fan civil documentado de un héroe específico:
+  - **Identidad**: Taxista/conductor de Uber, fan declarado de Hotman ("Hottie")
+  - **Acción heroica**: Arriesgó su seguridad transportando héroes durante crisis
+  - **Simbolismo**: Representa impacto de La Fuerza Oculta en ciudadanos ordinarios
+  - **Galería actualizada**: Añadido a categoría "civiles" con enlaces apropiados
+
+#### **🦹‍♂️ Les Enfant Terribles - Nueva Amenaza Generacional**
+- **Introducida organización villana adolescente** - Primera amenaza de su propia generación:
+  - **Kai "Vórtice" Nakamura**: Líder con manipulación energética
+  - **Diego "Cuchilla" Santos**: Especialista en combate cuerpo a cuerpo
+  - **Luna "Choque" Petrov**: Miembro capturado por Eslizón Esmeralda
+  - **Eco**: Operador técnico y coordinación
+  - **Método**: Dispositivos interdimensionales y cúpula energética
+
+#### **🐒 Regreso de Amenaza Histórica**
+- **Monos dorados de la Emperatriz de Jade** - Conexión con villanos de los años 60:
+  - Emergencia desde fisuras causadas por dispositivos interdimensionales
+  - Escala masiva: docenas de criaturas agresivas
+  - Implicación: Las amenazas actuales pueden reactivar peligros históricos
+
+#### **📈 Evolución de Personajes Principales**
+- **Actualizados 6 personajes principales** con desarrollo de sesión 28:
+  - **Sentencia**: Evolución hacia violencia calibrada (daño permanente sin muerte)
+  - **Diana**: Desarrollo como protectora grupal, prioriza seguridad de compañeros
+  - **Hotman**: Competencia técnica crítica manipulando energía de cúpula
+  - **Eslizón Esmeralda**: Liderazgo táctico emergente durante crisis de comunicación
+  - **Astrid/Kayface**: Especialización en apoyo táctico con ilusiones coordinadas
+  - **Psique**: Límites telepáticos y necesidad de protección externa
+
+#### **📊 Actualización de Estadísticas del Proyecto**
+- **Sesiones documentadas**: Actualizado de 82 a 83 sesiones totales
+- **Transcripciones AI**: Incrementado de 8 a 9 transcripciones Gemini
+- **Personajes únicos**: Añadido Nacho Smück (173→174 personajes)
+- **Archivos actualizados**: 11 archivos principales con información de sesión 28
+
+#### **🔄 Actualizaciones Sistemáticas**
+- **summaries.md**: Añadida sesión 28 y actualizado conteo de transcripciones AI
+- **index.md**: Actualizado número de sesiones documentadas y fecha de última actualización
+- **Campaña principal**: sessions/index.md, summary.md e index.md actualizados con eventos recientes
+- **AI notes summary**: Nueva página de análisis detallado de la sesión
+
 ### **11 de Agosto de 2025**
 
 #### **📊 Actualización Sistemática de Documentos Principales**
@@ -721,4 +772,4 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **4 archivos principales** actualizados con información cruzada
 - **Corrección de información inventada** en base heroica principal
 
-**Última actualización del historial**: 10 de Agosto de 2025 - 21:30
+**Última actualización del historial**: 17 de Agosto de 2025 - Sesión 28 documentada

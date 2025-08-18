@@ -99,6 +99,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[27 Julio](manual-notes/session-25-2025-07-27.md)**: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación del Puño Gris y sustancias potenciadoras
 - **[3 Agosto](manual-notes/session-26-2025-08-03.md)**: Entrega de mercenarios, establecimiento de base e ingresos independientes
 - **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), experimentos con furgoneta, ataque de Les Enfant Terribles
+- **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: División del equipo, infiltración en cúpula energética, derrota de Les Enfant Terribles, aparición de monos dorados
 
 ---
 
@@ -158,7 +159,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">27+</span>
+<span class="stat-number">28+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

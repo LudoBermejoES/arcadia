@@ -540,6 +540,64 @@ La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia
 
 Esta sesión marca el equilibrio entre aspiraciones de normalidad adolescente (compras, moda, diversión) y la realidad constante de vida heroica pública, culminando en la introducción de **Les Enfant Terribles** como nueva amenaza organizacional que requiere respuesta inmediata.
 
+### Sesión 28: Les Enfant Terribles y el Retorno de los Monos Dorados (17 agosto 2025)
+
+**Crisis de comunicación y amenaza histórica:**
+
+La sesión del 17 de agosto presenta la primera división operativa significativa de La Fuerza Oculta, cuando problemas de comunicación separan al grupo en el momento más crítico desde su independencia.
+
+**División del equipo:**
+- **Grupo de Base** (Eslizón Esmeralda, Hotman, Astrid/Kayface): En la guarida del metro realizando limpieza
+- **Grupo de Compras** (Sentencia, Psique, Diana): En Almacenes Hêvî para adquisiciones rutinarias
+- **Crisis de comunicación**: Corte total de conexiones móviles entre ambos grupos
+
+**Les Enfant Terribles - Nueva generación villana:**
+- **Composición**: Adolescentes aspirantes a metahumanos con tecnología extraña
+- **Miembros identificados**: 
+  - **Kai "Vórtice" Nakamura**: Líder con poderes de manipulación energética
+  - **Diego "Cuchilla" Santos**: Especialista en combate cuerpo a cuerpo con armas
+  - **Eco**: Operador de comunicaciones y tecnología
+  - **Luna "Choque" Petrov**: Miembro capturado por Eslizón Esmeralda
+- **Táctica**: Cúpula de energía azulada aislando el centro comercial
+
+**Dispositivos interdimensionales:**
+- **Tres máquinas misteriosas**: Distribuidas estratégicamente por el centro comercial
+- **Tecnología avanzada**: Vibran en múltiples dimensiones simultáneamente
+- **Objetivo cumplido**: Activación exitosa pese a intervención heroica
+- **Consecuencias imprevistas**: Fisuras en el suelo liberando amenaza histórica
+
+**Regreso de la Emperatriz de Jade:**
+- **Monos dorados**: Criaturas legendarias de supervillana de los años 60
+- **Escala de amenaza**: Docenas de criaturas agresivas emergiendo del subsuelo
+- **Implicaciones históricas**: Conexión con amenazas del pasado de Arcadia
+- **Emperatriz ausente**: Ubicación de la villana original permanece desconocida
+
+**Héroes civiles emergentes:**
+- **Nacho Smück**: Taxista fan de Hotman ("Hottie") que arriesga su vida por ayudar
+- **Colaboración heroica**: Asistencia en infiltración y transporte de emergencia
+- **Reconocimiento público**: Impacto de la fama heroica en ciudadanos ordinarios
+
+**Desarrollo táctico avanzado:**
+- **Infiltración coordinada**: Hotman manipula energía de la cúpula para crear entrada
+- **Eslizón Esmeralda**: Muestra liderazgo capturando enemigos durante escape
+- **Sentencia**: Aplicación de fuerza letal controlada neutralizando a Vórtice y Cuchilla
+- **Psique**: Intento de control mental fallido causando sangrado nasal
+- **Diana**: Intervención protectora evitando daño autoinfligido de Psique
+
+**Evolución de métodos:**
+- **Violencia calibrada**: Sentencia causa daño permanente pero no muerte (destrucción de piernas)
+- **Protección mutua**: Diana prioriza seguridad de compañeros sobre misión
+- **Pragmatismo táctico**: Destrucción de máquina pese a no detener activación
+- **Trabajo en equipo**: Coordinación exitosa pese a separación inicial
+
+**Ramificaciones futuras:**
+- **Amenaza sobrenatural**: Los monos dorados requieren respuesta inmediata
+- **Nueva generación villana**: Les Enfant Terribles como antagonistas recurrentes
+- **Tecnología desconocida**: Dispositivos interdimensionales implican amenaza superior
+- **Escalada de violencia**: Métodos de Sentencia pueden tener consecuencias legales/morales
+
+Esta sesión marca la primera confrontación mayor de La Fuerza Oculta con amenaza organizada de su propia generación, estableciendo paralelos entre aspirantes heroicos y villanos, mientras reintroduce elementos históricos del universo de Arcadia que sugieren conspiración de mayor envergadura.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes

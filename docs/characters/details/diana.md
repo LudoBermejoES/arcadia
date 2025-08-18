@@ -34,6 +34,8 @@ Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel i
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
 - [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
+- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)
@@ -97,3 +99,42 @@ Su papel en combate se ha clarificado como:
 - **Combate directo**: Prefiere enfrentamientos frontales donde su efectividad es más notable
 
 La experiencia reciente ha revelado que Diana ha desarrollado una mentalidad de combate más agresiva y directa, posiblemente influenciada por su herencia de Fatum, pero canalizada hacia objetivos heroicos. Su combinación de detección de puntos débiles y efectividad en combate la convierte en un activo invaluable en situaciones de combate real.
+
+## Desarrollo Reciente: Les Enfant Terribles (Agosto 2025)
+
+### Liderazgo Protector y Madurez Táctica
+El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 revela **evolución significativa** en el rol de Diana dentro del equipo:
+
+#### **Protección Grupal como Prioridad**
+- **Intervención crítica**: Noquea a Psique para evitar daño autoinfligido por sobreesfuerzo telepático
+- **Decisión pragmática**: Prioriza seguridad de compañeros sobre objetivos tácticos inmediatos
+- **Instinto protector**: Actúa por iniciativa propia cuando ve a un compañero en peligro
+- **Madurez en liderazgo**: Toma decisiones difíciles en situaciones de alta presión
+
+*"Diana corrió hacia atrás y la noqueó para evitar que Psique siguiera haciéndose daño tratando de entrar en la mente de Eco."*
+
+#### **Infiltración y Adaptabilidad**
+- **Intento de infiltración**: Intenta convencer a Les Enfant Terribles de que pertenece a su grupo
+- **Adaptación rápida**: Cambia de táctica cuando falla el engaño inicial
+- **Conocimiento táctico**: Comprende la estructura celular de grupos organizados
+- **Persistencia estratégica**: Mantiene presión incluso cuando las tácticas iniciales fallan
+
+#### **Evolución de Métodos de Combate**
+- **Salto heroico**: Pose de entrada clásica desde el piso superior
+- **Posicionamiento estratégico**: Se coloca de manera que puede ver toda la situación
+- **Coordinación sin comunicación**: Trabaja efectivamente con Sentencia pese a separación del grupo
+- **Versatilidad operacional**: Efectiva tanto en combate directo como en maniobras de apoyo
+
+### **Desarrollo de Relaciones Interpersonales**
+- **Protección de Psique**: Su acción demuestra profundización de la relación romántica
+- **Confianza en Sentencia**: Coordina sin comunicación verbal en situaciones críticas
+- **Comprensión del equipo**: Reconoce instintivamente cuándo un compañero está sobrepasado
+- **Liderazgo emergente**: Otros miembros del equipo confían en sus decisiones bajo presión
+
+### **Implicaciones para el Futuro**
+- **Rol de protectora**: Se establece como guardiana de la salud mental y física del equipo
+- **Liderazgo complementario**: Desarrolla estilo de liderazgo diferente pero compatible con Sentencia
+- **Pragmatismo heroico**: Equilibra objetivos de misión con bienestar del equipo
+- **Madurez emocional**: Toma decisiones difíciles que pueden parecer hostiles pero son protectoras
+
+Esta sesión confirma la **evolución de Diana** de combatiente efectiva a **líder protectora**, estableciendo un nuevo estándar para su rol dentro de La Fuerza Oculta como alguien que prioriza la supervivencia y bienestar del equipo por encima de los objetivos operacionales inmediatos.

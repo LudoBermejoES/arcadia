@@ -117,6 +117,18 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 **Temas Clave**: Vida cotidiana heroica, exposición pública, preparación para nueva amenaza
 
+#### [📝 Sesión 17 de Agosto](2025-08-17.md)
+**"Les Enfant Terribles y el Retorno de los Monos Dorados"**
+- 💥 **Separación**: El grupo se divide por problemas de comunicación
+- 🛡️ **Cúpula de Energía**: Almacenes Hêvî queda aislado del exterior
+- 👶 **Enemigos**: Les Enfant Terribles - adolescentes aspirantes a metahumanos
+- 🤖 **Máquinas Misteriosas**: Dispositivos interdimensionales activados
+- 🐒 **Amenaza Histórica**: Aparición de los monos dorados de la Emperatriz de Jade
+- 🚗 **Taxi Heroico**: Nacho Smück, fan de Hotman, ayuda en el rescate
+- ⚡ **Trabajo en Equipo**: Infiltración coordinada a través de la barrera energética
+
+**Temas Clave**: Separación y reunión, amenazas del pasado, nueva generación villana
+
 ---
 
 ## 📊 Análisis por Contenido
@@ -139,6 +151,7 @@ Transcripciones automáticas con análisis:
 - **[2025-07-28-gemini-notes](../ai-notes/2025-07-28-gemini-notes.md)**
 - **[2025-08-03-gemini-notes](../ai-notes/2025-08-03-gemini-notes.md)**
 - **[2025-08-10-gemini-notes](../ai-notes/2025-08-10-gemini-notes.md)**
+- **[2025-08-17-gemini-notes](../ai-notes/2025-08-17-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -150,6 +163,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 28/07](../ai-notes-summary/2025-07-28-gemini-notes.md)** - Enfrentamiento La Farándula
 - **[Resumen 03/08](../ai-notes-summary/2025-08-03-gemini-notes.md)** - Independencia y base operativa
 - **[Resumen 10/08](../ai-notes-summary/2025-08-10-gemini-notes.md)** - Vida cotidiana y amenaza terrorista
+- **[Resumen 17/08](../ai-notes-summary/2025-08-17-gemini-notes.md)** - Les Enfant Terribles y monos dorados
 
 ---
 

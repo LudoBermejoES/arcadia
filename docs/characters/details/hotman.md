@@ -36,6 +36,10 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 - [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+- [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
+- [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
+- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -113,3 +117,48 @@ La experiencia reciente ha mostrado:
 - **Coordinación táctica**: Sincroniza ataques con otros miembros del equipo
 
 La experiencia reciente ha transformado a Hotman de un adolescente entusiasta a un combatiente que ha enfrentado la mortalidad. Su supervivencia a heridas casi letales y su disposición a continuar luchando demuestran una maduración significativa del personaje, aunque mantiene su núcleo juvenil y optimista.
+
+## Desarrollo Reciente: Les Enfant Terribles (Agosto 2025)
+
+### Contribución Técnica Crítica y Reconocimiento Social
+El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 marca una **evolución significativa** en el rol de Hotman como miembro técnicamente competente del equipo:
+
+#### **Manipulación Energética Avanzada**
+- **Solución crítica**: Manipula la energía de la cúpula para crear apertura temporal de infiltración
+- **Técnica sofisticada**: Altera las propiedades térmicas de la barrera energética mediante control preciso
+- **Trabajo en equipo**: Complementa los intentos de derivación eléctrica de Eslizón con manipulación térmica
+- **Timing perfecto**: Mantiene la apertura el tiempo exacto necesario para que el equipo entre
+
+*"Tuvo que ser Hotman, utilizando sus poderes de manipulación del calor, quien alterara la energía para que la derivación fuera correcta y, por unos segundos, se hiciera un agujero en la malla de energía para dejar pasar a los tres"*
+
+#### **Base de Fans Civiles Emergente**
+- **Nacho Smück**: Taxista que se declara "Hottie" (fan de Hotman)
+- **Simbolismo de la H**: Nacho hace la figura con los dedos, estableciendo gesto reconocible
+- **Apoyo heroico**: El taxista arriesga su seguridad para ayudar en la misión
+- **Inspiración civil**: Su fama comienza a motivar actos heroicos en ciudadanos ordinarios
+
+#### **Evolución de Competencia Técnica**
+- **De problemas a soluciones**: Ya no es quien causa complicaciones, sino quien resuelve problemas críticos
+- **Expertise térmica**: Su control de calor demuestra ser más versátil de lo esperado
+- **Pensamiento científico**: Comprende intuitivamente cómo alterar propiedades energéticas
+- **Confianza técnica**: El equipo ahora confía en él para soluciones técnicas complejas
+
+#### **Responsabilidad Social Aumentada**
+- **Mareo en taxi**: Muestra que aún mantiene aspectos adolescentes vulnerables
+- **Evitar tareas**: Continúa "escaqueándose" de labores domésticas como limpieza
+- **Impacto público**: Su fama tiene consecuencias reales en el comportamiento de civiles
+- **Modelo a seguir**: Ciudadanos ordinarios buscan emularlo y apoyarlo
+
+### **Maduración del Personaje**
+- **Competencia reconocida**: Sus compañeros recurren a él para problemas técnicos específicos
+- **Especialización definida**: Se establece como el experto en manipulación energética del equipo
+- **Responsabilidad social**: Comprende que su imagen inspira a otros a tomar riesgos
+- **Equilibrio personal**: Mantiene personalidad juvenil mientras desarrolla competencia profesional
+
+### **Implicaciones para el Futuro**
+- **Especialista técnico**: Se convierte en el recurso del equipo para problemas energéticos y térmicos
+- **Figura pública**: Su base de fans puede proporcionar apoyo civil en futuras operaciones
+- **Responsabilidad aumentada**: Debe gestionar el impacto de su fama en ciudadanos ordinarios
+- **Desarrollo continuo**: Balance entre mantener juventud y asumir responsabilidades heroicas
+
+Esta sesión confirma la **transformación de Hotman** de adolescente problemático a **especialista técnico competente**, estableciendo su valor único dentro del equipo como alguien capaz de resolver problemas que requieren manipulación precisa de energía y calor, mientras desarrolla una base de fans civiles que puede convertirse en recurso operacional.

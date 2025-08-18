@@ -40,6 +40,8 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
 - [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
+- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -193,3 +195,36 @@ El padre de Justa murió durante el ataque de MetaCorps a La Familia, evento que
 - **Motivó su arsenal**: Las armas heredadas mantienen conexión emocional con su memoria
 - **Influyó en su misión**: La protección de compañeros como familia sustituta
 - **Trauma persistente**: Revivido en sesión 14 al explorar la mente de Mésmero
+
+## Evolución Táctica Reciente: Les Enfant Terribles (Agosto 2025)
+
+### Violencia Calibrada y Métodos Avanzados
+El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 marca una **evolución significativa** en los métodos de Sentencia:
+
+#### **Aplicación de Fuerza Letal Controlada**
+- **Objetivo**: Neutralización permanente sin muerte de Vórtice y Cuchilla
+- **Método**: Disparo preciso con Desert Eagle a las piernas de ambos objetivos
+- **Resultado**: *"Esos chicos no volverán a andar sin muleta ni bastón en la vida"*
+- **Filosofía**: Daño permanente que evita reincidencia sin recurrir al asesinato
+
+#### **Justificación Moral**
+- **Amenaza activa**: Les Enfant Terribles habían demostrado capacidad tecnológica peligrosa
+- **Protección civil**: El centro comercial estaba lleno de civiles inocentes
+- **Escalada controlada**: Entre métodos no-letales (insuficientes) y letales (innecesarios)
+- **Precedente establecido**: Nuevo estándar para amenazas de nivel medio
+
+#### **Implicaciones para el Futuro**
+- **Método replicable**: Neutralización permanente como alternativa a la muerte
+- **Consecuencias legales**: Posible responsabilidad civil por daño corporal grave
+- **Efecto disuasorio**: Les Enfant Terribles aprenderán que enfrentar a La Fuerza Oculta tiene costes permanentes
+- **Desarrollo moral**: Sentencia encuentra equilibrio entre sus principios y pragmatismo necesario
+
+### **Liderazgo Durante Crisis de Comunicación**
+Durante la separación del equipo, Sentencia demostró:
+
+- **Autonomía operacional**: Tomó decisiones críticas sin coordinación telepática
+- **Protección de compañeros**: Priorizó rescate de Diana y Psique sobre objetivos tácticos
+- **Análisis de situación**: Evaluó rápidamente la amenaza de dispositivos interdimensionales
+- **Respuesta adaptativa**: Actuó como francotiradora de apoyo cuando la situación lo requirió
+
+Esta sesión confirma la **transformación completa** de Justa en Sentencia: ya no es una justiciera idealista, sino una fuerza práctica que aplica violencia calibrada según la amenaza, manteniendo principios morales pero adaptándolos a la realidad del combate heroico moderno.

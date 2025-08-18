@@ -41,6 +41,8 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
 - [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
+- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -128,3 +130,52 @@ Su papel se ha redefinido como:
 - **Recurso limitado**: Sus habilidades son poderosas pero requieren gestión cuidadosa de fatiga
 
 La experiencia reciente ha demostrado que Mencia es tanto el mayor activo táctico del equipo como su mayor vulnerabilidad. Su capacidad de proporcionar coordinación telepática perfecta es invaluable, pero su agotamiento puede dejar al equipo sin su ventaja más significativa en momentos críticos.
+
+## Desarrollo Reciente: Les Enfant Terribles (Agosto 2025)
+
+### Límites de los Poderes Telepáticos y Protección Grupal
+El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 marca un **momento crucial** en la comprensión de las limitaciones de Psique y la evolución de la dinámica protectora del equipo:
+
+#### **Intento de Control Mental Fallido**
+- **Objetivo ambicioso**: Intenta dominar a Eco para que desactive las máquinas interdimensionales
+- **Resistencia enemiga**: No logra penetrar las defensas mentales del objetivo
+- **Costo físico**: Desarrolla sangrado nasal por sobreesfuerzo telepático
+- **Persistencia peligrosa**: Continúa intentando el control mental pese al daño autoinfligido
+
+*"Psique trató de dominar a Eco para que desactivara la máquina. No lo consiguió y empezó a sangrar por la nariz pero quería seguir intentando meterse en su mente"*
+
+#### **Intervención Protectora de Diana**
+- **Reconocimiento del peligro**: Diana identifica que Psique se está haciendo daño a sí misma
+- **Decisión difícil**: Noquea a Psique para evitar que continúe el intento de control mental
+- **Prioridad protectora**: Diana prioriza la seguridad de Psique sobre los objetivos tácticos
+- **Salvación preventiva**: La intervención evita daño telepático potencialmente permanente
+
+*"Diana corrió hacia atrás y la noqueó para evitar que Psique siguiera haciéndose daño tratando de entrar en la mente de Eco."*
+
+#### **Lectura Mental Exitosa Durante Separación**
+- **Geolocalización telepática**: Realiza "potentísima lectura mental" que localiza a todos en el centro comercial
+- **Inteligencia táctica**: Descubre la ubicación de las tres máquinas y sus protectores
+- **Reestablecimiento de comunicación**: Enlaza telepáticamente con sus compañeros separados
+- **Información crítica**: Proporciona reconocimiento completo de la situación antes del colapso
+
+*"Psique hizo una potentísima lectura mental y consiguió geolocalizar a todo el mundo en el centro comercial. Vio que había tres máquinas... También descubrió a sus compañeros... y les enlazó mentalmente con su grupo."*
+
+#### **Evolución de la Dinámica de Protección**
+- **Reconocimiento de límites**: El equipo aprende que Psique tiene límites que no debe sobrepasar
+- **Responsabilidad compartida**: Diana asume rol de protectora de la integridad mental de Psique
+- **Gestión de recursos**: El equipo comprende que los poderes telepáticos requieren administración cuidadosa
+- **Prevención de autodestrucción**: Intervención externa necesaria cuando Psique se pone en peligro
+
+### **Lecciones sobre Poderes Telepáticos**
+- **Resistencia variable**: Algunos enemigos tienen defensas mentales más fuertes que otros
+- **Coste escalado**: Intentos más ambiciosos requieren mayor esfuerzo y tienen mayor riesgo
+- **Sangrado nasal**: Indicador físico claro de sobreesfuerzo telepático
+- **Necesidad de moderación**: Sus poderes requieren autolimitación para evitar daño permanente
+
+### **Implicaciones para el Futuro**
+- **Protección mutua**: El equipo desarrolla protocolos para proteger a Psique de sí misma
+- **Gestión de poderes**: Necesidad de establecer límites claros para uso de habilidades telepáticas
+- **Rol de Diana**: Se establece como protectora específica de Psique durante operaciones
+- **Entrenamiento necesario**: Psique debe aprender a reconocer sus propios límites antes de alcanzarlos
+
+Esta sesión confirma la **evolución de Psique** hacia un entendimiento más maduro de sus limitaciones, mientras que establece a **Diana como su protectora designada**, creando una nueva dinámica dentro del equipo que equilibra ambición táctica con supervivencia a largo plazo.

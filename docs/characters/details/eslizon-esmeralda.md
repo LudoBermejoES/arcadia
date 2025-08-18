@@ -40,6 +40,10 @@ Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta"
 - [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 - [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
 - [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
+- [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
+- [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
+- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -114,3 +118,48 @@ Su estilo de combate se ha refinado hacia un especialista en:
 - **Regeneración en campo** permitiendo mayor agresividad táctica sabiendo que puede recuperarse
 
 La experiencia reciente ha confirmado que Eslizón ha evolucionado de simple explorador a un combatiente táctico altamente efectivo, especialmente en entornos urbanos complejos donde su habilidad de escalada le proporciona ventajas únicas.
+
+## Desarrollo Reciente: Les Enfant Terribles (Agosto 2025)
+
+### Liderazgo Táctico Emergente y Coordinación de Campo
+El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 revela **evolución significativa** en el rol de Eslizón como coordinador táctico del equipo:
+
+#### **Liderazgo Durante Crisis de Comunicación**
+- **Toma de iniciativa**: Al perder contacto con el otro grupo, evalúa la situación y organiza respuesta
+- **Coordinación multi-objetivo**: Dirije ataques simultaneos contra tres máquinas y múltiples enemigos
+- **Comando en campo**: Instruye a Kayface para crear ilusiones tácticas específicas
+- **Capture especializado**: Ejecuta personalmente la captura de Luna "Choque" Petrov
+
+*"Eslizón pidió a Kayface que hiciera un muro ilusorio para tratar de bloquear la escapada de uno de los miembros del grupo y Kayface creó la ilusión de un muro frente a una joven."*
+
+#### **Competencia Técnica Avanzada**
+- **Análisis energético**: Intenta derivación de cúpula energética con cables de alta tensión
+- **Reconocimiento de limitaciones**: Reconoce cuando necesita apoyo de Hotman para completar tarea técnica
+- **Adaptación táctica**: Cambia estrategia cuando el enfoque inicial no funciona
+- **Coordinación técnica**: Trabaja efectivamente con Hotman para crear apertura en la barrera
+
+#### **Evolución de Métodos de Infiltración**
+- **Reconocimiento aéreo**: Utiliza habilidades de escalada para inspeccionar toda la zona desde el exterior
+- **Evaluación perimetral**: Confirma que la cúpula es impenetrable desde arriba
+- **Identificación de objetivos**: Localiza a compañeros y enemigos desde posición elevada
+- **Inteligencia táctica**: Proporciona información crítica para planificación de infiltración
+
+#### **Captura y Neutralización**
+- **Timing perfecto**: Aprovecha ilusión de Kayface para acercarse sin ser detectado
+- **Neutralización no-letal**: Captura exitosamente a Luna "Choque" Petrov sin daño permanente
+- **Coordinación sin comunicación**: Ejecuta plan complejo sin comunicación telepática directa
+- **Adaptabilidad**: Ajusta táctica en tiempo real según desarrollo de la situación
+
+### **Desarrollo de Personalidad y Rol**
+- **De seguidor a líder**: Ya no solo ejecuta órdenes, sino que las da en situaciones críticas
+- **Pensamiento estratégico**: Evalúa múltiples objetivos y prioriza acciones
+- **Coordinación de equipo**: Otros miembros confían en sus instrucciones durante combate
+- **Responsabilidad aumentada**: Asume roles de liderazgo cuando la situación lo requiere
+
+### **Implicaciones para el Futuro**
+- **Liderazgo táctico**: Se establece como coordinador de campo alternativo a Sentencia
+- **Especialista en infiltración**: Sus habilidades únicas lo convierten en recurso invaluable
+- **Comando distribuido**: Demuestra que el equipo puede operar efectivamente con liderazgo dividido
+- **Madurez operacional**: Evoluciona de explorador individual a coordinador de operaciones
+
+Esta sesión confirma la **transformación de Eslizón** de explorador solitario a **líder táctico emergente**, estableciendo su capacidad para asumir comando durante crisis y coordinar operaciones complejas que requieren múltiples especialidades y timing preciso.

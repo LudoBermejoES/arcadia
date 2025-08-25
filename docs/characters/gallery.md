@@ -243,6 +243,7 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     villanos: [
+  { slug: 'abismo', name: 'Abismo', image: 'abismo.png' },
       { slug: 'aldonza-lorenzo', name: 'Aldonza Lorenzo', image: 'Aldonza Lorenzo.png' },
       { slug: 'baron-soledad', name: 'Barón Soledad', image: 'baron-soledad.png' },
       { slug: 'bellona', name: 'Bellona', image: 'Bellona.jpg' },

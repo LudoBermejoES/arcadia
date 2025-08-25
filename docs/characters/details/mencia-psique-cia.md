@@ -43,6 +43,8 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -179,3 +181,78 @@ El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 marca un **mo
 - **Entrenamiento necesario**: Psique debe aprender a reconocer sus propios límites antes de alcanzarlos
 
 Esta sesión confirma la **evolución de Psique** hacia un entendimiento más maduro de sus limitaciones, mientras que establece a **Diana como su protectora designada**, creando una nueva dinámica dentro del equipo que equilibra ambición táctica con supervivencia a largo plazo.
+
+---
+
+## Coordinación Telepática Avanzada: Combate con Gorilas Dorados (24 Agosto 2025)
+
+### Maestría del Enlace Telepático Grupal
+El enfrentamiento con los gorilas dorados demuestra la **evolución completa** de Psique como coordinadora telepática del equipo:
+
+#### **Enlace Telepático Perfecto**
+- **Comunicación instantánea**: Establece enlace mental con todos los miembros del equipo inmediatamente
+- **Coordinación táctica avanzada**: Permite sincronización perfecta de ataques múltiples
+- **Gestión de información**: Transmite inteligencia táctica en tiempo real durante combate intenso
+- **Sin agotamiento**: Mantiene comunicaciones estables sin colapso por sobreesfuerzo
+
+*"Sique despierta y crea el enlace. Le dice a Justa que retire a los chavales heridos y los retire a la tienda."*
+
+#### **Ataques Psíquicos Coordinados** 
+- **Aturdimiento estratégico**: Aturde gorila dorado específico para preparar ataque letal de Diana
+- **Timing perfecto**: Coordina sus ataques telepáticos con acciones físicas de compañeros
+- **Selección de objetivos**: Prioriza enemigos que amenazan directamente a civiles
+- **Eficiencia energética**: Conserva poder mental para mantener comunicaciones grupales
+
+#### **Evolución de Poderes**
+- **Resistencia mejorada**: Ya no se agota inmediatamente por uso intensivo
+- **Multitarea telepática**: Mantiene comunicación mientras ejecuta ataques mentales
+- **Gestión de fatiga**: Aprende a dosificar esfuerzo para evitar colapso anterior
+- **Experiencia acumulada**: Aplica lecciones de previous sobreesfuerzo para mantenerse operativa
+
+### **Crisis de Diana y Respuesta Terapéutica**
+
+#### **Testigo de la Transformación "Saiyan"**
+- **Observación clínica**: Presencia la primera reacción de furia extrema de Diana
+- **Preocupación profesional**: Como terapeuta, reconoce patrones preocupantes de comportamiento
+- **Análisis inmediato**: Evalúa la transformación de Diana como síntoma de trauma no procesado
+- **Intervención necesaria**: Identifica necesidad de conversación terapéutica inmediata
+
+*"Cía abre un canal privado a Diana comentándole 'Tenemos que hablar'. Está preocupada después de su actuación desmedida contra el gorila y su apariencia a los 'Saiyajin'"*
+
+#### **Primeros Auxilios Post-Combate**
+- **Atención médica**: Proporciona cuidados inmediatos a Diana herida tras el combate
+- **Evaluación de heridas**: Como especialista en curación, estabiliza condición física
+- **Apoyo emocional**: Ofrece contención emocional durante la primera vulnerabilidad física de Diana
+- **Protocolo de pareja**: Balancea rol romántico con responsabilidad médica profesional
+
+### **Análisis Psicológico de Nuevos Contactos**
+
+#### **Evaluación de Nacho Smück**
+- **Lectura mental superficial**: Detecta posible inestabilidad o trauma psicológico en el taxista
+- **Identificación de necesidades**: Reconoce que podría ser candidato para terapia psicológica
+- **Evaluación de confiabilidad**: Determina si su entusiasmo excesivo representa riesgo para el equipo
+- **Perspectiva profesional**: Ve oportunidad terapéutica en lugar de solo apoyo logístico
+
+*"Muestra estar demasiado interesado en ayudar a Fuerza Oculta, por lo que Psique le hace una lectura mental superficial. Tiene la impresión de que sufre algún tipo de inestabilidad o trauma. Considera que sería un candidato para su consulta de ayuda psíquica."*
+
+### **Maduración Profesional y Personal**
+
+#### **Equilibrio Entre Roles**
+- **Heroína vs Terapeuta**: Integra exitosamente ambas identidades durante crisis
+- **Pareja vs Profesional**: Mantiene objetividad clínica respecto a Diana mientras ofrece apoyo romántico
+- **Individual vs Grupal**: Balancea necesidades personales con responsabilidades de equipo
+- **Preventiva vs Reactiva**: Anticipa problemas psicológicos antes de que se conviertan en crisis
+
+#### **Desarrollo de Competencias**
+- **Gestión de crisis**: Maneja múltiples emergencias (combate + trauma de Diana + nuevo contacto)
+- **Priorización**: Ordena intervenciones por urgencia (primeros auxilios > conversación terapéutica > evaluación de terceros)
+- **Comunicación**: Usa canal privado telepático para discusiones sensibles
+- **Profesionalismo**: Mantiene estándares terapéuticos incluso durante operaciones heroicas
+
+### **Implicaciones para el Futuro**
+- **Protectora mental del equipo**: Se establece como responsable de salud psicológica grupal
+- **Gestora de relaciones**: Su análisis de contactos externos protege al equipo de manipulación
+- **Especialista en trauma**: Su experiencia con Diana la prepara para futuras crisis emocionales
+- **Puente civil-heroico**: Identifica civiles que necesitan apoyo profesional tras encuentros con superhéroes
+
+Esta sesión confirma la **transformación completa** de Psique en el **nexo emocional y telepático** del equipo, capaz de mantener coordinación perfecta mientras gestiona crisis psicológicas múltiples y evaluando nuevas amenazas y oportunidades para la salud mental del grupo.

@@ -42,6 +42,8 @@ Astrid actúa como la especialista tecnológica del grupo "La Fuerza Oculta". Su
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 
 ## Detalles Adicionales
 La habitación de Astrid refleja su personalidad moderna y sus intereses diversos: "tiene muchos elementos de cultura pop, pocas cosas materiales, posters de grupos de música, de wrestling, héroes de acción. Por lo demás es muy normaliza[da]". Esta decoración sugiere una personalidad extrovertida y conectada con las tendencias contemporáneas.
@@ -119,3 +121,80 @@ Su papel se ha especializado como:
 - **Reveladora de información**: Su trabajo técnico descubre conexiones importantes con organizaciones enemigas
 
 La experiencia reciente ha confirmado que Astrid es mucho más que una simple especialista tecnológica. Sus habilidades de ilusión la convierten en una manipuladora del campo de batalla, capaz de crear ventajas tácticas decisivas para todo el equipo. Su capacidad de combinar tecnología y poderes sobrenaturales la hace única dentro de La Fuerza Oculta.
+
+---
+
+## Maestría Ilusoria Avanzada: Combate con Gorilas Dorados (24 Agosto 2025)
+
+### Ilusiones Tácticas Múltiples y Sofisticadas
+El enfrentamiento con los gorilas dorados representa el **pico de competencia** de Astrid/Kayface como especialista en manipulación de la realidad:
+
+#### **Gorila Plateado con "K": Obra Maestra Ilusoria**
+- **Concepto creativo**: Diseña gorila plateado 40% más grande que los enemigos para establecer dominancia
+- **Simbolismo personal**: Añade "K" en la frente como marca personal de Kayface
+- **Psicología animal**: Comprende que crear "macho alfa" artificial confundirá a gorilas metálicos
+- **Éxito táctico**: Los gorilas dorados se sienten intimidados y atacan la ilusión en lugar de humanos
+
+*"Kayfabe hace aparecer otro gorila del subsuelo 40% más grande, un gorila plateado, para que sea un contrincante. La idea es que sea un contrincante, un macho alfa. El bicho tiene una K en la frente del mono."*
+
+#### **Gestión de Ilusiones Múltiples**
+- **Sobrecarga controlada**: Mantiene múltiples ilusiones simultáneas pese a penalizadores
+- **Priorización táctica**: Balances protección personal con apoyo al equipo
+- **Adaptabilidad**: Crea nueva ilusión cuando la primera no cumple objetivo esperado
+- **Resistencia mental**: No colapsa bajo presión de mantener efectos complejos
+
+#### **Protección Personal Avanzada**
+- **Ilusión defensiva**: Crea múltiples imágenes de Hotman para confundir ataques enemigos
+- **Timing perfecto**: Interviene exactamente cuando Hotman está más vulnerable
+- **Salvamento exitoso**: Su confusión ilusoria evita daño a compañero
+- **Pensamiento estratégico**: Anticipa ataques enemigos y prepara contramedidas
+
+### **Comunicación y Coordinación**
+
+#### **Uso del Enlace Telepático**
+- **Comunicación psíquica**: Menciona opción de usar enlace para alertar sobre "mono plateado"
+- **Integración grupal**: Se adapta perfectamente al sistema de comunicación de Psique
+- **Información táctica**: Transmite datos sobre ilusiones para evitar friendly fire
+- **Coordinación sin palabras**: Opera efectivamente dentro de red telepática grupal
+
+#### **Comprensión de Limitaciones Enemigas**
+- **Análisis de inteligencia**: Comprende que gorilas "no son los más inteligentes"
+- **Explotación de debilidades**: Adapta ilusiones para maximizar confusión enemiga
+- **Expectativas realistas**: No espera que ilusiones sean perfectas, solo efectivas
+- **Flexibilidad táctica**: Ajusta estrategia cuando enemigos no reaccionan como esperaba
+
+### **Evolución de Poderes y Creatividad**
+
+#### **Innovación Técnica**
+- **Ilusión de contrincante**: Primera vez que crea "aliado" ilusorio en lugar de distracción
+- **Escalado de tamaño**: Experimenta con proporciones para máximo impacto psicológico
+- **Branding personal**: La "K" se convierte en sello distintivo de sus creaciones
+- **Adaptación al entorno**: Sus ilusiones responden a la naturaleza específica del combate
+
+#### **Gestión de Recursos Mentales**
+- **Penalizadores aceptados**: Acepta dificultad añadida por mantener múltiples efectos
+- **Alcance limitado**: Trabaja dentro de limitaciones de distancia pero maximiza efectividad
+- **Conservación de energía**: Mantiene ilusiones el tiempo mínimo necesario para lograr objetivos
+- **Experiencia acumulada**: Aplica lecciones aprendidas de previous combates
+
+### **Impacto en Dinámica de Equipo**
+
+#### **Especialista en Campo de Batalla**
+- **Alteradora de combate**: Sus ilusiones cambian fundamentalmente el desarrollo de enfrentamientos
+- **Protectora de compañeros**: Prioriza supervivencia del equipo sobre objetivos tácticos
+- **Multiplicadora de fuerza**: Una sola ilusión puede neutralizar múltiples amenazas
+- **Elemento sorpresa**: Enemigos nunca saben cuál es real hasta después del ataque
+
+#### **Desarrollo de Confianza Personal**
+- **Creatividad en presión**: Genera ideas innovadoras bajo estrés de combate
+- **Autonomía operacional**: Toma decisiones sobre ilusiones sin necesidad de órdenes
+- **Orgullo artístico**: La "K" muestra desarrollo de identidad personal como ilusionista
+- **Reconocimiento grupal**: Sus compañeros confían en sus habilidades para situaciones críticas
+
+### **Implicaciones para el Futuro**
+- **Signature move**: El gorila plateado con "K" puede convertirse en táctica recurrente
+- **Evolución de marca**: Kayface desarrolla identidad visual reconocible
+- **Especialización aumentada**: Se establece como experta en ilusiones de combate complejas
+- **Líder en innovación**: Sus técnicas pueden inspirar nuevas tácticas de equipo
+
+Esta sesión marca la **consolidación definitiva** de Astrid/Kayface como **maestra de ilusiones tácticas**, capaz de alterar el campo de batalla mediante creatividad y técnica sofisticada que combina artístico personal con efectividad militar, estableciendo nuevos estándares para el combate ilusorio dentro de La Fuerza Oculta.

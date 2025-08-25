@@ -36,6 +36,8 @@ Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel i
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 - [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)
@@ -138,3 +140,64 @@ El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 revela **evol
 - **Madurez emocional**: Toma decisiones difíciles que pueden parecer hostiles pero son protectoras
 
 Esta sesión confirma la **evolución de Diana** de combatiente efectiva a **líder protectora**, estableciendo un nuevo estándar para su rol dentro de La Fuerza Oculta como alguien que prioriza la supervivencia y bienestar del equipo por encima de los objetivos operacionales inmediatos.
+
+---
+
+## Primer Trauma de Combate: Los Gorilas Dorados (24 Agosto 2025)
+
+### Crisis Física y Emocional Extrema
+El enfrentamiento con los gorilas dorados marca **el primer daño significativo** que Diana recibe en combate, desencadenando una **reacción emocional sin precedentes**:
+
+#### **Primera Herida Real**
+- **Trauma físico**: Recibe un golpe devastador de gorila dorado que la lanza hacia atrás dramáticamente
+- **Aterrizaje a los pies de Psique**: Simbolismo de vulnerabilidad ante su pareja romántica
+- **Despertar furioso**: Se levanta con una **ira descontrolada** nunca vista antes en ella
+- **Transformación visible**: Desarrolla **aura visible** durante su ataque de venganza, similar a "Saiyan"
+
+*"Diana recibe un ataque del gorila y recibe una herida y sale despedida hacia atrás, dramáticamente, a los pies de Sique."*
+
+#### **Furia "Saiyan" - Primer Episodio Documentado**
+- **Reacción explosiva**: Su primera experiencia de daño real desencadena furia incontrolable
+- **Aura combativa**: Se carga de energía visible mientras se acerca al enemigo
+- **Destrucción total**: *"Se pone delante del gorila dorado aturdido por Sique y extiende las manos, ataca y lo revienta"*
+- **Preocupación grupal**: Psique expresa alarma por este comportamiento nunca visto antes
+
+#### **Implicaciones Psicológicas**
+- **Pérdida de la invulnerabilidad**: Diana descubre que puede ser herida, fracturando su percepción de fortaleza
+- **Reacción desproporcionada**: Su respuesta sugiere dificultad para procesar vulnerabilidad física
+- **Despertar de instintos**: Posible herencia genética de Fatum manifestándose bajo trauma
+- **Necesidad de terapia**: Psique reconoce necesidad de conversación privada sobre este episodio
+
+### **Evacuación y Recuperación**
+#### **Apoyo Post-Combate**
+- **Asistencia de Eslizón**: Su compañero reptiliano la ayuda a moverse tras las heridas
+- **Cuidados de Psique**: Su pareja romántica intenta primeros auxilios para estabilizarla
+- **Vulnerabilidad expuesta**: Debe depender de otros por primera vez en la campaña
+- **Preocupación grupal**: El equipo comprende que Diana no es invulnerable
+
+#### **Conversación Pendiente con Psique**
+- **Comunicación privada**: *"Cía abre un canal privado a Diana comentándole 'Tenemos que hablar'"*
+- **Preocupación por comportamiento**: Psique alarmada por la transformación "Saiyan" de Diana
+- **Análisis psicológico necesario**: Necesidad de comprender los desencadenantes de esta furia
+- **Relación bajo presión**: La crisis física revela dinámicas emocionales no exploradas
+
+### **Desarrollo de Personaje**
+#### **Vulnerabilidad Descubierta**
+- **Fin de la invencibilidad**: Primera vez que Diana debe confrontar limitaciones físicas
+- **Reacción emocional primitiva**: Su furia sugiere mecanismos de defensa no procesados
+- **Herencia de Fatum**: Posible manifestación de genes violentos bajo estrés extremo
+- **Necesidad de autoconocimiento**: Debe explorar y gestionar estas reacciones para el futuro
+
+#### **Evolución del Rol en el Equipo**
+- **De protectora a protegida**: Invierte temporalmente su rol habitual
+- **Inspiración para aliados**: Su ferocidad motiva a otros miembros del equipo
+- **Advertencia sobre límites**: Demuestra que incluso los más fuertes pueden ser superados
+- **Catalizador grupal**: Su crisis unifica al equipo en su protección y apoyo
+
+### **Implicaciones para el Futuro**
+- **Gestión de la furia**: Debe aprender a controlar reacciones extremas ante trauma
+- **Desarrollo de vulnerabilidad**: Aceptar que necesita apoyo y protección ocasional
+- **Evolución de la relación**: Su crisis profundizará la conexión con Psique
+- **Responsabilidad aumentada**: El equipo debe protegerla cuando ella no puede protegerse
+
+Esta experiencia marca un **punto de inflexión crucial** en el desarrollo de Diana, forzándola a confrontar tanto su vulnerabilidad física como sus reacciones emocionales extremas, estableciendo nuevas dinámicas dentro del equipo y su relación con Psique.

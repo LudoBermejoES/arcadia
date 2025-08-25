@@ -34,21 +34,23 @@ permalink: /all-content/
 
 #### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2024-2025)
 
-**Notas Manuales (25 Sesiones):**
+**Notas Manuales (26 Sesiones):**
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02/) | [Sesión 03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-03/) | [Sesión 04]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-04/) | [Sesión 05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-05/)
 - [Sesión 06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-06/) | [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07/) | [Sesión 08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-08/) | [Sesión 09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-09/) | [Sesión 10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-10/)
 - [Sesión 11]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-11/) | [Sesión 12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-12/) | [Sesión 13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-13/) | [Sesión 14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-14/) | [Sesión 15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-15/)
 - [Sesión 16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-16/) | [Sesión 17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-17/) | [Sesión 18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-18/) | [Sesión 20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20/) | [Sesión 21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-21/)
 - [Sesión 22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22/) | [Sesión 23]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-23/) | [Sesión 24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24/) | [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25/) | [Sesión 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26/)
-- [Sesión 27]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27/)
+- [Sesión 27]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27/) | [Sesión 29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/)
 
-**Notas con IA (8 Transcripciones Gemini):**
+**Notas con IA (9 Transcripciones Gemini):**
 - [15 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/) | [22 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/) | [6 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/) | [13 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/)
 - [20 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) | [28 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/) | [3 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) | [10 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
+- [24 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
 
-**Resúmenes Analíticos (5 Análisis Profundos):**
+**Resúmenes Analíticos (8 Análisis Profundos):**
 - [Análisis 15/06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-15-gemini-notes/) | [Análisis 22/06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-06-22-gemini-notes/) | [Análisis 6/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-06-gemini-notes/)
-- [Análisis 13/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes/) | [Análisis 20/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes/)
+- [Análisis 13/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes/) | [Análisis 20/07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes/) | [Análisis 10/08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-08-10-gemini-notes/)
+- [Análisis 17/08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-08-17-gemini-notes/) | [Análisis 24/08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-08-24-gemini-notes/)
 
 ### 🏥 **Campañas Adicionales**
 

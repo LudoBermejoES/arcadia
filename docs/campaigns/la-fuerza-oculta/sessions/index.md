@@ -131,6 +131,20 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 24 de Agosto](2025-08-24.md)
+**"Combate con Gorilas Dorados y los 7 Abominables"**
+- 🐒 **Batalla Épica**: Enfrentamiento coordinado contra múltiples gorilas de oro
+- ⚔️ **Tácticas de Combate**: Trabajo en equipo con ilusiones, ataques térmicos y teletransporte
+- 👸 **Emperatriz de Jade**: Aparición de la mítica supervillana de los años 60
+- 🌀 **Abismo**: Encuentro con teletransportador de los 7 Abominables
+- 🤝 **Alianza Temporal**: Los villanos ofrecen ayuda contra amenaza común
+- 🅿️ **Evacuación**: Teletransporte a aparcamiento seguro tras la batalla
+- 🚐 **Nuevos Desafíos**: Problemas de transporte y recuperación de vehículo
+
+**Temas Clave**: Cooperación inesperada con enemigos, historia heroica que regresa, supervivencia post-combate
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -152,6 +166,7 @@ Transcripciones automáticas con análisis:
 - **[2025-08-03-gemini-notes](../ai-notes/2025-08-03-gemini-notes.md)**
 - **[2025-08-10-gemini-notes](../ai-notes/2025-08-10-gemini-notes.md)**
 - **[2025-08-17-gemini-notes](../ai-notes/2025-08-17-gemini-notes.md)**
+- **[2025-08-24-gemini-notes](../ai-notes/2025-08-24-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -164,6 +179,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 03/08](../ai-notes-summary/2025-08-03-gemini-notes.md)** - Independencia y base operativa
 - **[Resumen 10/08](../ai-notes-summary/2025-08-10-gemini-notes.md)** - Vida cotidiana y amenaza terrorista
 - **[Resumen 17/08](../ai-notes-summary/2025-08-17-gemini-notes.md)** - Les Enfant Terribles y monos dorados
+- **[Resumen 24/08](../ai-notes-summary/2025-08-24-gemini-notes.md)** - Combate épico y 7 Abominables
 
 ---
 
@@ -213,9 +229,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 8 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~140 páginas de contenido
-- **Horas de Juego**: ~24 horas registradas
+- **Sesiones Totales**: 9 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~155 páginas de contenido
+- **Horas de Juego**: ~27 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

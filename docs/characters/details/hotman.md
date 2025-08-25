@@ -40,6 +40,8 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -162,3 +164,98 @@ El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 marca una **e
 - **Desarrollo continuo**: Balance entre mantener juventud y asumir responsabilidades heroicas
 
 Esta sesión confirma la **transformación de Hotman** de adolescente problemático a **especialista técnico competente**, estableciendo su valor único dentro del equipo como alguien capaz de resolver problemas que requieren manipulación precisa de energía y calor, mientras desarrolla una base de fans civiles que puede convertirse en recurso operacional.
+
+---
+
+## Combate Intensivo con Microondas: Los Gorilas Dorados (24 Agosto 2025)
+
+### Despliegue Masivo de Poderes Térmicos
+El enfrentamiento con los gorilas dorados representa el **mayor despliegue sostenido** de poderes de Hotman hasta la fecha:
+
+#### **Ataques de Microondas Devastadores**
+- **Fusión metálica interna**: Sus microondas hacen que gorilas dorados "comiencen a hervir desde dentro"
+- **Derretimiento progresivo**: Los enemigos metálicos "comienzan a deshacerse" por calor interno
+- **Múltiples eliminaciones**: Derrota al menos dos gorilas mediante ataques térmicos sostenidos
+- **Sin agotamiento**: Mantiene potencia de ataque durante todo el combate prolongado
+
+*"Hotman actúa deprisa para protegerse a si mismo de un gorila que corre a atacarle. Realiza un ataque a distancia con microondas. El gorila comienza a hervir, está quemado desde dentro. Comienza a deshacerse el metal."*
+
+#### **Drama de Combate y Vulnerabilidad**
+- **Momento icónico**: Se quita la camiseta mientras está "ardiendo" en pleno combate
+- **Vulnerable pero letal**: Queda "conmocionado" tras ataques intensivos pero continúa luchando
+- **Protección por ilusiones**: Kayface crea múltiples imágenes suyas para confundir enemigos
+- **Recuperación resiliente**: Se sobrepone del aturdimiento y continúa eliminando amenazas
+
+#### **Innovación Táctica: Los Aspersores**
+- **Pensamiento creativo**: Dispara detectores de fuego para activar sistema de aspersores
+- **Distracción ambiental**: Busca crear confusión mediante water bombardment
+- **Resultado visual**: Transforma campo de batalla en escena cinematográfica con agua
+- **Efectividad limitada**: Los gorilas "no se inmutan" pero crea ambiente dramático
+
+### **Base de Fans y Reconocimiento Social**
+
+#### **Nacho Smück: El Primer "Hottie" Oficial**
+- **Fan declarado**: El taxista se identifica como "Hottie" y hace gesto con dedos de "H"
+- **Apoyo logístico**: Nacho arriesga su seguridad personal para ayudar en misiones
+- **Inspiración heroica**: Su fama motiva a civiles ordinarios a tomar riesgos por héroes
+- **Conexión emocional**: Representa el impacto positivo de Hotman en ciudadanos comunes
+
+*"Hotman se pone en contacto con el conductor del Uber que los trajo a los grandes almacenes: Ignacio 'Nacho' Smück. Se muestra muy solicito en ayudar al grupo."*
+
+#### **Desarrollo de Imagen Pública**
+- **Símbolo reconocible**: El gesto de "H" se establece como señal de sus seguidores
+- **Motivación civil**: Su ejemplo inspire actos heroicos en ciudadanos normales
+- **Responsabilidad social**: Debe gestionar el impacto de su fama en otros
+- **Base de apoyo**: Comienza a desarrollar red de civiles dispuestos a ayudar
+
+### **Conocimiento Histórico Superheroico**
+
+#### **Experto en Historia Metahumana**
+- **Reconocimiento inmediato**: Identifica a los gorilas como "de la Emperatriz de Jade"
+- **Contexto histórico**: Conoce que es una "supervillana de los años 60"
+- **Identificación de Abismo**: Reconoce al teletransportador como miembro de "los 7 Abominables"
+- **Valor educativo**: Su conocimiento informar al equipo sobre amenazas históricas
+
+*"Nos mira y dice llevo veinte años engañados. Vais a suponer un problema para mi? Hoy no. Casi al tiempo se materializa una esfera de la que surge un señor de unos 80 años +/- que es otro miembro de los 7 Abominables."*
+
+#### **Pragmatismo Heroico Avanzado**
+- **Aceptación de ayuda villana**: Acepta inmediatamente la oferta de teletransporte de Abismo
+- **Priorización práctica**: Prefiere evacuar con enemigos históricos antes que enfrentar metacorps
+- **Oportunidad de contenido**: Ve potencial para grabar encuentro para su canal
+- **Mentalidad moderna**: Comprende que alianzas temporales son a veces necesarias
+
+### **Comercialización de Experiencias Heroicas**
+
+#### **Documentación Constante**
+- **Grabación de encuentros**: Expresa interés en filmar interacción con villanos legendarios
+- **Contenido exclusivo**: Reconoce valor comercial de encuentros únicos
+- **Balance heroico-comercial**: Mantiene objetivos heroicos mientras busca oportunidades de contenido
+- **Innovación profesional**: Pionero en monetización ética de actividad superheroica
+
+#### **Evolución de la Carrera de Influencer**
+- **Base de fans genuina**: Nacho representa seguidor auténtico, no solo viewer casual
+- **Impacto social real**: Su influencia motiva comportamientos positivos en seguidores
+- **Responsabilidad aumentada**: Debe considerar consecuencias de sus acciones en fans
+- **Modelo profesional**: Establece estándar para influencers metahumanos responsables
+
+### **Desarrollo de Competencia Técnica**
+
+#### **Eficiencia Energética**
+- **Ataques sostenidos**: Mantiene potencia durante combate prolongado sin agotarse
+- **Precisión mejorada**: Derrite enemigos metálicos sin dañar estructuras circundantes
+- **Control de temperatura**: Manages heat output para máxima efectividad contra metales
+- **Adaptación a materiales**: Comprende intuitivamente cómo afectar diferentes tipos de gorilas
+
+#### **Coordinación en Equipo**
+- **Sincronización perfecta**: Sus ataques complementan las ilusiones de Kayface
+- **Comunicación telepática**: Utiliza enlace mental de Psique para coordinación
+- **Apoyo mutuo**: Recibe protección ilusoria mientras proporciona eliminación de amenazas
+- **Flexibilidad táctica**: Adapta sus ataques según necesidades del momento
+
+### **Implicaciones para el Futuro**
+- **Especialista anti-metal**: Sus poderes son particularmente efectivos contra enemigos mecánicos
+- **Figura pública responsable**: Debe gestionar influencia creciente en civiles
+- **Historiador del equipo**: Su conocimiento es recurso valioso para amenazas históricas
+- **Innovador en monetización**: Pionero en comercialización ética de heroísmo
+
+Esta sesión confirma la **evolución completa** de Hotman hacia un **combatiente especializado y figura pública responsable**, capaz de mantener efectividad letal durante combates prolongados mientras desarrolla una base de seguidores civiles que pueden proporcionar apoyo logístico crucial para futuras operaciones del equipo.

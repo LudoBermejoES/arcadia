@@ -44,7 +44,7 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 **Programa "Héroes o Villanos":**
 - **Sesiones 1-12**: Entrenamiento secreto en la mansión
 - **Sesiones 13-25**: Misiones operativas y desarrollo del equipo
-- **Sesiones 26-28**: Operaciones recientes (hasta agosto 2025)
+- **Sesiones 26-29**: Operaciones recientes (hasta agosto 2025)
 - Elementos meta-narrativos y referencias al propio juego
 
 **Equipo Actual:**
@@ -69,6 +69,7 @@ Los resúmenes más recientes utilizan inteligencia artificial para procesar gra
 - **2025-08-03**: Continuidad de misiones activas
 - **2025-08-10**: Operaciones en centro comercial Hêvî
 - **2025-08-17**: Les Enfant Terribles y monos dorados
+- **2025-08-24**: Combate épico con gorilas dorados y 7 Abominables
 
 ### Campañas Especiales
 
@@ -82,7 +83,7 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas  
-**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (34 sesiones: 25 manuales + 9 transcripciones AI)
+**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (35 sesiones: 26 manuales + 9 transcripciones AI)
 
 ## Navegación
 

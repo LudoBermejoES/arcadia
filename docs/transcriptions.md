@@ -44,6 +44,7 @@ La campaña más reciente, jugada en el sistema "Héroes o Villanos".
 - [Notas Gemini 2025-07-28](campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/)
 - [Notas Gemini 2025-08-03](campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
 - [Notas Gemini 2025-08-10](campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
+- [Notas Gemini 2025-08-24](campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
 
 ## Metodología de Transcripción
 

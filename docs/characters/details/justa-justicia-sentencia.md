@@ -42,6 +42,8 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -228,3 +230,108 @@ Durante la separación del equipo, Sentencia demostró:
 - **Respuesta adaptativa**: Actuó como francotiradora de apoyo cuando la situación lo requirió
 
 Esta sesión confirma la **transformación completa** de Justa en Sentencia: ya no es una justiciera idealista, sino una fuerza práctica que aplica violencia calibrada según la amenaza, manteniendo principios morales pero adaptándolos a la realidad del combate heroico moderno.
+
+---
+
+## Precisión Letal Defensiva: Los Gorilas Dorados (24 Agosto 2025)
+
+### Maestría con Armas de Fuego en Combate Masivo
+El enfrentamiento con los gorilas dorados demuestra el **pico absoluto** de competencia de Sentencia como especialista en combate armado:
+
+#### **Eliminaciones Múltiples con Desert Eagle**
+- **Doble eliminación inicial**: "Justa mata a dos, uno que estaba a punto de golpear a un señor y otro el que estaba aturdido por sique"
+- **Protección de civiles**: Prioriza disparos que salvan vidas inocentes antes que objetivos tácticos
+- **Precisión bajo presión**: Mantiene puntería perfecta durante combate caótico con múltiples amenazas
+- **Conservación de munición**: Cada disparo cuenta, eliminando objetivos con tiros únicos
+
+*"Sique aturde a un gorila, Justa mata a dos, uno que estaba a punto de golpear a un señor y otro el que estaba aturdido por sique"*
+
+#### **Continuidad Operacional**
+- **Eliminación adicional**: "Justa mata al gorila que ha aparecido y se mueve hasta donde está sique"
+- **Movilidad táctica**: Combina movimiento y disparo para reposicionarse según necesidades del combate
+- **Apoyo a compañeros**: Se desplaza para proteger a Psique tras neutralizar amenazas inmediatas
+- **Gestión de munición**: Mantiene ritmo de fuego sostenible durante enfrentamiento prolongado
+
+#### **Coordinación Telepática Perfecta**
+- **Enlace mental activo**: Utiliza comunicación de Psique para sincronizar ataques con precisión milimétrica
+- **Información de objetivos**: Recibe inteligencia telepática sobre ubicación y estado de enemigos
+- **Instrucciones tácticas**: "Le dice a Justa que retire a los chavales heridos y los retire a la tienda"
+- **Multitarea operacional**: Ejecuta misión de rescate mientras mantiene efectividad de combate
+
+### **Liderazgo Táctico Durante Crisis**
+
+#### **Protección de No Combatientes**
+- **Evacuación organizada**: Ordena retirada de "chavales heridos" de Les Enfant Terribles a zona segura
+- **Priorización humanitaria**: Sus primeras acciones protegen tanto a civiles como a enemigos heridos
+- **Gestión de prisioneros**: Trata a miembros capturados de Les Enfant Terribles con consideración médica profesional
+- **Moral de combate**: Demuestra que violencia puede coexistir con compasión hacia vulnerables
+
+#### **Coordinación de Rescate**
+- **Trabajo en equipo médico**: Colabora con Psique en estabilización de víctimas
+- **Logística de emergencia**: Organiza movimiento de heridos hacia áreas protegidas
+- **Multitarea crítica**: Mantiene efectividad de combate mientras gestiona operación humanitaria
+- **Liderazgo bajo presión**: Toma decisiones de vida o muerte mientras ejecuta eliminaciones letales
+
+### **Evolución de la Filosofía "Sentencia"**
+
+#### **Justicia Aplicada Proporcionalmente**
+- **Fuerza letal apropiada**: Sus eliminaciones se enfocan en amenazas activas que ponen en peligro inocentes
+- **Discriminación de objetivos**: Distingue entre amenazas letales (gorilas) y enemigos neutralizados (Les Enfant Terribles)
+- **Misericordia selectiva**: Protege enemigos heridos una vez que dejan de representar peligro
+- **Pragmatismo moral**: Aplica violencia exacta según nivel de amenaza sin exceso ni vacilación
+
+#### **Madurez Ética en Combate**
+- **Toma de decisiones instantánea**: Toma decisiones de vida o muerte en fracciones de segundo
+- **Responsabilidad por resultados**: Acepta consecuencias letales de sus acciones como necesarias para el bien mayor
+- **Prioridad de protección**: Civiles y no combatientes reciben protección prioritaria sobre objetivos tácticos
+- **Respuesta graduada**: Usa nivel apropiado de fuerza para cada amenaza específica
+
+### **Competencia Técnica Máxima**
+
+#### **Desert Eagle: Arma Característica**
+- **Eliminaciones de un disparo**: Cada disparo neutraliza permanentemente un gorila dorado metálico
+- **Sin desperdicio de munición**: Precisión perfecta bajo condiciones de presión extrema
+- **Enfrentamiento múltiple**: Cambia entre objetivos fluidamente sin perder efectividad
+- **Ritmo de fuego sostenido**: Mantiene efectividad letal durante todo el enfrentamiento prolongado
+
+#### **Patrones de Movimiento de Combate**
+- **Lucha y maniobra**: Combina movimiento con disparo para posicionamiento óptimo
+- **Negación de área**: Su presencia y potencia de fuego controlan patrones de movimiento enemigo
+- **Fuego de apoyo**: Proporciona cobertura para compañeros realizando otras tareas críticas
+- **Flexibilidad táctica**: Adapta posicionamiento según condiciones cambiantes del campo de batalla
+
+### **Apoyo Humanitario Post-Combate**
+
+#### **Rol de Apoyo Médico**
+- **Asistencia de primeros auxilios**: Colabora con Psique en tratar miembros heridos del equipo y prisioneros
+- **Gestión de bajas**: Ayuda a organizar prioridades de tratamiento y procedimientos de evacuación
+- **Apoyo moral**: Proporciona estabilidad emocional para el equipo durante recuperación post-combate
+- **Continuidad de liderazgo**: Mantiene estructura de comando durante transición de combate a recuperación
+
+#### **Integración con Dinámicas de Equipo**
+- **Coordinación telepática**: Se integra perfectamente con la red de comunicación de Psique
+- **Apoyo a Diana**: Proporciona fuego de cobertura mientras Diana experimenta su primer trauma mayor
+- **Protección de Eslizón**: Cubre al compañero reptiliano durante sus operaciones de tanque
+- **Habilitación de especialidades**: Su efectividad letal permite que otros miembros se enfoquen en sus contribuciones únicas
+
+### **Establecimiento de Nueva Doctrina de Combate**
+
+#### **Reglas de Enfrentamiento de Sentencia**
+- **Eliminación de amenaza inmediata**: Fuerza letal contra peligros activos para civiles
+- **Protección de enemigos heridos**: Una vez neutralizados, incluso ex-enemigos reciben consideración humanitaria
+- **Conservación de recursos**: Cada disparo debe contar, sin desperdicio de munición o esfuerzo
+- **Multiplicación de fuerza del equipo**: La excelencia individual permite el éxito grupal
+
+#### **Liderazgo por Ejemplo**
+- **Coraje moral**: Demuestra que la violencia puede ser tanto letal como ética cuando se aplica apropiadamente
+- **Competencia profesional**: Demuestra que el heroísmo requiere dominio técnico, no solo buenas intenciones
+- **Balance humanitario**: Prueba que los asesinos también pueden ser protectores cuando se guían por un marco moral apropiado
+- **Innovación táctica**: Establece nuevos estándares para intervención heroica armada
+
+### **Implicaciones para el Futuro**
+- **Efectividad de combate máxima**: Ha alcanzado competencia máxima como especialista heroica armada
+- **Autoridad moral**: Su enfoque balanceado de fuerza letal establece precedente ético
+- **Pilar del equipo**: Otros miembros pueden tomar mayores riesgos sabiendo que proporciona respaldo letal
+- **Desarrollo de doctrina**: Sus métodos pueden convertirse en plantilla para futuros especialistas heroicos en armas de fuego
+
+Esta sesión confirma la **culminación absoluta** de la evolución de Justa/Justicia/Sentencia, quien ha alcanzado el **equilibrio perfecto** entre competencia técnica letal y responsabilidad moral, estableciendo un nuevo paradigma para el heroísmo armado que combina eliminación eficiente de amenazas con protección compasiva de vulnerables, creando un modelo replicable de justicia aplicada que trasciende las limitaciones de sistemas legales corruptos.

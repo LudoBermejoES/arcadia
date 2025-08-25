@@ -12,6 +12,69 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Agosto 2025**
 
+### **24 de Agosto de 2025**
+
+#### **🎮 Sesión 29: Combate Épico con Gorilas Dorados**
+- **Nueva sesión documentada** - Transcripción completa de la sesión del 24 de agosto 2025:
+  - **Notas manuales**: session-29-2024-08-24.md con combate masivo detallado
+  - **Transcripción AI**: 2025-08-24-gemini-notes.md procesada automáticamente por Gemini
+  - **Resumen ejecutivo**: Análisis comprehensivo en ai-notes-summary/2025-08-24-gemini-notes.md
+  - **Desarrollo narrativo**: Enfrentamiento más épico de La Fuerza Oculta hasta la fecha
+
+#### **👸 Aparición de Figuras Históricas Legendarias**
+- **Emperatriz de Jade** - Regreso de la supervillana de los años 60:
+  - Revelada como anciana dependienta de joyería que llevaba 20 años engañando a todos
+  - Transformación dramática usando diadema de jade ritual
+  - Invocación masiva de nueva oleada de gorilas dorados
+  - Conexión directa con la historia heroica de "La Familia"
+- **Los 7 Abominables** - Encuentro con Abismo:
+  - Teletransportador octogenario materializado desde esfera energética  
+  - Oferta inesperada de evacuación para evitar conflicto
+  - Alianza temporal pragmática con villanos históricos
+  - Demostración de que el pasado heroico sigue activo
+
+#### **💪 Evolución de Combate del Equipo**
+- **Coordinación telepática perfecta** - Uso avanzado del enlace mental de Psique:
+  - Comunicación instantánea durante combate masivo sin agotamiento
+  - Sincronización táctica de ataques múltiples en tiempo real
+  - Gestión exitosa de información táctica bajo presión extrema
+- **Especialización de roles completamente desarrollada**:
+  - **Sentencia**: Eliminaciones múltiples con Desert Eagle, protección de civiles prioritaria
+  - **Diana**: Primera herida seria desencadena furia "Saiyan", destrucción total de enemigo
+  - **Eslizón**: Rol de "tanque" atrayendo múltiples enemigos, supervivencia extrema
+  - **Hotman**: Ataques de microondas sostenidos derritiendo gorilas metálicos internamente
+  - **Kayface**: Gorila plateado ilusorio con "K" (obra maestra táctica)
+  - **Psique**: Coordinación grupal + primeros auxilios + análisis psicológico
+
+#### **🔥 Momentos Épicos de Combate Documentados**
+- **Diana desarrolla aura visible**: Primera manifestación de furia extrema con transformación "Saiyan"
+- **Gorila plateado con "K"**: Creación ilusoria de Kayface que intimida a gorilas reales
+- **Eslizón come carne cruda**: Necesidades biológicas reptilianas post-combate
+- **Hotman sin camiseta ardiendo**: Momento icónico durante ataques de microondas
+- **Evacuación por villanos**: Los 7 Abominables proporcionan teletransporte de rescate
+
+#### **📈 Actualizaciones de Personajes Principales**
+- **6 personajes actualizados** con desarrollo épico de sesión 29:
+  - **Diana**: Crisis de vulnerabilidad física y despertar de instintos Fatum
+  - **Psique**: Maestría telepática grupal y rol terapéutico expandido  
+  - **Kayface**: Innovación ilusoria avanzada con marca personal "K"
+  - **Hotman**: Efectividad térmica masiva y crecimiento de base de fans
+  - **Eslizón**: Especialización como protector grupal y cuidador post-combate
+  - **Sentencia**: Pico absoluto de competencia armada con ética equilibrada
+
+#### **📊 Actualización de Estadísticas del Proyecto**
+- **Sesiones documentadas**: Actualizado de 83 a 84 sesiones totales  
+- **Transcripciones AI**: Incrementado de 8 a 9 transcripciones Gemini
+- **AI notes summary**: Incrementado de 7 a 8 análisis detallados
+- **Archivos actualizados**: 12+ archivos principales con información de sesión 29
+
+#### **🤝 Nacho Smück: Primer "Hottie" Oficial**
+- **Expansión del personaje civil** - Desarrollo del taxista fan de Hotman:
+  - Gesto característico con dedos formando "H" de Hotman
+  - Apoyo logístico arriesgando seguridad personal para héroes
+  - Identificado por Psique como posible candidato para terapia psicológica
+  - Representa base de fans civiles dispuestos a ayudar operacionalmente
+
 ### **17 de Agosto de 2025**
 
 #### **🎮 Sesión 28: Les Enfant Terribles y Monos Dorados**
@@ -772,4 +835,12 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **4 archivos principales** actualizados con información cruzada
 - **Corrección de información inventada** en base heroica principal
 
-**Última actualización del historial**: 17 de Agosto de 2025 - Sesión 28 documentada
+**Última actualización del historial**: 25 de Agosto de 2025 - Sesión 29 documentada
+
+#### **🔄 Actualizaciones Sistemáticas**
+- **index.md**: Actualizado conteo de sesiones documentadas de 83 a 84
+- **summaries.md**: Añadida sesión 24/08 y actualizado conteo de transcripciones AI
+- **transcriptions.md**: Incorporada nueva transcripción Gemini 2025-08-24
+- **all-content.md**: Actualizados enlaces a sesión 29 y resúmenes analíticos
+- **Personajes principales**: Actualizados 6 protagonistas con desarrollo épico de sesión 29
+- **Campañas principales**: sessions/index.md, ai-notes-summary y index.md sincronizados

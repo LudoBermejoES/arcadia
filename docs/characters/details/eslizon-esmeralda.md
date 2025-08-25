@@ -44,6 +44,8 @@ Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta"
 - [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
 - [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
+- [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -163,3 +165,96 @@ El enfrentamiento con Les Enfant Terribles el 17 de agosto de 2025 revela **evol
 - **Madurez operacional**: Evoluciona de explorador individual a coordinador de operaciones
 
 Esta sesión confirma la **transformación de Eslizón** de explorador solitario a **líder táctico emergente**, estableciendo su capacidad para asumir comando durante crisis y coordinar operaciones complejas que requieren múltiples especialidades y timing preciso.
+
+---
+
+## Combate de Distracción Estratégica: Los Gorilas Dorados (24 Agosto 2025)
+
+### Táctica de "Tank" y Sacrificio Heroico
+El enfrentamiento con los gorilas dorados demuestra la **evolución completa** de Eslizón como protector estratégico del equipo:
+
+#### **Rol de Distracción Primaria**
+- **Atracción de amenazas**: "Corre para llamar la atención de los gorilas", convirtiendo múltiples enemigos en amenaza personal
+- **Rugido de desafío**: Utiliza intimidación reptiliana para enfocar la ira de los gorilas en sí mismo
+- **Sacrificio táctico**: Acepta convertirse en objetivo principal para proteger civiles
+- **Éxito estratégico**: Logra que "Los gorilas rodean a Eslizón", concentrando amenazas en un punto
+
+*"Eslizón corre para llamar la atención de los gorilas. Uno de ellos se acerca y lo ataca y lo deja aturdido."*
+
+#### **Resistencia Reptiliana Bajo Fuego**
+- **Supervivencia extrema**: Recibe múltiples ataques de gorilas dorados pero permanece operativo
+- **Evasión ágil**: "Otro gorila ataca a Eslizón que lo esquiva justamente"
+- **Resistencia al daño**: Su constitución reptiliana le permite absorber castigo que incapacitaría a otros
+- **Persistencia heroica**: Continúa luchando pese a estar rodeado y superado numéricamente
+
+#### **Movilidad Táctica Vertical**
+- **Ascensión estratégica**: Sube al segundo piso para crear ventaja táctica y atraer enemigos
+- **Liderazgo por elevación**: Su posición superior le permite coordinar ataques desde arriba
+- **Eliminación desde altura**: "Ataca a uno de ellos, que está inconsciente y le destruye"
+- **Control del campo de batalla**: Usa arquitectura del centro comercial para maximizar ventaja
+
+### **Instintos Reptilianos en Combate**
+
+#### **Alimentación de Carne Cruda Post-Combate**
+- **Comportamiento instintivo**: "Eslizón, como Eslizón, comenzó a comer el brazo de un gorila de oro, revelando su necesidad de carne cruda"
+- **Necesidades biológicas**: Su naturaleza reptiliana requiere alimentación inmediata tras combate intenso
+- **Oro como alimento**: Demuestra que puede procesar metales nobles para regeneración
+- **Normalización grupal**: El equipo acepta este comportamiento como necesidad biológica legítima
+
+*"Sugus Blanco, como Eslizón, comenzó a comer el brazo de un gorila de oro, revelando su necesidad de carne cruda"*
+
+#### **Apoyo Post-Combate a Compañeros**
+- **Asistencia médica**: "Diana estaba herida, por lo que Sugus Blanco la ayudó a moverse"
+- **Fuerza física superior**: Como el más fuerte del grupo, asume responsabilidad de evacuación
+- **Priorización de otros**: Pese a sus propias necesidades, atiende primero a compañeros heridos
+- **Liderazgo silencioso**: Toma iniciativa sin necesidad de órdenes para apoyar al equipo
+
+### **Evolución de Personalidad Heroica**
+
+#### **Nobleza Reptiliana Bajo Presión**
+- **Sacrificio estratégico**: Voluntariamente se convierte en objetivo principal para proteger otros
+- **Ética en combate**: Mantiene valores heroicos pese a instintos reptilianos primitivos
+- **Integración de naturalezas**: Combina ferocidad reptiliana con compasión humana
+- **Madurez emocional**: Acepta tanto sus necesidades biológicas como responsabilidades heroicas
+
+#### **Liderazgo Natural Emergente**
+- **Iniciativa táctica**: No espera órdenes para ejecutar maniobras de protección grupal
+- **Evaluación de prioridades**: Identifica automáticamente que civiles necesitan protección
+- **Coordinación instintiva**: Trabaja efectivamente con otros sin comunicación verbal
+- **Autoridad ganada**: Sus compañeros confían en sus decisiones durante crisis
+
+### **Especialización en Combate Anti-Múltiples**
+
+#### **Gestión de Amenazas Múltiples**
+- **Tanking efectivo**: Capaz de absorber ataques de múltiples enemigos simultáneamente
+- **Distribución de daño**: Su resistencia permite que otros miembros se concentren en eliminación
+- **Control de multitudes**: Sus rugidos y movimientos canalizan comportamiento enemigo
+- **Supervivencia grupal**: Su sacrificio permite que equipo complete objetivos sin bajas
+
+#### **Táctica de Elevación**
+- **Ventaja posicional**: Usa escalada reptiliana para obtener posición superior
+- **Ataque desde arriba**: Combina altura con fuerza física para devastadores ataques de cola
+- **Coordinación vertical**: Su posición elevada permite comunicación visual con equipo
+- **Escape táctico**: Su movilidad vertical proporciona rutas de escape única
+
+### **Apoyo Emocional y Logístico**
+
+#### **Cuidador del Equipo**
+- **Asistencia física**: Ayuda a Diana herida tras su primer trauma de combate
+- **Presencia reconfortante**: Su naturaleza noble proporciona estabilidad emocional
+- **Fuerza práctica**: Resuelve problemas logísticos mediante capacidad física superior
+- **Mentorship silencioso**: Guía por ejemplo en lugar de palabras
+
+#### **Integración de Necesidades**
+- **Aceptación grupal**: El equipo comprende y acepta sus necesidades reptilianas
+- **Normalización**: Su consumo de carne cruda se ve como requisito médico, no grotescidad
+- **Respeto mutuo**: Sus compañeros respetan tanto su humanidad como su naturaleza reptiliana
+- **Ejemplo de inclusión**: Demuestra que diferencias biológicas no impiden heroísmo
+
+### **Implicaciones para el Futuro**
+- **Especialista en tanking**: Se establece como protector primario durante combates masivos
+- **Líder de resistencia**: Su ejemplo de sacrificio inspira valentía en otros
+- **Integración completa**: Acepta completamente su naturaleza dual reptiliano-heroica
+- **Modelo de inclusión**: Demuestra que diferencias biológicas enriquecen capacidades grupales
+
+Esta sesión marca la **consolidación final** de Eslizón como el **corazón noble y protector** del equipo, alguien cuya naturaleza reptiliana complementa perfectamente su heroísmo, estableciendo un modelo único de liderazgo basado en sacrificio personal y aceptación de responsabilidades que otros no pueden asumir.

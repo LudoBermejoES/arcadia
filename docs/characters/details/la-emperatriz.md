@@ -10,7 +10,7 @@ slug: la-emperatriz
 <div class="character-photo">
   <img src="{{ site.baseurl }}/assets/img/characters/la-emperatriz.png" alt="La Emperatriz de Jade (años 60)" />
   <img src="{{ site.baseurl }}/assets/img/characters/la_emperatriz_de_jade_anciana.png" alt="La Emperatriz de Jade (época actual)" style="margin-top: 12px;" />
-</div>
+</div>t
 
 ## Presentación
 **La Emperatriz de Jade** es una **supervillana histórica** de Arcadia, activa durante los años 60, conocida por su **apariencia exótica de jade** y su **ejército de gorilas dorados**. Con una estética imperial única y poderes místicos relacionados con la piedra preciosa, representa el arquetipo de la villana exotic y poderosa de la era clásica de superhéroes.
@@ -25,10 +25,12 @@ slug: la-emperatriz
 - **Materialidad**: Parece estar compuesta efectivamente de piedra de jade
 
 ### **Poderes y Capacidades**
-- **Control de gorilas dorados**: Comando sobre un ejército de primates con fuerza descomunal
-- **Conexión telepática**: Los gorilas están unidos por hilos místicos a su ubicación
-- **Materialización de figuras**: Capacidad de crear objetos que se mueven de forma misteriosa
-- **Resistencia sobrenatural**: Naturaleza pétrea sugiere durabilidad extraordinaria
+- **Control de gorilas dorados**: Comando sobre un ejército de primates/constructos con fuerza descomunal
+- **Gorilas metálicos**: Confirmado que son de metal dorado; pueden derretirse ante calor extremo (p.ej., microondas de Hotman)
+- **Conexión mística**: Los gorilas parecen vinculados a su posición a través de hilos/filamentos de energía
+- **Artefacto de investidura**: Una diadema de jade activa/otorga el manto de la Emperatriz y refuerza su control
+- **Aparición por portales**: Parte de sus tropas emerge de grietas o portales abiertos en el suelo
+- **Resistencia sobrenatural**: Naturaleza pétrea/jade sugiere durabilidad extraordinaria
 
 ## Actividades Criminales
 
@@ -43,6 +45,7 @@ slug: la-emperatriz
 - **La Comadreja Padre**: Frecuente colaboración con este villano histórico
 - **Submundo de los 60**: Parte del ecosistema criminal de la era clásica
 - **Legado duradero**: Su memoria persiste décadas después de su actividad
+- **Abismo**: Teletransportador veterano (vinculado a los Siete Abominables) que coopera como apoyo logístico y amenaza disuasoria
 
 ## Apariciones en La Familia
 
@@ -57,6 +60,18 @@ slug: la-emperatriz
 - **Investigación posterior**: La Familia descubre su identidad como villana de los 60
 - **Conexiones del pasado**: Su asociación con la Comadreja Padre se confirma
 - **Memorabilia**: El hermano de Esfinge coleccionaba sus cromos y figuras
+
+## Apariciones en La Fuerza Oculta
+
+### Sesión 29: «Centro Comercial Heavy» (24 ago 2025)
+Intervención durante el asalto de «Los Enfant Terribles» a unos grandes almacenes:
+- **Contexto**: El centro comercial estaba cubierto por una cúpula de energía azul; el caos facilitó su despliegue.
+- **Despliegue de tropas**: Surgieron múltiples gorilas dorados —confirmados como metálicos— desde agujeros/portales en el suelo.
+- **Resistencia/daños**: Su dureza fue notable; no obstante, el calor extremo (microondas de Hotman) los derrite desde dentro.
+- **Diadema de jade**: Un gorila ofreció una diadema a la dueña de una joyería. Al colocársela, la mujer —anciana, ~90 años— adoptó la apariencia/regalia de la Emperatriz, sugiriendo que el manto se activa o transfiere mediante el artefacto.
+- **Declaración**: «Llevo veinte años engañados. ¿Vais a suponer un problema para mí? Hoy no.»
+- **Aliado presente**: Apareció **Abismo**, teletransportador asociado a los Siete Abominables, que amenazó con enviar al grupo a un volcán y finalmente los trasladó a un aparcamiento.
+- **Tácticas percibidas**: Los gorilas reaccionan de forma torpe ante ilusiones; pueden atacar simulacros pero no son especialmente astutos.
 
 ## Legado Cultural
 
@@ -91,19 +106,21 @@ slug: la-emperatriz
 
 ### **Ejército de Gorilas Dorados**
 - **Fuerza descomunal**: Capacidad física que supera a humanos normales
-- **Comunicación telepática**: Control mental directo desde su ubicación
+- **Naturaleza metálica**: Construcciones doradas que pueden derretirse con calor intenso
+- **Vinculación mística**: Control mental/energético directo desde su ubicación o a través de la diadema
 - **Coordinación grupal**: Ataques sincronizados y tácticas de equipo
 - **Resistencia**: Capaces de enfrentar a múltiples oponentes simultáneamente
 
 ### **Infraestructura Operacional**
 - **Bases elevadas**: Preferencia por azoteas y posiciones altas
-- **Red de conexión**: Hilos místicos que permiten control a distancia
-- **Merchandising**: Capacidad de crear objetos con propiedades sobrenaturales
+- **Red de conexión**: Hilos místicos que permiten control a distancia; posible apertura de portales locales
+- **Merchandising**: Capacidad de crear/activar objetos con propiedades sobrenaturales
 - **Reconocimiento público**: Suficiente fama para generar productos comerciales
 
 ## Apariciones Documentadas
 - **La Familia Sesión 26**: Ataque directo con gorilas dorados en Plaza de Goliat, descubrimiento de su identidad histórica
 - **Referencias históricas**: Mencionada como villana activa en los años 60, asociada con la Comadreja Padre
 - **La Fuerza Oculta**: Referencias nostálgicas a sus gorilas dorados por jugadores veteranos
+- **La Fuerza Oculta Sesión 29 (2025-08-24)**: Aparición en los grandes almacenes «Heavy»; confirmación de gorilas metálicos, uso de la diadema de jade y cooperación con Abismo para teletransportar al grupo
 
 **La Emperatriz de Jade representa el arquetipo perfecto de la supervillana exótica de la era clásica: una figura imponente con poderes únicos, estética memorable y métodos directos. Su legado trasciende su época activa, convirtiéndose en una referencia cultural que conecta la historia heroica de Arcadia con su presente, recordando una era donde las amenazas eran más directas pero igualmente peligrosas.**

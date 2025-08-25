@@ -8,7 +8,8 @@ slug: la-emperatriz
 # La Emperatriz de Jade
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/\la-emperatriz.png" alt="La Emperatriz de Jade" />
+  <img src="{{ site.baseurl }}/assets/img/characters/la-emperatriz.png" alt="La Emperatriz de Jade (años 60)" />
+  <img src="{{ site.baseurl }}/assets/img/characters/la_emperatriz_de_jade_anciana.png" alt="La Emperatriz de Jade (época actual)" style="margin-top: 12px;" />
 </div>
 
 ## Presentación

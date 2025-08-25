@@ -19,18 +19,14 @@ slug: la-emperatriz
 
 ### **Aspecto Físico**
 **La Emperatriz de Jade posee una apariencia distintiva y llamativa**:
-- **Piel de jade**: Color verde claro, con apariencia de estar hecha de piedra de jade
+- **Armadura de jade**: Color verde claro, con apariencia de estar hecha de piedra de jade
 - **Vestimenta imperial**: Ataviada como emperatriz con muy poca ropa
-- **Belleza exótica**: Descrita como "una tía buenísima" de aspecto impresionante
-- **Materialidad**: Parece estar compuesta efectivamente de piedra de jade
+- **Belleza exótica echada a perder por la edad**: Descrita como "una tía buenísima" de aspecto impresionante en su momento, ha perdido su belleza por la edad
 
 ### **Poderes y Capacidades**
-- **Control de gorilas dorados**: Comando sobre un ejército de primates/constructos con fuerza descomunal
-- **Gorilas metálicos**: Confirmado que son de metal dorado; pueden derretirse ante calor extremo (p.ej., microondas de Hotman)
+- **Control de gorilas dorados**: Comando sobre un ejército de primates/constructos con fuerza descomunal. Confirmado que son de metal dorado; pueden derretirse ante calor extremo (p.ej., microondas de Hotman)
 - **Conexión mística**: Los gorilas parecen vinculados a su posición a través de hilos/filamentos de energía
 - **Artefacto de investidura**: Una diadema de jade activa/otorga el manto de la Emperatriz y refuerza su control
-- **Aparición por portales**: Parte de sus tropas emerge de grietas o portales abiertos en el suelo
-- **Resistencia sobrenatural**: Naturaleza pétrea/jade sugiere durabilidad extraordinaria
 
 ## Actividades Criminales
 

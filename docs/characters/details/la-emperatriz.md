@@ -10,7 +10,7 @@ slug: la-emperatriz
 <div class="character-photo">
   <img src="{{ site.baseurl }}/assets/img/characters/la-emperatriz.png" alt="La Emperatriz de Jade (años 60)" />
   <img src="{{ site.baseurl }}/assets/img/characters/la_emperatriz_de_jade_anciana.png" alt="La Emperatriz de Jade (época actual)" style="margin-top: 12px;" />
-</div>t
+</div>
 
 ## Presentación
 **La Emperatriz de Jade** es una **supervillana histórica** de Arcadia, activa durante los años 60, conocida por su **apariencia exótica de jade** y su **ejército de gorilas dorados**. Con una estética imperial única y poderes místicos relacionados con la piedra preciosa, representa el arquetipo de la villana exotic y poderosa de la era clásica de superhéroes.

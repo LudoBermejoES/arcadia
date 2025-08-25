@@ -63,7 +63,7 @@ slug: la-emperatriz
 
 ## Apariciones en La Fuerza Oculta
 
-### Sesión 29: «Centro Comercial Heavy» (24 ago 2025)
+### Sesión 29: «Centro Comercial Hêvî» (24 ago 2025)
 Intervención durante el asalto de «Los Enfant Terribles» a unos grandes almacenes:
 - **Contexto**: El centro comercial estaba cubierto por una cúpula de energía azul; el caos facilitó su despliegue.
 - **Despliegue de tropas**: Surgieron múltiples gorilas dorados —confirmados como metálicos— desde agujeros/portales en el suelo.
@@ -121,6 +121,6 @@ Intervención durante el asalto de «Los Enfant Terribles» a unos grandes almac
 - **La Familia Sesión 26**: Ataque directo con gorilas dorados en Plaza de Goliat, descubrimiento de su identidad histórica
 - **Referencias históricas**: Mencionada como villana activa en los años 60, asociada con la Comadreja Padre
 - **La Fuerza Oculta**: Referencias nostálgicas a sus gorilas dorados por jugadores veteranos
-- **La Fuerza Oculta Sesión 29 (2025-08-24)**: Aparición en los grandes almacenes «Heavy»; confirmación de gorilas metálicos, uso de la diadema de jade y cooperación con Abismo para teletransportar al grupo
+- **La Fuerza Oculta Sesión 29 (2025-08-24)**: Aparición en los grandes almacenes Hêvî; confirmación de gorilas metálicos, uso de la diadema de jade y cooperación con Abismo para teletransportar al grupo
 
 **La Emperatriz de Jade representa el arquetipo perfecto de la supervillana exótica de la era clásica: una figura imponente con poderes únicos, estética memorable y métodos directos. Su legado trasciende su época activa, convirtiéndose en una referencia cultural que conecta la historia heroica de Arcadia con su presente, recordando una era donde las amenazas eran más directas pero igualmente peligrosas.**

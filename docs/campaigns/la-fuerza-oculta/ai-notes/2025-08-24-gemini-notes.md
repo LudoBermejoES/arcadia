@@ -12,7 +12,7 @@ Sugus Blanco, Alejandro Salamanca, Eduardo Vaquerizo, Xavi Gracia y Ludo Bermejo
 
 ### Detalles
 
-* **Resumen de la partida 27: Compras en el centro comercial** Eduardo Vaquerizo resumió la partida 27, donde los personajes fueron de compras a los almacenes "Heavy", comprando ropa y probando los botones de una furgoneta que resultaron ser un lanzallamas y un sistema de expulsión de asientos ([00:07:18](?tab=t.s4goln3a2akb#heading=h.z39hmup9u5c)). La tienda de electrodomésticos les permitió adquirir lo básico para la guarida. Ludo Bermejo mencionó que los personajes quedaron con poca pasta después de las compras ([00:09:17](?tab=t.s4goln3a2akb#heading=h.bbzse4wrmdu7)).
+* **Resumen de la partida 27: Compras en el centro comercial** Eduardo Vaquerizo resumió la partida 27, donde los personajes fueron de compras a los almacenes "Hêvî", comprando ropa y probando los botones de una furgoneta que resultaron ser un lanzallamas y un sistema de expulsión de asientos ([00:07:18](?tab=t.s4goln3a2akb#heading=h.z39hmup9u5c)). La tienda de electrodomésticos les permitió adquirir lo básico para la guarida. Ludo Bermejo mencionó que los personajes quedaron con poca pasta después de las compras ([00:09:17](?tab=t.s4goln3a2akb#heading=h.bbzse4wrmdu7)).
 
 * **Dificultades de acceso a la guarida y evento inesperado** Ludo Bermejo recordó que los personajes habían bloqueado la entrada principal a su guarida, lo que ahora les dificultaba meter los electrodomésticos. Eduardo Vaquerizo añadió que estaban saliendo de comprar los electrodomésticos cuando escucharon una granada de humo y una ráfaga de ametralladora, anunciando la llegada de "Los Enfant Terribles" al centro comercial ([00:10:23](?tab=t.s4goln3a2akb#heading=h.3gzrxqv3y8yq)).
 

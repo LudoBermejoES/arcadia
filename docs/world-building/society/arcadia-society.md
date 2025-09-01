@@ -30,7 +30,17 @@ La relación de los arcadios con los metahumanos es buena, pero con reservas. Au
 
 El actual alcalde, **François Chalá**, descendiente de inmigrantes liberianos y anterior segundo al mando de Ricardo Abeluengo, ha mantenido una postura cautelosa respecto a las políticas metahumanas. Tras asumir el cargo después del trágico atentado que acabó con la vida de su predecesor, Chalá enfrenta presiones constantes del **Grupo Mixto** para aprobar la **Ley de Prevención**, que obligaría a realizar pruebas genéticas metahumanas en recién nacidos.
 
-Incidentes recientes, como el del niño con poderes de fuego descontrolados en el Distrito Biónico (marzo 2024), han intensificado estas presiones, aunque el alcalde mantiene que "circunstancias excepcionales no deben dictar políticas generales". Esta tensión refleja la división social creciente entre quienes apoyan mayor control sobre los metahumanos y quienes defienden sus derechos civiles.
+#### Fuerzas Políticas Principales
+
+- **Partido Progresista Arcadiano**: Actualmente en el poder con François Chalá, mantiene una postura moderada pero con presiones internas crecientes hacia políticas más restrictivas.
+
+- **Grupo Mixto**: Coalición que presiona activamente por la aprobación de la Ley de Prevención y medidas más estrictas de control metahumano.
+
+- **Humanitas**: Partido político antimeta-humano **ilegalizado hace 10 años** (circa 2015) tras descubrirse conexiones con actividades terroristas y el grupo extremista Freiglasung.
+
+- **Partido por la Democracia (PD)**: Cuarta fuerza política liderada por **Sofía Nakamura**, hija de refugiados japoneses supervivientes de Hiroshima. El PD propone que los metahumanos menores sean considerados adultos ante la ley debido a su capacidad letal, utilizando incidentes recientes como el de Sentencia y los Enfants Gâtés para justificar su postura conservadora de centro-derecha.
+
+Incidentes recientes, como el del niño con poderes de fuego descontrolados en el Distrito Biónico (marzo 2024) y el enfrentamiento de La Fuerza Oculta con los monos dorados (agosto 2025), han intensificado estas presiones, aunque el alcalde mantiene que "circunstancias excepcionales no deben dictar políticas generales". Esta tensión refleja la división social creciente entre quienes apoyan mayor control sobre los metahumanos y quienes defienden sus derechos civiles.
 
 ### Medios de Comunicación y Cultura Popular
 

@@ -32,6 +32,7 @@ permalink: /characters/character-list/
 
 ### Gobierno y Administración
 - [François Chalá]({{ site.baseurl }}/characters/details/francois-chala/) (Alcalde actual de Arcadia)
+- [Sofía Nakamura]({{ site.baseurl }}/characters/details/sofia-nakamura/) (Líder del Partido por la Democracia)
 - [Ignacio Rodríguez (Condestable)]({{ site.baseurl }}/characters/details/ignacio-rodriguez/)
 - [Waldo Gutierrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (supervisor de proyectos universitarios)
 - [Felipe Álvarez]({{ site.baseurl }}/characters/details/felipe-alvarez/)

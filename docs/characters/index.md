@@ -285,7 +285,8 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **⚔️ [Los Espligan]({{ site.baseurl }}/groups/los-espligan/)**: Mercenarios especializados
 
 ### **🏛️ Instituciones**
-- **🗳️ Humanitas**: Partido político antimeta-humano
+- **🗳️ Humanitas**: Partido político antimeta-humano (ilegalizado hace 10 años)
+- **🗳️ Partido por la Democracia (PD)**: Cuarta fuerza política, liderado por Sofía Nakamura
 - **📺 RTA**: Radio Televisión de Arcadia (medios públicos)
 - **📰 Los Periodistas de Arcadia**: Red especializada de medios metahumanos (6+ miembros)
 - **🏫 Academias de Entrenamiento**: Formación heroica institucional

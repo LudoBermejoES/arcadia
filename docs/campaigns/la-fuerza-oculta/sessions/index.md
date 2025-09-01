@@ -15,7 +15,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🌅 **Junio 2025 - Los Fugitivos**
 
-#### [📝 Sesión 15 de Junio](2025-06-15.md)
+#### [📝 Sesión 15 de Junio](../manual-notes/session-20-2025-06-15.md)
 **"La Gran Evasión y el Refugio"**
 - ⚖️ **Contexto**: Post-juicio y condena del grupo
 - 🏃‍♂️ **Eventos**: Evasión organizada por Ana Montenegro
@@ -27,7 +27,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 22 de Junio](2025-06-22.md) 
+#### [📝 Sesión 22 de Junio](../manual-notes/session-21-2025-06-22.md) 
 **"Debate Ético y Primer Combate"**
 - 🤔 **Filosofía**: Discusión profunda sobre moralidad heroica
 - ⚔️ **Acción**: Primer combate coordinado como equipo fugitivo
@@ -39,7 +39,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 29 de Junio](2025-06-29.md)
+#### [📝 Sesión 29 de Junio](../manual-notes/session-19-2025-06-29.md)
 **"Apocalipsis Geográfico y Supervivencia"** 
 - 🌍 **Catástrofe**: Desaparición masiva de territorio
 - 🗼 **Ubicación**: Torre de vigilancia forestal canadiense
@@ -53,7 +53,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🦸‍♂️ **Julio 2025 - Profesionalización Heroica**
 
-#### [📝 Sesión 6 de Julio](2025-07-06.md)
+#### [📝 Sesión 6 de Julio](../manual-notes/session-22-2025-07-06.md)
 **"Trajes, Identidad y Meta-Narrativa"**
 - 🎭 **Camuflaje**: Estrategia genial de disfrazarse de fans de sí mismos
 - 🛍️ **Compras**: Visita a la tienda "No Solo Juegos" 
@@ -65,7 +65,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 13 de Julio](2025-07-13.md)
+#### [📝 Sesión 13 de Julio](../manual-notes/session-23-2025-07-13.md)
 **"Evolución y Primera Misión Oficial"**
 - ⬆️ **Progreso**: Segunda subida de nivel de todos los personajes
 - 🏋️‍♂️ **Entrenamiento**: Rutinas en el gimnasio de Comadreja  
@@ -78,7 +78,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 20 de Julio](2025-07-20.md)
+#### [📝 Sesión 20 de Julio](../manual-notes/session-24-2025-07-20.md)
 **"Operación Subterránea y La Farándula"**
 - 🚇 **Infiltración**: Entrada exitosa a la estación de metro abandonada
 - 🎯 **Combate**: Serie de enfrentamientos tácticos coordinados
@@ -93,7 +93,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🏛️ **Agosto 2025 - Independencia Heroica**
 
-#### [📝 Sesión 3 de Agosto](2025-08-03.md)
+#### [📝 Sesión 3 de Agosto](../manual-notes/session-26-2025-08-03.md)
 **"Entrega de Justicia y Establecimiento de Base"**
 - 📺 **Show Mediático**: Entrega profesional de mercenarios a la prensa
 - 🤝 **Negociaciones**: Acuerdo con Malik para renovación de base operativa
@@ -106,7 +106,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 10 de Agosto](2025-08-10.md)
+#### [📝 Sesión 10 de Agosto](../manual-notes/session-27-2025-08-10.md)
 **"Compras en Almacenes Hêvî y Ataque Terrorista"**
 - 🛒 **Compras**: Día de shopping en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) del Distrito Martis
 - 🚗 **Experimentos**: Descubrimiento de funciones secretas de la furgoneta heredada
@@ -117,7 +117,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 **Temas Clave**: Vida cotidiana heroica, exposición pública, preparación para nueva amenaza
 
-#### [📝 Sesión 17 de Agosto](2025-08-17.md)
+#### [📝 Sesión 17 de Agosto](../manual-notes/session-28-2025-08-17.md)
 **"Les Enfant Terribles y el Retorno de los Monos Dorados"**
 - 💥 **Separación**: El grupo se divide por problemas de comunicación
 - 🛡️ **Cúpula de Energía**: Almacenes Hêvî queda aislado del exterior
@@ -131,7 +131,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 24 de Agosto](2025-08-24.md)
+#### [📝 Sesión 24 de Agosto](../manual-notes/session-29-2024-08-24.md)
 **"Combate con Gorilas Dorados y los 7 Abominables"**
 - 🐒 **Batalla Épica**: Enfrentamiento coordinado contra múltiples gorilas de oro
 - ⚔️ **Tácticas de Combate**: Trabajo en equipo con ilusiones, ataques térmicos y teletransporte
@@ -145,7 +145,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 30 de Agosto](2025-08-30.md) - (session-30-2024-08-30.md)
+#### [📝 Sesión 30 de Agosto](../manual-notes/session-30-2024-08-30.md)
 **"Repercusiones Mediáticas y Búsqueda de Orientación"**
 - 📺 **Reacción Pública**: Análisis mediático del incidente con monos dorados
 - ⚖️ **Debate Político**: Surgimiento del Partido por la Democracia (PD) antimeta
@@ -204,25 +204,25 @@ Análisis narrativos profundos de cada sesión:
 
 ### ⚖️ **Evolución Moral**
 Sigue la transformación de Justa → Justicia → Sentencia:
-- **[15/06 - El Cambio de Nombre](2025-06-15.md#transformación-personal)**
-- **[22/06 - Debates Éticos](2025-06-22.md#debate-ético-fundamental)**
-- **[20/07 - Aplicación Práctica](2025-07-20.md#coordinación-telepática)**
+- **[15/06 - El Cambio de Nombre](../manual-notes/session-20-2025-06-15.md)**
+- **[22/06 - Debates Éticos](../manual-notes/session-21-2025-06-22.md)**
+- **[20/07 - Aplicación Práctica](../manual-notes/session-24-2025-07-20.md)**
 
 ### 👥 **Dinámicas de Grupo** 
 Desarrollo de relaciones y roles dentro del equipo:
-- **[15/06 - Formación Inicial](2025-06-15.md#dinámicas-de-grupo)**
-- **[22/06 - Cohesión en Crisis](2025-06-22.md#cohesión-de-grupo)**
-- **[20/07 - Especialización de Roles](2025-07-20.md#desarrollo-de-personajes)**
+- **[15/06 - Formación Inicial](../manual-notes/session-20-2025-06-15.md)**
+- **[22/06 - Cohesión en Crisis](../manual-notes/session-21-2025-06-22.md)**
+- **[20/07 - Especialización de Roles](../manual-notes/session-24-2025-07-20.md)**
 
 ### 🌆 **Arcadia Moderna**
 Exploración de la ciudad 10 años después:
-- **[06/07 - Geografía de Distritos](2025-07-06.md#geografía-de-arcadia)**
-- **[13/07 - Vida Cotidiana Heroica](2025-07-13.md#desarrollo-de-vida-cotidiana)**
-- **[20/07 - Infraestructura Subterránea](2025-07-20.md#operación-en-la-estación)**
+- **[06/07 - Geografía de Distritos](../manual-notes/session-22-2025-07-06.md)**
+- **[13/07 - Vida Cotidiana Heroica](../manual-notes/session-23-2025-07-13.md)**
+- **[20/07 - Infraestructura Subterránea](../manual-notes/session-24-2025-07-20.md)**
 
 ### 🎭 **Meta-Narrativa**
 El juego dentro del juego:
-- **[06/07 - Descubrimiento Inicial](2025-07-06.md#meta-narrativa)**
+- **[06/07 - Descubrimiento Inicial](../manual-notes/session-22-2025-07-06.md)**
 
 ---
 

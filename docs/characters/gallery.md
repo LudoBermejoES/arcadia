@@ -330,8 +330,8 @@ document.addEventListener('DOMContentLoaded', function() {
     politicos: [
       { slug: 'francois-chala', name: 'François Chalá', image: 'francois-chala.png' },
       { slug: 'leopoldo-gomez', name: 'Leopoldo Gómez', image: 'leopoldo-gomez.png' },
-        { slug: 'ricardo-abeluengo', name: 'Ricardo Abeluengo', image: 'Ricardo_Abeluengo.png' },
-
+      { slug: 'ricardo-abeluengo', name: 'Ricardo Abeluengo', image: 'Ricardo_Abeluengo.png' },
+      { slug: 'sofia-nakamura', name: 'Sofía Nakamura', image: 'sofia-nakamura.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     militares: [

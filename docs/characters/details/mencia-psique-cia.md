@@ -45,10 +45,12 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
+- [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
+- [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
-Tras la sesión del 3 de agosto de 2025, Psique tiene varias tareas y desarrollos pendientes:
+Tras la sesión del 30 de agosto de 2025, Psique tiene varias tareas y desarrollos pendientes:
 
 ### **🧠 Desarrollo Profesional como Terapeuta**
 - **Consulta psicológica en negro**: Mantener trabajo como "superpsicóloga" en despachito de Comadreja
@@ -61,10 +63,11 @@ Tras la sesión del 3 de agosto de 2025, Psique tiene varias tareas y desarrollo
 - **Email misterioso**: Responder a solicitud de presencia en residencia de tercera edad (**Distrito Biónico**)
 - **Colaboración con movimientos sociales**: Incluir gente del orgullo en esfuerzos políticos de Hotman
 
-### **🎓 Búsqueda de Mentor**
-- **Contacto con Mésmero**: Buscar mentoría para desarrollo avanzado de poderes telepáticos
+### **🎓 Búsqueda de Mentor (Actualizado 30/08/2025)**
+- **Contacto urgente con Mésmero**: Buscar activamente mentoría para desarrollo avanzado de poderes telepáticos tras reconocer limitaciones
+- **Entrenamiento ofensivo y defensivo**: Necesita mejorar habilidades físicas y mentales de combate con apoyo de Justa y Diana
+- **Especialización táctica**: Reconoce su valor como "central de información" pero necesita fortalecer capacidades de autodefensa
 - **Altea Argos (nueva identidad)**: Fortalecer identidad alternativa para proteger a su familia
-- **Desarrollo de habilidades**: Continuar mejorando capacidades telepáticas y curativas
 
 ### **💰 Gestión Económica**
 - **Mejorar situación económica**: Continuar construyendo estabilidad financiera personal

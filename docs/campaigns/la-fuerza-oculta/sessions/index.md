@@ -145,6 +145,21 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 30 de Agosto](2025-08-30.md) - (session-30-2024-08-30.md)
+**"Repercusiones Mediáticas y Búsqueda de Orientación"**
+- 📺 **Reacción Pública**: Análisis mediático del incidente con monos dorados
+- ⚖️ **Debate Político**: Surgimiento del Partido por la Democracia (PD) antimeta
+- 💔 **Consecuencias Psicológicas**: Trauma de Sentencia por disparar a civiles menores
+- 🏠 **Consolidación de Base**: Distribución de espacios y mobiliario en la guarida
+- 🧠 **Búsqueda de Mentores**: Psique busca entrenamiento telepático con veteranos
+- 🔧 **Investigación de Orígenes**: Kayface descubre conexión de su patineta con Cacharrero
+- 👻 **Contacto con Espectro**: Veterano ofrece ayuda con armamento no letal
+- 🏰 **Misión en el Barrio Gótico**: Reunión programada en teatro abandonado
+
+**Temas Clave**: Trauma heroico, repercusión social, búsqueda de guía veterana, investigación de orígenes
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -167,6 +182,7 @@ Transcripciones automáticas con análisis:
 - **[2025-08-10-gemini-notes](../ai-notes/2025-08-10-gemini-notes.md)**
 - **[2025-08-17-gemini-notes](../ai-notes/2025-08-17-gemini-notes.md)**
 - **[2025-08-24-gemini-notes](../ai-notes/2025-08-24-gemini-notes.md)**
+- **[2025-08-30-gemini-notes](../ai-notes/2025-08-30-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -180,6 +196,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 10/08](../ai-notes-summary/2025-08-10-gemini-notes.md)** - Vida cotidiana y amenaza terrorista
 - **[Resumen 17/08](../ai-notes-summary/2025-08-17-gemini-notes.md)** - Les Enfant Terribles y monos dorados
 - **[Resumen 24/08](../ai-notes-summary/2025-08-24-gemini-notes.md)** - Combate épico y 7 Abominables
+- **[Resumen 30/08](../ai-notes-summary/2025-08-30-gemini-notes.md)** - Repercusiones y búsqueda de mentores
 
 ---
 
@@ -229,9 +246,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 9 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~155 páginas de contenido
-- **Horas de Juego**: ~27 horas registradas
+- **Sesiones Totales**: 10 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~160 páginas de contenido
+- **Horas de Juego**: ~29.5 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

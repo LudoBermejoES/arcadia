@@ -598,6 +598,81 @@ La sesión del 17 de agosto presenta la primera división operativa significativ
 
 Esta sesión marca la primera confrontación mayor de La Fuerza Oculta con amenaza organizada de su propia generación, estableciendo paralelos entre aspirantes heroicos y villanos, mientras reintroduce elementos históricos del universo de Arcadia que sugieren conspiración de mayor envergadura.
 
+### Sesión 29: Gorilas Dorados y los Siete Abominables (24 agosto 2025)
+
+**Combate épico y alianzas pragmáticas:**
+
+La sesión del 24 de agosto presenta el enfrentamiento más grande y complejo de La Fuerza Oculta hasta la fecha, donde múltiples gorilas dorados emergen simultáneamente y el grupo debe enfrentar tanto amenazas históricas como leyendas vivientes del pasado villano de Arcadia.
+
+**Batalla coordinada contra múltiples gorilas:**
+- **Tácticas combinadas**: Ilusiones de Astrid, ataques térmicos de Hotman, teletransporte táctico
+- **Eslizón Esmeralda**: Liderazgo en combate físico directo con múltiples oponentes
+- **Sentencia**: Precisión letal calibrada, eliminación selectiva de amenazas
+- **Diana**: Análisis de debilidades, coordinación defensiva del grupo
+- **Psique**: Coordinación telepática pese a agotamiento por sesiones previas
+
+**Aparición de la Emperatriz de Jade:**
+- **Leyenda de los años 60**: Supervillana mítica responsable de los monos dorados
+- **Continuidad histórica**: Conexión directa con eventos de campañas anteriores
+- **Amenaza de escala superior**: Poder que supera cualquier enemigo enfrentado previamente
+- **Misterio persistente**: Sus motivaciones y ubicación actual permanecen desconocidos
+
+**Encuentro con Abismo (Siete Abominables):**
+- **Teletransportador veterano**: Miembro de organización villana histórica
+- **Propuesta inesperada**: Ofrece alianza temporal contra amenaza común
+- **Pragmatismo heroico**: La Fuerza Oculta acepta cooperar con enemigos tradicionales
+- **Evacuación coordinada**: Teletransporte a aparcamiento seguro tras combate
+
+**Evolución de la filosofía heroica:**
+- **Sentencia**: Demuestra que los principios pueden ser negociables ante supervivencia
+- **Liderazgo grupal**: Decisiones colectivas bajo presión extrema
+- **Alianzas improbables**: Colaboración exitosa con supervillanos por bien común
+- **Supervivencia pragmática**: Priorización de resultados sobre ideología
+
+### Sesión 30: Repercusiones y Búsqueda de Orientación (30 agosto 2025)
+
+**Consecuencias mediáticas y trauma heroico:**
+
+La sesión del 30 de agosto aborda las repercusiones profundas del combate con monos dorados, mostrando cómo los héroes lidian con las **consecuencias psicológicas y sociales** de sus métodos cada vez más violentos.
+
+**Reacción pública y mediática:**
+- **Videos virales**: El combate fue grabado masivamente, generando análisis mediático intensivo
+- **Polarización social**: Sentencia gana seguidores pro-armas pero es buscada por disparar a civiles menores
+- **Analistas televisivos**: Programas dedican tiempo a psicología de Hotman y Diana
+- **Debate nacional**: Uso de armas letales contra metahumanos menores genera controversia
+
+**Desarrollo político antimeta:**
+- **Partido Humanista**: Declarado ilegal por conexiones terroristas
+- **Partido por la Democracia (PD)**: Propone tratar metahumanos menores como adultos legales
+- **Sofía Nakamura**: Líder de 60 años, descendiente de refugiados de Hiroshima
+- **Dispositivos de inhibición**: Tecnología de 10 años para prisioneros metahumanos
+
+**Trauma y búsqueda de crecimiento:**
+- **Sentencia**: Sufre estrés postraumático por disparar a menores, busca alternativas no letales
+- **Psique**: Reconoce limitaciones, busca entrenamiento telepático con veteranos como Mésmero
+- **Kayface**: Investiga origen de su patineta, descubre conexión con Cacharrero
+- **Consolidación de base**: Distribución de espacios, necesidades logísticas, mobiliario
+
+**Contacto con veteranos:**
+- **Espectro**: Ofrece ayuda con armamento no letal y control de daño
+- **Mensaje directo**: "Deberías controlar el daño que haces. Yo cometí el mismo error."
+- **Reunión programada**: Cita en teatro abandonado del Barrio Gótico
+- **Mentoria disponible**: Conexión con generación de héroes experimentados
+
+**Investigación familiar y tecnológica:**
+- **Cacharrero**: Padre de Sara10/Mecánica, creador de la patineta de Kayface
+- **Conflicto familiar**: Mecánica reacciona hostilmente al mencionar a su padre
+- **Venganza tecnológica**: Hackeo de dispositivos con sonidos durante un día completo
+- **Búsqueda de contacto**: Necesidad de métodos espectaculares para llamar atención
+
+**Expansión del mundo - Barrio Gótico:**
+- **Zona especial**: Tecnología no funciona correctamente
+- **Población vulnerable**: Principalmente inmigrantes de bajos recursos
+- **Ambiente peligroso**: Especialmente nocturno
+- **Refugio histórico**: La furgoneta del Faraón puede operar allí
+
+Esta sesión establece la transición hacia mentoria veterana y desarrollo personal profundo, donde las consecuencias de las acciones heroicas se vuelven más complejas y los personajes buscan activamente orientación de generaciones anteriores para manejar el peso de sus responsabilidades.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes
@@ -744,6 +819,9 @@ Esta sesión marca la primera confrontación mayor de La Fuerza Oculta con amena
 **Agosto:**
 - 03/08: Entrega de mercenarios, establecimiento de base e ingresos independientes
 - 10/08: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), experimentos con furgoneta, ataque de Les Enfant Terribles
+- 17/08: Les Enfant Terribles, dispositivos interdimensionales, regreso de monos dorados
+- 24/08: Combate épico contra gorilas dorados, encuentro con Emperatriz de Jade y Abismo
+- 30/08: Repercusiones mediáticas, trauma postraumático, búsqueda de mentores veteranos
 - Salto temporal de 2 meses - Consolidación como héroes autónomos
 
 ---

@@ -44,16 +44,20 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
+- [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
+- [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
-Tras la sesión del 3 de agosto de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
+Tras la sesión del 30 de agosto de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
 
-### **⚔️ Desarrollo Táctico y Militar**
-- **Estudio de tácticas militares**: Investigar técnicas de combate para ser menos letal
-- **Armamento no letal**: Buscar armas que aturdan sin causar daño permanente
+### **⚔️ Desarrollo Táctico y Militar (Actualizado 30/08/2025)**
+- **URGENTE - Armamento no letal**: Buscar alternativas a balas reales tras trauma por disparar a civiles menores
+- **Balas de goma**: Investigar munición que cause heridas leves pero no mortales
+- **Armas de pulsos**: Contactar con Espectro para obtener armamento de energía no letal
+- **Control del daño**: Aprender técnicas para "controlar el daño que hace" según consejo de Espectro
+- **Ampliación de arsenal**: Diversificar armamento para diferentes situaciones
 - **Armas pesadas para metahumanos**: Investigar armamento para enfrentar "tanques metahumanos"
-- **Entrenamiento especializado**: Desarrollar técnicas de combate más sofisticadas
 
 ### **💼 Actividades Profesionales**
 - **Entrenadora personal**: Continuar trabajo con Comadreja
@@ -190,6 +194,186 @@ Esta maduración post-metro muestra a Justa/Sentencia evolucionando de una ideal
 - **Especialización diferente**: Roberto prefiere subfusiles mientras Justa usa Desert Eagle
 - **Acceso al legado paterno**: Custodio de la colección de armas de Anselmo McKomick
 - **Entrenamiento seguro**: Proporciona lugares donde practicar sin ser detectada
+
+---
+
+## Crisis Post-Trauma: El Despertar de la Conciencia (30 Agosto 2025)
+
+### **El Peso de Disparar a Civiles Menores**
+
+La sesión del 30 de agosto revela las **profundas consecuencias psicológicas** que Sentencia enfrenta tras el combate con los monos dorados, marcando una nueva fase en su evolución moral:
+
+#### **Estrés Postraumático Heroico**
+- **Trauma específico**: Sufre estrés postraumático por disparar a civiles menores de edad durante el combate
+- **Diferencia crucial**: Aunque no es la primera vez que dispara a alguien, estos eran "chiquillos"
+- **Impacto emocional**: Lo está "pasando mal" aunque intenta disimularlo ante el equipo
+- **Disonancia cognitiva**: Enfrenta la realidad de lo que significa ser un superhéroe vs sus ideales previos
+
+#### **Contraste con Experiencias Previas**
+- **Blancos de simulación**: Sus experiencias anteriores fueron contra objetivos de entrenamiento
+- **Personas reales**: Primera vez enfrentando las consecuencias emocionales de herir humanos reales
+- **Edad de las víctimas**: El factor de que fueran menores intensifica el trauma significativamente
+- **Expectativas vs Realidad**: Sus ideales heroicos chocan brutalmente con la realidad del combate
+
+#### **Debate Ético sobre Justicia y Menores**
+- **Contexto social**: Los jóvenes capturados son de barrios pobres, reclutados por grupos criminales
+- **Jurisdicción española**: Los menores no pueden ser imputados legalmente
+- **Opinión pública**: La sociedad no ve esta distinción legal con la misma claridad
+- **Dilema moral**: Cuestionamiento sobre si estos jóvenes "merecían su destino"
+
+### **Búsqueda de Alternativas: El Contacto con Espectro**
+
+#### **El Mensaje del Veterano**
+- **Contacto directo**: Espectro (Jorge Muro) le envía mensaje por WhatsApp
+- **Mensaje clave**: "Deberías controlar el daño que haces. Tienes que cambiar de armas. Yo cometí el mismo error."
+- **Experiencia compartida**: Espectro pasó por el mismo proceso de aprendizaje
+- **Oferta de ayuda**: Propone reunión para discutir armamento no letal
+
+#### **Perfil de Espectro como Mentor**
+- **Identidad**: Antiguo superhéroe y profesor de defensa personal
+- **Características**: Humano sin poderes visibles pero extremadamente entrenado
+- **Historia**: Compañero de Sara Diez, experiencia con grupo de mercenarios
+- **Filosofía**: "No deberías matar a nadie, si no quieres convertirte en lo que combates"
+
+#### **Reunión Programada en el Barrio Gótico**
+- **Ubicación estratégica**: Teatro abandonado donde la tecnología no funciona
+- **Seguridad**: Zona donde las comunicaciones están interrumpidas naturalmente
+- **Grupo completo**: Invita a todo el equipo para la conversación
+- **Propósito**: Discusión sobre armamento y letalidad en combate heroico
+
+### **Reflexiones sobre Balas No Letales**
+
+#### **Comprensión Técnica de Alternativas**
+- **Balas de goma**: Causan heridas leves pero no mortales como alternativa preferida
+- **Limitaciones del sistema**: Las reglas del juego no permiten ataques "aturdidores" fácilmente
+- **Realismo balístico**: Incluso balas de goma pueden ser letales en zonas sensibles (ojos)
+- **Complejidad táctica**: No existe solución simple para combate no letal efectivo
+
+#### **Evolución de la Filosofía Heroica**
+- **De Punisher a humana**: Debate interno entre ser justiciera letal vs más humanitaria
+- **Decisiones rápidas**: Reconoce que tuvo que tomar decisiones que no había "madurado"
+- **Shock emocional**: Está en shock por las consecuencias emocionales de sus acciones
+- **Búsqueda de balance**: Quiere mantener efectividad sin causar daño permanente
+
+### **Impacto en la Filosofía de "Sentencia"**
+
+#### **Evolución de la Identidad Heroica**
+- **Principios negociables**: Demuestra que sus principios pueden adaptarse ante circunstancias extremas
+- **Supervivencia pragmática**: La realidad del combate modifica ideales teóricos
+- **Responsabilidad personal**: Reconoce que debe cambiar métodos para mantener valores
+- **Crecimiento moral**: El trauma genera crecimiento en lugar de retroceso
+
+#### **Búsqueda de Mentoria Veterana**
+- **Conexión generacional**: Reconoce valor de aprender de héroes experimentados
+- **Humildad**: Acepta que necesita guía pese a su fuerte personalidad
+- **Evolución táctica**: Está dispuesta a cambiar métodos probados por alternativas más éticas
+- **Liderazgo responsable**: Su cambio influirá en todo el equipo
+
+### **Implicaciones para La Fuerza Oculta**
+
+#### **Liderazgo en Transición**
+- **Modelo para el equipo**: Su proceso de crecimiento moral influye en todos
+- **Búsqueda de alternativas**: Establece precedente de buscar métodos menos letales
+- **Conexión con veteranos**: Abre puertas a mentoria de generaciones anteriores
+- **Madurez heroica**: Muestra que el crecimiento es posible después del trauma
+
+#### **Arcos Narrativos Futuros**
+- **Mentoria con Espectro**: Desarrollo de habilidades de combate no letal
+- **Armamento alternativo**: Incorporación de armas de pulsos y balas de goma
+- **Evolución del liderazgo**: De comandante letal a líder ético
+- **Proceso de sanación**: Trabajar través del trauma mientras mantiene efectividad
+
+Esta crisis marca un **punto de inflexión crucial** donde Sentencia evoluciona de justiciera absoluta a líder responsable que busca activamente métodos que alineen sus acciones con sus valores más profundos, estableciendo un nuevo estándar de heroísmo consciente para La Fuerza Oculta.
+
+---
+
+## Declaración Pública: El Video de Justificación (Post-Hêvî)
+
+### **"No Voy a Contaros Nada Acerca de Armas Esta Vez"**
+
+**Contexto**: Tras el combate en el centro comercial Hêvî contra Les Enfant Terribles, la presión mediática y social sobre Sentencia alcanza un punto crítico, llevándola a grabar una declaración pública en el canal de Hotman.
+
+#### **El Momento Vulnerable Captado en Cámara**
+- **Composición visual**: Uniforme negro ajustado, pelo recogido, presencia ominosa de las Desert Eagle
+- **Lenguaje corporal**: "Incómoda ante la cámara", traga saliva, líneas de tensión en la mandíbula
+- **Contraste estético**: "Belleza embriagadora pero dura como el diamante" con ojos de "profundo azul"
+- **Revelación de fragilidad**: Al final se ve "frágil, rota" cuando cree que las cámaras están apagadas
+
+#### **La Declaración Moral: Sin Disculpas, Con Responsabilidad**
+
+**Apertura sin arrepentimiento**:
+> *"Lamento mucho las heridas recibidas por los dos jóvenes de los 'Enfants Terribles'. No hago este video para pedir perdón. Tampoco para justificar mis acciones. Probablemente si las circunstancias se repitieran volvería a hacer lo mismo."*
+
+**Crítica a los "analistas de sillón"**:
+> *"He escuchado muchos análisis de gente que jamás ha abandonado su sillón, que nunca se han visto en medio del caos de un ataque de decenas de aterradores gorilas gigantes en un pacífico centro comercial, cientos de personas, niños incluidos, que corren aterrorizados mientras un grupo de inconscientes juegan a divertirse."*
+
+#### **La Filosofía Heredada del Padre**
+
+**Enseñanza paterna aplicada**:
+> *"Mi padre me enseñó que hay que proteger a los inocentes, que hay que tomar decisiones a veces difíciles y que luego tienes que llevarlas contigo por el resto de tu vida. Hasta hace poco no entendía bien sus palabras. Ahora las tengo muy presentes."*
+
+**Reconocimiento de limitaciones humanas**:
+> *"No tengo superpoderes maravillosos, todo lo que soy lo he conseguido con trabajo duro, con la ayuda de personas que me quieren. Llevo usando armas y entrenando desde los seis años, todo ese esfuerzo no ha sido para echarme atrás en los momentos difíciles."*
+
+#### **El Mensaje Dual: Anti-Violencia Pero Pro-Protección**
+
+**Rechazo del extremismo violento**:
+> *"Y tengo unas palabras también para aquellos que creen que las armas y la violencia es la solución, la única solución. No es así, solo es la mejor de las opciones cuando todo lo demás ha fallado."*
+
+**Definición de la misión heroica**:
+> *"Fuerza Oculta existe para ese momento, le guste o no a los tertulianos, a los que creen que todo es muy fácil, que basta con meter en la cárcel a todos los metahumanos o que hay que matar a todos los delincuentes."*
+
+#### **La Humanidad Detrás de la Máscara**
+
+**Momento de colapso emocional**:
+- Al terminar, baja la cabeza y dice: *"Corta ya, he dicho muchas tonterías, no creo que debas subirlo"*
+- Su rostro "pierde toda la tensión y por un instante fugaz parece frágil, rota"
+- Agradece a Hotman con simplicidad vulnerable: *"Gracias Hot"*
+
+**La decisión de Hotman**: Sube el video sin comentarios adicionales, preservando la autenticidad del momento
+
+#### **Análisis del Impacto Narrativo**
+
+**Revelación de la complejidad moral**:
+- **No se disculpa** pero **sí lamenta** las consecuencias
+- **Mantiene sus principios** pero **reconoce el costo emocional**
+- **Critica a los extremos** tanto pacifistas como violentos
+- **Defiende la necesidad** de decisiones difíciles en momentos críticos
+
+**Establecimiento de una nueva filosofía heroica**:
+- **Heroísmo imperfecto**: Reconoce errores pero mantiene necesidad de acción
+- **Responsabilidad personal**: Las decisiones se "llevan contigo por el resto de tu vida"
+- **Pragmatismo protector**: Violencia como último recurso, no como primera opción
+- **Humanidad heroica**: Los héroes también sufren las consecuencias de sus actos
+
+#### **Significado para La Fuerza Oculta**
+
+**Liderazgo moral transparente**:
+- Primera vez que un miembro explica públicamente la filosofía del grupo
+- Establece expectativas realistas sobre métodos heroicos
+- Reconoce tanto limitaciones como necesidades del trabajo heroico
+
+**Evolución de la imagen pública**:
+- De "justiciera perfecta" a "líder responsable que asume costos"
+- Humaniza al grupo ante la opinión pública
+- Establece diferencia entre La Fuerza Oculta y extremistas de ambos lados
+
+**Impacto en futuros desarrollos**:
+- **Template para crisis futuras**: Cómo manejar controversias con honestidad
+- **Estándar moral**: Balance entre principios y pragmatismo
+- **Conexión generacional**: Aplicación práctica de enseñanzas paternas heroicas
+
+### **El Momento Hotman: Apoyo Incondicional**
+
+**Dinamica de pareja heroica**:
+- Hotman actúa como camarógrafo y soporte emocional
+- Ofrece no subir el video si ella no quiere
+- Su canal se convierte en plataforma para el mensaje auténtico
+- Demuestra que detrás de cada héroe hay una red de apoyo personal
+
+**Significado del canal**: El hecho de que use el canal de Hotman, no oficial de La Fuerza Oculta, añade intimidad y autenticidad al mensaje
+
+Este video representa el **momento de madurez definitiva** de Sentencia, donde trasciende tanto la justiciera idealista como la comandante pragmática para convertirse en una **líder moral que acepta la complejidad inherente del heroísmo**, estableciendo un nuevo paradigma para La Fuerza Oculta que equilibra principios con realismo.
 
 ### Legado de Anselmo McKomick - Padre Fallecido
 El padre de Justa murió durante el ataque de MetaCorps a La Familia, evento que:

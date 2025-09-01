@@ -1,0 +1,84 @@
+31 ago 2025
+
+## Los domingos al rol
+
+Archivos adjuntos [Los domingos al rol](https://www.google.com/calendar/event?eid=MjhiZThraXA5NnNzcDNtMmkwODl2aTEzMjZfMjAyNTA4MzFUMTYzMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - 2025/06/15 19:03 CEST - Notas de Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) 
+
+Registros de la reunión [Transcripción](?tab=t.mntqfteqpp6v) 
+
+### Resumen
+
+Se decidió que Eduardo Vaquerizo y sus compañeros se reunirían con Espectro (Jorge Muro) en un antiguo teatro del Barrio Gótico para hablar sobre armas y su letalidad, antes de que Kauneda Arashi se fuera de vacaciones a Tailandia el 28 de septiembre.
+
+### Detalles
+
+* **Resumen de la Partida Anterior (Arcadia)** Eduardo Vaquerizo proporcionó un resumen extenso de la partida anterior de Arcadia, detallando las acciones de los personajes como Mono, Hotman, Diana, Justa, Sique y Lizón, y los enfrentamientos con gorilas dorados y plateados ([00:17:49](?tab=t.mntqfteqpp6v#heading=h.s0tayycpyft4)). Se introdujo a la antigua Reina de Jade y a un nuevo miembro de los Siete Abominables, Abismo ([00:21:11](?tab=t.mntqfteqpp6v#heading=h.b5t2dtc7nxrz)).
+
+* **Desarrollo de la Trama y Nuevos Personajes** Se reveló que los personajes fueron teletransportados a un estacionamiento y Justa contactó a un conductor de Uber llamado Ignacio Nacho Smuk, quien se mostró demasiado interesado en ayudar al grupo. Sique realizó una lectura mental superficial de Nacho, percibiendo inestabilidad o trauma, y considerándolo un candidato para su consulta psíquica. Se sugirió que la Comadreja recupere la furgoneta ([00:22:44](?tab=t.mntqfteqpp6v#heading=h.3cm5xyryab81)).
+
+* **Problemas con la Guarida y Adquisición de Muebles** El grupo tuvo que gastar una gran suma de dinero para adquirir y transportar muebles a su guarida, ya que la entrada original estaba rota y era difícil acceder con objetos grandes. Diana fue la encargada de la tirada de riqueza para cubrir los gastos ([00:25:20](?tab=t.mntqfteqpp6v#heading=h.ix4fict1l6uq)) ([00:27:21](?tab=t.mntqfteqpp6v#heading=h.z8vcudlalo97)).
+
+* **Distribución de Habitaciones y Espacios en la Guarida** El equipo discutió la distribución de los espacios dentro de su guarida, decidiendo dónde dormirían, especialmente considerando que Lizón tenía una cueva asignada ([00:28:27](?tab=t.mntqfteqpp6v#heading=h.eb5x8djskvzl)). Propusieron hacer una zona de estar y habitaciones o laboratorios, y Ludo Bermejo mencionó la necesidad de levantar tabiques para crear los espacios deseados ([00:30:13](?tab=t.mntqfteqpp6v#heading=h.k466pbkub41p)).
+
+* **Dificultades de Limpieza y Búsqueda de un Patrocinador** Se habló de la necesidad de contratar servicios de limpieza o un robot para mantener la guarida, dado lo remoto del lugar ([00:32:02](?tab=t.mntqfteqpp6v#heading=h.cojpd4a7n7fp)). El grupo reconoció la dificultad de encontrar ayuda de confianza sin un mentor y la necesidad de buscar un patrocinador para financiar sus operaciones y gastos ([00:33:03](?tab=t.mntqfteqpp6v#heading=h.n8tbtaykpsnv)).
+
+* **Funcionalidad del Mapa y Movimiento de los Personajes** Ludo Bermejo trabajó en ajustar el mapa del juego para permitir que los jugadores se movieran más libremente entre los diferentes niveles de la guarida ([00:36:27](?tab=t.mntqfteqpp6v#heading=h.61wgjithilqv)). Los jugadores experimentaron algunos problemas técnicos con el movimiento y los teletransportes, pero Ludo Bermejo se comprometió a resolverlos ([00:37:44](?tab=t.mntqfteqpp6v#heading=h.ingzbrulhmx6)).
+
+* **Repercusiones Mediáticas del Ataque de los Monos Dorados** El grupo salió en las noticias debido al ataque de los monos dorados en el centro comercial, que fue grabado por civiles. Sentencia fue buscada por usar un arma de fuego contra menores de edad y ganó seguidores entre la extrema derecha, mientras que los analistas de televisión discutieron la psicología de Hotman y Diana basándose en los vídeos del incidente ([00:47:10](?tab=t.mntqfteqpp6v#heading=h.kgmz997xsa0n)).
+
+* **Impacto Emocional en los Personajes y Consecuencias** Sique se sintió inútil al no poder defender a Diana, quien reveló una "faceta oculta" durante el ataque ([00:51:45](?tab=t.mntqfteqpp6v#heading=h.38tz4293zwxz)). Justa se mostró afectada e irritable, mostrando signos de estrés postraumático por haber disparado a civiles ([00:54:12](?tab=t.mntqfteqpp6v#heading=h.9fxys66fwidl)) ([00:56:15](?tab=t.mntqfteqpp6v#heading=h.2fxt4vsqn196)). Los personajes consideraron buscar un sistema menos letal para sus acciones ([00:55:13](?tab=t.mntqfteqpp6v#heading=h.2xjhwswj5mdz)).
+
+* **Preocupación del Personaje de Justa** Eduardo Vaquerizo describe la angustia de Justa, quien se vio obligada a tomar decisiones rápidas que no había madurado, como disparar a personas. Justa está en shock por las consecuencias emocionales de sus acciones y se debate entre ser una "Punisher" o intentar ser más humana, considerando métodos menos letales, como las balas de goma ([00:57:18](?tab=t.mntqfteqpp6v#heading=h.ycae5tddcz2l)) ([00:59:19](?tab=t.mntqfteqpp6v#heading=h.by8n6pgv7xr3)).
+
+* **Balas No Letales** Eduardo Vaquerizo explica que Justa desearía haber usado balas de goma para evitar herir gravemente a las personas, ya que estas causan heridas leves pero no mortales. Ludo Bermejo y Kauneda Arashi discuten las limitaciones de las armas de fuego para "aturdir" sin causar daño letal, señalando que las reglas del juego no lo permiten y que incluso las balas de goma podrían ser letales si impactan en zonas sensibles como los ojos ([00:58:21](?tab=t.mntqfteqpp6v#heading=h.n0u52vxfscvf)).
+
+* **Disonancia Cognitiva de Justa** Eduardo Vaquerizo y Kauneda Arashi exploran la disonancia cognitiva de Justa, quien se enfrenta a la realidad de lo que significa ser un superhéroe en contraste con sus ideales previos ([01:01:13](?tab=t.mntqfteqpp6v#heading=h.eauvwhtqtjwy)). La situación le genera un trauma significativo al haber disparado a personas reales, a diferencia de sus experiencias previas con blancos de simulación ([01:00:15](?tab=t.mntqfteqpp6v#heading=h.byi4tgbcuy95)).
+
+* **Debate sobre la Justicia y los Enfants Terribles** Ludo Bermejo revela que los jóvenes capturados son de barrios pobres y fueron reclutados por un grupo, lo que plantea un debate sobre su culpabilidad ([01:02:04](?tab=t.mntqfteqpp6v#heading=h.vynblut9ulvt)). Eduardo Vaquerizo y Ludo Bermejo discuten si estos jóvenes merecían su destino, dado que, según la jurisdicción española, los menores no pueden ser imputados, aunque la opinión pública no lo vea así ([01:03:06](?tab=t.mntqfteqpp6v#heading=h.it2ywpduduh3)).
+
+* **Popularidad y Métodos del Equipo** Ludo Bermejo explica que la popularidad del grupo está en aumento, especialmente la de Hotman, debido a sus acciones heroicas, a pesar de la controversia generada por sus métodos poco ortodoxos. Se destaca que, gracias a ellos, nadie resultó herido en el incidente con los "monos", y se menciona un acto de contención por parte de un miembro del equipo que no usó su arma letal ([01:04:54](?tab=t.mntqfteqpp6v#heading=h.7uwjwia3cuma)).
+
+* **Movimientos Políticos y Metahumanos** Ludo Bermejo informa que el Partido Humanista fue declarado ilegal por su conexión con un grupo terrorista ([01:06:15](?tab=t.mntqfteqpp6v#heading=h.58t60gchcdmb)). También menciona el surgimiento de un nuevo partido, el Partido por la Democracia (PD), que propone considerar a los metahumanos menores de edad como adultos legales debido a sus poderes letales ([01:07:51](?tab=t.mntqfteqpp6v#heading=h.rp14wp8dz9rq)).
+
+* **Control de Poderes Metahumanos** Se discute que, aunque los metahumanos menores no pueden ser encarcelados como adultos, se les podría enviar a reformatorios especializados ([01:07:51](?tab=t.mntqfteqpp6v#heading=h.rp14wp8dz9rq)). Ludo Bermejo aclara que una sentencia judicial puede llevar a la inhibición de poderes mediante un dispositivo, una práctica que ha existido durante diez años y ha mejorado la seguridad en las cárceles ([01:10:03](?tab=t.mntqfteqpp6v#heading=h.71rji1xpunyy)).
+
+* **Origen de Sofía Nakamura y el Partido por la Democracia** Ludo Bermejo identifica a Sofía Nakamura como la líder del Partido por la Democracia (PD), mencionando que sus padres fueron refugiados de Hiroshima y que ella tiene sesenta años, lo que los convierte en una figura política de mayor edad que representa una corriente más agresiva ([01:11:40](?tab=t.mntqfteqpp6v#heading=h.upn0vzut3lod)). Eduardo Vaquerizo los describe como un partido de ultraderecha, cuyas declaraciones no son compartidas por la mayoría de la población ([01:13:50](?tab=t.mntqfteqpp6v#heading=h.e8vsskty2p94)).
+
+* **Búsqueda de Mentor para Sique** Kauneda Arashi expresa la necesidad de que Sique encuentre un mentor para desarrollar sus poderes psíquicos y volverse más fuerte y agresiva ([01:14:54](?tab=t.mntqfteqpp6v#heading=h.r6mvtdsmamq5)). Sique busca telépatas en Arcadia, considerando a Mesmero y a un antiguo supervillano telequinético, aunque no está segura de la identidad del niño y del supervillano ([01:17:08](?tab=t.mntqfteqpp6v#heading=h.kq8g3dt1jfjt)).
+
+* **Habilidades y Preocupaciones de Sique** Kauneda Arashi explica que Sique es excelente en incursiones, usando sus habilidades telepáticas para leer mentes, localizar y avisar, actuando como una central de información ([01:17:08](?tab=t.mntqfteqpp6v#heading=h.kq8g3dt1jfjt)). Sin embargo, Sique tiene dificultades para la ofensiva y necesita un mentor para mejorar sus habilidades físicas y mentales de combate, con el apoyo de Justa y Diana para un plan de defensa y ataque ([01:23:24](?tab=t.mntqfteqpp6v#heading=h.84v45963wlsy)) ([01:25:31](?tab=t.mntqfteqpp6v#heading=h.cqwz0i9f2ec5)).
+
+* **Búsqueda de Información de K Face** Xavi Gracia planea investigar el origen de su patineta voladora, examinando las piezas para encontrar marcas distintivas ([01:29:44](?tab=t.mntqfteqpp6v#heading=h.xadkkwntk9be)). Descubre que la patineta fue creada por Cacharrero, un metahumano que fabrica objetos personalizados, lo que implica que K Face debe hacer algo llamativo para captar su atención y contactarlo ([01:30:52](?tab=t.mntqfteqpp6v#heading=h.wzl71uhfrm8b)) ([01:37:19](?tab=t.mntqfteqpp6v#heading=h.bsoe9ikk66im)).
+
+* **Conflicto con Sara 10/Mecánica** Xavi Gracia intenta contactar a Sara 10, también conocida como Mecánica, quien la ayudó a escapar de la cárcel ([01:41:13](?tab=t.mntqfteqpp6v#heading=h.8r8fw6lxbkq7)). Sin embargo, al mencionar al padre de Sara 10 (Cacharrero), esta reacciona negativamente y corta toda comunicación, lo que indica un problema familiar y genera sonidos de pedos en los altavoces de Xavi Gracia ([01:42:57](?tab=t.mntqfteqpp6v#heading=h.x0uazdk1qyvw)).
+
+* **Situación Alimenticia y Hallazgo del Dron** Eduardo Vaquerizo menciona que el equipo está cansado de la comida saludable que Justa prepara, expresando su deseo de comer algo menos sano, como pizza ([01:49:18](?tab=t.mntqfteqpp6v#heading=h.5wbzbonhkeis)) ([01:52:19](?tab=t.mntqfteqpp6v#heading=h.9v2lk1dch6g)). Finalmente, un dron espía es encontrado y destruido, lo que detiene los ruidos de pedos, revelando que Sara 10/Mecánica los estaba espiando ([01:50:38](?tab=t.mntqfteqpp6v#heading=h.17afzab0g378)).
+
+* **Dieta y Comida Rápida** Ludo Bermejo y Eduardo Vaquerizo discuten sobre los hábitos alimenticios de Justa, quien se cuida mucho y come saludable, aunque Kauneda Arashi expresa el deseo de comida chatarra semanal ([01:53:14](?tab=t.mntqfteqpp6v#heading=h.pr91mu97c4u1)). Se plantea la necesidad de calentar las pizzas que llegan frías, con Xavi Gracia sugiriendo un microondas para evitar sobrecargar a Hotman ([01:54:17](?tab=t.mntqfteqpp6v#heading=h.1c8lxyi0is00)).
+
+* **Bomba Nuclear en Arcadia** Ludo Bermejo revela que hay una bomba nuclear de los años 40 en la plaza central de Arcadia, detenida a 1.5 metros del suelo por un campo de éxtasis temporal ([02:10:50](?tab=t.mntqfteqpp6v#heading=h.py417rmiczmo)). Los niños de las escuelas visitan esta bomba una vez al año, lo que la convierte en una atracción muy famosa en la ciudad ([02:11:55](?tab=t.mntqfteqpp6v#heading=h.b2t1pzolxnsf)).
+
+* **El Barrio Gótico** Ludo Bermejo describe el Barrio Gótico como un lugar peligroso, especialmente de noche, habitado principalmente por inmigrantes de bajos recursos ([02:25:15](?tab=t.mntqfteqpp6v#heading=h.92e9wkg2lshq)). Se menciona que la tecnología no funciona bien allí, como la falta de internet y la lentitud del cobre, a pesar de que la furgoneta puede operar gracias a la intervención del Faraón ([02:21:23](?tab=t.mntqfteqpp6v#heading=h.id2gg15ct64l)) ([02:27:31](?tab=t.mntqfteqpp6v#heading=h.a13msxel481f)).
+
+* **La Furgoneta del Faraón** La furgoneta, que tiene un reactor atómico y es capaz de generar un pulso electromagnético, perteneció al Faraón y antes a una Baronesa Carmesí, una de las líderes del crimen organizado ([02:03:43](?tab=t.mntqfteqpp6v#heading=h.98v3bd5maz0h)). Ludo Bermejo advierte no presionar el botón central, ya que puede causar ataques cardíacos, y menciona que la furgoneta es un artefacto peligroso con una "bomba atómica" dentro ([02:02:36](?tab=t.mntqfteqpp6v#heading=h.gxjo5ol5kwgc)) ([02:04:48](?tab=t.mntqfteqpp6v#heading=h.8lvuaojq5pxz)).
+
+* **Interacción con Mecánica** Kauneda Arashi sugiere a Xavi Gracia que hable con Mecánica para resolver sus problemas, a pesar de que Ludo Bermejo describe a Mecánica como una "friky infecta" obsesionada con los cacharros y los drones ([01:54:17](?tab=t.mntqfteqpp6v#heading=h.1c8lxyi0is00)). Xavi Gracia indica que no sabía sobre las aficiones de Mecánica, lo que podría haber influido en su enfoque al hablar con ella sobre el monopatín ([01:55:18](?tab=t.mntqfteqpp6v#heading=h.1lh8t67kbdy2)).
+
+* **Estrategias para Contactar a Cacharrero** Para llamar la atención de Cacharrero, Ludo Bermejo sugiere hacer algo extraordinariamente espectacular, incluso "romper la ley" de manera grandiosa, como entrar en el estadio del Arcadia Fútbol Club ([01:59:17](?tab=t.mntqfteqpp6v#heading=h.h8am6fb5lox5)). También se menciona robar algo para llamar su atención, pero luego devolverlo, o hacer algo que aumente su ego, como poner un cartel cerca de la central nuclear diciendo que Cacharrero lo haría mejor ([02:06:45](?tab=t.mntqfteqpp6v#heading=h.jidrjywjvu80)) ([02:09:01](?tab=t.mntqfteqpp6v#heading=h.ipr25gccnncz)).
+
+* **Mensaje de Espectro** Eduardo Vaquerizo recibe un mensaje de un número desconocido, revelado como Espectro (Jorge Muro), un antiguo superhéroe y profesor de defensa personal ([02:15:59](?tab=t.mntqfteqpp6v#heading=h.q9mzm1pvaloj)). Espectro, un humano sin poderes visibles pero extremadamente bien entrenado, aconseja a Eduardo Vaquerizo controlar el daño que hace, cambiar de armas y ampliar su arsenal ([02:17:19](?tab=t.mntqfteqpp6v#heading=h.cq9zsovywom5)).
+
+* **Reunión en el Barrio Gótico** Espectro invita a Eduardo Vaquerizo y sus compañeros a reunirse en un antiguo teatro del Barrio Gótico para hablar sobre armas y su letalidad ([02:19:55](?tab=t.mntqfteqpp6v#heading=h.r78bgawf12ck)). La elección del Barrio Gótico es significativa debido a la interrupción de la tecnología en esa zona, lo que crea un entorno de "vuelta al medievo" ([02:21:23](?tab=t.mntqfteqpp6v#heading=h.id2gg15ct64l)) ([02:27:31](?tab=t.mntqfteqpp6v#heading=h.a13msxel481f)).
+
+* **Viaje de Kauneda Arashi a Tailandia** Kauneda Arashi anuncia que su última partida antes de irse de vacaciones será el 28 de septiembre, ya que viajará a Tailandia ([02:29:19](?tab=t.mntqfteqpp6v#heading=h.xt4wybv43gmh)). Su plan de viaje incluye visitar templos y selvas, evitando zonas en conflicto con Camboya, a pesar de los riesgos de que se declare una guerra mientras esté allí ([02:30:05](?tab=t.mntqfteqpp6v#heading=h.bmv6dpnjtdlj)).
+
+### Pasos siguientes recomendados
+
+- [ ] Eduardo Vaquerizo hará un comunicado de Fuerza Oculta.  
+- [ ] Ludo Bermejo pasará el debate generado por la IA fuera de la partida para que el grupo vea lo que la gente opina.  
+- [ ] Kauneda Arashi intentará mejorar físicamente y aumentar sus habilidades defensivas y ofensivas con la ayuda de Diana y Justa.  
+- [ ] Xavi Gracia hará averiguaciones discretas sobre dónde contactar con Cacharrero y buscará algo que le interese.
+
+*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
+
+*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=ugiApQvsrXCQMfJVB8nhDxIROAIIigIgABgDCA&detailid=unspecified)*

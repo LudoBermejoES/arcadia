@@ -44,6 +44,8 @@ Astrid actúa como la especialista tecnológica del grupo "La Fuerza Oculta". Su
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
+- [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
+- [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 
 ## Detalles Adicionales
 La habitación de Astrid refleja su personalidad moderna y sus intereses diversos: "tiene muchos elementos de cultura pop, pocas cosas materiales, posters de grupos de música, de wrestling, héroes de acción. Por lo demás es muy normaliza[da]". Esta decoración sugiere una personalidad extrovertida y conectada con las tendencias contemporáneas.
@@ -198,3 +200,91 @@ El enfrentamiento con los gorilas dorados representa el **pico de competencia** 
 - **Líder en innovación**: Sus técnicas pueden inspirar nuevas tácticas de equipo
 
 Esta sesión marca la **consolidación definitiva** de Astrid/Kayface como **maestra de ilusiones tácticas**, capaz de alterar el campo de batalla mediante creatividad y técnica sofisticada que combina artístico personal con efectividad militar, estableciendo nuevos estándares para el combate ilusorio dentro de La Fuerza Oculta.
+
+---
+
+## Investigación de Orígenes: El Misterio del Cacharrero (30 Agosto 2025)
+
+### **El Descubrimiento de sus Raíces**
+La sesión del 30 de agosto marca un punto de inflexión en la comprensión de Astrid/Kayface sobre su propio pasado, cuando decide investigar el origen de su patineta voladora misteriosa.
+
+#### **Investigación Tecnológica Exitosa**
+- **Desmontaje y Análisis**: Examina las piezas de su patineta para encontrar marcas distintivas
+- **Descubrimiento Crucial**: Identifica marca "CH" perteneciente al **Cacharrero**
+- **Comprensión del Valor**: Aprende que su patineta es una creación única, hecha a medida
+- **Implicaciones Familiares**: Descubre que puede tener conexiones familiares con figuras importantes
+
+#### **El Cacharrero: Conexión Inesperada**
+- **Perfil del Creador**: Metahumano ingeniero delincuente que fabrica objetos para héroes y villanos
+- **Objetos únicos**: Sus creaciones son permanentes, muy caros y requieren más que dinero
+- **Dificultad de contacto**: Solo se puede contactar llamando su atención con algo espectacular
+- **Historia criminal**: Fracasó en un robo importante y fue encarcelado
+
+#### **Drama Familiar Revelado: Sara10/Mecánica**
+- **Conexión Personal**: El Cacharrero es el padre de Sara10/Mecánica, quien liberó a La Fuerza Oculta de prisión
+- **Conflicto Familiar Profundo**: Mecánica reacciona con hostilidad extrema al mencionar a su padre
+- **Ruptura de Comunicación**: Corta toda comunicación inmediatamente cuando se menciona al Cacharrero
+- **Relación Pasada**: Mecánica había comenzado a desarrollar una pequeña amistad con Kayface
+
+#### **Venganza Tecnológica: La Guerra de los Pedos**
+- **Hackeo Extensivo**: Mecánica interviene todos los dispositivos electrónicos cerca de Kayface
+- **Duración Prolongada**: Durante un día completo, todos los aparatos reproducen sonidos de pedos
+- **Demostración de Poder**: Muestra las capacidades técnicas superiores de Mecánica
+- **Descubrimiento del Origen**: Eslizón encuentra un minidron tipo mosca con LED
+
+### **Búsqueda de Contacto con el Cacharrero**
+
+#### **Métodos Espectaculares Requeridos**
+- **Estrategias Discutidas**: Planes cada vez más extremos para captar su atención
+  - Robar algo importante y devolverlo
+  - Entrar en el estadio del Arcadia Fútbol Club  
+  - Poner un cartel cerca de la central nuclear
+  - Robar un avión y escribir mensaje en el cielo
+
+#### **Motivación del Ego**
+- **Perfil Psicológico**: El Cacharrero se mueve por el ego y el reconocimiento
+- **Necesidad de Espectáculo**: Requiere que las acciones sean "extraordinariamente espectaculares"
+- **Historia de Fracaso**: Su encarcelamiento lo convierte en alguien sensible al reconocimiento
+
+#### **Planificación Futura**
+- **Búsqueda Discreta**: Necesita hacer averiguaciones sobre dónde y cómo contactarlo
+- **Algo Que Le Interese**: Debe encontrar qué podría llamar su atención específicamente
+- **Evitar Conflicto**: Manejar la situación con Mecánica mientras busca a su padre
+
+### **Desarrollo de Habilidades Defensivas**
+
+#### **Mejora Física y Defensiva Planificada**
+- **Reconocimiento de Limitaciones**: Comprende que necesita mejorar defensas personales
+- **Entrenamiento con Diana y Justa**: Planea desarrollar habilidades físicas con apoyo de compañeras
+- **Capacidad Ofensiva**: Busca mejorar sus habilidades de creación de ilusiones más agresivas
+- **Integración Táctica**: Fortalecer su rol como "central de información" del equipo
+
+### **Implicaciones Narrativas**
+
+#### **Arcos de Desarrollo Personal**
+- **Búsqueda de Identidad**: La patineta representa una conexión con su pasado desconocido
+- **Relaciones Complejas**: Su investigación genera nuevos conflictos y oportunidades
+- **Evolución de Poderes**: La conexión con el Cacharrero puede abrir nuevas posibilidades tecnológicas
+- **Consecuencias de Acciones**: Sus decisiones afectan las relaciones con aliados potenciales
+
+#### **Conexiones con el Mundo Expandido**
+- **Red de Inventores**: El Cacharrero la conecta con el submundo tecnológico de Arcadia
+- **Historia Familiar**: Posibles conexiones con Sara10/Mecánica como "hermana adoptiva" o similar
+- **Tecnología Única**: Su patineta puede tener capacidades aún no descubiertas
+- **Conflictos Futuros**: La tensión con Mecánica puede complicar futuras operaciones
+
+### **Estado Actual (Agosto 2025)**
+
+#### **Objetivos Inmediatos**
+- **Contactar con el Cacharrero**: Desarrollar plan espectacular para llamar su atención
+- **Reparar Relación**: Intentar reconciliarse con Sara10/Mecánica si es posible
+- **Investigación Discreta**: Buscar información sobre paradero y gustos del Cacharrero
+- **Preparación Física**: Comenzar entrenamiento defensivo con el equipo
+
+#### **Recursos Disponibles**
+- **Patineta Única**: Su objeto más valioso y conexión personal
+- **Equipo de Apoyo**: Diana y Justa dispuestas a ayudar con entrenamiento
+- **Conocimiento Técnico**: Experiencia en desmontaje y análisis de tecnología
+- **Red de Contactos**: Acceso a información a través de La Fuerza Oculta
+
+Esta sesión establece un **nuevo arco narrativo personal** para Astrid/Kayface, donde la investigación de sus orígenes la conecta con figuras importantes del pasado mientras genera nuevos conflictos y oportunidades. Su desarrollo como personaje evoluciona de pura especialista táctica a investigadora de su propia historia, añadiendo profundidad emocional a su rol técnico dentro del equipo.

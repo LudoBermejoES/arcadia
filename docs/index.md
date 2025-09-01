@@ -120,7 +120,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">84</span>
+<span class="stat-number">85</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

@@ -160,7 +160,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">29+</span>
+<span class="stat-number">30+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -170,7 +170,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">50+</span>
+<span class="stat-number">52+</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>

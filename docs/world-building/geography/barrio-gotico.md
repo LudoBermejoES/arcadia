@@ -256,7 +256,7 @@ permalink: /world-building/barrio-gotico/
             layers: allLayers,
             view: new View({
                 projection: mapProjection,
-                center: getCenter(mapConfig.extent),
+                center: [2697, 693],
                 zoom: 4,
                 minZoom: mapConfig.minZoom,
                 maxZoom: mapConfig.maxZoom,

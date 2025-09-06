@@ -33,7 +33,7 @@ Los siete grandes distritos que albergan al grueso de la población:
 - **Distrito Solis** (Domingo) - Síntesis cultural - *Isla Albedo*
 - **Distrito Lunae** (Lunes) - Servicios sanitarios - *Isla Lapis*
 - **Distrito Martis** (Martes) - Clase trabajadora - *Isla Sulfuro*
-- **Distrito Mercurii** (Miércoles) - Clase media - *Isla Nigredo*
+- **[Distrito Mercurii](distrito-mercurii.md)** (Miércoles) - Clase media - *Isla Nigredo*
 - **Distrito Iovis** (Jueves) - Funcionarios - *Isla Citrinitas*
 - **Distrito Veneris** (Viernes) - Juventud estudiantil - *Isla Rubedo*
 - **Distrito Saturni** (Sábado) - Tradiciones fundacionales - *Isla Lapis*
@@ -99,7 +99,7 @@ Elementos únicos del archipiélago:
 ### **Por Isla Específica:**
 - **[Isla Lapis](specialized-districts.md#isla-lapis)** - Distrito Clásico, Barrio Gótico, Distrito Lunae, Distrito Saturni
 - **[Isla Albedo](residential-districts.md#distrito-solis)** - Distrito Solis
-- **[Isla Nigredo](residential-districts.md#distrito-mercurii)** - Distrito Mercurii
+- **[Isla Nigredo](distrito-mercurii.md)** - Distrito Mercurii
 - **[Isla Sulfuro](residential-districts.md#distrito-martis)** - Distrito Martis
 - **[Isla Athanor](specialized-districts.md#distrito-futurista)** - Distrito Futurista
 - **[Isla Vitriol](specialized-districts.md#distrito-eclesiastico)** - Distrito Eclesiástico

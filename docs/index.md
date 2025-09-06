@@ -71,7 +71,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 - **☀️ Distrito Solis** (Domingo) - Residencial tradicional y familiar
 - **🌙 Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales
 - **⚔️ [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)** (Martes) - Distrito obrero y de clase trabajadora
-- **💼 Distrito Mercurii** (Miércoles) - Residencial de clase media profesional
+- **💼 [Distrito Mercurii]({{ site.baseurl }}/world-building/geography/distrito-mercurii/)** (Miércoles) - Residencial de clase media profesional
 - **👑 [Distrito Iovis]({{ site.baseurl }}/world-building/geography/distrito-iovis/)** (Jueves) - Residencial institucional para funcionarios
 - **💕 Distrito Veneris** (Viernes) - Distrito juvenil y estudiantil
 - **🛡️ Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias

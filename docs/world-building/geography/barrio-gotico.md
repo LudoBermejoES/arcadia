@@ -257,7 +257,7 @@ permalink: /world-building/barrio-gotico/
             view: new View({
                 projection: mapProjection,
                 center: getCenter(mapConfig.extent),
-                zoom: 2,
+                zoom: 5,
                 minZoom: mapConfig.minZoom,
                 maxZoom: mapConfig.maxZoom,
                 // Constrain view to image bounds

@@ -13,9 +13,6 @@
 - name: Grupos
   link: /groups/
 
-- name: Ubicaciones
-  link: /locations/
-
 - name: Mundo
   link: /world-building/
 

@@ -42,10 +42,10 @@ permalink: /world-building/barrio-gotico/
     // Raster tile configuration for Distrito Gótico
     const mapConfig = {
         name: "Distrito Gótico",
-        originalDimensions: { width: 6144, height: 3584 },
-        extent: [0, 0, 6144, 3584],
+        originalDimensions: { width: 4371, height: 2532 },
+        extent: [0, 0, 4371, 2532],
         tileSize: 512,
-        minZoom: 0,
+        minZoom: 3,
         maxZoom: 5
     };
     
@@ -257,7 +257,7 @@ permalink: /world-building/barrio-gotico/
             view: new View({
                 projection: mapProjection,
                 center: getCenter(mapConfig.extent),
-                zoom: 5,
+                zoom: 4,
                 minZoom: mapConfig.minZoom,
                 maxZoom: mapConfig.maxZoom,
                 // Constrain view to image bounds

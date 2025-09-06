@@ -489,41 +489,13 @@ El Barrio Gótico se ha establecido como el principal santuario para metahumanos
 
 ---
 
-## 🛡️ **Vigilancia Independiente: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje)**
+## 🛡️ **Vigilantes del Barrio Gótico**
 
-### **Los Cinco Hermanos Bestiales**
-Un grupo único de vigilantes metahumanos que patrullan exclusivamente el Barrio Gótico:
+### **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje)**
+Grupo de cinco hermanos bestiales que patrullan exclusivamente el Barrio Gótico, operando desde las sombras para proteger el distrito de amenazas criminales y anti-metahumanas.
 
-#### **👁️ [Vista]({{ site.baseurl }}/characters/details/vista/)** (18 años, Masculino) - Líder
-- **Poderes**: Percepción visual sobrehumana, visión telescópica, visión nocturna
-- **Rol**: Coordinador táctico y estratega principal del grupo
-- **Responsabilidades**: Planificación de operaciones, reconocimiento del territorio
-
-#### **🤚 [Tacto]({{ site.baseurl }}/characters/details/tacto/)** (18 años, Femenino) - Co-líder  
-- **Poderes**: Percepción táctil avanzada, análisis de superficies
-- **Rol**: Liderazgo compartido, especialista en infiltración
-- **Habilidades**: Detección de vibraciones, análisis de materiales
-
-#### **👂 [Oído]({{ site.baseurl }}/characters/details/oido/)** (16 años, Femenino) - Especialista Auditiva
-- **Poderes**: Audición sobrehumana, análisis de sonidos
-- **Función**: Detección temprana de amenazas, comunicaciones
-- **Especialidad**: Identificación de personas por patrones vocales
-
-#### **👃 [Olfato]({{ site.baseurl }}/characters/details/olfato/)** (16 años, Masculino) - Rastreador
-- **Poderes**: Olfato sobrehumano, rastreo de olores
-- **Rol**: Seguimiento de objetivos, detección de sustancias
-- **Habilidades**: Análisis químico por aroma, identificación de individuos
-
-#### **👅 [Gusto]({{ site.baseurl }}/characters/details/gusto/)** (14 años, Masculino) - Detector de Sustancias
-- **Poderes**: Gusto sobrehumano, análisis químico oral
-- **Función**: Detección de venenos, drogas y sustancias peligrosas
-- **Importancia**: Protección contra amenazas químicas y biológicas
-
-### **Territorio y Operaciones**
-- **Jurisdicción Exclusiva**: Solo operan dentro del Barrio Gótico
-- **Estilo de Vigilancia**: Evitan el foco público, prefieren la eficacia silenciosa
-- **Enemigos Principales**: [Las Bestias]({{ site.baseurl }}/groups/las-bestias/) (organización criminal) y Los Cazadores (grupo anti-metahumano)
-- **Refugios**: Madrigueras familiares adaptadas en los túneles subterráneos
+### **[El Matador]({{ site.baseurl }}/characters/details/el-matador/)**
+Vigilante misterioso y legendario del Barrio Gótico, conocido por su código de honor único y sus métodos letales pero selectivos. Opera como justiciero independiente desde hace décadas.
 
 ---
 

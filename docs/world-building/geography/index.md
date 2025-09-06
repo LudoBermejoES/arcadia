@@ -41,7 +41,7 @@ Los siete grandes distritos que albergan al grueso de la población:
 ### **🏛️ [Distritos Especializados](specialized-districts.md)**
 Los distritos únicos diseñados por el arquitecto Marius:
 - **Distrito Clásico** - Corazón político y judicial - *Isla Lapis*
-- **Barrio Gótico** - Distrito viviente místico - *Isla Lapis*
+- **[Barrio Gótico](barrio-gotico.md)** - Distrito viviente místico - *Isla Lapis*
 - **Distrito Futurista** - Centro corporativo y tecnológico - *Isla Athanor*
 - **Distrito Eclesiástico** - Diversidad religiosa - *Isla Vitriol*
 - **Distrito Biónico** - Armonía con la naturaleza - *Isla Sal*

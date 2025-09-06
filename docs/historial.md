@@ -412,9 +412,9 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Sistema completo de distritos residenciales** - Documentación detallada de todos los distritos con nombres latinos:
   - **Distrito Solis** (Domingo) - Residencial tradicional y familiar
   - **Distrito Lunae** (Lunes) - Servicios sanitarios y asistenciales  
-  - **Distrito Martis** (Martes) - Obrero y clase trabajadora [con mapa interactivo]
+  - **[Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)** (Martes) - Obrero y clase trabajadora [con mapa interactivo]
   - **[Distrito Mercurii]({{ site.baseurl }}/world-building/geography/distrito-mercurii/)** (Miércoles) - Clase media profesional
-  - **Distrito Iovis** (Jueves) - Institucional y funcionarios [con mapa interactivo]
+  - **[Distrito Iovis]({{ site.baseurl }}/world-building/geography/distrito-iovis/)** (Jueves) - Institucional y funcionarios [con mapa interactivo]
   - **Distrito Veneris** (Viernes) - Juvenil y estudiantil
   - **Distrito Saturni** (Sábado) - Servicios de seguridad y emergencias
 

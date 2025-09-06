@@ -313,7 +313,7 @@ Distrito residencial de servicios sanitarios, **parcialmente absorbido por expan
 ### [Distrito Martis (Martes)](geography/distrito-martis/)
 Distrito residencial obrero, vivienda social de calidad para la clase trabajadora. Población: ~180,000 habitantes.
 
-### Distrito Mercurii (Miércoles)
+### [Distrito Mercurii (Miércoles)](geography/distrito-mercurii/)
 Distrito residencial de clase media, servicios educativos avanzados para profesionales. Población: ~195,000 habitantes.
 
 ### [Distrito Iovis (Jueves)](geography/distrito-iovis/)

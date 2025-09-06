@@ -1,0 +1,22 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1757154926604",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4081.240277777778,
+          1815.5594793173268
+        ]
+      },
+      "properties": {
+        "name": "Clínica Mediodía",
+        "description": "Una clínica de la seguridad social de Arcadia.",
+        "category": "building",
+        "created": "2025-09-06T10:35:26.604Z"
+      }
+    }
+  ]
+}

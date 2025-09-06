@@ -14,7 +14,7 @@
       "properties": {
         "name": "Sede de La Familia",
         "description": "El edificio de bomberos de la familia",
-        "category": "landmark",
+        "category": "ubicación de personaje",
         "created": "2025-09-06T09:26:08.872Z"
       }
     },
@@ -31,7 +31,7 @@
       "properties": {
         "name": "Sede de Génesis",
         "description": "La sede de Génesis, el cine abandonado.",
-        "category": "landmark",
+        "category": "ubicación de personaje",
         "created": "2025-09-06T09:26:51.414Z"
       }
     },

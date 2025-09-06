@@ -1,0 +1,39 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1757150768872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1791.1614561950282,
+          1384.6227756175683
+        ]
+      },
+      "properties": {
+        "name": "Sede de La Familia",
+        "description": "El edificio de bomberos de la familia",
+        "category": "landmark",
+        "created": "2025-09-06T09:26:08.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1757150811414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3498.145207683341,
+          1257.424433588283
+        ]
+      },
+      "properties": {
+        "name": "Sede de Génesis",
+        "description": "La sede de Génesis, el cine abandonado.",
+        "category": "landmark",
+        "created": "2025-09-06T09:26:51.414Z"
+      }
+    }
+  ]
+}

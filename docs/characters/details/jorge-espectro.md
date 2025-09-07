@@ -28,6 +28,19 @@ Jorge Moreau, también conocido como Espectro, es un metahumano perteneciente al
 ## Rol y Actividades
 Jorge actúa como un miembro estratégico del grupo "Génesis". Su papel incluye investigación, coordinación táctica, y apoyo en combate. Es especialmente útil para obtener información de enemigos capturados y planificar operaciones del grupo.
 
+### **Fuerzas de Seguridad Wraith**
+Jorge es propietario y director de **"Fuerzas de Seguridad Wraith"**, una compañía mercenaria especializada en servicios de seguridad privada que **fundó en 2017** tras la disolución de Génesis. La empresa se caracteriza por:
+
+- **Fundación**: Creada en **2017** cuando los miembros de Génesis decidieron seguir caminos independientes
+- **Actividad principal**: Desde 2017, dirigir esta empresa es el **trabajo principal de Jorge** como director ejecutivo
+- **Más de 100 miembros** profesionales altamente entrenados
+- **Permisos oficiales para portar armas** dentro del territorio de Arcadia
+- **Servicios mercenarios especializados** para clientes corporativos y gubernamentales
+- **Operaciones de seguridad avanzada** incluyendo protección de instalaciones y escolta
+- **Base operativa independiente** que mantiene activa desde su fundación
+- **Financiación del Teatro-Cine Génesis**: La empresa continúa pagando el alquiler de la antigua base del grupo
+- **Transición profesional**: Representa la evolución de Jorge de héroe activo a empresario de seguridad
+
 ## Poderes y Habilidades
 - Naturaleza de "vacío": Según el Faraón, es "algo que debe ser llenado", sugiriendo capacidades absorbentes o receptivas
 - Ausencia de olor: Thomas no puede detectar ningún olor en él, lo que es inusual para un metahumano

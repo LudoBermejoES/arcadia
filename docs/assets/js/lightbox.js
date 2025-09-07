@@ -12,11 +12,11 @@ document.addEventListener('DOMContentLoaded', function() {
   `;
   document.body.appendChild(lightbox);
 
-  // Get all images in character-photo divs
-  const characterImages = document.querySelectorAll('.character-photo img');
+  // Get all images in character-photo and location-photo divs
+  const clickableImages = document.querySelectorAll('.character-photo img, .location-photo img');
   
   // Add click event to each image
-  characterImages.forEach(img => {
+  clickableImages.forEach(img => {
     img.style.cursor = 'pointer';
     img.addEventListener('click', function() {
       const lightboxImage = lightbox.querySelector('.lightbox-image');

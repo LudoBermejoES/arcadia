@@ -140,11 +140,13 @@
 }
 
 /* Cursor pointer for clickable images */
-.character-photo img {
+.character-photo img,
+.location-photo img {
   cursor: pointer;
   transition: opacity 0.3s ease;
 }
 
-.character-photo img:hover {
+.character-photo img:hover,
+.location-photo img:hover {
   opacity: 0.9;
 }

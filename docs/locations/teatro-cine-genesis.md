@@ -37,6 +37,9 @@ En algún momento de los años 90, hubo un intento de convertir el teatro en el 
 ### **Adquisición por Génesis (2013)**
 El grupo de jóvenes metahumanos conocido como Génesis, con la mediación de **Mésmero** de La Familia, adquirió el teatro como su base de operaciones. A cambio de cederles el espacio protegido, Génesis se comprometió a conseguirle otro teatro a Mésmero.
 
+### **Cierre de la base (2017)**
+El cine fue utilizado durante algunos años como base hasta que cada miembro del equipo decidió seguir sus aventuras en solitario. La sede quedó clausurada pero la empresa de Espectro aún sigue pagando el alquiler.
+
 ---
 
 ## 🏗️ **Estructura del Edificio**

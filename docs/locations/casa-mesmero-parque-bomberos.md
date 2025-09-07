@@ -5,6 +5,12 @@ permalink: /locations/casa-mesmero-parque-bomberos/
 ---
 
 # Casa de Mésmero - Parque de Bomberos
+*Refugio Histórico de Metahumanos en el Barrio Gótico*
+
+<div class="location-photo">
+  <img src="{{ site.baseurl }}/assets/img/locations/parque-bomberos.png" alt="Parque de Bomberos - Casa de Mésmero" style="max-width: 600px; height: auto; display: block; margin: 0 auto;" />
+  <p class="caption">Vista exterior del antiguo Parque de Bomberos del Barrio Gótico, ahora residencia de Mésmero y refugio histórico de metahumanos</p>
+</div>
 
 ## Presentación
 La Casa de Mésmero, originalmente conocida como el Parque de Bomberos del Barrio Gótico, es una de las ubicaciones más significativas en la historia de los superhéroes de Arcadia. Este edificio ha servido como hogar, base operativa y refugio seguro para múltiples generaciones de metahumanos a lo largo de más de una década, siendo testigo de la evolución del heroísmo en la isla.

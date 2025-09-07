@@ -32,16 +32,16 @@ El corazón del archipiélago con sus características únicas:
 Los siete grandes distritos que albergan al grueso de la población:
 - **Distrito Solis** (Domingo) - Síntesis cultural - *Isla Albedo*
 - **Distrito Lunae** (Lunes) - Servicios sanitarios - *Isla Lapis*
-- **Distrito Martis** (Martes) - Clase trabajadora - *Isla Sulfuro*
-- **Distrito Mercurii** (Miércoles) - Clase media - *Isla Nigredo*
-- **Distrito Iovis** (Jueves) - Funcionarios - *Isla Citrinitas*
+- **[Distrito Martis](distrito-martis.md)** (Martes) - Clase trabajadora - *Isla Sulfuro*
+- **[Distrito Mercurii](distrito-mercurii.md)** (Miércoles) - Clase media - *Isla Nigredo*
+- **[Distrito Iovis](distrito-iovis.md)** (Jueves) - Funcionarios - *Isla Citrinitas*
 - **Distrito Veneris** (Viernes) - Juventud estudiantil - *Isla Rubedo*
 - **Distrito Saturni** (Sábado) - Tradiciones fundacionales - *Isla Lapis*
 
 ### **🏛️ [Distritos Especializados](specialized-districts.md)**
 Los distritos únicos diseñados por el arquitecto Marius:
 - **Distrito Clásico** - Corazón político y judicial - *Isla Lapis*
-- **Barrio Gótico** - Distrito viviente místico - *Isla Lapis*
+- **[Barrio Gótico](barrio-gotico.md)** - Distrito viviente místico - *Isla Lapis*
 - **Distrito Futurista** - Centro corporativo y tecnológico - *Isla Athanor*
 - **Distrito Eclesiástico** - Diversidad religiosa - *Isla Vitriol*
 - **Distrito Biónico** - Armonía con la naturaleza - *Isla Sal*
@@ -99,8 +99,8 @@ Elementos únicos del archipiélago:
 ### **Por Isla Específica:**
 - **[Isla Lapis](specialized-districts.md#isla-lapis)** - Distrito Clásico, Barrio Gótico, Distrito Lunae, Distrito Saturni
 - **[Isla Albedo](residential-districts.md#distrito-solis)** - Distrito Solis
-- **[Isla Nigredo](residential-districts.md#distrito-mercurii)** - Distrito Mercurii
-- **[Isla Sulfuro](residential-districts.md#distrito-martis)** - Distrito Martis
+- **[Isla Nigredo](distrito-mercurii.md)** - Distrito Mercurii
+- **[Isla Sulfuro](distrito-martis.md)** - Distrito Martis
 - **[Isla Athanor](specialized-districts.md#distrito-futurista)** - Distrito Futurista
 - **[Isla Vitriol](specialized-districts.md#distrito-eclesiastico)** - Distrito Eclesiástico
 - **[Isla Sal](specialized-districts.md#distrito-bionico)** - Distrito Biónico

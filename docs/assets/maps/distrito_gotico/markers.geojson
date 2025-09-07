@@ -1,0 +1,90 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "1757150768872",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1791.1614561950282,
+          1384.6227756175683
+        ]
+      },
+      "properties": {
+        "name": "Sede de La Familia",
+        "description": "El edificio de bomberos de la familia",
+        "category": "ubicación de personaje",
+        "created": "2025-09-06T09:26:08.872Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1757150811414",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          3498.145207683341,
+          1257.424433588283
+        ]
+      },
+      "properties": {
+        "name": "Sede de Génesis",
+        "description": "La sede de Génesis, el cine abandonado.",
+        "category": "ubicación de personaje",
+        "created": "2025-09-06T09:26:51.414Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1757152944910",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1966.4839073349776,
+          1514.4655031247685
+        ]
+      },
+      "properties": {
+        "name": "Barbería Barba Feliz",
+        "description": "Una barbería gestionada por un barbero muy mayor, de dedos larguísimos y aspecto sombrío",
+        "category": "landmark",
+        "created": "2025-09-06T10:02:24.910Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1757152971917",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2058.9150082133083,
+          1193.296370621652
+        ]
+      },
+      "properties": {
+        "name": "Pensión Pepa",
+        "description": "Gestionada por Pepa",
+        "category": "landmark",
+        "created": "2025-09-06T10:02:51.917Z"
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "1757153021978",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2216.7700310942046,
+          1577.849149508811
+        ]
+      },
+      "properties": {
+        "name": "Kiosko de Hassir",
+        "description": "Hassir lleva quince años en el barrio gótico",
+        "category": "landmark",
+        "created": "2025-09-06T10:03:41.978Z"
+      }
+    }
+  ]
+}

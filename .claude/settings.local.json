@@ -4,6 +4,7 @@
     "allow": [
       "Read(c:\\code\\ArcadiaPage\\docs\\characters\\pensamientos/**)",
       "Bash(git add:*)",
+      "Bash(git commit:*)",
       "Bash(git push:*)"
     ],
     "deny": [],

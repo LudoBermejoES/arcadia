@@ -402,7 +402,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'el-guardian', name: 'El Guardián', image: 'el-guardian.png' },
       { slug: 'el-emperador-oscuro', name: 'El Emperador Oscuro', image: 'El Emperador Oscuro.png' },
       { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
-      { slug: 'bastet', name: 'Bastet', image: 'bastet.png' }
+      { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
+      { slug: 'senora-de-la-sonrisa', name: 'Señora de la Sonrisa', image: 'senora-sonrisa.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
@@ -574,7 +575,8 @@ document.addEventListener('DOMContentLoaded', function() {
 }
 
 .character-card {
-  width: 200px;
+  width: 180px;
+  max-width: 180px;
   margin-bottom: 20px;
   background: #fff;
   border-radius: 12px;
@@ -607,9 +609,11 @@ document.addEventListener('DOMContentLoaded', function() {
 .character-image-container {
   position: relative;
   width: 100%;
-  height: 200px;
+  aspect-ratio: 2/3;
+  max-height: 270px;
   overflow: hidden;
   background: #f5f5f5;
+  border-radius: 8px;
 }
 
 .character-image {
@@ -668,11 +672,13 @@ document.addEventListener('DOMContentLoaded', function() {
 /* Responsive design */
 @media (max-width: 768px) {
   .character-card {
-    width: 150px;
+    width: 140px;
+    max-width: 140px;
   }
   
   .character-image-container {
-    height: 150px;
+    aspect-ratio: 2/3;
+    max-height: 210px;
   }
   
   .character-name {
@@ -686,12 +692,14 @@ document.addEventListener('DOMContentLoaded', function() {
   }
   
   .character-card {
-    width: 130px;
+    width: 120px;
+    max-width: 120px;
     margin-bottom: 15px;
   }
   
   .character-image-container {
-    height: 130px;
+    aspect-ratio: 2/3;
+    max-height: 180px;
   }
   
   .character-info {

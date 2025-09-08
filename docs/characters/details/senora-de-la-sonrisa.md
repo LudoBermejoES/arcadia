@@ -7,6 +7,10 @@ slug: senora-de-la-sonrisa
 
 # Señora de la Sonrisa
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/senora-sonrisa.png" alt="Señora de la Sonrisa" />
+</div>
+
 ## Presentación
 La **Señora de la Sonrisa**, también conocida como **"Samaritana"**, es una entidad misteriosa que habita el Barrio Gótico de Arcadia. Su apariencia de anciana bondadosa oculta una naturaleza sobrenatural profundamente perturbadora, caracterizada por habilidades que desafían la comprensión convencional de la realidad.
 

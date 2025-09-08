@@ -84,7 +84,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
 - **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo  
 - **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
-- **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)** - Vigilantes bestiales del Barrio Gótico
+
 
 ### **😈 Las Amenazas Persistentes**
 - **[La Farándula]({{ site.baseurl }}/groups/character-groups/#la-farándula)** - Villanos teatrales obsesionados con el Siglo de Oro

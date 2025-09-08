@@ -278,6 +278,86 @@ Esta sesión confirma la **evolución completa** de Hotman hacia un **combatient
 - **Calidad cinematográfica**: "La definición de la grabación es tan buena que se pueden detectar líneas de tensión en la mandíbula"
 - **Audio controlado**: Maneja sonido ambiente y da indicaciones off-camera
 
+## Crisis Mediática y Equipamiento Táctico (Septiembre 2025)
+
+### **Impacto de las Críticas Post-Almacenes Hêvî**
+Tras el ataque de los monos dorados, Hotman enfrenta análisis mediático intenso:
+
+#### **Crítica Pública**
+- **Cuestionamiento de tertulianos**: Analizan cada movimiento del combate grabado
+- **Foco en estrés**: Críticas sobre su comportamiento agresivo bajo presión
+- **Duda sobre capacidad**: "¿Está en condiciones de ser un héroe?"
+- **Presión mediática**: Primera vez enfrentando escrutinio público masivo
+
+#### **Respuesta Mediática Planificada**
+- **Directo explicativo**: Planea transmisión sobre la naturaleza del miedo
+- **Mensaje clave**: "Tener miedo no es cobardía, ser valiente es superar el miedo"
+- **Transparencia heroica**: Decisión de mostrar vulnerabilidad públicamente
+- **Apoyo del equipo**: Recibe respaldo de compañeros para su mensaje
+
+### **Encuentro con Espectro - Evolución Táctica**
+
+#### **Aceptación de Protección**
+Durante la reunión en el teatro abandonado del Barrio Gótico:
+- **Solicitud de armadura**: Pide equipamiento protector a pesar del impacto en imagen
+- **Filosofía pragmática**: "Prefiero feo a muerto"
+- **Advertencia de Espectro**: "Demostrarás debilidad llevando esto"
+- **Preocupación por followers**: Reconoce posible impacto negativo en base de fans
+
+#### **Equipamiento Recibido**
+- **Chaqueta de motorista reforzada**: Protección para brazos y pecho
+- **Diseño discreto**: Puede usar su chaqueta amarilla característica encima
+- **Compromiso estético**: Balance entre protección y mantener identidad visual
+
+### **Interacciones en el Barrio Gótico**
+
+#### **Encuentro con El Matador**
+- **Reconocimiento de fan**: Le grita que es "fan suyo" al verlo en azotea
+- **Resultado inesperado**: Primera vez documentada que El Matador huye
+- **Implicación**: Su fama puede alterar dinámicas con otros vigilantes
+
+#### **Polaroid con Espectro**
+- **Tecnología analógica**: Recibe cámara Polaroid cuando digital falla en Barrio Gótico
+- **Momento histórico**: Foto grupal con veterano héroe
+- **Maravilla juvenil**: Grupo queda fascinado por fotografía física instantánea
+- **Responsabilidad**: Advertido de no revelar ubicación de la guarida
+
+### **Veteranos de la Barbería**
+
+#### **Interacción con Supervivientes Históricos**
+En la barbería de Mentallo:
+- **Veterano irlandés del IRA**: Le ofrece whisky de petaca
+- **Intercambio generacional**: "Podrías ser mi abuelo" - "Ey Bro"
+- **Presión por whisky**: Insisten que beba, mostrando aceptación masculina tradicional
+- **Comentario sobre el grupo**: Veteranos notan que es el único chico entre mujeres
+- **Predicción jocosa**: "Va a acabar de la acera de enfrente"
+
+### **Debate sobre Patrocinadores**
+- **Malentendido inicial**: Confundió patrocinio con comercialización
+- **Clarificación**: Acepta ayuda de "colegas" o "patrones" veteranos
+- **Agradecimiento público**: Propone video reconociendo ayuda recibida
+- **Red de apoyo**: Identifica múltiples fuentes de ayuda (Comadreja, Espectro, Sara 10)
+
+### **Evolución del Personaje**
+Esta sesión marca varios desarrollos clave:
+
+#### **Maduración Heroica**
+- **De imagen a supervivencia**: Acepta protección sobre estética
+- **De independencia a comunidad**: Reconoce necesidad de apoyo veterano
+- **De invulnerable a humano**: Dispuesto a mostrar miedo públicamente
+
+#### **Responsabilidad Mediática**
+- **Gestión de crisis**: Aprende a responder a críticas constructivamente
+- **Influencia social**: Comprende impacto de su imagen en otros
+- **Transparencia**: Elige autenticidad sobre imagen perfecta
+
+#### **Conexión Generacional**
+- **Respeto por veteranos**: Interactúa respetuosamente con héroes pasados
+- **Puente cultural**: Conecta con supervivientes de eras heroicas anteriores
+- **Legado consciente**: Comprende su lugar en la historia heroica
+
+Este encuentro establece a Hotman como figura pública compleja que debe equilibrar autenticidad, protección personal y responsabilidad social, mientras navega las expectativas de múltiples generaciones heroicas y la presión mediática constante
+
 **Apoyo emocional durante filming**:
 - **Encouragement discreto**: Se escucha "sigue, dale" a bajo volumen cuando ella duda
 - **Confirmación técnica**: Responde "Sí, dale" cuando ella pregunta si está bien posicionada

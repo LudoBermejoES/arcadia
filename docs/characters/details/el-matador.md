@@ -115,6 +115,45 @@ Su adopción del título "Matador" conecta con la tradición española del toreo
 ### 🔮 **Misterio Persistente**
 A pesar de múltiples encuentros documentados, El Matador mantiene su estatus de enigma. Su verdadera identidad, motivaciones profundas y límites de sus habilidades siguen siendo desconocidos, lo que añade a su aura de figura mítica en el submundo de Arcadia.
 
+## Comportamiento Inusual - Septiembre 2025
+
+### **Encuentro con La Fuerza Oculta**
+Durante la expedición nocturna de La Fuerza Oculta al Barrio Gótico, El Matador fue avistado en una azotea, agazapado y observando al grupo mientras eran guiados por la misteriosa anciana conocida como "Samaritana" o "Señora de la Sonrisa".
+
+#### **Avistamiento en Azotea**
+- **Ubicación**: Agazapado en azotea vigilando las calles nocturnas
+- **Vestimenta**: Traje de torero completo con máscara característica
+- **Comportamiento**: Observación silenciosa del grupo de héroes jóvenes
+
+#### **Respuesta a Hotman**
+Cuando Hotman le gritó manifestando ser "fan suyo", El Matador reaccionó de manera completamente inesperada:
+- **Acción**: Desapareció inmediatamente en las sombras
+- **Significado**: Primera vez documentada que huye en lugar de confrontar o ignorar
+
+#### **Comentario de la Señora de la Sonrisa**
+La entidad misteriosa que acompañaba al grupo hizo una observación crucial: *"Es la primera vez que lo veo huir"*, seguida de una risa demencial, sugiriendo que:
+- Su comportamiento era genuinamente anómalo
+- Incluso entidades sobrenaturales del Barrio Gótico reconocen el cambio
+- Algo sobre la presencia del grupo o las circunstancias lo perturbó
+
+### **Implicaciones del Comportamiento**
+
+#### **Posibles Causas del Cambio**
+- **Presencia de Samaritana**: La entidad misteriosa puede representar una amenaza o autoridad superior
+- **Naturaleza de La Fuerza Oculta**: Algo sobre el grupo joven lo hace reticente al contacto
+- **Reconocimiento problemático**: Ser reconocido públicamente como "fan" compromete su anonimato operativo
+- **Precognición o instinto**: Detección de peligro futuro asociado con el grupo
+
+#### **Cambio en Patrón de Comportamiento**
+- **Histórico**: El Matador tradicionalmente enfrenta o ignora encuentros
+- **Nuevo patrón**: Evitación activa cuando se siente observado o reconocido públicamente
+- **Implicación**: Su operatividad puede estar evolucionando hacia mayor cautela
+
+### **Impacto en la Mitología Local**
+Este incidente marca la primera documentación de El Matador mostrando lo que podría interpretarse como "vulnerabilidad" o "cautela extrema", alterando potencialmente su estatus de figura implacable en el folclore del Barrio Gótico.
+
+La observación de la Señora de la Sonrisa sugiere que incluso las entidades sobrenaturales del distrito consideran este comportamiento digno de nota, posiblemente indicando un cambio fundamental en la dinámica de poder o percepción dentro del Barrio Gótico.
+
 ---
 
 *El Matador representa un tipo único de justiciero en el universo de Arcadia: ni héroe ni villano en el sentido tradicional, sino una fuerza de justicia independiente que opera según su propio código moral inmutable. Su presencia en el Barrio Gótico es tanto protección como advertencia de que algunos crímenes nunca quedarán impunes.*

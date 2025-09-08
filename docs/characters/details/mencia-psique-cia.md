@@ -136,6 +136,50 @@ Su papel se ha redefinido como:
 
 La experiencia reciente ha demostrado que Mencia es tanto el mayor activo táctico del equipo como su mayor vulnerabilidad. Su capacidad de proporcionar coordinación telepática perfecta es invaluable, pero su agotamiento puede dejar al equipo sin su ventaja más significativa en momentos críticos.
 
+## Búsqueda del Mentor y Encuentro con Mentallo (Septiembre 2025)
+
+### **Detección de Presencia Mental**
+Durante la sesión del 8 de septiembre, Psique detectó una "emanación mental" tenue en el Barrio Gótico, confirmando la existencia de otro mentalista más allá de Mésmero. Esta detección demostró su creciente sensibilidad psíquica y determinación de encontrar mentores alternativos.
+
+### **Encuentro con la Señora de la Sonrisa**
+- **Bloqueo mental**: La misteriosa anciana "Samaritana" bloqueó su intento de lectura mental con un simple gesto
+- **Advertencia recibida**: La entidad le advirtió que "mejor no lo haría" al intentar sondeo psíquico
+- **Guía sobrenatural**: Siguió a la entidad hasta la barbería donde encontraría a Mentallo
+
+### **Conexión con Mentallo - El Psíquico Más Poderoso**
+El encuentro con Mentallo marca un punto de inflexión en su desarrollo:
+
+#### **Comunicación Telepática**
+- **Contacto inicial**: Mentallo la abrumó con su presencia mental al abrir su mente
+- **Mensaje directo**: "No buscas un mentor, buscas poder"
+- **Reconocimiento**: Identificó que ya tiene un mentor (Mésmero) pero busca más
+
+#### **La Jeringuilla del Poder - Dilema Moral**
+- **Ofrecimiento**: Jeringuilla metálica con sustancia que "abrirá tus poderes"
+- **Advertencia**: "Tendrá un pago" - precio desconocido que varía según usuario
+- **Experiencia de Mentallo**: La misma droga causó su demencia senil
+- **Tentación altruista**: Psique considera tomarla para potencialmente curar la demencia de Mentallo
+
+#### **Ritual del Cabello**
+- **Recolección**: Mentallo cortó y guardó cabello de Psique
+- **Implicación**: Material biológico puede usarse para propósitos psíquicos o mágicos
+- **Conexión**: Vínculo físico establecido con el poder ofrecido
+
+### **Filosofía sobre el Poder**
+Mentallo compartió reflexiones profundas:
+- **Inevitabilidad**: "Estoy seguro que la vas a tomar, como hizo Mésmero con otra droga"
+- **Naturaleza humana**: "No podemos evitar ser más poderosos por una buena razón"
+- **Consejo temporal**: Le sugiere regresar en 3, 5 o 10 años para evaluar resultados
+
+### **Decisión Pendiente**
+Psique mantuvo la jeringuilla, enfrentando el dilema entre:
+- **Poder inmediato**: Amplificación significativa de capacidades telepáticas
+- **Riesgo personal**: Posible deterioro mental como le ocurrió a Mentallo
+- **Potencial curativo**: Esperanza de desarrollar poder para sanar mentes dañadas
+- **Responsabilidad**: Carga de decidir si el fin justifica los medios
+
+Este encuentro representa la confrontación de Psique con la tentación del poder absoluto y las consecuencias potenciales de sus decisiones, marcando un momento crucial en su desarrollo como telépata y como heroína.
+
 ## Desarrollo Reciente: Les Enfant Terribles (Agosto 2025)
 
 ### Límites de los Poderes Telepáticos y Protección Grupal

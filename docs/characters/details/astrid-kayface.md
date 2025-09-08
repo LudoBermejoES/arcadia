@@ -197,6 +197,91 @@ El enfrentamiento con los gorilas dorados representa el **pico de competencia** 
 - **Signature move**: El gorila plateado con "K" puede convertirse en táctica recurrente
 - **Evolución de marca**: Kayface desarrolla identidad visual reconocible
 - **Especialización aumentada**: Se establece como experta en ilusiones de combate complejas
+
+## Estrategia de Contacto con Cacharrero y Navegación Urbana (Septiembre 2025)
+
+### **Limitaciones de Ilusiones a Gran Escala**
+Durante la planificación para contactar al Cacharrero, Kayface reveló especificaciones técnicas de sus poderes:
+
+#### **Dimensiones Máximas de Ilusión**
+- **Área máxima**: Aproximadamente 6x6 metros (equivalente a un cartel grande)
+- **8 metros de diámetro**: Límite establecido para proyecciones
+- **Restricciones de escala**: No puede crear "imágenes gigantes" como sugería Hotman
+- **Adaptación creativa**: Debe usar tamaño limitado eficientemente
+
+#### **Propuestas para Llamar Atención**
+- **Plaza de la Bomba**: Ubicación propuesta para proyectar sello de Cacharrero
+- **Complicación**: Campo de éxtasis rodea la bomba como obstáculo
+- **MetaCorp sede**: Alternativa más arriesgada pero prominente
+- **Consideración táctica**: Balance entre visibilidad y seguridad
+
+### **Habilidades de Navegación Urbana**
+
+#### **Jack of All Trades - Orientación**
+Durante la expedición al Barrio Gótico:
+- **Activación de habilidad**: Uso específico de "Jack of all Trades" para navegación
+- **Territorio hostil**: GPS y tecnología fallan en el Barrio Gótico
+- **Guía del equipo**: Dirige al grupo por calles caóticas y retorcidas
+- **Adaptabilidad**: Compensates falta de tecnología con habilidades adquiridas
+
+#### **Problemas con Sistema de Movimiento**
+Durante la sesión se revelaron limitaciones técnicas del personaje:
+- **Restricciones de movimiento**: No puede moverse libremente entre filas o saltar butacas
+- **Limitación sistemática**: "El sistema no está diseñado para eso"
+- **Adaptación necesaria**: Debe trabajar dentro de limitaciones establecidas
+- **Pregunta del DM**: "¿Por qué querría alguien saltar butacas?"
+
+### **Encuentro con Espectro - Desarrollo de Combate Cuerpo a Cuerpo**
+
+#### **Adquisición de Porra**
+En el arsenal de Espectro:
+- **Selección de arma**: Escoge porra como arma de combate cercano
+- **Autorización**: Pide permiso a Espectro para quedársela
+- **Integración táctica**: Añade capacidad física a sus habilidades ilusorias
+
+#### **Filosofía de Entrenamiento Recibida**
+Espectro compartió perspectivas sobre su potencial:
+- **Entrenamiento avanzado**: "Con entrenamiento podría hacer cosas asombrosas en combate"
+- **Combinación única**: Ilusiones + combate físico = versatilidad excepcional
+- **Potencial táctico**: Crear múltiples versiones de sí misma mientras ataca
+- **Confusión enemiga**: Opponents no sabrían cuál versión es real y está atacando
+
+#### **Expansión de Habilidades**
+- **Nueva dimensión**: Transición de puramente ilusionista a combatiente híbrida
+- **Multiplicidad táctica**: Potencial de aparecer atacando desde múltiples ángulos
+- **Ventaja psicológica**: Enemigos enfrentan incertidumbre constante
+- **Evolución natural**: Sus ilusiones siempre fueron tácticamente ofensivas
+
+### **Activación de Sistemas de Seguridad**
+Durante la exploración del arsenal:
+- **Acción impulsiva**: Toca bastón a pesar de advertencia "no toquéis nada"
+- **Consecuencias**: Activa alarma y ametralladoras del techo
+- **Reacción de Espectro**: Cancela sistema de defensa rápidamente
+- **Lección aprendida**: Respeto por equipamiento ajeno y medidas de seguridad
+
+### **Evolución del Personaje**
+
+#### **De Soporte a Combatiente**
+Esta sesión marca transición significativa:
+- **Antes**: Principalmente apoyo ilusorio desde retaguardia
+- **Ahora**: Integración de combate físico directo
+- **Futuro**: Híbrida ilusión-combate con potencial único
+
+#### **Desarrollo de Responsabilidad**
+- **Navegación**: Acepta rol de guía del equipo en territorio desconocido
+- **Equipamiento**: Toma responsabilidad por armas propias
+- **Consecuencias**: Aprende de errores (tocar equipamiento sin permiso)
+
+#### **Creatividad Táctica Expandida**
+- **Limitaciones como oportunidades**: Usa restricciones de tamaño creativamente
+- **Múltiples aplicaciones**: Sus habilidades sirven navegación, combate, distracción
+- **Visión a largo plazo**: Comprende potencial de combinaciones ilusión-combate
+
+### **Implicaciones Futuras**
+- **Combatiente multifacético**: Única en combinar ilusión perfecta con ataque físico real
+- **Navegadora del equipo**: Recurso para movimiento en zonas con tecnología limitada
+- **Estratega de contacto**: Sus ilusiones serán clave para comunicarse con figuras elusivas como Cacharrero
+- **Evolución continua**: Potencial para desarrollos aún más complejos en combate híbrido
 - **Líder en innovación**: Sus técnicas pueden inspirar nuevas tácticas de equipo
 
 Esta sesión marca la **consolidación definitiva** de Astrid/Kayface como **maestra de ilusiones tácticas**, capaz de alterar el campo de batalla mediante creatividad y técnica sofisticada que combina artístico personal con efectividad militar, estableciendo nuevos estándares para el combate ilusorio dentro de La Fuerza Oculta.

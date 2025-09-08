@@ -160,6 +160,22 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 8 de Septiembre](../ai-notes-summary/2025-09-08-gemini-notes.md)
+**"Encuentro con el Pasado en el Barrio Gótico"**
+- 💰 **Crisis Financiera**: Recursos reducidos tras gastos masivos en equipamiento
+- 📺 **Análisis Mediático**: Críticas públicas post-ataque de monos dorados
+- 🛡️ **Arsenal No Letal**: Espectro proporciona equipamiento especializado
+- 👻 **Teatro Abandonado**: Base secreta de Génesis revelada como guarida de Espectro
+- 🧙‍♀️ **Señora de la Sonrisa**: Encuentro con entidad misteriosa del Barrio Gótico
+- 💈 **Barbería de Mentallo**: Descubrimiento del psíquico más poderoso de la historia
+- 💉 **La Jeringuilla del Poder**: Psique enfrenta tentación de droga potenciadora
+- 📸 **Fotografía Analógica**: Momento histórico capturado con Polaroid
+- 👨‍🦳 **Veteranos Supervivientes**: Encuentro con últimos héroes de eras pasadas
+
+**Temas Clave**: Conexiones generacionales, tentación del poder, encuentros sobrenaturales, equipamiento ético
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -183,6 +199,7 @@ Transcripciones automáticas con análisis:
 - **[2025-08-17-gemini-notes](../ai-notes/2025-08-17-gemini-notes.md)**
 - **[2025-08-24-gemini-notes](../ai-notes/2025-08-24-gemini-notes.md)**
 - **[2025-08-30-gemini-notes](../ai-notes/2025-08-30-gemini-notes.md)**
+- **[2025-09-08-gemini-notes](../ai-notes/2025-09-08-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -197,6 +214,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 17/08](../ai-notes-summary/2025-08-17-gemini-notes.md)** - Les Enfant Terribles y monos dorados
 - **[Resumen 24/08](../ai-notes-summary/2025-08-24-gemini-notes.md)** - Combate épico y 7 Abominables
 - **[Resumen 30/08](../ai-notes-summary/2025-08-30-gemini-notes.md)** - Repercusiones y búsqueda de mentores
+- **[Resumen 08/09](../ai-notes-summary/2025-09-08-gemini-notes.md)** - Encuentro con el pasado en el Barrio Gótico
 
 ---
 

@@ -247,6 +247,52 @@ La sesión del 30 de agosto revela las **profundas consecuencias psicológicas**
 - **Balas de goma**: Causan heridas leves pero no mortales como alternativa preferida
 - **Limitaciones del sistema**: Las reglas del juego no permiten ataques "aturdidores" fácilmente
 - **Realismo balístico**: Incluso balas de goma pueden ser letales en zonas sensibles (ojos)
+
+## Transición a Armamento No Letal (Septiembre 2025)
+
+### **Encuentro con Espectro - Teatro Abandonado**
+El 8 de septiembre marca un punto de inflexión en la evolución de Sentencia como heroína, cuando finalmente se reúne con Espectro en su base secreta del Barrio Gótico.
+
+#### **Recepción del Arsenal No Letal**
+- **Munición especializada**: Caja completa de cargadores con balas de silicona
+- **Garantía de seguridad**: "Con esto no matarás a nadie, a no ser que le des en un ojo"
+- **Compatibilidad**: Cargadores adaptados específicamente para sus pistolas existentes
+- **Limitación táctica**: Requiere una acción para cambiar entre cargadores letales y no letales
+
+#### **Reconocimiento del Veterano**
+- **Advertencia directa**: "No puedes seguir disparando a la gente indiscriminadamente"
+- **Herramientas adecuadas**: Énfasis en la necesidad de equipamiento apropiado para heroísmo
+- **Experiencia compartida**: Espectro pasó por el mismo proceso de aprendizaje doloroso
+
+#### **Filosofía de Entrenamiento**
+Espectro compartió su perspectiva sobre héroes sin poderes:
+- **Trabajo diferente**: Los que no tienen poderes deben compensar con equipamiento y técnica
+- **Especialización**: Sentencia debe perfeccionar sus habilidades de tiro, no dispersarse
+- **Responsabilidad**: El poder de fuego conlleva mayor responsabilidad moral
+
+#### **Conocimiento Técnico de Armas**
+Durante la conversación sobre armas, Sentencia demostró su expertise:
+- **Análisis de modificaciones**: Reconoce que todas las armas están modificadas para ser óptimas
+- **Personalización**: Las armas solo funcionan para Espectro o personas autorizadas
+- **Apreciación profesional**: Intercambio técnico sobre rifles de francotirador y armamento
+
+### **Gratitud y Deuda de Honor**
+- **Reconocimiento**: Le dice a Espectro que le debe un favor
+- **Humildad**: Acepta que necesitaba esta guía y equipamiento
+- **Compromiso**: Determinación de no repetir los errores del pasado
+
+### **Evolución del Personaje**
+Este encuentro completa el arco de transformación de Sentencia:
+1. **De justiciera letal a heroína consciente**: Acepta limitaciones morales
+2. **De independiente a aprendiz**: Reconoce necesidad de mentores
+3. **De idealista a realista**: Comprende las complejidades del heroísmo
+4. **De culpa a responsabilidad**: Transforma el trauma en determinación constructiva
+
+### **Impacto en Dinámica del Grupo**
+La transformación de Sentencia afecta a todo el equipo:
+- **Liderazgo moral**: Su decisión de usar munición no letal establece un estándar
+- **Vulnerabilidad compartida**: Su apertura sobre el trauma permite conversaciones honestas
+- **Evolución táctica**: El cambio de armamento requiere nuevas estrategias de equipo
 - **Complejidad táctica**: No existe solución simple para combate no letal efectivo
 
 #### **Evolución de la Filosofía Heroica**

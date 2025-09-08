@@ -102,6 +102,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: División del equipo, infiltración en cúpula energética, derrota de Les Enfant Terribles, aparición de monos dorados
 - **[24 Agosto](manual-notes/session-29-2024-08-24.md)**: Combate épico contra gorilas dorados, aparición de Emperatriz de Jade y Abismo de los 7 Abominables, alianza temporal inesperada
 - **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas del ataque, trauma de Sentencia, búsqueda de mentores, contacto con Espectro, revelación sobre Sofía Nakamura y el PD
+- **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Equipamiento no letal con Espectro, encuentro con entidades misteriosas en Barrio Gótico, descubrimiento de Mentallo y la jeringuilla del poder
 
 ---
 

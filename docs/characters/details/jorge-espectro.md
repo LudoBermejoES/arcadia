@@ -77,4 +77,57 @@ Durante el combate en la discoteca, demostró habilidades físicas efectivas al 
 
 El hecho de que sea descrito como "algo que debe ser llenado" sugiere que su poder o naturaleza podría desarrollarse o cambiar a lo largo del tiempo, posiblemente absorbiendo características o habilidades de otros. Su papel como Espectro implica capacidades relacionadas con la observación, la información, y posiblemente la infiltración.
 
+## Actividad Post-Génesis (2025)
+
+### **Mentor de La Fuerza Oculta**
+Jorge continúa activo como héroe independiente tras la disolución de Génesis, ahora operando desde una base secreta en un teatro abandonado del Barrio Gótico que fue reconvertido de cine.
+
+#### **Base de Operaciones - Teatro Abandonado**
+- **Ubicación**: Antiguo cine con fachada art déco en el Barrio Gótico
+- **Condición**: Apariencia exterior deteriorada con interior funcional
+- **Instalaciones**: Gimnasio integrado, arsenal de armas modificadas, sistema de seguridad
+- **Acceso**: Entrada controlada por reconocimiento, puerta se abre automáticamente
+- **Conexión histórica**: Antigua guarida de Génesis, no revelada públicamente
+
+#### **Arsenal Especializado**
+Jorge mantiene una extensa colección de armamento modificado:
+- **Armas no letales**: Cargadores con balas de silicona para minimizar daño letal
+- **Armaduras adaptadas**: Equipamiento táctico discreto (chaquetas de motorista reforzadas)
+- **Granadas aturdidoras**: Arsenal de armas no letales especializadas
+- **Modificaciones únicas**: Todas las armas funcionan solo para él o personas autorizadas
+- **Sistema de seguridad**: Ametralladoras del techo activadas si se toca equipo sin permiso
+
+### **Encuentro con La Fuerza Oculta (Septiembre 2025)**
+Jorge cita al grupo tras el incidente con monos dorados para abordar problemas de equipamiento y métodos.
+
+#### **Filosofía de Entrenamiento**
+- **Especialización individual**: Cada héroe debe potenciar sus fortalezas naturales
+- **Metahumanos vs No-metahumanos**: Diferentes enfoques de entrenamiento según capacidades
+- **Consejo clave**: Los metahumanos deben perfeccionar poderes, no compensar con equipamiento
+- **Enfoque práctico**: Uso inteligente del espacio y circunstancias
+
+#### **Mentorías Específicas**
+- **Sentencia**: Provisión de munición no letal y consejos sobre control de daño
+- **Hotman**: Armadura discreta pese a impacto en imagen pública
+- **Psique**: Equipamiento básico no letal (táser, spray, granadas)
+- **Kayface**: Entrenamiento en combate cuerpo a cuerpo con porra
+- **Diana**: Reconocimiento de que su poder elimina necesidad de equipamiento adicional
+
+### **Posición sobre Patrocinadores**
+Jorge mantiene una postura crítica hacia la independencia total de La Fuerza Oculta:
+- **Tradición heroica**: Los grupos nuevos históricamente reciben apoyo veterano
+- **Recursos necesarios**: Los criminales acceden fácilmente a equipamiento, los héroes no deberían rechazar ayuda
+- **Red de apoyo**: Identifica que ya reciben ayuda de múltiples fuentes (Sara 10, Comadreja, Relámpago)
+
+### **Documentación y Privacidad**
+- **Política de confidencialidad**: Rechaza que su guarida sea revelada públicamente
+- **Fotografía analógica**: Proporciona Polaroid cuando tecnología digital falla en Barrio Gótico
+- **Legado de Génesis**: Mantiene conexión con el pasado mientras sirve al presente
+
+## Evolución del Personaje
+
+Jorge ha evolucionado de miembro de equipo a mentor independiente, manteniendo su naturaleza observadora mientras asume responsabilidades de guía. Su base en el Barrio Gótico sugiere comodidad con elementos sobrenaturales y místicos, apropiado para alguien cuya naturaleza espectral lo conecta con lo intangible.
+
+Su enfoque en equipamiento no letal y entrenamiento especializado refleja una maduración en su comprensión del heroísmo: no se trata solo de derrotar enemigos, sino de preservar vida mientras se protege la sociedad. Esta filosofía lo posiciona como puente entre el pragmatismo de La Familia y los ideales evolucionados de las nuevas generaciones.
+
 **Su relación con Francisco añade una dimensión profundamente humana a su personaje**, mostrando cómo los héroes mantienen conexiones familiares significativas que influyen en su identidad heroica.

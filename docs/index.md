@@ -47,7 +47,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/), [Diana]({{ site.baseurl }}/characters/details/diana/), [Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/), [Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/), [Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y [Hotman]({{ site.baseurl }}/characters/details/hotman/) enfrentan dilemas morales sin respuestas claras en un mundo que los observa constantemente.
 
-**🌟 Actualidad**: Meta-narrativa consciente, adolescencia bajo presión pública, dilemas éticos de la era moderna.
+**🌟 Actualidad**: Meta-narrativa consciente, encuentros con el pasado heroico, dilemas éticos de la era moderna, conexiones generacionales profundas.
 
 ---
 

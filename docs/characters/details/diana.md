@@ -12,10 +12,10 @@ slug: diana
 </div>
 
 ## Presentación
-Diana es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Eslizo. Tiene una conexión familiar compleja con el grupo de supervillanos Fatum, siendo hija de Cloris (fallecida) y habiendo sido preparada por Janus para liderar la siguiente generación de Fatum antes de su muerte. Se caracteriza por su cultura asiática gótica y una personalidad más introspectiva.
+Diana es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Eslizo. Además de su trasfondo familiar complejo (hija de Cloris y preparada por Janus para Fatum), su relación con Psique es el eje emocional de su desarrollo reciente. Diana, introspectiva y de cultura asiática gótica, encuentra en Psique un refugio y una motivación para desafiar el destino impuesto por su linaje, permitiéndose vulnerabilidad y crecimiento personal a través de este vínculo.
 
 ## Rol y Actividades
-Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel incluye participar en entrenamientos de combate, detectar puntos débiles estructurales durante operaciones, y ofrecer consejos estratégicos. Fue seleccionada para participar en el programa "Héroes o Villanos".
+Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel incluye participar en entrenamientos de combate, detectar puntos débiles estructurales durante operaciones, y ofrecer consejos estratégicos. Fue seleccionada para participar en el programa "Héroes o Villanos". Su relación con Psique, marcada por la protección mutua y la complicidad emocional, influye en sus decisiones tácticas y en su evolución como heroína. Diana no solo lucha por el grupo, sino que encuentra en Psique una razón para buscar una identidad propia, más allá de ser un arma o una heredera de Fatum.
 
 ## Poderes y Habilidades
 - **Detección de puntos débiles**: Capacidad de identificar y golpear puntos débiles estructurales para acelerar demolición
@@ -73,7 +73,7 @@ Tras la sesión del 3 de agosto de 2025, Diana tiene varias tareas y desarrollos
 ## Detalles Adicionales
 La habitación de Diana refleja sus intereses culturales únicos: tiene un "altar, libros y posters de asiáticos gotiquillos y Quintus". Esta decoración sugiere una personalidad contemplativa con intereses en estética gótica asiática.
 
-Diana ha tenido una relación romántica con Psique (el personaje de Conchi), pero fueron "separados" durante la organización de refugios seguros porque "no querían tener problemas" con las parejas del grupo. Esta separación añade tensión emocional a su arco narrativo.
+La relación con Psique es el vínculo más profundo y transformador de la vida reciente de Diana. Juntas han desarrollado una complicidad emocional y telepática que trasciende la comunicación mental: Psique es la única persona ante la que Diana se permite mostrar su fragilidad y sus miedos, y quien la ayuda a reconciliarse con su herencia y a desafiar el destino de ser solo un arma. Tras el combate con la Emperatriz de Jade y los gorilas dorados, su conversación en la estación de metro marcó un antes y un después: Diana reconoce en Psique su ancla emocional y su mayor apoyo, y encuentra en ese amor la fuerza para buscar una nueva identidad y sanar sus traumas. Esta relación influye en su ética, en su rol de protectora del grupo y en su capacidad de liderar desde la empatía y la vulnerabilidad.
 
 Durante los entrenamientos de combate, demuestra considerable efectividad. Cuando "prueba una leche potente con Eslizo", el resultado es que "se encienden luces de color rojo y se inmoviliza", sugiriendo que sus habilidades pueden ser intensas o difíciles de controlar.
 
@@ -201,3 +201,10 @@ El enfrentamiento con los gorilas dorados marca **el primer daño significativo*
 - **Responsabilidad aumentada**: El equipo debe protegerla cuando ella no puede protegerse
 
 Esta experiencia marca un **punto de inflexión crucial** en el desarrollo de Diana, forzándola a confrontar tanto su vulnerabilidad física como sus reacciones emocionales extremas, estableciendo nuevas dinámicas dentro del equipo y su relación con Psique.
+
+
+---
+
+#### La relación con Psique como motor de futuro
+
+La relación con Psique seguirá siendo un motor de desarrollo para Diana: su deseo de protegerla y ayudarla a superar sus propios límites se entrelaza con su búsqueda de una identidad más allá de la violencia y el legado familiar. El equipo reconoce a Psique como su guardiana mental y a Diana como la protectora física y emocional de ambas y del grupo. Su vínculo es ahora un pilar narrativo y táctico de La Fuerza Oculta.

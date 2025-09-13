@@ -12,10 +12,10 @@ slug: mencia-psique-cia
 </div>
 
 ## Presentación
-Mencia, también conocida como Psique o Cia, es una metahumana con poderes psíquicos perteneciente al grupo "La Fuerza Oculta", jugada por Conchi. Se caracteriza por sus habilidades mentales, su capacidad de manipular pensamientos, y su naturaleza reservada que hace difícil leer sus propias intenciones.
+Mencia, también conocida como Psique o Cia, es una metahumana con poderes psíquicos perteneciente al grupo "La Fuerza Oculta", jugada por Conchi. Además de su papel como especialista mental, destaca por su vínculo emocional y telepático con Diana, relación que ha evolucionado hasta convertirse en uno de los ejes de su desarrollo personal y motivación heroica. Psique es reservada y difícil de leer, pero con Diana comparte una intimidad y confianza que la transforman y la impulsan a superar sus propios límites.
 
 ## Rol y Actividades
-Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su papel incluye la detección mental de enemigos y aliados, la manipulación psíquica de adversarios, y el reconocimiento telepático del entorno. Fue seleccionada para participar en el programa "Héroes o Villanos" y comparte habitación con Justa.
+Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su papel incluye la detección mental de enemigos y aliados, la manipulación psíquica de adversarios, y el reconocimiento telepático del entorno. Fue seleccionada para participar en el programa "Héroes o Villanos" y comparte habitación con Justa. Su relación con Diana, marcada por la complicidad mental y el apoyo mutuo, influye en sus decisiones tácticas y en su crecimiento como heroína y terapeuta. Psique no solo protege la mente del grupo, sino que encuentra en Diana un ancla emocional y una razón para mantener su humanidad frente a los riesgos de sus poderes.
 
 ## Poderes y Habilidades
 - **Enlace telepático grupal**: Puede conectar mentalmente a todo el equipo para comunicación instantánea
@@ -95,15 +95,16 @@ Bajo su identidad profesional como **Althea Argos**, Psique mantiene una consult
 - **[Marcus Thompson-Petrov](marcus-thompson-petrov.md)** *(34 años)* - Profesor de instituto del Distrito Solis. Herencia inglesa-rusa, segunda generación arcadiana. Recuperándose de episodio depresivo y reevaluando carrera profesional.
 
 ## Detalles Adicionales
+
 Mencia se presenta inicialmente como "Cia" cuando el grupo se conoce, sugiriendo que prefiere mantener cierta distancia o misterio sobre su identidad real. Su naturaleza reservada se confirma cuando "Mencia intenta saber qué piensa Cia y no es capaz de descubrir su pensamiento íntimo", indicando que tiene defensas mentales naturales.
+
+La relación con Diana es el vínculo más profundo y transformador de su vida reciente. Juntas han desarrollado una complicidad telepática y emocional que trasciende la comunicación mental: Diana es la única persona ante la que Psique baja sus defensas, permitiéndose vulnerabilidad y afecto. Tras el combate con la Emperatriz de Jade y los gorilas dorados, su conversación en la estación de metro marcó un antes y un después: Psique se reafirma como apoyo emocional y ancla para Diana, y encuentra en ese amor una motivación para resistir la tentación del poder absoluto y el aislamiento emocional. Esta relación influye en su ética profesional, en su rol de protectora mental del grupo y en su capacidad de sanar tanto física como emocionalmente.
 
 Su habitación compartida con Justa es descrita como "la mitad rosa y la otra mitad verde y roja", con la parte verde y roja presumiblemente perteneciendo a Mencia. Esta combinación de colores podría reflejar aspectos duales de su personalidad.
 
 Durante los entrenamientos, Mencia demuestra iniciativa psíquica cuando "intenta que alguien abra una puerta, pero la mente se ha defendido y no la ha podido manipular". Aunque no tuvo éxito, esto muestra su disposición a usar sus habilidades de manera proactiva.
 
 Sus habilidades de detección son valiosas para el grupo. "Intenta detectar a los vecinos" y "percibe que hay gente en la casa de los vecinos", pero cuando "les da un toque amistoso", "le responden con un ataque mental", demostrando tanto su capacidad como los riesgos de sus poderes.
-
-Mencia ha tenido una relación romántica con Diana (el personaje de Eslizo), pero fueron "separados" durante la organización de refugios seguros. Esta separación añade una dimensión emocional a su arco narrativo y afecta la dinámica del grupo.
 
 Durante los entrenamientos de combate forma parte del equipo 1 junto con "Hotman y Eslizón", demostrando que sus habilidades psíquicas complementan bien las habilidades físicas de sus compañeros de equipo. Su capacidad de "dice que sería buena idea entrenarnos en el jardín" muestra que también contribuye con perspectiva estratégica.
 
@@ -302,4 +303,14 @@ El enfrentamiento con los gorilas dorados demuestra la **evolución completa** d
 - **Especialista en trauma**: Su experiencia con Diana la prepara para futuras crisis emocionales
 - **Puente civil-heroico**: Identifica civiles que necesitan apoyo profesional tras encuentros con superhéroes
 
+La relación con Diana seguirá siendo un motor de desarrollo para Psique: su deseo de protegerla y ayudarla a superar sus traumas personales se entrelaza con su propia búsqueda de equilibrio entre poder y humanidad. El equipo reconoce a Diana como su protectora, y a Psique como la guardiana de la salud mental y emocional de ambos y del grupo. Su vínculo es ahora un pilar narrativo y táctico de La Fuerza Oculta.
+
 Esta sesión confirma la **transformación completa** de Psique en el **nexo emocional y telepático** del equipo, capaz de mantener coordinación perfecta mientras gestiona crisis psicológicas múltiples y evaluando nuevas amenazas y oportunidades para la salud mental del grupo.
+
+---
+
+### Conversación con Diana tras el combate con la Emperatriz de Jade
+
+Después del enfrentamiento con los gorilas dorados y la Emperatriz de Jade en el centro comercial, Psique y Diana mantienen una conversación privada en una estación de metro vacía. Psique actúa como apoyo emocional y mental para Diana, quien revela su lucha interna con la parte más oscura de sí misma y el peso de su herencia genética. Psique reafirma que la genética no define a Diana y le ofrece su apoyo incondicional, consolidando su vínculo romántico y terapéutico. Esta escena representa un avance clave en la relación y el desarrollo emocional de ambas.
+
+- [Ver conversación completa](../pensamientos/Psique_y_Diana.md)

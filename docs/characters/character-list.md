@@ -103,6 +103,7 @@ permalink: /characters/character-list/
 - [Voltumna]({{ site.baseurl }}/characters/details/voltumna/) (electroquinético)
 - [Merx]({{ site.baseurl }}/characters/details/merx/) (velocista)
 - [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) (armero, tutor legal de Diana)
+- [Sr. Thomas]({{ site.baseurl }}/characters/details/sr-thomas/) (abogado de Fatum Corporation)
 - [Furina]({{ site.baseurl }}/characters/details/furina/) (forma de humo)
 - [Cloris]({{ site.baseurl }}/characters/details/cloris/) (madre de Diana, poderes regenerativos y plantas, fallecida)
 

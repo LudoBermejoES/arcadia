@@ -345,7 +345,8 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
       { slug: 'lambert', name: 'Lambert', image: 'lambert.png' },
-      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' }
+      { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
+      { slug: 'sr-thomas', name: 'Sr. Thomas', image: 'Thomas_lawyer.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     historicos: [

@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>180 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>196 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -85,6 +85,14 @@ permalink: /characters/gallery/
   <h3 class="character-category-title">⚡ Independientes</h3>
   <div class="gallery-container" id="independientes-gallery">
     <!-- Independent character cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Modelos -->
+<div class="character-section">
+  <h3 class="character-category-title">📸 Modelos</h3>
+  <div class="gallery-container" id="modelos-gallery">
+    <!-- Model cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -314,9 +322,28 @@ document.addEventListener('DOMContentLoaded', function() {
     
     artistas: [
       { slug: 'alonso-dossantos', name: 'Alonso Dossantos', image: 'alonso-dossantos.png' },
+      { slug: 'chen-wei-romano', name: 'Chen Wei-Romano', image: 'chen-wei-romano.png' },
+      { slug: 'david-park-kowalski', name: 'David Park-Kowalski', image: 'david-park-kowalski.png' },
+      { slug: 'elena-volkov-mendez', name: 'Elena Volkov-Mendez', image: 'elena-volkov-mendez.png' },
+      { slug: 'fatima-al-rashid', name: 'Fatima Al-Rashid', image: 'fatima-al-rashid.png' },
       { slug: 'jane-irinar', name: 'Jane Irinar', image: 'jane-irinar.png' },
+      { slug: 'joaquin-navarro-okafor', name: 'Joaquín Navarro-Okafor', image: 'joaquin-navarro-okafor.png' },
+      { slug: 'mikhail-petrosyan', name: 'Mikhail Petrosyan', image: 'mikhail-petrosyan.png' },
       { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'Ramon_Beguell.png' },
       { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+
+    modelos: [
+      { slug: 'aleksandr-romanov-idris', name: 'Aleksandr "Sasha" Romanov-Idris', image: 'aleksandr-romanov-idris.png' },
+      { slug: 'amara-okonkwo-garcia', name: 'Amara Okonkwo-García', image: 'amara-okonkwo-garcia.png' },
+      { slug: 'arjun-patel-kosov', name: 'Arjun Patel-Kosov', image: 'arjun-patel-kosov.png' },
+      { slug: 'diego-markovic-santana', name: 'Diego Marković-Santana', image: 'diego-markovic-santana.png' },
+      { slug: 'katarina-vukovic-reyes', name: 'Katarina Vuković-Reyes', image: 'katarina-vukovic-reyes.png' },
+      { slug: 'leila-habibi-park', name: 'Leila Habibi-Park', image: 'leila-habibi-park.png' },
+      { slug: 'malik-hassan-petrov', name: 'Malik Hassan-Petrov', image: 'malik-hassan-petrov.png' },
+      { slug: 'nadiya-kovalenko-nguyen', name: 'Nadiya Kovalenko-Nguyen', image: 'nadiya-kovalenko-nguyen.png' },
+      { slug: 'takeshi-yamamoto-delgado', name: 'Takeshi Yamamoto-Delgado', image: 'takeshi-yamamoto-delgado.png' },
+      { slug: 'yasmin-al-cortes', name: 'Yasmin Al-Cortés', image: 'yasmin-al-cortes.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     medicos: [
@@ -469,6 +496,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.heroes, 'heroes-gallery');
   createCharacterCards(characterCategories.historicos, 'historicos-gallery');
   createCharacterCards(characterCategories.independientes, 'independientes-gallery');
+  createCharacterCards(characterCategories.modelos, 'modelos-gallery');
   createCharacterCards(characterCategories.medicos, 'medicos-gallery');
   createCharacterCards(characterCategories.metacorp, 'metacorp-gallery');
   createCharacterCards(characterCategories.militares, 'militares-gallery');
@@ -512,6 +540,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('heroes-gallery');
   initializeMasonry('historicos-gallery');
   initializeMasonry('independientes-gallery');
+  initializeMasonry('modelos-gallery');
   initializeMasonry('medicos-gallery');
   initializeMasonry('metacorp-gallery');
   initializeMasonry('militares-gallery');

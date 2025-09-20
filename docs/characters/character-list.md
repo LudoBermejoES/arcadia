@@ -117,8 +117,26 @@ permalink: /characters/character-list/
 - [Ramón Beguell]({{ site.baseurl }}/characters/details/ramon-beguell/)
 
 ### Cine y Entretenimiento
+- [Chen Wei-Romano]({{ site.baseurl }}/characters/details/chen-wei-romano/) (Estrella de acción taiwanesa-italiana)
+- [David Park-Kowalski]({{ site.baseurl }}/characters/details/david-park-kowalski/) (Actor de método coreano-polaco)
+- [Elena Volkov-Mendez]({{ site.baseurl }}/characters/details/elena-volkov-mendez/) (Actriz dramática rusa-guatemalteca)
+- [Fatima Al-Rashid]({{ site.baseurl }}/characters/details/fatima-al-rashid/) (Actriz y directora siria)
 - [Jane Irinar]({{ site.baseurl }}/characters/details/jane-irinar/)
+- [Joaquín Navarro-Okafor]({{ site.baseurl }}/characters/details/joaquin-navarro-okafor/) (Actor y activista afro-colombiano)
+- [Mikhail Petrosyan]({{ site.baseurl }}/characters/details/mikhail-petrosyan/) (Actor teatral armenio)
 - [The Rock]({{ site.baseurl }}/characters/details/the-rock/)
+
+### Modelaje y Moda
+- [Aleksandr "Sasha" Romanov-Idris]({{ site.baseurl }}/characters/details/aleksandr-romanov-idris/) (Modelo controversial checheno-ruso)
+- [Amara Okonkwo-García]({{ site.baseurl }}/characters/details/amara-okonkwo-garcia/) (Modelo y activista del cabello natural nigeriana-española)
+- [Arjun Patel-Kosov]({{ site.baseurl }}/characters/details/arjun-patel-kosov/) (Modelo intelectual y ex-prodigio del ajedrez indio-albanés)
+- [Diego Marković-Santana]({{ site.baseurl }}/characters/details/diego-markovic-santana/) (Modelo de lujo y ex-atleta acuático croata-mexicano)
+- [Katarina Vuković-Reyes]({{ site.baseurl }}/characters/details/katarina-vukovic-reyes/) (Modelo atlética y ex-gimnasta serbia-colombiana)
+- [Leila Habibi-Park]({{ site.baseurl }}/characters/details/leila-habibi-park/) (Modelo y poetisa secreta iraní-coreana)
+- [Malik Hassan-Petrov]({{ site.baseurl }}/characters/details/malik-hassan-petrov/) (Modelo y estudiante de arquitectura palestino-ruso)
+- [Nadiya Kovalenko-Nguyen]({{ site.baseurl }}/characters/details/nadiya-kovalenko-nguyen/) (Modelo internacional y políglota ucraniana-vietnamita)
+- [Takeshi Yamamoto-Delgado]({{ site.baseurl }}/characters/details/takeshi-yamamoto-delgado/) (Modelo y artista marcial japonés-salvadoreño)
+- [Yasmin Al-Cortés]({{ site.baseurl }}/characters/details/yasmin-al-cortes/) (Modelo internacional y activista siria-española)
 
 ## Personajes del Submundo
 

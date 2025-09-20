@@ -38,6 +38,8 @@ Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel i
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
+- [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
 - [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)

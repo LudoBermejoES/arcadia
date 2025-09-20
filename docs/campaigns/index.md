@@ -73,7 +73,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 - 🔥 **Hotman** (Jandro) - El maestro del calor
 
 ### **Era Moderna:**
-- **31 sesiones activas** con narrativa compleja
+- **32 sesiones activas** con narrativa compleja
 - **Dilemas morales** sin respuestas fáciles
 - **Encuentros con el pasado heroico** de Arcadia
 - **Meta-narrativa** y pérdida de privacidad
@@ -114,7 +114,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">75+</span>
+<span class="stat-number">79+</span>
 <span class="stat-label">Sesiones Totales</span>
 </div>
 

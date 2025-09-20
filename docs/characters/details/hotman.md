@@ -44,10 +44,13 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 - [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
+- [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
+- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-15.md)
 
-## Cosas a Hacer (Agosto 2025)
+## Cosas a Hacer (Septiembre 2025)
 
-Tras la sesión del 30 de agosto de 2025, Hotman tiene varias tareas y desarrollos pendientes:
+Tras la sesión del 15 de septiembre de 2025, Hotman tiene varias tareas y desarrollos pendientes:
 
 ### **🎬 Carrera como Influencer y Medios**
 - **Influencer pro-metahumanos**: Desarrollar contenido sobre derechos metahumanos y alimentación saludable
@@ -72,13 +75,39 @@ Tras la sesión del 30 de agosto de 2025, Hotman tiene varias tareas y desarroll
 - **Criptomoneda**: Gestionar pagos en cripto para evitar restricciones de patrocinio legal
 - **Inversión en equipamiento**: Mejorar calidad de producción de contenido
 
-### **🛡️ Equipamiento Heroico**
+### **🛡️ Equipamiento Heroico (Actualizado 15/09/2025)**
+- **✅ COMPLETADO - Protección corporal**: Recibida chaqueta de motorista protectora de Espectro que protege brazos y pecho
+- **Filosofía de protección**: "Prefiere feo a muerto" - prioriza funcionalidad sobre estética
+- **Compatibilidad de imagen**: Puede usar su chaqueta normal encima para mantener apariencia de marca personal
 - **Mejoras de traje**: Coordinar con **Charada** para posibles modificaciones (primera pieza gratuita)
-- **Chaleco de kevlar**: Considerar protección adicional para operaciones peligrosas
 - **Equipamiento de grabación**: Material profesional para documentar actividades heroicas
 
+### **🦸‍♂️ Encuentros con Veteranos y Figuras Públicas (15/09/2025)**
+- **Contacto con el Cacharrero**: Planificación de "imágenes gigantes" para llamar su atención usando ilusiones de Kayface de 8 metros de diámetro
+- **El Matador**: Reconoció y gritó como fan al vigilante torero del Barrio Gótico, quien inmediatamente desapareció en las sombras
+- **Comentarios veteranos**: Los supervivientes de la barbería hicieron comentarios homofóbicos ("va a acabar de la acera de enfrente")
+- **El Irlandés del IRA**: Veterano le dice "Podría ser tu abuelo" e interactúa dándole una petaca
+- **Documentación histórica**: Intentó fotografiar encuentros únicos pero falló debido a las propiedades sobrenaturales del Barrio Gótico
+- **Fotografía analógica**: Espectro le proporciona Polaroid como único método funcional de registro en espacios sobrenaturales
+
+### **🎬 Contenido de Agradecimiento Planificado**
+- **Video de reconocimiento**: Propuesta de crear contenido agradeciendo públicamente a mentores que han proporcionado equipamiento
+- **Limitaciones de documentación**: Espectro específicamente prohíbe mostrar la guarida del teatro abandonado
+- **Registro histórico**: La Polaroid con Espectro se convierte en documento único e irrepetible
+
+### **💕 Relación con Sentencia (15/09/2025) - DESARROLLO CRÍTICO**
+- **✅ OFICIALMENTE EN PAREJA**: Primera cita romántica en MetaFresh Salads que culminó en relación oficial
+- **Nervios extremos**: "Casi prefería enfrentarse a un gorila dorado con un tenedor que cenar allí con Justa"
+- **Declaración de Justa**: "si quieres que nos acostemos ya puedes empezar a controlar tus poderes"
+- **Shock emocional**: "Sus temores más agudos y todas sus esperanzas colisionaron a la vez en el centro de su pecho"
+- **Control de poderes**: Problemas para controlar calor corporal por nervios y emoción
+- **Combate en pareja**: Justa lo protegió de matones mientras él exploró sus pistolas con calor
+- **Primera noche juntos**: Consumaron relación en hotel del centro
+- **Felicidad absoluta**: "El influencer más feliz del mundo, tanto que se había olvidado de grabar y de postear"
+- **Reconocimiento grupal**: Diana preguntó directamente "¿follasteis o no?" al día siguiente
+
 ## Detalles Adicionales
-Hotman muestra una personalidad típicamente adolescente, evidente en la decoración de su habitación que incluye "posters con ídolos de internet", "hay un poster de Justa", y "comics y revistas sospechosas debajo de la cama". Su interés romántico por Justa es aparente tanto por el poster como por su comportamiento.
+Hotman muestra una personalidad típicamente adolescente, evidente en la decoración de su habitación que incluye "posters con ídolos de internet", "hay un poster de Justa", y "comics y revistas sospechosas debajo de la cama". Su previo interés romántico por Justa, evidente tanto por el poster como por su comportamiento nervioso, finalmente se materializó el 15 de septiembre de 2025 cuando se convirtieron oficialmente en pareja.
 
 Durante el entrenamiento con Comadreja Negra, recibe correcciones frecuentes y "le dan un calambrazo como refuerzo positivo" durante las clases, sugiriendo que puede ser algo distraído o impulsivo en su aprendizaje.
 

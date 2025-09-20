@@ -673,6 +673,108 @@ La sesión del 30 de agosto aborda las repercusiones profundas del combate con m
 
 Esta sesión establece la transición hacia mentoria veterana y desarrollo personal profundo, donde las consecuencias de las acciones heroicas se vuelven más complejas y los personajes buscan activamente orientación de generaciones anteriores para manejar el peso de sus responsabilidades.
 
+### Sesión 31: Mentores y Decisiones en el Barrio Gótico (14 septiembre 2025)
+
+**La elección que define el poder:**
+
+La sesión del 14 de septiembre marca un momento definitorio en el desarrollo moral del grupo, particularmente para **Psique**, quien enfrenta la tentación del poder absoluto en forma de una droga potenciadora telepática.
+
+**Discusión meta-narrativa:**
+- **Análisis grupal**: Los jugadores discuten significados de términos modernos, decisiones morales de sesiones anteriores
+- **Planificación estratégica**: Definición de necesidades de mentores, patrocinadores y recursos
+- **Reconocimiento de limitaciones**: Aceptación de que necesitan ayuda de veteranos experimentados
+
+**Encuentro con Espectro y equipamiento ético:**
+- **Teatro abandonado**: Base secreta de Génesis convertida en arsenal de Espectro
+- **Munición no letal**: Balas de silicona que "no matarán a nadie, a no ser que le des en un ojo"
+- **Filosofía de combate**: "Tenéis que aprender a moveros y a pegar" sin depender solo de poderes
+- **Equipamiento táctico**: Chaqueta protectora para Hotman, táser y spray de pimienta para Psique
+- **Polaroid histórica**: Foto analógica como único registro del encuentro en el Barrio Gótico
+
+**La Samaritana y el Matador:**
+- **Guía misteriosa**: Anciana con talismanes religiosos que conoce más de lo aparente
+- **Ojos estelares**: Transformación sobrenatural al intentar lectura telepática
+- **Matador observando**: Vigilante torero que desaparece ante reconocimiento de Hotman
+- **Sombras múltiples**: La sombra de la anciana "saluda, hace cosas que no debería hacer una sombra"
+
+**La barbería de Mentallo:**
+- **Veteranos supervivientes**: Últimos testigos de múltiples generaciones heroicas
+- **Irlandés del IRA**: "Podría ser tu abuelo" - conexiones con conflictos pre-metahumanos
+- **Barbero ruso**: Dedos demasiado largos, cuchilla demasiado afilada
+- **Comentarios reveladores**: "Todo mujeres y solo un chico, Hotman va a acabar de la acera de enfrente"
+
+**Mentallo - La advertencia viviente:**
+- **Leyenda caída**: El psíquico más poderoso de la historia reducido por demencia senil
+- **Filosofía central**: "No buscas un mentor, buscas poder. Ya tienes un mentor"
+- **La jeringuilla del poder**: Droga personalizada con ADN del receptor
+- **Historia repetida**: "Esta droga trajo mi perdición pero sé que la vas a tomar, como hizo Mésmero"
+- **Promesa tentadora**: "Puedo proporcionarte ese poder" a cambio de un precio no especificado
+
+**El rechazo de Psique:**
+- **Decisión crucial**: "No quiero terminar como él o Mésmero"
+- **Visión a futuro**: "Si me hago más poderosa hasta podría curarte"
+- **Reacción de Mentallo**: Chasquea los labios con desprecio, guarda la jeringuilla temblando
+- **Sabiduría emergente**: Reconocimiento de que el poder sin control es perdición
+
+**Navegación imposible del Barrio Gótico:**
+- **Tecnología muerta**: GPS sin señal, móviles sin internet
+- **Calles cambiantes**: Necesidad de guías locales para salir
+- **Dirección al cine Odeón**: Referencia abandonada como punto de orientación
+- **Regreso a la base**: Decisión de volver a la fortaleza para planificar
+
+**Planificación de futuro:**
+- **Comadreja Negra**: Confirmación como mentor grupal principal
+- **Mésmero**: Mentor telepático para Psique pese a no estar "cuerdo"
+- **Eneiros**: Posible mentor energético para Hotman pese a personalidad difícil
+- **Fiesta de superhéroes**: Oportunidad de networking en dos semanas
+- **Combates por dinero**: Opción de ingresos mediante peleas organizadas
+
+Esta sesión representa el momento donde La Fuerza Oculta elige conscientemente el camino difícil del desarrollo gradual sobre el atajo del poder instantáneo, estableciendo que el verdadero heroísmo no radica en el poder que se posee, sino en la sabiduría para saber cuándo no adquirirlo.
+
+### Sesión 33: Los Últimos Testigos del Heroísmo (15 septiembre 2025)
+
+**El encuentro con la historia viviente:**
+
+La sesión del 15 de septiembre profundiza en el encuentro con los **últimos supervivientes de múltiples generaciones heroicas**, donde La Fuerza Oculta recibe su equipamiento completo de Espectro y se adentra en los misterios sobrenaturales del Barrio Gótico para encontrarse con veteranos que representan décadas de historia heroica no documentada.
+
+**Equipamiento profesional completado:**
+- **Sentencia**: Cargadores de balas de silicona que "no matarán a nadie, a no ser que le des en un ojo"
+- **Hotman**: Chaqueta de motorista protectora ("prefiere feo a muerto")
+- **Psique**: Táser, spray de pimienta y cinturón con granadas aturdidoras
+- **Kayface**: Porra expandible
+- **Filosofía táctica**: "Tienes que aprender a moverte y a pegar" - no depender solo de poderes
+
+**Geografía expandida de Arcadia:**
+- **Revelación crucial**: Arcadia tiene 11 islas totales, 10 habitadas
+- **Sistema de transporte**: Comunicadas por túneles y puentes, maglevs y helicópteros para clase alta
+- **Realidad económica**: El grupo usa puentes por limitaciones financieras
+
+**La Samaritana como psychopomp:**
+- **Guía sobrenatural**: Anciana de 56 años con talismanes religiosos múltiples
+- **Ojos estelares**: Transformación visual al intentar lectura telepática
+- **Sombras independientes**: "Saluda, hace cosas que no debería hacer una sombra"
+- **Conocimiento territorial**: "Hoy sí es posible que os ayude"
+
+**La barbería de los últimos supervivientes:**
+- **El Irlandés del IRA**: "Podría ser tu abuelo" - veterano de conflictos pre-metahumanos
+- **El Barbero Ruso**: Dedos demasiado largos, cuchilla demasiado afilada
+- **El Hombre Negro**: Crítico directo: "Estás un poco verde, te falta algo de muerte"
+- **Comentarios arcaicos**: "Todo mujeres y solo un chico, Hotman va a acabar de la acera de enfrente"
+
+**Mentallo reafirma la tentación:**
+- **Historia repetida**: "Esta droga trajo mi perdición pero estoy seguro que la vas a tomar, como hizo Mésmero"
+- **Jeringuilla personalizada**: Usa pelos de Psique para crear droga específica
+- **Filosofía central**: "No buscas un mentor, buscas poder"
+- **Reflexión incompleta**: "Tal vez él esté equivocado: se hizo rico y poderoso y terminó..."
+
+**Elementos sobrenaturales del Gótico:**
+- **El Matador**: Vigilante torero que desaparece ante reconocimiento de Hotman
+- **Tecnología muerta**: Internet y GPS no funcionan en el distrito
+- **Fotografía analógica**: Solo las Polaroids capturan momentos en espacios sobrenaturales
+- **Geografía viviente**: Calles que cambian, necesidad de guías locales
+
+Esta sesión establece a La Fuerza Oculta como herederos conscientes de múltiples generaciones heroicas, equipados profesionalmente pero enfrentando la tentación persistente del poder fácil, mientras navegan un espacio sobrenatural que preserva la memoria viva de décadas de heroísmo.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes
@@ -823,6 +925,11 @@ Esta sesión establece la transición hacia mentoria veterana y desarrollo perso
 - 24/08: Combate épico contra gorilas dorados, encuentro con Emperatriz de Jade y Abismo
 - 30/08: Repercusiones mediáticas, trauma postraumático, búsqueda de mentores veteranos
 - Salto temporal de 2 meses - Consolidación como héroes autónomos
+
+**Septiembre:**
+- 08/09: Encuentro con veteranos en el Barrio Gótico, primera oferta de poder de Mentallo
+- 14/09: Equipamiento no letal con Espectro, rechazo definitivo de la jeringuilla del poder, planificación de mentores
+- 15/09: Arsenal completo de Espectro, encuentro con últimos supervivientes heroicos, Mentallo reafirma tentación del poder
 
 ---
 

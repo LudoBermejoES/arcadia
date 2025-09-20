@@ -12,7 +12,7 @@ slug: justa-justicia-sentencia
 </div>
 
 ## Presentación
-Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Tras una experiencia traumática en los juzgados que expuso la corrupción del sistema judicial, ha evolucionado hacia una nueva identidad como "Sentencia", dedicándose a servir una justicia universal que trasciende las leyes manipuladas. Comparte habitación con Psique durante el entrenamiento en la mansión. Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
+Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Tras una experiencia traumática en los juzgados que expuso la corrupción del sistema judicial, ha evolucionado hacia una nueva identidad como "Sentencia", dedicándose a servir una justicia universal que trasciende las leyes manipuladas. Comparte habitación con Psique durante el entrenamiento en la mansión y desde septiembre de 2025 mantiene una relación romántica oficial con [Hotman]({{ site.baseurl }}/characters/details/hotman/). Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
 
 ## Rol y Actividades
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".
@@ -46,16 +46,19 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 - [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
+- [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
+- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-15.md)
 
-## Cosas a Hacer (Agosto 2025)
+## Cosas a Hacer (Septiembre 2025)
 
-Tras la sesión del 30 de agosto de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
+Tras la sesión del 15 de septiembre de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
 
-### **⚔️ Desarrollo Táctico y Militar (Actualizado 30/08/2025)**
-- **URGENTE - Armamento no letal**: Buscar alternativas a balas reales tras trauma por disparar a civiles menores
-- **Balas de goma**: Investigar munición que cause heridas leves pero no mortales
-- **Armas de pulsos**: Contactar con Espectro para obtener armamento de energía no letal
-- **Control del daño**: Aprender técnicas para "controlar el daño que hace" según consejo de Espectro
+### **⚔️ Desarrollo Táctico y Militar (Actualizado 15/09/2025)**
+- **✅ COMPLETADO - Armamento no letal**: Recibido cargadores de balas de silicona de Espectro que "no matarán a nadie, a no ser que le des en un ojo"
+- **✅ COMPLETADO - Contacto con Espectro**: Establecida relación de mentoria con veterano experimentado
+- **Entrenamiento con munición no letal**: Adaptar técnicas de tiro para nueva munición que requiere acción completa para cambiar cargadores
+- **Filosofía de combate**: Integrar enseñanza de Espectro sobre "aprender a moverse y a pegar" sin depender solo de poderes
 - **Ampliación de arsenal**: Diversificar armamento para diferentes situaciones
 - **Armas pesadas para metahumanos**: Investigar armamento para enfrentar "tanques metahumanos"
 
@@ -80,6 +83,22 @@ Tras la sesión del 30 de agosto de 2025, Sentencia tiene varias tareas y desarr
 - **Especialización en combate**: Mantener rol como experta en armas del grupo
 - **Entrenamiento grupal**: Liderar preparación física y táctica del equipo
 
+### **👴 Encuentro con Veteranos (15/09/2025)**
+- **Barbería de supervivientes**: Encuentro con últimos testigos de múltiples generaciones heroicas en el Barrio Gótico
+- **Crítica veterana**: El hombre negro le dice que "está un poco verde, te falta algo de muerte"
+- **Reconocimiento de profesionalidad**: Los veteranos la reconocen como guerrera potencial pero inexperta
+- **Humildad ante la experiencia**: No abusa de la generosidad de Espectro, dice "no podemos abusar" cuando Hotman pide más equipamiento
+- **Respeto generacional**: Muestra deferencia hacia veteranos pese a sus comentarios arcaicos
+
+### **💕 Relación con Hotman (15/09/2025) - DESARROLLO CRÍTICO**
+- **✅ OFICIALMENTE EN PAREJA**: Tras cena romántica en MetaFresh Salads, Justa y Hotman consumaron su relación
+- **Cita disfrazados**: Intentaron pasar desapercibidos en el centro comercial cerca de Almacenes Hêvî
+- **Iniciativa de Justa**: Ella tomó la iniciativa: "si quieres que nos acostemos ya puedes empezar a controlar tus poderes"
+- **Combate juntos**: Defendieron su relación contra matones que los asaltaron (Justa uso munición letal)
+- **Noche en hotel**: Primera noche juntos como pareja oficial
+- **Reconocimiento público**: Al día siguiente el resto del grupo confirmó el cambio de estado ("¿follasteis o no?" - Diana)
+- **Dinámica de pareja**: Justa protectora y directa, Hotman completamente enamorado y algo abrumado
+
 ## Detalles Adicionales
 Justa mantiene una disciplina militar estricta, evidente en que "suena la alarma de Justa a las 6:00" y lidera las rutinas de ejercicio matutinas junto con Astrid. Su dedicación al entrenamiento físico establece un estándar alto para todo el grupo.
 
@@ -89,7 +108,7 @@ Como especialista en armas, "le dan sus pistolas" al llegar a la mansión de ent
 
 Justa muestra gran compasión y liderazgo durante crisis. Cuando Eslizón resulta gravemente herido y "se ha convertido en una niña sin brazo y que se desangra", es Justa quien "se lleva a la niña a nuestra habitación", demostrando iniciativa en situaciones de emergencia médica.
 
-Su relación con Hotman añade complejidad personal al grupo, con "una relación con altibajos" y habiendo "casi se enrollaron recientemente". Esta tensión romántica se evidencia en el hecho de que Hotman tiene "un poster de Justa" en su habitación.
+Su relación con Hotman evolucionó de "una relación con altibajos" y haber "casi se enrollado recientemente" a convertirse oficialmente en pareja tras su cita del 15 de septiembre de 2025. La previa tensión romántica que se evidenciaba en el poster de Justa en la habitación de Hotman finalmente se resolvió cuando ella tomó la iniciativa directamente.
 
 Durante los entrenamientos de combate forma parte del equipo 2 junto con "Astrid y Diana", demostrando versatilidad en diferentes configuraciones de equipo.
 

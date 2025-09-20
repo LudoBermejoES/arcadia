@@ -10,6 +10,46 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ---
 
+## 📅 **Septiembre 2025**
+
+### **14 de Septiembre de 2025**
+
+#### **🎮 Sesión 31: Mentores y Decisiones en el Barrio Gótico**
+- **Nueva sesión documentada** - Transcripción completa de la sesión del 14 de septiembre 2025:
+  - **Notas manuales**: session-32-2024-09-14.md con análisis profundo de decisiones morales
+  - **Transcripción AI**: 2025-09-14-gemini-notes.md procesada automáticamente por Gemini
+  - **Resumen ejecutivo**: Análisis comprehensivo en ai-notes-summary/2025-09-14-gemini-notes.md
+  - **Desarrollo narrativo**: Primera vez que un personaje rechaza poder absoluto por principios éticos
+
+#### **💉 La Tentación del Poder: El Momento Definitorio de Psique**
+- **Encuentro con Mentallo, el psíquico más poderoso de la historia**:
+  - Barbería de veteranos en el Barrio Gótico con supervivientes de múltiples eras
+  - Mentallo ofrece jeringuilla del poder personalizada con ADN de Psique
+  - Promesa: Expansión inmediata de capacidades telepáticas sin límites
+  - **Decisión crucial**: Psique rechaza la droga, eligiendo desarrollo gradual sobre poder instantáneo
+  - Filosofía emergente: "No quiero terminar como él o Mésmero"
+
+#### **🔫 Equipamiento Ético: Evolución de Sentencia**
+- **Espectro proporciona munición no letal** en teatro abandonado (antigua base de Génesis):
+  - Balas de silicona que "no matarán a nadie, a no ser que le des en un ojo"
+  - Filosofía de combate: "Tenéis que aprender a moveros y a pegar" sin depender solo de poderes
+  - Equipamiento táctico: Chaqueta protectora para Hotman, táser y spray para Psique
+  - **Polaroid histórica**: Foto analógica como único registro del encuentro sobrenatural
+
+#### **👻 Elementos Sobrenaturales del Barrio Gótico**
+- **La Samaritana**: Guía misteriosa con talismanes religiosos y transformación ocular estelar
+- **Matador**: Vigilante torero que desaparece ante reconocimiento de Hotman
+- **Sombras Múltiples**: La sombra de la anciana "saluda, hace cosas que no debería"
+- **Navegación Imposible**: GPS muerto, tecnología no funciona, necesidad de guías locales
+
+#### **📋 Planificación de Mentores: Estructura de Apoyo**
+- **Comadreja Negra**: Confirmación como mentor grupal principal
+- **Mésmero**: Mentor telepático para Psique pese a no estar "cuerdo"
+- **Eneiros**: Posible mentor energético para Hotman pese a personalidad difícil
+- **Eventos sociales**: Fiesta de superhéroes en dos semanas para networking
+
+---
+
 ## 📅 **Agosto 2025**
 
 ### **30 de Agosto de 2025**

@@ -160,6 +160,8 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+### 🏛️ **Septiembre 2025 - Mentores y Sabiduría**
+
 #### [📝 Sesión 8 de Septiembre](../ai-notes-summary/2025-09-08-gemini-notes.md)
 **"Encuentro con el Pasado en el Barrio Gótico"**
 - 💰 **Crisis Financiera**: Recursos reducidos tras gastos masivos en equipamiento
@@ -173,6 +175,36 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 - 👨‍🦳 **Veteranos Supervivientes**: Encuentro con últimos héroes de eras pasadas
 
 **Temas Clave**: Conexiones generacionales, tentación del poder, encuentros sobrenaturales, equipamiento ético
+
+---
+
+#### [📝 Sesión 14 de Septiembre](../manual-notes/session-32-2024-09-14.md)
+**"Decisiones y Mentores"**
+- 💬 **Meta-Discusión**: Análisis grupal de sesiones anteriores y planificación
+- 🎯 **Arsenal No Letal**: Implementación de munición de silicona para Sentencia
+- 🧙‍♀️ **La Samaritana**: Guía misteriosa por el Barrio Gótico nocturno
+- 💈 **Barbería de Mentallo**: Encuentro con el psíquico más poderoso de la historia
+- 💉 **La Tentación Rechazada**: Psique rechaza la jeringuilla del poder absoluto
+- 👴 **Veteranos Supervivientes**: Últimos testigos de eras heroicas pasadas
+- 🚗 **Navegación Imposible**: Dificultades para salir del Barrio Gótico
+- 📋 **Planificación de Futuro**: Definición de mentores y próximos pasos
+
+**Temas Clave**: Poder vs. humanidad, sabiduría de veteranos, evolución ética, construcción de red de apoyo
+
+---
+
+#### [📝 Sesión 15 de Septiembre](../manual-notes/session-33-2024-09-15.md)
+**"Los Últimos Testigos del Heroísmo"**
+- 🔫 **Arsenal Completo**: Equipamiento especializado proporcionado por Espectro
+- 🏝️ **Geografía Expandida**: Revelación de las 11 islas de Arcadia conectadas
+- 👻 **La Samaritana**: Guía misteriosa con ojos estelares y sombras múltiples
+- 🏚️ **Barbería de Veteranos**: Encuentro con supervivientes de múltiples generaciones heroicas
+- 🧙‍♂️ **Tentación Persistente**: Mentallo reafirma su oferta de poder a Psique
+- 📸 **Registro Analógico**: Solo las Polaroids funcionan en espacios sobrenaturales
+- 🦅 **El Matador**: Vigilante torero que desaparece ante reconocimiento
+- 💊 **Historia Repetida**: "Esta droga trajo mi perdición pero estás seguro que la vas a tomar"
+
+**Temas Clave**: Historia viviente, supervivencia veterana, geografía sobrenatural, tentación del poder persistente
 
 ---
 
@@ -200,6 +232,7 @@ Transcripciones automáticas con análisis:
 - **[2025-08-24-gemini-notes](../ai-notes/2025-08-24-gemini-notes.md)**
 - **[2025-08-30-gemini-notes](../ai-notes/2025-08-30-gemini-notes.md)**
 - **[2025-09-08-gemini-notes](../ai-notes/2025-09-08-gemini-notes.md)**
+- **[2025-09-14-gemini-notes](../ai-notes/2025-09-14-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -215,6 +248,8 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 24/08](../ai-notes-summary/2025-08-24-gemini-notes.md)** - Combate épico y 7 Abominables
 - **[Resumen 30/08](../ai-notes-summary/2025-08-30-gemini-notes.md)** - Repercusiones y búsqueda de mentores
 - **[Resumen 08/09](../ai-notes-summary/2025-09-08-gemini-notes.md)** - Encuentro con el pasado en el Barrio Gótico
+- **[Resumen 14/09](../ai-notes-summary/2025-09-14-gemini-notes.md)** - Tentación del poder y sabiduría veterana
+- **[Resumen 15/09](../ai-notes-summary/2025-09-15-session-33-notes.md)** - Los últimos testigos del heroísmo
 
 ---
 
@@ -264,9 +299,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 10 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~160 páginas de contenido
-- **Horas de Juego**: ~29.5 horas registradas
+- **Sesiones Totales**: 12 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~190 páginas de contenido
+- **Horas de Juego**: ~35 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

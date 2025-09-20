@@ -176,22 +176,33 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 **Duración**: ~2.5 horas | **Palabras**: ~18,000 | **Páginas**: ~47
 
+#### [📼 2025-09-14 - Mentores y Decisiones en el Barrio Gótico](2025-09-14-gemini-notes.md)
+**"El Poder de la Elección"**
+- 🧙‍♂️ **Tentación del Poder**: Psique rechaza la jeringuilla de Mentallo
+- 🏪 **Barbería de Veteranos**: Encuentro con últimos supervivientes de eras heroicas pasadas
+- 💈 **Mentallo**: El psíquico más poderoso reducido por su propia ambición
+- 🚗 **Regreso Complicado**: Navegación nocturna por el Barrio Gótico
+- 📅 **Planificación**: Definición de objetivos y mentores para el grupo
+
+**Duración**: ~2.5 horas | **Palabras**: ~17,500 | **Páginas**: ~44
+
 ---
 
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 12 sesiones completas
-- **Período Cubierto**: Junio-Agosto 2025 (3 meses intensivos)
-- **Palabras Totales**: ~249,800 palabras transcritas
-- **Páginas Equivalentes**: ~637 páginas de contenido
-- **Horas de Audio**: ~41.5 horas de partidas registradas
+- **Total de Transcripciones**: 13 sesiones completas
+- **Período Cubierto**: Junio-Septiembre 2025 (4 meses intensivos)
+- **Palabras Totales**: ~267,300 palabras transcritas
+- **Páginas Equivalentes**: ~681 páginas de contenido
+- **Horas de Audio**: ~44 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**
 - **Junio 2025**: Primeras transcripciones, calibración inicial
 - **Julio 2025**: Mejora en reconocimiento de nombres propios
 - **Agosto 2025**: Transcripción casi perfecta con contexto completo
+- **Septiembre 2025**: Continuidad de calidad con escenas complejas del Barrio Gótico
 
 ### 🎭 **Cobertura Narrativa**
 - **Diálogos de Personajes**: 100% capturados con interpretación

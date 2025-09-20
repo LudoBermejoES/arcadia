@@ -47,6 +47,8 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 - [La Fuerza Oculta Session 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md)
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
+- [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
 
 ## Cosas a Hacer (Agosto 2025)
 

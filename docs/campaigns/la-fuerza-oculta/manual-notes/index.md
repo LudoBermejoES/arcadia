@@ -181,19 +181,41 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Encuentro con Abismo de los 7 Abominables
   - Alianza temporal con antiguos enemigos
 
+- **[Sesión 30 - 30 Agosto 2025](session-30-2024-08-30.md)** - *"Repercusiones y Búsqueda de Mentores"*
+  - Repercusiones mediáticas del ataque de monos dorados
+  - Trauma de Sentencia por disparar a menores
+  - Búsqueda de entrenamiento telepático avanzado
+  - Contacto con Espectro para armamento no letal
+
+#### **Septiembre 2025 - Encuentros con el Pasado**
+- **[Sesión 32 - 14 Septiembre 2025](session-32-2024-09-14.md)** - *"El Barbero y la Tentación del Poder"*
+  - Visita nocturna al Barrio Gótico
+  - Encuentro con Espectro en teatro abandonado
+  - Equipamiento no letal para Sentencia
+  - Descubrimiento de Mentallo, el psíquico más poderoso
+  - Rechazo de Psique a la jeringuilla del poder
+
+- **[Sesión 33 - 15 Septiembre 2025](session-33-2024-09-15.md)** - *"Los Últimos Testigos del Heroísmo"*
+  - Arsenal completo proporcionado por Espectro
+  - Navegación sobrenatural del Barrio Gótico
+  - Encuentro con La Samaritana, guía misteriosa
+  - Barbería de supervivientes veteranos
+  - Revelación de las 11 islas de Arcadia
+  - Mentallo reafirma su oferta de poder a Psique
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 30 sesiones documentadas
-- **Período Cubierto**: Marzo 2024 - Agosto 2025 (17 meses)
-- **Páginas Estimadas**: ~450 páginas de notas detalladas
-- **Horas de Juego**: ~90 horas registradas
+- **Total de Sesiones**: 32 sesiones documentadas
+- **Período Cubierto**: Marzo 2024 - Septiembre 2025 (18 meses)
+- **Páginas Estimadas**: ~480 páginas de notas detalladas
+- **Horas de Juego**: ~96 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (57% del total)
-- **Fase Héroes Independientes (2025)**: 13 sesiones (43% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (53% del total)
+- **Fase Héroes Independientes (2025)**: 15 sesiones (47% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

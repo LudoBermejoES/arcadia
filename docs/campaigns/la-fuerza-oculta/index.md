@@ -102,7 +102,9 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: División del equipo, infiltración en cúpula energética, derrota de Les Enfant Terribles, aparición de monos dorados
 - **[24 Agosto](manual-notes/session-29-2024-08-24.md)**: Combate épico contra gorilas dorados, aparición de Emperatriz de Jade y Abismo de los 7 Abominables, alianza temporal inesperada
 - **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas del ataque, trauma de Sentencia, búsqueda de mentores, contacto con Espectro, revelación sobre Sofía Nakamura y el PD
-- **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Equipamiento no letal con Espectro, encuentro con entidades misteriosas en Barrio Gótico, descubrimiento de Mentallo y la jeringuilla del poder
+- **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Crisis financiera, análisis mediático, primera visita al teatro abandonado de Espectro
+- **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Equipamiento no letal con Espectro, encuentro con Mentallo, rechazo de Psique a la jeringuilla del poder, planificación de mentores
+- **[15 Septiembre](manual-notes/session-33-2024-09-15.md)**: Arsenal completo de Espectro, encuentro con últimos supervivientes heroicos, revelación de las 11 islas de Arcadia, Mentallo reafirma tentación del poder
 
 ---
 
@@ -162,7 +164,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">30</span>
+<span class="stat-number">32</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

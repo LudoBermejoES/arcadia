@@ -357,32 +357,32 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 - **Mentoria Práctica**: Lecciones de veterano sobre consecuencias
 - **Evolución**: De justiciera letal a heroína con opciones
 
-#### [📈 Análisis 15/09/2025 - Los Últimos Testigos del Heroísmo](2025-09-15-session-33-notes.md)
-**"El Encuentro con la Historia Viva"**
+#### [📈 Análisis 15/09/2025 - La Primera Cita](2025-09-15-session-33-notes.md)
+**"El Heroísmo Personal y la Vulnerabilidad Romántica"**
 
 **🎯 Temas Centrales Identificados:**
-- **Equipamiento Completo**: Arsenal especializado proporcionado por Espectro
-- **Supervivientes Veteranos**: Encuentro con últimos testigos de múltiples generaciones heroicas
-- **Geografía Expandida**: Revelación de las 11 islas de Arcadia
-- **Tentación Persistente**: Mentallo reafirma su oferta de poder a Psique
+- **Vulnerabilidad vs. Poder**: El poder metahumano no protege de la vulnerabilidad emocional
+- **Normalidad en lo Extraordinario**: Búsqueda de experiencias normales en contexto de fugitivos
+- **Maduración Acelerada**: Romance adolescente intensificado por presión pública
+- **Intimidad Como Resistencia**: Privacidad genuina como acto de resistencia
 
-**🏚️ La Barbería de los Supervivientes:**
-- **Últimos Testigos**: Veteranos del IRA, barbero ruso, crítico negro y Mentallo
-- **Desechos del Pasado**: "Los últimos supervivientes de varios grupos"
-- **Sabiduría Tóxica**: Comentarios arcaicos sobre nueva generación
-- **Historia Viviente**: Conexión directa con décadas de heroísmo no documentado
+**💕 La Cita Romántica:**
+- **MetaFresh Salads**: Primera cita oficial cerca de Almacenes Hevi
+- **Declaración Mutua**: Confesión de sentimientos entre Hotman y Justa/Sentencia
+- **Combate Coordinado**: Defensa contra acosador del restaurante y compinches
+- **Primera Noche**: Consumación de relación en hotel del centro
 
-**🔫 Arsenal Ético Completado:**
-- **Sentencia**: Balas de silicona para combate no letal
-- **Hotman**: Chaqueta protectora de motorista
-- **Psique**: Táser, spray de pimienta y granadas aturdidoras
-- **Kayface**: Porra expandible
+**🎭 Dinámicas de Pareja:**
+- **Hotman**: De influencer inseguro a joven en relación comprometida
+- **Justa/Sentencia**: Directa e iniciativa romántica, subversión de roles de género
+- **Sincronización**: Coordinación instintiva en combate sin comunicación
+- **Vulnerabilidad**: Exposición emocional pese a capacidades de combate
 
-**👻 Elementos Sobrenaturales del Gótico:**
-- **La Samaritana**: Guía con ojos estelares y sombras múltiples
-- **El Matador**: Vigilante torero que desaparece ante reconocimiento
-- **Geografía Viviente**: Calles que cambian, tecnología que muere
-- **Registro Analógico**: Solo las Polaroids funcionan en espacios sobrenaturales
+**👥 Reacción del Equipo:**
+- **Eslizón**: Discreción reptiliana ocultando reacciones
+- **Diana**: Pregunta directa representando franqueza generacional
+- **Equipo**: Nueva dinámica grupal con pareja oficial establecida
+- **Precedente**: Potencial para exploración romántica de otros miembros
 
 ---
 

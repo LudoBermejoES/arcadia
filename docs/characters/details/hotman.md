@@ -82,20 +82,7 @@ Tras la sesión del 15 de septiembre de 2025, Hotman tiene varias tareas y desar
 - **Mejoras de traje**: Coordinar con **Charada** para posibles modificaciones (primera pieza gratuita)
 - **Equipamiento de grabación**: Material profesional para documentar actividades heroicas
 
-### **🦸‍♂️ Encuentros con Veteranos y Figuras Públicas (15/09/2025)**
-- **Contacto con el Cacharrero**: Planificación de "imágenes gigantes" para llamar su atención usando ilusiones de Kayface de 8 metros de diámetro
-- **El Matador**: Reconoció y gritó como fan al vigilante torero del Barrio Gótico, quien inmediatamente desapareció en las sombras
-- **Comentarios veteranos**: Los supervivientes de la barbería hicieron comentarios homofóbicos ("va a acabar de la acera de enfrente")
-- **El Irlandés del IRA**: Veterano le dice "Podría ser tu abuelo" e interactúa dándole una petaca
-- **Documentación histórica**: Intentó fotografiar encuentros únicos pero falló debido a las propiedades sobrenaturales del Barrio Gótico
-- **Fotografía analógica**: Espectro le proporciona Polaroid como único método funcional de registro en espacios sobrenaturales
-
-### **🎬 Contenido de Agradecimiento Planificado**
-- **Video de reconocimiento**: Propuesta de crear contenido agradeciendo públicamente a mentores que han proporcionado equipamiento
-- **Limitaciones de documentación**: Espectro específicamente prohíbe mostrar la guarida del teatro abandonado
-- **Registro histórico**: La Polaroid con Espectro se convierte en documento único e irrepetible
-
-### **💕 Relación con Sentencia (15/09/2025) - DESARROLLO CRÍTICO**
+### **💕 Relación con Sentencia (15/09/2024) - DESARROLLO CRÍTICO**
 - **✅ OFICIALMENTE EN PAREJA**: Primera cita romántica en MetaFresh Salads que culminó en relación oficial
 - **Nervios extremos**: "Casi prefería enfrentarse a un gorila dorado con un tenedor que cenar allí con Justa"
 - **Declaración de Justa**: "si quieres que nos acostemos ya puedes empezar a controlar tus poderes"

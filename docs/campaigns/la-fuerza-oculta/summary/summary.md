@@ -731,49 +731,43 @@ La sesión del 14 de septiembre marca un momento definitorio en el desarrollo mo
 
 Esta sesión representa el momento donde La Fuerza Oculta elige conscientemente el camino difícil del desarrollo gradual sobre el atajo del poder instantáneo, estableciendo que el verdadero heroísmo no radica en el poder que se posee, sino en la sabiduría para saber cuándo no adquirirlo.
 
-### Sesión 33: Los Últimos Testigos del Heroísmo (15 septiembre 2025)
+### Sesión 33: La Primera Cita (15 septiembre 2024)
 
-**El encuentro con la historia viviente:**
+**El heroísmo más personal:**
 
-La sesión del 15 de septiembre profundiza en el encuentro con los **últimos supervivientes de múltiples generaciones heroicas**, donde La Fuerza Oculta recibe su equipamiento completo de Espectro y se adentra en los misterios sobrenaturales del Barrio Gótico para encontrarse con veteranos que representan décadas de historia heroica no documentada.
+La sesión del 15 de septiembre marca un hito emocional único al centrarse exclusivamente en **el desarrollo romántico entre Hotman y Justa/Sentencia**. Esta sesión íntima explora la vulnerabilidad de dos jóvenes héroes navegando sus primeros sentimientos románticos mientras mantienen su identidad como fugitivos de la justicia.
 
-**Equipamiento profesional completado:**
-- **Sentencia**: Cargadores de balas de silicona que "no matarán a nadie, a no ser que le des en un ojo"
-- **Hotman**: Chaqueta de motorista protectora ("prefiere feo a muerto")
-- **Psique**: Táser, spray de pimienta y cinturón con granadas aturdidoras
-- **Kayface**: Porra expandible
-- **Filosofía táctica**: "Tienes que aprender a moverte y a pegar" - no depender solo de poderes
+**La cita en MetaFresh Salads:**
+- **Precariedad urbana**: Hotman abandona su chaqueta amarilla para pasar desapercibido
+- **Imposibilidad de anonimato**: Justa no puede evitar llamar la atención pese a disfraces
+- **Tensión constante**: Vigilancia policial y reconocimiento público como amenaza permanente
+- **Reserva bajo falso nombre**: Hotman usa "Sr. Pérez", uno de sus apellidos reales
 
-**Geografía expandida de Arcadia:**
-- **Revelación crucial**: Arcadia tiene 11 islas totales, 10 habitadas
-- **Sistema de transporte**: Comunicadas por túneles y puentes, maglevs y helicópteros para clase alta
-- **Realidad económica**: El grupo usa puentes por limitaciones financieras
+**El momento de verdad romántica:**
+- **Declaración directa de Justa**: "Si quieres que nos acostemos ya puedes empezar a controlarlos"
+- **Shock emocional de Hotman**: "Sus temores y esperanzas colisionaron como todos los trenes de la isla"
+- **Subversión de género**: Justa toma la iniciativa romántica sin ambigüedad
+- **Integración de poderes**: Los poderes térmicos como metáfora de excitación emocional
 
-**La Samaritana como psychopomp:**
-- **Guía sobrenatural**: Anciana de 56 años con talismanes religiosos múltiples
-- **Ojos estelares**: Transformación visual al intentar lectura telepática
-- **Sombras independientes**: "Saluda, hace cosas que no debería hacer una sombra"
-- **Conocimiento territorial**: "Hoy sí es posible que os ayude"
+**El ataque de venganza:**
+- **Interrupción violenta**: El acosador del restaurante regresa con cinco compinches armados
+- **Coordinación instintiva**: Hotman sobrecalienta balas mientras Justa ejecuta desarmes precisos
+- **Furia protectora**: "No había derecho a que le estropeasen aquello" - primera agresividad genuina de Hotman
+- **Violencia compartida**: El combate como catalizador de intimidad profunda
 
-**La barbería de los últimos supervivientes:**
-- **El Irlandés del IRA**: "Podría ser tu abuelo" - veterano de conflictos pre-metahumanos
-- **El Barbero Ruso**: Dedos demasiado largos, cuchilla demasiado afilada
-- **El Hombre Negro**: Crítico directo: "Estás un poco verde, te falta algo de muerte"
-- **Comentarios arcaicos**: "Todo mujeres y solo un chico, Hotman va a acabar de la acera de enfrente"
+**La consumación:**
+- **Hotel del centro**: Primera noche juntos como pareja oficial
+- **Ritual de cuidado**: Hotman besando las manos magulladas de Justa tras la pelea
+- **Vulnerabilidad mutua**: "No le importó volver a abrirse la herida unas cuantas veces más"
+- **Transformación visual**: Justa "iluminada por la luz de la calle" como imagen poética
 
-**Mentallo reafirma la tentación:**
-- **Historia repetida**: "Esta droga trajo mi perdición pero estoy seguro que la vas a tomar, como hizo Mésmero"
-- **Jeringuilla personalizada**: Usa pelos de Psique para crear droga específica
-- **Filosofía central**: "No buscas un mentor, buscas poder"
-- **Reflexión incompleta**: "Tal vez él esté equivocado: se hizo rico y poderoso y terminó..."
+**Reacción del equipo:**
+- **Nueva normalidad**: Regreso a la guarida con dinámica grupal alterada
+- **Pregunta directa de Diana**: "¿follasteis o no?" - franqueza generacional característica
+- **Hotman visible avergonzado**: Mantiene timidez fundamental pese a cruzar umbral romántico
+- **Eslizón discreto**: Su naturaleza reptiliana le permite ocultar mejor las reacciones
 
-**Elementos sobrenaturales del Gótico:**
-- **El Matador**: Vigilante torero que desaparece ante reconocimiento de Hotman
-- **Tecnología muerta**: Internet y GPS no funcionan en el distrito
-- **Fotografía analógica**: Solo las Polaroids capturan momentos en espacios sobrenaturales
-- **Geografía viviente**: Calles que cambian, necesidad de guías locales
-
-Esta sesión establece a La Fuerza Oculta como herederos conscientes de múltiples generaciones heroicas, equipados profesionalmente pero enfrentando la tentación persistente del poder fácil, mientras navegan un espacio sobrenatural que preserva la memoria viva de décadas de heroísmo.
+Esta sesión demuestra que el verdadero heroísmo a veces consiste en permitirse ser vulnerable con otra persona, estableciendo que en un universo de superpoderes, los momentos más heroicos pueden ser los más humanos.
 
 ---
 
@@ -929,7 +923,7 @@ Esta sesión establece a La Fuerza Oculta como herederos conscientes de múltipl
 **Septiembre:**
 - 08/09: Encuentro con veteranos en el Barrio Gótico, primera oferta de poder de Mentallo
 - 14/09: Equipamiento no letal con Espectro, rechazo definitivo de la jeringuilla del poder, planificación de mentores
-- 15/09: Arsenal completo de Espectro, encuentro con últimos supervivientes heroicos, Mentallo reafirma tentación del poder
+- 15/09: Primera cita romántica entre Hotman y Justa/Sentencia, declaración mutua, primera noche juntos como pareja oficial
 
 ---
 

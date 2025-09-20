@@ -195,13 +195,13 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Descubrimiento de Mentallo, el psíquico más poderoso
   - Rechazo de Psique a la jeringuilla del poder
 
-- **[Sesión 33 - 15 Septiembre 2025](session-33-2024-09-15.md)** - *"Los Últimos Testigos del Heroísmo"*
-  - Arsenal completo proporcionado por Espectro
-  - Navegación sobrenatural del Barrio Gótico
-  - Encuentro con La Samaritana, guía misteriosa
-  - Barbería de supervivientes veteranos
-  - Revelación de las 11 islas de Arcadia
-  - Mentallo reafirma su oferta de poder a Psique
+- **[Sesión 33 - 15 Septiembre 2024](session-33-2024-09-15.md)** - *"La Primera Cita"*
+  - Sesión íntima solo con Hotman y Justa/Sentencia
+  - Primera cita romántica en MetaFresh Salads
+  - Declaración mutua de sentimientos y primer beso
+  - Ataque de venganza del acosador del restaurante
+  - Primera noche juntos como pareja oficial
+  - Reacción del equipo al regreso a la guarida
 
 ---
 

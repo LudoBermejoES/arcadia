@@ -194,17 +194,15 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 ---
 
 #### [📝 Sesión 15 de Septiembre](../manual-notes/session-33-2024-09-15.md)
-**"Los Últimos Testigos del Heroísmo"**
-- 🔫 **Arsenal Completo**: Equipamiento especializado proporcionado por Espectro
-- 🏝️ **Geografía Expandida**: Revelación de las 11 islas de Arcadia conectadas
-- 👻 **La Samaritana**: Guía misteriosa con ojos estelares y sombras múltiples
-- 🏚️ **Barbería de Veteranos**: Encuentro con supervivientes de múltiples generaciones heroicas
-- 🧙‍♂️ **Tentación Persistente**: Mentallo reafirma su oferta de poder a Psique
-- 📸 **Registro Analógico**: Solo las Polaroids funcionan en espacios sobrenaturales
-- 🦅 **El Matador**: Vigilante torero que desaparece ante reconocimiento
-- 💊 **Historia Repetida**: "Esta droga trajo mi perdición pero estás seguro que la vas a tomar"
+**"La Primera Cita"**
+- 💕 **Sesión Íntima**: Solo Hotman y Justa/Sentencia como protagonistas
+- 🍽️ **Cita Romántica**: Primera cita oficial en MetaFresh Salads
+- 💋 **Declaración Mutua**: Confesión de sentimientos y primer beso
+- ⚔️ **Combate Coordinado**: Defensa contra acosador del restaurante
+- 🏨 **Primera Noche**: Consumación de relación como pareja oficial
+- 👥 **Reacción Grupal**: Nueva dinámica en el equipo con pareja establecida
 
-**Temas Clave**: Historia viviente, supervivencia veterana, geografía sobrenatural, tentación del poder persistente
+**Temas Clave**: Vulnerabilidad romántica, intimidad vs. fama, maduración emocional, heroísmo personal
 
 ---
 

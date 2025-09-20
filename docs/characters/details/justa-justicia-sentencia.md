@@ -52,9 +52,9 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 
 ## Cosas a Hacer (Septiembre 2025)
 
-Tras la sesión del 15 de septiembre de 2025, Sentencia tiene varias tareas y desarrollos pendientes:
+Tras la sesión del 15 de septiembre de 2024, Sentencia tiene varias tareas y desarrollos pendientes:
 
-### **⚔️ Desarrollo Táctico y Militar (Actualizado 15/09/2025)**
+### **⚔️ Desarrollo Táctico y Militar (Actualizado 15/09/2024)**
 - **✅ COMPLETADO - Armamento no letal**: Recibido cargadores de balas de silicona de Espectro que "no matarán a nadie, a no ser que le des en un ojo"
 - **✅ COMPLETADO - Contacto con Espectro**: Establecida relación de mentoria con veterano experimentado
 - **Entrenamiento con munición no letal**: Adaptar técnicas de tiro para nueva munición que requiere acción completa para cambiar cargadores
@@ -83,18 +83,12 @@ Tras la sesión del 15 de septiembre de 2025, Sentencia tiene varias tareas y de
 - **Especialización en combate**: Mantener rol como experta en armas del grupo
 - **Entrenamiento grupal**: Liderar preparación física y táctica del equipo
 
-### **👴 Encuentro con Veteranos (15/09/2025)**
-- **Barbería de supervivientes**: Encuentro con últimos testigos de múltiples generaciones heroicas en el Barrio Gótico
-- **Crítica veterana**: El hombre negro le dice que "está un poco verde, te falta algo de muerte"
-- **Reconocimiento de profesionalidad**: Los veteranos la reconocen como guerrera potencial pero inexperta
-- **Humildad ante la experiencia**: No abusa de la generosidad de Espectro, dice "no podemos abusar" cuando Hotman pide más equipamiento
-- **Respeto generacional**: Muestra deferencia hacia veteranos pese a sus comentarios arcaicos
 
-### **💕 Relación con Hotman (15/09/2025) - DESARROLLO CRÍTICO**
+### **💕 Relación con Hotman (15/09/2024) - DESARROLLO CRÍTICO**
 - **✅ OFICIALMENTE EN PAREJA**: Tras cena romántica en MetaFresh Salads, Justa y Hotman consumaron su relación
-- **Cita disfrazados**: Intentaron pasar desapercibidos en el centro comercial cerca de Almacenes Hêvî
+- **Cita disfrazados**: Intentaron pasar desapercibidos en el centro cerca de Almacenes Hêvî para ir a MetaFresh Salads
 - **Iniciativa de Justa**: Ella tomó la iniciativa: "si quieres que nos acostemos ya puedes empezar a controlar tus poderes"
-- **Combate juntos**: Defendieron su relación contra matones que los asaltaron (Justa uso munición letal)
+- **Combate coordinado**: Defendieron su relación contra el acosador del restaurante y sus amigos (Hotman sobrecalentó balas, Justa ejecutó desarmes precisos)
 - **Noche en hotel**: Primera noche juntos como pareja oficial
 - **Reconocimiento público**: Al día siguiente el resto del grupo confirmó el cambio de estado ("¿follasteis o no?" - Diana)
 - **Dinámica de pareja**: Justa protectora y directa, Hotman completamente enamorado y algo abrumado

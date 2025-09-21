@@ -1,0 +1,24 @@
+---
+layout: character
+title: Granito
+permalink: /characters/details/granito/
+slug: granito
+---
+
+# Granito
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Granito.png" alt="Granito" />
+</div>
+
+## Presentación
+Granito es una figura reconocida en el sector de cine y entretenimiento de Arcadia. Su nombre artístico distintivo sugiere una presencia poderosa y memorable en la industria del espectáculo de la ciudad.
+
+## Rol y Actividades
+Como parte del mundo del "Cine y Entretenimiento", Granito ha establecido una presencia significativa en el panorama cultural de Arcadia. Su inclusión en los registros oficiales indica que su trabajo ha tenido un impacto notable en la industria del entretenimiento local.
+
+## Apariciones Documentadas
+Granito figura en los archivos culturales de Arcadia, registrado específicamente dentro de la categoría de figuras destacadas del cine y entretenimiento.
+
+## Detalles Adicionales
+El nombre artístico "Granito" sugiere una personalidad fuerte y carismática que ha resonado con el público arcadiano. Su documentación en los registros oficiales refleja su estatus como una figura influyente en el entretenimiento, cuyo trabajo ha contribuido al panorama cultural y popular de la ciudad.

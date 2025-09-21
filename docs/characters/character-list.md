@@ -124,7 +124,7 @@ permalink: /characters/character-list/
 - [Jane Irinar]({{ site.baseurl }}/characters/details/jane-irinar/)
 - [Joaquín Navarro-Okafor]({{ site.baseurl }}/characters/details/joaquin-navarro-okafor/) (Actor y activista afro-colombiano)
 - [Mikhail Petrosyan]({{ site.baseurl }}/characters/details/mikhail-petrosyan/) (Actor teatral armenio)
-- [The Rock]({{ site.baseurl }}/characters/details/the-rock/)
+- [Granito]({{ site.baseurl }}/characters/details/granito/)
 
 ### Modelaje y Moda
 - [Aleksandr "Sasha" Romanov-Idris]({{ site.baseurl }}/characters/details/aleksandr-romanov-idris/) (Modelo controversial checheno-ruso)

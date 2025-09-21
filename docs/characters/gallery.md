@@ -330,7 +330,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'joaquin-navarro-okafor', name: 'Joaquín Navarro-Okafor', image: 'joaquin-navarro-okafor.png' },
       { slug: 'mikhail-petrosyan', name: 'Mikhail Petrosyan', image: 'mikhail-petrosyan.png' },
       { slug: 'ramon-beguell', name: 'Ramón Beguell', image: 'Ramon_Beguell.png' },
-      { slug: 'the-rock', name: 'The Rock', image: 'The Rock.png' }
+      { slug: 'granito', name: 'Granito', image: 'Granito.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
 
     modelos: [

@@ -482,4 +482,4 @@ Los metahumanos han roto barreras en los conciertos clásicos: músicos capaces 
 Tras acontecimientos bochornosos en los años ochenta, se prohibieron los deportistas metahumanos en las competiciones oficiales. Sin embargo, se rumora que existen recintos donde compiten alcanzando apuestas muy altas.
 
 ### En el Cine
-Algunas estrellas provienen de la casta metahumana. **Jane Irinar** destaca por su capacidad para rejuvenecer o envejecer su rostro. **The Rock** es el primer metahumano alterado que ha llegado a la gran pantalla, interpretando al último villano de James Bond.
+Algunas estrellas provienen de la casta metahumana. **Jane Irinar** destaca por su capacidad para rejuvenecer o envejecer su rostro. **Granito** es el primer metahumano alterado que ha llegado a la gran pantalla, interpretando al último villano de James Bond.

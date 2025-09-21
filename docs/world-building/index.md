@@ -209,7 +209,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 - **🎵 Música Sobrenatural**: Sonidos créables solo con habilidades especiales
 - **🏟️ Deportes Meta**: Competiciones que trascienden límites humanos
 - **📺 Medios Especializados**: RTA y programas como "Héroes o Villanos"
-- **🎬 ArcadiaWood**: Industria cinematográfica con figuras como Jane Irinar y The Rock
+- **🎬 ArcadiaWood**: Industria cinematográfica con figuras como Jane Irinar y Granito
 - **🎪 Cabaret Metahumano**: Espectáculos que combinan arte tradicional con poderes reales
 
 #### **🖼️ Arte Visual Meta**

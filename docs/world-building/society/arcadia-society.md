@@ -53,7 +53,7 @@ Paralelamente, figuras como **Trifásico**, el streamer con más seguidores del 
 Arcadia ha desarrollado una **escena artística única** que combina creatividad tradicional con elementos metahumanos, creando formas de expresión completamente nuevas:
 
 #### **Industria Cinematográfica: "ArcadiaWood"**
-La industria del cine local, conocida como **"ArcadiaWood"**, cuenta con figuras prominentes como **Jane Irinar** y **The Rock**, que han establecido a Arcadia como un centro de producción cinematográfica distintivo. La proximidad de eventos extraordinarios y la presencia de metahumanos ha generado un género cinematográfico único que mezcla realidad y ficción de manera innovadora.
+La industria del cine local, conocida como **"ArcadiaWood"**, cuenta con figuras prominentes como **Jane Irinar** y **Granito**, que han establecido a Arcadia como un centro de producción cinematográfica distintivo. La proximidad de eventos extraordinarios y la presencia de metahumanos ha generado un género cinematográfico único que mezcla realidad y ficción de manera innovadora.
 
 #### **Artes Visuales Revolucionarias**
 El panorama artístico está dominado por innovadores como **Ramón Beguell**, creador de la revolucionaria **"Pintura de Alma"** - una técnica única donde utiliza posibles habilidades metahumanas para **exponer la representación del alma** de sus sujetos. Sus obras se venden a **precios desorbitados** en el mercado del arte exclusivo, estableciendo un nuevo género artístico que trasciende la representación física tradicional.

@@ -188,14 +188,28 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+### 🎓 **Septiembre 2025 - Entrenamiento y Consecuencias**
+
+#### [📼 2025-09-21 - El Entrenamiento de Psique y el Secreto de Sentencia](2025-09-21-gemini-notes.md)
+**"Prótesis y Redención"**
+- 🧠 **Entrenamiento Mental**: Primera sesión brutal de Psique con Mésmero
+- 🏪 **Vida en el Barrio Gótico**: Peculiaridades del distrito viviente
+- 🎉 **Invitación de Élite**: Eneiros invita a La Fuerza Oculta a su fiesta exclusiva
+- 🏥 **Misión Secreta**: Sentencia infiltrada entrega prótesis a Les Enfant heridos
+- 🚐 **La Furgoneta Misteriosa**: Música imposible de apagar y comportamientos extraños
+
+**Duración**: ~2.5 horas | **Palabras**: ~15,000 | **Páginas**: ~38
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 13 sesiones completas
+- **Total de Transcripciones**: 14 sesiones completas
 - **Período Cubierto**: Junio-Septiembre 2025 (4 meses intensivos)
-- **Palabras Totales**: ~267,300 palabras transcritas
-- **Páginas Equivalentes**: ~681 páginas de contenido
-- **Horas de Audio**: ~44 horas de partidas registradas
+- **Palabras Totales**: ~282,300 palabras transcritas
+- **Páginas Equivalentes**: ~719 páginas de contenido
+- **Horas de Audio**: ~46.5 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**

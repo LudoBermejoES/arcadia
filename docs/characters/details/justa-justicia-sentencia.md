@@ -12,10 +12,12 @@ slug: justa-justicia-sentencia
 </div>
 
 ## Presentación
-Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Tras una experiencia traumática en los juzgados que expuso la corrupción del sistema judicial, ha evolucionado hacia una nueva identidad como "Sentencia", dedicándose a servir una justicia universal que trasciende las leyes manipuladas. Comparte habitación con Psique durante el entrenamiento en la mansión y desde septiembre de 2025 mantiene una relación romántica oficial con [Hotman]({{ site.baseurl }}/characters/details/hotman/). Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
+Justa McKomick, también conocida como Justicia o Sentencia, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Edu. Se caracteriza por su disciplina militar, sus habilidades con armas de fuego, y su dedicación al entrenamiento físico. Tras una experiencia traumática en los juzgados que expuso la corrupción del sistema judicial, ha evolucionado hacia una nueva identidad como "Sentencia", dedicándose a servir una justicia universal que trasciende las leyes manipuladas. Comparte habitación con Psique durante el entrenamiento en la mansión. Es sobrina de [Roberto McKomick]({{ site.baseurl }}/characters/details/roberto-mckomick/), quien custodia los arsenales familiares tras la muerte de su padre Anselmo durante el ataque de MetaCorps a La Familia.
 
 ## Rol y Actividades
 Justa actúa como la especialista en combate armado y líder táctica del grupo "La Fuerza Oculta". Su papel incluye el manejo de armas de fuego, liderazgo en entrenamientos físicos, y coordinación de operaciones de combate. Fue seleccionada para participar en el programa "Héroes o Villanos".
+
+Desde septiembre de 2025, mantiene una rutina intensa de 8 horas diarias de entrenamiento: 4 horas como monitora de ejercicio en el gimnasio de Comadreja (disfrazada con peluca negra y maquillaje para evitar reconocimiento) y 3 horas de entrenamiento brutal con el propio Comadreja, quien no se contiene y la deja llena de moratones que no puede regenerar como él.
 
 ## Poderes y Habilidades
 - **Liderazgo táctico**: Coordina ataques múltiples y evalúa capacidades del equipo
@@ -48,7 +50,8 @@ Justa actúa como la especialista en combate armado y líder táctica del grupo 
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
-- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-15.md)
+- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
+- [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
 
 ## Cosas a Hacer (Septiembre 2025)
 
@@ -578,3 +581,77 @@ El enfrentamiento con los gorilas dorados demuestra el **pico absoluto** de comp
 - **Desarrollo de doctrina**: Sus métodos pueden convertirse en plantilla para futuros especialistas heroicos en armas de fuego
 
 Esta sesión confirma la **culminación absoluta** de la evolución de Justa/Justicia/Sentencia, quien ha alcanzado el **equilibrio perfecto** entre competencia técnica letal y responsabilidad moral, estableciendo un nuevo paradigma para el heroísmo armado que combina eliminación eficiente de amenazas con protección compasiva de vulnerables, creando un modelo replicable de justicia aplicada que trasciende las limitaciones de sistemas legales corruptos.
+
+---
+
+## Redención Secreta: La Misión de las Prótesis (21 Septiembre 2025)
+
+### El Peso de la Culpa Transformado en Acción
+
+La sesión del 21 de septiembre revela un aspecto profundamente humano de Sentencia: su búsqueda activa de redención por el daño causado a Les Enfant Terribles.
+
+#### **Comportamiento Errático Previo**
+- **Señales de estrés**: Vista hablando con paredes y examinando "moscas de cacharrina"
+- **Confesión parcial**: Admite estar nerviosa por "los chavales a los que hirió"
+- **Ocultamiento**: Intenta mantener sus preocupaciones ocultas del equipo
+- **Rutina extenuante**: 8 horas diarias de entrenamiento como escape emocional
+
+#### **La Misión Secreta**
+
+**Primera Parada - Cine Espectro**:
+- Entra al antiguo cine donde el grupo había conocido a Espectro
+- Sale en menos de 5 minutos con una **bolsa negra alargada**
+- Claramente prótesis avanzadas proporcionadas por el veterano
+
+**Infiltración Hospitalaria**:
+- Se disfraza con peluca negra y maquillaje elaborado
+- **Acto desesperado**: Noquea a una enfermera y le roba el uniforme (que le queda pequeño)
+- Esconde a la enfermera en el jardín, minimizando el daño
+- Navega caóticamente por el hospital, abriendo puertas y disculpándose
+
+**La Entrega**:
+Al encontrar finalmente la habitación con uno de los jóvenes heridos y sus familiares, actúa con profesionalismo fingido:
+> "Han llegado las nuevas prótesis. Me han dicho que las deje por aquí. Si quieres puedes ir probándotelas. Bueno, les dejo que tengo mucho lío."
+
+#### **Significado de la Acción**
+
+**Responsabilidad Personal**:
+- No busca absolución ni reconocimiento
+- Actúa completamente en secreto, sin que el equipo lo sepa inicialmente
+- Asume riesgos legales adicionales al infiltrar un hospital vigilado por MetaCorp
+
+**Compasión Activa**:
+- Proporciona tecnología avanzada que mejorará significativamente la calidad de vida de los heridos
+- Reconoce que su violencia tuvo consecuencias permanentes en jóvenes manipulados
+- Transforma la culpa en acción constructiva
+
+**Evolución del Concepto de Justicia**:
+- La justicia no es solo castigo, sino también reparación cuando es posible
+- Sentencia no solo aplica sentencias, también busca mitigar el daño causado
+- Demuestra que la dureza en combate puede coexistir con compasión posterior
+
+### **La Persecución del Equipo**
+
+El hecho de que el equipo la siguiera revela:
+- **Preocupación genuina**: Sus compañeros notan su comportamiento extraño y se preocupan
+- **Trabajo en equipo**: Psique usa sus poderes para rastrearla telepáticamente
+- **Smück como aliado**: El taxista fan de Hotman ayuda en la persecución
+- **Comprensión eventual**: Al descubrir su misión, el equipo comprende la nobleza de sus intenciones
+
+### **Relación con Hotman Durante la Crisis**
+
+Durante este período de estrés:
+- Hotman nota su comportamiento extraño pero respeta su espacio
+- La graba para su contenido pero la protege cuando ella pone límites (ducha)
+- Su preocupación durante la persecución muestra el desarrollo de su relación
+- La comprensión mutua se profundiza a través de estas pruebas
+
+### **Implicaciones para el Futuro**
+
+Esta acción secreta establece:
+- **Precedente de reparación**: Sentencia buscará activamente compensar daños colaterales
+- **Red de apoyo expandida**: Espectro como proveedor de recursos para misiones humanitarias
+- **Complejidad moral**: El heroísmo incluye tanto la prevención del mal como la reparación del daño
+- **Humanización del personaje**: Detrás de la dureza táctica hay una consciencia moral profunda
+
+Esta misión secreta representa la **síntesis perfecta** de la evolución de Sentencia: mantiene su efectividad letal cuando es necesaria, pero también asume responsabilidad activa por las consecuencias de sus acciones, demostrando que la verdadera justicia incluye tanto el castigo del mal como la reparación del daño causado en su prevención.

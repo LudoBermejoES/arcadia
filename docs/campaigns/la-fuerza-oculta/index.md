@@ -104,7 +104,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas del ataque, trauma de Sentencia, búsqueda de mentores, contacto con Espectro, revelación sobre Sofía Nakamura y el PD
 - **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Crisis financiera, análisis mediático, primera visita al teatro abandonado de Espectro
 - **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Equipamiento no letal con Espectro, encuentro con Mentallo, rechazo de Psique a la jeringuilla del poder, planificación de mentores
-- **[15 Septiembre](manual-notes/session-33-2024-09-15.md)**: Sesión íntima solo con Hotman y Justa/Sentencia, primera cita romántica en MetaFresh Salads, declaración mutua de sentimientos, primera noche juntos como pareja oficial
+- **[21 Septiembre](manual-notes/session-33-2024-09-23.md)**: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, infiltración hospitalaria de Sentencia, entrega secreta de prótesis a Les Enfant heridos
 
 ---
 
@@ -164,7 +164,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">32</span>
+<span class="stat-number">33</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

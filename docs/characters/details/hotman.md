@@ -46,7 +46,8 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
-- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-15.md)
+- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
+- [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
 
 ## Cosas a Hacer (Septiembre 2025)
 
@@ -466,3 +467,114 @@ Esta situación revela que **Hotman ha evolucionado de miembro más joven e impu
 Su canal se ha transformado de entretenimiento juvenil a **platform de comunicación heroica auténtica**, estableciendo nuevo estándar para cómo los influencers metahumanos pueden usar sus platforms para servir propósitos más grandes que la fama personal.
 
 Esta colaboración marca el punto donde **Hotman completa su transformación de entertainter a communicator responsable**, y donde su relación con Sentencia trasciende romance adolescente para convertirse en **partnership profesional que define nuevos standards para el heroísmo moderno**.
+
+---
+
+## La Invitación de Elite y el Apoyo Durante Crisis (21 Septiembre 2025)
+
+### **Confirmación de la Invitación de Eneiros**
+
+La sesión del 21 de septiembre marca un momento crucial en el desarrollo social de Hotman cuando confirma oficialmente la asistencia de La Fuerza Oculta a la fiesta exclusiva de **Eneiros**.
+
+#### **Gestión de Eventos de Elite**
+- **Coordinador**: **Heinrich von Staffen Morales** como representante de Eneiros
+- **Ubicación**: Muelles del **Distrito Mercury** - zona exclusiva de Arcadia
+- **Plazo**: 5 días para preparación y coordinación del equipo
+- **Significado social**: Acceso a círculos de metahumanos de alta sociedad
+
+#### **Preocupación por la Imagen Personal**
+- **Problema de vestimenta**: Su chaqueta amarilla característica tiene agujeros de balas
+- **Propuesta de Eneiros**: Ofrece proporcionarle un traje nuevo para el evento
+- **Filosofía personal**: "Quiero hacer de mis agujeros una nueva tendencia de moda"
+- **Resistencia al cambio**: Prefiere mantener su identidad visual autêntica con cicatrices
+
+### **Creación de Contenido y Límites Personales**
+
+#### **Documentación de la Vida Doméstica**
+Durante su rutina de creación de contenido:
+- **Grabaciones constantes**: Documenta el día a día del grupo para sus redes
+- **Focus en compañeros**: Graba a Sentencia haciendo tareas domésticas
+- **Límites establecidos**: Intenta grabar a Sentencia yendo a la ducha
+- **Intervención necesaria**: Sentencia le quita el móvil, enfadada por invasión de privacidad
+
+#### **Aprendizaje de Boundaries**
+- **Respeto por privacidad**: Aprende a respetar límites personales de su pareja
+- **Balance contenido-relación**: Comprende que no todo momento debe ser documentado
+- **Sensibilidad desarrollada**: Reconoce cuándo la cámara es inapropiada
+- **Madurez en la relación**: Acepta correcciones sin conflicto mayor
+
+### **Desarrollo de Empresa de Verificación**
+
+#### **Colaboración con Kayface**
+- **Proyecto conjunto**: Kayface desarrolla empresa de verificación de seguridad
+- **Apoyo logístico**: Hotman proporciona plataforma y contactos para promoción
+- **Networking**: Su base de fans puede convertirse en clientes potenciales
+- **Diversificación**: Expansion de actividades más allá del entretenimiento
+
+### **Acompañamiento Durante el Entrenamiento de Psique**
+
+#### **Apoyo al Equipo en el Barrio Gótico**
+Durante el viaje para el entrenamiento de Psique con Mésmero:
+- **Solidaridad grupal**: Acompaña a Psique para su primera sesión brutal
+- **Humor como alivio**: Se sirve ron bueno de Mésmero, proporcionando distracción
+- **Experiencia del distrito**: Vivencia las peculiaridades del Barrio Gótico (música inexplicable)
+- **Comprensión del sacrificio**: Presencia el sufrimiento necesario para desarrollo telepático
+
+#### **Fenómeno Musical en la Furgoneta**
+- **Música imposible**: Experimenta canciones que suenan por todo el vehículo sin origen claro
+- **Progresión musical**: De "Dame veneno que quiero morir" a Los Chunguitos y Rosalía
+- **Adaptación pragmática**: Acepta las anomalías del Barrio Gótico como normales
+- **Documentación potencial**: Posible contenido unique para su canal
+
+### **Monitoreo Discreto de Sentencia**
+
+#### **Sensibilidad a Comportamientos Extraños**
+Durante el período previo a la misión secreta de Sentencia:
+- **Observación cuidadosa**: Nota su comportamiento errático y conversaciones con paredes
+- **Respeto por espacio**: No la presiona directamente sobre sus preocupaciones
+- **Grabaciones limitadas**: Mantiene documentación sin invadir momentos privados
+- **Apoyo silencioso**: Ofrece presencia sin interrogatorios
+
+#### **Durante la Persecución Secreta**
+- **Preocupación genuina**: Participa en seguimiento cuando Sentencia huye misteriosamente
+- **Coordinación con Smück**: Su fan-taxista ayuda en la persecución
+- **Comprensión eventual**: Al descubrir la misión de prótesis, comprende la nobleza de intenciones
+- **Sin explotación**: No convierte el momento en contenido para redes
+
+### **Evolución de la Relación con Sentencia**
+
+#### **Maduración del Romance**
+- **De adolescente a compañero**: Evoluciona más allá de atracción inicial
+- **Apoyo en crisis**: Proporciona estabilidad durante momentos de estrés de ella
+- **Comprensión sin preguntas**: Acepta que ella necesita espacio para procesos personales
+- **Respeto por secretos**: No exige explicaciones cuando ella actúa de forma misteriosa
+
+#### **Partnership en Crecimiento**
+- **Complemento técnico**: Sus habilidades de producción apoyan sus necesidades de comunicación
+- **Apoyo emocional**: Disponible sin condiciones durante sus momentos difíciles
+- **Crecimiento mutuo**: Ambos maduran a través de su relación
+- **Profesionalismo conjunto**: Trabajan juntos en proyectos importantes para el equipo
+
+### **Red de Apoyo Expandida**
+
+#### **Smück como Aliado Personal**
+- **Fan convertido en apoyo**: Nacho Smück trasciende simple admiración
+- **Recursos logísticos**: Proporciona transporte y asistencia en misiones
+- **Conexión personal**: Desarrolla relación más allá de parasocial
+- **Responsabilidad por seguidores**: Comprende que sus fans pueden tomar riesgos por ayudar
+
+### **Implicaciones para el Futuro del Personaje**
+
+#### **Desarrollo Social y Profesional**
+- **Acceso a elite**: La invitación de Eneiros abre puertas a círculos exclusivos
+- **Responsabilidad aumentada**: Debe gestionar influencia creciente responsablemente
+- **Balance personal-profesional**: Aprende límites entre contenido y vida privada
+- **Red de apoyo consolidada**: Desarrolla vínculos personales y profesionales sólidos
+
+#### **Crecimiento Emocional y Relacional**
+- **Madurez romántica**: Evoluciona hacia partnership real con Sentencia
+- **Sensibilidad social**: Comprende impacto de sus acciones en otros
+- **Apoyo incondicional**: Demuestra capacidad de estar presente sin agenda personal
+- **Respeto por autonomía**: Acepta que sus compañeros necesitan espacio para crecimiento personal
+
+Esta sesión confirma que Hotman ha completado su transformación de **influencer adolescente a professional maduro**, capaz de equilibrar ambiciones personales con apoyo genuino a sus compañeros, estableciendo una base sólida para futuros desarrollos tanto románticos como profesionales, mientras mantiene su autenticidad y humor característicos.

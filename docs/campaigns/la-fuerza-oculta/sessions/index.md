@@ -193,16 +193,17 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 15 de Septiembre](../manual-notes/session-33-2024-09-15.md)
-**"La Primera Cita"**
-- 💕 **Sesión Íntima**: Solo Hotman y Justa/Sentencia como protagonistas
-- 🍽️ **Cita Romántica**: Primera cita oficial en MetaFresh Salads
-- 💋 **Declaración Mutua**: Confesión de sentimientos y primer beso
-- ⚔️ **Combate Coordinado**: Defensa contra acosador del restaurante
-- 🏨 **Primera Noche**: Consumación de relación como pareja oficial
-- 👥 **Reacción Grupal**: Nueva dinámica en el equipo con pareja establecida
+#### [📝 Sesión 21 de Septiembre](../manual-notes/session-33-2024-09-23.md)
+**"El Entrenamiento de Psique y el Secreto de Sentencia"**
+- 🎉 **Invitación Elite**: Eneiros invita a La Fuerza Oculta a su fiesta exclusiva
+- 🧠 **Entrenamiento Mental**: Primera sesión brutal de Psique con Mésmero
+- 🏪 **Barrio Gótico**: Experiencia con el distrito viviente y sus peculiaridades
+- 🕵️‍♀️ **Comportamiento Extraño**: Sentencia muestra señales erráticas y habla con paredes
+- 🚐 **Persecución Secreta**: El grupo sigue a Sentencia sin su conocimiento
+- 🏥 **Infiltración Hospitalaria**: Sentencia se disfraza de enfermera en Hospital General
+- 🦾 **Redención Secreta**: Entrega de prótesis avanzadas a Les Enfant heridos
 
-**Temas Clave**: Vulnerabilidad romántica, intimidad vs. fama, maduración emocional, heroísmo personal
+**Temas Clave**: Culpa y redención, sacrificio por entrenamiento, secretos nobles, responsabilidad heroica
 
 ---
 
@@ -231,6 +232,7 @@ Transcripciones automáticas con análisis:
 - **[2025-08-30-gemini-notes](../ai-notes/2025-08-30-gemini-notes.md)**
 - **[2025-09-08-gemini-notes](../ai-notes/2025-09-08-gemini-notes.md)**
 - **[2025-09-14-gemini-notes](../ai-notes/2025-09-14-gemini-notes.md)**
+- **[2025-09-21-gemini-notes](../ai-notes/2025-09-21-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -247,7 +249,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 30/08](../ai-notes-summary/2025-08-30-gemini-notes.md)** - Repercusiones y búsqueda de mentores
 - **[Resumen 08/09](../ai-notes-summary/2025-09-08-gemini-notes.md)** - Encuentro con el pasado en el Barrio Gótico
 - **[Resumen 14/09](../ai-notes-summary/2025-09-14-gemini-notes.md)** - Tentación del poder y sabiduría veterana
-- **[Resumen 15/09](../ai-notes-summary/2025-09-15-session-33-notes.md)** - Los últimos testigos del heroísmo
+- **[Resumen 21/09](../ai-notes-summary/session-33-summary.md)** - Entrenamiento y redención secreta
 
 ---
 

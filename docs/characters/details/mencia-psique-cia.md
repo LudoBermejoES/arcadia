@@ -49,6 +49,8 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
+- [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
+- [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -316,3 +318,79 @@ Esta sesión confirma la **transformación completa** de Psique en el **nexo emo
 Después del enfrentamiento con los gorilas dorados y la Emperatriz de Jade en el centro comercial, Psique y Diana mantienen una conversación privada en una estación de metro vacía. Psique actúa como apoyo emocional y mental para Diana, quien revela su lucha interna con la parte más oscura de sí misma y el peso de su herencia genética. Psique reafirma que la genética no define a Diana y le ofrece su apoyo incondicional, consolidando su vínculo romántico y terapéutico. Esta escena representa un avance clave en la relación y el desarrollo emocional de ambas.
 
 - [Ver conversación completa](../pensamientos/Psique_y_Diana.md)
+
+---
+
+## Entrenamiento Brutal con Mésmero (21 Septiembre 2025)
+
+### Primera Sesión de Desarrollo Telepático Avanzado
+
+La sesión del 21 de septiembre marca el inicio formal del entrenamiento de Psique con Mésmero, el telépata veterano más poderoso de Arcadia.
+
+#### **El Viaje al Barrio Gótico**
+- **Acompañamiento grupal**: Todo el equipo la acompaña en apoyo para su primera sesión
+- **Fenómeno musical inexplicable**: La furgoneta vibra con música imposible de apagar
+- **Dolor de cabeza**: Las vibraciones musicales constantes afectan su sensibilidad telepática
+- **40 minutos de trayecto**: Tiempo considerable para preparación mental
+
+#### **Características del Entrenamiento**
+- **Casa de Mésmero**: Antiguo parque de bomberos remodelado con gusto industrial
+- **Método de entrenamiento**: "Clon" mental de Mésmero ataca constantemente su mente
+- **Estilo japonés brutal**: "A hostias" - resistencia a través del dolor constante
+- **Duración**: Sesión de una hora que se siente como tortura mental continua
+- **Descripción de Psique**: "Como ser un saco de boxeo mental"
+
+#### **Consecuencias Físicas**
+- **Hemorragia nasal**: Pequeño sangrado post-sesión indicando esfuerzo extremo
+- **Agotamiento mental**: Necesita cenar inmediatamente al regresar para recuperar energías
+- **Confusión temporal**: Mésmero los teletransporta de vuelta sin transición consciente
+
+#### **Filosofía del Entrenamiento**
+Mésmero implementa un enfoque de:
+- **Resistencia a través del sufrimiento**: Fortalecimiento mental mediante ataques constantes
+- **Defensa antes que ataque**: Aprender a proteger la mente propia antes de invadir otras
+- **Sin atajos**: El desarrollo telepático genuino requiere dolor y perseverancia
+- **Disponibilidad total**: Mésmero ofrece entrenamiento a cualquier hora según necesidad
+
+### **Progreso Esperado**
+- **Sesiones diarias**: 2 horas recomendadas por Mésmero
+- **Desarrollo gradual**: Fortificación mental progresiva a través de resistencia
+- **Aplicación práctica**: Las defensas mentales mejoradas permitirán ataques más poderosos
+- **Gestión de fatiga**: Aprender límites personales para evitar colapsos en combate
+
+### **Apoyo del Equipo Durante el Proceso**
+- **Hotman**: Se sirve ron bueno de Mésmero, proporciona distracción humorística
+- **Justa/Sentencia**: Se niega a comer precocinados, mantiene disciplina incluso esperando
+- **Diana**: Preocupación silenciosa por el sufrimiento de su pareja
+- **Grupo completo**: Demostración de solidaridad al acompañarla
+
+### **Impacto en Dinámicas del Equipo**
+- **Vulnerabilidad compartida**: El equipo presencia su sufrimiento y límites
+- **Respeto incrementado**: Comprenden el precio del desarrollo telepático
+- **Protocolos futuros**: Establecimiento de rutinas para apoyar entrenamiento continuo
+- **Comprensión del Barrio Gótico**: Experiencia directa con las peculiaridades del distrito
+
+### **Relación con la Tentación de Mentallo**
+Este entrenamiento brutal con Mésmero contrasta con:
+- **Camino difícil vs fácil**: Mésmero ofrece desarrollo gradual doloroso vs jeringuilla instantánea
+- **Precio conocido vs desconocido**: Sufrimiento controlado vs consecuencias misteriosas
+- **Mentor confiable vs desconocido**: Mésmero es aliado probado, Mentallo es variable incierta
+- **Humanidad preservada vs arriesgada**: Entrenamiento mantiene identidad, droga puede destruirla
+
+### **Desarrollo de Identidad como Althea Argos**
+El entrenamiento fortalece su identidad profesional alternativa:
+- **Mayor control mental**: Mejores defensas para proteger secretos de pacientes
+- **Resistencia psíquica**: Capacidad de manejar traumas más intensos de pacientes
+- **Separación de identidades**: Fortificación mental ayuda a compartimentalizar roles
+- **Credibilidad profesional**: Experiencia personal con sufrimiento mental aumenta empatía
+
+Esta primera sesión establece que Psique está dispuesta a pagar el **precio real del poder**: dolor, perseverancia y dedicación diaria, en lugar de buscar atajos peligrosos. Su determinación de continuar pese al sufrimiento demuestra madurez y compromiso con el desarrollo genuino de sus habilidades telepáticas.
+
+### **Uso Táctico de Poderes Durante la Persecución de Sentencia**
+Durante la persecución secreta de Sentencia:
+- **Rastreo telepático**: Localiza la mente de Sentencia "a lo lejos" mientras huye
+- **Coordinación con Smück**: Guía al conductor hacia la ubicación mental detectada
+- **Mantenimiento de distancia**: Evita contacto mental directo para no alertar a Sentencia
+- **Apoyo silencioso**: Comprende la necesidad de Sentencia de actuar sola pero mantiene vigilancia
+
+Esta sesión muestra el equilibrio entre el desarrollo brutal necesario para el crecimiento telepático y el uso compasivo de esos poderes para proteger y apoyar a sus compañeros, incluso cuando buscan redención en secreto.

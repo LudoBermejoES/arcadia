@@ -731,43 +731,52 @@ La sesión del 14 de septiembre marca un momento definitorio en el desarrollo mo
 
 Esta sesión representa el momento donde La Fuerza Oculta elige conscientemente el camino difícil del desarrollo gradual sobre el atajo del poder instantáneo, estableciendo que el verdadero heroísmo no radica en el poder que se posee, sino en la sabiduría para saber cuándo no adquirirlo.
 
-### Sesión 33: La Primera Cita (15 septiembre 2024)
+### Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia (21 septiembre 2025)
 
-**El heroísmo más personal:**
+**Redención a través del sacrificio:**
 
-La sesión del 15 de septiembre marca un hito emocional único al centrarse exclusivamente en **el desarrollo romántico entre Hotman y Justa/Sentencia**. Esta sesión íntima explora la vulnerabilidad de dos jóvenes héroes navegando sus primeros sentimientos románticos mientras mantienen su identidad como fugitivos de la justicia.
+La sesión del 21 de septiembre revela las profundidades ocultas del heroísmo al mostrar tanto el entrenamiento brutal necesario para dominar poderes telepáticos como la búsqueda secreta de redención de Sentencia por sus acciones pasadas.
 
-**La cita en MetaFresh Salads:**
-- **Precariedad urbana**: Hotman abandona su chaqueta amarilla para pasar desapercibido
-- **Imposibilidad de anonimato**: Justa no puede evitar llamar la atención pese a disfraces
-- **Tensión constante**: Vigilancia policial y reconocimiento público como amenaza permanente
-- **Reserva bajo falso nombre**: Hotman usa "Sr. Pérez", uno de sus apellidos reales
+**La invitación de Eneiros:**
+- **Evento de élite**: Invitación exclusiva para La Fuerza Oculta a la fiesta de Eneiros
+- **Heinrich von Staffen Morales**: Coordinador del evento en muelles del Distrito Mercury
+- **Código de vestimenta heroico**: Debate sobre trajes y presentación pública
+- **Agujeros como tendencia**: Hotman intenta convertir el daño de bala en declaración de moda
 
-**El momento de verdad romántica:**
-- **Declaración directa de Justa**: "Si quieres que nos acostemos ya puedes empezar a controlarlos"
-- **Shock emocional de Hotman**: "Sus temores y esperanzas colisionaron como todos los trenes de la isla"
-- **Subversión de género**: Justa toma la iniciativa romántica sin ambigüedad
-- **Integración de poderes**: Los poderes térmicos como metáfora de excitación emocional
+**El entrenamiento con Mésmero:**
+- **Viaje al Barrio Gótico**: 40 minutos con música inexplicable vibrando por toda la furgoneta
+- **Distrito viviente**: Propiedades mágicas, clima tormentoso perpetuo, absorción de edificios
+- **Sesión mental brutal**: El "clon" de Mésmero ataca constantemente la mente de Psique
+- **Entrenamiento japonés**: "A hostias" - resistencia a través del dolor constante
+- **Hemorragia nasal**: Consecuencia física del agotamiento telepático
+- **Teletransportación instantánea**: Mésmero devuelve al grupo sin transición consciente
 
-**El ataque de venganza:**
-- **Interrupción violenta**: El acosador del restaurante regresa con cinco compinches armados
-- **Coordinación instintiva**: Hotman sobrecalienta balas mientras Justa ejecuta desarmes precisos
-- **Furia protectora**: "No había derecho a que le estropeasen aquello" - primera agresividad genuina de Hotman
-- **Violencia compartida**: El combate como catalizador de intimidad profunda
+**La rutina secreta de Sentencia:**
+- **8 horas diarias**: 4 horas como monitora + 3 horas de entrenamiento con Comadreja
+- **Disfraces elaborados**: Peluca negra y maquillaje para evitar reconocimiento
+- **Moratones acumulados**: Sin regeneración como Comadreja, el dolor se acumula
+- **Comportamiento errático**: Habla con paredes, examina "moscas de cacharrina"
+- **Confesión parcial**: Admite nerviosismo por múltiples presiones personales
 
-**La consumación:**
-- **Hotel del centro**: Primera noche juntos como pareja oficial
-- **Ritual de cuidado**: Hotman besando las manos magulladas de Justa tras la pelea
-- **Vulnerabilidad mutua**: "No le importó volver a abrirse la herida unas cuantas veces más"
-- **Transformación visual**: Justa "iluminada por la luz de la calle" como imagen poética
+**La persecución secreta:**
+- **Salida precipitada**: Sentencia toma la furgoneta sin explicación
+- **Rastreo telepático**: Psique localiza su mente mientras Smück conduce la persecución
+- **Primera parada**: Cine Espectro - sale con bolsa negra alargada misteriosa
+- **Destino final**: Hospital General de Arcadia, vigilado por MetaCorp
 
-**Reacción del equipo:**
-- **Nueva normalidad**: Regreso a la guarida con dinámica grupal alterada
-- **Pregunta directa de Diana**: "¿follasteis o no?" - franqueza generacional característica
-- **Hotman visible avergonzado**: Mantiene timidez fundamental pese a cruzar umbral romántico
-- **Eslizón discreto**: Su naturaleza reptiliana le permite ocultar mejor las reacciones
+**La infiltración hospitalaria:**
+- **Sin nombres de pacientes**: Sentencia no puede localizar a Les Enfant heridos directamente
+- **Asalto a enfermera**: Noquea y roba uniforme (demasiado pequeño para su talla)
+- **Navegación caótica**: Abre puertas al azar disculpándose constantemente
+- **Entrega de prótesis**: "Han llegado las nuevas prótesis. Si quieres puedes ir probándotelas"
+- **Redención silenciosa**: Compensación secreta por el daño causado a menores
 
-Esta sesión demuestra que el verdadero heroísmo a veces consiste en permitirse ser vulnerable con otra persona, estableciendo que en un universo de superpoderes, los momentos más heroicos pueden ser los más humanos.
+**Los nuevos emprendimientos:**
+- **Kayface**: Desarrolla empresa de verificación de seguridad para negocios
+- **Hotman**: Crea contenido para redes, grabando la vida doméstica del grupo
+- **Conflicto de privacidad**: Justa le quita el móvil al intentar grabarla yendo a la ducha
+
+Esta sesión demuestra que el verdadero heroísmo a veces requiere tanto el sacrificio público del entrenamiento brutal como la redención privada por acciones pasadas, estableciendo que las consecuencias de la violencia, incluso justificada, deben ser enfrentadas con responsabilidad personal.
 
 ---
 
@@ -923,7 +932,7 @@ Esta sesión demuestra que el verdadero heroísmo a veces consiste en permitirse
 **Septiembre:**
 - 08/09: Encuentro con veteranos en el Barrio Gótico, primera oferta de poder de Mentallo
 - 14/09: Equipamiento no letal con Espectro, rechazo definitivo de la jeringuilla del poder, planificación de mentores
-- 15/09: Primera cita romántica entre Hotman y Justa/Sentencia, declaración mutua, primera noche juntos como pareja oficial
+- 21/09: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, Sentencia entrega prótesis secretamente a Les Enfant heridos
 
 ---
 

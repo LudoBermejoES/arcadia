@@ -195,23 +195,23 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Descubrimiento de Mentallo, el psíquico más poderoso
   - Rechazo de Psique a la jeringuilla del poder
 
-- **[Sesión 33 - 15 Septiembre 2024](session-33-2024-09-15.md)** - *"La Primera Cita"*
-  - Sesión íntima solo con Hotman y Justa/Sentencia
-  - Primera cita romántica en MetaFresh Salads
-  - Declaración mutua de sentimientos y primer beso
-  - Ataque de venganza del acosador del restaurante
-  - Primera noche juntos como pareja oficial
-  - Reacción del equipo al regreso a la guarida
+- **[Sesión 33 - 23 Septiembre 2024](session-33-2024-09-23.md)** - *"El Entrenamiento de Psique y el Secreto de Sentencia"*
+  - Invitación a la fiesta exclusiva de Eneiros
+  - Primera sesión brutal de entrenamiento de Psique con Mésmero
+  - Comportamiento extraño de Sentencia, hablando con paredes
+  - Persecución secreta del grupo siguiendo a Sentencia
+  - Infiltración en el Hospital General de Arcadia
+  - Entrega de prótesis avanzadas a Les Enfant heridos
 
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 32 sesiones documentadas
+- **Total de Sesiones**: 33 sesiones documentadas
 - **Período Cubierto**: Marzo 2024 - Septiembre 2025 (18 meses)
-- **Páginas Estimadas**: ~480 páginas de notas detalladas
-- **Horas de Juego**: ~96 horas registradas
+- **Páginas Estimadas**: ~495 páginas de notas detalladas
+- **Horas de Juego**: ~99 horas registradas
 
 ### 📅 **Distribución Temporal**
 - **Fase Reality Show (2024)**: 17 sesiones (53% del total)

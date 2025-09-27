@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>196 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>204 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -402,20 +402,28 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'amara-quebe', name: 'Amara Quebé', image: 'amara-quebe.png' },
       { slug: 'anianca', name: 'Anianca', image: 'anianca.png' },
       { slug: 'carmen-delgado', name: 'Carmen Delgado', image: 'carmen-delgado.png' },
+      { slug: 'carmen-okafor-petersen', name: 'Carmen Okafor-Petersen', image: 'carmen-okafor-petersen.png' },
       { slug: 'dani-rodriguez', name: 'Dani Rodriguez', image: 'dani-rodriguez.png' },
+      { slug: 'dmitri-volkov-santiago', name: 'Dmitri Volkov-Santiago', image: 'dmitri-volkov-santiago.png' },
       { slug: 'eduardo-vaquerizo', name: 'Eduardo Vaquerizo', image: 'eduardo-vaquerizo.png' },
       { slug: 'elena-fuentes', name: 'Elena Fuentes', image: 'elena-fuentes.png' },
+      { slug: 'esperanza-valdez-kominski', name: 'Esperanza Valdez-Kominski', image: 'esperanza-valdez-kominski.png' },
       { slug: 'gregor', name: 'Gregor', image: 'gregor.png' },
       { slug: 'hassan-oleg', name: 'Hassan Oleg', image: 'Hassan_Oleg.png' },
       { slug: 'hassir', name: 'Hassir', image: 'hassir.png' },
+      { slug: 'heinrich-von-staufen-morales', name: 'Heinrich Von Staufen-Morales', image: 'heinrich-von-staufen-morales.png' },
       { slug: 'ignacio-fuentes', name: 'Ignacio Fuentes', image: 'ignacio-fuentes.png' },
+      { slug: 'isabella-rosetti-nakamura', name: 'Isabella Rosetti-Nakamura', image: 'isabella-rosetti-nakamura.png' },
       { slug: 'leila-nasiri', name: 'Leila Nasiri', image: 'leila-nasiri.png' },
       { slug: 'marcial-gomez', name: 'Marcial Gomez', image: 'marcial-gomez.png' },
+      { slug: 'margot-chen-beaumont', name: 'Margot Chen-Beaumont', image: 'margot-chen-beaumont.png' },
       { slug: 'marta-gutierrez', name: 'Marta Gutierrez', image: 'marta-gutierrez.png' },
       { slug: 'marta-heredia', name: 'Marta Heredia', image: 'marta-heredia.png' },
       { slug: 'nacho-smuck', name: 'Nacho Smück', image: 'nacho-smuck.png' },
       { slug: 'nasrin-ahmadi', name: 'Nasrin Ahmadi', image: 'nasrin-ahmadi.png' },
       { slug: 'natacha', name: 'Natacha', image: 'natacha.png' },
+      { slug: 'raphael-dubois-yamamoto', name: 'Raphael Dubois-Yamamoto', image: 'raphael-dubois-yamamoto.png' },
+      { slug: 'sebastian-torres-andersen', name: 'Sebastian Torres-Andersen', image: 'sebastian-torres-andersen.png' },
       { slug: 'senora-pepa', name: 'Señora Pepa', image: 'senora-pepa.png' },
       // Pacientes de Althea Argos (Psique)
       { slug: 'adrian-belmont-vasquez', name: 'Adrian Belmont-Vasquez', image: 'adrian-belmont-vasquez.png' },

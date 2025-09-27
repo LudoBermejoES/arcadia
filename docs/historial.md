@@ -12,6 +12,27 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Septiembre 2025**
 
+### **21 de Septiembre de 2025**
+
+#### **🎭 Expansión Cultural: Élite de Arcadiwood**
+- **16 nuevos personajes de la industria del entretenimiento**:
+  - **6 actores de Arcadiwood**: Elena Volkov-Mendez, Fatima Al-Rashid, Chen Wei-Romano, Mikhail Petrosyan, Joaquín Navarro-Okafor, David Park-Kowalski
+  - **10 modelos internacionales**: Yasmin Al-Cortés, Katarina Vuković-Reyes, Nadiya Kovalenko-Nguyen, Amara Okonkwo-García, Leila Habibi-Park, Diego Marković-Santana, Malik Hassan-Petrov, Takeshi Yamamoto-Delgado, Arjun Patel-Kosov, Aleksandr Romanov-Idris
+  - **Nueva categoría "Modelos"** añadida a la galería de personajes
+  - **Diversidad cultural**: Refugiados e inmigrantes que representan la riqueza multicultural de Arcadia
+
+#### **🍽️ Personal de Servicio de Eneiros**
+- **8 camareros veteranos de la mansión de Eneiros**:
+  - **4 camareras**: Esperanza Valdez-Kominski (71 años, 45 años de servicio), Margot Chen-Beaumont (68 años, 42 años de servicio), Isabella Rosetti-Nakamura (63 años, 35 años de servicio), Carmen Okafor-Petersen (56 años, 28 años de servicio)
+  - **4 camareros**: Heinrich Von Staufen-Morales (74 años, 48 años de servicio), Dmitri Volkov-Santiago (69 años, 41 años de servicio), Raphael Dubois-Yamamoto (66 años, 38 años de servicio), Sebastian Torres-Andersen (58 años, 32 años de servicio)
+  - **Lealtad inquebrantable**: Cada personaje con historia personal de gratitud hacia Eneiros
+  - **Especialización única**: Desde mayordomo hasta sumiller, chef ejecutiva y coordinador de transporte
+
+#### **📊 Actualización de Estadísticas**
+- **Total de personajes**: Incremento de 173 a 204 personajes únicos documentados
+- **Actualización de contadores** en index.md, gallery.md y archivos principales
+- **Nueva documentación**: Archivo camareros.md con perfiles completos del personal de servicio
+
 ### **14 de Septiembre de 2025**
 
 #### **🎮 Sesión 31: Mentores y Decisiones en el Barrio Gótico**

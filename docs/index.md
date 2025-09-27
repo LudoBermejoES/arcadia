@@ -78,7 +78,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-## 👥 **173 Personajes Únicos Documentados**
+## 👥 **204 Personajes Únicos Documentados**
 
 ### **🦸‍♂️ Los Héroes Legendarios**
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
@@ -110,7 +110,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">173</span>
+<span class="stat-number">204</span>
 <span class="stat-label">Personajes Únicos</span>
 </div>
 
@@ -180,7 +180,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **🦸‍♂️ [Personajes]({{ site.baseurl }}/characters/)**
 
-Descubre las biografías completas de 173 personajes únicos, desde los héroes legendarios hasta los villanos más temidos.
+Descubre las biografías completas de 204 personajes únicos, desde los héroes legendarios hasta los villanos más temidos, incluyendo la élite cultural de Arcadiwood y el personal de servicio de las mansiones más exclusivas.
 
 ### **📚 [Campañas]({{ site.baseurl }}/campaigns/)**
 
@@ -225,6 +225,6 @@ Cada página que explores, cada personaje que conozcas, cada historia que leas, 
 
 ---
 
-*Última actualización: 25 de agosto de 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
+*Última actualización: 21 de septiembre de 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
 
 **[🔍 Buscar Contenido]({{ site.baseurl }}/search/) | [📖 Historial de Cambios]({{ site.baseurl }}/historial/) | [📊 Estadísticas Completas]({{ site.baseurl }}/stats/)**

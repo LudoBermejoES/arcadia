@@ -8,7 +8,7 @@ slug: oido
 # Oído
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Oído.png" alt="Oído" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Oido.png" alt="Oído" />
 </div>
 
 ## Información Básica

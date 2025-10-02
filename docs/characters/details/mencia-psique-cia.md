@@ -389,8 +389,157 @@ Esta primera sesión establece que Psique está dispuesta a pagar el **precio re
 ### **Uso Táctico de Poderes Durante la Persecución de Sentencia**
 Durante la persecución secreta de Sentencia:
 - **Rastreo telepático**: Localiza la mente de Sentencia "a lo lejos" mientras huye
-- **Coordinación con Smück**: Guía al conductor hacia la ubicación mental detectada
+- **Coordinación con [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)**: Guía al conductor hacia la ubicación mental detectada
 - **Mantenimiento de distancia**: Evita contacto mental directo para no alertar a Sentencia
 - **Apoyo silencioso**: Comprende la necesidad de Sentencia de actuar sola pero mantiene vigilancia
 
 Esta sesión muestra el equilibrio entre el desarrollo brutal necesario para el crecimiento telepático y el uso compasivo de esos poderes para proteger y apoyar a sus compañeros, incluso cuando buscan redención en secreto.
+
+---
+
+## Coordinación Táctica y Actuación Teatral (28 Septiembre 2025)
+
+### La Red Mental Durante la Crisis Hospitalaria
+
+La misión hospitalaria de Sentencia demuestra la evolución de Psique como coordinadora telepática del equipo:
+
+#### **Gestión de Red Mental Selectiva**
+- **Exclusión táctica**: Activa enlace mental entre todos MENOS Justa para no alertarla
+- **Sensibilidad preparada**: Se mantiene atenta a alteraciones mentales de Justa para conectarla si necesario
+- **Información en tiempo real**: Transmite ubicaciones y acciones a todos los miembros
+- **Coordinación sin contacto**: Permite al equipo trabajar junto sin comunicación visible
+
+#### **Detección y Alerta Temprana**
+- **Monitoreo pasivo**: Detecta cuando Justa es identificada por enfermera
+- **Advertencia inmediata**: Informa al grupo por red mental: "Justa ha sido detectada"
+- **Activación de protocolos**: El equipo sabe instantáneamente cuándo actuar
+- **Sincronización perfecta**: Todos se mueven simultáneamente para facilitar escape
+
+### **Actuación Magistral: El Ataque de Partofobia**
+
+#### **Improvisación Teatral Perfecta**
+Durante la fuga, Psique ejecuta una actuación brillante:
+
+> "¡Socorro, soy partofóbica, no puedo verlo, no puedo verlo!"
+
+**Elementos de la Actuación**:
+- **Timing perfecto**: Actúa justo cuando Kayface crea ilusión de embarazada terminal
+- **Credibilidad absoluta**: Finge ataque de nervios tan convincente que paraliza al Metacorp
+- **Agarre físico**: Se cuelga del Metacorp, haciéndolo perder completamente su acción
+- **Distracción total**: El guardia queda tan sorprendido que no puede reaccionar
+
+#### **Análisis Táctico de la Actuación**
+- **Uso de conocimiento psicológico**: Aplica comprensión de fobias para hacer creíble el pánico
+- **Bloqueo no violento**: Neutraliza amenaza sin usar poderes telepáticos detectables
+- **Coordinación implícita**: Sincroniza perfectamente con ilusión de Kayface sin comunicación previa
+- **Profesionalismo bajo presión**: Mantiene actuación pese a caos circundante
+
+### **Mediación Post-Crisis en la Base**
+
+#### **Voz de la Comunicación**
+Durante la confrontación del equipo con Justa:
+
+- **Énfasis en trabajo en equipo**: Instila la importancia de comunicación dentro del grupo
+- **Perspectiva empática**: Comprende tanto la culpa de Justa como la preocupación del equipo
+- **Facilitación del diálogo**: Ayuda al grupo a expresar frustraciones constructivamente
+- **Mensaje clave**: "Todos somos un equipo, si a uno le pasa algo, el resto irá con esa persona"
+
+#### **Gestión de Tensiones Grupales**
+- **Balance emocional**: Evita que la discusión escale a conflicto más serio
+- **Validación de sentimientos**: Reconoce legitimidad de las preocupaciones de ambos lados
+- **Propuesta de desahogo**: Sugiere salir a relajarse después de la tensión
+- **Unidad grupal**: Refuerza identidad como familia elegida que se apoya mutuamente
+
+### **Propuesta de Normalización Emocional**
+
+#### **Iniciativa de Descompresión**
+Tras la confrontación tensa, Psique propone:
+
+> "Vamos a tomarnos un helado para rebajar un poco los nervios, y luego una hamburguesa, y luego cada uno que se líe con su pareja"
+
+**Elementos de la Propuesta**:
+- **Actividad normal**: Reconoce necesidad de momentos no heroicos
+- **Progresión gradual**: Helado → hamburguesa → intimidad (de menos a más personal)
+- **Inclusión social**: Propuesta grupal antes que individual
+
+#### **Corrección y Sensibilidad Social**
+- **Metedura de pata**: Menciona "liarse con su pareja" olvidando que Esme y Kay no tienen
+- **Disculpa inmediata**: Se disculpa con Eslizón y Kayface por comentario insensible
+- **Torpeza humana**: Muestra que pese a ser telépata, comete errores sociales normales
+- **Vulnerabilidad**: Demuestra imperfección que la hace más cercana al equipo
+
+### **Restaurante del Martis: Coordinación Social**
+
+#### **Gestión Logística**
+- **Pedidos para Esme**: Ordena hamburguesa triple de carne cruda para el reptiliano
+- **Batidos proteicos**: Organiza bebidas para mantener nutrición del equipo
+- **Pizzas variadas**: Asegura opciones para todos los gustos
+- **Atención a necesidades**: Cuida que cada miembro tenga lo apropiado
+
+#### **Vigilancia Táctica Durante Encuentro**
+Cuando Mambo y Zambo entran ruidosamente:
+- **Alerta silenciosa**: Mantiene al equipo conectado telepáticamente para reacción rápida
+- **Evaluación de amenaza**: Analiza si los excontend
+
+ientes representan peligro
+- **Preparación defensiva**: Lista para coordinar respuesta si la situación escala
+- **Decisión madura**: Concuerda con evitar conflicto innecesario
+
+### **Desarrollo del Personaje**
+
+#### **Evolución como Coordinadora**
+- **Red mental selectiva**: Dominio de quién incluir/excluir según necesidad táctica
+- **Actuación y poderes**: Combina habilidades telepáticas con teatro convincente
+- **Gestión emocional grupal**: Media conflictos y propone soluciones de desahogo
+- **Sensibilidad social**: Reconoce y corrige errores sociales propios
+
+#### **Patrones de Comportamiento Revelados**
+- **Liderazgo emocional**: Se posiciona como la que cuida salud mental del equipo
+- **Torpeza social ocasional**: Pese a telepatía, comete errores de comunicación verbal
+- **Pragmatismo táctico**: Usa poderes y actuación según lo que funcione mejor
+- **Propensión a normalización**: Busca constantemente momentos de vida no heroica
+
+### **Estado Actual (28 Septiembre 2025)**
+
+**Capacidades Telepáticas**:
+- Red mental selectiva con control preciso de participantes
+- Monitoreo pasivo sin intrusión detectable
+- Coordinación instantánea de equipo completo
+- Balance entre uso de poderes y métodos convencionales
+
+**Rol en el Equipo**:
+- Coordinadora táctica durante operaciones
+- Mediadora de conflictos internos
+- Organizadora de actividades de descompresión
+- Guardiana de salud emocional grupal
+
+**Desarrollo Personal**:
+- Mayor confianza en actuación teatral como táctica
+- Reconocimiento de límites sociales propios
+- Creciente iniciativa en proponer soluciones grupales
+- Balance entre profesionalismo y vulnerabilidad humana
+
+**Relación con Diana**:
+- Preocupación por su reacción durante tensiones (silla estrellada)
+- Deseo de proporcionarle momentos de normalidad
+- Apoyo continuo mientras gestiona dinámicas grupales
+- Momentos de intimidad como recompensa tras crisis
+
+### **Implicaciones para el Futuro**
+
+#### **Como Coordinadora Táctica**
+- **Red mental selectiva**: Técnica útil para misiones con información sensible
+- **Actuación como arma**: Desarrollo de tácticas no telepáticas para situaciones delicadas
+- **Gestión de crisis**: Habilidad probada para mantener equipo unido durante conflictos
+- **Propuestas constructivas**: Liderazgo en encontrar soluciones de desahogo emocional
+
+#### **Como Miembro del Equipo**
+- **Voz de la empatía**: Se establece como la que valida sentimientos de todos
+- **Imperfección humana**: Sus errores sociales la hacen más cercana al equipo
+- **Iniciativa social**: Toma liderazgo en organizar actividades de normalización
+- **Puente emocional**: Conecta necesidades individuales con dinámicas grupales
+
+**Lección Aprendida**:
+> "La coordinación perfecta no solo requiere conexión telepática, sino también actuación convincente, mediación empática y reconocimiento de cuándo el equipo necesita helado más que heroísmo"
+
+Esta sesión confirma la **evolución completa** de Psique como el **corazón emocional y cerebro táctico** de La Fuerza Oculta, capaz de coordinar operaciones complejas, mediar conflictos internos, y recordar al equipo que ser héroes también significa cuidarse mutuamente a través de momentos simples de normalidad compartida.

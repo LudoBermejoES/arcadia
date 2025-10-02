@@ -203,19 +203,28 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Infiltración en el Hospital General de Arcadia
   - Entrega de prótesis avanzadas a Les Enfant heridos
 
+- **[Sesión 34 - 28 Septiembre 2024](session-33-2024-09-28.md)** - *"Caos Hospitalario y Encuentro con Concursantes"*
+  - Justa descubierta en hospital con identificación falsa
+  - Fuga caótica con uniforme ajustado y peluca cayéndose
+  - Ilusión de embarazada terminal causa pánico masivo
+  - Confrontación con Metacorps, Hotman acumula otro cargo
+  - Regreso a base, discusión sobre falta de comunicación
+  - Salida al restaurante del Martis con [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)
+  - Encuentro casual con Mambo y Zambo, concursantes descalificados
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 33 sesiones documentadas
+- **Total de Sesiones**: 34 sesiones documentadas
 - **Período Cubierto**: Marzo 2024 - Septiembre 2025 (18 meses)
-- **Páginas Estimadas**: ~495 páginas de notas detalladas
-- **Horas de Juego**: ~99 horas registradas
+- **Páginas Estimadas**: ~510 páginas de notas detalladas
+- **Horas de Juego**: ~102 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (53% del total)
-- **Fase Héroes Independientes (2025)**: 15 sesiones (47% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (50% del total)
+- **Fase Héroes Independientes (2025)**: 17 sesiones (50% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

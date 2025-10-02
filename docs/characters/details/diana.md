@@ -210,3 +210,153 @@ Esta experiencia marca un **punto de inflexión crucial** en el desarrollo de Di
 #### La relación con Psique como motor de futuro
 
 La relación con Psique seguirá siendo un motor de desarrollo para Diana: su deseo de protegerla y ayudarla a superar sus propios límites se entrelaza con su búsqueda de una identidad más allá de la violencia y el legado familiar. El equipo reconoce a Psique como su guardiana mental y a Diana como la protectora física y emocional de ambas y del grupo. Su vínculo es ahora un pilar narrativo y táctico de La Fuerza Oculta.
+
+---
+
+## Solidaridad Silenciosa y Violencia Expresiva (28 Septiembre 2025)
+
+### Apoyo Táctico Durante la Fuga Hospitalaria
+
+La misión hospitalaria de Sentencia demuestra la capacidad de Diana para apoyar operaciones sin protagonismo directo:
+
+#### **Zancadillas Estratégicas**
+Durante el escape de Sentencia del hospital:
+
+- **Intervención sutil**: Hace tropezar a Metacorps que intentan interceptar a Sentencia
+- **Sin violencia extrema**: Usa métodos no letales para facilitar escape
+- **Timing preciso**: Actúa en momentos exactos para maximizar efectividad
+- **Coordinación implícita**: Trabaja con el resto del equipo sin comunicación explícita
+
+**Filosofía Táctica**:
+- **Apoyo antes que protagonismo**: Permite a otros ejecutar plan principal
+- **Efectividad discreta**: No necesita llamar atención para ser efectiva
+- **Violencia calibrada**: Usa exactamente la fuerza necesaria, ni más ni menos
+- **Lealtad incondicional**: Apoya a compañeros sin cuestionar motivaciones
+
+#### **Defensa de las Acciones de Hotman**
+Durante la discusión posterior en la base:
+
+> "Hotman no ha atacado a nadie, se ha defendido"
+
+**Análisis de la Defensa**:
+- **Perspectiva legal alternativa**: Reenmarca acción de Hotman como defensa, no agresión
+- **Apoyo a pareja ajena**: Defiende la relación Hotman-Sentencia pese a no ser directamente afectada
+- **Comprensión de matices**: Reconoce diferencia entre ataque y defensa en contexto heroico
+- **Voz de la lealtad**: Refuerza principio de que el equipo se respalda mutuamente
+
+### **La Silla Voladora: Solidaridad Destructiva**
+
+#### **Momento Icónico de Frustración Compartida**
+Tras la discusión con Sentencia:
+
+**Secuencia de Eventos**:
+1. Justa se enfada con las recriminaciones y **tira su silla** al retirarse
+2. Diana, en respuesta, le da "**una leche** " a la silla
+3. **Estampa la silla contra un cristal** con violencia extrema
+4. Momento de explosión emocional compartida sin palabras
+
+#### **Análisis del Acto**
+**Posibles Motivaciones**:
+- **Solidaridad con Sentencia**: Expresión física de apoyo a compañera criticada
+- **Frustración propia**: Desahogo de tensiones acumuladas del equipo
+- **Comunicación no verbal**: Mensaje que la violencia física puede expresar emociones
+- **Protesta contra recriminaciones**: Señalización de que el equipo fue demasiado duro con Justa
+
+**Elementos Característicos**:
+- **Violencia sobre objetos**: Canaliza frustración hacia mobiliario, no personas
+- **Gesto dramático**: Su expresión física es teatral y memorable
+- **Sin palabras**: No necesita explicar, su acción habla por sí misma
+- **Catarsis compartida**: Crea momento de liberación emocional grupal
+
+### **Trabajo en Hero Forge: Fusión Diana-Justa**
+
+#### **Proyecto Creativo Personal**
+Durante período de descompresión, Ernesto trabaja en:
+
+- **Modelo digital**: Crea representación visual de fusión entre Diana y Justa/Sentencia
+- **Exploración conceptual**: Imagina cómo sería combinación de sus poderes y personalidades
+- **Ejercicio de empatía**: Intenta comprender mejor a Sentencia a través de imaginación creativa
+- **Conexión indirecta**: Manera de procesar la relación Hotman-Sentencia sin invasividad
+
+**Implicaciones del Proyecto**:
+- **Interés en compañeros**: Diana/Ernesto piensa profundamente sobre miembros del equipo
+- **Creatividad como procesamiento**: Usa diseño de modelos para comprender dinámicas grupales
+- **Respeto por relaciones**: Explora conexión Hotman-Sentencia creativamente, no invasivamente
+- **Imaginación táctica**: Considera posibilidades de fusiones o combinaciones de poderes
+
+### **Restaurante del Martis: Normalidad Vigilante**
+
+#### **Participación en Descompresión Grupal**
+- **Acepta invitación**: Participa en salida para relajarse después de tensiones
+- **Conexión con Psique**: Disfruta tiempo con su pareja en contexto no heroico
+- **Vigilancia permanente**: Mantiene alerta pese a ambiente relajado
+- **Balance vida-heroísmo**: Capaz de disfrutar normalidad sin abandonar responsabilidades
+
+#### **Reacción a Mambo y Zambo**
+Cuando los excontendientes ruidosos entran:
+- **Alerta inmediata**: Se pone en guardia ante potencial amenaza
+- **Evaluación táctica**: Analiza nivel de peligro que representan
+- **Decisión madura**: Concuerda con evitar confrontación innecesaria
+- **Protección de Psique**: Lista para defender a su pareja si la situación escala
+
+### **Desarrollo del Personaje**
+
+#### **Evolución como Miembro del Equipo**
+- **Apoyo táctico discreto**: No necesita protagonismo para ser efectiva
+- **Solidaridad expresiva**: Usa violencia física para comunicar apoyo emocional
+- **Defensa de principios**: Articula perspectivas legales alternativas cuando necesario
+- **Creatividad personal**: Explora dinámicas del equipo a través de proyectos artísticos
+
+#### **Patrones de Comportamiento Revelados**
+- **Violencia como lenguaje**: La silla estrellada como forma de comunicación emocional
+- **Lealtad incondicional**: Defiende a compañeros incluso cuando no están presentes
+- **Moderación táctica**: Usa exactamente la fuerza necesaria en operaciones
+- **Balance emocional**: Alterna entre violencia controlada y normalidad relajada
+
+### **Estado Actual (28 Septiembre 2025)**
+
+**Capacidades Tácticas**:
+- Apoyo físico discreto (zancadillas, bloqueos)
+- Violencia calibrada según necesidad operacional
+- Defensa articulada de acciones de compañeros
+- Protección permanente de Psique
+
+**Expresión Emocional**:
+- Violencia sobre objetos como catarsis
+- Solidaridad física con compañeros bajo presión
+- Creatividad (Hero Forge) como procesamiento emocional
+- Vigilancia constante incluso en momentos de relax
+
+**Relación con el Equipo**:
+- Defensora de acciones de todos los miembros
+- Apoyo táctico sin necesidad de reconocimiento
+- Creatividad para comprender mejor a compañeros
+- Balance entre participación grupal y protección de Psique
+
+**Relación con Psique**:
+- Momentos de normalidad valorados (restaurante)
+- Protección permanente en situaciones potencialmente peligrosas
+- Apoyo emocional durante tensiones grupales
+- Conexión fortalecida a través de crisis compartidas
+
+### **Implicaciones para el Futuro**
+
+#### **Como Fuerza Estabilizadora**
+- **Violencia como comunicación**: Desarrolla lenguaje único de expresión física
+- **Apoyo discreto**: Se especializa en operaciones que no requieren protagonismo
+- **Defensa legal**: Puede articular perspectivas alternativas sobre acciones del equipo
+- **Catalizador emocional**: Sus actos dramáticos liberan tensiones grupales
+
+#### **Dinámicas de Equipo**
+- **Silla estrellada como precedente**: Establece que violencia física puede ser catártica
+- **Defensora de todos**: No solo de Psique, sino de cualquier miembro bajo presión
+- **Moderación vs Explosión**: Balance entre control táctico y liberación emocional
+- **Creatividad como comprensión**: Usa proyectos personales para procesar dinámicas grupales
+
+**Momento Característico Establecido**:
+> "La silla estrellada contra el cristal - donde Diana transforma frustración colectiva en acción física memorable, comunicando sin palabras que la solidaridad del equipo trasciende los desacuerdos"
+
+### **Lección Aprendida**:
+> "A veces el apoyo más efectivo no es el que se ve en el campo de batalla, sino el que se expresa en momentos silenciosos: una zancadilla oportuna, una defensa verbal articulada, o una silla destruida que dice 'yo también estoy contigo'."
+
+Esta sesión confirma la **consolidación de Diana** como la **fuerza silenciosamente leal** de La Fuerza Oculta, capaz de apoyar operaciones discretamente, defender principios articuladamente, y expresar solidaridad de formas memorables y físicamente dramáticas que liberan tensiones grupales mientras refuerzan unidad del equipo.

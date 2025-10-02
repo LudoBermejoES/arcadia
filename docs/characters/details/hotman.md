@@ -537,7 +537,7 @@ Durante el período previo a la misión secreta de Sentencia:
 
 #### **Durante la Persecución Secreta**
 - **Preocupación genuina**: Participa en seguimiento cuando Sentencia huye misteriosamente
-- **Coordinación con Smück**: Su fan-taxista ayuda en la persecución
+- **Coordinación con [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)**: Su fan-taxista ayuda en la persecución
 - **Comprensión eventual**: Al descubrir la misión de prótesis, comprende la nobleza de intenciones
 - **Sin explotación**: No convierte el momento en contenido para redes
 
@@ -557,7 +557,7 @@ Durante el período previo a la misión secreta de Sentencia:
 
 ### **Red de Apoyo Expandida**
 
-#### **Smück como Aliado Personal**
+#### **[Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/) como Aliado Personal**
 - **Fan convertido en apoyo**: Nacho Smück trasciende simple admiración
 - **Recursos logísticos**: Proporciona transporte y asistencia en misiones
 - **Conexión personal**: Desarrolla relación más allá de parasocial
@@ -578,3 +578,143 @@ Durante el período previo a la misión secreta de Sentencia:
 - **Respeto por autonomía**: Acepta que sus compañeros necesitan espacio para crecimiento personal
 
 Esta sesión confirma que Hotman ha completado su transformación de **influencer adolescente a professional maduro**, capaz de equilibrar ambiciones personales con apoyo genuino a sus compañeros, estableciendo una base sólida para futuros desarrollos tanto románticos como profesionales, mientras mantiene su autenticidad y humor característicos.
+
+---
+
+## Defensa Impulsiva y Consecuencias Acumulativas (28 Septiembre 2025)
+
+### El Costo de Proteger a Sentencia
+
+La misión hospitalaria de Sentencia termina generando consecuencias serias para Hotman cuando actúa instintivamente para defender a su pareja:
+
+#### **Intervención Durante la Fuga**
+- **Situación**: Sentencia huye del hospital tras ser descubierta, Metacorps intentan detenerla
+- **Acción de Hotman**: Aturde a un Metacorp exterior con **ataque de radiación de microondas**
+- **Resultado inmediato**: Permite a Sentencia continuar su escape
+- **Justificación personal**: Alejandro argumenta que fue "defensa" de su compañera
+
+#### **Nueva Acusación Criminal**
+- **Cargo adicional**: **Agredir a un Metacorp** añadido a su historial
+- **"Currículum revolucionario"**: El DM bromea que su registro criminal sigue creciendo
+- **Acumulación preocupante**: Cada incidente reduce su libertad de movimiento
+- **Tendencia peligrosa**: Su impulsividad al defender a Sentencia genera costos legales
+
+### **Complicaciones para Vida Social**
+
+#### **Mensaje de Staffen Morales**
+El mayordomo de Eneiros envía comunicación preocupante:
+
+> "Por favor, abstente de anunciar en redes que asistirás a la fiesta. Los Metacorps están preguntando por ti e interfiriendo en la organización. Te rogamos discreción ANTES del evento."
+
+**Implicaciones**:
+- **Monitoreo activo**: Las autoridades vigilan específicamente sus movimientos
+- **Estatus de búsqueda**: Su presencia complica eventos de otros
+- **Restricciones sociales**: Su fama e historial criminal limitan actividades normales
+- **Presión sobre otros**: Su asistencia a eventos genera problemas para anfitriones
+
+#### **Tensión Entre Impulso y Consecuencias**
+
+**Durante discusión en la base**:
+- **Eslizón cuestiona**: Señala consecuencias negativas de sus acciones impulsivas
+- **Hotman defiende acción**: Argumenta que estaba defendiendo a su pareja
+- **Realidad legal**: Pese a justificación moral, las autoridades lo ven como agresión
+- **Patrón problemático**: Cada acto de protección genera más restricciones
+
+### **Momento de Normalidad y Tensión**
+
+#### **Restaurante del Martis**
+Tras la crisis, el grupo decide salir a descomprimir:
+
+- **Transporte alternativo**: Llaman a [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/) para evitar música chunguita de la furgoneta
+- **Hotman invita a Nacho**: Insiste en que su fan-taxista coma con ellos
+- **Pedido peculiar**: Hamburguesas con mini hamburguesas encima (meta-comida)
+- **Conversación sobre sabores**: Discute batidos de proteínas con plátano
+
+#### **Encuentro con Mambo y Zambo**
+
+**Entrada dramática**:
+- Dos metahumanos de piel azulada metálica entran con música a tope en altavoz portátil
+- Nacho identifica a los concursantes "más patéticos" descalificados del reality show
+- Aplastan un servilletero accidentalmente al sentarse
+- Piden comida vorazmente pero se comportan con corrección
+
+**Reacción del grupo**:
+- La Fuerza Oculta está alerta por si escala la situación
+- Deciden intentar salir sin confrontación
+- Hotman expresa frustración por la música alta
+- Momento demuestra madurez del equipo al evitar conflictos innecesarios
+
+### **Estado Actual de la Relación con Sentencia**
+
+#### **Apoyo Incondicional con Costos Crecientes**
+- **Defensa instintiva**: Actúa sin pensar cuando ella está en peligro
+- **Consecuencias legales**: Cada defensa añade a su historial criminal
+- **Restricciones aumentan**: Su capacidad de vivir normalmente disminuye
+- **Presión en la relación**: El costo de estar juntos se vuelve más tangible
+
+#### **Comprensión de Complejidades**
+
+Durante la discusión post-hospital:
+- **Reconoce decisiones de Alejandro**: Comprende que defender a Sentencia fue instintivo
+- **Enfrenta consecuencias**: Debe lidiar con restricciones para asistir a eventos
+- **Balance difícil**: Entre proteger a su pareja y mantener libertad personal
+- **Madurez emergente**: Empieza a comprender que el amor heroico tiene costos reales
+
+### **Desarrollo del Personaje**
+
+#### **Patrón de Comportamiento**
+- **Impulsividad protectora**: Actúa sin pensar cuando Sentencia está en riesgo
+- **Justificación moral**: Ve sus acciones como defensivas, no agresivas
+- **Ceguera a consecuencias**: No anticipa cómo sus actos afectan su futuro
+- **Lealtad incondicional**: Prioriiza a su pareja sobre su propia seguridad legal
+
+#### **Tensiones Emergentes**
+- **Libertad vs Lealtad**: Debe elegir entre proteger a Sentencia y mantener movilidad
+- **Vida pública complicada**: Su fama se vuelve problema en lugar de ventaja
+- **Restricciones crecientes**: Cada acción reduce su capacidad de vivir normalmente
+- **Presión social**: Su presencia complica eventos de otros
+
+### **Implicaciones para el Futuro**
+
+#### **Situación Legal Precaria**
+- **Acumulación de cargos**: Historial criminal crece con cada incidente
+- **Monitoreo activo**: Metacorps vigilan específicamente sus movimientos
+- **Restricciones sociales**: Eventos públicos se vuelven zonas de riesgo
+- **Necesidad de estrategia**: Debe aprender a proteger sin generar más problemas legales
+
+#### **Relación con Sentencia**
+- **Amor con costos**: La relación genera consecuencias legales tangibles
+- **Apoyo mutuo**: Ambos se protegen instintivamente, creando ciclo de problemas
+- **Necesidad de comunicación**: Deben coordinar mejor para evitar situaciones riesgosas
+- **Crecimiento conjunto**: Enfrentan juntos las consecuencias de sus acciones
+
+#### **Dinámica con el Equipo**
+- **Eslizón como voz de razón**: El reptiliano señala consecuencias que Hotman ignora
+- **Apoyo grupal**: El equipo le respalda pero cuestiona sus decisiones impulsivas
+- **Momentos de normalidad**: Reconocen necesidad de descomprimir juntos tras crisis
+- **Madurez colectiva**: Evitan conflictos innecesarios (Mambo y Zambo)
+
+### **Estado Actual (28 Septiembre 2025)**
+
+**Situación Legal**:
+- Nuevo cargo por agredir a Metacorp
+- Estatus de "búsqueda y captura" complica vida social
+- Necesidad de discreción antes de eventos públicos
+- Monitoreo activo por parte de autoridades
+
+**Estado Emocional**:
+- Frustración con restricciones crecientes
+- Determinación de proteger a Sentencia pese a costos
+- Reconocimiento emergente de necesidad de mejor planificación
+- Balance entre lealtad y consecuencias personales
+
+**Relación con Sentencia**:
+- Amor incondicional que genera problemas legales
+- Apoyo mutuo en situaciones de crisis
+- Necesidad de desarrollar mejor comunicación estratégica
+- Presión creciente por acumulación de consecuencias
+
+**Lección en Proceso**:
+> "El amor heroico requiere no solo valentía impulsiva, sino también planificación estratégica para proteger sin autodestruirse legalmente"
+
+Esta sesión marca un punto crítico donde Hotman debe evolucionar de **defensor impulsivo a protector estratégico**, aprendiendo que su amor por Sentencia requiere no solo actuar cuando ella está en peligro, sino también anticipar consecuencias y coordinar con el equipo para evitar que cada acto de protección reduzca su capacidad futura de estar presente para ella.

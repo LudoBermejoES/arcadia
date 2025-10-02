@@ -83,8 +83,8 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 ## Cronología Narrativa
 
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
-**2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas  
-**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (36+ sesiones: 24 manuales + 12 transcripciones AI)
+**2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
+**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (37+ sesiones: 25 manuales + 15 transcripciones AI)
 
 ## Navegación
 

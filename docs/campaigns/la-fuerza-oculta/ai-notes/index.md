@@ -202,14 +202,26 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2025-09-28 - Caos Hospitalario y Encuentro con Concursantes](2025-09-28-gemini-notes.md)
+**"Fuga del Hospital y Repercusiones"**
+- 🏥 **Infiltración Fallida**: Justa descubierta en el hospital con identificación falsa
+- 🏃‍♀️ **Fuga Caótica**: Escape espectacular con uniforme ajustado y peluca cayéndose
+- 🤰 **Ilusión Devastadora**: Kayface crea embarazada terminal que causa pánico masivo
+- 💥 **Enfrentamiento con Metacorps**: Hotman acumula otro cargo por agredir autoridad
+- 🍕 **Momento de Relajación**: Encuentro casual con Mambo y Zambo en restaurante del Martis
+
+**Duración**: ~2 horas | **Palabras**: ~14,000 | **Páginas**: ~36
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 14 sesiones completas
+- **Total de Transcripciones**: 15 sesiones completas
 - **Período Cubierto**: Junio-Septiembre 2025 (4 meses intensivos)
-- **Palabras Totales**: ~282,300 palabras transcritas
-- **Páginas Equivalentes**: ~719 páginas de contenido
-- **Horas de Audio**: ~46.5 horas de partidas registradas
+- **Palabras Totales**: ~296,300 palabras transcritas
+- **Páginas Equivalentes**: ~755 páginas de contenido
+- **Horas de Audio**: ~48.5 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**

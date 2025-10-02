@@ -373,3 +373,147 @@ La sesión del 30 de agosto marca un punto de inflexión en la comprensión de A
 - **Red de Contactos**: Acceso a información a través de La Fuerza Oculta
 
 Esta sesión establece un **nuevo arco narrativo personal** para Astrid/Kayface, donde la investigación de sus orígenes la conecta con figuras importantes del pasado mientras genera nuevos conflictos y oportunidades. Su desarrollo como personaje evoluciona de pura especialista táctica a investigadora de su propia historia, añadiendo profundidad emocional a su rol técnico dentro del equipo.
+
+---
+
+## Ilusión Devastadora: La Embarazada Terminal (28 Septiembre 2025)
+
+### Maestría del Caos Emocional
+
+La fuga hospitalaria de Sentencia proporciona a Kayface la oportunidad perfecta para demostrar el **poder psicológico de las ilusiones** cuando se aplican con creatividad máxima:
+
+#### **La Ilusión de la Embarazada Terminal**
+Durante el escape de Sentencia, Kayface crea su ilusión más emocionalmente impactante hasta la fecha:
+
+**Descripción de la Ilusión**:
+- **Víctima perfecta**: Mujer embarazada en estado terminal aparente
+- **Ubicación estratégica**: Colocada en área de máximo tráfico hospitalario
+- **Credibilidad absoluta**: Tan convincente que genera pánico masivo instantáneo
+- **Caos resultante**: Médicos, enfermeras y civiles corren gritando a ayudarla
+
+#### **Análisis Táctico de la Creación**
+- **Impacto emocional máximo**: Hospital es el lugar perfecto para embarazada en emergencia
+- **Respuesta automática**: Personal médico DEBE responder a emergencias obstétricas
+- **Distracción total**: Metacorps y seguridad completamente superados por el caos
+- **Timing perfecto**: Sincronizado con la fuga de Sentencia para máxima efectividad
+
+### **Limitaciones Técnicas Reveladas**
+
+#### **Restricción de Ilusiones Simultáneas**
+Durante la crisis hospitalaria se revelan límites importantes:
+
+- **Una ilusión óptima**: No puede mantener dos ilusiones simultáneas sin penalización
+- **Calidad vs Cantidad**: Prioriza una ilusión perfecta sobre múltiples imperfectas
+- **Concentración requerida**: Ilusiones complejas demandan enfoque total
+- **Decisión estratégica**: Elige embarazada sobre múltiples distracciones menores
+
+#### **Ausencia de Autotransformación**
+Limitación crítica descubierta:
+- **No puede cambiar su apariencia**: Sus poderes no incluyen alteración personal
+- **Solo proyecciones externas**: Crea ilusiones separadas de sí misma
+- **Vulnerabilidad personal**: No puede usar ilusiones para esconderse directamente
+- **Necesidad de apoyo**: Depende de compañeros para protección física durante operaciones
+
+### **Efectividad Táctica Probada**
+
+#### **Generación de Caos Controlado**
+La ilusión demuestra efectividad extraordinaria:
+
+**Resultados Inmediatos**:
+- **Pánico masivo**: Decenas de personas corriendo hacia la ilusión
+- **Bloqueo de pasillos**: Movimiento de Metacorps completamente impedido
+- **Recursos desviados**: Personal de seguridad absorbido por la emergencia falsa
+- **Tiempo ganado**: Ventana suficiente para escape completo del equipo
+
+**Elementos de Éxito**:
+- **Contexto apropiado**: Hospital amplifica impacto emocional
+- **Víctima creíble**: Embarazada terminal es amenaza médica máxima
+- **Respuesta instintiva**: Personal médico entrenado DEBE actuar
+- **Sin violencia**: Neutraliza amenazas sin causar daño físico real
+
+### **Desarrollo del Personaje**
+
+#### **Evolución como Ilusionista Táctica**
+- **Comprensión psicológica**: Dominio de qué ilusiones generan máximo impacto emocional
+- **Contextualización perfecta**: Usa ambiente (hospital) para amplificar efectividad
+- **Creatividad bajo presión**: Improvisa la ilusión óptima en segundos
+- **Responsabilidad ética**: Crea caos sin causar daño permanente
+
+#### **Aceptación de Limitaciones**
+- **Reconocimiento de límites**: Comprende que no puede mantener múltiples ilusiones
+- **Optimización de recursos**: Focaliza en calidad sobre cantidad
+- **Trabajo en equipo**: Acepta que necesita apoyo de otros para completar operaciones
+- **Especialización clara**: Se define como creadora de ilusiones externas, no autoalteración
+
+### **Restaurante del Martis: Momentos de Normalidad**
+
+#### **Participación en Descompresión Grupal**
+Tras la crisis, Kayface participa en salida del equipo:
+
+- **Vulnerabilidad social**: Siente incomodidad cuando Psique menciona "liarse con parejas"
+- **Sin relación romántica**: A diferencia de Hotman/Sentencia y Diana/Psique
+- **Camaradería grupal**: Disfruta momento de normalidad pese a status sentimental
+- **Apertura al futuro**: No parece perturbada por su soltería, enfocada en amistad
+
+#### **Encuentro con Mambo y Zambo**
+Durante el encuentro con excontendientes:
+- **Evaluación táctica**: Analiza potencial amenaza de concursantes ruidosos
+- **Decisión madura**: Concuerda con evitar confrontación innecesaria
+- **Preparación mental**: Lista para crear ilusiones defensivas si necesario
+- **Relajación prudente**: Puede disfrutar comida mientras mantiene alerta
+
+### **Estado Actual (28 Septiembre 2025)**
+
+**Capacidades Ilusionarias**:
+- Ilusiones de impacto emocional máximo (embarazada terminal)
+- Una ilusión perfectamente mantenida a la vez
+- Creatividad contextual para amplificar efectividad
+- Comprensión psicológica profunda de respuestas humanas
+
+**Limitaciones Conocidas**:
+- No puede mantener múltiples ilusiones sin penalización
+- No puede alterar su propia apariencia
+- Requiere concentración para ilusiones complejas
+- Necesita protección física durante uso de poderes
+
+**Rol en el Equipo**:
+- Especialista en caos no violento
+- Creadora de distracciones de máximo impacto
+- Apoyo táctico durante operaciones delicadas
+- Generadora de oportunidades para compañeros
+
+**Desarrollo Personal**:
+- Mayor confianza en creatividad ilusoria bajo presión
+- Aceptación de limitaciones como guía de especialización
+- Comodidad con soltería dentro de equipo con parejas
+- Madurez en evitar conflictos innecesarios
+
+### **Implicaciones para el Futuro**
+
+#### **Como Especialista Ilusoria**
+- **Biblioteca de ilusiones**: Repertorio creciente de ilusiones probadas efectivas
+- **Contextualización experta**: Capacidad de adaptar ilusiones a ambientes específicos
+- **Impacto psicológico**: Dominio de qué emociones generar para objetivos tácticos
+- **Caos controlado**: Habilidad de crear pánico dirigido sin violencia física
+
+#### **Limitaciones Como Oportunidades**
+- **Especialización profunda**: Enfoque en ilusiones externas permite maestría única
+- **Dependencia de equipo**: Necesidad de protección genera vínculos tácticos más fuertes
+- **Creatividad forzada**: Restricciones impulsan soluciones más innovadoras
+- **Nicho claro**: Se establece como LA especialista en distracciones ilusorias
+
+#### **Dinámicas Sociales**
+- **Soltería sin presión**: Cómoda sin relación romántica en equipo de parejas
+- **Madurez emocional**: No se siente excluida por status sentimental diferente
+- **Enfoque en amistad**: Prioriza camaradería grupal sobre romance
+- **Apertura futura**: Sin aparente cierre a posibilidades románticas, simplemente no prioritario
+
+**Técnica Característica Establecida**:
+> "Cuando Kayface crea una ilusión, no busca solo engañar la vista - busca desatar respuestas emocionales automáticas que hagan imposible que el objetivo ignore la ilusión, transformando percepción en pánico productivo"
+
+### **Lección Aprendida**:
+> "Las limitaciones no son debilidades cuando se comprenden profundamente. No poder hacer múltiples ilusiones me fuerza a crear LA ilusión perfecta. No poder cambiar mi apariencia me hace maestra de cambiar las percepciones de otros. Las restricciones son el marco donde florece la creatividad verdadera."
+
+Esta sesión confirma la **consolidación definitiva** de Kayface como **maestra del caos psicológico controlado**, capaz de generar pánico masivo sin violencia mediante comprensión profunda de respuestas emocionales humanas y aplicación contextual perfecta de ilusiones devastadoramente efectivas, estableciendo un nuevo estándar para neutralización no letal de amenazas a través de manipulación perceptual perfecta.
+
+---

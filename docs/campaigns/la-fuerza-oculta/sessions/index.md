@@ -207,6 +207,21 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 28 de Septiembre](../manual-notes/session-33-2024-09-28.md) | [📼 IA](../ai-notes/2025-09-28-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-09-28-gemini-notes.md)
+**"Caos Hospitalario y Encuentro con Concursantes"**
+- 🏥 **Infiltración Fallida**: Justa descubierta con identificación falsa en el hospital
+- 🏃‍♀️ **Fuga Caótica**: Escape espectacular con uniforme ajustado y peluca cayéndose
+- 🤰 **Ilusión Devastadora**: Kayface crea embarazada terminal que genera pánico masivo
+- 💥 **Enfrentamiento Metacorps**: Hotman acumula otro cargo por agredir autoridad
+- 💔 **Discusión Interna**: Recriminaciones sobre falta de comunicación y planificación
+- 📺 **Repercusión Mediática**: Popularidad sube, Sentencia pierde seguidores extremistas
+- 🍕 **Momento de Normalidad**: Salida al restaurante del Martis con [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)
+- 🎪 **Encuentro Casual**: Mambo y Zambo, concursantes descalificados del reality show
+
+**Temas Clave**: Consecuencias de impulsividad, comunicación en equipo, vida social heroica, equilibrio emocional
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

@@ -635,7 +635,7 @@ Al encontrar finalmente la habitación con uno de los jóvenes heridos y sus fam
 El hecho de que el equipo la siguiera revela:
 - **Preocupación genuina**: Sus compañeros notan su comportamiento extraño y se preocupan
 - **Trabajo en equipo**: Psique usa sus poderes para rastrearla telepáticamente
-- **Smück como aliado**: El taxista fan de Hotman ayuda en la persecución
+- **[Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/) como aliado**: El taxista fan de Hotman ayuda en la persecución
 - **Comprensión eventual**: Al descubrir su misión, el equipo comprende la nobleza de sus intenciones
 
 ### **Relación con Hotman Durante la Crisis**
@@ -655,3 +655,101 @@ Esta acción secreta establece:
 - **Humanización del personaje**: Detrás de la dureza táctica hay una consciencia moral profunda
 
 Esta misión secreta representa la **síntesis perfecta** de la evolución de Sentencia: mantiene su efectividad letal cuando es necesaria, pero también asume responsabilidad activa por las consecuencias de sus acciones, demostrando que la verdadera justicia incluye tanto el castigo del mal como la reparación del daño causado en su prevención.
+
+---
+
+## Caos Hospitalario: Cuando las Buenas Intenciones Fallan (28 Septiembre 2025)
+
+### La Segunda Entrega de Prótesis Se Convierte en Fuga
+
+La continuación de la misión iniciada el 21 de septiembre termina en desastre cuando Sentencia intenta entregar la segunda prótesis en el mismo hospital:
+
+#### **Infiltración Comprometida**
+- **Identificación falsa descubierta**: La enfermera nota que su placa dice "Yasmín Williams" pero no coincide con su apariencia
+- **Escalada inevitable**: Metacorps le piden documentación, Sentencia decide huir
+- **Fuga espectacular**: Con uniforme de enfermera muy ajustado y peluca medio cayéndose, rompe puerta y corre hacia el parking
+- **Apoyo del equipo**: Sus compañeros crean distracciones (ilusión de embarazada terminal, fingimiento de partofobia) para facilitar escape
+
+#### **Repercusiones Mediáticas y Sociales**
+- **Popularidad general sube**: El incidente heroico aumenta apoyo público
+- **Pérdida de extrema derecha**: Radicales blancos enfadados por su empatía con heridos
+- **Metacorps descontentos**: Relación con autoridades cada vez más tensa
+- **Nuevo cargo para Hotman**: Su pareja acumula delito adicional por defenderla
+
+#### **Confrontación Interna del Equipo**
+
+**Recriminaciones en la base**:
+- El grupo le cuestiona no haber comunicado su plan
+- Señalan el riesgo de arrastrar al equipo a situaciones peligrosas
+- Justa reconoce ingenuidad al pensar que sería sencillo
+
+**Explosión emocional**:
+- Se enfada por las recriminaciones y **tira su silla al retirarse**
+- Diana golpea la silla y la estampa contra un cristal en solidaridad/frustración
+- Justa acude a su "terapia habitual contra el saco de boxeo"
+
+#### **Reflexión y Lección Aprendida**
+
+**Reconocimiento de errores**:
+> "Debería haber investigado más y planificado mejor la situación"
+
+**Ingenuidad admitida**:
+- Pensó que la entrega sería sencilla sin tanta seguridad
+- No anticipó que los Metacorps estarían vigilando a Les Enfant heridos
+- Subestimó el nivel de control hospitalario
+
+#### **Momento de Normalidad: El Restaurante**
+
+Tras la tensión, el equipo sale a descomprimir:
+- **Propuesta de Sique**: Helado y hamburguesas para "rebajar los nervios"
+- **Justa protesta**: "Como mucho un batido de proteínas" (manteniendo disciplina nutricional)
+- **Convencimiento final**: Acepta salir con todos al mejor restaurante de comida rápida del Martis
+- **Con [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)**: Invitan a su taxista colega a comer con ellos
+
+**Encuentro con Mambo y Zambo**:
+- Concursantes descalificados del reality show entran ruidosamente
+- La Fuerza Oculta permanece alerta pero los exparticipantes se comportan correctamente
+- Momento de tensión que no escala, demostrando madurez del equipo
+
+### **Análisis del Desarrollo del Personaje**
+
+#### **Patrón de Comportamiento Revelado**
+- **Idealismo vs Pragmatismo**: Las nobles intenciones requieren planificación pragmática
+- **Soledad operacional**: Tiende a actuar sola cuando se siente culpable
+- **Falta de comunicación**: No consulta al equipo antes de misiones personales arriesgadas
+- **Vulnerabilidad emocional**: La culpa la lleva a tomar riesgos innecesarios
+
+#### **Evolución de Dinámica de Equipo**
+- **Apoyo incondicional**: Pese a no conocer el plan, el equipo la respalda instintivamente
+- **Necesidad de comunicación**: Las recriminaciones enfatizan importancia de coordinación
+- **Tensión entre independencia y equipo**: Justa debe aprender a equilibrar ambas
+- **Momentos de normalidad**: Reconocen necesidad de descomprimir juntos tras tensiones
+
+#### **Gestión Emocional**
+- **Refugio en violencia controlada**: El saco de boxeo como terapia física para trauma emocional
+- **Resistencia a críticas**: Su enfado muestra dificultad para aceptar que necesita al equipo
+- **Disciplina nutricional**: Incluso en momentos de relax, mantiene estándares personales
+- **Eventualconvencimiento**: Acepta participar en actividades grupales de normalización
+
+### **Estado Actual (28 Septiembre 2025)**
+
+**Situación Legal**:
+- Otro incidente con Metacorps acumulado
+- Infiltración hospitalaria fallida añade a su historial
+- Relación con autoridades continúa deteriorándose
+
+**Estado Emocional**:
+- Frustración con recriminaciones del equipo
+- Culpa por poner al grupo en riesgo nuevamente
+- Reconocimiento de necesidad de mejor planificación
+- Balance entre independencia y necesidad de coordinación
+
+**Relación con Hotman**:
+- Mensaje de Staffen Morales complicando asistencia a fiesta de Eneiros
+- Consecuencias acumulativas de defender a Sentencia
+- Presión creciente sobre la relación por restricciones legales
+
+**Lección Aprendida**:
+> "La comunicación previa es tan importante como las buenas intenciones"
+
+Esta sesión marca un momento crucial donde Sentencia debe confrontar que su tendencia a actuar sola por sentimientos de culpa puede poner en riesgo a quienes más le importan, forzándola a evolucionar de heroína independiente a verdadera miembro de equipo que comparte tanto victorias como planificación de misiones.

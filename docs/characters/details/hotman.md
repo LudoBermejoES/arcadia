@@ -718,3 +718,356 @@ Durante la discusión post-hospital:
 > "El amor heroico requiere no solo valentía impulsiva, sino también planificación estratégica para proteger sin autodestruirse legalmente"
 
 Esta sesión marca un punto crítico donde Hotman debe evolucionar de **defensor impulsivo a protector estratégico**, aprendiendo que su amor por Sentencia requiere no solo actuar cuando ella está en peligro, sino también anticipar consecuencias y coordinar con el equipo para evitar que cada acto de protección reduzca su capacidad futura de estar presente para ella.
+
+---
+
+## Confrontación Definitiva con el Padre (30 Septiembre 2025)
+
+### **El Mensaje Encriptado: El Último Encuentro**
+
+Tras la sesión del 28 de septiembre, Hotman recibe un mensaje a través de su personalidad encriptada en la red Thor que desencadena el momento más importante de su vida:
+
+#### **Preocupaciones Iniciales**
+- **Protección digital creciente**: "Cada vez tenía que recurrir con más asiduidad a proteger sus accesos a la red"
+- **Reconocimiento de consecuencias**: "Su pertenencia a 'Fuerza Oculta' puede que no fuera del todo buena para los negocios"
+- **Análisis frío heredado**: "Durante unos segundos reconoció de quién había heredado la capacidad para un análisis tan frío, tan enfocado en el dinero"
+- **Rechazo de la herencia paterna**: "Torció el gesto con desagrado"
+
+#### **La Trampa Obvia**
+**Detalles de la Cita**:
+- **Ubicación**: Callejón al lado de un centro comercial
+- **Hora**: Tarde, casi de noche, cerca del distrito de negocios
+- **Calle desierta**: "Las calles estaban desiertas"
+- **Planificación cuidadosa**: "La ubicación y la hora del encuentro habían sido cuidadosamente elegidos"
+
+**Reconocimiento del Peligro**:
+- Evalúa la escena buscando "siluetas en los tejados u ocultas en las sombras"
+- Comprende que es potencialmente una emboscada
+- Decide ir de todos modos - momento de enfrentamiento necesario
+
+### **El Padre: Primera Aparición Física Documentada**
+
+#### **Descripción del Padre de Hotman**
+**Apariencia y Presencia**:
+- **Figura esbelta trajeada**: Vestido formalmente y con perfección
+- **Pelo plateado**: Cabello característico que denota edad madura
+- **Gestos tallados en roca**: Expresión dura e inflexible
+- **Timbre autoritario**: Voz "desdeñosa y agresiva" pese a palabras amables
+- **Único gesto nervioso**: Ajustarse los puños de la camisa
+
+**Compañía**:
+- **Sr. Thomas**: Abogado de la familia
+- **Guardaespaldas**: Hombre con "líneas rectas, hombros anchos, mandíbula cuadrada y gafas de sol"
+- **Ausencia de la madre**: "Tendría mejores cosas que hacer, por ejemplo ver la televisión o hacer llorar a alguna criada"
+
+#### **La Propuesta Final**
+**Palabras del Padre**:
+> "Iré al grano. Estás a punto de cumplir 18 años. Ya es hora de parar con estas tonterías. Has cometido delitos siendo menor, pero nada tan grande como para que mis abogados no puedan resolverlo encontrando un juez complaciente. Pero es mejor que salgas de escena."
+
+**Plan Presentado**:
+- **Internado suizo**: Escuela estatal Liebefeld Steinhölzli en Köniz, cerca de Berna
+- **Limpieza de historial**: Abogados encontrarían "juez complaciente"
+- **Salida de Arcadia**: Alejamiento completo de La Fuerza Oculta
+- **Futuro corporativo**: "Cuando dirijas mis compañías, te podrás comprar todos los perros o las mujeres que quieras"
+
+**La Orden Disfrazada de Petición**:
+> "Ahora ven conmigo, vuelve a casa con los tuyos."
+
+- **Voz modulada**: "Perfectamente modulada para vestir de terciopelo el puño de acero que había debajo"
+- **Método característico**: "Así había sido siempre su padre decía 'ale-hop' y los demás saltaban"
+- **Esposas y capucha**: El guardaespaldas llevaba equipamiento para llevarlo por la fuerza
+
+### **El Momento de Transformación: La Muerte del Miedo**
+
+#### **El Silencio que Destruyó un Reino**
+**Reacción de Hotman**:
+- **Silencio absoluto**: No responde inmediatamente
+- **No baja la vista**: Mantiene contacto visual directo
+- **El universo se detiene**: "Fue como si el universo entero se hubiera detenido"
+- **Pausa que cruza lo incómodo**: El padre esperaba lágrimas y abrazo, encuentra piedra
+
+**La Revelación Interior**:
+> "El miedo, ese miedo que había regido su infancia, que había gobernado sus días y sus noches, ya no estaba, se había ido, aniquilado igual que los hombres que habían muerto a sus manos, disuelto en la adrenalina del combate, reventado en el recuerdo del tacto de la piel de Justa, anulado en las risas cómplices de sus compañeros."
+
+**Elementos de la Transformación**:
+- **Muerte de combate**: El miedo murió con los enemigos que eliminó
+- **Amor de Justa**: El tacto de su piel reventó el miedo
+- **Risas compartidas**: La compañía de amigos anuló el terror
+- **Percepción alterada**: "Sus ojos ya no eran los de un niño que miraba a una montaña paterna"
+
+#### **El Dios Autoproclamado Cae del Trono**
+**Cambio de Poder Observable**:
+- **Padre nervioso**: Vuelve a recolocarse los puños de la camisa
+- **Traga saliva**: Signo físico de nerviosismo
+- **Sudor en la frente**: Hotman cree detectarlo
+- **Pequeño, casi miserable**: La percepción del padre cambia radicalmente
+
+**Transformación del Miedo**:
+- **Antes**: "Aquel hombre antes todopoderoso"
+- **Después**: "Pequeño, casi miserable, nervioso y dudando ante su silencio"
+- **Realización**: "Aquel hombre [...] de forma mágica, casi increíble, había perdido su poder sobre él"
+
+### **Bibau: El Símbolo de la Infancia Robada**
+
+#### **La Historia del Perro**
+**Relato de Hotman**:
+> "Bibau iba a ser mi perro, mi mascota ¿no lo recuerdas? Una vez trajiste un perro a casa, un cachorro. Fue mi perro una tarde. El único día feliz de mi infancia."
+
+**Detalles del Recuerdo**:
+- **Cachorro de alsaciano recién destetado**: Regalo temporal
+- **Una tarde de felicidad**: "El único día feliz de mi infancia"
+- **Separación nocturna**: "A la noche no me dejasteis dormir con él"
+- **Desaparición**: "A la mañana siguiente Bibau ya no estaba"
+- **Excusa parental**: "No lo soportábais y lo devolviste a la tienda de animales"
+
+#### **La Verdad Probable**
+**Análisis de Hotman**:
+> "Lo más probable es que le dijérais a Joaquín que se ocupase de él. Un golpe, un paleteo breve en la tierra fértil del jardín y allí nacería una estupenda mata de rododendros en primavera."
+
+**Simbolismo Brutal**:
+- **Joaquín**: Empleado encargado de "tareas sucias"
+- **Asesinato del cachorro**: Ejecutado para conveniencia parental
+- **Rododendros**: Flores que crecen donde Bibau fue enterrado
+- **Malas mascotas**: "Los rododendros son malas mascotas para un niño"
+
+#### **La Respuesta Paterna**
+**Intento de Recuperar Control**:
+> "Déjate de chorradas. En los internados suizos no admiten mascotas. Luego, cuando dirijas mis compañías, te podrás comprar todos los perros o las mujeres que quieras."
+
+- **Reducción a lo material**: Todo se puede comprar
+- **Amenaza**: "Hay medios y abogados para desheredarte"
+- **Recuperación de compostura**: "Se irguieron sus hombros y elevó la voz"
+
+### **El Juramento Escrito en Sangre**
+
+#### **Las Marcas en la Pared**
+**Revelación del Trauma Infantil**:
+> "Nunca ibas a mi habitación así que no vistes las marcas de mis nudillos en la pared. Joaquín o cualquier otro arreglaría las paredes. María, la criada me curó las manos. Ojos que no ven..."
+
+**Elementos del Abuso Sistemático**:
+- **Autodestrucción**: Golpeaba la pared hasta sangrar
+- **Negligencia parental**: El padre nunca visitaba su habitación
+- **Encubrimiento**: Los empleados arreglaban las paredes
+- **Cuidado de criados**: María curaba sus heridas
+- **Invisibilidad del dolor**: "Ojos que no ven..."
+
+#### **El Juramento Mortal**
+**Palabras de Hotman**:
+> "Aquel día juré que escribiría el nombre de mi mascota en tu lápida."
+
+**Significado del Juramento**:
+- **Promesa de venganza**: Escrita con nudillos sangrantes
+- **Bibau como símbolo**: Representa toda la infancia robada
+- **Lápida paterna**: Intención explícita de sobrevivir al padre
+- **Compromiso infantil cumplido**: El niño de entonces actúa ahora
+
+### **La Explosión: Fuego Literal y Metafórico**
+
+#### **Respuesta Violenta a la Amenaza**
+**Secuencia del Ataque**:
+- **Gesto del padre**: Ordena al guardaespaldas actuar
+- **Esposas y capucha**: Preparativos para secuestro
+- **Pistola**: El guardaespaldas le apunta
+- **Confirmación**: "No, al final no es metahumano, pensó Hotman"
+
+**Descarga de Poderes**:
+> "En un solo gesto brutal descargó sus poderes en el coche. La onda de calor tardó solo un instante en reventar el depósito de gasolina."
+
+**Consecuencias Inmediatas**:
+- **Explosión masiva**: Revienta el tanque de gasolina
+- **Hotman derribado**: La onda expansiva lo tira al suelo
+- **Padre y compañía heridos**: "La peor parte se la llevaron el abogado, el guardaespaldas y su padre"
+- **Columna de humo**: "Enorme columna de humo se elevaba al cielo oscurecido"
+
+#### **El Padre Caído**
+**Visión Final del Padre**:
+> "Su padre, aquel hombre orgulloso, se removía en el suelo, su traje destrozado y humeando, la piel sucia y quemada. Aún aturdido, levantó un poco la cabeza y le miró con sus duros ojos azules convertidos en pozos de incomprensión y terror."
+
+**Elementos de la Caída**:
+- **Traje destrozado**: Símbolo de poder arruinado
+- **Piel quemada**: Daño físico permanente
+- **Ojos de terror**: Primera vez que algo no sale como él quiere
+- **Incomprensión total**: No puede procesar la rebelión del hijo
+
+#### **El Gesto Final**
+**Despedida de Hotman**:
+> "Hotman le mostró el dedo corazón alzado y desapareció en la noche mientras, a lo lejos, se escuchaban las sirenas de los policías y los bomberos."
+
+**Simbolismo**:
+- **Dedo corazón**: Rechazo definitivo de la autoridad paterna
+- **Desaparición en la noche**: Escape exitoso
+- **Sirenas**: El mundo exterior descubre el incidente
+- **Sin mirar atrás**: Cierre definitivo de ese capítulo
+
+### **Renacimiento: La Llamada de Justa**
+
+#### **Media Hora Después: El Banco del Centro Comercial**
+**Estado Mental de Hotman**:
+- **Sentado tranquilamente**: Mirando a la gente pasar
+- **En público**: En tienda de cómics, zona con testigos
+- **Calmado**: Ha procesado lo sucedido
+- **Esperando**: El mundo continúa, él está en paz
+
+#### **El Sol que Sale: Justa Llama**
+**El Momento del Teléfono**:
+> "Sonó su teléfono. El rostro de Justa apareció en la pantalla. Fue como si de repente hubiera salido el sol."
+
+**La Conversación**:
+- **Justa**: "¿Hot? ¿Dónde andas?"
+- **Hotman**: "En la tienda de los frikis. Hey, sis. Lo vas a putoflipar: hay un bro nuevo haciendo cómic. Un tal Stanlee. Hace cómics de metas; muy top todo."
+- **Justa**: "Joder, ten cuidado, ya sabes que nos buscan."
+
+**Normalidad Calculada**:
+- **Lenguaje habitual**: Mantiene su jerga característica
+- **Foco en lo cotidiano**: Habla de cómics, no del padre
+- **Protección de ella**: No la carga con lo que acaba de hacer
+- **Actuación perfecta**: Justa no detecta nada anormal inicialmente
+
+#### **Transformación de Justa: Sentencia Emerge**
+**Cambio de Expresión**:
+> "Justa cambió la expresión. Sus ojos tremendamente azules se volvieron de diamante. Eran los ojos de Sentencia."
+
+**Percepción de Peligro**:
+- **Detección instantánea**: "Si lo creía en peligro era bien capaz de ir por él de inmediato a sangre y fuego"
+- **Preocupación intensa**: Sus ojos cambian a Sentencia
+- **Cuidado necesario**: Hotman debe manejar la conversación cuidadosamente
+
+**La Pregunta Directa**:
+> "Hot, ¿Te pasa algo? ¿Estás bien?"
+
+#### **Justa Tierna: El Momento Más Precioso**
+**Transformación Instantánea**:
+> "Casi enseguida, le sonrió. Sentencia se fue y apareció la Justa que se veía en muy pocas ocasiones: tierna, cariñosa."
+
+**Impacto Emocional en Hotman**:
+> "En ese momento sintió el corazón latir más fuerte, mucho más fuerte."
+
+**Elementos del Momento**:
+- **Rareza de Justa tierna**: "Se veía en muy pocas ocasiones"
+- **Autenticidad**: Es genuinamente cariñosa, no actuación
+- **Oxígeno extra**: "Se tomó un segundo para responder y respiró hondo por primera vez en toda la noche"
+- **Mundo más amable**: "El universo pareció hacerse un lugar un poquito más amable, más cálido"
+
+#### **La Respuesta Definitiva**
+**Palabras de Hotman**:
+> "Mejor que nunca, Jus. Mejor que nunca."
+
+**Análisis de la Afirmación**:
+- **Verdad absoluta**: No es mentira para tranquilizarla
+- **Liberación completa**: Ha destruido su mayor miedo
+- **Amor como ancla**: Justa es su razón de estar bien
+- **Repetición enfática**: "Mejor que nunca" dicho dos veces
+
+**Contraste Temporal**:
+- **Media hora antes**: Quemó a su padre y voló su coche
+- **Ahora**: El influencer más feliz del mundo
+- **Catalizador**: La sonrisa tierna de Justa
+- **Realización**: El amor ha reemplazado completamente al miedo
+
+### **Análisis Psicológico: La Transformación Completa**
+
+#### **Muerte Simbólica del Niño Abusado**
+- **Bibau**: Representa la infancia inocente asesinada
+- **Marcas en la pared**: Dolor físico auto-infligido por impotencia
+- **Miedo omnipresente**: "Había regido su infancia, había gobernado sus días y sus noches"
+- **Ejecución simbólica**: Quemar al padre es quemar al miedo
+
+#### **Nacimiento del Adulto Libre**
+- **Agentes de transformación**:
+  - Combates que mataron el miedo
+  - Tacto de Justa que lo reventó
+  - Risas de compañeros que lo anularon
+- **Nueva percepción**: El padre ya no es montaña, es hombre pequeño
+- **Poder recuperado**: Hotman controla la situación, no el padre
+- **Autonomía total**: Elige su vida, rechaza la corporativa
+
+#### **El Amor como Fundación Nueva**
+- **Justa como sol**: "Fue como si de repente hubiera salido el sol"
+- **Corazón latiendo fuerte**: Respuesta física al amor genuino
+- **Mundo más amable**: Su presencia transforma la realidad percibida
+- **Oxígeno**: Literalmente puede respirar mejor con ella
+- **Felicidad auténtica**: "El influencer más feliz del mundo"
+
+### **Consecuencias y Significado**
+
+#### **Legales y Sociales**
+- **Nuevo crimen grave**: Intento de asesinato, destrucción de propiedad
+- **Padre herido**: Probablemente hospitalizado
+- **Testigos**: Abogado y guardaespaldas sobreviven
+- **Evidencia**: Cámara de seguridad, explosión masiva
+- **Prófugo**: Aumenta drásticamente su estatus de búsqueda
+
+#### **Emocionales y Relacionales**
+- **Libertad total**: Ya no tiene ataduras familiares
+- **Puente quemado**: Imposibilidad de reconciliación futura
+- **Anclaje en Justa**: Ella es su nueva familia primaria
+- **La Fuerza Oculta**: Su verdadera familia elegida
+- **Paz interior**: Por primera vez, genuinamente feliz
+
+#### **Identitarios**
+- **Hotman vs Alejandro**: Elige definitivamente la identidad heroica
+- **Clase social**: Rechaza riqueza familiar por autenticidad
+- **Herencia**: "Torció el gesto con desagrado" al reconocer análisis frío heredado
+- **Autodefinición**: Se define por amor y valentía, no por dinero y poder
+
+### **Paralelismos con Justa/Sentencia**
+
+#### **Ambos Confrontan Figuras Paternas**
+- **Justa**: Confrontó a su hermano Jesús y el legado paterno
+- **Hotman**: Confronta y destruye autoridad paterna directamente
+- **Ambos**: Eligen identidad heroica sobre legado familiar
+- **Resultado**: Se encuentran como iguales, libres de cadenas pasadas
+
+#### **Amor Forjado en Trauma Superado**
+- **Comprensión mutua**: Ambos vienen de familias disfuncionales
+- **Apoyo sin juicio**: Justa no pregunta qué pasó, confía en él
+- **Igualdad**: Ninguno debe nada a sus familias biológicas
+- **Nueva familia**: Crean su propia unidad familiar con La Fuerza Oculta
+
+### **Estado Actual (30 Septiembre 2025)**
+
+**Situación Legal**:
+- Nuevo cargo extremadamente grave por intento de asesinato
+- Padre herido y probablemente buscando venganza legal
+- Estatus de prófugo intensificado dramáticamente
+- Imposibilidad de vida pública sin ser capturado
+
+**Estado Emocional**:
+- **Mejor que nunca**: Genuinamente feliz por primera vez
+- **Libre del miedo**: El fantasma paterno destruido
+- **Anclado en amor**: Justa es su fundación emocional
+- **Paz con la violencia**: Acepta que la violencia fue necesaria para liberación
+
+**Relaciones**:
+- **Justa**: Su sol, su razón de estar bien
+- **La Fuerza Oculta**: Su familia verdadera y elegida
+- **Padre**: Puente quemado literal y metafóricamente
+- **Familia biológica**: Conexión permanentemente destruida
+
+**Filosofía Personal Consolidada**:
+> "El miedo que gobierna tu infancia puede ser destruido. Se quema en el combate, se revienta con el amor, se anula con las risas de amigos. Y cuando finalmente lo matas, descubres que el dios que te aterraba era solo un hombre pequeño y miserable."
+
+**Lección Aprendida**:
+> "Bibau nunca tendrá su nombre en una lápida. Pero el niño que lloró por ese cachorro ha muerto también, reemplazado por alguien que elige amor sobre miedo, familia elegida sobre sangre, y libertad sobre seguridad material."
+
+### **Implicaciones para el Futuro**
+
+#### **Ya No Hay Vuelta Atrás**
+- **Puentes quemados**: Literalmente voló el coche, metafóricamente la relación
+- **Consecuencias permanentes**: Este acto lo define para siempre
+- **Libertad total**: Ya no tiene nada que perder de su vida anterior
+- **Compromiso con heroísmo**: Ha elegido definitivamente este camino
+
+#### **Relación con Justa Profundizada**
+- **Ella es su ancla**: Sin familia, Justa es su estabilidad emocional
+- **Comprensión mutua**: Ambos han destruido lazos familiares tóxicos
+- **Apoyo incondicional**: Ella confía en él sin necesitar explicaciones
+- **Amor maduro**: Basado en elección, no en conveniencia
+
+#### **Transformación Completa del Personaje**
+- **De víctima a liberado**: Ya no es el niño aterrorizado
+- **De influencer a revolucionario**: Sus actos ahora tienen peso real
+- **De hijo a huérfano elegido**: Rechaza familia biológica por elegida
+- **De Hot a Hotman**: El nombre de superhéroe es ahora su verdadera identidad
+
+Esta confrontación marca el **nacimiento definitivo de Hotman** como adulto libre, destruyendo no solo al padre físico sino al fantasma psicológico que lo atormentaba. El niño que lloró por Bibau ha muerto, reemplazado por alguien capaz de quemar sus miedos y encontrar el sol en la sonrisa de la persona que ama.

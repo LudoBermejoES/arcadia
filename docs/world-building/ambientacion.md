@@ -83,13 +83,34 @@ Durante los siguientes diez años, una serie de reformas económicas y pactos co
 
 La constitución no había sido cambiada... simplemente nadie le prestaba atención. El miedo se había apoderado de la población ante los rumores de un poder en las sombras que controlaba todos los asuntos sucios del país.
 
-### La Llegada de los Metahumanos
+### La Primera Aparición de Arcadio (6 de abril de 1952)
 
-En esa época empezaron a sonar los primeros rumores sobre un poder en la sombra, una especie de Señor del Crimen que gobernaba todos los asuntos sucios del país. Nadie sabía su nombre, pero todo el mundo sabía que existía... y se rumoreaba que tenía bajo su cargo a un número indeterminado de sicarios de extraños poderes mágicos.
+La llegada de los metahumanos fue dramática e inequívoca. En la madrugada del **6 de abril de 1952**, un grupo de desconocidos se infiltró en el senado arcadio donde el gobierno discutía en sesión extraordinaria la posibilidad de dar marcha atrás al programa nuclear. Las luces del hemiciclo se apagaron, sonaron tres disparos. El presidente **Federico Ibarreche** cayó con una bala en el pecho y otra en la cabeza.
 
-El **20 de enero de 1956** el mundo cambió. Se produjo un ataque a la sede del Ministerio de Justicia; los testigos dijeron haber visto a un ser de pura roca y fuerza colosal acompañado por una mujer disfrazada que se transformó en fuego. Los atacantes incineraron archivos de investigación y dejaron al edificio en ruinas.
+El vicepresidente declaró estado de emergencia y prohibió la salida de aviones y barcos. Tres horas después, una avioneta rompió el bloqueo, despegando de una finca cerrada. Cuando apenas le quedaban unas hectáreas para abandonar territorio arcadio, algo apareció en el cielo: **un destello, un borrón apenas distinguible**.
 
-Pronto comenzaron a reportarse crímenes extraños por todo el mundo: sacos de dinero que se movían solos, prisioneros encontrados with sus cabezas explotadas, mujeres que denunciaban violaciones por cuatro hombres idénticos. En Honduras se avistaron nubes que lanzaban cuchillos, en Japón aparecieron seres acuáticos destruyendo barcos de pesca ilegal.
+La avioneta disminuyó su altura hasta quedar a escasos veinte metros del suelo y voló **hacia atrás** por las calles principales, ante la mirada atónita de los habitantes. Alguien la arrastraba hacia el senado: **un hombre disfrazado con los colores de la bandera - amarillo, rojo, morado**.
+
+Las ruedas apenas aguantaron el golpe cuando dejó caer la avioneta. **Los Rayos** le rodearon. Era muy joven, de rostro lampiño. Años después, un oficial revelaría en sus memorias que *"su voz le pareció demasiado joven. De aquella yo creo que no llegaría a los dieciséis años"*.
+
+**Sus palabras**:
+> "No deben temer nada, no deseo hacer ningún daño. En la avioneta se encuentran los que atentaron contra el presidente Ibarreche. Si les interrogan averiguarán quién ordenó el ataque. He venido para proteger este país, y a todos los que en él habitan. Espero serles de ayuda."
+
+El más joven de los soldados, un judío de Chicago aficionado a las tiras cómicas, cayó de rodillas. En voz baja pronunció: **"Superman"**. El hombre volador sonrió, alzó el vuelo y desapareció entre las nubes.
+
+Dentro de la avioneta descubrieron tres hombres muertos por cianuro y un cuarto inconsciente. **Jeremiah Kowalski**, agente de la CIA enviado a asesinar a Ibarreche, se confesó tras días de interrogatorio. El escándalo provocó la dimisión del director de la CIA **Walter Bedell Smith**, hundió la campaña de reelección del presidente Truman, y obligó al nuevo presidente Eisenhower a firmar los **Tratados de París** y **Tratados de Varsovia**, terminando la depresión económica de Arcadia.
+
+El mundo no sabía qué pensar del héroe desconocido. Inicialmente se tomó por falsa, *"una mentira esgrimida por los cuerpos del ejército para tapar algún experimento militar"*. Periodistas de prestigio apuntaron: *"No somos niños"*, *"Queremos respuestas, no ilusiones"*. Pero los avistamientos continuaron. Pronto se popularizó el nombre **"Arcadio"** (originalmente "Superman Arcadio").
+
+### La Explosión Metahumana
+
+En esa época también empezaron a sonar rumores sobre **Telaraña**, un poder en la sombra que gobernaba todos los asuntos sucios del país. Nadie sabía su nombre, pero todo el mundo sabía que existía... y se rumoreaba que tenía bajo su cargo a sicarios de extraños poderes.
+
+El **7 de junio de 1952**, Arcadio volvió a aparecer oficialmente para socorrer víctimas de un incendio en los juzgados. Pero tuvo que compartir portadas con el testimonio de los supervivientes: el incendio fue provocado por **una mujer que ardía sin quemarse** y lanzaba lenguas de fuego con sólo extender las manos.
+
+Siguieron presos con cabezas reventadas en celdas cerradas, jóvenes inmunes a balas, violaciones perpetradas en el aire. El **21 de marzo de 1952**, la ciudad amaneció cubierta de panfletos explicando que los crímenes eran perpetrados por personas con habilidades sobrehumanas, y que solo sus homónimos - los "mejores de Arcadia" - podrían detenerles.
+
+Aparecieron nuevos justicieros, todos vestidos a la manera de Arcadio, muchos con el rostro cubierto. Al final del año, ya eran dos docenas. La venta de cómics se disparó. **Nicolás Stein** fundó **Arcadia Comics** y comenzó a publicar novelizaciones de los héroes locales.
 
 **Llegaban los metahumanos.**
 

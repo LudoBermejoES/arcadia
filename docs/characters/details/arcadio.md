@@ -13,13 +13,40 @@ slug: arcadio
 
 ## Presentación
 
-Arcadio es una figura legendaria en la historia de Arcadia, considerado la primera representación de metahumano y un héroe veterano con décadas de experiencia. Su influencia se extiende desde el combate al crimen hasta la alta sociedad, siendo una personalidad respetada tanto por ciudadanos como por otros héroes.
+Arcadio es una figura legendaria en la historia de Arcadia, el **primer superhéroe público del mundo** que apareció dramáticamente en 1952. Su influencia se extiende desde el combate al crimen hasta la alta sociedad y la exploración espacial, siendo una personalidad respetada tanto por ciudadanos como por otros héroes. Vestido con los colores de la bandera arcadia (amarillo, rojo y morado), representa el ideal heroico que inspiró a generaciones posteriores.
+
+## Primera Aparición Pública (6 de abril de 1952)
+
+### El Asesinato de Ibarreche
+En la madrugada del 6 de abril de 1952, el presidente **Federico Ibarreche** fue asesinado durante una sesión extraordinaria del senado arcadio. Un grupo de desconocidos apagó las luces del hemiciclo y disparó tres veces, matando al presidente con balas en el pecho y la cabeza.
+
+### La Intervención Heroica
+Tres horas después del asesinato, una avioneta intentó escapar de Arcadia rompiendo el bloqueo de emergencia. Los testigos vieron aparecer en el cielo **"un destello, un borrón apenas distinguible"**. La avioneta fue arrastrada hacia atrás por las calles principales hasta el senado, pilotada por un hombre disfrazado con los colores de la bandera: **amarillo, rojo, morado**.
+
+### Primer Contacto con Los Rayos
+Cuando Arcadio dejó caer la avioneta, los Rayos (la policía de Arcadia) le rodearon. Su voz sonaba muy joven, quizás no llegaba a los dieciséis años. Un oficial escribiría años después: *"De aquella yo creo que no llegaría a los dieciséis años"*.
+
+**Palabras de Arcadio**:
+> "No deben temer nada, no deseo hacer ningún daño. En la avioneta se encuentran los que atentaron contra el presidente Ibarreche. Si les interrogan averiguarán quién ordenó el ataque. He venido para proteger este país, y a todos los que en él habitan. Espero serles de ayuda."
+
+El más joven de los soldados, un judío de Chicago aficionado a los tebeos, cayó de rodillas y pronunció: *"Superman"*. Arcadio sonrió, alzó el vuelo y desapareció entre las nubes.
+
+### Consecuencias Inmediatas
+- Dentro de la avioneta se encontraron **tres asesinos muertos por cianuro** y un cuarto inconsciente
+- El superviviente era **Jeremiah Kowalski**, agente de la CIA enviado a asesinar a Ibarreche
+- Su confesión provocó un escándalo internacional que acabó con la carrera de **Walter Bedell Smith** (director de la CIA)
+- El presidente Truman perdió las elecciones, arrastrando al candidato demócrata Adlai Stevenson
+- Eisenhower levantó el bloqueo económico contra Arcadia
+- Se firmaron los **Tratados de París** (EEUU) y **Tratados de Varsovia** (URSS), terminando la depresión económica
+
+### Impacto Cultural
+La aparición fue inicialmente tomada por falsa, "una copia de un personaje de tebeo". Periodistas de prestigio atacaron al gobierno: *"No somos niños"*, *"Queremos respuestas, no ilusiones"*. Pero los avistamientos continuaron y pronto se popularizó el nombre **"Arcadio"** (originalmente "Superman Arcadio").
 
 ## Rol y Actividades
 
-**Primer Metahumano Representativo**: Arcadio se considera a sí mismo "la primera representación de metahumano", lo que lo posiciona como una figura histórica fundamental en el desarrollo de la identidad metahumana en Arcadia.
+**Primer Superhéroe Público**: Arcadio fue el primer metahumano en aparecer públicamente ante el mundo, estableciendo el arquetipo del superhéroe moderno. Su aparición en 1952 cambió para siempre la percepción mundial de los metahumanos.
 
-**Héroe Veterano**: Con décadas de experiencia, Arcadio ha establecido un legado heroico que incluye tanto operaciones de combate como misiones diplomáticas internacionales.
+**Héroe Veterano**: Con más de 70 años de experiencia activa (1952-actualidad), Arcadio ha establecido un legado heroico que incluye tanto operaciones de combate como misiones diplomáticas internacionales y científicas.
 
 **Figura Internacional**: Ha realizado trabajos en Egipto que fueron tan significativos que en el año 2000 se transportó un templo de Ra completo a Arcadia como agradecimiento por sus servicios.
 

@@ -4,16 +4,33 @@ title: "History Overview"
 permalink: /world-building/history-overview/
 ---
 
-# Historia
+# Historia de Arcadia
 
-[DE ESPAÑA A ARCADIA EN VEINTIÚN AÑOS](DE%20ESPAN%CC%83A%20A%20ARCADIA%20EN%20VEINTIU%CC%81N%20AN%CC%83OS%20237ad5e1bc81811ca237d970ed0e97df.md)
+## Las Seis Eras
 
-[ARCADIA. PRIMEROS PASOS](ARCADIA%20PRIMEROS%20PASOS%20237ad5e1bc8181078e03cc8564d6052e.md)
+### [01. Arcadia: Primeros Pasos]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)
+Los orígenes de la isla volcánica y su fundación como nación independiente.
 
-[EL DESPERTAR DE ARCADIA](EL%20DESPERTAR%20DE%20ARCADIA%20237ad5e1bc81811e8bbadd5a7487efbf.md)
+### [02. De España a Arcadia en Veintiún Años]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)
+El período de migración y asentamiento desde España hasta la consolidación de Arcadia.
 
-[LA EDAD DE ORO DE ARCADIA.](LA%20EDAD%20DE%20ORO%20DE%20ARCADIA%20237ad5e1bc8181d0bfc3c7d7bf5c3a67.md)
+### [03. El Despertar de Arcadia]({{ site.baseurl }}/world-building/03-arcadia-awakening/)
+La llegada de los primeros metahumanos y el establecimiento de Telaraña como poder criminal.
 
-[LA MADUREZ LLEGA A ARCADIA](LA%20MADUREZ%20LLEGA%20A%20ARCADIA%20237ad5e1bc8181babe5af1f908b10f0d.md)
+### [04. Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)
+Las historias que definieron los años 50: La Comadreja, David y el Golem, Esperanza Nambasi y Garfios.
 
-[EN LOS ÚLTIMOS VEINTE AÑOS](EN%20LOS%20U%CC%81LTIMOS%20VEINTE%20AN%CC%83OS%20237ad5e1bc81810688b3c11ee1e122f6.md)
+### [05. La Edad de Oro de Arcadia]({{ site.baseurl }}/world-building/05-golden-age/)
+La Crisis de los Misiles de Cuba, el auge económico y los eventos que consolidaron a Arcadia como potencia.
+
+### [06. La Madurez Llega a Arcadia]({{ site.baseurl }}/world-building/06-maturity-arrives/)
+La evolución política y social de Arcadia hacia una nación madura.
+
+### [07. En los Últimos Veinte Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)
+Los eventos recientes que han dado forma a la Arcadia contemporánea.
+
+---
+
+## Navegación
+
+[🏠 Inicio]({{ site.baseurl }}/) | [🌍 Mundo]({{ site.baseurl }}/world-building/) | [⏱️ Timeline Interactivo]({{ site.baseurl }}/world-building/timeline/)

@@ -778,6 +778,83 @@ La sesión del 21 de septiembre revela las profundidades ocultas del heroísmo a
 
 Esta sesión demuestra que el verdadero heroísmo a veces requiere tanto el sacrificio público del entrenamiento brutal como la redención privada por acciones pasadas, estableciendo que las consecuencias de la violencia, incluso justificada, deben ser enfrentadas con responsabilidad personal.
 
+### Sesión 33: Pizza, Discriminación y Carreras Ilegales (5 octubre 2025)
+
+**Incidente de discriminación metahumana:**
+
+La sesión del 5 de octubre presenta el primer encuentro directo del grupo con la discriminación metahumana sistémica, cuando una ilusión cómica de **Kayface** desencadena una crisis social mayor.
+
+**El incidente de la pizzería:**
+- **Mambo y Zambo**: Dos hermanos metahumanos gemelos (hijos del villano clásico Manni), grandes, gordos y escandalosos
+- **Ilusión policial**: Kayface crea dos policías ilusorios que prohíben a los hermanos "comer pizza con piña en público"
+- **Reacción real**: Los hermanos se marchan diciendo *"malditos policías, siempre abusando de los metahumanos"*
+- **Indignación de Justa**: Confronta a los "policías" considerándolo abuso de autoridad
+- **Solidaridad**: Justa paga seis pizzas para cuando los hermanos regresen
+- **Realidad revelada**: La camarera explica que *"los pobres metahumanos siempre tienen problemas de ese tipo"*
+
+**Consecuencias virales:**
+- **Hotman** graba video colaborativo con Mambo y Zambo denunciando brutalidad policial
+- El video se vuelve el **más visitado de Hotman** hasta la fecha
+- **Disturbios sociales**: Contenedores quemados y grafitis "Z" por toda Arcadia
+- **Zanny revelado**: Tío de los hermanos, piroquinético de 55 años considerado psicópata
+- **Negación oficial**: La policía niega existencia de los agentes y sugiere "video fake"
+
+**Investigación: ¿Cómo contactar a Cacharrero?**
+
+El grupo inicia búsqueda sistemática para contactar a **Cacharrero**, creador de la patineta de Kayface:
+
+**Justa en el Club de Robots:**
+- **Opción 1**: Robar piedra lunar del Museo de Arcadia (traída por Esperanza Nambasi)
+- **Opción 2**: Obtener el **Bastón del Faraón** de la familia mafiosa **Aguilar**
+  - Ubicación: Mansión de la Abuela Aguilar, museo de artefactos mágicos
+  - *"Miles de espías murieron para conseguir esa información"*
+  - Conexión personal con El Faraón (importante para Justa)
+
+**Hotman investiga coches:**
+- Descubre que Cacharrero es **fanático de carreras de vehículos especiales**
+- Es **principal esponsor** de todas las ligas de carreras ilegales controladas por **La Telaraña**
+- **Metedura de pata**: Una periodista le sonsaca que él y Justa "están juntos y se han acostado"
+- El cotilleo se hace público, Justa le escribe furiosa: *"ya puede correr, que como le pille..."*
+
+**Kayface investiga relación Cacharrero-Cacharrina:**
+- Descubre que su parentesco **no es de dominio público**
+- Confirma obsesión de Cacharrero con competiciones de vehículos
+
+**Decisión final: Plan de acción**
+
+Tres opciones sopesadas:
+1. ❌ Robar piedra lunar del museo (opción más sencilla)
+2. ❌ Obtener Bastón del Faraón de la mafia Aguilar (opción más peligrosa pero personal)
+3. ✅ **Participar en carreras ilegales de vehículos**
+
+**Plan elegido**: "Carrera de vainas con robo previo de un coche"
+- Robar un coche de carreras de alta gama
+- Competir en una de las carreras ilegales patrocinadas por Cacharrero
+- Como metahumanos tienen buenas posibilidades de ganar
+- Opción que desarrolla personajes y promete diversión
+
+**Nuevos personajes introducidos:**
+
+**Mambo y Zambo:**
+- Gemelos metahumanos de ~16 años, grandes y gordos
+- **Poderes**: Solo pueden transformarse en bloques de metal, vibran las cosas a su alrededor
+- **Padre**: Manni (supervillano clásico, encarcelado)
+- Constantemente discriminados, protagonistas de video viral
+
+**Zanny:**
+- 55 años, tío de Mambo y Zambo, representante legal
+- **Poderes**: Control de fuego (piroquinético)
+- Considerado **psicópata**, ha causado muchos problemas
+- **Símbolo**: "Z" en círculo diagonal asociado a disturbios recientes
+- Posible mentor para Hotman en control de energías
+
+**Familia Aguilar:**
+- Mafiosos peligrosos ("de los que disparan")
+- Museo privado de artefactos mágicos en mansión de la Abuela Aguilar
+- Poseen el **Bastón del Faraón**
+
+Esta sesión expone las complejidades de la discriminación metahumana en Arcadia, mostrando cómo incluso una broma puede revelar realidades sociales dolorosas. La elección de perseguir a Cacharrero a través de carreras ilegales establece una vía narrativa que combina acción, crimen organizado y desarrollo de personajes.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes

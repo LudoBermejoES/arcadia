@@ -222,6 +222,25 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+### 🕵️ **Octubre 2025 - Investigación y Planificación**
+
+#### [📊 Sesión 5 de Octubre](../ai-notes-summary/2025-10-05-gemini-notes.md)
+**"Pizza, Discriminación y Carreras Ilegales"**
+- 🍕 **Incidente de Pizzería**: Ilusión de Kayface desencadena reflexión sobre discriminación metahumana
+- 👥 **Mambo y Zambo**: Gemelos metahumanos víctimas de abuso policial constante
+- 📺 **Video Viral**: Hotman crea campaña contra brutalidad policial, su video más exitoso
+- 🔥 **Zanny Revelado**: Tío piroquinético de 55 años, considerado psicópata, causa disturbios
+- 🔍 **Investigación Triple**: Justa descubre piedra lunar y Bastón del Faraón, Hotman revela carreras ilegales
+- 🏎️ **Cacharrero**: Fanático de carreras, principal esponsor de ligas ilegales controladas por La Telaraña
+- 💔 **Escándalo Romántico**: Hotman expone accidentalmente relación con Justa en entrevista
+- ⚖️ **Familia Aguilar**: Mafiosos con museo de artefactos mágicos, poseen Bastón del Faraón
+- 🎯 **Decisión Final**: El grupo elige participar en carreras ilegales para contactar a Cacharrero
+- 🚗 **Plan Establecido**: Robar coche de carreras de alta gama y competir en liga ilegal
+
+**Temas Clave**: Discriminación metahumana sistémica, activismo social, dilemas morales, crimen organizado, investigación paralela
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -265,6 +284,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 08/09](../ai-notes-summary/2025-09-08-gemini-notes.md)** - Encuentro con el pasado en el Barrio Gótico
 - **[Resumen 14/09](../ai-notes-summary/2025-09-14-gemini-notes.md)** - Tentación del poder y sabiduría veterana
 - **[Resumen 21/09](../ai-notes-summary/session-33-summary.md)** - Entrenamiento y redención secreta
+- **[Resumen 05/10](../ai-notes-summary/2025-10-05-gemini-notes.md)** - Discriminación, investigación y decisión de carreras ilegales
 
 ---
 
@@ -314,9 +334,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 12 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~190 páginas de contenido
-- **Horas de Juego**: ~35 horas registradas
+- **Sesiones Totales**: 13 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~200 páginas de contenido
+- **Horas de Juego**: ~38 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

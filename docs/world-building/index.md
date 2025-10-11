@@ -72,7 +72,7 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - 📈 Era 4: Madurez (2000-2023)
 - 🔮 Era 5: La Actualidad (2024-2025)
 
-### **🕰️ Eras Históricas Documentadas**
+### **🕰️ Las Siete Eras Históricas Documentadas**
 
 #### **[01 - Primeros Pasos de Arcadia]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)**
 **Los Orígenes Misteriosos**
@@ -95,12 +95,12 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **Establecimiento de Normas**: Las primeras leyes y regulaciones
 - **Conflictos Iniciales**: Tensiones entre humanos y metahumanos
 
-#### **[04 - Los Últimos 20 Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)**
-**La Era Moderna Pre-Heroica**
-- **Consolidación Social**: Integración completa de metahumanos
-- **Desarrollo Tecnológico**: Avances únicos impulsados por poderes
-- **Crecimiento Económico**: Arcadia como potencia independiente
-- **Preparación del Escenario**: Condiciones para el surgimiento heroico
+#### **[04 - Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)**
+**Las Historias que Definieron los Años 50**
+- **La Comadreja**: Primera delincuente metahumana con estilo y clase
+- **David y el Golem**: Los héroes que liberaron el Barrio Gótico de la Telaraña
+- **Esperanza Nambasi**: Primera humana en la Luna, mártir de los derechos civiles
+- **Garfios**: El terror del Barrio Flotante, primer asesino serial metahumano
 
 #### **[05 - La Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)**
 **El Apogeo Heroico (Era de La Familia)**
@@ -115,6 +115,13 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **Complejidad Moral**: Dilemas éticos más sofisticados
 - **Política Metahumana**: Integración en sistemas gubernamentales
 - **Desafíos Modernos**: Amenazas que requieren nuevas aproximaciones
+
+#### **[07 - Los Últimos Veinte Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)**
+**La Era Moderna Pre-Heroica**
+- **Consolidación Social**: Integración completa de metahumanos
+- **Desarrollo Tecnológico**: Avances únicos impulsados por poderes
+- **Crecimiento Económico**: Arcadia como potencia independiente
+- **Preparación del Escenario**: Condiciones para el surgimiento heroico
 
 ---
 
@@ -275,7 +282,7 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 ### **🎲 Métricas del Universo**
 
 - **15** Años de Desarrollo
-- **6** Eras Históricas  
+- **7** Eras Históricas
 - **12** Distritos Urbanos
 - **155** Personajes Únicos
 - **50+** Organizaciones
@@ -295,8 +302,10 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **[🌅 Orígenes]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)** - Los primeros días
 - **[🏗️ Construcción]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)** - Establecimiento de la sociedad
 - **[⚡ Despertar]({{ site.baseurl }}/world-building/03-arcadia-awakening/)** - El surgimiento meta
+- **[🦸 Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)** - Historias de los años 50
 - **[🏛️ Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)** - La era heroica clásica
 - **[🔮 Era Moderna]({{ site.baseurl }}/world-building/06-maturity-arrives/)** - Complejidad actual
+- **[📈 Últimos 20 Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)** - La era pre-heroica moderna
 
 ### **🎭 Por Elemento Cultural**
 - **🦸‍♂️ Tradiciones Heroicas** - Códigos y ceremonias

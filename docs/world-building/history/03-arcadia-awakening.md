@@ -28,3 +28,4 @@ Cinco años más tarde se conocían ya unos cuarenta metahumanos en todo el mund
 popularizó; los puso nombres extranbóticos (Bomba Humana, Tormenta, Igneo) y atrajo para sí una industria del comic que resurgió después de tantos años de ser una industria indiferente. Los "Justicieros Necesarios" aparecieron en muchas ciudades; algunos de ellos eran personas correctas y amables, otros meros asesinos disfrazados.
 
 Los metahumanos habían llegado para quedarse.
+

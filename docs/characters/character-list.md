@@ -63,7 +63,7 @@ permalink: /characters/character-list/
 - [Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/) (Maestro de Infiltración)
 
 ### Antiguos Héroes
-- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (héroe fundacional, Guardián, motor del Proyecto Méliès 1956)
+- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (primer superhéroe público 1952, motor del Proyecto Méliès 1956)
 - [Esperanza Nambasi]({{ site.baseurl }}/characters/details/esperanza-nambasi/) (primera humana en la Luna 1956, asesinada)
 - [Alondra]({{ site.baseurl }}/characters/details/alondra/) (heroína de los 50s, última víctima de Garfios)
 - [Venus / Sibila]({{ site.baseurl }}/characters/details/venus-sibila/)
@@ -74,11 +74,21 @@ permalink: /characters/character-list/
 - [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario)
 - [David]({{ site.baseurl }}/characters/details/david/) (niño héroe del Barrio Gótico 1954, primer Shomer Ḥinnam)
 
+### Los Anemoi (Los Cuatro Vientos - Años 60)
+- [Bóreas]({{ site.baseurl }}/characters/details/boreas/) (líder, viento del norte, invierno, alas de hielo)
+- [Austros]({{ site.baseurl }}/characters/details/austros/) (diplomático, viento del sur, otoño, alas como hojas)
+- [Euro]({{ site.baseurl }}/characters/details/euro/) (carismático, viento del este, verano, cubierto de fuego)
+- [Céfiro]({{ site.baseurl }}/characters/details/cefiro/) (rescatista, viento del oeste, primavera, piel dorada)
+
 ## Metahumanos Criminales y Villanos
 
 ### Criminales Históricos (Años 50s)
 - [La Comadreja]({{ site.baseurl }}/characters/details/la-comadreja/) (ladrona legendaria años 50, madre de Comadreja Negra)
 - [Garfios]({{ site.baseurl }}/characters/details/garfios/) (asesino serial 1958, 10 víctimas, nunca capturado)
+
+### Criminales Históricos (Años 60s)
+- [Infalible]({{ site.baseurl }}/characters/details/infalible/) (enemigo clásico de Los Anemoi, nunca capturado)
+- [Baronesa de Jade]({{ site.baseurl }}/characters/details/baronesa-de-jade/) (enemiga clásica de Los Anemoi, nunca capturada)
 
 ### Los Grandes Criminales
 - [Telaraña]({{ site.baseurl }}/characters/details/telarana/)

@@ -25,7 +25,7 @@ Arcadio es una figura legendaria en la historia de Arcadia, considerado la prime
 
 **Mentor y Supervisor**: Ha actuado como mentor para otros héroes, incluyendo a La Familia, a quienes ha puesto a prueba y evaluado en misiones peligrosas.
 
-**Colaborador Espacial**: Ha participado en proyectos espaciales, incluyendo el impulso de cohetes para misiones lunares, demostrando capacidades que trascienden el combate terrestre.
+**Colaborador Espacial**: Fue el componente esencial del **Proyecto Méliès** (1956), el programa que llevó a **Esperanza Nambasi** a la Luna, demostrando capacidades que trascienden el combate terrestre.
 
 ## Apariciones Documentadas
 - [La Familia Index](../../campaigns/la-familia/index.md)
@@ -54,7 +54,43 @@ Arcadio es una figura legendaria en la historia de Arcadia, considerado la prime
 
 **Retiro**: Eventualmente se retiró del servicio activo, marcando el final de una era heroica.
 
-**Proyecto Espacial**: Participó en el impulso de cohetes que llevaron a Esperanza Mambasi a la luna, demostrando sus capacidades en proyectos científicos avanzados.
+**Proyecto Méliès (1956)**: Fue el "motor humano" del primer viaje tripulado a la Luna, actuando como propulsor para la nave que llevó a **Esperanza Nambasi**. Su participación se mantuvo en secreto durante un año de preparación, siendo revelada dramáticamente el día del lanzamiento. Realizó cuatro vueltas al globo terráqueo para acelerar la nave hasta velocidad de escape y transportó más combustible del calculado inicialmente, demostrando capacidades físicas más allá de lo previsto por los científicos.
+
+## El Proyecto Méliès: Hazaña Espacial (1956)
+
+### Preparación Secreta
+Durante casi un año, Arcadio colaboró en secreto con el **Doctor Carrasco** y la Universidad de Arcadia en el Proyecto Méliès. Su participación se mantuvo oculta mientras:
+- Se realizaban pruebas de capacidad de carga
+- Se diseñaba una nave aerodinámica específica
+- Se calculaba si podría transportar a Esperanza Nambasi a velocidad de escape
+
+### El Día del Lanzamiento (2 de Octubre de 1956)
+**Condiciones**: Cielo amenazante, vientos de 85 km/h en la costa occidental
+
+**Revelación Dramática**: Cuando los científicos invitados comenzaban a protestar por la aparente imposibilidad del lanzamiento, el Doctor Carrasco anunció: *"Les presento el motor que nos conducirá a la Luna"*. Arcadio apareció como una mota diminuta creciendo en el cielo. Un fotógrafo gritó: *"¡Arcadio! ¡Han traído a Arcadio!"*
+
+**Foto Icónica**: El apretón de manos entre Arcadio (íntegro, poderoso, blanco) y Esperanza Nambasi antes del despegue fue **portada en la mayoría de los periódicos del mundo**, considerándose una manifestación de apoyo al movimiento por los derechos civiles.
+
+### Hazaña Física
+- **Cuatro vueltas al globo terráqueo** para acelerar la nave hasta velocidad de escape
+- **Liberación en órbita de transferencia** con precisión milimétrica
+- **Carga extra**: Transportó más combustible del previsto (los expertos se sorprendieron al ver la nave completa descender a la Luna sin módulo separado)
+- **Reaparición para el amerizaje**: Aseguró que la nave llegara a la zona de amerizaje seleccionada con descenso modélico
+
+### Controversia Científica
+Algunos científicos estaban furiosos: *"Utilizar el poder metahumano para resolver las dificultades era como mirar la solución de un problema al final del libro. Podías contestar correctamente, pero no era una forma correcta de avanzar."*
+
+Sin embargo, nadie prestó atención a las voces disonantes: la presencia de Arcadio daba al viaje una trascendencia nacional.
+
+### Declaración del Doctor Carrasco
+*"Arcadio se mostró cauteloso cuando pedimos su colaboración. Dijo no estar seguro de si sería de alguna ayuda. No podía superar la atmósfera, mucho menos llevar a los astronautas a la Luna. Le sometimos a decenas de pruebas, comprobamos que podría llevar a velocidad de escape una nave lo suficiente aerodinámica. Solo quedaba el asunto de los astronautas. Arcadio no quería conducir a nadie a la muerte. Cuando conoció a la señorita Nambasi sus temores se disiparon. Me dijo, 'Doctor, creo que podemos hacerlo'. Nos ha llevado casi dos años conseguir esa certeza. Es el momento de llevarla a cabo."*
+
+### Legado del Proyecto
+El Proyecto Méliès demostró que Arcadio no solo era un combatiente, sino un componente esencial en logros científicos imposibles. Su participación:
+- Llevó al primer humano a la Luna (11 años antes que Neil Armstrong)
+- Demostró responsabilidad ética (preocupación por no causar muerte)
+- Simbolizó apoyo a los derechos civiles
+- Estableció precedente de cooperación metahumana-científica
 
 ## Detalles Adicionales
 
@@ -64,6 +100,20 @@ Arcadio es una figura legendaria en la historia de Arcadia, considerado la prime
 
 **Relación con los Guardianes**: Tiene conocimiento de los Guardianes, una organización misteriosa que opera en Arcadia, sugiriendo su integración en los niveles más altos de la jerarquía heroica.
 
-**Capacidades Especiales**: Sus habilidades incluyen desde combate hasta capacidades técnicas y científicas, como demostró en sus proyectos espaciales y trabajo internacional.
+**Capacidades Especiales**: Sus habilidades incluyen:
+- **Vuelo a altísimas velocidades** (capaz de acelerar naves espaciales)
+- **Fuerza colosal** (transportar combustible equivalente a cientos de toneladas)
+- **Resistencia atmosférica** (sobrevivir en el espacio o límites de la atmósfera)
+- **Precisión orbital** (navegación espacial milimétrica)
+- **Combate avanzado** y trabajo internacional
+- **Longevidad** (activo desde antes de la Segunda Guerra Mundial hasta actualidad)
 
 **Legado Duradero**: Su influencia persiste incluso después de su retiro, siendo una figura respetada cuya presencia o ausencia es notable para otros héroes y la comunidad en general.
+
+## Relaciones Clave
+- **Esperanza Nambasi**: Compañera en el Proyecto Méliès, su apretón de manos fue símbolo internacional
+- **Doctor Carrasco**: Director del Proyecto Méliès que confió en sus capacidades
+- **La Familia**: Grupo al que evaluó, mentoreó y puso a prueba
+- **El Mago**: Compañero capturado en misión
+- **Charada**: Sastre que le diseñó traje revolucionario en los 90s
+- **Los Guardianes**: Organización misteriosa con la que tiene conexión

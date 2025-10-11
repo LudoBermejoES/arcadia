@@ -63,20 +63,27 @@ permalink: /characters/character-list/
 - [Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/) (Maestro de Infiltración)
 
 ### Antiguos Héroes
-- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (héroe fundacional, Guardián)
+- [Arcadio]({{ site.baseurl }}/characters/details/arcadio/) (héroe fundacional, Guardián, motor del Proyecto Méliès 1956)
+- [Esperanza Nambasi]({{ site.baseurl }}/characters/details/esperanza-nambasi/) (primera humana en la Luna 1956, asesinada)
+- [Alondra]({{ site.baseurl }}/characters/details/alondra/) (heroína de los 50s, última víctima de Garfios)
 - [Venus / Sibila]({{ site.baseurl }}/characters/details/venus-sibila/)
 - [Autoridad]({{ site.baseurl }}/characters/details/autoridad/)
 - [Psicodalia]({{ site.baseurl }}/characters/details/psicodalia/)
 - [La Desconocida]({{ site.baseurl }}/characters/details/la-desconocida/)
 - [Los Defensores]({{ site.baseurl }}/groups/los-defensores/) (grupo histórico)
 - [Nube]({{ site.baseurl }}/characters/details/nube/) (héroe legendario)
-- [David]({{ site.baseurl }}/characters/details/david/) (héroe del Barrio Gótico)
+- [David]({{ site.baseurl }}/characters/details/david/) (niño héroe del Barrio Gótico 1954, primer Shomer Ḥinnam)
 
 ## Metahumanos Criminales y Villanos
+
+### Criminales Históricos (Años 50s)
+- [La Comadreja]({{ site.baseurl }}/characters/details/la-comadreja/) (ladrona legendaria años 50, madre de Comadreja Negra)
+- [Garfios]({{ site.baseurl }}/characters/details/garfios/) (asesino serial 1958, 10 víctimas, nunca capturado)
 
 ### Los Grandes Criminales
 - [Telaraña]({{ site.baseurl }}/characters/details/telarana/)
 - [Hermes]({{ site.baseurl }}/characters/details/hermes/)
+- [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/) (intermediario, hijo de La Comadreja)
 - [Maza]({{ site.baseurl }}/characters/details/maza/)
 - [Sedal]({{ site.baseurl }}/characters/details/sedal/)
 - [Pañuelo]({{ site.baseurl }}/characters/details/panuelo/)
@@ -143,7 +150,6 @@ permalink: /characters/character-list/
 ### Intermediarios y Contactos
 - [La Dama]({{ site.baseurl }}/characters/details/la-dama/)
 - [El Mago]({{ site.baseurl }}/characters/details/el-mago/)
-- [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/)
 - [Amira Roxana]({{ site.baseurl }}/characters/details/amira-roxana/) (intermediaria para metahumanos, defensora de mujeres musulmanas)
 - [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
 - [Malik]({{ site.baseurl }}/characters/details/malik/) ("El Barón Mendigo", líder de indigentes y contratista discreto)

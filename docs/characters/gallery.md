@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>204 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>208 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -223,12 +223,13 @@ document.addEventListener('DOMContentLoaded', function() {
     
     heroes: [
       { slug: 'alice-tesla', name: 'Alice Tesla', image: 'Alice_Tesla.png' },
+      { slug: 'alondra', name: 'Alondra', image: 'alondra.png' },
       { slug: 'anarquista', name: 'Anarquista', image: 'anarquista.png' },
       { slug: 'arcadio', name: 'Arcadio', image: 'Arcadio.png' },
       { slug: 'autoridad', name: 'Autoridad', image: 'autoridad.png' },
       { slug: 'bailarina', name: 'Bailarina', image: 'Bailarina.png' },
-      { slug: 'comadreja-negra', name: 'Comadreja Negra', image: 'Comadreja negra.png' },
       { slug: 'david', name: 'David', image: 'david.png' },
+      { slug: 'esperanza-nambasi', name: 'Esperanza Nambasi', image: 'esperanza-nambasi.png' },
       { slug: 'el-golem', name: 'El Golem', image: 'el-golem.png' },
       { slug: 'el-guardian', name: 'El Guardián', image: 'el-guardian.png' },
       { slug: 'el-mago', name: 'El Mago', image: 'El Mago.png' },
@@ -256,6 +257,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'baron-soledad', name: 'Barón Soledad', image: 'baron-soledad.png' },
       { slug: 'bellona', name: 'Bellona', image: 'Bellona.jpg' },
       { slug: 'caos', name: 'Caos', image: 'Caos.png' },
+      { slug: 'comadreja-negra', name: 'Comadreja Negra', image: 'Comadreja negra.png' },
       { slug: 'cloris', name: 'Cloris', image: 'Cloris.jpg' },
       { slug: 'crazy-mary', name: 'Crazy Mary', image: 'crazy-mary.png' },
       { slug: 'destino', name: 'Destino', image: 'destino.png' },
@@ -265,9 +267,11 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'el-matador', name: 'El Matador', image: 'Matador.png' },
       { slug: 'el-viejo', name: 'El Viejo', image: 'el-viejo.png' },
       { slug: 'furina', name: 'Furina', image: 'Furina.jpg' },
+      { slug: 'garfios', name: 'Garfios', image: 'garfios.png' },
       { slug: 'hermes', name: 'Hermes', image: 'hermes.png' },
       { slug: 'janus', name: 'Janus', image: 'Janus.jpg' },
       { slug: 'la-baronesa', name: 'La Baronesa', image: 'La Baronesa.png' },
+      { slug: 'la-comadreja', name: 'La Comadreja', image: 'la-comadreja.png' },
       { slug: 'la-dama', name: 'La Dama', image: 'la-dama.png' },
       { slug: 'la-desconocida', name: 'La Desconocida', image: 'la-desconocida.png' },
       { slug: 'la-emperatriz', name: 'La Emperatriz', image: 'la-emperatriz.png' },

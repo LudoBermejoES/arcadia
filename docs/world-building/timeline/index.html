@@ -1,0 +1,568 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Línea Temporal de Arcadia - 15 Años de Historia</title>
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: #333;
+            padding: 40px 20px;
+            line-height: 1.6;
+        }
+
+        .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            background: white;
+            border-radius: 20px;
+            padding: 40px;
+            box-shadow: 0 20px 60px rgba(0,0,0,0.3);
+        }
+
+        h1 {
+            text-align: center;
+            color: #667eea;
+            font-size: 3em;
+            margin-bottom: 10px;
+            text-shadow: 2px 2px 4px rgba(0,0,0,0.1);
+        }
+
+        .subtitle {
+            text-align: center;
+            color: #666;
+            font-size: 1.2em;
+            margin-bottom: 50px;
+        }
+
+        .timeline {
+            position: relative;
+            padding: 20px 0;
+        }
+
+        .timeline::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 50%;
+            transform: translateX(-50%);
+            width: 4px;
+            height: 100%;
+            background: linear-gradient(180deg, #667eea 0%, #764ba2 100%);
+        }
+
+        .timeline-item {
+            margin-bottom: 50px;
+            position: relative;
+            width: 50%;
+            padding: 0 40px;
+            opacity: 0;
+            animation: fadeIn 0.6s ease-out forwards;
+        }
+
+        @keyframes fadeIn {
+            to {
+                opacity: 1;
+            }
+        }
+
+        .timeline-item:nth-child(odd) {
+            left: 0;
+            text-align: right;
+        }
+
+        .timeline-item:nth-child(even) {
+            left: 50%;
+            text-align: left;
+        }
+
+        .timeline-item::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            width: 20px;
+            height: 20px;
+            background: white;
+            border: 4px solid #667eea;
+            border-radius: 50%;
+            z-index: 1;
+        }
+
+        .timeline-item:nth-child(odd)::before {
+            right: -10px;
+        }
+
+        .timeline-item:nth-child(even)::before {
+            left: -10px;
+        }
+
+        .timeline-content {
+            background: #f8f9fa;
+            padding: 25px;
+            border-radius: 15px;
+            box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+            transition: all 0.3s ease;
+        }
+
+        .timeline-content:hover {
+            transform: translateY(-5px);
+            box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        }
+
+        .timeline-date {
+            display: inline-block;
+            padding: 8px 15px;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 20px;
+            font-weight: bold;
+            font-size: 0.9em;
+            margin-bottom: 15px;
+        }
+
+        .timeline-title {
+            color: #667eea;
+            font-size: 1.5em;
+            font-weight: bold;
+            margin-bottom: 10px;
+        }
+
+        .timeline-description {
+            color: #555;
+            line-height: 1.8;
+        }
+
+        .era-header {
+            text-align: center;
+            padding: 30px;
+            margin: 50px 0;
+            background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+            color: white;
+            border-radius: 15px;
+            font-size: 2em;
+            font-weight: bold;
+            box-shadow: 0 10px 30px rgba(102, 126, 234, 0.3);
+        }
+
+        @media screen and (max-width: 768px) {
+            .timeline::before {
+                left: 20px;
+            }
+
+            .timeline-item {
+                width: 100%;
+                left: 0 !important;
+                text-align: left !important;
+                padding-left: 60px;
+                padding-right: 20px;
+            }
+
+            .timeline-item::before {
+                left: 10px !important;
+            }
+
+            h1 {
+                font-size: 2em;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>🏛️ Historia de Arcadia</h1>
+        <p class="subtitle">Un viaje a través de 100 años de historia extraordinaria</p>
+
+        <div class="timeline">
+            <!-- Era 1: Fundación (1920-1945) -->
+            <div class="era-header">Era 1: La Fundación (1920-1945)</div>
+
+            <div class="timeline-item" style="animation-delay: 0.1s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1920</span>
+                    <div class="timeline-title">La Visión de Marius</div>
+                    <div class="timeline-description">
+                        Marius Fernández presenta al gobierno español los planos para "la ciudad más bella del mundo". Un proyecto arquitectónico sin precedentes que recreará las épocas más influyentes de la humanidad.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.2s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">12 Febrero 1922</span>
+                    <div class="timeline-title">Compra de la Isla</div>
+                    <div class="timeline-description">
+                        España vende la Isla de Tandera a Marius por un precio irrisorio. Una isla deshabitada a 200 km de El Hierro, sin agua potable. Las obras comienzan en diciembre bajo estricto secreto.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.3s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1922-1937</span>
+                    <div class="timeline-title">La Gran Construcción</div>
+                    <div class="timeline-description">
+                        15 años de construcción sin precedentes. Marius revela tecnologías avanzadas: fábricas de agua potable, aleaciones de acero revolucionarias, técnicas de expansión territorial que duplican el tamaño de la isla. Miles de obreros europeos transforman un sueño en realidad.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.4s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">13 Septiembre 1923</span>
+                    <div class="timeline-title">Golpe de Estado en España</div>
+                    <div class="timeline-description">
+                        Primo de Rivera da un golpe de Estado con apoyo del rey Alfonso XIII. Marius, posiblemente implicado, mantiene la construcción de Arcadia sin amenazas del nuevo régimen.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.5s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1931</span>
+                    <div class="timeline-title">Universidad Multidisciplinar</div>
+                    <div class="timeline-description">
+                        Apertura de la Universidad Multidisciplinar de Arcadia - la mayor universidad del mundo. Marius recluta a los mejores expertos en enseñanza, pero solo los mejores estudiantes pueden ingresar, independientemente de su riqueza.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.6s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">Julio 1936</span>
+                    <div class="timeline-title">Guerra Civil Española</div>
+                    <div class="timeline-description">
+                        Sublevación militar de Franco. Arcadia se convierte en enclave estratégico codiciado por ambos bandos.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.7s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">Septiembre 1936</span>
+                    <div class="timeline-title">Declaración de Neutralidad</div>
+                    <div class="timeline-description">
+                        Cuando tropas franquistas intentan tomar la isla, el Rayo de Plasma de Marius hunde dos fragatas. Arcadia se declara neutral. Comienza la era de "Los Rayos" - la primera fuerza policial de Arcadia.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.8s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1939-1945</span>
+                    <div class="timeline-title">Segunda Guerra Mundial</div>
+                    <div class="timeline-description">
+                        Arcadia se convierte en refugio para disidentes, judíos y perseguidos. Francis Egin, afroamericano escapando del KKK, llega a Arcadia. Marius, previendo la llegada de metahumanos, le propone crear MetaCorp - el primer cuerpo policial especializado en metahumanos del mundo.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 0.9s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">14 Diciembre 1939</span>
+                    <div class="timeline-title">Golpe de Estado Fracasado</div>
+                    <div class="timeline-description">
+                        Antonio Calvero lidera golpe de estado. Marius responde cortando agua, electricidad y activando defensas automáticas. El golpe fracasa en dos semanas. Los responsables son extraditados.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.0s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">14 Abril 1941</span>
+                    <div class="timeline-title">Independencia de Arcadia</div>
+                    <div class="timeline-description">
+                        Arcadia recibe el estatuto de país independiente. Un mes después, primeras elecciones democráticas. Marius cede poderes al gobierno, manteniendo solo control de la Universidad y política de no-agresión durante 10 años.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.1s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">6 Agosto 1945</span>
+                    <div class="timeline-title">Desaparición de Marius</div>
+                    <div class="timeline-description">
+                        Tras condenar públicamente el lanzamiento de bombas nucleares sobre Hiroshima y Nagasaki, Marius Fernández desaparece sin dejar rastro. Nunca más se le volvería a ver. Su legado permanece en cada piedra de Arcadia.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Era 2: El Despertar (1946-1961) -->
+            <div class="era-header">Era 2: El Despertar (1946-1961)</div>
+
+            <div class="timeline-item" style="animation-delay: 1.2s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1946-1956</span>
+                    <div class="timeline-title">Guerra Fría y Crimen</div>
+                    <div class="timeline-description">
+                        Diez años de inestabilidad económica. Arcadia oscila entre bonanza y decrepitud. Surgen rumores de Telaraña - un señor del crimen con sicarios de poderes extraños. El crimen organizado se establece en las sombras.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.3s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">20 Enero 1956</span>
+                    <div class="timeline-title">Primer Ataque Metahumano</div>
+                    <div class="timeline-description">
+                        Ataque al Ministerio de Justicia. Testigos ven a un ser de roca y una mujer de fuego. El mundo contiene el aliento. Han llegado los metahumanos.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.4s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">15 Marzo 1956</span>
+                    <div class="timeline-title">Primer Manifiesto Metahumano</div>
+                    <div class="timeline-description">
+                        El Oscuro interrumpe la transmisión nacional. Revela que los crímenes son obra de Telaraña y metahumanos controlados. Hace un llamado a convertirse en "Justicieros Necesarios". Comienza la locura.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.5s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2 Octubre 1956</span>
+                    <div class="timeline-title">Proyecto Méliès - La Luna</div>
+                    <div class="timeline-description">
+                        Esperanza Nambasi se convierte en la primera humana en pisar la Luna, 11 años antes que Neil Armstrong. Arcadio, el héroe legendario, actúa como "motor humano" del cohete. El mundo observa maravillado. Su apretón de manos es portada internacional y símbolo del movimiento por los derechos civiles.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.6s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">Octubre 1956</span>
+                    <div class="timeline-title">Asesinato de Esperanza Nambasi</div>
+                    <div class="timeline-description">
+                        Al recibir la Cruz de la República en la Plaza de Arcadia, Esperanza es asesinada por tres disparos simultáneos de diferentes composiciones. Su muerte cataliza cambio social masivo contra la discriminación racial. Nunca se encontró al asesino.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.7s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1956-1961</span>
+                    <div class="timeline-title">Expansión Metahumana</div>
+                    <div class="timeline-description">
+                        40 metahumanos conocidos en todo el mundo en 5 años. La industria del cómic resurge. Aparecen "Justicieros Necesarios" en muchas ciudades. Algunos son héroes genuinos, otros asesinos disfrazados. Los metahumanos llegaron para quedarse.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Era 3: Edad de Oro (1950s) -->
+            <div class="era-header">Era 3: Edad de Oro de los Héroes (1950s)</div>
+
+            <div class="timeline-item" style="animation-delay: 1.8s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">22 Abril 1953</span>
+                    <div class="timeline-title">La Comadreja - Primera Ladrona con Estilo</div>
+                    <div class="timeline-description">
+                        Robo en Tiffany's marca la aparición de La Comadreja, la primera delincuente metahumana "con clase". Roba solo a los ricos, devuelve diamantes como disculpa, nunca mata. Se convierte en favorita de las clases bajas. Primera delincuente con serie propia en Arcadia Comics.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 1.9s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">Otoño 1954</span>
+                    <div class="timeline-title">David y el Golem</div>
+                    <div class="timeline-description">
+                        Un niño judío metahumano y su golem de barro liberan el Barrio Gótico de la Telaraña. Clausuran 40 viviendas controladas por la mafia en 3 meses. Reciben el título de Shomer Ḥinnam. Cuando le niegan su Bar Mitzvah por ser metahumano, desaparece misteriosamente. El Golem queda como estatua dormida, esperando su regreso.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.0s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">1958</span>
+                    <div class="timeline-title">Terror de Garfios</div>
+                    <div class="timeline-description">
+                        Garfios, asesino serial metahumano, aterroriza el Barrio Flotante. 10 víctimas en 3 semanas, incluyendo a Miranda Page (esposa del cómico Tom García) y la heroína Alondra. Su última víctima provoca reformas: el Barrio Flotante se integra oficialmente a Arcadia con comisaría permanente. Garfios nunca fue capturado.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.1s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">22 Octubre 1962</span>
+                    <div class="timeline-title">Crisis de los Misiles</div>
+                    <div class="timeline-description">
+                        Crisis de los Misiles de Cuba. Kennedy y Jruschov al borde de la guerra nuclear. Dos semanas después, Fidel Castro presenta a Diablo - el primer metahumano que trabaja para un estado. Puede volar casi a la velocidad de la luz. Cuba inicia exploración espacial secreta.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Era 4: Últimos Veinte Años (2000-2020) -->
+            <div class="era-header">Era 4: Madurez y Modernización (2000-2023)</div>
+
+            <div class="timeline-item" style="animation-delay: 2.2s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2000</span>
+                    <div class="timeline-title">Entrada a la UEE</div>
+                    <div class="timeline-description">
+                        Arcadia entra a la Unión Económica Europea. Aporta industria potente y desarrollo tecnológico avanzado. La Universidad Multidisciplinar alcanza su mejor momento económico y potencial.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.3s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2010-2015</span>
+                    <div class="timeline-title">La Familia - Los Fundadores</div>
+                    <div class="timeline-description">
+                        Primera campaña heroica organizada. Mésmero, El Faraón, Garra, Esfinge, Bate y Estocada establecen los códigos heroicos modernos. Salvan Arcadia de destrucción nuclear. 42 sesiones documentadas definen la era de oro del heroísmo organizado.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.4s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2013-2014</span>
+                    <div class="timeline-title">Génesis - La Generación Puente</div>
+                    <div class="timeline-description">
+                        Sara10/Mecánica, Espectro, Lúmen, Thomas/Raza y Alice Tesla modernizan el heroísmo. Digitalizan infraestructura heroica, exploran conexiones interdimensionales. 6 sesiones intensas que sirven de puente entre eras.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.5s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2015</span>
+                    <div class="timeline-title">Atentado Freiglasung</div>
+                    <div class="timeline-description">
+                        Asesinato del alcalde Ricardo Abeluengo marca inicio de crisis política. François Chalá asume el cargo en medio de presión por la Ley de Prevención y gestión de incidentes metahumanos.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.6s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2015-2023</span>
+                    <div class="timeline-title">El Gran Hiato</div>
+                    <div class="timeline-description">
+                        9 años de pausa narrativa. Durante este tiempo, el sistema "Héroes o Villanos" se profesionaliza. Los jugadores regresan en 2024 con mayor madurez narrativa y herramientas de documentación avanzadas.
+                    </div>
+                </div>
+            </div>
+
+            <!-- Era 5: La Actualidad (2024-2025) -->
+            <div class="era-header">Era 5: La Fuerza Oculta - Herederos Complejos (2024-2025)</div>
+
+            <div class="timeline-item" style="animation-delay: 2.7s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2024</span>
+                    <div class="timeline-title">Renacimiento del Proyecto</div>
+                    <div class="timeline-description">
+                        Tras 9 años de pausa, el proyecto renace. La Fuerza Oculta: Eslizón Esmeralda, Diana, Astrid/Kayface, Psique/Cia, Justa/Justicia/Sentencia y Hotman. Nueva generación enfrenta dilemas morales complejos en mundo que los observa constantemente.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.8s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2024</span>
+                    <div class="timeline-title">Concurso "Héroes o Villanos"</div>
+                    <div class="timeline-description">
+                        Reality show metahumano. 4 grupos compiten. Los personajes descubren que "su" historia se convirtió en un juego de rol popular. Meta-narrativa consciente se integra en la realidad de Arcadia.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 2.9s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2025</span>
+                    <div class="timeline-title">Regreso de La Farándula</div>
+                    <div class="timeline-description">
+                        Los villanos teatrales, desaparecidos desde La Familia, reaparecen como amenaza principal. La Fuerza Oculta debe enfrentar enemigos que conocen la historia heroica mejor que ellos mismos.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 3.0s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">2025 - Actualidad</span>
+                    <div class="timeline-title">Era de Documentación Avanzada</div>
+                    <div class="timeline-description">
+                        Transcripciones automáticas con IA (Gemini), archivo web completo en GitHub Pages, 31 sesiones documentadas. El proyecto se vuelve consciente de sí mismo. 15 años de narrativa colaborativa alcanza su forma más profesional.
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-item" style="animation-delay: 3.1s;">
+                <div class="timeline-content">
+                    <span class="timeline-date">Octubre 2025</span>
+                    <div class="timeline-title">177 Personajes, 78 Sesiones</div>
+                    <div class="timeline-description">
+                        El universo de Arcadia alcanza 177 personajes únicos documentados, 78 sesiones jugadas a través de 3 campañas principales, 50+ organizaciones activas. Un testimonio viviente de que las mejores historias no se escriben - se viven.
+                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 60px; padding: 40px; background: #f8f9fa; border-radius: 15px;">
+            <h2 style="color: #667eea; margin-bottom: 20px;">📊 Estadísticas del Universo</h2>
+            <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 30px;">
+                <div style="padding: 20px; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+                    <div style="font-size: 2.5em; color: #667eea; font-weight: bold;">177</div>
+                    <div style="color: #666;">Personajes Únicos</div>
+                </div>
+                <div style="padding: 20px; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+                    <div style="font-size: 2.5em; color: #764ba2; font-weight: bold;">78</div>
+                    <div style="color: #666;">Sesiones Jugadas</div>
+                </div>
+                <div style="padding: 20px; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+                    <div style="font-size: 2.5em; color: #667eea; font-weight: bold;">15</div>
+                    <div style="color: #666;">Años de Historia</div>
+                </div>
+                <div style="padding: 20px; background: white; border-radius: 10px; box-shadow: 0 5px 15px rgba(0,0,0,0.1);">
+                    <div style="font-size: 2.5em; color: #764ba2; font-weight: bold;">3</div>
+                    <div style="color: #666;">Campañas Épicas</div>
+                </div>
+            </div>
+        </div>
+
+        <div style="text-align: center; margin-top: 40px; padding: 20px;">
+            <p style="color: #666; font-style: italic;">
+                "Cada evento en esta línea temporal representa decisiones colaborativas, narrativa emergente,
+                y la evolución orgánica de un universo compartido forjado durante 15 años de juego de rol."
+            </p>
+            <p style="margin-top: 20px;">
+                <a href="../" style="color: #667eea; text-decoration: none; font-weight: bold;">← Volver al Worldbuilding</a> |
+                <a href="../../" style="color: #667eea; text-decoration: none; font-weight: bold;">Inicio</a>
+            </p>
+        </div>
+    </div>
+
+    <script>
+        // Intersection Observer para animaciones al scroll
+        const observerOptions = {
+            threshold: 0.1,
+            rootMargin: '0px 0px -100px 0px'
+        };
+
+        const observer = new IntersectionObserver((entries) => {
+            entries.forEach(entry => {
+                if (entry.isIntersecting) {
+                    entry.target.style.opacity = '1';
+                    entry.target.style.transform = 'translateY(0)';
+                }
+            });
+        }, observerOptions);
+
+        document.querySelectorAll('.timeline-item').forEach(item => {
+            item.style.opacity = '0';
+            item.style.transform = 'translateY(30px)';
+            item.style.transition = 'all 0.6s ease-out';
+            observer.observe(item);
+        });
+    </script>
+</body>
+</html>

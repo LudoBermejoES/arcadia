@@ -60,6 +60,18 @@ Arcadia no es solo una ciudad - es una **isla volcánica única** en el Atlánti
 ### **📋 [Visión General Histórica]({{ site.baseurl }}/world-building/history-overview/)**
 Cronología maestra de eventos desde los orígenes hasta la actualidad.
 
+### **⏰ [Línea Temporal Interactiva]({{ site.baseurl }}/world-building/timeline/)**
+**100 Años de Historia en una Línea de Tiempo Visual**
+
+Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline interactivo y visualmente impresionante. Desde la visión de Marius Fernández hasta La Fuerza Oculta, cada evento clave documentado cronológicamente.
+
+**Incluye:**
+- 🏛️ Era 1: La Fundación (1920-1945)
+- ⚡ Era 2: El Despertar (1946-1961)
+- 🦸‍♂️ Era 3: Edad de Oro (1950s)
+- 📈 Era 4: Madurez (2000-2023)
+- 🔮 Era 5: La Actualidad (2024-2025)
+
 ### **🕰️ Eras Históricas Documentadas**
 
 #### **[01 - Primeros Pasos de Arcadia]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)**

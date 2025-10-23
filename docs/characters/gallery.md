@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>214 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>215 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -404,6 +404,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },
+      { slug: 'noemi-pesna', name: 'Noemí Pesna', image: 'noemi-pesna.png' },
       { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },
       { slug: 'yeng', name: 'Yeng', image: 'Yeng.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),

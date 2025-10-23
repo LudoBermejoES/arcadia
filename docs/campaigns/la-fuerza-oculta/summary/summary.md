@@ -855,6 +855,155 @@ Tres opciones sopesadas:
 
 Esta sesión expone las complejidades de la discriminación metahumana en Arcadia, mostrando cómo incluso una broma puede revelar realidades sociales dolorosas. La elección de perseguir a Cacharrero a través de carreras ilegales establece una vía narrativa que combina acción, crimen organizado y desarrollo de personajes.
 
+### Sesión 34: Robo del Sombrío y Carrera Ilegal (12 octubre 2025)
+
+**Ejecución del plan más audaz:**
+
+La Fuerza Oculta ejecuta el plan establecido en la sesión anterior: infiltrarse en una feria de coches clásicos para robar un vehículo de alto rendimiento y competir en una carrera ilegal patrocinada por Cacharrero.
+
+**La feria de coches clásicos:**
+- El grupo asiste a una exposición de vehículos históricos de alta gama
+- **Justa se disfraza de ejecutiva** para mezclarse en el evento
+- Identifican múltiples vehículos potenciales: Lamborghini amarillo de Pandorum, Honda de Gran Premio, coches deportivos rojos
+- **Seguridad masiva**: Personal normal, Seguridad de Espectro, y 8 guardias Wraith elite
+
+**El Bugatti "Sombrío":**
+
+Descubren el vehículo legendario:
+- **Bugatti de 1954** hecho completamente de titanio
+- **Propietario original**: El Sombrío (metahumano de los años 40-50)
+- **Propietario actual**: Pandorum Incorporated
+- **Especificaciones**: 0-200 km/h en 5.6 segundos, velocidad máxima de 280 km/h
+- **Misterio técnico**: Nadie sabe qué combustible usa para funcionar
+- **Valor estimado**: ~100 millones de dólares
+
+**Fenómeno inexplicable:**
+- Al acercarse **Kayface** al Bugatti, una **emanación misteriosa** del vehículo la envuelve brevemente
+- Visible solo para quienes tienen éxito en tirada de "notice"
+- Descrito como una bruma que dura un par de segundos
+- **Implicación**: El coche tiene propiedades sobrenaturales o tecnología desconocida
+
+**Autorización inesperada:**
+
+El plan cambia completamente cuando obtienen permiso legítimo:
+- **Diana** usa su nombre familiar para pedir probar vehículos
+- **Tanaka** (mujer japonesa de seguridad) reconoce a La Fuerza Oculta
+- Identifica a Hotman y Justa, busca al resto del grupo
+- Un guardia contacta con **Espectro**, quien autoriza que prueben el Bugatti
+- **Condición**: "Devolver el coche en el estado que lo encontraron"
+
+**El gran robo:**
+
+En lugar de una simple prueba de manejo:
+- Salen de la feria con el Bugatti supuestamente para "probarlo"
+- Van todo lo lejos que pueden hasta el **Distrito Mercury**
+- Llevan el coche al **garaje secreto encima de su guarida**
+- **Eslizón** ya está esperándolos (coordinación perfecta)
+
+**Desactivación de rastreadores:**
+- Negocian con **Malik** y los mendigos para guardar el coche
+- **Noemí Pesna** (mendiga que "da miedo") inspecciona el vehículo
+- Su **poder**: Desactivar toda electrónica al tacto
+- Elimina todos los buscadores y rastreadores del Bugatti
+- El coche, siendo mayormente mecánico, no se ve afectado
+- **Diana** paga a los mendigos por el servicio
+
+**Silencio inexplicable:**
+- **No hay noticias del robo** en los siguientes dos días
+- Nadie menciona el coche desaparecido
+- Ausencia sorprendente de alerta policial o mediática
+- **Implicaciones inquietantes**: ¿Pandorum no quiere publicidad? ¿Espectro lo sabe? ¿Es una trampa?
+
+**Preparativos para la carrera:**
+- **Justa** pasa día y medio familiarizándose con el Bugatti
+- El coche tiene **botones sin rotular** con funciones desconocidas
+- **Decisión prudente**: No experimentar con controles misteriosos
+- Esperan dos días hasta la noche de la carrera
+
+**La carrera ilegal:**
+
+Noche de la competición en **la zona de los puentes**:
+- **Formato**: Atravesar todos los puentes largos de Arcadia
+- **Maestra de ceremonias**: Persona trans que presenta el evento
+- **Kayface** se presenta como piloto del Bugatti Sombrío
+- **Eslizón** graba a los competidores para que su amigo experto los analice
+
+**Los competidores:**
+
+Siete rivales en la línea de salida:
+1. **Capitán Ernesto**
+2. **Conde Vergas/Válvula** - Señor de ~80 años
+3. **Sabueso Marcus K9** (Marcus Caine) - Metahumano con aspecto bestial
+4. **Damián Diamantes Salazar**
+5. **Valentina** - Mujer que Hotman ha estado siguiendo
+6. **Rosa Méndez** - "La abuelita", competidora mayor
+7. **Coche negro sin presentar** - Posiblemente Tesla autónomo, "corredor desconocido"
+
+**Observación significativa**: Muchos competidores son personas mayores, sugiriendo décadas de experiencia en carreras ilegales y conexiones con eras anteriores de Arcadia.
+
+**El inicio:**
+- La presentadora anuncia que la **policía llegará en 30 segundos**
+- Cuenta regresiva: 5, 4, 3, 2...
+- **Hotman**, justo antes del disparo, **calienta el depósito del coche rival** junto a ellos
+- **Cliffhanger**: La sesión termina exactamente en este momento
+
+**Nuevos personajes introducidos:**
+
+**Noemí Pesna:**
+- Señora mendiga del grupo de Malik que "da miedo"
+- **Poder**: Desactivación de aparatos electrónicos al tacto
+- Especialista invaluable en eliminar rastreadores
+
+**Tanaka:**
+- Mujer japonesa de seguridad de alto nivel
+- Evaluación rápida y precisa de amenazas
+- Reconoce a miembros de La Fuerza Oculta por su fama
+
+**Pandorum Incorporated:**
+- Uno de los conglomerados más grandes de Arcadia
+- Empresa legal con "prácticas cuestionables"
+- **Señor Pandorum**: Director conocido por riqueza inmensa y ostentación
+
+**El Sombrío:**
+- Metahumano de los años 40-50
+- Su Bugatti de titanio con propulsión misteriosa persiste como pieza de colección
+- Legado tecnológico inexplicado
+
+**Temas desarrollados:**
+
+**Audacia escalada:**
+- El robo más atrevido del grupo hasta la fecha
+- No roban a criminales, sino a corporación legítima
+- Traicionan confianza de Espectro, quien autorizó la "prueba"
+- Participan abiertamente en economía criminal
+
+**Privilegio como herramienta:**
+- Diana usa nombre familiar para acceso imposible
+- Su riqueza financia operaciones constantemente
+- Contraste con métodos criminales tradicionales
+
+**Tecnología y misterio:**
+- Bugatti combina ingeniería (titanio) con lo inexplicable (combustible desconocido)
+- Fenómeno sobrenatural con Kayface sugiere consciencia o magia
+- Noemí Pesna representa poderes derrotando tecnología
+
+**Silencio conspirativo:**
+- Ausencia de reacción al robo más inquietante que persecución activa
+- Posible complicidad de Espectro
+- Pandorum podría tener razones ocultas para no reportarlo
+
+**Líneas narrativas abiertas:**
+
+1. **¿Qué pasará con el depósito calentado?** - ¿Explosión? ¿Descalificación?
+2. **¿Por qué nadie reporta el robo?** - ¿Conspiración? ¿Trampa?
+3. **¿Qué fue la emanación del Bugatti?** - ¿Conexión con poderes de Kayface?
+4. **¿Cómo reaccionará Espectro?** - ¿Pérdida de mentoría? ¿Era su plan?
+5. **¿Qué hacen los botones sin rotular?** - ¿Armas? ¿Transformaciones?
+6. **¿Lograrán contactar a Cacharrero?** - Objetivo real de toda la operación
+7. **¿Consecuencias de la carrera?** - Problemas con La Telaraña, exposición pública
+
+Esta sesión representa la escalada máxima de audacia del grupo, donde traicionan la confianza de un mentor, roban a una megacorporación usando su permiso oficial, y se preparan para competir en un evento criminal de alto perfil, todo mientras misterios sobrenaturales rodean el vehículo robado.
+
 ---
 
 ## Temas Centrales y Evolución de Personajes

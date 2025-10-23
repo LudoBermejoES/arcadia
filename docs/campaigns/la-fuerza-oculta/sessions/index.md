@@ -222,7 +222,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-### 🕵️ **Octubre 2025 - Investigación y Planificación**
+### 🕵️ **Octubre 2025 - Investigación y Carreras**
 
 #### [📊 Sesión 5 de Octubre](../ai-notes-summary/2025-10-05-gemini-notes.md)
 **"Pizza, Discriminación y Carreras Ilegales"**
@@ -238,6 +238,24 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 - 🚗 **Plan Establecido**: Robar coche de carreras de alta gama y competir en liga ilegal
 
 **Temas Clave**: Discriminación metahumana sistémica, activismo social, dilemas morales, crimen organizado, investigación paralela
+
+---
+
+#### [📝 Sesión 12 de Octubre](../manual-notes/session-33-2024-10-12.md) | [📼 IA](../ai-notes/2025-10-12-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-10-12-gemini-notes.md)
+**"Robo del Sombrío y Carrera Ilegal"**
+- 🏎️ **Feria de Coches Clásicos**: Infiltración en exposición de vehículos antiguos de alta gama
+- 🚗 **El Bugatti Sombrío**: Descubrimiento del legendario Bugatti de titanio de 1954 de El Sombrío
+- 👻 **Fenómeno Misterioso**: Emanación inexplicable del vehículo rodea brevemente a Kayface
+- 🤝 **Autorización de Espectro**: Permiso oficial para "probar" el coche más valioso de la feria
+- 🏃‍♂️ **El Gran Robo**: Llevan el Bugatti a garaje secreto en lugar de devolverlo a Pandorum
+- ⚡ **Noemí Pesna**: Mendiga con poder de desactivar electrónica elimina todos los rastreadores
+- 🤫 **Silencio Inexplicable**: Ausencia total de noticias o persecución por el robo
+- 🏁 **Carrera por los Puentes**: Competición ilegal atravesando todos los puentes largos de Arcadia
+- 👥 **Competidores Veteranos**: Conde de 80 años, Rosa "la abuelita", Sabueso Marcus K9, Valentina
+- 🔥 **Sabotaje Inicial**: Hotman calienta depósito del coche rival justo antes de la salida
+- ⏱️ **Cliffhanger**: Sesión termina en cuenta regresiva con policía llegando en 30 segundos
+
+**Temas Clave**: Audacia y consecuencias, traición de confianza, tecnología vs magia, crimen organizado como comunidad, líneas morales difusas
 
 ---
 
@@ -267,6 +285,7 @@ Transcripciones automáticas con análisis:
 - **[2025-09-08-gemini-notes](../ai-notes/2025-09-08-gemini-notes.md)**
 - **[2025-09-14-gemini-notes](../ai-notes/2025-09-14-gemini-notes.md)**
 - **[2025-09-21-gemini-notes](../ai-notes/2025-09-21-gemini-notes.md)**
+- **[2025-10-12-gemini-notes](../ai-notes/2025-10-12-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -285,6 +304,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 14/09](../ai-notes-summary/2025-09-14-gemini-notes.md)** - Tentación del poder y sabiduría veterana
 - **[Resumen 21/09](../ai-notes-summary/session-33-summary.md)** - Entrenamiento y redención secreta
 - **[Resumen 05/10](../ai-notes-summary/2025-10-05-gemini-notes.md)** - Discriminación, investigación y decisión de carreras ilegales
+- **[Resumen 12/10](../ai-notes-summary/2025-10-12-gemini-notes.md)** - Robo del Sombrío y carrera ilegal
 
 ---
 
@@ -334,9 +354,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 13 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~200 páginas de contenido
-- **Horas de Juego**: ~38 horas registradas
+- **Sesiones Totales**: 15 sesiones documentadas en detalle (2025)
+- **Páginas de Notas**: ~220 páginas de contenido
+- **Horas de Juego**: ~40 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

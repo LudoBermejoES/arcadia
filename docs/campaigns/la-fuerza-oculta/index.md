@@ -107,8 +107,9 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[21 Septiembre](manual-notes/session-33-2024-09-23.md)**: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, infiltración hospitalaria de Sentencia, entrega secreta de prótesis a Les Enfant heridos
 - **[28 Septiembre](manual-notes/session-33-2024-09-28.md)**: Fuga caótica del hospital, confrontación con Metacorps, ilusión de embarazada terminal, repercusiones mediáticas, encuentro casual con Mambo y Zambo en restaurante
 
-### 🕵️ **Fase VII: Investigación y Decisiones (Octubre 2025)**
+### 🕵️ **Fase VII: Investigación y Carreras (Octubre 2025)**
 - **[5 Octubre](ai-notes-summary/2025-10-05-gemini-notes.md)**: Incidente de discriminación en pizzería, video viral de Hotman con Mambo y Zambo, investigación para contactar a Cacharrero, tres opciones descubiertas (piedra lunar, Bastón del Faraón, carreras ilegales), decisión de participar en carreras ilegales
+- **[12 Octubre](manual-notes/session-33-2024-10-12.md)**: Feria de coches clásicos, descubrimiento del Bugatti Sombrío de titanio, fenómeno misterioso con Kayface, autorización de Espectro para probar el coche, robo audaz llevándolo a garaje secreto, Noemí Pesna desactiva rastreadores, silencio inexplicable sobre el robo, carrera ilegal por los puentes de Arcadia, competidores veteranos, Hotman sabotea rival antes de salida
 
 ---
 
@@ -168,7 +169,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">35</span>
+<span class="stat-number">36</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -178,7 +179,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">52+</span>
+<span class="stat-number">53+</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>

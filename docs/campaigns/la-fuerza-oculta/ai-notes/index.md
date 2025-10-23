@@ -214,14 +214,31 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+### 🏁 **Octubre 2025 - Carreras y Contactos**
+
+#### [📼 2025-10-12 - Robo del Sombrío y Carrera Ilegal](2025-10-12-gemini-notes.md)
+**"El Robo Más Audaz"**
+- 🏎️ **Feria de Coches**: Infiltración en exposición de vehículos clásicos
+- 🚗 **Bugatti Legendario**: Obtención del Bugatti "Sombrío" de 1954 hecho de titanio
+- 🤝 **Autorización Inesperada**: Espectro permite "probar" el coche más valioso
+- 👻 **Fenómeno Inexplicable**: Emanación misteriosa del vehículo rodea a Kayface
+- 🏃‍♂️ **Robo Audaz**: Llevan el coche a garaje secreto en lugar de devolverlo
+- ⚡ **Noemí Pesna**: Mendiga con poder de desactivar electrónica elimina rastreadores
+- 🏁 **Carrera Ilegal**: Competición por todos los puentes de Arcadia
+- 🔥 **Sabotaje**: Hotman calienta depósito de rival justo antes de la salida
+
+**Duración**: ~1.5 horas | **Palabras**: ~7,500 | **Páginas**: ~19
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 15 sesiones completas
-- **Período Cubierto**: Junio-Septiembre 2025 (4 meses intensivos)
-- **Palabras Totales**: ~296,300 palabras transcritas
-- **Páginas Equivalentes**: ~755 páginas de contenido
-- **Horas de Audio**: ~48.5 horas de partidas registradas
+- **Total de Transcripciones**: 16 sesiones completas
+- **Período Cubierto**: Junio-Octubre 2025 (5 meses intensivos)
+- **Palabras Totales**: ~303,800 palabras transcritas
+- **Páginas Equivalentes**: ~774 páginas de contenido
+- **Horas de Audio**: ~50 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**
@@ -229,6 +246,7 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 - **Julio 2025**: Mejora en reconocimiento de nombres propios
 - **Agosto 2025**: Transcripción casi perfecta con contexto completo
 - **Septiembre 2025**: Continuidad de calidad con escenas complejas del Barrio Gótico
+- **Octubre 2025**: Precisión mantenida en escenas de acción con múltiples competidores
 
 ### 🎭 **Cobertura Narrativa**
 - **Diálogos de Personajes**: 100% capturados con interpretación

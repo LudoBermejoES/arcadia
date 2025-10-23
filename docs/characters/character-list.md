@@ -163,6 +163,7 @@ permalink: /characters/character-list/
 - [Amira Roxana]({{ site.baseurl }}/characters/details/amira-roxana/) (intermediaria para metahumanos, defensora de mujeres musulmanas)
 - [Pandorum]({{ site.baseurl }}/characters/details/pandorum/)
 - [Malik]({{ site.baseurl }}/characters/details/malik/) ("El Barón Mendigo", líder de indigentes y contratista discreto)
+- [Noemí Pesna]({{ site.baseurl }}/characters/details/noemi-pesna/) (mendiga especialista en desactivar electrónica, parte del grupo de Malik)
 
 ### Mercenarios y Criminales Organizados
 - [Mateo Shu]({{ site.baseurl }}/characters/details/mateo-shu/) (mercenario del Puño Gris, colaborador de La Farándula)

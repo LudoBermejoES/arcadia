@@ -83,38 +83,6 @@ Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la mald
 
 ### **Pace**: 6 | **Parry**: 4 | **Toughness**: 5
 
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Super Powers**: Poderes metahumanos de curación
-- **Healer**: Habilidad médica excepcional natural
-- **Charismatic**: Presencia calmante y confiable
-
-### **Desventajas (Hindrances)**
-- **Pacifist (Major)**: No puede dañar a nadie, juramento médico profundo
-- **Code of Honor (Major)**: Debe ayudar a cualquiera que sufra
-- **Loyal (Minor)**: Devoción extrema a quienes cuida
-
-## Equipamiento
-
-### **Uniforme del Correccional con Insignia Médica**
-- **Marcado**: Cruz roja indica sus habilidades
-- **Función**: Otros internos la buscan cuando heridos
-- **Estado**: Manchas de sangre imposibles de quitar completamente
-- **Símbolo**: Lleva con orgullo pese a ser prisionera
-
-### **Kit Médico Personal Limitado**
-- **Contenido**: Vendas, antisépticos básicos, analgésicos
-- **Acceso restringido**: No puede tener instrumentos afilados
-- **Uso**: Complementa poderes para tratamientos completos
-- **Mantenimiento**: Cuida el kit meticulosamente
-
-### **Diario Médico**
-- **Función**: Registra cada curación realizada
-- **Contenido**: Análisis detallado de casos y progreso de pacientes
-- **Privacidad**: Nombres codificados para proteger identidad
-- **Obsesión**: Documenta compulsivamente cada intervención
-
 ## Personalidad y Psicología
 
 ### **Sanadora Compulsiva**
@@ -161,46 +129,6 @@ Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la mald
 - **Médicos del correccional**: Colabora oficiosamente con personal médico
 - **Guardias**: La respetan, la llaman cuando alguien se hiere
 - **Dirección**: Conflicto sobre si usar sus poderes es "trabajo forzado"
-
-## Desarrollo y Arcos Narrativos
-
-### **Arco de Límites**
-- **Objetivo**: Aprender a decir "no" sin culpa
-- **Obstáculos**: Compulsión profundamente arraigada
-- **Progreso**: Terapia sobre auto-cuidado y límites saludables
-- **Setbacks**: Cada emergencia médica refuerza patrón de auto-sacrificio
-
-### **Arco de Justicia**
-- **Conflicto**: Encarcelada injustamente por ser víctima
-- **Lucha**: Demostrar que curación forzada no es complicidad
-- **Objetivo**: Liberación y reconocimiento como víctima, no criminal
-- **Evolución**: De víctima callada a activista por derechos de metahumanos
-
-### **Arco Moral**
-- **Situación**: ¿Debe sanar a todos sin juzgar?
-- **Dilemas**: Curar criminal que hará más daño vs dejar morir
-- **Exploración**: Límites éticos del poder de curación
-- **Resolución potencial: Curar es acto neutro, justicia es responsabilidad de otros
-
-## Potencial Narrativo
-
-### **Como Protagonista**
-- **Heroína médica**: Salvadora que sana heridas del mundo
-- **Dilema ético**: Historias sobre moralidad de curación universal
-- **Víctima-sobreviviente**: Superando injusticia del sistema
-- **Símbolo de compasión**: Bondad en mundo cruel
-
-### **Como Antagonista**
-- **Sanadora oscura**: Mantiene vivos a criminales para que torturen más
-- **Curación selectiva**: Decide quién merece vivir o morir
-- **Auto-destrucción**: Se agota completamente sanando hasta morir
-- **Explotada**: Forzada a sanar ejército criminal indefinidamente
-
-### **Como Aliada**
-- **Médica de campo**: Mantiene equipo con vida en misiones
-- **Curación de emergencia**: Salva vidas en situaciones críticas
-- **Inteligencia médica**: Diagnostica venenos y enfermedades
-- **Moral del equipo**: Su compasión inspira a otros
 
 ## Estado Actual
 

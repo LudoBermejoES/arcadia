@@ -81,36 +81,6 @@ Yuki Tanaka-Al-Rashid es una adolescente de 15 años que porta el peso visible d
 
 ### **Pace**: 6 | **Parry**: 4 | **Toughness**: 6
 
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Linguist**: Domina tres idiomas con fluidez
-- **Super Powers**: Múltiples poderes metahumanos criogénicos
-- **Quick**: Reflejos rápidos ante amenazas percibidas
-
-### **Desventajas (Hindrances)**
-- **Pacifist (Major)**: Se niega a pelear, evita violencia a toda costa
-- **Phobia (Major)**: Fuertes sonidos explosivos - disparan flashbacks severos
-- **Nightmares (Minor)**: Pesadillas recurrentes de bombardeos y guerra
-
-## Equipamiento
-
-### **Uniforme del Correccional Modificado**
-- **Material**: Térmico especial que la aísla de otros
-- **Estado**: Perpetuamente cubierto de escarcha fina
-- **Función**: Previene congelamiento accidental de otros internos
-
-### **Auriculares Bloqueadores de Sonido**
-- **Función**: Filtran sonidos explosivos que disparan flashbacks
-- **Efectividad**: Reduce pero no elimina completamente los gatillos
-- **Uso**: Obligatorios durante actividades grupales
-
-### **Collar Inhibidor de Poderes**
-- **Función**: Anula completamente sus poderes cuando activado
-- **Control**: Administrado por el Señor Nadie
-- **Efectos secundarios**: Sensación de "calor sofocante" cuando está activo
-- **Uso**: Activado durante terapia de exposición a sonidos
-
 ## Personalidad y Psicología
 
 ### **Pacifista Traumatizada**
@@ -156,46 +126,6 @@ Yuki Tanaka-Al-Rashid es una adolescente de 15 años que porta el peso visible d
 - **Terapeutas**: Trabaja activamente en PTSD con especialistas
 - **Guardias**: Le dan espacio, evitan sobresaltarla
 - **Maestros**: Estudiante excepcional en idiomas y cultura
-
-## Desarrollo y Arcos Narrativos
-
-### **Arco de Sanación del Trauma**
-- **Objetivo**: Procesar experiencias de guerra y reducir flashbacks
-- **Obstáculos**: Recuerdos enterrados, culpa de sobreviviente
-- **Progreso**: Terapia EMDR y exposición gradual a gatillos
-- **Setbacks**: Eventos que recuerdan la guerra reinician progreso
-
-### **Arco de Conexión**
-- **Conflicto**: Miedo a pérdida vs necesidad de conexión humana
-- **Exploración**: Permitiendo amistades cautelosas en el correccional
-- **Comunidad**: Encontrando familia sustituta entre otros internos
-- **Resolución potencial**: Aceptar amor sin miedo a pérdida inevitable
-
-### **Arco de Control**
-- **Situación**: Poderes vinculados a trauma no resuelto
-- **Desafío**: Separar poder de pánico, usar hielo conscientemente
-- **Técnicas**: Mindfulness, grounding, técnicas de respiración
-- **Evolución**: De víctima de sus poderes a maestra de ellos
-
-## Potencial Narrativo
-
-### **Como Protagonista**
-- **Superviviente de guerra**: Historia de resiliencia ante trauma inimaginable
-- **Sanación**: Viaje de recuperación y autodescubrimiento
-- **Pacifista poderosa**: Prueba que poder no requiere violencia
-- **Puente cultural**: Une mundos diferentes en su identidad
-
-### **Como Antagonista**
-- **Congelamiento global**: Flashback masivo podría congelar ciudad entera
-- **Distancia letal**: Hielo como metáfora de alienación destructiva
-- **Víctima convertida en amenaza**: Trauma no procesado que destruye
-- **Invierno nuclear**: Su poder como extensión de destrucción bélica
-
-### **Como Aliada**
-- **Defensa impenetrable**: Muros de hielo instantáneos protegen aliados
-- **Enfriamiento estratégico**: Neutraliza amenazas sin violencia letal
-- **Traducción**: Habilidades lingüísticas valiosas en misiones internacionales
-- **Perspectiva única**: Entiende costo humano de conflicto
 
 ## Estado Actual
 

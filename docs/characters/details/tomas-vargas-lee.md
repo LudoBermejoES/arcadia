@@ -82,38 +82,6 @@ Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal 
 
 ### **Pace**: 24 (cuatro veces velocidad humana normal) | **Parry**: 7 | **Toughness**: 7
 
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Super Powers**: Poderes metahumanos de velocidad
-- **Quick**: Reflejos naturalmente superiores
-- **Fleet-Footed**: Velocidad base incrementada
-
-### **Desventajas (Hindrances)**
-- **Impulsive (Major)**: Actúa sin pensar, no puede esperar
-- **Habit (Major)**: Debe estar constantemente en movimiento
-- **Loyal (Minor)**: Haría cualquier cosa por su familia
-
-## Equipamiento
-
-### **Uniforme del Correccional Reforzado**
-- **Material**: Tejido ultra-resistente a fricción
-- **Desgaste**: Reemplazado semanalmente por uso extremo
-- **Zapatillas especiales**: Suelas diseñadas para alta velocidad
-- **Estado**: Perpetuamente desgastado pese a ser nuevo
-
-### **Pista de Carrera Personal**
-- **Ubicación**: Circuito cerrado en patio del correccional
-- **Función**: Permite correr sin restricciones durante horas
-- **Necesidad médica**: Prescrito para prevenir atrofia muscular y ansiedad
-- **Uso**: Corre mínimo 6 horas diarias
-
-### **Dieta Especial de Alto Consumo**
-- **Calorías**: 12,000+ calorías diarias
-- **Frecuencia**: Come cada 2-3 horas
-- **Contenido**: Alta proteína, carbohidratos complejos
-- **Costo**: El interno más caro de alimentar en el correccional
-
 ## Personalidad y Psicología
 
 ### **Energía Imparable**
@@ -159,46 +127,6 @@ Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal 
 - **Guardias**: Frustración - no pueden seguir su velocidad
 - **Entrenadores**: Trabajando en control de velocidad
 - **Nutricionistas**: Desafío constante mantenerlo alimentado
-
-## Desarrollo y Arcos Narrativos
-
-### **Arco de Control**
-- **Objetivo**: Aprender a detenerse conscientemente
-- **Obstáculos**: Dolor físico y psicológico de quietud
-- **Progreso**: Meditación activa, ejercicios de desaceleración gradual
-- **Setbacks**: Emergencias disparan velocidad automática
-
-### **Arco de Paciencia**
-- **Conflicto**: Vivir en mundo que se mueve más lento que él
-- **Desarrollo**: Aceptar ritmo de otros sin frustración
-- **Técnicas**: Mindfulness, encontrar valor en lentitud
-- **Evolución**: De impaciente compulsivo a rápido pero consciente
-
-### **Arco Familiar**
-- **Situación**: Separado de familia que arriesgó todo por proteger
-- **Objetivo**: Reunificación segura sin amenaza de carteles
-- **Obstáculos**: Familia aún en peligro, identidades comprometidas
-- **Resolución potencial**: Uso de velocidad para proteger permanentemente
-
-## Potencial Narrativo
-
-### **Como Protagonista**
-- **Héroe veloz clásico**: Rescatador que llega siempre a tiempo
-- **Protector familiar**: Velocidad usada para defender seres queridos
-- **Superación de limitaciones**: Aprender que parar es tan importante como correr
-- **Símbolo de urgencia**: Actúa cuando otros dudan
-
-### **Como Antagonista**
-- **Criminal veloz**: Velocidad usada para crimen perfecto
-- **Impaciencia destructiva**: Decisiones impulsivas causan desastres
-- **Agotamiento fatal**: Corre hasta literalmente matarse
-- **Reclutado por carteles**: Familia amenazada para forzar servicio
-
-### **Como Aliado**
-- **Rescate rápido**: Extracción de personas en peligro
-- **Mensajero**: Comunicación instantánea entre ubicaciones
-- **Reconocimiento**: Exploración territorial en segundos
-- **Combate de alta velocidad**: Neutraliza amenazas antes de escalar
 
 ## Estado Actual
 

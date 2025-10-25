@@ -82,38 +82,6 @@ Zara Qasim-Kowalski es una niña de 12 años que porta literalmente la energía 
 
 ### **Pace**: 6 | **Parry**: 4 | **Toughness**: 5
 
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Scholar (Science)**: Genio en ciencias físicas
-- **Super Powers**: Múltiples poderes eléctricos
-- **Quick**: Reflejos mejorados por energía nerviosa
-
-### **Desventajas (Hindrances)**
-- **Young (Major)**: Solo 12 años, inmadura emocionalmente
-- **Curious (Major)**: No puede resistir investigar cosas nuevas
-- **Quirk (Minor)**: Habla increíblemente rápido cuando está emocionada
-
-## Equipamiento
-
-### **Uniforme del Correccional Aislado**
-- **Material**: Tejido aislante especial
-- **Función**: Protege a otros de descargas accidentales
-- **Estado**: Marcas de quemaduras por sobrecargas repetidas
-- **Guantes obligatorios**: Aislantes para protección adicional
-
-### **Jaula de Faraday en Celda**
-- **Función**: Contiene emisiones eléctricas durante sueño
-- **Necesidad**: Emite descargas inconscientemente cuando duerme
-- **Aislamiento**: No puede usar electrónica en su celda
-- **Efecto psicológico**: Se siente "enjaulada como animal"
-
-### **Pulsera Neutralizadora**
-- **Función**: Anula poderes cuando activada
-- **Control**: Administrada por el Señor Nadie
-- **Efectos secundarios**: Sensación de "adormecimiento total"
-- **Uso**: Durante acceso a salas con computadoras
-
 ## Personalidad y Psicología
 
 ### **Genio Hiperactiva**
@@ -159,46 +127,6 @@ Zara Qasim-Kowalski es una niña de 12 años que porta literalmente la energía 
 - **Maestros de ciencias**: La adoran y frustran simultáneamente
 - **Guardias**: La consideran problemática pero inofensiva
 - **Técnicos**: La temen - puede fundir sus equipos accidentalmente
-
-## Desarrollo y Arcos Narrativos
-
-### **Arco de Control Emocional**
-- **Objetivo**: Separar emociones de manifestación de poderes
-- **Obstáculos**: Es niña de 12 años - emocionalmente volátil naturalmente
-- **Progreso**: Técnicas de meditación y mindfulness islámicos
-- **Setbacks**: Injusticias provocan descargas involuntarias
-
-### **Arco de Identidad Religiosa**
-- **Conflicto**: Practicar fe en sistema que la criminaliza por ella
-- **Desafío**: Mantener prácticas religiosas pese a restricciones
-- **Comunidad**: Encontrar otros musulmanes en correccional
-- **Resolución potencial**: Fe fortalecida por adversidad
-
-### **Arco Científico**
-- **Situación**: Genio sin acceso a educación apropiada
-- **Desarrollo**: Auto-educación usando poderes como laboratorio
-- **Meta**: Convertirse en científica que estudia metahumanos
-- **Evolución**: De sujeto de estudio a investigadora
-
-## Potencial Narrativo
-
-### **Como Protagonista**
-- **Genio joven**: Historia de prodigio superando obstáculos sistémicos
-- **Activista**: Voz de comunidades marginadas
-- **Científica heroica**: Usa conocimiento para ayudar
-- **Símbolo de resistencia**: Fe y ciencia coexistiendo
-
-### **Como Antagonista**
-- **Terrorista tecnológica**: Apagones masivos en infraestructura crítica
-- **Venganza contra islamofobia**: Ataca símbolos de intolerancia
-- **Sobrecarga global**: Poderes fuera de control amenazan red eléctrica mundial
-- **Radicalización**: Niña brillante corrompida por tratamiento injusto
-
-### **Como Aliada**
-- **Soporte tecnológico**: Hackea sistemas, proporciona inteligencia
-- **Artillería eléctrica**: Ataques de largo alcance devastadores
-- **Investigadora**: Analiza poderes metahumanos científicamente
-- **Puente cultural**: Conecta comunidades diversas
 
 ## Estado Actual
 

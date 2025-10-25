@@ -61,54 +61,6 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Pérdida de control**: En estados extremos no puede detener las llamas
 - **Peligro constante**: Representa amenaza para sí misma y otros
 
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d8 (reflexes rápidos para combate)
-- **Inteligencia**: d6 (educación promedio)
-- **Espíritu**: d10 (voluntad férrea, valiente)
-- **Fuerza**: d6 (condición física normal)
-- **Vigor**: d8 (resistente, saludable)
-
-### **Habilidades Destacadas**
-- **Atletismo d8**: Condición física excelente
-- **Combate d6**: Entrenamiento básico en pelea
-- **Focus d10**: Concentración excepcional cuando está calmada
-- **Intimidación d8**: Presencia imponente natural
-- **Sigilo d6**: Puede moverse discretamente
-- **Supervivencia d6**: Conocimientos de subsistencia
-
-### **Pace**: 6 | **Parry**: 5 | **Toughness**: 6
-
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Brave**: Valiente ante el peligro, no se intimida fácilmente
-- **Super Powers**: Múltiples poderes metahumanos activos
-- **Liderazgo natural**: Otros internos la respetan y siguen
-
-### **Desventajas (Hindrances)**
-- **Vengeful (Minor)**: Guarda rencor y busca venganza cuando la lastiman
-- **Habit (Minor)**: Piromanía compulsiva - fascinación peligrosa con el fuego
-- **Outsider (Minor)**: Nunca encaja completamente en ningún grupo
-
-## Equipamiento
-
-### **Uniforme del Correccional**
-- **Estado**: Perpetuamente quemado en los bordes
-- **Material**: Tejido resistente al fuego (parcialmente)
-- **Marcas**: Chamuscado por activaciones involuntarias
-
-### **Guantes Ignífugos Obligatorios**
-- **Función**: Limitar acceso directo al fuego
-- **Efectividad**: Parcial, solo reduce manifestaciones menores
-- **Uso**: Debe llevarlos siempre que esté fuera de su celda
-
-### **Collar Inhibidor de Poderes**
-- **Función**: Anula completamente sus poderes cuando activado
-- **Control**: Administrado por el Señor Nadie
-- **Efectos secundarios**: Sensación de "vacío" cuando está activo
-- **Uso**: Activado durante incidentes o evaluaciones de riesgo
 
 ## Personalidad y Psicología
 
@@ -156,8 +108,6 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Terapeutas**: Frustra sus intentos de "arreglarla"
 - **Maestros**: Estudiante competente cuando está concentrada
 
-## Desarrollo y Arcos Narrativos
-
 ### **Arco de Control**
 - **Objetivo**: Aprender a controlar poderes bajo estrés emocional
 - **Obstáculos**: Trauma, ira reprimida, miedo al rechazo
@@ -175,8 +125,6 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Responsabilidad**: Proteger a los más débiles
 - **Dilemas**: ¿Cooperar con autoridad o liderar rebelión?
 - **Evolución**: De líder reactiva a líder consciente
-
-## Potencial Narrativo
 
 ### **Como Protagonista**
 - **Héroe trágico**: Poderes que no pidió, consecuencias que no merecía

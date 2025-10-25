@@ -7,6 +7,10 @@ slug: noemi-pesna
 
 # Noemí Pesna
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/noemi-vesna.jpg" alt="Noemí Pesna" />
+</div>
+
 **Afiliación**: Mendigos de Malik
 **Primera Aparición**: Sesión 34 (12 octubre 2025)
 **Estado**: Activa

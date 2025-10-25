@@ -83,38 +83,6 @@ Ravi Kapoor-Müller es un niño de 11 años que literalmente no puede ser conten
 
 ### **Pace**: 6 | **Parry**: 5 | **Toughness**: 5
 
-## Ventajas y Desventajas
-
-### **Ventajas (Edges)**
-- **Super Powers**: Poderes metahumanos de fase
-- **Fleet-Footed**: Velocidad de movimiento aumentada
-- **Thief**: Habilidades de robo excepcionales
-
-### **Desventajas (Hindrances)**
-- **Young (Major)**: Solo 11 años, infantil
-- **Poverty (Minor)**: Sin recursos, familia indigente
-- **Habit (Minor)**: Roba compulsivamente aunque no necesite
-
-## Equipamiento
-
-### **Uniforme del Correccional con Localizador**
-- **Material**: Estándar, reemplazado frecuentemente
-- **Chip de rastreo**: Dispositivo imposible de eliminar quirúrgicamente incrustado
-- **Función**: Localiza cuando atraviesa paredes
-- **Limitación**: Funciona incluso cuando es intangible
-
-### **Celda Especial de Levitación**
-- **Diseño**: Suspendida en el aire sin piso sólido debajo
-- **Función**: Previene que se hunda en el suelo durante sueño
-- **Acceso**: Solo puente retráctil controlado externamente
-- **Efecto psicológico**: Aterrador para un niño con miedo a alturas
-
-### **Collar Inhibidor de Poderes**
-- **Función**: Lo mantiene tangible permanentemente cuando activado
-- **Control**: Administrado por el Señor Nadie
-- **Efectos secundarios**: Sensación de "pesadez insoportable"
-- **Uso**: Durante actividades grupales para evitar escapes
-
 ## Personalidad y Psicología
 
 ### **Ladrón de Supervivencia**
@@ -160,46 +128,6 @@ Ravi Kapoor-Müller es un niño de 11 años que literalmente no puede ser conten
 - **Guardias**: Frustración constante - escapa repetidamente
 - **Terapeutas**: Lenta construcción de confianza
 - **Maestros**: Educación básica que nunca recibió
-
-## Desarrollo y Arcos Narrativos
-
-### **Arco de Control de Poderes**
-- **Objetivo**: Controlar intangibilidad consciente e inconscientemente
-- **Obstáculos**: Activación involuntaria durante estrés y sueño
-- **Progreso**: Técnicas de relajación y meditación
-- **Setbacks**: Pesadillas causan caídas a través del colchón
-
-### **Arco de Moralidad**
-- **Conflicto**: Aprender diferencia entre robar por necesidad y por elección
-- **Desarrollo**: Construyendo brújula moral desde cero
-- **Guía**: El Señor Nadie enseña conceptos de propiedad y consentimiento
-- **Evolución**: De ladrón instintivo a persona que elige
-
-### **Arco de Confianza**
-- **Situación**: No confía en nadie por experiencia de vida
-- **Desafío**: Permitir que adultos lo cuiden
-- **Riesgo**: Cada apertura lo hace vulnerable a daño
-- **Resolución potencial**: Primera relación de confianza genuina
-
-## Potencial Narrativo
-
-### **Como Protagonista**
-- **Historia de redención**: Niño ladrón encuentra camino honesto
-- **Superviviente**: Resiliencia ante pobreza y abandono extremos
-- **Maestro de escape**: Aventuras de infiltración imposibles
-- **Búsqueda de familia**: Anhelo universal de pertenencia
-
-### **Como Antagonista**
-- **Ladrón maestro**: Habilidades perfectas para crimen profesional
-- **Incontrolable**: Sistema no puede contenerlo físicamente
-- **Reclutado por villanos**: Niño vulnerable corrompido por criminales
-- **Venganza**: Roba de sistema que lo criminalizó por sobrevivir
-
-### **Como Aliado**
-- **Infiltrador perfecto**: Acceso a cualquier ubicación
-- **Rescatista**: Extrae prisioneros de cualquier celda
-- **Explorador**: Reconocimiento sin riesgo de detección
-- **Sabotaje**: Penetra defensa para desactivar desde dentro
 
 ## Estado Actual
 

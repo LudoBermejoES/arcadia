@@ -347,6 +347,23 @@ permalink: /characters/character-list/
 - [Diego Moreau-Kim]({{ site.baseurl }}/characters/details/diego-moreau-kim/) (estudiante de Química Ambiental, enfoque en sostenibilidad)
 - [Zara Al-Mahmoud-Silva]({{ site.baseurl }}/characters/details/zara-al-mahmoud-silva/) (estudiante senior de Física Teórica, fundamentos cuánticos)
 
+### Internos del Correccional de Menores - Isla Azogue
+- [Kaida Chen-Okafor]({{ site.baseurl }}/characters/details/kaida-chen-okafor/) (18 años, manipuladora de fuego, líder de los internos)
+- [Dmitri Volkov-Ramírez]({{ site.baseurl }}/characters/details/dmitri-volkov-ramirez/) (17 años, telequinético ladrón, cleptómano)
+- [Safiya Abbas-Petrov]({{ site.baseurl }}/characters/details/safiya-abbas-petrov/) (16 años, sanadora, pacifista compulsiva)
+- [Amara Osei-Baptiste]({{ site.baseurl }}/characters/details/amara-osei-baptiste/) (16 años, empática manipuladora, reina del drama)
+- [Tomás Vargas-Lee]({{ site.baseurl }}/characters/details/tomas-vargas-lee/) (15 años, super velocidad, adicto a estimulantes)
+- [Yuki Tanaka-Al-Rashid]({{ site.baseurl }}/characters/details/yuki-tanaka-al-rashid/) (15 años, creador de hielo, trauma de guerra)
+- [Fatima Al-Amin-Rodríguez]({{ site.baseurl }}/characters/details/fatima-al-amin-rodriguez/) (14 años, generadora de campos de fuerza, protectora)
+- [Léa Dubois-Nguyen]({{ site.baseurl }}/characters/details/lea-dubois-nguyen/) (14 años, cambiaformas, crisis de identidad)
+- [Marcus Williams-Santos]({{ site.baseurl }}/characters/details/marcus-williams-santos/) (13 años, super fuerza, activista juvenil)
+- [Jin Park-Okonkwo]({{ site.baseurl }}/characters/details/jin-park-okonkwo/) (13 años, manipulador de sombras, chantajista)
+- [Zara Qasim-Kowalski]({{ site.baseurl }}/characters/details/zara-qasim-kowalski/) (12 años, controladora de electricidad, genio tecnológico)
+- [Ravi Kapoor-Müller]({{ site.baseurl }}/characters/details/ravi-kapoor-muller/) (11 años, cambio de fase, escapista compulsivo)
+- [Nia Thompson-Okafor]({{ site.baseurl }}/characters/details/nia-thompson-okafor/) (10 años, comunicadora con animales, Robin Hood infantil)
+- [Elio Rossi-Kim]({{ site.baseurl }}/characters/details/elio-rossi-kim/) (9 años, proyector de luz, miedo a la oscuridad)
+- [Luna Fernández-Zhang]({{ site.baseurl }}/characters/details/luna-fernandez-zhang/) (8 años, caminante de sueños, la más joven)
+
 ### Fuerzas Especiales y Militares
 - [Los Rayos]({{ site.baseurl }}/groups/los-rayos/) (fuerza militar bajo General Martínez)
 - El Oriental Tormenta

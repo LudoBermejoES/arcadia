@@ -1,0 +1,219 @@
+---
+layout: character
+title: Safiya Abbas-Petrov
+permalink: /characters/details/safiya-abbas-petrov/
+slug: safiya-abbas-petrov
+---
+
+# Safiya Abbas-Petrov
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/safiya-abbas-petrov.png" alt="Safiya Abbas-Petrov" />
+</div>
+
+## Información Básica
+- **Nombre**: Safiya Abbas-Petrov
+- **Edad**: 16 años
+- **Origen Étnico**: Mezcla egipcia-rusa
+- **Familia**: Hija de refugiados de conflicto civil
+- **Ubicación**: Correccional de Menores Metahumanos, Isla Azogue
+- **Afiliación**: Interna del correccional
+- **Poder**: Curación
+
+## Presentación
+Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la maldición de no poder elegir a quién. Hija de refugiados del conflicto sirio-ruso, su poder de curación se manifestó cuando intentó salvar a su hermano menor herido en bombardeo. Su "crimen" fue curar a un criminal buscado que la tomó como rehén, obligándola a sanar sus heridas repetidamente.
+
+## Historia y Trasfondo
+
+### **Origen Familiar**
+- **Refugiados de zona de conflicto**: Madre egipcia, padre ruso, atrapados en Siria
+- **Pérdidas familiares**: Hermano menor murió pese a sus intentos de sanarlo
+- **Trauma de guerra**: Creció entre bombardeos y violencia
+- **Juramento hipocrático familiar**: Padre era médico, le enseñó "sanar a todos sin juzgar"
+
+### **Incidente que la Llevó al Correccional**
+- **Secuestro**: Criminal herido la tomó rehén al ver sus poderes
+- **Curación forzada**: Obligada a sanarlo durante semanas de cautiverio
+- **Rescate problemático**: Cuando la rescataron, la acusaron de complicidad
+- **Sentencia injusta**: Tratada como colaboradora criminal por salvar su propia vida
+
+## Poderes y Habilidades
+
+### **Curación (Healing Touch)**
+- **Regeneración tisular**: Cierra heridas y repara daño celular
+- **Curación rápida**: Heridas menores sanan en segundos, mayores en minutos
+- **Alcance**: Requiere contacto físico directo
+- **Costo**: Usa su propia energía vital, la agota
+- **Limitación**: No puede curar enfermedades, solo trauma físico
+
+### **Diagnóstico Táctil**
+- **Percepción médica**: Siente daño interno al tocar
+- **Precisión**: Identifica fracturas, hemorragias, lesiones ocultas
+- **Empatía del dolor**: Experimenta el dolor del paciente brevemente
+- **Escáner viviente**: Más precisa que máquinas de diagnóstico
+
+### **Curación Prolongada**
+- **Sesiones extendidas**: Puede mantener curación activa durante horas
+- **Daño grave**: Capaz de sanar heridas mortales si tiene tiempo
+- **Cirugía sin bisturí**: Repara órganos internos mediante toque
+- **Regeneración ósea**: Fija fracturas complejas perfectamente
+
+### **No Puede Negarse - Debilidad Crítica**
+- **Compulsión**: No puede ver sufrimiento sin intentar sanarlo
+- **Explotación**: Otros abusan de su incapacidad de negarse
+- **Agotamiento**: Se vacía completamente sanando a otros
+- **Culpa paralizante**: Si no puede salvar a alguien, se derrumba emocionalmente
+
+## Atributos y Capacidades
+
+### **Estadísticas**
+- **Agilidad**: d6 (movimientos cuidadosos de enfermera)
+- **Inteligencia**: d10 (conocimiento médico excepcional)
+- **Espíritu**: d12 (compasión inagotable)
+- **Fuerza**: d4 (físicamente débil por agotamiento constante)
+- **Vigor**: d6 (resistencia media, drenada por curaciones)
+
+### **Habilidades Destacadas**
+- **Curación d12**: Maestra absoluta de poderes sanadores
+- **Medicina d10**: Conocimiento médico profesional
+- **Empatía d12**: Comprensión profunda del sufrimiento ajeno
+- **Notice d10**: Observa síntomas y lesiones automáticamente
+- **Persuasión d8**: Voz gentil que calma pacientes
+- **Ciencias d10**: Educación avanzada en biología y anatomía
+
+### **Pace**: 6 | **Parry**: 4 | **Toughness**: 5
+
+## Ventajas y Desventajas
+
+### **Ventajas (Edges)**
+- **Super Powers**: Poderes metahumanos de curación
+- **Healer**: Habilidad médica excepcional natural
+- **Charismatic**: Presencia calmante y confiable
+
+### **Desventajas (Hindrances)**
+- **Pacifist (Major)**: No puede dañar a nadie, juramento médico profundo
+- **Code of Honor (Major)**: Debe ayudar a cualquiera que sufra
+- **Loyal (Minor)**: Devoción extrema a quienes cuida
+
+## Equipamiento
+
+### **Uniforme del Correccional con Insignia Médica**
+- **Marcado**: Cruz roja indica sus habilidades
+- **Función**: Otros internos la buscan cuando heridos
+- **Estado**: Manchas de sangre imposibles de quitar completamente
+- **Símbolo**: Lleva con orgullo pese a ser prisionera
+
+### **Kit Médico Personal Limitado**
+- **Contenido**: Vendas, antisépticos básicos, analgésicos
+- **Acceso restringido**: No puede tener instrumentos afilados
+- **Uso**: Complementa poderes para tratamientos completos
+- **Mantenimiento**: Cuida el kit meticulosamente
+
+### **Diario Médico**
+- **Función**: Registra cada curación realizada
+- **Contenido**: Análisis detallado de casos y progreso de pacientes
+- **Privacidad**: Nombres codificados para proteger identidad
+- **Obsesión**: Documenta compulsivamente cada intervención
+
+## Personalidad y Psicología
+
+### **Sanadora Compulsiva**
+- **No puede decir no**: Debe curar a cualquiera que sufra
+- **Auto-sacrificio extremo**: Prioriza a otros sobre su salud
+- **Agotamiento crónico**: Constantemente drenada por curaciones
+- **Identidad médica**: Se define completamente por poder de sanar
+
+### **Carga del Sanador**
+- **Responsabilidad infinita**: Siente que cada herida es su responsabilidad
+- **Culpa de sobreviviente**: Se culpa por cada persona que no pudo salvar
+- **Memoria perfecta del dolor**: Recuerda cada sufrimiento que absorbió
+- **Pesadillas médicas**: Sueña con pacientes que murió en sus manos
+
+### **Moralidad Médica Compleja**
+- **Hippocratic extremo**: "Primero no dañar" la paraliza moralmente
+- **Sin juicio**: Cura criminales y víctimas por igual
+- **Debate interno**: ¿Es ético sanar a quien hará más daño?
+- **Conclusión**: No le corresponde decidir quién merece vivir
+
+### **Trauma de Secuestro**
+- **Síndrome de Estocolmo**: Siente empatía por su secuestrador
+- **Culpa de víctima**: Se culpa por haber sido secuestrada
+- **Defensiva de su inocencia**: Frustra que la traten como criminal
+- **Miedo a ser usada**: Terror a que exploten sus poderes nuevamente
+
+## Relaciones en el Correccional
+
+### **Con el Señor Nadie**
+- **Respeto profesional**: Lo ve como colega, no autoridad
+- **Debates éticos**: Discuten filosofía médica y moral
+- **Confianza**: Único que entiende su compulsión no es debilidad
+- **Mentora inversa**: Ella le enseña sobre sanación emocional
+
+### **Con Otros Internos**
+- **Enfermera de todos**: Ha curado a cada interno al menos una vez
+- **Dmitri Volkov-Ramírez**: Conflicto - abusa de sus servicios constantemente
+- **Kaida Chen-Okafor**: Relación sanadora - cura sus quemaduras accidentales
+- **Marcus Williams-Santos**: Admiración - comparten código moral
+- **Tomás Vargas-Lee**: Paciente frecuente - se lastima corriendo
+- **Los niños pequeños**: Figura maternal, cura heridas y miedos
+
+### **Con el Personal**
+- **Médicos del correccional**: Colabora oficiosamente con personal médico
+- **Guardias**: La respetan, la llaman cuando alguien se hiere
+- **Dirección**: Conflicto sobre si usar sus poderes es "trabajo forzado"
+
+## Desarrollo y Arcos Narrativos
+
+### **Arco de Límites**
+- **Objetivo**: Aprender a decir "no" sin culpa
+- **Obstáculos**: Compulsión profundamente arraigada
+- **Progreso**: Terapia sobre auto-cuidado y límites saludables
+- **Setbacks**: Cada emergencia médica refuerza patrón de auto-sacrificio
+
+### **Arco de Justicia**
+- **Conflicto**: Encarcelada injustamente por ser víctima
+- **Lucha**: Demostrar que curación forzada no es complicidad
+- **Objetivo**: Liberación y reconocimiento como víctima, no criminal
+- **Evolución**: De víctima callada a activista por derechos de metahumanos
+
+### **Arco Moral**
+- **Situación**: ¿Debe sanar a todos sin juzgar?
+- **Dilemas**: Curar criminal que hará más daño vs dejar morir
+- **Exploración**: Límites éticos del poder de curación
+- **Resolución potencial: Curar es acto neutro, justicia es responsabilidad de otros
+
+## Potencial Narrativo
+
+### **Como Protagonista**
+- **Heroína médica**: Salvadora que sana heridas del mundo
+- **Dilema ético**: Historias sobre moralidad de curación universal
+- **Víctima-sobreviviente**: Superando injusticia del sistema
+- **Símbolo de compasión**: Bondad en mundo cruel
+
+### **Como Antagonista**
+- **Sanadora oscura**: Mantiene vivos a criminales para que torturen más
+- **Curación selectiva**: Decide quién merece vivir o morir
+- **Auto-destrucción**: Se agota completamente sanando hasta morir
+- **Explotada**: Forzada a sanar ejército criminal indefinidamente
+
+### **Como Aliada**
+- **Médica de campo**: Mantiene equipo con vida en misiones
+- **Curación de emergencia**: Salva vidas en situaciones críticas
+- **Inteligencia médica**: Diagnostica venenos y enfermedades
+- **Moral del equipo**: Su compasión inspira a otros
+
+## Estado Actual
+
+**Ubicación**: Celda estándar con acceso a enfermería en Correccional de Isla Azogue
+**Sentencia**: 2 años por "complicidad con criminal fugitivo"
+**Progreso**: Excelente conducta, trabaja en enfermería del correccional
+**Relaciones**: Respetada universalmente, sanadora de la comunidad interna
+**Objetivo**: Liberación para estudiar medicina formalmente y vindicar su nombre
+
+## Cita Característica
+
+> "Mi padre me enseñó el juramento hipocrático antes de que supiera leer. 'Primero no dañar. Sanar a todos sin juzgar.' Cuando ese hombre me secuestró, cuando me obligó a curar sus heridas... podría haberlo dejado morir. Pero entonces sería como él. El sufrimiento no se cura con más sufrimiento. Me llaman criminal por salvar una vida. Prefiero ser criminal con conciencia limpia que libre con sangre en las manos."
+
+---
+
+*Safiya Abbas-Petrov encarna la paradoja del sanador: poder infinito para salvar vidas, impotencia total para salvarse a sí misma. Encarcelada por el acto de compasión que debió ser celebrado, porta la cruz del sanador - la obligación moral de ayudar incluso a quienes la lastiman. Su poder es tanto don como maldición: no puede ver sufrimiento sin aliviarlo, incluso si la destruye. El correccional la llama criminal. Los internos la llaman ángel. Ella se llama simplemente médica, y tal vez esa sea la verdad más profunda.*

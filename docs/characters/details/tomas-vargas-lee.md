@@ -1,0 +1,217 @@
+---
+layout: character
+title: Tomás Vargas-Lee
+permalink: /characters/details/tomas-vargas-lee/
+slug: tomas-vargas-lee
+---
+
+# Tomás Vargas-Lee
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/tomas-vargas-lee.png" alt="Tomás Vargas-Lee" />
+</div>
+
+## Información Básica
+- **Nombre**: Tomás Vargas-Lee
+- **Edad**: 15 años
+- **Origen Étnico**: Mezcla mexicana-china
+- **Familia**: Hijo de refugiados de carteles/crimen organizado
+- **Ubicación**: Correccional de Menores Metahumanos, Isla Azogue
+- **Afiliación**: Interno del correccional
+- **Poder**: Super Velocidad
+
+## Presentación
+Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal y metafóricamente. Hijo de refugiados que huyeron de carteles mexicanos y tríadas chinas, su poder de super velocidad se manifestó cuando corrió para salvar a su hermana de un tiroteo entre pandillas. El caos resultante cuando atravesó una operación policial encubierta lo clasificó como "obstaculización de la justicia".
+
+## Historia y Trasfondo
+
+### **Origen Familiar**
+- **Refugiados del crimen organizado**: Familia huyó de carteles mexicanos y tríadas
+- **Testigos protegidos**: Vivieron bajo protección gubernamental con identidades falsas
+- **Traición del sistema**: Ubicación filtrada, carteles los encontraron
+- **Hermana menor salvada**: Sus poderes salvaron a su hermana del tiroteo
+
+### **Incidente que lo Llevó al Correccional**
+- **Ataque a familia**: Sicarios abrieron fuego en calle pública
+- **Manifestación de velocidad**: Poderes emergieron, rescató a hermana en milisegundos
+- **Caos colateral**: Atravesó operativo policial encubierto sin saber
+- **Sentencia absurda**: Acusado de interferir con investigación criminal
+
+## Poderes y Habilidades
+
+### **Super Velocidad (Super Speed)**
+- **Velocidad extrema**: Corre hasta 500 km/h en distancias cortas
+- **Aceleración instantánea**: De 0 a velocidad máxima en menos de un segundo
+- **Reflejos mejorados**: Percibe mundo en cámara lenta
+- **Metabolismo acelerado**: Procesa todo más rápido (comida, heridas, drogas)
+
+### **Pensamiento Acelerado**
+- **Procesamiento rápido**: Piensa y analiza a velocidad sobrehumana
+- **Multi-tasking**: Puede atender múltiples estímulos simultáneamente
+- **Aprendizaje veloz**: Absorbe información extremadamente rápido
+- **Impaciencia**: No puede tolerar lentitud de otros
+
+### **Combate Veloz**
+- **Múltiples golpes**: Docenas de ataques en un segundo
+- **Esquiva perfecta**: Reacciona a amenazas antes de que completen
+- **Desarme**: Quita armas antes de que otros puedan parpadear
+- **No-letal**: Prefiere neutralizar sin dañar permanentemente
+
+### **No Puede Parar - Debilidad Crítica**
+- **Hiperactividad extrema**: Físicamente incapaz de quedarse quieto
+- **Agotamiento metabólico**: Necesita consumir 10,000+ calorías diarias
+- **Envejecimiento acelerado**: Su metabolismo puede acortar su vida
+- **Adicción al movimiento**: Detenerse causa ansiedad y dolor físico
+
+## Atributos y Capacidades
+
+### **Estadísticas**
+- **Agilidad**: d12+2 (agilidad sobrehumana extrema)
+- **Inteligencia**: d8 (brillante, procesa rápido)
+- **Espíritu**: d8 (determinado, impaciente)
+- **Fuerza**: d6 (fuerza promedio)
+- **Vigor**: d10 (resistencia superior por metabolismo)
+
+### **Habilidades Destacadas**
+- **Atletismo d12**: Velocista sobrehumano
+- **Combate d10**: Lucha a velocidad incrementada
+- **Conducir d10**: Reflejos perfectos para maniobras
+- **Notice d12**: Percepción aumentada por velocidad de procesamiento
+- **Reparación d10**: Trabajo manual a velocidad increíble
+- **Sigilo d6**: Rápido pero no particularmente silencioso
+
+### **Pace**: 24 (cuatro veces velocidad humana normal) | **Parry**: 7 | **Toughness**: 7
+
+## Ventajas y Desventajas
+
+### **Ventajas (Edges)**
+- **Super Powers**: Poderes metahumanos de velocidad
+- **Quick**: Reflejos naturalmente superiores
+- **Fleet-Footed**: Velocidad base incrementada
+
+### **Desventajas (Hindrances)**
+- **Impulsive (Major)**: Actúa sin pensar, no puede esperar
+- **Habit (Major)**: Debe estar constantemente en movimiento
+- **Loyal (Minor)**: Haría cualquier cosa por su familia
+
+## Equipamiento
+
+### **Uniforme del Correccional Reforzado**
+- **Material**: Tejido ultra-resistente a fricción
+- **Desgaste**: Reemplazado semanalmente por uso extremo
+- **Zapatillas especiales**: Suelas diseñadas para alta velocidad
+- **Estado**: Perpetuamente desgastado pese a ser nuevo
+
+### **Pista de Carrera Personal**
+- **Ubicación**: Circuito cerrado en patio del correccional
+- **Función**: Permite correr sin restricciones durante horas
+- **Necesidad médica**: Prescrito para prevenir atrofia muscular y ansiedad
+- **Uso**: Corre mínimo 6 horas diarias
+
+### **Dieta Especial de Alto Consumo**
+- **Calorías**: 12,000+ calorías diarias
+- **Frecuencia**: Come cada 2-3 horas
+- **Contenido**: Alta proteína, carbohidratos complejos
+- **Costo**: El interno más caro de alimentar en el correccional
+
+## Personalidad y Psicología
+
+### **Energía Imparable**
+- **Perpetuo movimiento**: Nunca completamente quieto
+- **Tamborileo constante**: Dedos, pies, siempre en movimiento
+- **Habla rápida**: Conversa a velocidad que frustra a otros
+- **Interrumpe**: No puede esperar su turno en conversaciones
+
+### **Impaciencia Crónica**
+- **Frustración con lentitud**: El mundo se mueve dolorosamente lento
+- **Toma decisiones rápidas**: No puede deliberar, actúa instantáneamente
+- **Termina frases**: Anticipa lo que otros dirán y lo dice primero
+- **Agotamiento social**: Interacciones normales lo frustran
+
+### **Protector Compulsivo**
+- **Instinto de rescate**: Corre hacia el peligro, no lejos de él
+- **Hermana como prioridad**: Obsesionado con proteger familia
+- **Culpa del superviviente**: Se culpa por no llegar más rápido siempre
+- **Vigilancia constante**: Escanea amenazas automáticamente
+
+### **TDAH Amplificado**
+- **Atención fragmentada**: Dificulta concentrarse en una sola cosa
+- **Hiperfoco**: Cuando algo le interesa, se obsesiona completamente
+- **Inquietud física**: Dolor genuino cuando se ve forzado a estar quieto
+- **Medicación inefectiva**: Metabolismo quema drogas demasiado rápido
+
+## Relaciones en el Correccional
+
+### **Con el Señor Nadie**
+- **Respeto impaciente**: Valora su ayuda pero frustra su lentitud
+- **Sesiones activas**: Terapia mientras corre en pista
+- **Comprensión**: Nadie adaptó métodos a su velocidad
+- **Confianza**: Único adulto que no le pide que "se calme"
+
+### **Con Otros Internos**
+- **Safiya Abbas-Petrov**: Paciente frecuente - se lastima corriendo
+- **Dmitri Volkov-Ramírez**: Competencia - ambos soberbios de habilidades
+- **Fatima Al-Amin-Rodríguez**: Fascinación - sus campos lo detienen
+- **Léa Dubois-Nguyen**: Amistad - ella cambia tan rápido como él corre
+- **Zara Qasim-Kowalski**: Hermandad científica - ambos genios
+
+### **Con el Personal**
+- **Guardias**: Frustración - no pueden seguir su velocidad
+- **Entrenadores**: Trabajando en control de velocidad
+- **Nutricionistas**: Desafío constante mantenerlo alimentado
+
+## Desarrollo y Arcos Narrativos
+
+### **Arco de Control**
+- **Objetivo**: Aprender a detenerse conscientemente
+- **Obstáculos**: Dolor físico y psicológico de quietud
+- **Progreso**: Meditación activa, ejercicios de desaceleración gradual
+- **Setbacks**: Emergencias disparan velocidad automática
+
+### **Arco de Paciencia**
+- **Conflicto**: Vivir en mundo que se mueve más lento que él
+- **Desarrollo**: Aceptar ritmo de otros sin frustración
+- **Técnicas**: Mindfulness, encontrar valor en lentitud
+- **Evolución**: De impaciente compulsivo a rápido pero consciente
+
+### **Arco Familiar**
+- **Situación**: Separado de familia que arriesgó todo por proteger
+- **Objetivo**: Reunificación segura sin amenaza de carteles
+- **Obstáculos**: Familia aún en peligro, identidades comprometidas
+- **Resolución potencial**: Uso de velocidad para proteger permanentemente
+
+## Potencial Narrativo
+
+### **Como Protagonista**
+- **Héroe veloz clásico**: Rescatador que llega siempre a tiempo
+- **Protector familiar**: Velocidad usada para defender seres queridos
+- **Superación de limitaciones**: Aprender que parar es tan importante como correr
+- **Símbolo de urgencia**: Actúa cuando otros dudan
+
+### **Como Antagonista**
+- **Criminal veloz**: Velocidad usada para crimen perfecto
+- **Impaciencia destructiva**: Decisiones impulsivas causan desastres
+- **Agotamiento fatal**: Corre hasta literalmente matarse
+- **Reclutado por carteles**: Familia amenazada para forzar servicio
+
+### **Como Aliado**
+- **Rescate rápido**: Extracción de personas en peligro
+- **Mensajero**: Comunicación instantánea entre ubicaciones
+- **Reconocimiento**: Exploración territorial en segundos
+- **Combate de alta velocidad**: Neutraliza amenazas antes de escalar
+
+## Estado Actual
+
+**Ubicación**: Celda estándar con acceso ilimitado a pista en Correccional de Isla Azogue
+**Sentencia**: 18 meses por "obstaculización de investigación criminal"
+**Progreso**: Excelente en control de velocidad, impaciencia sigue siendo desafío
+**Relaciones**: Respetado por habilidades, amistades complicadas por impaciencia
+**Objetivo**: Liberación para proteger a su familia de amenazas del crimen organizado
+
+## Cita Característica
+
+> "La gente me dice que me calme, que me detenga, que respire. Pero ustedes no entienden - para mí, el mundo ya está en cámara lenta. Están hablando... tan... despacio. Cuando corro, cuando me muevo, finalmente el mundo tiene sentido. Mi hermana iba a morir. Yo corrí. Eso no me hace criminal. Me hace hermano."
+
+---
+
+*Tomás Vargas-Lee es velocidad hecha carne: imparable, impaciente, imposible de contener. Hijo de refugiados del crimen organizado, corrió literalmente hacia el peligro para salvar a su hermana. El sistema lo castigó por actuar cuando otros se paralizaron. Su velocidad es tanto bendición como maldición - puede estar en cualquier lugar, pero nunca puede estar quieto. El correccional intenta enseñarle a detenerse, pero ¿cómo detener a alguien cuyo corazón late al ritmo de un colibrí y cuya mente corre más rápido que sus pies?*

@@ -7,6 +7,10 @@ slug: el-senor-nadie
 
 # El Señor Nadie
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/senor-nadie.png" alt="El Señor Nadie" />
+</div>
+
 ## Información Básica
 - **Nombre**: El Señor Nadie
 - **Edad**: 53 años

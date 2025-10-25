@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>216 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>231 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -157,6 +157,14 @@ permalink: /characters/gallery/
   <h3 class="character-category-title">🦹‍♂️ Villanos</h3>
   <div class="gallery-container" id="villanos-gallery">
     <!-- Villain cards will be dynamically loaded here -->
+  </div>
+</div>
+
+<!-- Correccional -->
+<div class="character-section">
+  <h3 class="character-category-title">⛓️ Correccional de Menores - Isla Azogue</h3>
+  <div class="gallery-container" id="correccional-gallery">
+    <!-- Juvenile detention center inmate cards will be dynamically loaded here -->
   </div>
 </div>
 
@@ -380,7 +388,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
-      { slug: 'el-senor-nadie', name: 'El Señor Nadie', image: 'el-senor-nadie.png' },
+      { slug: 'el-senor-nadie', name: 'El Señor Nadie', image: 'senor-nadie.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
       { slug: 'lambert', name: 'Lambert', image: 'lambert.png' },
       { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },
@@ -452,6 +460,24 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
       { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
       { slug: 'senora-de-la-sonrisa', name: 'Señora de la Sonrisa', image: 'senora-sonrisa.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+
+    correccional: [
+      { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'kaida-chen-okafor.png' },
+      { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'dmitri-volkov-ramirez.png' },
+      { slug: 'safiya-abbas-petrov', name: 'Safiya Abbas-Petrov', image: 'safiya-abbas-petrov.png' },
+      { slug: 'amara-osei-baptiste', name: 'Amara Osei-Baptiste', image: 'amara-osei-baptiste.png' },
+      { slug: 'tomas-vargas-lee', name: 'Tomás Vargas-Lee', image: 'tomas-vargas-lee.png' },
+      { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'yuki-tanaka-al-rashid.png' },
+      { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'fatima-al-amin-rodriguez.png' },
+      { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'lea-dubois-nguyen.png' },
+      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'marcus-williams-santos.png' },
+      { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'jin-park-okonkwo.png' },
+      { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'zara-qasim-kowalski.png' },
+      { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'ravi-kapoor-muller.png' },
+      { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'nia-thompson-okafor.png' },
+      { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'elio-rossi-kim.png' },
+      { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'luna-fernandez-zhang.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
@@ -511,6 +537,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.protagonistas, 'protagonistas-gallery');
   createCharacterCards(characterCategories.artistas, 'artistas-gallery');
   createCharacterCards(characterCategories.civiles, 'civiles-gallery');
+  createCharacterCards(characterCategories.correccional, 'correccional-gallery');
   createCharacterCards(characterCategories.entidades, 'entidades-gallery');
   createCharacterCards(characterCategories.estudiantes, 'estudiantes-gallery');
   createCharacterCards(characterCategories.heroes, 'heroes-gallery');
@@ -555,6 +582,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('protagonistas-gallery');
   initializeMasonry('artistas-gallery');
   initializeMasonry('civiles-gallery');
+  initializeMasonry('correccional-gallery');
   initializeMasonry('entidades-gallery');
   initializeMasonry('estudiantes-gallery');
   initializeMasonry('heroes-gallery');

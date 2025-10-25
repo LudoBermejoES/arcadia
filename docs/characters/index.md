@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Personajes de Arcadia"
-description: "216 Héroes, Villanos y Aliados"
+description: "231 Héroes, Villanos y Aliados"
 ---
 
 # Base de Datos de Personajes
@@ -14,7 +14,7 @@ description: "216 Héroes, Villanos y Aliados"
 ## 🌟 **Universo de Personajes**
 
 
-Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **216 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
+Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **231 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
 
 **🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**
 
@@ -353,9 +353,10 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-- **216** Personajes Únicos
+- **231** Personajes Únicos
 - **17** Protagonistas Principales
 - **56+** Villanos Documentados
+- **15** Internos del Correccional de Menores
 - **15** Años de Desarrollo
 - **8** Jugadores Únicos
 - **4** Generaciones Heroicas (incluye Ultracorps)

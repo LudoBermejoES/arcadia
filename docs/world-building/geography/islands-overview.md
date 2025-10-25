@@ -63,7 +63,7 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 - **Densidad**: ~3 hab/km² (muy baja por condiciones especiales)
 - **Características**: Única isla con volcán semiactivo, vegetación muy abundante
 - **Función**: Centro educativo, correccional y residencia para metahumanos
-- **Director**: [El Señor Nadie](../../characters/details/el-senor-nadie/) - Director del Centro y el Correccional
+- **Director**: [El Señor Nadie]({{ site.baseurl }}/characters/details/el-senor-nadie/) - Director del Centro y el Correccional
 
 **Instalaciones Principales**:
 - **Centro para el Estudio Metahumano de Arcadia**: Institución de investigación y educación especializada

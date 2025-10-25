@@ -55,19 +55,28 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 
 ---
 
-### **3. 🌑 Isla Azoge** — *El Caos Primordial*
-**Centro de Entrenamiento Volcánico**
+### **3. 🌑 Isla Azogue** — *El Caos Primordial*
+**Centro de Estudios Metahumanos y Correccional**
 
-- **Población**: ~75 habitantes (personal especializado)
+- **Población**: ~100 habitantes (personal especializado, estudiantes y residentes)
 - **Superficie**: ~33 km²
-- **Densidad**: ~2.3 hab/km² (muy baja por condiciones extremas)
-- **Características**: Única isla con volcán activo, muy cálida
-- **Función**: Centro de entrenamiento para metahumanos que no pueden controlar sus poderes
+- **Densidad**: ~3 hab/km² (muy baja por condiciones especiales)
+- **Características**: Única isla con volcán semiactivo, vegetación muy abundante
+- **Función**: Centro educativo, correccional y residencia para metahumanos
+- **Director**: [El Señor Nadie](../../characters/details/el-senor-nadie/) - Director del Centro y el Correccional
+
+**Instalaciones Principales**:
+- **Centro para el Estudio Metahumano de Arcadia**: Institución de investigación y educación especializada
+- **Colegio de Metahumanos**: Centro educativo dirigido por el Señor Nadie
+- **Correccional de Menores Metahumanos**: Facility para jóvenes que requieren supervisión especial
+- **Zona Residencial Especial**: Viviendas para metahumanos incapaces de controlar sus poderes
 
 **Particularidades**:
-- Ambiente extremo utilizado para entrenamiento de resistencia
-- Instalaciones especializadas resistentes a altas temperaturas
-- Acceso restringido solo para personal autorizado y entrenamiento
+- Única isla del archipiélago con volcán semiactivo
+- Vegetación excepcionalmente abundante debido a suelos volcánicos fértiles
+- Sistema de anulación de poderes administrado por el Señor Nadie
+- Ambiente controlado que permite convivencia segura para metahumanos inestables
+- Acceso restringido solo para personal autorizado, estudiantes y residentes
 
 ---
 
@@ -273,7 +282,7 @@ El archipiélago de Arcadia está compuesto por **11 islas volcánicas** únicas
 | **Athanor** | 90K | 200 km² | 450 hab/km² | Tecnológico/Industrial |
 | **Vitriol** | 22.5K | 133 km² | 168 hab/km² | Espiritual/Religioso |
 | **Sal** | 1.2K | 47 km² | 26 hab/km² | Natural/Ultra-Premium |
-| **Azoge** | 75 | 33 km² | 2.3 hab/km² | Entrenamiento Especial |
+| **Azogue** | 100 | 33 km² | 3 hab/km² | Educativo/Correccional |
 | **Ouroboros** | 1 | 13 km² | 0.08 hab/km² | Misterioso/Deshabitado |
 | **TOTAL** | **~1.5M** | **2,760 km²** | **~540 hab/km²** | **Archipiélago Completo** |
 

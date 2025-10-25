@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>215 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>216 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -380,6 +380,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'amira-roxana', name: 'Amira Roxana', image: 'amira-roxana.png' },
       { slug: 'cacharrero', name: 'Cacharrero', image: 'Cacharrero.png' },
       { slug: 'charada', name: 'Charada', image: 'Charada.png' },
+      { slug: 'el-senor-nadie', name: 'El Señor Nadie', image: 'el-senor-nadie.png' },
       { slug: 'federico-lopez', name: 'Federico López', image: 'federico-lopez.png' },
       { slug: 'lambert', name: 'Lambert', image: 'lambert.png' },
       { slug: 'mateo-shu', name: 'Mateo Shu', image: 'Mateo_Shu.png' },

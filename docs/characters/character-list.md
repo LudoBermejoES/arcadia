@@ -289,6 +289,7 @@ permalink: /characters/character-list/
 - Freilasung (grupo extremista)
 
 ### Instituciones
+- [El Señor Nadie]({{ site.baseurl }}/characters/details/el-senor-nadie/) (Director del Centro para el Estudio Metahumano de Arcadia, Director del Colegio de Metahumanos, Director del Correccional de Menores Metahumanos - Isla Azogue)
 - OMA (Universidad Multidisciplinar de Arcadia)
 - LIA (Laboratorio de Investigaciones Avanzadas)
 - Las Carmelitas Descalzas

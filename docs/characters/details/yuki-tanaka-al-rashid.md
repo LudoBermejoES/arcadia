@@ -8,7 +8,7 @@ slug: yuki-tanaka-al-rashid
 # Yuki Tanaka-Al-Rashid
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/yuki-tanaka-al-rashid.png" alt="Yuki Tanaka-Al-Rashid" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Yuki_Tanaka-Al-Rashid.png" alt="Yuki Tanaka-Al-Rashid" />
 </div>
 
 ## Información Básica

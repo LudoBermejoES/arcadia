@@ -8,7 +8,7 @@ slug: dmitri-volkov-ramirez
 # Dmitri Volkov-Ramírez
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/dmitri-volkov-ramirez.png" alt="Dmitri Volkov-Ramírez" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Dmitri_Volkov-Ramirez.png" alt="Dmitri Volkov-Ramírez" />
 </div>
 
 ## Información Básica

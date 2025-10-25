@@ -8,7 +8,7 @@ slug: nia-thompson-okafor
 # Nia Thompson-Okafor
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/nia-thompson-okafor.png" alt="Nia Thompson-Okafor" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Nia_Thompson-Okafor.png" alt="Nia Thompson-Okafor" />
 </div>
 
 ## Información Básica

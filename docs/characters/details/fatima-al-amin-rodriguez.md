@@ -8,7 +8,7 @@ slug: fatima-al-amin-rodriguez
 # Fatima Al-Amin-Rodríguez
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/fatima-al-amin-rodriguez.png" alt="Fatima Al-Amin-Rodríguez" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Fatima_Al-Amin-Rodriguez.png" alt="Fatima Al-Amin-Rodríguez" />
 </div>
 
 ## Información Básica

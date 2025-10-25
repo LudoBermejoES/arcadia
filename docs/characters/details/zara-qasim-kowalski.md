@@ -8,7 +8,7 @@ slug: zara-qasim-kowalski
 # Zara Qasim-Kowalski
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/zara-qasim-kowalski.png" alt="Zara Qasim-Kowalski" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Zara_Qasim-Kowalski.png" alt="Zara Qasim-Kowalski" />
 </div>
 
 ## Información Básica

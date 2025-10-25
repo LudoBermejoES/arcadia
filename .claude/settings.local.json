@@ -8,7 +8,8 @@
       "Bash(git push:*)",
       "Bash(git pull:*)",
       "Bash(git fetch:*)",
-      "Bash(find:*)"
+      "Bash(find:*)",
+      "Read(//c/mnt/c/code/**)"
     ],
     "deny": [],
     "ask": [],

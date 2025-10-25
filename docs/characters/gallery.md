@@ -463,21 +463,21 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
 
     correccional: [
-      { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'kaida-chen-okafor.png' },
-      { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'dmitri-volkov-ramirez.png' },
-      { slug: 'safiya-abbas-petrov', name: 'Safiya Abbas-Petrov', image: 'safiya-abbas-petrov.png' },
-      { slug: 'amara-osei-baptiste', name: 'Amara Osei-Baptiste', image: 'amara-osei-baptiste.png' },
-      { slug: 'tomas-vargas-lee', name: 'Tomás Vargas-Lee', image: 'tomas-vargas-lee.png' },
-      { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'yuki-tanaka-al-rashid.png' },
-      { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'fatima-al-amin-rodriguez.png' },
-      { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'lea-dubois-nguyen.png' },
-      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'marcus-williams-santos.png' },
-      { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'jin-park-okonkwo.png' },
-      { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'zara-qasim-kowalski.png' },
-      { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'ravi-kapoor-muller.png' },
-      { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'nia-thompson-okafor.png' },
-      { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'elio-rossi-kim.png' },
-      { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'luna-fernandez-zhang.png' }
+      { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'Kaida_Chen-Okafor.png' },
+      { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'Dmitri_Volkov-Ramirez.png' },
+      { slug: 'safiya-abbas-petrov', name: 'Safiya Abbas-Petrov', image: 'Safiya_Abbas-Petrov.png' },
+      { slug: 'amara-osei-baptiste', name: 'Amara Osei-Baptiste', image: 'Amara_Osei-Baptiste.png' },
+      { slug: 'tomas-vargas-lee', name: 'Tomás Vargas-Lee', image: 'Tomas_Vargas-Lee.png' },
+      { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'Yuki_Tanaka-Al-Rashid.png' },
+      { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'Fatima_Al-Amin-Rodriguez.png' },
+      { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'Lea_Dubois-Nguyen.png' },
+      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'Marcus_Williams-Santos.png' },
+      { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'Jin_Park-Okonkwo.png' },
+      { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'Zara_Qasim-Kowalski.png' },
+      { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'Ravi_Kapoor-Muller.png' },
+      { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'Nia_Thompson-Okafor.png' },
+      { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'Elio_Rossi-Kim.png' },
+      { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'Luna_Fernandez-Zhang.png' }
     ].sort((a, b) => a.name.localeCompare(b.name))
   };
 

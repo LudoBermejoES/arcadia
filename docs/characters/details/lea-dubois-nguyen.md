@@ -8,7 +8,7 @@ slug: lea-dubois-nguyen
 # Léa Dubois-Nguyen
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/lea-dubois-nguyen.png" alt="Léa Dubois-Nguyen" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Lea_Dubois-Nguyen.png" alt="Léa Dubois-Nguyen" />
 </div>
 
 ## Información Básica

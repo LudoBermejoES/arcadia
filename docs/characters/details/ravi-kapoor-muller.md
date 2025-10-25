@@ -8,7 +8,7 @@ slug: ravi-kapoor-muller
 # Ravi Kapoor-Müller
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/ravi-kapoor-muller.png" alt="Ravi Kapoor-Müller" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Ravi_Kapoor-Muller.png" alt="Ravi Kapoor-Müller" />
 </div>
 
 ## Información Básica

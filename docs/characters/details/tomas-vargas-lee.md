@@ -8,7 +8,7 @@ slug: tomas-vargas-lee
 # Tomás Vargas-Lee
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/tomas-vargas-lee.png" alt="Tomás Vargas-Lee" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Tomas_Vargas-Lee.png" alt="Tomás Vargas-Lee" />
 </div>
 
 ## Información Básica

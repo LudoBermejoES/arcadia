@@ -8,7 +8,7 @@ slug: marcus-williams-santos
 # Marcus Williams-Santos
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/marcus-williams-santos.png" alt="Marcus Williams-Santos" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Marcus_Williams-Santos.png" alt="Marcus Williams-Santos" />
 </div>
 
 ## Información Básica

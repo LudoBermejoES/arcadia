@@ -8,7 +8,7 @@ slug: safiya-abbas-petrov
 # Safiya Abbas-Petrov
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/safiya-abbas-petrov.png" alt="Safiya Abbas-Petrov" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Safiya_Abbas-Petrov.png" alt="Safiya Abbas-Petrov" />
 </div>
 
 ## Información Básica

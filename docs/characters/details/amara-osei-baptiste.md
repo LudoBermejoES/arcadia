@@ -8,7 +8,7 @@ slug: amara-osei-baptiste
 # Amara Osei-Baptiste
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/amara-osei-baptiste.png" alt="Amara Osei-Baptiste" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Amara_Osei-Baptiste.png" alt="Amara Osei-Baptiste" />
 </div>
 
 ## Información Básica

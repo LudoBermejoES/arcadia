@@ -8,7 +8,7 @@ slug: elio-rossi-kim
 # Elio Rossi-Kim
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/elio-rossi-kim.png" alt="Elio Rossi-Kim" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Elio_Rossi-Kim.png" alt="Elio Rossi-Kim" />
 </div>
 
 ## Información Básica

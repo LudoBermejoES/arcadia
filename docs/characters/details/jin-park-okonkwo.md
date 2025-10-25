@@ -8,7 +8,7 @@ slug: jin-park-okonkwo
 # Jin Park-Okonkwo
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/jin-park-okonkwo.png" alt="Jin Park-Okonkwo" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Jin_Park-Okonkwo.png" alt="Jin Park-Okonkwo" />
 </div>
 
 ## Información Básica

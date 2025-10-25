@@ -8,7 +8,7 @@ slug: luna-fernandez-zhang
 # Luna Fernández-Zhang
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/luna-fernandez-zhang.png" alt="Luna Fernández-Zhang" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Luna_Fernandez-Zhang.png" alt="Luna Fernández-Zhang" />
 </div>
 
 ## Información Básica

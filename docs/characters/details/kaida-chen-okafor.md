@@ -8,7 +8,7 @@ slug: kaida-chen-okafor
 # Kaida Chen-Okafor
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/kaida-chen-okafor.png" alt="Kaida Chen-Okafor" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Kaida_Chen-Okafor.png" alt="Kaida Chen-Okafor" />
 </div>
 
 ## Información Básica

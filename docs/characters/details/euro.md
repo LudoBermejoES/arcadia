@@ -56,7 +56,7 @@ Durante la visita de **The Beatles** a Arcadia, Euro fue **invitado de excepció
 Este momento quedó como uno de los más memorables de la década en Arcadia.
 
 ### Lucha Contra el Crimen
-- Enemigo clásico de **Infalible** y **Baronesa de Jade**
+- Enemigo clásico de **Infalible** y la **Emperatriz de Jade**
 - Capturó a **La Comadreja** en múltiples ocasiones
 - Primer encuentro con **Manny** cuando trabajaba en el circo
 
@@ -100,7 +100,7 @@ Los periódicos ofrecieron fortunas por información sobre si Euro era:
 - **Céfiro**: Compañera más joven, ambos con crecimiento anormal
 - **The Beatles**: Tocó con ellos en evento histórico
 - **Infalible**: Enemigo clásico nunca capturado
-- **Baronesa de Jade**: Enemiga clásica nunca capturada
+- **Emperatriz de Jade**: Enemiga clásica nunca capturada
 - **Manny**: Primer encuentro cuando era joven en el circo
 
 ## Legado

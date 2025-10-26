@@ -49,7 +49,7 @@ En la ceremonia oficial en la Plaza de Arcadia donde recibieron la **Orden de la
 ## Actividades Heroicas (1961-1968)
 
 ### Lucha Contra el Crimen
-- Enemigo clásico de **Infalible** y **Baronesa de Jade** (nunca capturados)
+- Enemigo clásico de **Infalible** y la **Emperatriz de Jade** (nunca capturados)
 - Capturó a **La Comadreja** en al menos 6 ocasiones (todas terminaron en fuga)
 - Primer encuentro documentado con un joven **Manny** cuando trabajaba en el circo
 
@@ -93,7 +93,7 @@ Poco antes de finalizar la década (finales de los 60), un conflicto sacudiría 
 - **Céfiro**: Compañera Anemoi, viento del oeste, primavera
 - **Nikita Jrushchov**: Salvó su vida, recibió condecoración de sus manos
 - **Infalible**: Enemigo clásico nunca capturado
-- **Baronesa de Jade**: Enemiga clásica nunca capturada
+- **Emperatriz de Jade**: Enemiga clásica nunca capturada
 - **La Comadreja**: Villana capturada 6 veces, siempre escapó
 
 ## Legado

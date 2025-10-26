@@ -88,7 +88,7 @@ permalink: /characters/character-list/
 
 ### Criminales Históricos (Años 60s)
 - [Infalible]({{ site.baseurl }}/characters/details/infalible/) (enemigo clásico de Los Anemoi, nunca capturado)
-- [Baronesa de Jade]({{ site.baseurl }}/characters/details/baronesa-de-jade/) (enemiga clásica de Los Anemoi, nunca capturada)
+- [Emperatriz de Jade]({{ site.baseurl }}/characters/details/la-emperatriz/) (enemiga clásica de Los Anemoi, nunca capturada)
 
 ### Los Grandes Criminales
 - [Telaraña]({{ site.baseurl }}/characters/details/telarana/)

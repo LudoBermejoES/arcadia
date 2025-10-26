@@ -43,7 +43,7 @@ Estas palabras establecieron el compromiso oficial de Los Anemoi con la nación.
 
 ### Lucha Contra el Crimen
 Durante los 7 años de actividad de Los Anemoi, Austros participó en:
-- Enfrentamientos contra **Infalible** y **Baronesa de Jade** (nunca capturados)
+- Enfrentamientos contra **Infalible** y la **Emperatriz de Jade** (nunca capturados)
 - Múltiples capturas de **La Comadreja** (siempre escapó)
 - Primer encuentro con **Manny** en el circo
 
@@ -80,7 +80,7 @@ Tras 7 años de actividad heroica en la cúspide de su popularidad:
 - **Céfiro**: Compañera Anemoi, viento del oeste, primavera
 - **Presidente de Arcadia**: Estableció compromiso oficial con la nación
 - **Infalible**: Enemigo clásico nunca capturado
-- **Baronesa de Jade**: Enemiga clásica nunca capturada
+- **Emperatriz de Jade**: Enemiga clásica nunca capturada
 - **La Comadreja**: Villana capturada múltiples veces
 
 ## Legado

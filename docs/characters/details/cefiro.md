@@ -59,7 +59,7 @@ Céfiro era la especialista en **rescate directo** de Los Anemoi:
 - Sus poderes regenerativos salvaban vidas tras el rescate
 
 ### Lucha Contra el Crimen
-- Enemiga clásica de **Infalible** y **Baronesa de Jade**
+- Enemiga clásica de **Infalible** y la **Emperatriz de Jade**
 - Participó en las 6 capturas de **La Comadreja**
 - Primer encuentro con **Manny** en el circo
 
@@ -103,7 +103,7 @@ Céfiro generaba preguntas específicas:
 - **Euro**: Compañero más joven, ambos con crecimiento anormal
 - **Nikita Jrushchov**: Recibió medalla de sus manos, estableció compromiso
 - **Infalible**: Enemigo clásico nunca capturado
-- **Baronesa de Jade**: Enemiga clásica nunca capturada
+- **Emperatriz de Jade**: Enemiga clásica nunca capturada
 - **The Beatles**: Participó en evento histórico (verano 1965)
 
 ## Legado

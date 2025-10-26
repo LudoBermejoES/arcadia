@@ -30,9 +30,9 @@ Los enfrentamientos con Los Anemoi establecieron a Infalible como:
 - **Escapista legendario**: Siempre encontraba manera de evadir captura
 - **Adversario persistente**: Continuó operando durante toda la década de los 60
 
-## Relación con Baronesa de Jade
+## Relación con la Emperatriz de Jade
 
-Infalible está mencionado junto a **Baronesa de Jade** como "enemigos clásicos" de Los Anemoi. Esto sugiere:
+Infalible está mencionado junto a la **Emperatriz de Jade** como "enemigos clásicos" de Los Anemoi. Esto sugiere:
 - Posible colaboración entre ambos villanos
 - Similar nivel de amenaza y competencia
 - Ambos compartían la distinción de nunca haber sido capturados
@@ -76,7 +76,7 @@ El contexto histórico sugiere que Infalible pudo haber sido parte de intrigas m
 
 ## Relaciones Clave
 - **Los Anemoi**: Enemigos clásicos (Bóreas, Austros, Euro, Céfiro)
-- **Baronesa de Jade**: Posible colaboradora, comparte estatus de "nunca capturada"
+- **Emperatriz de Jade**: Posible colaboradora, comparte estatus de "nunca capturada"
 - **Telaraña**: Posible conexión con la red criminal principal (no confirmado)
 
 ## Significado Histórico

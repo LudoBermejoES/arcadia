@@ -266,7 +266,7 @@ document.addEventListener('DOMContentLoaded', function() {
     villanos: [
   { slug: 'abismo', name: 'Abismo', image: 'abismo.png' },
       { slug: 'aldonza-lorenzo', name: 'Aldonza Lorenzo', image: 'Aldonza Lorenzo.png' },
-      { slug: 'baronesa-de-jade', name: 'Baronesa de Jade', image: 'baronesa-de-jade.png' },
+      { slug: 'la-emperatriz', name: 'Emperatriz de Jade', image: 'la-emperatriz.png' },
       { slug: 'baron-soledad', name: 'Barón Soledad', image: 'baron-soledad.png' },
       { slug: 'bellona', name: 'Bellona', image: 'Bellona.jpg' },
       { slug: 'caos', name: 'Caos', image: 'Caos.png' },

@@ -37,7 +37,20 @@ slug: la-emperatriz
 - **Terror urbano**: Sus apariciones causaban pánico entre la población civil
 - **Reconocimiento público**: Suficientemente famosa para generar merchandising
 
+### **Enfrentamientos con Los Anemoi (1961-1968)**
+**La Emperatriz de Jade es considerada una de las "enemigas clásicas" de Los Anemoi**, junto a **Infalible**:
+- **Nunca capturada**: A pesar de los múltiples enfrentamientos con el grupo heroico más poderoso de la época, nunca fue llevada a la justicia
+- **Resistencia elemental**: Sobrevivió a los ataques combinados de:
+  - **Bóreas**: Su hielo no pudo detenerla
+  - **Austros**: Sus vientos no la alcanzaron
+  - **Euro**: Su fuego no la quemó
+  - **Céfiro**: Sus plantas no la atraparon
+- **7 años de actividad**: Operó durante toda la "Edad de Oro" de Los Anemoi (1961-1968)
+- **Planificación maestra**: Sus estrategias resistían la intervención heroica sistemáticamente
+- **Inalcanzable**: Logró lo imposible - escapar repetidamente del grupo más poderoso de Arcadia
+
 ### **Asociaciones Criminales**
+- **Infalible**: Mencionada junto a él como "enemigos clásicos" que nunca fueron capturados, sugiriendo posible colaboración
 - **La Comadreja Padre**: Frecuente colaboración con este villano histórico
 - **Submundo de los 60**: Parte del ecosistema criminal de la era clásica
 - **Legado duradero**: Su memoria persiste décadas después de su actividad
@@ -112,6 +125,18 @@ Intervención durante el asalto de «Los Enfant Terribles» a unos grandes almac
 - **Red de conexión**: Hilos místicos que permiten control a distancia; posible apertura de portales locales
 - **Merchandising**: Capacidad de crear/activar objetos con propiedades sobrenaturales
 - **Reconocimiento público**: Suficiente fama para generar productos comerciales
+
+## Relaciones Clave
+- **Los Anemoi**: Enemigos clásicos durante los años 60 (Bóreas, Austros, Euro, Céfiro) - nunca la capturaron
+  - **Bóreas**: Su hielo era inefectivo contra ella
+  - **Austros**: Sus vientos no podían alcanzarla
+  - **Euro**: Su fuego no la quemaba
+  - **Céfiro**: Sus plantas no la atrapaban
+- **Infalible**: Comparte estatus de "enemigo clásico nunca capturado", posible colaboración
+- **La Comadreja Padre**: Frecuente colaborador criminal en los años 60
+- **Abismo**: Aliado actual, teletransportador vinculado a los Siete Abominables
+- **La Familia**: Enfrentamiento directo en Sesión 26 en Plaza de Goliat
+- **La Fuerza Oculta**: Enfrentamiento en Sesión 29 en Centro Comercial Hêvî
 
 ## Apariciones Documentadas
 - **La Familia Sesión 26**: Ataque directo con gorilas dorados en Plaza de Goliat, descubrimiento de su identidad histórica

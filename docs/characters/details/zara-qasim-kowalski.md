@@ -39,7 +39,7 @@ Zara Qasim-Kowalski es una niña de 12 años que porta literalmente la energía 
 
 ## Poderes y Habilidades
 
-### **Control de Electricidad (Energy Control - Electricity)**
+### **Control de Electricidad**
 - **Generación eléctrica**: Produce descargas desde su cuerpo
 - **Manipulación de corrientes**: Controla flujo eléctrico en sistemas
 - **Arcos voltaicos**: Lanza rayos de hasta 50.000 voltios
@@ -62,25 +62,6 @@ Zara Qasim-Kowalski es una niña de 12 años que porta literalmente la energía 
 - **Cortocircuitos**: Ira intensa causa apagones localizados
 - **Sobrecarga**: Alegría o tristeza extremas la electrocutan a sí misma
 - **Peligro tecnológico**: Destruye dispositivos electrónicos accidentalmente
-
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d8 (rápida, energética)
-- **Inteligencia**: d10 (brillante, curiosa intelectualmente)
-- **Espíritu**: d8 (determinada pero emocionalmente volátil)
-- **Fuerza**: d4 (pequeña para su edad)
-- **Vigor**: d6 (constitución frágil físicamente)
-
-### **Habilidades Destacadas**
-- **Atletismo d6**: Energía ilimitada, coordinación promedio
-- **Ciencias d10**: Genio en física y electrónica
-- **Hackear d10**: Manipulación de sistemas eléctricos
-- **Idiomas d8**: Trilingüe (urdu, polaco, español)
-- **Notice d10**: Percepción aumentada de campos eléctricos
-- **Reparación d8**: Arregla dispositivos instintivamente
-
-### **Pace**: 6 | **Parry**: 4 | **Toughness**: 5
 
 ## Personalidad y Psicología
 

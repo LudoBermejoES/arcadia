@@ -18,7 +18,7 @@ slug: ravi-kapoor-muller
 - **Familia**: Hijo de refugiados económicos
 - **Ubicación**: Correccional de Menores Metahumanos, Isla Azogue
 - **Afiliación**: Interno del correccional
-- **Poder**: Atravesar Objetos Sólidos (Phase Shifting)
+- **Poder**: Atravesar Objetos Sólidos
 
 ## Presentación
 Ravi Kapoor-Müller es un niño de 11 años que literalmente no puede ser contenido. Hijo de refugiados económicos que vivían en la calle, su poder de atravesar materia sólida se manifestó cuando intentaba robar comida de una tienda cerrada. El incidente escaló cuando atravesó accidentalmente la bóveda de un banco durante su huida, disparando alarmas de seguridad nacional.
@@ -39,7 +39,7 @@ Ravi Kapoor-Müller es un niño de 11 años que literalmente no puede ser conten
 
 ## Poderes y Habilidades
 
-### **Atravesar Materia (Phase Shifting - Intangibility)**
+### **Atravesar Materia**
 - **Intangibilidad completa**: Puede volverse incorpóreo a voluntad
 - **Atravesar objetos sólidos**: Pasa por paredes, puertas, suelos
 - **Selectividad**: Puede hacer solo partes de su cuerpo intangibles
@@ -63,25 +63,6 @@ Ravi Kapoor-Müller es un niño de 11 años que literalmente no puede ser conten
 - **Riesgo de caída**: Puede hundirse en el suelo accidentalmente
 - **Objetos caen**: No puede mantener objetos tangibles mientras es intangible
 - **Vulnerabilidad durante sueño**: Atraviesa colchón y cae durante pesadillas
-
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d10 (extremadamente ágil y escurridizo)
-- **Inteligencia**: d6 (educación limitada por vivir en calle)
-- **Espíritu**: d8 (resiliente, no se rinde)
-- **Fuerza**: d4 (delgado, desnutrido)
-- **Vigor**: d6 (resistencia de superviviente callejero)
-
-### **Habilidades Destacadas**
-- **Atletismo d8**: Coordinación excelente para escapes
-- **Hurto d10**: Maestra habilidad de robo desarrollada por necesidad
-- **Sigilo d12**: Prácticamente invisible cuando quiere
-- **Callejeo d10**: Conocimiento profundo de supervivencia urbana
-- **Notice d8**: Hiperconsciente de oportunidades y peligros
-- **Trepar d8**: Escalador experto
-
-### **Pace**: 6 | **Parry**: 5 | **Toughness**: 5
 
 ## Personalidad y Psicología
 

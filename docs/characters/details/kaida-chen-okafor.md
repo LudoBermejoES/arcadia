@@ -21,14 +21,14 @@ slug: kaida-chen-okafor
 - **Poder**: Manipulación de Fuego
 
 ## Presentación
-Kaida Chen-Okafor es una joven de 18 años que representa la intersección de múltiples crisis de refugiados: persecución religiosa en China y Nigeria. Su herencia multicultural la convirtió en outsider desde niña, y la manifestación violenta de sus poderes durante un ataque de pánico la llevó al correccional tras quemar accidentalmente su escuela.
+Kaida Chen-Okafor es una joven de 18 años que representa la intersección de múltiples crisis de refugiados: persecución religiosa en China y Nigeria. Su herencia multicultural la convirtió en extraña desde niña, y la manifestación violenta de sus poderes durante un ataque de pánico la llevó al correccional tras quemar accidentalmente su escuela.
 
 ## Historia y Trasfondo
 
 ### **Origen Familiar**
 - **Refugiados de persecución religiosa**: Sus padres huyeron de persecución en China y Nigeria
 - **Doble herencia cultural**: Criada entre tradiciones chinas y nigerianas
-- **Outsider perpetua**: Nunca encajó completamente en ninguna comunidad
+- **Extraña perpetua**: Nunca encajó completamente en ninguna comunidad
 - **Trauma generacional**: Heredó el miedo y la desconfianza de sus padres
 
 ### **Incidente que la Llevó al Correccional**
@@ -39,7 +39,7 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 
 ## Poderes y Habilidades
 
-### **Control de Fuego (Energy Control - Fire)**
+### **Control de Fuego**
 - **Creación de llamas**: Puede generar fuego desde sus manos y cuerpo
 - **Manipulación térmica**: Controla intensidad, dirección y forma de las llamas
 - **Proyección**: Lanza bolas de fuego y columnas de llamas
@@ -50,7 +50,7 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Piel resistente**: Puede caminar sobre brasas o tocar metal fundido
 - **Metabolismo adaptado**: Su cuerpo procesa calor como energía
 
-### **Ataque a Distancia (Ranged Attack - Fire)**
+### **Ataque a Distancia**
 - **Proyectiles ígneos**: Lanza esferas de fuego concentrado
 - **Precisión media**: Mejor en combate cercano que a distancia
 - **Daño variable**: Puede controlar intensidad según su estado emocional
@@ -84,7 +84,7 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 
 ### **Identidad Fragmentada**
 - **Ni china ni nigeriana**: No se siente completamente parte de ninguna cultura
-- **Outsider perpetua**: Siempre es "la otra" en cualquier grupo
+- **Extraña perpetua**: Siempre es "la otra" en cualquier grupo
 - **Búsqueda de pertenencia**: El correccional es paradójicamente el primer lugar donde "encaja"
 - **Familia perdida**: Sus padres la temen desde el incidente
 
@@ -108,19 +108,19 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Terapeutas**: Frustra sus intentos de "arreglarla"
 - **Maestros**: Estudiante competente cuando está concentrada
 
-### **Arco de Control**
+### **Desarrollo de Control**
 - **Objetivo**: Aprender a controlar poderes bajo estrés emocional
 - **Obstáculos**: Trauma, ira reprimida, miedo al rechazo
 - **Progreso**: Pequeñas victorias en sesiones de entrenamiento
-- **Setbacks**: Activaciones durante conflictos en el correccional
+- **Retrocesos**: Activaciones durante conflictos en el correccional
 
-### **Arco de Identidad**
+### **Desarrollo de Identidad**
 - **Conflicto**: ¿Quién es cuando no está definida por su ira?
 - **Exploración**: Redescubriendo culturas china y nigeriana
 - **Comunidad**: El correccional como familia sustituta
 - **Resolución potencial**: Aceptación de identidad multicultural única
 
-### **Arco de Liderazgo**
+### **Desarrollo de Liderazgo**
 - **Situación**: Líder informal de los internos
 - **Responsabilidad**: Proteger a los más débiles
 - **Dilemas**: ¿Cooperar con autoridad o liderar rebelión?
@@ -136,7 +136,7 @@ Kaida Chen-Okafor es una joven de 18 años que representa la intersección de m�
 - **Líder de motín**: Podría organizar rebelión en el correccional
 - **Fuerza destructiva**: Pérdida total de control podría quemar la isla
 - **Venganza**: Contra sistema que la encerró y familia que la abandonó
-- **Radicalización**: Outsider perpetua que decide quemar todo
+- **Radicalización**: Extraña perpetua que decide quemar todo
 
 ### **Como Aliada**
 - **Protectora**: Defensa feroz de inocentes

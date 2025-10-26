@@ -18,7 +18,7 @@ slug: luna-fernandez-zhang
 - **Familia**: Hija de refugiados de negligencia institucional extrema
 - **Ubicación**: Correccional de Menores Metahumanos, Isla Azogue
 - **Afiliación**: Interna del correccional
-- **Poder**: Caminante de Sueños (Dream Walking)
+- **Poder**: Caminante de Sueños
 
 ## Presentación
 Luna Fernández-Zhang es una niña de 8 años que camina entre el mundo despierto y el soñado. Rescatada de un hogar donde la negligencia extrema la dejó al borde de la muerte, su poder de entrar en sueños ajenos se manifestó mientras estaba en coma. El "incidente" que la llevó al correccional fue que sus pesadillas traumáticas infectaron los sueños del personal del hospital, causando crisis psicológica masiva en el personal médico.
@@ -39,7 +39,7 @@ Luna Fernández-Zhang es una niña de 8 años que camina entre el mundo despiert
 
 ## Poderes y Habilidades
 
-### **Caminante de Sueños (Dream Walking - Oneiromancy)**
+### **Caminante de Sueños**
 - **Entrada a sueños**: Puede entrar conscientemente en sueños de otros
 - **Manifestación física**: Aparece como presencia real en paisaje onírico
 - **Manipulación de sueños**: Altera contenido y dirección de sueños

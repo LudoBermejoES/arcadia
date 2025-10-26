@@ -39,7 +39,7 @@ Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la mald
 
 ## Poderes y Habilidades
 
-### **Curación (Healing Touch)**
+### **Curación**
 - **Regeneración tisular**: Cierra heridas y repara daño celular
 - **Curación rápida**: Heridas menores sanan en segundos, mayores en minutos
 - **Alcance**: Requiere contacto físico directo
@@ -64,25 +64,6 @@ Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la mald
 - **Agotamiento**: Se vacía completamente sanando a otros
 - **Culpa paralizante**: Si no puede salvar a alguien, se derrumba emocionalmente
 
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d6 (movimientos cuidadosos de enfermera)
-- **Inteligencia**: d10 (conocimiento médico excepcional)
-- **Espíritu**: d12 (compasión inagotable)
-- **Fuerza**: d4 (físicamente débil por agotamiento constante)
-- **Vigor**: d6 (resistencia media, drenada por curaciones)
-
-### **Habilidades Destacadas**
-- **Curación d12**: Maestra absoluta de poderes sanadores
-- **Medicina d10**: Conocimiento médico profesional
-- **Empatía d12**: Comprensión profunda del sufrimiento ajeno
-- **Notice d10**: Observa síntomas y lesiones automáticamente
-- **Persuasión d8**: Voz gentil que calma pacientes
-- **Ciencias d10**: Educación avanzada en biología y anatomía
-
-### **Pace**: 6 | **Parry**: 4 | **Toughness**: 5
-
 ## Personalidad y Psicología
 
 ### **Sanadora Compulsiva**
@@ -98,7 +79,7 @@ Safiya Abbas-Petrov es una adolescente de 16 años con el don de sanar y la mald
 - **Pesadillas médicas**: Sueña con pacientes que murió en sus manos
 
 ### **Moralidad Médica Compleja**
-- **Hippocratic extremo**: "Primero no dañar" la paraliza moralmente
+- **Juramento hipocrático extremo**: "Primero no dañar" la paraliza moralmente
 - **Sin juicio**: Cura criminales y víctimas por igual
 - **Debate interno**: ¿Es ético sanar a quien hará más daño?
 - **Conclusión**: No le corresponde decidir quién merece vivir

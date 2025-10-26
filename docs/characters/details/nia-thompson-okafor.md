@@ -39,7 +39,7 @@ Nia Thompson-Okafor es una niña de 10 años que habla el lenguaje de las criatu
 
 ## Poderes y Habilidades
 
-### **Comunicación Animal (Animal Empathy - Beast Friend)**
+### **Comunicación Animal**
 - **Lenguaje universal**: Entiende y se comunica con todo tipo de animales
 - **Empatía bidireccional**: Siente emociones de animales, ellos sienten las suyas
 - **Comandos complejos**: Puede dar instrucciones detalladas

@@ -39,7 +39,7 @@ Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal 
 
 ## Poderes y Habilidades
 
-### **Super Velocidad (Super Speed)**
+### **Super Velocidad**
 - **Velocidad extrema**: Corre hasta 500 km/h en distancias cortas
 - **Aceleración instantánea**: De 0 a velocidad máxima en menos de un segundo
 - **Reflejos mejorados**: Percibe mundo en cámara lenta
@@ -47,7 +47,7 @@ Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal 
 
 ### **Pensamiento Acelerado**
 - **Procesamiento rápido**: Piensa y analiza a velocidad sobrehumana
-- **Multi-tasking**: Puede atender múltiples estímulos simultáneamente
+- **Multitarea**: Puede atender múltiples estímulos simultáneamente
 - **Aprendizaje veloz**: Absorbe información extremadamente rápido
 - **Impaciencia**: No puede tolerar lentitud de otros
 
@@ -62,25 +62,6 @@ Tomás Vargas-Lee es un adolescente de 15 años que no puede detenerse, literal 
 - **Agotamiento metabólico**: Necesita consumir 10,000+ calorías diarias
 - **Envejecimiento acelerado**: Su metabolismo puede acortar su vida
 - **Adicción al movimiento**: Detenerse causa ansiedad y dolor físico
-
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d12+2 (agilidad sobrehumana extrema)
-- **Inteligencia**: d8 (brillante, procesa rápido)
-- **Espíritu**: d8 (determinado, impaciente)
-- **Fuerza**: d6 (fuerza promedio)
-- **Vigor**: d10 (resistencia superior por metabolismo)
-
-### **Habilidades Destacadas**
-- **Atletismo d12**: Velocista sobrehumano
-- **Combate d10**: Lucha a velocidad incrementada
-- **Conducir d10**: Reflejos perfectos para maniobras
-- **Notice d12**: Percepción aumentada por velocidad de procesamiento
-- **Reparación d10**: Trabajo manual a velocidad increíble
-- **Sigilo d6**: Rápido pero no particularmente silencioso
-
-### **Pace**: 24 (cuatro veces velocidad humana normal) | **Parry**: 7 | **Toughness**: 7
 
 ## Personalidad y Psicología
 

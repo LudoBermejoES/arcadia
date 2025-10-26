@@ -29,7 +29,7 @@ Jin Park-Okonkwo es un adolescente de 13 años que vive entre la luz y la oscuri
 - **Refugiados LGBTQ+**: Padres huyeron de persecución por homosexualidad
 - **Matrimonio en exilio**: Se conocieron en país de refugio
 - **Adopción de Jin**: Lo adoptaron de orfanato coreano
-- **Familia de elegidos**: Tres outsiders que formaron familia propia
+- **Familia de elegidos**: Tres marginados que formaron familia propia
 
 ### **Incidente que lo Llevó al Correccional**
 - **Ataque homófobo**: Agresores atacaron a sus padres en calle
@@ -39,13 +39,13 @@ Jin Park-Okonkwo es un adolescente de 13 años que vive entre la luz y la oscuri
 
 ## Poderes y Habilidades
 
-### **Manipulación de Sombras (Shadow Control - Umbrakinesis)**
+### **Manipulación de Sombras**
 - **Control de oscuridad**: Moldea y manipula sombras existentes
 - **Oscuridad sólida**: Convierte sombras en materia tangible temporal
 - **Extensión de sombras**: Expande áreas oscuras hasta 20 metros
 - **Tentáculos de sombra**: Crea apéndices de oscuridad que puede controlar
 
-### **Viaje por Sombras (Shadow Teleportation)**
+### **Viaje por Sombras**
 - **Teletransporte oscuro**: Se mueve instantáneamente entre sombras conectadas
 - **Alcance**: Hasta 50 metros si hay sombras continuas
 - **Limitación**: Solo funciona donde hay oscuridad existente

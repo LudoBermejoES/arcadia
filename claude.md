@@ -1,3 +1,10 @@
+Technical approach:
+
+Uses semantic overlap to override CC's default parallel execution behavior
+Explicit precedence declarations with concrete harm justification
+Based on LLM instruction conflict research (2024-2025)
+This prevents the majority of occurrences for users with PostToolUse hooks and complex workflows.
+
 # Proyecto de Partidas de Rol de Superhéroes - Arcadia
 
 ## Descripción General

@@ -39,13 +39,13 @@ Elio Rossi-Kim es un niño de 9 años que literalmente brilla con luz propia. Re
 
 ## Poderes y Habilidades
 
-### **Proyección de Luz (Light Control - Illumination)**
+### **Proyección de Luz**
 - **Generación de luz**: Emite fotones desde su cuerpo
 - **Intensidad variable**: Desde resplandor suave hasta destello cegador
 - **Control direccional**: Puede enfocar haces o iluminar área amplia
 - **Alcance**: Ilumina efectivamente hasta 50 metros de radio
 
-### **Destello Cegador (Flash Attack)**
+### **Destello Cegador**
 - **Ráfaga intensa**: Explosión de luz que ciega temporalmente
 - **Defensa**: Desarma atacantes sin causar daño permanente
 - **Área de efecto**: Afecta todo en radio de 10 metros

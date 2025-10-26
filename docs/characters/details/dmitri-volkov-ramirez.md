@@ -46,7 +46,7 @@ Dmitri Volkov-Ramírez es un ladrón telequinético de 17 años cuya arrogancia 
 ## Poderes y Habilidades
 
 ### **Telequinesis**
-- **Fuerza Mental**: Equivalente a Strength d6 (puede levantar ~50 kg)
+- **Fuerza Mental**: Equivalente a Fuerza d6 (puede levantar ~50 kg)
 - **Precisión Excepcional**: Control fino para manipular cerraduras y mecanismos
 - **Alcance**: Hasta 15 metros de distancia
 - **Múltiples Objetos**: Puede manipular hasta 3 objetos simultáneamente
@@ -58,7 +58,7 @@ Dmitri Volkov-Ramírez es un ladrón telequinético de 17 años cuya arrogancia 
 - **Percepción de Movimiento**: Detecta guardias y patrullas
 
 ### **Maestría en Robo**
-- **Sinergía de Poderes**: +2 a Thievery cuando usa telequinesis
+- **Sinergía de Poderes**: +2 a Robar cuando usa telequinesis
 - **Bypass de Seguridad**: Abre cerraduras sin tocarlas físicamente
 - **Robo Silencioso**: No deja huellas ni evidencia física
 - **Escape Artístico**: Usa telequinesis para crear distracciones

@@ -39,7 +39,7 @@ Fatima Al-Amin-Rodríguez es una adolescente de 14 años que literalmente no pue
 
 ## Poderes y Habilidades
 
-### **Generación de Campos de Fuerza (Force Field Generation)**
+### **Generación de Campos de Fuerza**
 - **Escudos energéticos**: Crea barreras invisibles de energía sólida
 - **Forma variable**: Esferas, muros, domos según necesidad
 - **Alcance**: Puede proyectar campos hasta 15 metros de distancia

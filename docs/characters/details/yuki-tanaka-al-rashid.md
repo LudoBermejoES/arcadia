@@ -39,7 +39,7 @@ Yuki Tanaka-Al-Rashid es una adolescente de 15 años que porta el peso visible d
 
 ## Poderes y Habilidades
 
-### **Creación de Hielo (Energy Control - Ice)**
+### **Creación de Hielo**
 - **Generación de hielo**: Crea hielo y escarcha desde cualquier parte de su cuerpo
 - **Manipulación térmica**: Reduce temperatura ambiente hasta -40°C
 - **Construcciones sólidas**: Forma muros, armas y estructuras de hielo sólido
@@ -61,25 +61,6 @@ Yuki Tanaka-Al-Rashid es una adolescente de 15 años que porta el peso visible d
 - **Congelamiento defensivo**: En estado de flashback congela todo en radio de 10 metros
 - **Disociación**: Durante episodios no es consciente de sus acciones
 - **Peligro constante**: Representa amenaza involuntaria para quienes la rodean
-
-## Atributos y Capacidades
-
-### **Estadísticas**
-- **Agilidad**: d6 (movimientos cautelosos)
-- **Inteligencia**: d8 (educada, perspicaz)
-- **Espíritu**: d6 (frágil emocionalmente, traumatizada)
-- **Fuerza**: d6 (condición física promedio)
-- **Vigor**: d8 (resistente físicamente)
-
-### **Habilidades Destacadas**
-- **Atletismo d6**: Condición física básica mantenida
-- **Combate d4**: Evita confrontación física
-- **Focus d10**: Concentración excepcional cuando está calmada
-- **Idiomas d10**: Trilingüe (japonés, árabe, español)
-- **Notice d8**: Hipervigilancia por trauma
-- **Sigilo d8**: Movimientos silenciosos, pasa desapercibida
-
-### **Pace**: 6 | **Parry**: 4 | **Toughness**: 6
 
 ## Personalidad y Psicología
 

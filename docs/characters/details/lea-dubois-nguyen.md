@@ -39,14 +39,14 @@ Léa Dubois-Nguyen es una adolescente de 14 años que lleva la fluidez en su ese
 
 ## Poderes y Habilidades
 
-### **Cambio de Forma (Shapeshifting - Morphing)**
+### **Cambio de Forma**
 - **Transformación física completa**: Puede alterar totalmente su apariencia
 - **Copia exacta**: Replica personas con precisión fotográfica
 - **Tiempo de transformación**: 5-10 segundos para cambios completos
 - **Duración**: Mantiene forma hasta 8 horas sin fatiga
 - **Limitaciones**: Debe haber visto a la persona para copiarla
 
-### **Cambio de Ropa (Costume Change)**
+### **Cambio de Vestimenta**
 - **Vestimenta integrada**: Puede modificar apariencia de ropa
 - **Materiales orgánicos**: Solo puede simular textiles, no metal o tecnología
 - **Detalle**: Texturas y colores precisos

@@ -45,13 +45,13 @@ Amara Osei-Baptiste es una empática de 16 años cuya belleza y carisma ocultan 
 
 ## Poderes y Habilidades
 
-### **Lectura Mental Emocional (Mind Reading)**
+### **Lectura Mental Emocional**
 - **Percepción empática**: Siente emociones de personas cercanas
 - **Alcance**: Hasta 20 metros de radio
 - **Precisión**: Identifica emociones específicas y su intensidad
 - **Sin palabras**: No lee pensamientos, solo estados emocionales
 
-### **Manipulación Emocional (Boost/Lower Trait - Emotions)**
+### **Manipulación Emocional**
 - **Amplificación**: Puede intensificar emociones existentes
 - **Supresión**: Reduce o elimina emociones temporalmente
 - **Inserción**: Puede crear emociones donde no existían

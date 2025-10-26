@@ -39,13 +39,13 @@ Marcus Williams-Santos es un niño de 13 años con el poder de un titán y el co
 
 ## Poderes y Habilidades
 
-### **Super Fuerza (Super Strength)**
+### **Super Fuerza**
 - **Fuerza titánica**: Puede levantar hasta 10 toneladas
 - **Golpes devastadores**: Puñetazos que destruyen concreto reforzado
 - **Saltos potentes**: Brinca hasta 15 metros de altura
 - **Resistencia mejorada**: Músulos no se fatigan como en humanos normales
 
-### **Durabilidad Aumentada (Enhanced Toughness)**
+### **Durabilidad Aumentada**
 - **Piel resiliente**: Balas convencionales rebotan o causan solo moretones
 - **Huesos densos**: Estructura ósea reforzada previene fracturas
 - **Resistencia al impacto**: Puede caer desde grandes alturas sin daño

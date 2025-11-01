@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Reformatorio Nueva Esperanza - Index"
-permalink: /campaigns/reformatorio-nueva-esperanza/
+permalink: /campaigns/aun-sin-nombre/
 ---
 
 # Reformatorio Nueva Esperanza

@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Reformatorio Nueva Esperanza - Sesiones"
-permalink: /campaigns/reformatorio-nueva-esperanza/sessions/
+permalink: /campaigns/aun-sin-nombre/sessions/
 ---
 
 # Sesiones del Reformatorio Nueva Esperanza
 ## Archivo Cronológico Completo
 
-[← Volver a Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/reformatorio-nueva-esperanza/) | [← Índice Principal]({{ site.baseurl }}/)
+[← Volver a Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/) | [← Índice Principal]({{ site.baseurl }}/)
 
 ---
 

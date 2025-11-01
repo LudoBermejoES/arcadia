@@ -1,13 +1,13 @@
 ---
 layout: page
 title: "Reformatorio Nueva Esperanza - Resúmenes Analíticos"
-permalink: /campaigns/reformatorio-nueva-esperanza/ai-notes-summary/
+permalink: /campaigns/aun-sin-nombre/ai-notes-summary/
 ---
 
 # Resúmenes Analíticos - Reformatorio Nueva Esperanza
 ## Análisis Profundos Narrativos con IA
 
-[← Volver a Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/reformatorio-nueva-esperanza/) | [← Índice Principal]({{ site.baseurl }}/)
+[← Volver a Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/) | [← Índice Principal]({{ site.baseurl }}/)
 
 ---
 

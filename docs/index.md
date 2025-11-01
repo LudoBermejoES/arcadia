@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Proyecto Arcadia - 15 Años de RPG Superheroico"
-description: "Archivo histórico completo de tres campañas épicas de superhéroes en un universo compartido"
+description: "Archivo histórico completo de cuatro campañas épicas de superhéroes en un universo compartido"
 ---
 
 # Proyecto Arcadia
@@ -51,6 +51,16 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
+### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/reformatorio-nueva-esperanza/)** *(Oct 2025)*
+
+**Los Marginados de Isla Albedo**
+
+[Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/) y [Kira]({{ site.baseurl }}/characters/details/kira/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
+
+**🌟 Perspectiva**: Control institucional vs. libertad personal, jóvenes con poderes incontrolables, misterios de desapariciones, la cara oscura del sistema metahumano.
+
+---
+
 ## 🏝️ **El Universo de Arcadia**
 
 ### **La Isla Volcánica Única**
@@ -78,12 +88,13 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-## 👥 **204 Personajes Únicos Documentados**
+## 👥 **234 Personajes Únicos Documentados**
 
 ### **🦸‍♂️ Los Héroes Legendarios**
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
-- **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo  
+- **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo
 - **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
+- **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/groups/character-groups/#reformatorio-nueva-esperanza)** - Los marginados del sistema
 
 
 ### **😈 Las Amenazas Persistentes**
@@ -110,7 +121,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">204</span>
+<span class="stat-number">234</span>
 <span class="stat-label">Personajes Únicos</span>
 </div>
 
@@ -120,12 +131,12 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">91</span>
+<span class="stat-number">84+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">3</span>
+<span class="stat-number">4</span>
 <span class="stat-label">Campañas Principales</span>
 </div>
 
@@ -180,7 +191,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ### **🦸‍♂️ [Personajes]({{ site.baseurl }}/characters/)**
 
-Descubre las biografías completas de 204 personajes únicos, desde los héroes legendarios hasta los villanos más temidos, incluyendo la élite cultural de Arcadiwood y el personal de servicio de las mansiones más exclusivas.
+Descubre las biografías completas de 234 personajes únicos, desde los héroes legendarios hasta los villanos más temidos, incluyendo la élite cultural de Arcadiwood, el personal de servicio de las mansiones más exclusivas, y los jóvenes marginados del reformatorio.
 
 ### **📚 [Campañas]({{ site.baseurl }}/campaigns/)**
 

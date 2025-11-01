@@ -55,6 +55,18 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 - **Justa/Justicia/Sentencia** (Edu) - Heroína con poderes de justicia
 - **Hotman** (Jandro) - Controlador de fuego y calor
 
+### Reformatorio Nueva Esperanza (Cuarta Generación)
+
+**Los Marginados:**
+- **Sesión 1 (26 Oct 2025)**: Llegada a Isla Albedo, instalación en el reformatorio, misterios iniciales
+- Jóvenes metahumanos recluidos en institución de "rehabilitación"
+- Temas de control institucional vs. libertad personal
+
+**Protagonistas:**
+- **Sergei** (Júlia Gasull) - Metamorfo veterano del reformatorio
+- **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
+- **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
+
 ## Resúmenes Especiales
 
 ### Transcripciones AI (Gemini)
@@ -91,6 +103,7 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
 **2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (36+ sesiones: 24 manuales + 16 transcripciones AI)
+**Oct 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (1 sesión documentada)
 
 ## Navegación
 

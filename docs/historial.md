@@ -10,6 +10,71 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ---
 
+## 📅 **Octubre 2025**
+
+### **26 de Octubre de 2025**
+
+#### **🏝️ NUEVA CAMPAÑA: Reformatorio Nueva Esperanza**
+- **Cuarta campaña principal iniciada**: Primera sesión en Isla Albedo
+  - **Concepto**: Jóvenes metahumanos marginados en institución de "rehabilitación"
+  - **Tema central**: Control institucional vs. libertad personal
+  - **Perspectiva única**: Los olvidados del sistema metahumano
+
+#### **👥 Tres Nuevos Protagonistas**
+- **Sergei** (Júlia Gasull) - Metamorfo veterano del reformatorio:
+  - Poderes: Cuerpo sin órganos, moldeable, puede crear partes del cuerpo
+  - Experiencia: Lleva tiempo en el reformatorio, conoce el sistema
+  - Momento destacado: Incidente de la oreja de reptil
+- **Tiritas** (Júlia Gasull) - Absorbe energía cinética:
+  - Poderes: Crece más grande y fuerte cuando le golpean
+  - Trauma: Mató a su padre en defensa propia, cicatrices por todo el cuerpo
+  - Hermana: Tiene hermana fuera del reformatorio
+- **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica:
+  - Poderes: Electricidad, carga estática constante, capacidad de volar
+  - Edad: 13-14 años, la más joven del grupo
+  - Incidente: Dejó a compañera en coma accidentalmente
+
+#### **🏢 El Reformatorio en Isla Albedo**
+- **Personal clave documentado**:
+  - **Víctor** - Director con actitud paternal autoritaria
+  - **Yuki** - Instructora de cocina, antigua heroína retirada
+  - **Mildred Bianchi** - Profesora de lengua, única profesora normal
+- **Misterios iniciales**:
+  - **Desaparecidos**: Amara y Dimitri (internos anteriores)
+  - **Tecleo nocturno misterioso**: Proviene del cuarto piso
+  - **Atmósfera opresiva**: Vigilancia constante, libertad limitada
+
+#### **📁 Estructura de Documentación Completa Creada**
+- **index.md**: Página principal de la campaña con descripción detallada
+- **ai-notes-summary/**: Carpeta con análisis de sesión y metodología
+- **sessions/**: Archivo cronológico con índice de sesiones
+- **Fichas de personajes**: 3 archivos detallados con poderes, trasfondos, relaciones
+
+#### **🎨 Galería de Personajes Actualizada**
+- **Nueva sección**: "🏝️ Reformatorio Nueva Esperanza"
+- **JavaScript array**: Integración con sistema de galería dinámico
+- **Imágenes preparadas**: Estructura lista para fotos de personajes
+
+#### **📊 Actualizaciones de Estadísticas del Proyecto**
+- **Campañas principales**: 3 → 4
+- **Personajes documentados**: 231 → 234
+- **Sesiones totales**: 83+ → 84+
+- **Archivos actualizados**: 8 índices principales (campaigns/index.md, docs/index.md, summaries.md, historial.md, character-list.md, gallery.md)
+
+#### **🔄 Actualizaciones en Archivos Principales**
+- **docs/campaigns/index.md**: Añadida sección "Las Cuatro Campañas Principales"
+- **docs/index.md**: Nueva campaña en cronología, estadísticas actualizadas
+- **docs/summaries.md**: Sección de Reformatorio Nueva Esperanza
+- **docs/characters/character-list.md**: 3 nuevos personajes añadidos
+
+#### **🌟 Significado Narrativo**
+- **Perspectiva marginal**: Primera campaña centrada en los "olvidados" del sistema
+- **Juventud vulnerable**: Personajes más jóvenes y traumatizados que otras campañas
+- **Institucionalización**: Exploración de control estatal sobre metahumanos
+- **Misterio institucional**: Desapariciones y secretos oscuros en el reformatorio
+
+---
+
 ## 📅 **Septiembre 2025**
 
 ### **28 de Septiembre de 2025**

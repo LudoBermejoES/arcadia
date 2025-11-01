@@ -280,7 +280,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'salvatore-rossi', name: 'Salvatore "Toto" Rossi', image: 'Salvatore_Rossi.png' },
       { slug: 'arturo-mendoza', name: 'Arturo Mendoza', image: 'Arturo_Mendoza.png' },
       { slug: 'viktor-petrov', name: 'Viktor Petrov', image: 'Viktor_Petrov.png' },
-      { slug: 'padre-eugenio-vargas', name: 'Padre Eugenio Vargas', image: 'Eugenio_Vargas.png' },
+      { slug: 'padre-eugenio-vargas', name: 'Padre Eugenio Vargas', image: 'Padre_Eugenio_Vargas.png' },
       // Generación Activa (40 años)
       { slug: 'marco-aguilar', name: 'Marco "El Tigre" Aguilar', image: 'Marco_Aguilar.png' },
       { slug: 'javier-santana', name: 'Dr. Javier Santana', image: 'Javier_Santana.png' },

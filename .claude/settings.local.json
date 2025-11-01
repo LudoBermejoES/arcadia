@@ -30,7 +30,15 @@
       "Bash(curl -k -o renata_kovac.webp \"https://ludobermejo.es:30000/tokenizer/pc-images/renata_kova_.Avatar.webp\")",
       "Bash(sips:*)",
       "Bash(git log:*)",
-      "Read(//Users/ludo/code/swade/**)"
+      "Read(//Users/ludo/code/swade/**)",
+      "Bash(xargs:*)",
+      "Bash(for:*)",
+      "Bash(if [ -f \"/Users/ludo/code/arcadia/docs/assets/img/characters/$img\" ])",
+      "Bash(then)",
+      "Bash(echo \"✓ $img\")",
+      "Bash(else)",
+      "Bash(echo:*)",
+      "Bash(fi)"
     ],
     "deny": [],
     "ask": [],

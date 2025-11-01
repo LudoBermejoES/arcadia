@@ -56,10 +56,12 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 
 ### 2025: Era Actual
 - **Operaciones Activas**: El equipo en plena actividad
-- **Transcripciones AI**: Introducción de Gemini para documentación (8 transcripciones hasta agosto)
+- **Transcripciones AI**: Introducción de Gemini para documentación (16 transcripciones hasta octubre)
 - **Documentación Avanzada**: Proyecto GitHub Pages completamente funcional
-- **15 Años de Historia**: Compilación completa del universo (82 sesiones documentadas)
-- **Sesiones Recientes**: Continuidad activa hasta agosto de 2025
+- **15 Años de Historia**: Compilación completa del universo (84+ sesiones documentadas)
+- **Sesiones Recientes**: Continuidad activa hasta octubre de 2025
+- **Octubre 2025: Nueva Campaña**: Inicio de Reformatorio Nueva Esperanza en Isla Albedo
+- **Cuatro Campañas Activas**: Expansión del universo con perspectiva marginal
 - **Continuidad Futura**: Preparación para nuevas aventuras
 
 ## Hitos Importantes
@@ -104,6 +106,14 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **Cia/Psique**: Desarrollo de habilidades psíquicas
 - **Justa/Justicia/Sentencia**: Evolución del concepto de justicia
 - **Hotman**: Control elemental y pasión heroica
+
+### Reformatorio Nueva Esperanza (Oct 2025)
+- **Sergei**: Metamorfo veterano del reformatorio, moldeable
+- **Tiritas**: Absorbe energía cinética, traumatizado por su pasado
+- **Kira**: Manipuladora eléctrica, la más joven del grupo
+- **Perspectiva Marginal**: Los olvidados del sistema metahumano
+- **Control vs. Libertad**: Jóvenes bajo vigilancia institucional
+- **Misterios Oscuros**: Desapariciones y secretos en Isla Albedo
 
 ## Navegación Temporal
 

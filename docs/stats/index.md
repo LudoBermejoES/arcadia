@@ -43,8 +43,8 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ### **📋 Archivo de Personajes**
 - **Total de Personajes Documentados**: 209 fichas completas
-- **Personajes con Imágenes**: 105 retratos únicos
-- **Cobertura Visual**: 50.24% de personajes ilustrados
+- **Personajes con Imágenes**: 125 retratos únicos
+- **Cobertura Visual**: 59.81% de personajes ilustrados
 - **Líneas de Documentación**: 400+ líneas en el índice principal
 - **Categorías de Personajes**: 50+ clasificaciones diferentes
 

@@ -7,7 +7,7 @@ permalink: /characters/gallery/
 # Galería Completa de Arcadia
 
 <div class="gallery-intro">
-  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>231 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
+  <p>Explora el universo completo de Arcadia: <strong>organizaciones</strong> que moldean el mundo y <strong>234 personajes únicos</strong> que lo habitan. Cada entrada representa 15 años de narrativa colaborativa.</p>
 </div>
 
 <div class="section-header">
@@ -128,6 +128,14 @@ permalink: /characters/gallery/
   </div>
 </div>
 
+<!-- Reformatorio Nueva Esperanza -->
+<div class="character-section">
+  <h3 class="character-category-title">🏝️ Reformatorio Nueva Esperanza</h3>
+  <div class="gallery-container" id="reformatorio-gallery">
+    <!-- Reformatorio Nueva Esperanza character cards will be dynamically loaded here -->
+  </div>
+</div>
+
 <!-- Periodistas -->
 <div class="character-section">
   <h3 class="character-category-title">📺 Periodistas</h3>
@@ -217,7 +225,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'marta-alberti', name: 'Marta Alberti', image: 'marta-alberti.png' },
       { slug: 'raffella-giovanni', name: 'Raffella Giovanni', image: 'raffella-giovanni.png' },
       { slug: 'roberto-vazquez', name: 'Roberto Vázquez', image: 'roberto-vazquez.png' },
-      // Grupo Gamma - Los Criminales Rehabilitados  
+      // Grupo Gamma - Los Criminales Rehabilitados
       { slug: '2d', name: '2D', image: '2d.png' },
       { slug: 'cyberpunk', name: 'Cyberpunk', image: 'cyberpunk.png' },
       { slug: 'martillo', name: 'Martillo', image: 'martillo.png' },
@@ -227,6 +235,13 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'temblores', name: 'Temblores', image: 'Temblores.png' },
       { slug: 'tifon', name: 'Tifón', image: 'tifon.png' },
       { slug: 'zambo-mambo', name: 'Zambo y Mambo', image: 'zambo-mambo.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+
+    reformatorio: [
+      // Protagonistas del Reformatorio Nueva Esperanza
+      { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
+      { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
+      { slug: 'kira', name: 'Kira', image: 'kira.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     heroes: [
@@ -551,6 +566,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.periodistas, 'periodistas-gallery');
   createCharacterCards(characterCategories.politicos, 'politicos-gallery');
   createCharacterCards(characterCategories.profesionales, 'profesionales-gallery');
+  createCharacterCards(characterCategories.reformatorio, 'reformatorio-gallery');
   createCharacterCards(characterCategories.villanos, 'villanos-gallery');
 
   // Initialize Masonry for all galleries after images load
@@ -596,6 +612,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('periodistas-gallery');
   initializeMasonry('politicos-gallery');
   initializeMasonry('profesionales-gallery');
+  initializeMasonry('reformatorio-gallery');
   initializeMasonry('villanos-gallery');
 });
 </script>

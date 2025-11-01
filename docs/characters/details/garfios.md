@@ -7,6 +7,10 @@ slug: garfios
 
 # Garfios
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/garfios.png" alt="Garfios" />
+</div>
+
 ## Presentación
 Garfios fue un asesino serial metahumano que aterrorizó el **Barrio Flotante** de Arcadia en 1958, asesinando a diez mujeres en un período de tres semanas. Conocido por decapitar a sus víctimas y dejar las cabezas flotando en el agua, nunca fue capturado ni identificado. Su nombre proviene de la descripción de una testigo que lo vio con "garfios en lugar de manos".
 

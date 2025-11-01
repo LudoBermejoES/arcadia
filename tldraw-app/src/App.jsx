@@ -1,110 +1,142 @@
-import { Tldraw } from 'tldraw'
+import { Tldraw, createShapeId } from 'tldraw'
 import 'tldraw/tldraw.css'
-import { useEffect, useState } from 'react'
+import { useRef } from 'react'
+import { reformatorioData } from './reformatorio-data'
 
 export default function App() {
-  const [snapshot, setSnapshot] = useState(null)
-  const [loading, setLoading] = useState(true)
-  const [error, setError] = useState(null)
+  const editorRef = useRef(null)
 
-  useEffect(() => {
-    // Try multiple paths to load the schema
-    const paths = [
-      // When embedded in Jekyll page
-      '/campaigns/aun-sin-nombre/reformatorio/reformatorio-schema.tldr',
-      // When running dev server
-      '/reformatorio-schema.tldr',
-      // Absolute GitHub Pages path
-      'https://arcadia.ludobermejo.es/campaigns/aun-sin-nombre/reformatorio/reformatorio-schema.tldr'
-    ]
+  const createDiagram = (editor) => {
+    editorRef.current = editor
 
-    async function loadSchema() {
-      for (const path of paths) {
-        try {
-          console.log(`Intentando cargar desde: ${path}`)
-          const response = await fetch(path)
-          if (response.ok) {
-            const data = await response.json()
-            console.log('Esquema cargado exitosamente:', data)
-            setSnapshot(data)
-            setLoading(false)
-            return
-          }
-        } catch (err) {
-          console.warn(`No se pudo cargar desde ${path}:`, err)
-        }
+    // Title
+    editor.createShape({
+      id: createShapeId('title'),
+      type: 'text',
+      x: 400,
+      y: 50,
+      props: {
+        text: '🏝️ REFORMATORIO NUEVA ESPERANZA\nIsla Albedo - Estructura Organizacional',
+        size: 'xl',
+        w: 800,
+        textAlign: 'middle'
       }
+    })
 
-      // Si ninguna ruta funcionó
-      setError('No se pudo cargar el esquema. Por favor, recarga la página.')
-      setLoading(false)
-    }
+    // Director
+    editor.createShape({
+      id: createShapeId(reformatorioData.director.id),
+      type: 'geo',
+      x: reformatorioData.director.x,
+      y: reformatorioData.director.y,
+      props: {
+        geo: 'rectangle',
+        w: 300,
+        h: 120,
+        color: reformatorioData.director.color,
+        fill: 'solid',
+        text: `👤 ${reformatorioData.director.name}\n${reformatorioData.director.role}\n⚡ ${reformatorioData.director.power}\n${reformatorioData.director.age}`
+      }
+    })
 
-    loadSchema()
-  }, [])
+    // Staff
+    reformatorioData.staff.forEach((person, i) => {
+      editor.createShape({
+        id: createShapeId(person.id),
+        type: 'geo',
+        x: person.x,
+        y: person.y,
+        props: {
+          geo: 'rectangle',
+          w: 250,
+          h: person.note ? 100 : 80,
+          color: person.color,
+          fill: 'semi',
+          text: `${person.name}\n${person.role}${person.note ? '\n' + person.note : ''}`
+        }
+      })
+    })
 
-  if (loading) {
-    return (
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '100vh',
-        fontFamily: 'system-ui, sans-serif',
-        flexDirection: 'column',
-        gap: '20px'
-      }}>
-        <div style={{ fontSize: '48px' }}>🏝️</div>
-        <div style={{ fontSize: '18px', color: '#666' }}>
-          Cargando esquema del Reformatorio Nueva Esperanza...
-        </div>
-      </div>
-    )
-  }
+    // Protagonistas
+    reformatorioData.protagonistas.forEach((char) => {
+      editor.createShape({
+        id: createShapeId(char.id),
+        type: 'geo',
+        x: char.x,
+        y: char.y,
+        props: {
+          geo: 'rectangle',
+          w: 280,
+          h: 140,
+          color: char.color,
+          fill: 'solid',
+          text: `${char.name} (${char.player})\n${char.power}\n${char.details}`
+        }
+      })
+    })
 
-  if (error) {
-    return (
-      <div style={{
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        height: '100vh',
-        fontFamily: 'system-ui, sans-serif',
-        flexDirection: 'column',
-        gap: '20px',
-        padding: '40px'
-      }}>
-        <div style={{ fontSize: '48px' }}>⚠️</div>
-        <div style={{ fontSize: '18px', color: '#c00', textAlign: 'center' }}>
-          {error}
-        </div>
-        <button
-          onClick={() => window.location.reload()}
-          style={{
-            padding: '12px 24px',
-            fontSize: '16px',
-            background: '#0066cc',
-            color: 'white',
-            border: 'none',
-            borderRadius: '6px',
-            cursor: 'pointer'
-          }}
-        >
-          Recargar página
-        </button>
-      </div>
-    )
+    // Internos
+    reformatorioData.internos.forEach((char) => {
+      editor.createShape({
+        id: createShapeId(char.id),
+        type: 'geo',
+        x: char.x,
+        y: char.y,
+        props: {
+          geo: 'rectangle',
+          w: 220,
+          h: char.id === 'lea' || char.id === 'jein' ? 120 : 80,
+          color: char.color,
+          fill: 'semi',
+          text: `${char.name}\n${char.note}`
+        }
+      })
+    })
+
+    // Desaparecidos
+    reformatorioData.desaparecidos.forEach((char) => {
+      editor.createShape({
+        id: createShapeId(char.id),
+        type: 'geo',
+        x: char.x,
+        y: char.y,
+        props: {
+          geo: 'rectangle',
+          w: 250,
+          h: 120,
+          color: char.color,
+          fill: 'pattern',
+          dash: 'dashed',
+          text: `${char.name}\n${char.note}`
+        }
+      })
+    })
+
+    // Arrows/Relationships
+    reformatorioData.relationships.forEach((rel, i) => {
+      editor.createShape({
+        id: createShapeId(`arrow-${i}`),
+        type: 'arrow',
+        props: {
+          start: { type: 'binding', boundShapeId: createShapeId(rel.from) },
+          end: { type: 'binding', boundShapeId: createShapeId(rel.to) },
+          color: rel.color,
+          dash: rel.dashed ? 'dotted' : 'draw',
+          arrowheadEnd: rel.bidirectional ? 'dot' : 'arrow',
+          text: rel.label
+        }
+      })
+    })
+
+    // Zoom to fit after a short delay
+    setTimeout(() => {
+      editor.zoomToFit({ animation: { duration: 400 } })
+    }, 100)
   }
 
   return (
     <div style={{ position: 'fixed', inset: 0 }}>
-      <Tldraw
-        snapshot={snapshot}
-        onMount={(editor) => {
-          // Centrar la vista en el contenido
-          editor.zoomToFit({ animation: { duration: 400 } })
-        }}
-      />
+      <Tldraw onMount={createDiagram} />
     </div>
   )
 }

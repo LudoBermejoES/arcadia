@@ -12,7 +12,7 @@ slug: sergei
 </div>
 
 ## Presentación
-Sergei es un metahumano metamorfo de 16-17 años, veterano del Reformatorio Nueva Esperanza en Isla Albedo. Con origen ruso y una apariencia de joven moreno, alto y delgado de pelo corto y alborotado, Sergei es el líder social informal entre los internos. Es jugado por **Júlia Gasull** en la campaña "Reformatorio Nueva Esperanza".
+Sergei es un metahumano metamorfo de 16-17 años, veterano del Reformatorio Nueva Esperanza en Isla Albedo. Con origen ruso y una apariencia de joven moreno, alto y delgado de pelo corto y alborotado, Sergei es el líder social informal entre los internos. Es jugado por **PJ** en la campaña "Reformatorio Nueva Esperanza".
 
 ## Historia Personal
 Sergei lleva en el reformatorio desde los 12-13 años, haciendo de él uno de los veteranos más antiguos. Su presencia prolongada sugiere que posiblemente no tiene otro lugar adonde ir, convirtiéndo al reformatorio en su único hogar conocido durante su adolescencia.

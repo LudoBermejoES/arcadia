@@ -63,7 +63,7 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 - Temas de control institucional vs. libertad personal
 
 **Protagonistas:**
-- **Sergei** (Júlia Gasull) - Metamorfo veterano del reformatorio
+- **Sergei** (PJ) - Metamorfo veterano del reformatorio
 - **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
 - **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
 

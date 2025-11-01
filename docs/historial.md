@@ -21,7 +21,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
   - **Perspectiva única**: Los olvidados del sistema metahumano
 
 #### **👥 Tres Nuevos Protagonistas**
-- **Sergei** (Júlia Gasull) - Metamorfo veterano del reformatorio:
+- **Sergei** (PJ) - Metamorfo veterano del reformatorio:
   - Poderes: Cuerpo sin órganos, moldeable, puede crear partes del cuerpo
   - Experiencia: Lleva tiempo en el reformatorio, conoce el sistema
   - Momento destacado: Incidente de la oreja de reptil

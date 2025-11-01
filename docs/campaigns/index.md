@@ -11,9 +11,9 @@ description: "15 Años de Aventuras Épicas"
 
 ---
 
-## 🦸‍♂️ **Las Tres Campañas Legendarias**
+## 🦸‍♂️ **Las Cuatro Campañas Principales**
 
-Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campaña representa una era única en la evolución del universo heroico.
+Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada campaña representa una era única en la evolución del universo heroico y sus márgenes.
 
 ---
 
@@ -82,6 +82,25 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 
 ---
 
+## 🏝️ **[Reformatorio Nueva Esperanza](aun-sin-nombre/)**
+**Cuarta Campaña • Desde Oct 2025 (Recién Iniciada)**
+> Los inadaptados de Isla Albedo
+
+### **Los Jóvenes Recluidos:**
+- 🦎 **Sergei** (PJ) - Metamorfo veterano del reformatorio
+- 💪 **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
+- ⚡ **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
+
+### **Nueva Perspectiva:**
+- **1 sesión inicial** documentada en isla volcánica
+- **Control vs. Libertad** en institución de "rehabilitación"
+- **Jóvenes marginados** sin control de poderes
+- **Misterios oscuros** (desapariciones, tecleo misterioso)
+
+**[🚀 Explorar Reformatorio Nueva Esperanza →](aun-sin-nombre/)**
+
+---
+
 ## 🏥 **[Hospital](hospital/)**
 **Campaña Especial • Thriller Médico**
 > Una perspectiva única del mundo heroico
@@ -114,12 +133,12 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">83+</span>
+<span class="stat-number">84+</span>
 <span class="stat-label">Sesiones Totales</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">5</span>
+<span class="stat-number">6</span>
 <span class="stat-label">Campañas Únicas</span>
 </div>
 
@@ -129,7 +148,7 @@ Durante 15 años, tres generaciones de héroes han protegido Arcadia. Cada campa
 </div>
 
 <div class="stat-card">
-<span class="stat-number">200+</span>
+<span class="stat-number">234+</span>
 <span class="stat-label">Personajes Creados</span>
 </div>
 </div>
@@ -151,8 +170,9 @@ Las campañas de Arcadia no son solo juegos de rol - son un **universo intercone
 
 ### **Por Época:**
 - **🏛️ Era Fundacional** - La Familia establece las bases
-- **⚡ Era de Transición** - Génesis moderniza el heroísmo  
-- **🔮 Era Actual** - La Fuerza Oculta navega complejidad moral
+- **⚡ Era de Transición** - Génesis moderniza el heroísmo
+- **🔮 Era Actual (Héroes)** - La Fuerza Oculta navega complejidad moral
+- **🏝️ Era Actual (Marginados)** - Reformatorio Nueva Esperanza muestra los olvidados
 
 ### **Por Contenido:**
 - **[👥 Personajes](../characters/)** - Base de datos completa

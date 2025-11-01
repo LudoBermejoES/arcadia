@@ -27,7 +27,7 @@ permalink: /campaigns/reformatorio-nueva-esperanza/
 
 ### ⚡ El Equipo
 
-#### 🦎 **[Sergei]({{ site.baseurl }}/characters/details/sergei/)** *(Júlia Gasull)*
+#### 🦎 **[Sergei]({{ site.baseurl }}/characters/details/sergei/)** *(PJ)*
 - **Poderes**: Metamorfo sin órganos internos, cuerpo moldeable
 - **Habilidades**: Puede pasar por sitios pequeños, extender brazos, mejorar atributos físicos, separar partes de su cuerpo que se regeneran
 - **Historia**: Veterano del reformatorio (desde los 12-13 años, ahora tiene 16-17), posiblemente sin otro lugar adonde ir

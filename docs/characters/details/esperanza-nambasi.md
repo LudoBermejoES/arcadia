@@ -7,6 +7,10 @@ slug: esperanza-nambasi
 
 # Esperanza Nambasi
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/esperanza-nambasi.png" alt="Esperanza Nambasi" />
+</div>
+
 ## Presentación
 Esperanza Nambasi fue la primera ser humano en pisar la Luna y una figura icónica en la lucha por los derechos civiles en Arcadia. Hija de inmigrantes keniatas, esta metahumana de 20 años se convirtió en símbolo nacional de progreso científico y justicia racial antes de su trágico asesinato en 1956.
 

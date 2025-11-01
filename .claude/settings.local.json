@@ -38,7 +38,8 @@
       "Bash(echo \"✓ $img\")",
       "Bash(else)",
       "Bash(echo:*)",
-      "Bash(fi)"
+      "Bash(fi)",
+      "Bash(ls:*)"
     ],
     "deny": [],
     "ask": [],

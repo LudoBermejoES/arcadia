@@ -7,6 +7,10 @@ slug: boreas
 
 # Bóreas
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/boreas.png" alt="Bóreas" />
+</div>
+
 ## Presentación
 
 Bóreas es el líder de **Los Anemoi** (Los Cuatro Vientos), el grupo heroico más popular de Arcadia durante los años 60. Con aproximadamente 50 años en su primera aparición (1961), representa el viento del norte y el invierno, portando una caracola mágica de la que brota poder invernal.

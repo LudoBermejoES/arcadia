@@ -7,6 +7,10 @@ slug: austros
 
 # Austros
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/austros.png" alt="Austros" />
+</div>
+
 ## Presentación
 
 Austros es miembro de **Los Anemoi** (Los Cuatro Vientos), el grupo heroico más popular de Arcadia durante los años 60. Representa el viento del sur y el otoño, con **plumas como hojas de otoño** y **fulgurantes ojos rojizos**. Actúa como diplomático del grupo, comunicándose con las autoridades en las ceremonias oficiales.

@@ -7,6 +7,10 @@ slug: cefiro
 
 # Céfiro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/cefiro.png" alt="Céfiro" />
+</div>
+
 ## Presentación
 
 Céfiro es la única miembro femenina de **Los Anemoi** (Los Cuatro Vientos), el grupo heroico más popular de Arcadia durante los años 60. Representa el viento del oeste y la primavera. Con **alas como hebras verdes, siempre cambiantes**, **corona de hojas** y **piel dorada**, es la más joven del grupo y posee poderes de regeneración y vida vegetal.

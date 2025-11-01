@@ -7,6 +7,10 @@ slug: euro
 
 # Euro
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/euro.png" alt="Euro" />
+</div>
+
 ## Presentación
 
 Euro es miembro de **Los Anemoi** (Los Cuatro Vientos), el grupo heroico más popular de Arcadia durante los años 60. Representa el viento del este y el verano, siendo el más espectacular visualmente del grupo. **Vestido tan solo por lenguas de fuego**, porta una **vasija del estío** de la que brotan sus poderes ígneos.

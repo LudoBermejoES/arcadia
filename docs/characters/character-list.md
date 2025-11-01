@@ -380,6 +380,54 @@ permalink: /characters/character-list/
 - [Elio Rossi-Kim]({{ site.baseurl }}/characters/details/elio-rossi-kim/) (9 años, proyector de luz, miedo a la oscuridad)
 - [Luna Fernández-Zhang]({{ site.baseurl }}/characters/details/luna-fernandez-zhang/) (8 años, caminante de sueños, la más joven)
 
+### Crematorio La Tranquilidad
+
+#### Protagonistas
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) (Recepcionista, ex-actor de teatro, jugador: Xavi Gracia)
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) (Maquilladora y preparadora de cadáveres, 15 años experiencia, jugadora: Kauneda Arashi)
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) (Guardia de seguridad nocturna, ex-militar croata, jugadora: Alejandro Salamanca)
+
+#### NPCs
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) (Detective de Crimen Organizado, investiga el funeral)
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) (Mafioso influyente difunto, centro del misterio temporal)
+
+#### Asistentes al Funeral de Federico Aguilar
+
+##### La Vieja Guardia (80 años)
+- [Don Salvatore "Toto" Rossi]({{ site.baseurl }}/characters/details/salvatore-rossi/) (Co-fundador, sabe quién mató a Federico)
+- [Arturo Mendoza]({{ site.baseurl }}/characters/details/arturo-mendoza/) (Sicario durante 30 años, intentó salvar al padre de Marcos)
+- [Viktor Petrov]({{ site.baseurl }}/characters/details/viktor-petrov/) (Consejero estratégico, conoce secretos de fundadores)
+- [Padre Eugenio Vargas]({{ site.baseurl }}/characters/details/padre-eugenio-vargas/) (Confesor corrupto, guarda biblia hueca con confesiones)
+
+##### Generación Activa (40 años)
+- [Marco "El Tigre" Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) (Sobrino de Federico, aspirante a líder)
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) (Cirujano clandestino, falsifica autopsias)
+- [Roberto "Cables" Mora]({{ site.baseurl }}/characters/details/roberto-mora/) (Hacker de élite, acceso a 500M)
+
+##### Nueva Sangre (20 años)
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) (Nieto de Federico, heredero frágil)
+- [Andrés "Andy" Ríos]({{ site.baseurl }}/characters/details/andres-rios/) (Sicario joven, 12 asesinatos)
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) (Genio financiero, lava 100M al año)
+- [Tomás "Tommy" Cruz]({{ site.baseurl }}/characters/details/tomas-cruz/) (Traficante, espía de Telaraña con micrófono oculto)
+
+##### Matriarcas (70 años)
+- [Doña Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) (Viuda de Federico, ordenó su muerte)
+- [Sofía "La Contadora" Vega]({{ site.baseurl }}/characters/details/sofia-vega/) (Guardiana financiera, robó 200M)
+- [Renata "Mamá Rena" Lombardi]({{ site.baseurl }}/characters/details/renata-lombardi/) (Propietaria de burdel, 40 años de grabaciones)
+- [Dra. Elena Ortiz]({{ site.baseurl }}/characters/details/elena-ortiz/) (Patóloga forense, falsificó 200 autopsias)
+
+##### Operadoras (40 años)
+- [Isabella "Bella" Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) (Hija de Federico, orquestó su asesinato)
+- [Gabriela "Gabi" Soto]({{ site.baseurl }}/characters/details/gabriela-soto/) (Conductora de élite, hijo secreto de 5 años)
+- [Lucía Herrera]({{ site.baseurl }}/characters/details/lucia-herrera/) (Abogada criminalista, 98% casos ganados)
+- [Marina "La Rusa" Volkova]({{ site.baseurl }}/characters/details/marina-volkova/) (Traficante de armas, vende a ambos lados)
+
+##### Generación Digital (20 años)
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) (Influencer 500K, lavado de dinero digital)
+- [Patricia "Patty" Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) (Hacker espía, plantó malware en funeral)
+- [Camila "Cami" Ruiz]({{ site.baseurl }}/characters/details/camila-ruiz/) (Trabajadora sexual, espía seductora)
+- [Ana "Annie" Morales]({{ site.baseurl }}/characters/details/ana-morales/) (Traficante de drogas, hermano asesinado por Aguilar)
+
 ### Fuerzas Especiales y Militares
 - [Los Rayos]({{ site.baseurl }}/groups/los-rayos/) (fuerza militar bajo General Martínez)
 - El Oriental Tormenta
@@ -390,4 +438,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*180 personajes documentados - Última actualización: Enero de 2025*
+*209 personajes documentados - Última actualización: Noviembre de 2025*

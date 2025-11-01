@@ -101,6 +101,25 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 ---
 
+## ⏰ **[Crematorio La Tranquilidad](crematorio-la-tranquilidad/)**
+**Mini-Campaña de Misterio • Desde Oct 2025 (Recién Iniciada)**
+> Atrapados en un bucle temporal eterno
+
+### **Los Empleados Atrapados:**
+- 📋 **Marcos Villar** (Xavi Gracia) - Recepcionista empático, ex-actor de teatro
+- 💄 **Dolores Sánchez** (Kauneda Arashi) - Preparadora mortuoria con 15 años de experiencia
+- 🛡️ **Renata Kovač** (Alejandro Salamanca) - Guardia nocturna ex-militar buscando redención
+
+### **Misterio Temporal:**
+- **1 sesión inicial** en bucle infinito (00:33-00:34)
+- **Thriller psicológico** en espacio cerrado
+- **Artefactos egipcios** causando anomalías temporales
+- **Funeral mafioso** desencadena eventos sobrenaturales
+
+**[🚀 Explorar Crematorio La Tranquilidad →](crematorio-la-tranquilidad/)**
+
+---
+
 ## 🏥 **[Hospital](hospital/)**
 **Campaña Especial • Thriller Médico**
 > Una perspectiva única del mundo heroico
@@ -138,7 +157,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 </div>
 
 <div class="stat-card">
-<span class="stat-number">6</span>
+<span class="stat-number">7</span>
 <span class="stat-label">Campañas Únicas</span>
 </div>
 

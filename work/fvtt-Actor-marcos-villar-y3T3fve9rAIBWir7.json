@@ -1,0 +1,2890 @@
+{
+  "name": "Marcos Villar",
+  "type": "character",
+  "folder": "oqsszYNSiTv46ZyA",
+  "system": {
+    "attributes": {
+      "agility": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "smarts": {
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "animal": false,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "spirit": {
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "unShakeBonus": 0,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "strength": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "encumbranceSteps": 0
+      },
+      "vigor": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "unStunBonus": 0,
+        "soakBonus": 0,
+        "bleedOut": {
+          "modifier": 0,
+          "ignoreWounds": false
+        }
+      }
+    },
+    "stats": {
+      "toughness": {
+        "value": 5,
+        "modifier": 0,
+        "armor": 0
+      },
+      "parry": {
+        "value": 2,
+        "shield": 0,
+        "modifier": 0
+      },
+      "size": 0,
+      "speed": {}
+    },
+    "details": {
+      "biography": {
+        "value": "Recepcionista elegante y empático que maneja a familias en duelo.<br /> Ex-actor de teatro del Distrito Clásico. Su padre murió en un atentado de Humanitas.<br /> A pesar del dolor, rechaza el odio y trabaja para tender puentes entre humanos y metahumanos.<br />"
+      },
+      "autoCalcToughness": false,
+      "autoCalcParry": true,
+      "archetype": "Recepcionista de la funeraria",
+      "appearance": "",
+      "notes": "",
+      "goals": "",
+      "species": {
+        "name": ""
+      },
+      "currency": 500,
+      "wealth": {
+        "die": 6,
+        "modifier": 0,
+        "wild-die": 6
+      },
+      "conviction": {
+        "value": 0,
+        "active": false
+      }
+    },
+    "powerPoints": {
+      "general": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "wounds": {
+      "max": 3,
+      "ignored": 0,
+      "value": 0
+    },
+    "initiative": {
+      "hasHesitant": false,
+      "hasLevelHeaded": false,
+      "hasImpLevelHeaded": false,
+      "hasQuick": false,
+      "follow": ""
+    },
+    "additionalStats": {
+      "chi": {
+        "label": "Chi",
+        "dtype": "Number",
+        "hasMaxValue": false
+      }
+    },
+    "bennies": {
+      "value": 3,
+      "max": 3
+    },
+    "pace": {
+      "base": "ground",
+      "ground": 6,
+      "fly": null,
+      "swim": null,
+      "burrow": null,
+      "running": {
+        "die": 6,
+        "mod": 0
+      }
+    },
+    "category": "",
+    "auras": {
+      "aura1": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      },
+      "aura2": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      }
+    },
+    "fatigue": {
+      "value": 0,
+      "max": 2,
+      "ignored": 0
+    },
+    "woundsOrFatigue": {
+      "ignored": 0
+    },
+    "advances": {
+      "mode": "expanded",
+      "value": 0,
+      "rank": "Novice",
+      "details": "",
+      "list": []
+    },
+    "status": {
+      "isShaken": false,
+      "isDistracted": false,
+      "isVulnerable": false,
+      "isStunned": false,
+      "isEntangled": false,
+      "isBound": false,
+      "isIncapacitated": false
+    }
+  },
+  "items": [
+    {
+      "name": "Humanidades",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/graduate-cap.svg",
+      "system": {
+        "description": "<p>Humanidades refleja el conocimiento de las artes liberales, las ciencias sociales, la literatura, la historia, la arqueología y campos similares. Si un explorador quiere recordar cuándo terminó el calendario maya o citar una línea de <cite>Macbeth</cite>, esta es la habilidad que debe tener.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "academics",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Academics"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "VlsPX5kLnDjHFXMZ",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Atletismo",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/jump-across.svg",
+      "system": {
+        "description": "<p>Atletismo combina la coordinación de un individuo con habilidades aprendidas como trepar, saltar, mantener el equilibrio, andar en bicicleta, luchar, esquiar, nadar, lanzar o atrapar. Los personajes que dependen más de la potencia física que de la coordinación pueden tomar la Ventaja @Compendium[swade-core-rules.swade-edges.Brute]{Bestia} para vincular esta habilidad a la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} en lugar de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Agilidad}.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "athletics",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "agility",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Athletics"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "sZIi3JU7sDxo76pt",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Conocimientos Generales",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/gift-of-knowledge.svg",
+      "system": {
+        "description": "<p>Los personajes tiran Conocimientos Generales para conocer personas, lugares y cosas de su mundo, incluyendo etiqueta, geografía, cultura, tecnología popular, contactos y costumbres.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "common-knowledge",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Common Knowledge"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "Tg8zuWnGLFS64a8I",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Intimidation",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/arrest.svg",
+      "system": {
+        "description": "<p>Intimidation is the art of frightening an opponent so that he backs down, reveals information, or flees.</p>\n<p>Intimidation is an @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{opposed roll} resisted by the opponent’s @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Spirit}. In combat, this is a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03test0000000000]{Test}. Out of combat, a successful roll means the foe backs down for the most part, reveals some information, or slinks away when the opportunity presents itself.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{raise} might mean he backs down for the remainder of the scene, spills all the beans, or runs away as fast as he can.</p>\n<p>In or out of combat, a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} means the target is immune to this character’s Intimidation attempts for the remainder of this encounter!</p>\n<p><strong>Networking:</strong> Intimidation can also be used as a “macro” skill to simulate several hours of working the streets. See @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Networking} to see how to crack some heads for favors or information.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "intimidation",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "nFTiktp5jKxhhgAh",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Notar",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/psychic-waves.svg",
+      "system": {
+        "description": "<p>Notar representa el nivel de alerta y consciencia general del entorno del héroe. Se utiliza para percibir luces, sonidos, sabores u olores, detectar pistas, detectar emboscadas, encontrar armas ocultas en un enemigo, o determinar si un rival está mintiendo, asustado, feliz, etc.</p>\n<p>El @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} proporciona información básica—el personaje escucha movimiento en el bosque, huele humo distante, o percibe que alguien no está siendo completamente honesto.</p>\n<p>Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} otorga más detalles, como la dirección de un sonido u olor o sobre qué tema una persona está evadiendo o mintiendo.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "notice",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Notice"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "YJ7agWD9Jp7UA2vp",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Performance",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/drama-masks.svg",
+      "system": {
+        "description": "<p>A good entertainer can lift the spirits, rally a crowd to action, or simply earn a few bucks from the locals. Specifics depend on the situation, setting, and how well the character is known in the area.</p>\n<p>Performance covers singing, acting, playing an instrument, or similar tasks that require an audience to appreciate.</p>\n<p><strong>Raising Funds:</strong> The amount of money a character can raise by performing is extremely subjective, but as a general rule a @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{successful} performance raises 20% of the setting's @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Starting Funds} with a success and 30% with a raise. The GM can multiply this amount by the performer's @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01advancement000]{Rank} if she feels it's appropriate. These numbers work for typical performers who might be known in a small establishment or area. Larger performances can greatly boost the performer's fee, but also require more time, energy, and setup.</p>\n<p><strong>Deception: </strong>Performance can be used instead of @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} if the character is attempting to deceive, bluff, or disguise herself and the GM agrees it makes sense in the context of the situation.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "performance",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "gl3GlQ8wC7WH0En4",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Persuadir",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/convince.svg",
+      "system": {
+        "description": "<p>Persuadir es la habilidad de convencer a otros para que hagan lo que quieres a través de la razón, el halago, el engaño, las recompensas u otros medios amistosos. Persuadir no es control mental. Puede cambiar la actitud de alguien, pero no sus objetivos. Un bandido puede dejarte conservar una joya sentimental con una buena tirada de Persuadir, pero aun así se llevará todos tus otros bienes.</p>\n<p>Cuando se usa para @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03support0000000]{Apoyar} a los aliados, es una tirada sin oposición. Si el objetivo es resistente, es una tirada opuesta contra el @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Espíritu} del objetivo. El DJ debe modificar la tirada como considere oportuno basándose en la interpretación, cualquier @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01edges000000000]{Ventaja} o @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01hindrances0000]{Desventaja} pertinente que afecte a la conversación y las circunstancias.</p>\n<p><strong>Nivel de Reacción:</strong> La disposición de una persona a cooperar depende en gran medida de su actitud hacia quien le habla. El Director de Juego puede decidir cómo se sienten los personajes no jugadores basándose en el entorno, o tirar en la @Compendium[swade-core-rules.swade-tables.Reaction Table]{Tabla de Reacciones} si no tiene ideas preconcebidas.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} mejora la actitud del objetivo en un nivel y una subida la mejora en dos. Generalmente no es posible lograr más aumentos en el mismo encuentro; a los individuos les lleva un poco de tiempo ajustar sus prejuicios.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{fallo} significa que el objetivo no cambiará de opinión en esta escena o hasta que la situación cambie de alguna manera importante. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} empeora la actitud del objetivo en dos niveles (a un mínimo de Hostil).</p>\n<p><strong>Red de Contactos:</strong> Persuasión también se puede usar como una habilidad “macro” para simular varias horas de socialización. Consulta @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Red de Contactos} para ver cómo usar tus encantos para obtener favores o información.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "persuasion",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Persuasion"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "sxkgg8rSbcWP99e4",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Research",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/archive-research.svg",
+      "system": {
+        "description": "<p>A character skilled in Research knows how to make good use of libraries, newspaper morgues, the internet, or other written sources of information.</p>\n<p>The amount of time this takes is up to the GM and the situation. Finding something on the internet or a specific passage in a book might be possible in a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{combat round}. Looking through books in a library, searching the internet for a complex topic, or digging up background information on an individual usually takes about an hour.</p>\n<p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Success} finds basic information and a raise provides more detail. @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{Failure} means the researcher doesn’t find what she’s looking for.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} might mean the researcher finds plausible but incorrect information, triggers the notice of some opposed entity or faction, reads something “Humanity Was Not Meant to Know” and suffers a mental illness of some sort (a Minor @Compendium[swade-core-rules.swade-hindrances.Phobia]{Phobia}, @Compendium[swade-core-rules.swade-hindrances.Quirk]{Quirk}, etc.), or she might even accidentally destroy the source. The GM is encouraged to be creative when such a mishap occurs, perhaps forcing the party to approach the situation in a different way.</p>\n<p><strong>Related Skills: </strong>If a character has a skill that relates directly to the subject he’s researching, he can use that instead of Research. An explorer with @Compendium[swade-core-rules.swade-skills.Occult]{Occult} d10 and Research d6, for example, rolls a d10 when investigating vampire lore at a forgotten library. If he later goes to search for the deed to a house where the vampires are rumored to lair, he rolls his normal Research instead.</p>\n<p><strong>Note: </strong>Research may only provide the clues, especially in a mystery-heavy game. Putting the clues together from the information gathered is up to the players.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "research",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "TaklZPJlPjxT5kON",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Carismático",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Tu héroe es agradable por alguna razón. Puede ser digno de confianza o amable, o simplemente irradiar confianza y buena voluntad. Obtienes una repetición gratuita en las tiradas de @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión}.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "charismatic",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Charismatic"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "hgpTuHp6u6fanqBQ",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Conexiones",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Tu heroína está conectada con personas u organizaciones que pueden ayudarla cuando las cosas se ponen difíciles. Podría ser la mafia, los federales, un sindicato o incluso otros aventureros.<br />Conexiones puede tomarse más de una vez, seleccionando una nueva facción o contacto cada vez. Una vez por sesión, y suponiendo que pueda ponerse en contacto con ellos, la heroína puede pedirles un favor.<br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" />El favor depende de la naturaleza del contacto (a discreción del DJ), pero podría incluir un préstamo, equipo, algunos luchadores aliados, transporte, información o incluso un profesional con habilidades críticas que el grupo no tiene, como un hacker o un erudito.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "connections",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Social",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Connections"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "ZzErNXNnVqogcb2P",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Callejear",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Los personajes callejeros saben cómo encontrar el mercado negro local, vender bienes robados, evitar a la ley local (o al elemento criminal), pasar desapercibidos cuando las cosas se ponen feas, obtener armas ilegales, averiguar qué \"jefe\" está contratando matones, o actividades turbias similares.</p>\n<p>Los personajes callejeros añaden +2 a las tiradas de @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidación} o @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión} realizadas para @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{establecer contactos} con elementos turbios o criminales.</p>\n<p>También añaden +2 a las tiradas de @Compendium[swade-core-rules.swade-skills.Common Knowledge]{Conocimientos Generales} relacionadas con los tipos de actividades de mala reputación mencionadas anteriormente.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "streetwise",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Social",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Streetwise"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "J587NczYXdA9tt1M",
+          "name": "Streetwise",
+          "changes": [
+            {
+              "key": "@Skill{Intimidation}[system.die.modifier]",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            },
+            {
+              "key": "@Skill{Persuasion}[system.die.modifier]",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            },
+            {
+              "key": "@Skill{Common Knowledge}[system.die.modifier]",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<p>Streetwise characters know how to find the local black market, fence stolen goods, avoid the local law (or criminal element!), lay low when the heat’s on, obtain illegal weapons, find out which “boss” is hiring muscle, or similar shady activities.<br /></p>\n<p>Streetwise characters add +2 to @Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidation} or @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} rolls made to @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Networking} with shady or criminal elements.<br /></p>\n<p>They also add +2 to @Compendium[swade-core-rules.swade-skills.Common Knowledge]{Common Knowledge} rolls pertaining to the types of disreputable activities listed above</p>",
+          "flags": {
+            "swade": {},
+            "sigil": {
+              "completed": true
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.348",
+            "systemId": "swade",
+            "systemVersion": "5.0.6",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/edge.svg",
+          "type": "base",
+          "system": {
+            "conditionalEffect": true,
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false
+          },
+          "origin": null,
+          "statuses": [],
+          "sort": 0
+        }
+      ],
+      "_id": "0JsPhymwAfMKE4xj",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Bocazas",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Se dice que por la boca muere el pez. La boca de este héroe podría ahogar una armada. El bocazas no puede guardar un secreto muy bien. Revela planes y regala cosas que es mejor guardar entre amigos, generalmente en los peores momentos posibles.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "big-mouth",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "minor",
+        "major": false
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Big Mouth"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "27SJE0uQcrkjwzTX",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Curioso",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Mató al gato, y también podría matar a tu guerrero. Los personajes curiosos tienen que investigar todo y siempre quieren saber qué hay detrás de un posible misterio o secreto.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "curious",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "major",
+        "major": true
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Curious"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "3LJdiUOSV40c7VW1",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Heroico",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Esta alma noble nunca dice no a una persona necesitada. No tiene que estar feliz por ello, pero siempre acude al rescate de aquellos que siente que no pueden ayudarse a sí mismos. Es el primero en correr hacia un edificio en llamas, generalmente acepta cazar monstruos por poco o ningún pago, y es, en general, un blando ante una historia triste.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "heroic",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "major",
+        "major": true
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Heroic"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "HELLWm9JwzLXdgBO",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "weapon",
+      "name": "@sa Empatía Profesional",
+      "img": "systems/swade/assets/icons/weapon.svg",
+      "system": {
+        "description": "+2 a Persuasion con personas en duelo @sa Memoria de Nombres: Recuerda nombres, caras y detalles de todas las familias @sa Red de Contactos: Conoce familias de todo Arcadia, desde humanos hasta metahumanos @sa Encanto Natural: Puede calmar situaciones tensas con una sonrisa @sa Informante Involuntario: Sus chismes llegan a oídos de MetaCorp, Fatum, y Humanitas @sa Constructor de Puentes: +2 a Persuasion cuando media entre humanos y metahumanos @sa Dolor Convertido en Propósito: A pesar de perder a su padre, rechaza el extremismo",
+        "equippable": true,
+        "equipStatus": 4,
+        "damage": "@str",
+        "range": "",
+        "rof": 1,
+        "ap": 0,
+        "shots": null,
+        "currentShots": null,
+        "actions": {
+          "trait": "Fighting",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "rangeType": null,
+        "parry": 0,
+        "minStr": "",
+        "ammo": "",
+        "reloadType": "none",
+        "ppReloadCost": 2,
+        "trademark": 0,
+        "isHeavyWeapon": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "kktLqnKaEvSHceyr",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Traje Negro Impecable",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "LnfGqJAqNLjjVEAq",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Tablet Administrativa",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "jfxlN9VN7fWqTOki",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Tarjetas De Visita",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "1wst9CbGrF0piBw5",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Perfume Discreto",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "oQF4JJBnJcT2LCoQ",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Desarmar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "disarm",
+        "description": "<p>Un personaje puede intentar hacer que un oponente suelte un arma (u otro objeto) o intentar dañarla, haciendo un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03attacks0000000]{ataque cuerpo a cuerpo o a distancia}.</p> <p>El atacante primero debe golpear el objeto o la extremidad o mano del oponente (ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03calledshots000]{Tiros Apuntados}</strong>)</p> <p>Si el ataque golpea el arma, el atacante tira el daño normally para un objeto (sin efecto de subida o Ases, ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03breakingthin00]{Romper Cosas}</strong>). El defensor debe hacer una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} igual al daño o soltar el objeto.</p> <p>Si el ataque es contra el portador y lo @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Aturde o Hiere}, el defensor debe hacer una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} a −2 si golpeó su extremidad, o −4 si golpeó su mano, más cualquier penalización por Herida que resulte como de costumbre. Un fallo significa que suelta cualquier objeto que tenga en esa mano.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "disarmLimb": {
+              "type": "resist",
+              "name": "Disarm Limb (Strength)",
+              "override": "Strength",
+              "modifier": "-2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "disarmHand": {
+              "type": "resist",
+              "name": "Disarm Hand (Strength)",
+              "override": "Strength",
+              "modifier": "-4",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.An9n5sDP9ldAWQmP",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Disarm"
+        }
+      },
+      "_id": "Ccx5h38iABt7CMVj",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Agarrar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "grapple",
+        "description": "<p>Agarrar es una tirada opuesta entre el @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} del atacante y el del defensor. Si el atacante gana, el enemigo queda Enredado. Con una subida, queda Atado. (El éxito en un enemigo que ya estaba Enredado lo deja Atado). Ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03boundandenta00]{Atado y Enredado}</strong>.</p> <p>Si un enemigo está Atado, el <em>agarrador</em> también es @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03distractedan00]{Vulnerable} mientras mantiene su agarre.</p> <p>La bonificación de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03gangingup00000]{Ganging Up} se aplica al agarrar a un defensor, pero otras maniobras no, a menos que el Director de Juego decida lo contrario en una situación específica.</p> <p><strong>El Tamaño Importa: </strong>Si hay una diferencia de Escala (ver @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Tamaño y Escala}) entre el atacante y el defensor, el agarrador resta la diferencia de su total (el defensor no).</p> <p>Las criaturas generalmente no pueden agarrar a un enemigo más de dos Tamaños más grande que ellas, a menos que tengan un alcance excepcional o   @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} para su Tamaño (a discreción del DJ).</p><p class=\"embedded-example\"><strong>Ejemplo: </strong>Un dragón (Enorme +4) intenta inmovilizar a un ladrón mediano (Normal). La diferencia entre las Escalas Enorme y Normal es 4, por lo que el dragón debe restar 4 de su tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo}.<br />Si un ogro (Normal) intenta luchar con un gran tiburón blanco (Grande +2), debe restar 2 de su tirada.</p> <p><strong>Apretar: </strong>Como acción, un agarrador puede hacer una tirada de Fuerza como daño contra un objetivo que tiene Enredado o Atado. (Esta es una tirada de daño, por lo que los Comodines no añaden un Dado Salvaje). El daño adicional por una subida en la tirada de agarre no se aplica.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "opposeGrapple": {
+              "type": "resist",
+              "name": "Oppose Grapple",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "crush": {
+              "type": "damage",
+              "name": "Crush",
+              "override": "@str",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Athletics",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.m2qelopR0MHxX1FG",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Grapple"
+        }
+      },
+      "_id": "hHs8afOJ2ZntLL6M",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Salto",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "jump",
+        "description": "<p>Los personajes pueden saltar 1\" (dos yardas) horizontalmente, o 0.5\" verticalmente como acción gratuita. Duplica estos números si el héroe puede correr al menos 2\" (cuatro yardas) antes del salto. Si el héroe lo desea, puede hacer una tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} como una acción para aumentar su distancia horizontal en 1\" (2\" con una subida), o la mitad de eso verticalmente. Saltar no permite a un personaje exceder su Paso total para el turno.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {},
+          "dmgMod": "",
+          "trait": "Athletics",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.gxg58JUxI1kL79sw",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Jump"
+        }
+      },
+      "_id": "bt3nwgd16wUuKxFW",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Empujar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "push",
+        "description": "<p>A veces, los personajes pueden querer empujar a un enemigo con la esperanza de sacarlo de su posición, dejarlo @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03prone000000000]{boca abajo}, o incluso lanzarlo a un @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{peligro} mortal.</p> <p>Empujar a un enemigo es una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{tirada opuesta} de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza}. Si el atacante tiene éxito, empuja al enemigo hasta 1\" (dos yardas). Con una subida, aumenta la distancia a 2\" (cuatro yardas). Duplica cualquiera de las distancias si la @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Escala} del atacante es mayor que la del enemigo.</p> <p>Un personaje que es empujado con éxito debe hacer una tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} (a −2 si el atacante obtuvo una subida) o ser derribado @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03prone000000000]{boca abajo}.</p> <p><strong>Corriendo:</strong> Si el atacante corrió al menos 2\" (cuatro yardas) antes del Empujón, añade +2 a su total.</p> <p><strong>El Tamaño Importa:</strong> Las criaturas generalmente no pueden Empujar a un enemigo más de dos @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Tamaños} más grandes que ellas, a menos que tengan una @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} excepcional para su Tamaño (a discreción del DJ).</p> <p><strong>Habilidad: </strong>El atacante o el defensor pueden tirar @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} en lugar de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} si lo desean.</p> <p><strong>Escudos: </strong>Los atacantes y defensores con escudos añaden cualquier bonificación de Parada del escudo a sus totales.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "pushAth": {
+              "type": "trait",
+              "name": "Athletics",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "opposeStr": {
+              "type": "resist",
+              "name": "Oppose (Strength)",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "opposeAth": {
+              "type": "resist",
+              "name": "Oppose (Athletics)",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "noProne": {
+              "type": "resist",
+              "name": "Avoid Prone",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "noProneRaise": {
+              "type": "resist",
+              "name": "Avoid Prone (raise)",
+              "override": "Athletics",
+              "modifier": "-2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Strength",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.oCur3DfT2ETIQ2WV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Push"
+        }
+      },
+      "_id": "dkCIXGpDQPMFH3Ot",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Fuego de Supresión",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "suppressive-fire",
+        "description": "<p>El Fuego de Supresión convierte un arma de fuego u otra arma de disparo rápido en @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{Ataques de Área de Efecto}. Cambia la precisión por una lluvia de munición para mantener las cabezas de los enemigos bajas.</p> <p>Un arma debe poder disparar al menos tan rápido como un revólver y no puede requerir recarga entre disparos.</p> <p>El Fuego de Supresión usa tres veces el número habitual de balas para su <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego}</strong> y siempre incurre en @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso} independientemente de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego} original del arma (la Ventaja @Compendium[swade-core-rules.swade-edges.Rock and Roll!]{Rock and Roll!}, los bípodes y los trípodes niegan el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso} como de costumbre).</p> <p>Para realizar el ataque, el tirador coloca una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{Plantilla de Explosión Mediana} sobre la mesa y hace una tirada de @Compendium[swade-core-rules.swade-skills.Shooting]{Disparar} (un solo dado de @Compendium[swade-core-rules.swade-skills.Shooting]{Disparar} independientemente de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego}—la CdF entra en Bajas Máximas, a continuación). Calcula el @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02range000000000]{Alcance}, la @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03illumination00]{Iluminación}, el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso}, etc., como de costumbre, hasta el centro de la plantilla.</p> <p>El éxito significa que el ataque golpea el área. Con una subida, el ataque es particularmente preciso y reduce a la mitad las penalizaciones por Cobertura (redondeando hacia abajo).</p> <p><strong>Bajas:</strong> Cualquier personaje tocado por la plantilla (amigo o enemigo) debe hacer una tirada de Espíritu. Aquellos que fallan quedan Aturdidos. Los Comodines que fallan también reciben el daño completo del arma. Los Extras que fallan reciben la mitad del daño del arma. El daño no puede As.</p> <p><strong>Bajas Máximas:</strong> El número máximo de bajas que un solo ataque de Fuego de Supresión puede infligir es igual a la Cadencia de Fuego del arma. Si hay más objetivos en la plantilla que la CdF del arma, el atacante elige a cuáles afectar.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {},
+          "dmgMod": "",
+          "trait": "Shooting",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.7jgUTRAhXFhYaJmp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Suppressive Fire"
+        }
+      },
+      "_id": "g3FVI7LaDfO6la9b",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Curación Natural",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Healing",
+        "swid": "natural-healing",
+        "description": "<p>Los personajes @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridos} hacen una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} cada cinco días. El éxito recupera una Herida, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} recupera dos.</p> <p>Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} aumenta el nivel de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} de la víctima en uno, ya sea por infección, pérdida de sangre o agravamiento de las lesiones. Si esto causa @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Incapacitación}, no uses las reglas habituales para recibir daño. En su lugar, la víctima entra y sale de la conciencia y hace una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} cada 12 horas. Si falla la tirada, muere. El éxito significa que debe volver a tirar 12 horas después. Con una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} se estabiliza y despierta. Los aliados también pueden intentar estabilizar al héroe como se explica en <strong>Desangrándose</strong>, arriba.</p> <p><strong>Apoyo: </strong>¡No olvides usar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03support0000000]{Apoyo} cuando tu grupo haya sido un poco golpeado. Los personajes con @Compendium[swade-core-rules.swade-skills.Healing]{Medicina}, @Compendium[swade-core-rules.swade-skills.Survival]{Supervivencia} u otras habilidades pueden hacer tiradas de Apoyo para ayudar a los aliados a hacer sus tiradas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} para curarse!</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "heal": {
+              "type": "macro",
+              "name": "Heal Self",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.Q2jSI3bMuJZVRmnx",
+              "macroActor": "self",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Vigor",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.YVraD4ql4093i6rV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Natural Healing"
+        }
+      },
+      "_id": "qLAzLhvWAA30aL01",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Curar Heridas",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Healing",
+        "swid": "healing",
+        "description": "<p>La habilidada de @Compendium[swade-core-rules.swade-skills.Healing]{Medicina} se usa para eliminar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas}. Cada intento requiere 10 minutos por nivel de herida del paciente. Resta 1 a las tiradas de Medicina sin un botiquín de primeros auxilios básico o suministros similares.</p> <p>Un éxito elimina una Herida, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} elimina dos. Un fallo significa que no se eliminan Heridas. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} <em>aumenta</em> el nivel de Herida de la víctima en uno.</p> <aside class=\"the-golden-hour\"> <h2>La Hora Dorada</h2> <p>Los pacientes que sobreviven a su trauma inicial tienen aproximadamente una hora para sobrevivir a la mayoría de las lesiones que amenazan la vida. Si reciben atención médica durante ese tiempo, generalmente pueden ser salvados. Sin embargo, cuanto más larga sea la espera, más probable es que las @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} sean fatales.</p> <p>En <cite>Savage Worlds</cite>, extendemos este concepto a la curación en general. Además de reflejar el concepto del mundo real, también proporciona un buen equilibrio de juego y drama, ya que el grupo tiene que decidir si seguir adelante a pesar de sus heridas.</p> </aside> <p><strong>La Hora Dorada: </strong>Un personaje solo puede intentar curar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} en un paciente una vez dentro de la hora en que fueron sufridas. Fallar la tirada significa que el sanador no puede tratar esas lesiones en particular. Sin embargo, un personaje <em>diferente</em> puede intentar una tirada de @Compendium[swade-core-rules.swade-skills.Healing]{Medicina} en el mismo paciente.</p> <p>Una vez que las @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} tienen más de una hora, solo se pueden curar con curación natural o con el poder de <em>curación mayor</em>.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "heal": {
+              "type": "macro",
+              "name": "Heal Selected",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.Q2jSI3bMuJZVRmnx",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Healing",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.169yyrjFMEmIynUz",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Treat Wounds"
+        }
+      },
+      "_id": "n95AyCbTFl0RMwHg",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Red de Contactos (Método Amable)",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Adventure Toolkit",
+        "swid": "network-persuasion",
+        "description": "<p>Los personajes usan @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión} para socializar dentro de sus diversos círculos sociales en busca de información o favores. Cuando se usa de esta manera, la Persuasión no es un solo intercambio, sino varias horas de establecer contactos, codearse, parrandear, tomar copas, hacer regalos, sobornar o entretener. Esto podría representar tiempo en la oficina, una serie de reuniones con personas importantes o (más comúnmente) una noche de cena y copas.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Éxito} otorga la mayor parte de lo que el personaje quiere, aunque puede llevar un tiempo, costar algo de dinero o requerir un favor a cambio. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} obtiene más de lo que buscaba, o a un costo menor.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Fallo} significa que los esfuerzos del héroe son en vano. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} significa que queda excluido de ese grupo en particular por un tiempo (a discreción del DJ, pero generalmente alrededor de una semana).</p> <p><strong>El Dinero Habla:</strong> Se atrapan más moscas con miel que con vinagre, dice el refrán. Un personaje con un poco de dinero para repartir añade +2 a su intento de establecer contactos gastando dinero en mejores sobornos, regalos o agasajando a sus contactos con vino y cena.</p> <p>La cantidad requerida depende del DJ, el entorno y la naturaleza del contacto(s) con el que interactúa. Como regla general, usa los Fondos Iniciales del entorno y modifica según corresponda a partir de ahí.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "moneyTalks": {
+              "type": "trait",
+              "name": "Money Talks",
+              "modifier": "+2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Persuasion",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.TluD4qIwifJGpyZp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Network (The Nice Way)"
+        }
+      },
+      "_id": "8kaBZgN7hJygjWAS",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Red de Contactos (Método Duro)",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Adventure Toolkit",
+        "swid": "network-intimidation",
+        "description": "<p>@Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidación} también se puede usar para reunir información, pedir favores o hacer demandas, pero es un poco menos agradable.</p> <p>Cada intento de “trabajar las calles” lleva varias horas de amenazas y desagrados generales, buscando en la población local lo que el héroe necesite.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Éxito} le otorga al personaje la mayor parte de lo que quiere, aunque sus víctimas podrían decidir vengarse más tarde. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} significa que obtiene más información, la obtiene más rápido, o sus víctimas están demasiado asustadas o preocupadas para planear una venganza.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Fallo} significa que el matón no obtiene nada útil. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} significa que termina la noche con un labio partido, un ojo morado o una nariz rota (ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04bumpsandbrui00]{Golpes y Moretones}</strong>). Puede volver a trabajar con sus contactos al día siguiente, ¡pero es más probable que esta vez lo estén esperando!</p> <p><strong>Rompiendo Cabezas:</strong> El matón puede mejorar sus probabilidades siendo más violento o extremo de lo habitual. Esto aleja a sus contactos durante una semana pero añade +2 a la tirada.</p> <p>Esto también aumenta las apuestas. Un simple fallo significa que la noche termina con <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04bumpsandbrui00]{Golpes y Moretones}</strong>, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} conlleva consecuencias más serias. El DJ podría desglosar la acción en un encuentro real, una Tarea Dramática, o simplemente decidir que el matón es golpeado y dejado en un callejón con una Herida.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "bustingHeads": {
+              "type": "trait",
+              "name": "Busting Heads",
+              "modifier": "+2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Intimidation",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.DYz0dETXIBE02wz4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Network (The Not-So-Nice Way)"
+        }
+      },
+      "_id": "mmirvcNGtZNFWcVk",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Daño",
+      "type": "action",
+      "img": "systems/swade/assets/icons/action.svg",
+      "system": {
+        "description": "<p>Después de un golpe exitoso cuerpo a cuerpo o a distancia, el atacante tira el daño. Las armas a distancia hacen un daño fijo como se indica en la sección @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02gearnotes00000]{Equipo}. Las mayoría de las pistolas, por ejemplo, causan 2d6 de daño.</p> <p>Las armas de mano causan un daño igual al dado de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} del atacante más un segundo dado, que depende del arma. Un bárbaro con una Fuerza de d12 y una espada larga (d8 de daño) tira d12+d8 de daño.</p> <p>Aunque la Fuerza se usa para determinar el daño cuerpo a cuerpo, esto no es una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Rasgo}, por lo que los @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03wildcardsand00]{Comodines} no añaden un Dado Salvaje a la tirada.</p> <p>Todas las tiradas de daño pueden As.</p> <p><strong>Daño sin armas: </strong>Un combatiente sin armas tira solo su dado de Fuerza a menos que tenga una @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01edges000000000]{Ventaja} como <strong>@Compendium[swade-core-rules.swade-edges.Brawler]{Matón} </strong>o <strong>@Compendium[swade-core-rules.swade-edges.Martial Artist]{Artista Marcial}</strong> que le otorgue un dado de daño.</p> <h3>Daño Adicional</h3> <p>Los ataques bien colocados tienen más probabilidades de golpear áreas vitales y, por lo tanto, hacen más daño. Si tu héroe obtiene una subida en su tirada de ataque (independientemente de cuántas subidas), añade +1d6 al total final. ¡Los dados de bonificación también pueden As!</p> <p>El daño adicional se aplica a todos los ataques, incluidos los @UUID[Compendium.swade-core-rules.swade-rules.swadecor05powers.JournalEntryPage.05powers00000000]{hechizos} y las armas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{efecto de área}.</p> <h3>Aplicando Daño</h3> <p>Si la tirada de daño es menor que la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Dureza} del objetivo, este se sobresalta pero no sufre un daño real. Si el daño es igual o mayor que la Dureza, el objetivo queda Aturdido.</p> <p>Por cada subida en la tirada de daño, el objetivo sufre una Herida.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "damage",
+        "additionalStats": {},
+        "favorite": false,
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {
+            "kEQsoJF9": {
+              "name": "Damage",
+              "type": "macro",
+              "dice": null,
+              "resourcesUsed": null,
+              "modifier": "",
+              "override": "",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.oM8eetppvx5qkjmO",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          }
+        },
+        "choiceSets": [],
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Damage"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.EYXIgOMg5UhRhpdC",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "_id": "I2HUxArWJcoql6H8",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Ataque Salvaje",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "wild-attack",
+        "description": "<p>A veces, un personaje desesperado puede querer lanzar la precaución por la borda y atacar con todo lo que tiene.</p>\n<p>Un Ataque Salvaje añade +2 a los ataques de @Compendium[swade-core-rules.swade-skills.Fighting]{Pelear} del personaje y a las tiradas de daño resultantes durante el turno, pero queda @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03distractedan00]{Vulnerable} hasta el final de su siguiente turno (no este).</p>\n<p>Los Ataques Salvajes se pueden usar con múltiples ataques, como los de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03multiactions00]{Multi-Acciones} o las Ventajas @Compendium[swade-core-rules.swade-edges.Frenzy]{Frenesí} y @Compendium[swade-core-rules.swade-edges.Sweep]{Barrido}.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "TJVZwF2f": {
+              "name": "Wild Attack",
+              "type": "macro",
+              "dice": null,
+              "resourcesUsed": null,
+              "modifier": "",
+              "override": "",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.v8cySGhuOqnol56P",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.EoSaEiH89P5Xi8He",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889012,
+        "modifiedTime": 1759664889012,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Wild Attack"
+        }
+      },
+      "_id": "G61TFWcaNB1u743O",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Desarmar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "disarm",
+        "description": "<p>Un personaje puede intentar hacer que un oponente suelte un arma (u otro objeto) o intentar dañarla, haciendo un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03attacks0000000]{ataque cuerpo a cuerpo o a distancia}.</p> <p>El atacante primero debe golpear el objeto o la extremidad o mano del oponente (ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03calledshots000]{Tiros Apuntados}</strong>)</p> <p>Si el ataque golpea el arma, el atacante tira el daño normally para un objeto (sin efecto de subida o Ases, ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03breakingthin00]{Romper Cosas}</strong>). El defensor debe hacer una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} igual al daño o soltar el objeto.</p> <p>Si el ataque es contra el portador y lo @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Aturde o Hiere}, el defensor debe hacer una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} a −2 si golpeó su extremidad, o −4 si golpeó su mano, más cualquier penalización por Herida que resulte como de costumbre. Un fallo significa que suelta cualquier objeto que tenga en esa mano.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "disarmLimb": {
+              "type": "resist",
+              "name": "Disarm Limb (Strength)",
+              "override": "Strength",
+              "modifier": "-2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "disarmHand": {
+              "type": "resist",
+              "name": "Disarm Hand (Strength)",
+              "override": "Strength",
+              "modifier": "-4",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.An9n5sDP9ldAWQmP",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Disarm"
+        }
+      },
+      "_id": "QmL98NuO5PyWlLiA",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Agarrar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "grapple",
+        "description": "<p>Agarrar es una tirada opuesta entre el @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} del atacante y el del defensor. Si el atacante gana, el enemigo queda Enredado. Con una subida, queda Atado. (El éxito en un enemigo que ya estaba Enredado lo deja Atado). Ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03boundandenta00]{Atado y Enredado}</strong>.</p> <p>Si un enemigo está Atado, el <em>agarrador</em> también es @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03distractedan00]{Vulnerable} mientras mantiene su agarre.</p> <p>La bonificación de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03gangingup00000]{Ganging Up} se aplica al agarrar a un defensor, pero otras maniobras no, a menos que el Director de Juego decida lo contrario en una situación específica.</p> <p><strong>El Tamaño Importa: </strong>Si hay una diferencia de Escala (ver @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Tamaño y Escala}) entre el atacante y el defensor, el agarrador resta la diferencia de su total (el defensor no).</p> <p>Las criaturas generalmente no pueden agarrar a un enemigo más de dos Tamaños más grande que ellas, a menos que tengan un alcance excepcional o   @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} para su Tamaño (a discreción del DJ).</p><p class=\"embedded-example\"><strong>Ejemplo: </strong>Un dragón (Enorme +4) intenta inmovilizar a un ladrón mediano (Normal). La diferencia entre las Escalas Enorme y Normal es 4, por lo que el dragón debe restar 4 de su tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo}.<br />Si un ogro (Normal) intenta luchar con un gran tiburón blanco (Grande +2), debe restar 2 de su tirada.</p> <p><strong>Apretar: </strong>Como acción, un agarrador puede hacer una tirada de Fuerza como daño contra un objetivo que tiene Enredado o Atado. (Esta es una tirada de daño, por lo que los Comodines no añaden un Dado Salvaje). El daño adicional por una subida en la tirada de agarre no se aplica.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "opposeGrapple": {
+              "type": "resist",
+              "name": "Oppose Grapple",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "crush": {
+              "type": "damage",
+              "name": "Crush",
+              "override": "@str",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Athletics",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.m2qelopR0MHxX1FG",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Grapple"
+        }
+      },
+      "_id": "8XrwOL2I65ehlJ2x",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Salto",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "jump",
+        "description": "<p>Los personajes pueden saltar 1\" (dos yardas) horizontalmente, o 0.5\" verticalmente como acción gratuita. Duplica estos números si el héroe puede correr al menos 2\" (cuatro yardas) antes del salto. Si el héroe lo desea, puede hacer una tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} como una acción para aumentar su distancia horizontal en 1\" (2\" con una subida), o la mitad de eso verticalmente. Saltar no permite a un personaje exceder su Paso total para el turno.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {},
+          "dmgMod": "",
+          "trait": "Athletics",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.gxg58JUxI1kL79sw",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Jump"
+        }
+      },
+      "_id": "i44CUvkOSbBf9IW7",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Fuego de Supresión",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "suppressive-fire",
+        "description": "<p>El Fuego de Supresión convierte un arma de fuego u otra arma de disparo rápido en @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{Ataques de Área de Efecto}. Cambia la precisión por una lluvia de munición para mantener las cabezas de los enemigos bajas.</p> <p>Un arma debe poder disparar al menos tan rápido como un revólver y no puede requerir recarga entre disparos.</p> <p>El Fuego de Supresión usa tres veces el número habitual de balas para su <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego}</strong> y siempre incurre en @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso} independientemente de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego} original del arma (la Ventaja @Compendium[swade-core-rules.swade-edges.Rock and Roll!]{Rock and Roll!}, los bípodes y los trípodes niegan el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso} como de costumbre).</p> <p>Para realizar el ataque, el tirador coloca una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{Plantilla de Explosión Mediana} sobre la mesa y hace una tirada de @Compendium[swade-core-rules.swade-skills.Shooting]{Disparar} (un solo dado de @Compendium[swade-core-rules.swade-skills.Shooting]{Disparar} independientemente de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02rateoffire0000]{Cadencia de Fuego}—la CdF entra en Bajas Máximas, a continuación). Calcula el @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02range000000000]{Alcance}, la @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03illumination00]{Iluminación}, el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03recoil00000000]{Retroceso}, etc., como de costumbre, hasta el centro de la plantilla.</p> <p>El éxito significa que el ataque golpea el área. Con una subida, el ataque es particularmente preciso y reduce a la mitad las penalizaciones por Cobertura (redondeando hacia abajo).</p> <p><strong>Bajas:</strong> Cualquier personaje tocado por la plantilla (amigo o enemigo) debe hacer una tirada de Espíritu. Aquellos que fallan quedan Aturdidos. Los Comodines que fallan también reciben el daño completo del arma. Los Extras que fallan reciben la mitad del daño del arma. El daño no puede As.</p> <p><strong>Bajas Máximas:</strong> El número máximo de bajas que un solo ataque de Fuego de Supresión puede infligir es igual a la Cadencia de Fuego del arma. Si hay más objetivos en la plantilla que la CdF del arma, el atacante elige a cuáles afectar.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {},
+          "dmgMod": "",
+          "trait": "Shooting",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.7jgUTRAhXFhYaJmp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Suppressive Fire"
+        }
+      },
+      "_id": "AdreGRh16ziAURcf",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Empujar",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "push",
+        "description": "<p>A veces, los personajes pueden querer empujar a un enemigo con la esperanza de sacarlo de su posición, dejarlo @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03prone000000000]{boca abajo}, o incluso lanzarlo a un @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{peligro} mortal.</p> <p>Empujar a un enemigo es una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{tirada opuesta} de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza}. Si el atacante tiene éxito, empuja al enemigo hasta 1\" (dos yardas). Con una subida, aumenta la distancia a 2\" (cuatro yardas). Duplica cualquiera de las distancias si la @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Escala} del atacante es mayor que la del enemigo.</p> <p>Un personaje que es empujado con éxito debe hacer una tirada de @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} (a −2 si el atacante obtuvo una subida) o ser derribado @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03prone000000000]{boca abajo}.</p> <p><strong>Corriendo:</strong> Si el atacante corrió al menos 2\" (cuatro yardas) antes del Empujón, añade +2 a su total.</p> <p><strong>El Tamaño Importa:</strong> Las criaturas generalmente no pueden Empujar a un enemigo más de dos @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Tamaños} más grandes que ellas, a menos que tengan una @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} excepcional para su Tamaño (a discreción del DJ).</p> <p><strong>Habilidad: </strong>El atacante o el defensor pueden tirar @Compendium[swade-core-rules.swade-skills.Athletics]{Atletismo} en lugar de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} si lo desean.</p> <p><strong>Escudos: </strong>Los atacantes y defensores con escudos añaden cualquier bonificación de Parada del escudo a sus totales.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "pushAth": {
+              "type": "trait",
+              "name": "Athletics",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "opposeStr": {
+              "type": "resist",
+              "name": "Oppose (Strength)",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "opposeAth": {
+              "type": "resist",
+              "name": "Oppose (Athletics)",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "noProne": {
+              "type": "resist",
+              "name": "Avoid Prone",
+              "override": "Athletics",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            },
+            "noProneRaise": {
+              "type": "resist",
+              "name": "Avoid Prone (raise)",
+              "override": "Athletics",
+              "modifier": "-2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Strength",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.oCur3DfT2ETIQ2WV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Push"
+        }
+      },
+      "_id": "ZQBnAXbP28bHTnYP",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Curación Natural",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Healing",
+        "swid": "natural-healing",
+        "description": "<p>Los personajes @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridos} hacen una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} cada cinco días. El éxito recupera una Herida, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} recupera dos.</p> <p>Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} aumenta el nivel de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} de la víctima en uno, ya sea por infección, pérdida de sangre o agravamiento de las lesiones. Si esto causa @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Incapacitación}, no uses las reglas habituales para recibir daño. En su lugar, la víctima entra y sale de la conciencia y hace una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} cada 12 horas. Si falla la tirada, muere. El éxito significa que debe volver a tirar 12 horas después. Con una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} se estabiliza y despierta. Los aliados también pueden intentar estabilizar al héroe como se explica en <strong>Desangrándose</strong>, arriba.</p> <p><strong>Apoyo: </strong>¡No olvides usar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03support0000000]{Apoyo} cuando tu grupo haya sido un poco golpeado. Los personajes con @Compendium[swade-core-rules.swade-skills.Healing]{Medicina}, @Compendium[swade-core-rules.swade-skills.Survival]{Supervivencia} u otras habilidades pueden hacer tiradas de Apoyo para ayudar a los aliados a hacer sus tiradas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Vigor} para curarse!</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "heal": {
+              "type": "macro",
+              "name": "Heal Self",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.Q2jSI3bMuJZVRmnx",
+              "macroActor": "self",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Vigor",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.YVraD4ql4093i6rV",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Natural Healing"
+        }
+      },
+      "_id": "FXKgUnxfPfxp4Syv",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Curar Heridas",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Healing",
+        "swid": "healing",
+        "description": "<p>La habilidada de @Compendium[swade-core-rules.swade-skills.Healing]{Medicina} se usa para eliminar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas}. Cada intento requiere 10 minutos por nivel de herida del paciente. Resta 1 a las tiradas de Medicina sin un botiquín de primeros auxilios básico o suministros similares.</p> <p>Un éxito elimina una Herida, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} elimina dos. Un fallo significa que no se eliminan Heridas. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} <em>aumenta</em> el nivel de Herida de la víctima en uno.</p> <aside class=\"the-golden-hour\"> <h2>La Hora Dorada</h2> <p>Los pacientes que sobreviven a su trauma inicial tienen aproximadamente una hora para sobrevivir a la mayoría de las lesiones que amenazan la vida. Si reciben atención médica durante ese tiempo, generalmente pueden ser salvados. Sin embargo, cuanto más larga sea la espera, más probable es que las @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} sean fatales.</p> <p>En <cite>Savage Worlds</cite>, extendemos este concepto a la curación en general. Además de reflejar el concepto del mundo real, también proporciona un buen equilibrio de juego y drama, ya que el grupo tiene que decidir si seguir adelante a pesar de sus heridas.</p> </aside> <p><strong>La Hora Dorada: </strong>Un personaje solo puede intentar curar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} en un paciente una vez dentro de la hora en que fueron sufridas. Fallar la tirada significa que el sanador no puede tratar esas lesiones en particular. Sin embargo, un personaje <em>diferente</em> puede intentar una tirada de @Compendium[swade-core-rules.swade-skills.Healing]{Medicina} en el mismo paciente.</p> <p>Una vez que las @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} tienen más de una hora, solo se pueden curar con curación natural o con el poder de <em>curación mayor</em>.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "heal": {
+              "type": "macro",
+              "name": "Heal Selected",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.Q2jSI3bMuJZVRmnx",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Healing",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": true,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.169yyrjFMEmIynUz",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Treat Wounds"
+        }
+      },
+      "_id": "ji5Hb7kTWAFwpOPL",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Red de Contactos (Método Amable)",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Adventure Toolkit",
+        "swid": "network-persuasion",
+        "description": "<p>Los personajes usan @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión} para socializar dentro de sus diversos círculos sociales en busca de información o favores. Cuando se usa de esta manera, la Persuasión no es un solo intercambio, sino varias horas de establecer contactos, codearse, parrandear, tomar copas, hacer regalos, sobornar o entretener. Esto podría representar tiempo en la oficina, una serie de reuniones con personas importantes o (más comúnmente) una noche de cena y copas.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Éxito} otorga la mayor parte de lo que el personaje quiere, aunque puede llevar un tiempo, costar algo de dinero o requerir un favor a cambio. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} obtiene más de lo que buscaba, o a un costo menor.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Fallo} significa que los esfuerzos del héroe son en vano. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} significa que queda excluido de ese grupo en particular por un tiempo (a discreción del DJ, pero generalmente alrededor de una semana).</p> <p><strong>El Dinero Habla:</strong> Se atrapan más moscas con miel que con vinagre, dice el refrán. Un personaje con un poco de dinero para repartir añade +2 a su intento de establecer contactos gastando dinero en mejores sobornos, regalos o agasajando a sus contactos con vino y cena.</p> <p>La cantidad requerida depende del DJ, el entorno y la naturaleza del contacto(s) con el que interactúa. Como regla general, usa los Fondos Iniciales del entorno y modifica según corresponda a partir de ahí.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "moneyTalks": {
+              "type": "trait",
+              "name": "Money Talks",
+              "modifier": "+2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Persuasion",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.TluD4qIwifJGpyZp",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Network (The Nice Way)"
+        }
+      },
+      "_id": "nG3hpZJBWuxF0c1B",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Red de Contactos (Método Duro)",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Adventure Toolkit",
+        "swid": "network-intimidation",
+        "description": "<p>@Compendium[swade-core-rules.swade-skills.Intimidation]{Intimidación} también se puede usar para reunir información, pedir favores o hacer demandas, pero es un poco menos agradable.</p> <p>Cada intento de “trabajar las calles” lleva varias horas de amenazas y desagrados generales, buscando en la población local lo que el héroe necesite.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Éxito} le otorga al personaje la mayor parte de lo que quiere, aunque sus víctimas podrían decidir vengarse más tarde. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} significa que obtiene más información, la obtiene más rápido, o sus víctimas están demasiado asustadas o preocupadas para planear una venganza.</p> <p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Fallo} significa que el matón no obtiene nada útil. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} significa que termina la noche con un labio partido, un ojo morado o una nariz rota (ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04bumpsandbrui00]{Golpes y Moretones}</strong>). Puede volver a trabajar con sus contactos al día siguiente, ¡pero es más probable que esta vez lo estén esperando!</p> <p><strong>Rompiendo Cabezas:</strong> El matón puede mejorar sus probabilidades siendo más violento o extremo de lo habitual. Esto aleja a sus contactos durante una semana pero añade +2 a la tirada.</p> <p>Esto también aumenta las apuestas. Un simple fallo significa que la noche termina con <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04bumpsandbrui00]{Golpes y Moretones}</strong>, y una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} conlleva consecuencias más serias. El DJ podría desglosar la acción en un encuentro real, una Tarea Dramática, o simplemente decidir que el matón es golpeado y dejado en un callejón con una Herida.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "bustingHeads": {
+              "type": "trait",
+              "name": "Busting Heads",
+              "modifier": "+2",
+              "uuid": null,
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "Intimidation",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.DYz0dETXIBE02wz4",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Network (The Not-So-Nice Way)"
+        }
+      },
+      "_id": "tAT7FjXH5XoDfvtD",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Daño",
+      "type": "action",
+      "img": "systems/swade/assets/icons/action.svg",
+      "system": {
+        "description": "<p>Después de un golpe exitoso cuerpo a cuerpo o a distancia, el atacante tira el daño. Las armas a distancia hacen un daño fijo como se indica en la sección @UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02gearnotes00000]{Equipo}. Las mayoría de las pistolas, por ejemplo, causan 2d6 de daño.</p> <p>Las armas de mano causan un daño igual al dado de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} del atacante más un segundo dado, que depende del arma. Un bárbaro con una Fuerza de d12 y una espada larga (d8 de daño) tira d12+d8 de daño.</p> <p>Aunque la Fuerza se usa para determinar el daño cuerpo a cuerpo, esto no es una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Rasgo}, por lo que los @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03wildcardsand00]{Comodines} no añaden un Dado Salvaje a la tirada.</p> <p>Todas las tiradas de daño pueden As.</p> <p><strong>Daño sin armas: </strong>Un combatiente sin armas tira solo su dado de Fuerza a menos que tenga una @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01edges000000000]{Ventaja} como <strong>@Compendium[swade-core-rules.swade-edges.Brawler]{Matón} </strong>o <strong>@Compendium[swade-core-rules.swade-edges.Martial Artist]{Artista Marcial}</strong> que le otorgue un dado de daño.</p> <h3>Daño Adicional</h3> <p>Los ataques bien colocados tienen más probabilidades de golpear áreas vitales y, por lo tanto, hacen más daño. Si tu héroe obtiene una subida en su tirada de ataque (independientemente de cuántas subidas), añade +1d6 al total final. ¡Los dados de bonificación también pueden As!</p> <p>El daño adicional se aplica a todos los ataques, incluidos los @UUID[Compendium.swade-core-rules.swade-rules.swadecor05powers.JournalEntryPage.05powers00000000]{hechizos} y las armas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03areaeffectat00]{efecto de área}.</p> <h3>Aplicando Daño</h3> <p>Si la tirada de daño es menor que la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Dureza} del objetivo, este se sobresalta pero no sufre un daño real. Si el daño es igual o mayor que la Dureza, el objetivo queda Aturdido.</p> <p>Por cada subida en la tirada de daño, el objetivo sufre una Herida.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "damage",
+        "additionalStats": {},
+        "favorite": false,
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {
+            "kEQsoJF9": {
+              "name": "Damage",
+              "type": "macro",
+              "dice": null,
+              "resourcesUsed": null,
+              "modifier": "",
+              "override": "",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.oM8eetppvx5qkjmO",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          }
+        },
+        "choiceSets": [],
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "effects": [],
+      "folder": null,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Damage"
+        }
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.EYXIgOMg5UhRhpdC",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "_id": "bzLmIoo4GpJidNY1",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "effects": [],
+      "folder": null,
+      "img": "systems/swade/assets/icons/action.svg",
+      "name": "Ataque Salvaje",
+      "type": "action",
+      "system": {
+        "source": "SWADE Core Rules",
+        "category": "Situational Rules",
+        "swid": "wild-attack",
+        "description": "<p>A veces, un personaje desesperado puede querer lanzar la precaución por la borda y atacar con todo lo que tiene.</p>\n<p>Un Ataque Salvaje añade +2 a los ataques de @Compendium[swade-core-rules.swade-skills.Fighting]{Pelear} del personaje y a las tiradas de daño resultantes durante el turno, pero queda @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03distractedan00]{Vulnerable} hasta el final de su siguiente turno (no este).</p>\n<p>Los Ataques Salvajes se pueden usar con múltiples ataques, como los de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03multiactions00]{Multi-Acciones} o las Ventajas @Compendium[swade-core-rules.swade-edges.Frenzy]{Frenesí} y @Compendium[swade-core-rules.swade-edges.Sweep]{Barrido}.</p>",
+        "notes": "",
+        "actions": {
+          "additional": {
+            "TJVZwF2f": {
+              "name": "Wild Attack",
+              "type": "macro",
+              "dice": null,
+              "resourcesUsed": null,
+              "modifier": "",
+              "override": "",
+              "uuid": "Compendium.swade-core-rules.swade-macros.Macro.v8cySGhuOqnol56P",
+              "macroActor": "default",
+              "isHeavyWeapon": false
+            }
+          },
+          "dmgMod": "",
+          "trait": "",
+          "traitMod": ""
+        },
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "hidden": false
+      },
+      "_stats": {
+        "compendiumSource": "Compendium.swade-core-rules.swade-actions.Item.EoSaEiH89P5Xi8He",
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "createdTime": 1759664889317,
+        "modifiedTime": 1759664889317,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+      },
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Wild Attack"
+        }
+      },
+      "_id": "obmmyyuqvWJsHPNS",
+      "sort": 0,
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "prototypeToken": {
+    "displayName": 0,
+    "disposition": 1,
+    "width": 1,
+    "height": 1,
+    "sight": {
+      "enabled": false,
+      "range": 30,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Marcos Villar",
+    "actorLink": true,
+    "texture": {
+      "src": "tokenizer/pc-images/marcos_villar.Token.webp?1759666777667",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "flags": {
+    "importerApp": {
+      "app": "SWADE Stat Block Importer",
+      "id": "swade-npc-importer",
+      "appVersion": "0.5.0",
+      "importDate": "2025-10-05T11:48:08.005Z"
+    }
+  },
+  "img": "tokenizer/pc-images/marcos_villar.Avatar.webp?1759666777667",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "arcadia",
+      "uuid": "Actor.y3T3fve9rAIBWir7",
+      "coreVersion": "13.350",
+      "systemId": "swade",
+      "systemVersion": "5.0.7"
+    },
+    "coreVersion": "13.350",
+    "systemId": "swade",
+    "systemVersion": "5.0.6",
+    "createdTime": 1759664888089,
+    "modifiedTime": 1761502070511,
+    "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

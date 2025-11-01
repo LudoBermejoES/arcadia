@@ -1,7 +1,7 @@
 {
-  "name": "Ana Flores",
+  "name": "Dolores Sánchez",
   "type": "npc",
-  "folder": "aFj6gXyrs507xBed",
+  "folder": "oqsszYNSiTv46ZyA",
   "system": {
     "attributes": {
       "agility": {
@@ -25,10 +25,10 @@
       },
       "spirit": {
         "die": {
-          "sides": 8,
+          "sides": 10,
           "modifier": 0
         },
-        "unShakeBonus": 2,
+        "unShakeBonus": 0,
         "wild-die": {
           "sides": 6
         }
@@ -45,7 +45,7 @@
       },
       "vigor": {
         "die": {
-          "sides": 8,
+          "sides": 6,
           "modifier": 0
         },
         "wild-die": {
@@ -61,12 +61,12 @@
     },
     "stats": {
       "toughness": {
-        "value": 7,
+        "value": 5,
         "modifier": 0,
-        "armor": 1
+        "armor": 0
       },
       "parry": {
-        "value": 6,
+        "value": 2,
         "shield": 0,
         "modifier": 0
       },
@@ -75,11 +75,11 @@
     },
     "details": {
       "biography": {
-        "value": "Ana Flores Guardia de seguridad pragmática, ex-policía de Arcadia.<br /> Hace su trabajo eficientemente sin crueldad innecesaria.<br />"
+        "value": "<p>Maquilladora y preparadora de cadáveres con 15 años de experiencia. Llegó a Arcadia en 2010, justo cuando \"La Familia\" empezaba a operar. Desde entonces ha tratado con todo tipo de cadáveres, incluyendo cadáveres de metahumanos de lo más variopinto</p>"
       },
       "autoCalcToughness": false,
       "autoCalcParry": true,
-      "archetype": "Guardia De Seguridad (34 Años)",
+      "archetype": "Thanatopractor",
       "appearance": "",
       "notes": "",
       "goals": "",
@@ -104,7 +104,7 @@
       }
     },
     "wounds": {
-      "max": 0,
+      "max": 3,
       "ignored": 0,
       "value": 0
     },
@@ -115,7 +115,7 @@
       "hasQuick": false,
       "follow": ""
     },
-    "wildcard": false,
+    "wildcard": true,
     "additionalStats": {
       "chi": {
         "label": "Chi",
@@ -124,8 +124,8 @@
       }
     },
     "bennies": {
-      "value": 0,
-      "max": 0
+      "value": 2,
+      "max": 2
     },
     "pace": {
       "base": "ground",
@@ -184,6 +184,51 @@
   },
   "items": [
     {
+      "name": "Humanidades",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/graduate-cap.svg",
+      "system": {
+        "description": "<p>Humanidades refleja el conocimiento de las artes liberales, las ciencias sociales, la literatura, la historia, la arqueología y campos similares. Si un explorador quiere recordar cuándo terminó el calendario maya o citar una línea de <cite>Macbeth</cite>, esta es la habilidad que debe tener.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "academics",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Academics"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "kzmzQCxFLvpTpDAy",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
       "name": "Atletismo",
       "type": "skill",
       "img": "systems/swade/assets/icons/skills/jump-across.svg",
@@ -195,7 +240,7 @@
         "additionalStats": {},
         "choiceSets": [],
         "die": {
-          "sides": 8,
+          "sides": 4,
           "modifier": 0
         },
         "wild-die": {
@@ -216,13 +261,13 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "FX1plOcCvIiLZlgz",
+      "_id": "E1j71rkKXiQXPo1t",
       "folder": null,
       "ownership": {
         "default": 0
@@ -240,7 +285,7 @@
         "additionalStats": {},
         "choiceSets": [],
         "die": {
-          "sides": 6,
+          "sides": 8,
           "modifier": 0
         },
         "wild-die": {
@@ -261,37 +306,37 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "ST5XWjiPZDrpDwRX",
+      "_id": "kwCBerbydkWuzQNU",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Pelear",
+      "name": "Medicina",
       "type": "skill",
-      "img": "systems/swade/assets/icons/skills/punch.svg",
+      "img": "systems/swade/assets/icons/skills/medical-pack.svg",
       "system": {
-        "description": "<p>Pelear cubre todos los ataques cuerpo a cuerpo, ya sea con puños, hachas, espadas láser o artes marciales. Consulta el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{Capítulo Tres} para las reglas de combate y las diversas maniobras que un guerrero podría intentar.</p>",
+        "description": "<p>Esta habilidad tiene numerosos usos, que van desde tratar @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas} a diagnosticar enfermedades o analizar ciertos tipos de pruebas forenses.</p>\n<p>Consulta @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03healing0000000]{Curación} para las reglas sobre reparar y tratar @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03damageeffect00]{Heridas}, y @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{Peligros} para el tratamiento de enfermedades o venenos.</p>\n<p><strong>Medicina Forense: </strong>La habilidad de Medicina también se puede usar para analizar evidencia relacionada con trauma anatómico, incluyendo causa y hora de muerte, ángulo de ataque y asuntos similares. El @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} proporciona información básica y una @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{subida} aumenta los detalles descubiertos.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "fighting",
+        "swid": "healing",
         "additionalStats": {},
         "choiceSets": [],
         "die": {
-          "sides": 8,
+          "sides": 10,
           "modifier": 0
         },
         "wild-die": {
           "sides": 6
         },
-        "attribute": "agility",
+        "attribute": "smarts",
         "isCoreSkill": false
       },
       "sort": 0,
@@ -299,59 +344,20 @@
         "babele": {
           "translated": true,
           "hasTranslation": true,
-          "originalName": "Fighting"
+          "originalName": "Healing"
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "3OJO4aH85zGXNP2k",
-      "folder": null,
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "name": "Intimidation",
-      "type": "skill",
-      "img": "systems/swade/assets/icons/skills/arrest.svg",
-      "system": {
-        "description": "<p>Intimidation is the art of frightening an opponent so that he backs down, reveals information, or flees.</p>\n<p>Intimidation is an @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{opposed roll} resisted by the opponent’s @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Spirit}. In combat, this is a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03test0000000000]{Test}. Out of combat, a successful roll means the foe backs down for the most part, reveals some information, or slinks away when the opportunity presents itself.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{raise} might mean he backs down for the remainder of the scene, spills all the beans, or runs away as fast as he can.</p>\n<p>In or out of combat, a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} means the target is immune to this character’s Intimidation attempts for the remainder of this encounter!</p>\n<p><strong>Networking:</strong> Intimidation can also be used as a “macro” skill to simulate several hours of working the streets. See @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Networking} to see how to crack some heads for favors or information.</p>",
-        "notes": "",
-        "source": "SWADE Core Rules",
-        "swid": "intimidation",
-        "additionalStats": {},
-        "choiceSets": [],
-        "die": {
-          "sides": 8,
-          "modifier": 0
-        },
-        "wild-die": {
-          "sides": 6
-        },
-        "attribute": "spirit",
-        "isCoreSkill": false
-      },
-      "sort": 0,
-      "flags": {},
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "effects": [],
-      "_id": "VUbZq2w3FK1zUNto",
+      "_id": "yol97M999q6MqGUQ",
       "folder": null,
       "ownership": {
         "default": 0
@@ -390,37 +396,82 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "C1joTyoWRqZ9aKpx",
+      "_id": "UmAK3IQeNHST9A73",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Shooting",
+      "name": "Persuadir",
       "type": "skill",
-      "img": "systems/swade/assets/icons/skills/crosshair.svg",
+      "img": "systems/swade/assets/icons/skills/convince.svg",
       "system": {
-        "description": "<p>Shooting covers all attempts to hit a target with a ranged weapon such as a bow, pistol, or rocket launcher (thrown weapons use @Compendium[swade-core-rules.swade-skills.Athletics]{Athletics}). See @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{Chapter Three} for details on ranged combat.</p>",
+        "description": "<p>Persuadir es la habilidad de convencer a otros para que hagan lo que quieres a través de la razón, el halago, el engaño, las recompensas u otros medios amistosos. Persuadir no es control mental. Puede cambiar la actitud de alguien, pero no sus objetivos. Un bandido puede dejarte conservar una joya sentimental con una buena tirada de Persuadir, pero aun así se llevará todos tus otros bienes.</p>\n<p>Cuando se usa para @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03support0000000]{Apoyar} a los aliados, es una tirada sin oposición. Si el objetivo es resistente, es una tirada opuesta contra el @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Espíritu} del objetivo. El DJ debe modificar la tirada como considere oportuno basándose en la interpretación, cualquier @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01edges000000000]{Ventaja} o @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01hindrances0000]{Desventaja} pertinente que afecte a la conversación y las circunstancias.</p>\n<p><strong>Nivel de Reacción:</strong> La disposición de una persona a cooperar depende en gran medida de su actitud hacia quien le habla. El Director de Juego puede decidir cómo se sienten los personajes no jugadores basándose en el entorno, o tirar en la @Compendium[swade-core-rules.swade-tables.Reaction Table]{Tabla de Reacciones} si no tiene ideas preconcebidas.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} mejora la actitud del objetivo en un nivel y una subida la mejora en dos. Generalmente no es posible lograr más aumentos en el mismo encuentro; a los individuos les lleva un poco de tiempo ajustar sus prejuicios.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{fallo} significa que el objetivo no cambiará de opinión en esta escena o hasta que la situación cambie de alguna manera importante. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} empeora la actitud del objetivo en dos niveles (a un mínimo de Hostil).</p>\n<p><strong>Red de Contactos:</strong> Persuasión también se puede usar como una habilidad “macro” para simular varias horas de socialización. Consulta @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Red de Contactos} para ver cómo usar tus encantos para obtener favores o información.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "shooting",
+        "swid": "persuasion",
         "additionalStats": {},
         "choiceSets": [],
         "die": {
-          "sides": 10,
+          "sides": 8,
           "modifier": 0
         },
         "wild-die": {
           "sides": 6
         },
-        "attribute": "agility",
+        "attribute": "spirit",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Persuasion"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "Mm7INVYJ63AhERCJ",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Research",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/archive-research.svg",
+      "system": {
+        "description": "<p>A character skilled in Research knows how to make good use of libraries, newspaper morgues, the internet, or other written sources of information.</p>\n<p>The amount of time this takes is up to the GM and the situation. Finding something on the internet or a specific passage in a book might be possible in a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{combat round}. Looking through books in a library, searching the internet for a complex topic, or digging up background information on an individual usually takes about an hour.</p>\n<p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Success} finds basic information and a raise provides more detail. @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{Failure} means the researcher doesn’t find what she’s looking for.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} might mean the researcher finds plausible but incorrect information, triggers the notice of some opposed entity or faction, reads something “Humanity Was Not Meant to Know” and suffers a mental illness of some sort (a Minor @Compendium[swade-core-rules.swade-hindrances.Phobia]{Phobia}, @Compendium[swade-core-rules.swade-hindrances.Quirk]{Quirk}, etc.), or she might even accidentally destroy the source. The GM is encouraged to be creative when such a mishap occurs, perhaps forcing the party to approach the situation in a different way.</p>\n<p><strong>Related Skills: </strong>If a character has a skill that relates directly to the subject he’s researching, he can use that instead of Research. An explorer with @Compendium[swade-core-rules.swade-skills.Occult]{Occult} d10 and Research d6, for example, rolls a d10 when investigating vampire lore at a forgotten library. If he later goes to search for the deed to a house where the vampires are rumored to lair, he rolls his normal Research instead.</p>\n<p><strong>Note: </strong>Research may only provide the clues, especially in a mystery-heavy game. Putting the clues together from the information gathered is up to the players.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "research",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
         "isCoreSkill": false
       },
       "sort": 0,
@@ -429,70 +480,76 @@
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "lwSiOAtFD4ksspIA",
+      "_id": "bg4x7bqtCjO52sMI",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
+      "name": "Sigilo",
       "type": "skill",
-      "name": "Streetwise",
-      "img": "systems/swade/assets/icons/skill.svg",
+      "img": "systems/swade/assets/icons/skills/hidden.svg",
       "system": {
-        "description": "",
+        "description": "<p>Stealth is the ability to hide and move quietly. A simple @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{success} on a Stealth roll means the character avoids detection if enemies aren’t particularly alert. If the character @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{fails} the roll, the enemy realizes something is amiss and begins actively searching for whatever roused them.</p>\n<p>Once foes are alerted and active, Stealth is opposed by @Compendium[swade-core-rules.swade-skills.Notice]{Notice} (a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{group roll} if there are many foes.</p>\n<p>The GM should apply any circumstantial penalties to @Compendium[swade-core-rules.swade-skills.Notice]{Notice} rolls for @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03illumination00]{darkness}, @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03coverandobst00]{cover}, noise, distractions, and any difference in the target’s @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Scale} (just like when attacking). Sneaking through dry leaves might subtract 2 from the Stealth roll, for example, while spotting someone in the dark uses the @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03illumination00]{Illumination} penalty (−4). Don’t apply the same modifier to both rolls, however. If Stealth is at −2 for the leaves, don’t give Notice a +2 for them as well.</p>\n<p><strong>Sneak Attack: </strong> Sneaking up close enough to make a melee attack <em>always</em> requires an @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{opposed} Stealth roll versus the target’s @Compendium[swade-core-rules.swade-skills.Notice]{Notice}, whether the guard is actively looking for trouble or not. If successful, the victim is @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03distractedan00]{Vulnerable} to the attacker, but only until the attacker’s turn ends. With a raise, the attacker has @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03thedrop0000000]{The Drop} instead.</p>\n<p><strong>Movement:</strong> In combat, characters roll Stealth each turn as a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03actions0000000]{free action} at the end of their move or any action the GM thinks might draw attention.</p>\n<p>Out of combat, the distance moved depends entirely on the situation. The GM might want a roll every minute if the group is sneaking around the perimeter of a defensive position, or every few miles if they’re trying to quietly walk the path through a dark forest without alerting the creatures that live there.</p>",
         "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "stealth",
         "additionalStats": {},
-        "attribute": "",
-        "isCoreSkill": false,
+        "choiceSets": [],
         "die": {
-          "sides": 8,
+          "sides": 6,
           "modifier": 0
         },
-        "source": "",
-        "swid": "none",
-        "choiceSets": [],
         "wild-die": {
           "sides": 6
+        },
+        "attribute": "agility",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Stealth"
         }
       },
-      "effects": [],
-      "flags": {},
-      "_id": "MniKlu6v3odSdwji",
-      "folder": null,
-      "sort": 0,
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
+      "effects": [],
+      "_id": "GDhpPoQngnZEs6xQ",
+      "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Alerta",
+      "name": "Curandero",
       "type": "edge",
       "img": "systems/swade/assets/icons/edge.svg",
       "system": {
-        "description": "<p>A este héroe no se le escapa mucho. Es muy observador y perceptivo, y añade +2 a sus tiradas de @Compendium[swade-core-rules.swade-skills.Notice]{Notar} para oír, ver o percibir de otro modo el mundo que le rodea.</p>",
+        "description": "<p>Un héroe con esta Ventaja añade +2 a todas las tiradas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03healing0000000]{Curación}, ya sean de naturaleza natural o mágica.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "alertness",
+        "swid": "healer",
         "additionalStats": {},
         "choiceSets": [],
         "favorite": false,
-        "category": "Background",
+        "category": "Weird",
         "grants": [],
         "isArcaneBackground": false,
         "requirements": [
@@ -512,23 +569,133 @@
         "babele": {
           "translated": true,
           "hasTranslation": true,
-          "originalName": "Alertness"
+          "originalName": "Healer"
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [
         {
-          "_id": "ABtO3YvOlRpVCogF",
-          "name": "Alertness",
+          "_id": "hWEu2pgoT4yCDxiO",
+          "name": "Healer",
           "changes": [
+            {
+              "key": "@Skill{Healing}[system.die.modifier]",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<p>A hero with this Edge adds +2 to all @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03healing0000000]{Healing} rolls, whether natural or magical in nature.</p>",
+          "flags": {
+            "swade": {},
+            "sigil": {
+              "completed": true
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.348",
+            "systemId": "swade",
+            "systemVersion": "5.0.6",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/edge.svg",
+          "type": "base",
+          "system": {
+            "conditionalEffect": false,
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false
+          },
+          "origin": null,
+          "statuses": [],
+          "sort": 0
+        }
+      ],
+      "_id": "55qlUH12cQmovuDk",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Investigador",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Los investigadores pasan una gran cantidad de tiempo investigando leyendas antiguas, trabajando en las calles o deduciendo misterios diabólicos. Algunos de estos héroes son investigadores privados reales, mientras que otros son magos detectives en un mundo de fantasía o profesores universitarios curiosos que se topan con Cosas que el Hombre no Estaba Destinado a Saber.</p>\n<p>Los investigadores añaden +2 a las tiradas de @Compendium[swade-core-rules.swade-skills.Research]{Investigar} y a las tiradas de @Compendium[swade-core-rules.swade-skills.Notice]{Notar} hechas para buscar documentos importantes en escritorios, revisar montones de correo basura en busca de algo de interés o espiar objetos ocultos entre montones de basura o escombros.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "investigator",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Professional",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Investigator"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "Ruqr6NxiggWbdyQq",
+          "name": "Investigator",
+          "changes": [
+            {
+              "key": "@Skill{Research}[system.die.modifier]",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            },
             {
               "key": "@Skill{Notice}[system.die.modifier]",
               "mode": 2,
@@ -548,7 +715,7 @@
           },
           "tint": "#ffffff",
           "transfer": true,
-          "description": "<p>Not much gets by this hero. He’s very observant and perceptive, and adds +2 to his @Compendium[swade-core-rules.swade-skills.Notice]{Notice} rolls to hear, see, or otherwise sense the world around him.</p>",
+          "description": "<p>Investigators spend a great deal of time researching ancient legends, working the streets, or deducing devilish mysteries. Some of these heroes are actual private investigators while others are sleuthing mages in a fantasy world or inquisitive college professors stumbling upon Things Man Was Not Meant to Know.</p>\n<p>Investigators add +2 to @Compendium[swade-core-rules.swade-skills.Research]{Research} rolls and @Compendium[swade-core-rules.swade-skills.Notice]{Notice} rolls made to search through desks for important papers, sift through stacks of junk mail for something of note, or spy obscured items from piles of junk or debris</p>",
           "flags": {
             "swade": {},
             "sigil": {
@@ -559,15 +726,15 @@
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.350",
+            "coreVersion": "13.348",
             "systemId": "swade",
-            "systemVersion": "5.0.7",
+            "systemVersion": "5.0.6",
             "lastModifiedBy": null
           },
           "img": "systems/swade/assets/icons/edge.svg",
           "type": "base",
           "system": {
-            "conditionalEffect": false,
+            "conditionalEffect": true,
             "removeEffect": false,
             "expiration": null,
             "loseTurnOnHold": false,
@@ -578,25 +745,25 @@
           "sort": 0
         }
       ],
-      "_id": "50p26yviQr98jU7P",
+      "_id": "8vTEn1ECRZS0skMv",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Reflejos De Combate",
+      "name": "Fuerza De Voluntad",
       "type": "edge",
       "img": "systems/swade/assets/icons/edge.svg",
       "system": {
-        "description": "<p>Tu guerrero se recupera rápidamente del shock y el trauma. Añade +2 a sus tiradas al intentar recuperarse de estar @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03damageeffect00]{Aturdido} o @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03stunned0000000]{Conmocionado}.</p>",
+        "description": "<p>La confianza en uno mismo es una poderosa armadura contra aquellos que intentan atacar la voluntad de este individuo. Añade +2 a su total al resistir @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03test0000000000]{Pruebas} con @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Astucia} o @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Espíritu}.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "combat-reflexes",
+        "swid": "strong-willed",
         "additionalStats": {},
         "choiceSets": [],
         "favorite": false,
-        "category": "Combat",
+        "category": "Social",
         "grants": [],
         "isArcaneBackground": false,
         "requirements": [
@@ -616,31 +783,31 @@
         "babele": {
           "translated": true,
           "hasTranslation": true,
-          "originalName": "Combat Reflexes"
+          "originalName": "Strong Willed"
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [
         {
-          "_id": "Yo4QABeieRwTm0H7",
-          "name": "Combat Reflexes",
+          "_id": "WYxDKHdh40NGDHFd",
+          "name": "Strong Willed",
           "changes": [
             {
-              "key": "system.attributes.vigor.unStunBonus",
+              "key": "system.attributes.smarts.die.modifier",
               "mode": 2,
               "value": "2",
               "priority": null
             },
             {
-              "key": "system.attributes.spirit.unShakeBonus",
+              "key": "system.attributes.spirit.die.modifier",
               "mode": 2,
               "value": "2",
               "priority": null
@@ -656,100 +823,59 @@
             "startRound": null,
             "startTurn": null
           },
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<p>Self-confidence is powerful armor against those who attempt to attack this individual’s will. He adds +2 to his total when resisting @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03test0000000000]{Tests} with @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Smarts} or @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Spirit}.</p>",
           "flags": {
+            "swade": {},
             "sigil": {
               "completed": true
             }
           },
-          "tint": "#ffffff",
-          "transfer": true,
-          "description": "<p>Your warrior recovers quickly from shock and trauma. He adds +2 to his rolls when attempting to recover from being @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03damageeffect00]{Shaken} or @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03stunned0000000]{Stunned}</p>",
           "_stats": {
             "compendiumSource": null,
             "duplicateSource": null,
             "exportSource": null,
-            "coreVersion": "13.350",
+            "coreVersion": "13.348",
             "systemId": "swade",
-            "systemVersion": "5.0.7",
+            "systemVersion": "5.0.6",
             "lastModifiedBy": null
           },
-          "img": "systems/swade/assets/icons/ability.svg",
+          "img": "systems/swade/assets/icons/edge.svg",
           "type": "base",
           "system": {
+            "conditionalEffect": true,
             "removeEffect": false,
             "expiration": null,
             "loseTurnOnHold": false,
-            "favorite": false,
-            "conditionalEffect": false
+            "favorite": false
           },
           "origin": null,
           "statuses": [],
           "sort": 0
         }
       ],
-      "_id": "jJo49Az7o82p80oi",
+      "_id": "exRbQ178p1nBHzBY",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "type": "edge",
-      "name": "Steady Hands",
-      "img": "systems/swade/assets/icons/edge.svg",
-      "system": {
-        "description": "",
-        "notes": "",
-        "additionalStats": {},
-        "isArcaneBackground": false,
-        "requirements": [
-          {
-            "type": "rank",
-            "value": 0,
-            "selector": "",
-            "combinator": "and"
-          }
-        ],
-        "source": "",
-        "swid": "none",
-        "choiceSets": [],
-        "favorite": false,
-        "category": "",
-        "grants": []
-      },
-      "effects": [],
-      "flags": {},
-      "_id": "GZB2VEC7nMBVlR0r",
-      "folder": null,
-      "sort": 0,
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "name": "Hábito",
+      "name": "Curioso",
       "type": "hindrance",
       "img": "systems/swade/assets/icons/hindrance.svg",
       "system": {
-        "description": "<p>(MENOR O MAYOR)</p>\n<p>Tu guerrero tiene una compulsión molesta o peligrosa. Un Hábito @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Menor} irrita a quienes la rodean pero no es peligroso. Quizás se hurgue la nariz, no pueda dejar de juguetear con su teléfono, diga ‘¿sabes?’ en medio de cada frase, o mastique y haga sonar su chicle ruidosamente y con frecuencia. Los aliados la evitan si es posible.</p>\n<p>Un Hábito @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Mayor} es una adicción física o mental de algún tipo que es debilitante o posiblemente incluso mortal. Esto incluye el consumo de drogas, el alcoholismo crónico o quizás incluso una adicción a la realidad virtual en un entorno de alta tecnología.</p>\n<p>Un adicto que no consigue su dosis debe hacer una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Vigor} cada 24 horas que pase sin ella o sufrir un nivel de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03fatigue0000000]{Fatiga}.</p>\n<p>Una vez cada 24 horas, una tirada de @Compendium[swade-core-rules.swade-skills.Healing]{Medicina} con algún tipo de medicamento apropiado elimina un nivel de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03fatigue0000000]{Fatiga} durante cuatro horas. Después de eso, la Fatiga regresa y solo puede recuperarse con la sustancia adictiva.</p>",
+        "description": "<p>Mató al gato, y también podría matar a tu guerrero. Los personajes curiosos tienen que investigar todo y siempre quieren saber qué hay detrás de un posible misterio o secreto.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "habit",
+        "swid": "curious",
         "additionalStats": {},
         "choiceSets": [],
         "favorite": false,
         "grants": [],
-        "severity": "either",
-        "major": false
+        "severity": "major",
+        "major": true
       },
       "sort": 0,
       "flags": {
@@ -759,34 +885,34 @@
         "babele": {
           "translated": true,
           "hasTranslation": true,
-          "originalName": "Habit"
+          "originalName": "Curious"
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "SuyE12qWKx9Eltby",
+      "_id": "5Rs4LtKfRsquuYbg",
       "folder": null,
       "ownership": {
         "default": 0
       }
     },
     {
-      "name": "Leal",
+      "name": "Cauto",
       "type": "hindrance",
       "img": "systems/swade/assets/icons/hindrance.svg",
       "system": {
-        "description": "<p>Este incondicional defensor arriesga su vida por sus amigos sin dudarlo. Algunos héroes Leales pueden no actuar de esa manera, pero son los primeros en acudir al rescate de sus amigos cuando están amenazados.</p>",
+        "description": "<p>Este planificador personifica la contención y el cuidado. Nunca toma decisiones precipitadas y le gusta planificar las cosas en detalle mucho antes de que se tome cualquier acción.</p>",
         "notes": "",
         "source": "SWADE Core Rules",
-        "swid": "loyal",
+        "swid": "cautious",
         "additionalStats": {},
         "choiceSets": [],
         "favorite": false,
@@ -802,63 +928,20 @@
         "babele": {
           "translated": true,
           "hasTranslation": true,
-          "originalName": "Loyal"
+          "originalName": "Cautious"
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "effects": [],
-      "_id": "kBz7AbU6xh3FNpKP",
-      "folder": null,
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "name": "Obligaciones",
-      "type": "hindrance",
-      "img": "systems/swade/assets/icons/hindrance.svg",
-      "system": {
-        "description": "<p>(MENOR O MAYOR)</p>\n<p>Tu heroína tiene una responsabilidad que debe atender a diario o de forma regular. Podría ser un trabajo, voluntariado, cuidar de la familia o amigos, etc.</p>\n<p>La Obligación consume unas 20 horas la mayoría de las semanas, o más de 40 para la versión @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Mayor}. Lo que eso implica exactamente debe ser discutido entre el jugador y el Director de Juego.</p>",
-        "notes": "",
-        "source": "SWADE Core Rules",
-        "swid": "obligation",
-        "additionalStats": {},
-        "choiceSets": [],
-        "favorite": false,
-        "grants": [],
-        "severity": "either",
-        "major": false
-      },
-      "sort": 0,
-      "flags": {
-        "sigil": {
-          "completed": true
-        },
-        "babele": {
-          "translated": true,
-          "hasTranslation": true,
-          "originalName": "Obligation"
-        }
-      },
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "effects": [],
-      "_id": "r46C4jyFPICm75cK",
+      "_id": "dpC1V4ZAqK06EYNe",
       "folder": null,
       "ownership": {
         "default": 0
@@ -866,10 +949,10 @@
     },
     {
       "type": "weapon",
-      "name": "@sa Ex-Police Officer",
+      "name": "@sa Experiencia Forense",
       "img": "systems/swade/assets/icons/weapon.svg",
       "system": {
-        "description": "+2 to Streetwise and Notice in security situations @sa Efficient Professional: Does her job without unnecessary emotion @sa Informal Mediator: Prefers to de-escalate rather than use force @sa Police Connections: Knows officers throughout Arcadia  **Historia:** Ana trabajó como oficial de policía en Distrito Janus por 8 años. Era buena en su trabajo: justa, profesional, valiente. Pero en 2020, durante protestas masivas, vio cosas que la hicieron cuestionar su carrera.  Oficiales golpeando manifestantes pacíficos. Arrestos sin causa. Metahumanos siendo tratados como animales. Ana objetó. Sus superiores le dijeron que se callara o renunciara.  Ana renunció.  Pero necesitaba trabajo. Tenía familia que mantener: madre enferma, hermanos menores. MetaCorp ofrecía buenos beneficios y pago estable. En 2021, se unió como guardia de seguridad en Isla Aldebo.  Ana hace su trabajo profesionalmente. No es cruel como algunos guardias. No disfruta el poder como Señor Nadie. Para ella, es solo trabajo: mantener orden, prevenir escapes, proteger personal.  Los internos la respetan más que otros guardias. Ana es firme pero justa. Si necesitas algo razonable, Ana intenta ayudar. Si rompes reglas, Ana te detiene sin violencia innecesaria.  Ana tiene conflictos morales constantes. Sabe que estos son niños traumatizados, no criminales endurecidos. Pero también tiene cuentas que pagar. Cada día es compromiso entre conciencia y supervivencia económica.  **Secreto:** Ana está documentando secretamente abusos en Isla Aldebo. Toma notas en su teléfono personal sobre cada vez que Señor Nadie usa poderes excesivamente. Registra cuando guardias golpean internos. Fotografía evidencia. No sabe qué hará con esta información, pero siente que alguien debe mantener registro. Si MetaCorp descubre esto, la despedirán o peor.",
+        "description": "+2 a Notice para detectar causas de muerte extrañas @sa Mente Analítica: +2 a Research cuando investiga historias de los difuntos @sa Contactos del Submundo: Conoce a gente en morgues, hospitales y comisarías de todos los distritos @sa Visto de Todo: Inmune a Fear checks relacionados con cadáveres o gore @sa Recuerdos de Héroes: Ha preparado miembros caídos de \"La Familia\" y \"Génesis\" @sa Enemigos Silenciosos: Conoce secretos de Fatum Corporation y Telaraña por los cuerpos que ha tratado",
         "equippable": true,
         "equipStatus": 4,
         "damage": "@str",
@@ -929,256 +1012,16 @@
       },
       "effects": [],
       "flags": {},
-      "_id": "qgo2p2cyUxDAztgX",
+      "_id": "Kn8zRpi8g92NK4a2",
       "folder": null,
       "sort": 0,
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "type": "armor",
-      "name": "Security Guard Uniform",
-      "img": "systems/swade/assets/icons/armor.svg",
-      "system": {
-        "description": "Security guard uniform",
-        "notes": "",
-        "additionalStats": {},
-        "equipStatus": 3,
-        "equippable": true,
-        "armor": 1,
-        "isNaturalArmor": true,
-        "source": "",
-        "swid": "none",
-        "choiceSets": [],
-        "quantity": 1,
-        "weight": 0,
-        "price": 0,
-        "build": {
-          "limit": 1,
-          "level": 1
-        },
-        "isArcaneDevice": false,
-        "arcaneSkillDie": {
-          "sides": 4,
-          "modifier": 0
-        },
-        "powerPoints": {},
-        "actions": {
-          "trait": "",
-          "traitMod": "",
-          "dmgMod": "",
-          "additional": {}
-        },
-        "bonusDamageDie": 6,
-        "bonusDamageDice": 1,
-        "activities": [],
-        "favorite": false,
-        "category": "",
-        "grants": [],
-        "grantOn": 1,
-        "minStr": "",
-        "toughness": 0,
-        "isHeavyArmor": false,
-        "locations": {
-          "head": false,
-          "torso": true,
-          "arms": false,
-          "legs": false
-        },
-        "energy": {
-          "value": 0,
-          "max": 0,
-          "enabled": false
-        },
-        "mods": {
-          "value": 0,
-          "max": 0
-        }
-      },
-      "effects": [],
-      "flags": {},
-      "_id": "pMWYvu9bWSN1Ufer",
-      "folder": null,
-      "sort": 0,
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "type": "weapon",
-      "name": "Electric Baton",
-      "img": "systems/swade/assets/icons/weapon.svg",
-      "system": {
-        "description": "Electric baton",
-        "equippable": true,
-        "equipStatus": 4,
-        "damage": "@str+d4",
-        "range": "",
-        "rof": 1,
-        "ap": 0,
-        "shots": null,
-        "currentShots": null,
-        "actions": {
-          "trait": "Fighting",
-          "traitMod": "",
-          "dmgMod": "",
-          "additional": {}
-        },
-        "notes": "",
-        "source": "",
-        "swid": "none",
-        "additionalStats": {},
-        "choiceSets": [],
-        "quantity": 1,
-        "weight": 0,
-        "price": 0,
-        "build": {
-          "limit": 1,
-          "level": 1
-        },
-        "isArcaneDevice": false,
-        "arcaneSkillDie": {
-          "sides": 4,
-          "modifier": 0
-        },
-        "powerPoints": {},
-        "isVehicular": false,
-        "mods": 1,
-        "bonusDamageDie": 6,
-        "bonusDamageDice": 1,
-        "activities": [],
-        "favorite": false,
-        "templates": {
-          "cone": false,
-          "stream": false,
-          "small": false,
-          "medium": false,
-          "large": false
-        },
-        "category": "",
-        "grants": [],
-        "grantOn": 1,
-        "rangeType": null,
-        "parry": 0,
-        "minStr": "",
-        "ammo": "",
-        "reloadType": "none",
-        "ppReloadCost": 2,
-        "trademark": 0,
-        "isHeavyWeapon": false
-      },
-      "effects": [],
-      "flags": {},
-      "_id": "oQNgDPKs2QLr2cZf",
-      "folder": null,
-      "sort": 0,
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
-      },
-      "ownership": {
-        "default": 0
-      }
-    },
-    {
-      "type": "weapon",
-      "name": "Tranquilizer Dart Gun",
-      "img": "systems/swade/assets/icons/weapon.svg",
-      "system": {
-        "description": "Tranquilizer dart gun",
-        "equippable": true,
-        "equipStatus": 4,
-        "damage": "@str+0",
-        "range": "5/10/20",
-        "rof": 1,
-        "ap": 0,
-        "shots": null,
-        "currentShots": null,
-        "actions": {
-          "trait": "Shooting",
-          "traitMod": "",
-          "dmgMod": "",
-          "additional": {}
-        },
-        "notes": "",
-        "source": "",
-        "swid": "none",
-        "additionalStats": {},
-        "choiceSets": [],
-        "quantity": 1,
-        "weight": 0,
-        "price": 0,
-        "build": {
-          "limit": 1,
-          "level": 1
-        },
-        "isArcaneDevice": false,
-        "arcaneSkillDie": {
-          "sides": 4,
-          "modifier": 0
-        },
-        "powerPoints": {},
-        "isVehicular": false,
-        "mods": 1,
-        "bonusDamageDie": 6,
-        "bonusDamageDice": 1,
-        "activities": [],
-        "favorite": false,
-        "templates": {
-          "cone": false,
-          "stream": false,
-          "small": false,
-          "medium": false,
-          "large": false
-        },
-        "category": "",
-        "grants": [],
-        "grantOn": 1,
-        "rangeType": null,
-        "parry": 0,
-        "minStr": "",
-        "ammo": "",
-        "reloadType": "none",
-        "ppReloadCost": 2,
-        "trademark": 0,
-        "isHeavyWeapon": false
-      },
-      "effects": [],
-      "flags": {},
-      "_id": "rhDQ8sVmayCCj9f6",
-      "folder": null,
-      "sort": 0,
-      "_stats": {
-        "compendiumSource": null,
-        "duplicateSource": null,
-        "exportSource": null,
-        "coreVersion": "13.350",
-        "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "ownership": {
@@ -1187,7 +1030,7 @@
     },
     {
       "type": "gear",
-      "name": "Radio",
+      "name": "Kit De Maquillaje Profesional",
       "img": "systems/swade/assets/icons/gear.svg",
       "system": {
         "description": "",
@@ -1230,16 +1073,16 @@
       },
       "effects": [],
       "flags": {},
-      "_id": "kWBJB7jFIm3kQlHC",
+      "_id": "nEfT7UazoQvGQRzx",
       "folder": null,
       "sort": 0,
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "ownership": {
@@ -1248,7 +1091,7 @@
     },
     {
       "type": "gear",
-      "name": "Handcuffs",
+      "name": "Instrumental Tanatológico",
       "img": "systems/swade/assets/icons/gear.svg",
       "system": {
         "description": "",
@@ -1291,16 +1134,16 @@
       },
       "effects": [],
       "flags": {},
-      "_id": "BStN4RKMMNeRj1nQ",
+      "_id": "waHIsym9m44eqjWn",
       "folder": null,
       "sort": 0,
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
+        "systemVersion": "5.0.6",
         "lastModifiedBy": null
       },
       "ownership": {
@@ -1308,25 +1151,25 @@
       }
     },
     {
-      "name": "Flashlight",
       "type": "gear",
+      "name": "Bata De Laboratorio",
       "img": "systems/swade/assets/icons/gear.svg",
       "system": {
         "description": "",
+        "equipStatus": 1,
+        "equippable": false,
         "notes": "",
-        "source": "SWADE Core Rules",
-        "swid": "flashlight",
+        "source": "",
+        "swid": "none",
         "additionalStats": {},
         "choiceSets": [],
         "quantity": 1,
-        "weight": 3,
-        "price": 20,
+        "weight": 0,
+        "price": 0,
         "build": {
           "limit": 1,
           "level": 1
         },
-        "equippable": false,
-        "equipStatus": 1,
         "isArcaneDevice": false,
         "arcaneSkillDie": {
           "sides": 4,
@@ -1345,29 +1188,248 @@
         "bonusDamageDice": 1,
         "activities": [],
         "favorite": false,
-        "category": "Adventuring Gear",
+        "category": "",
         "grants": [],
         "grantOn": 1,
         "isAmmo": false
       },
+      "effects": [],
+      "flags": {},
+      "_id": "wfMNVuGOUvD13PeZ",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Guantes Quirúrgicos",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "prvoxXXyr5ftvfK5",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Cámara",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "qBTU1pUyRjt9cyRS",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Teléfono Móvil",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "BWnz3P52kcqJ8Kk0",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.348",
+        "systemId": "swade",
+        "systemVersion": "5.0.6",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Rareza: Habla con los muertos",
+      "type": "hindrance",
+      "system": {
+        "description": "",
+        "notes": "",
+        "source": "",
+        "swid": "desventaja",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "either",
+        "major": false
+      },
+      "_id": "Fk2D3Qpb1ikqYxaW",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "effects": [],
+      "folder": null,
       "sort": 0,
       "flags": {
-        "sigil": {
-          "completed": true
+        "swade": {
+          "hasGranted": []
         }
       },
       "_stats": {
         "compendiumSource": null,
         "duplicateSource": null,
         "exportSource": null,
-        "coreVersion": "13.350",
+        "coreVersion": "13.348",
         "systemId": "swade",
-        "systemVersion": "5.0.7",
-        "lastModifiedBy": null
+        "systemVersion": "5.0.6",
+        "createdTime": 1759665465225,
+        "modifiedTime": 1759665472797,
+        "lastModifiedBy": "tOJbMhrZj0mjkDH4"
       },
-      "effects": [],
-      "_id": "p3hVIG66jaQWT8gU",
-      "folder": null,
       "ownership": {
         "default": 0
       }
@@ -1389,10 +1451,10 @@
       "saturation": 0,
       "contrast": 0
     },
-    "name": "Ana Flores",
+    "name": "Dolores Sánchez",
     "actorLink": false,
     "texture": {
-      "src": "tokenizer/npc-images/guardia_de_seguridad_ana_flores_34_a_os_.Token.webp?1761393450663",
+      "src": "tokenizer/npc-images/dolores_s_nchez.Token.webp?1759666228306",
       "anchorX": 0.5,
       "anchorY": 0.5,
       "offsetX": 0,
@@ -1472,26 +1534,26 @@
       "app": "SWADE Stat Block Importer",
       "id": "swade-npc-importer",
       "appVersion": "0.5.0",
-      "importDate": "2025-10-25T11:51:06.874Z"
+      "importDate": "2025-10-05T11:57:25.941Z"
     }
   },
-  "img": "tokenizer/npc-images/guardia_de_seguridad_ana_flores_34_a_os_.Avatar.webp?1761393450663",
+  "img": "tokenizer/npc-images/dolores_s_nchez.Avatar.webp?1759666228306",
   "effects": [],
   "_stats": {
     "compendiumSource": null,
     "duplicateSource": null,
     "exportSource": {
       "worldId": "arcadia",
-      "uuid": "Actor.VmB2Vn5wU1t9uied",
+      "uuid": "Actor.W9cE6g5xipw2GSTE",
       "coreVersion": "13.350",
       "systemId": "swade",
       "systemVersion": "5.0.7"
     },
     "coreVersion": "13.350",
     "systemId": "swade",
-    "systemVersion": "5.0.7",
-    "createdTime": 1761393069526,
-    "modifiedTime": 1761480374701,
+    "systemVersion": "5.0.6",
+    "createdTime": 1759665446011,
+    "modifiedTime": 1761502037361,
     "lastModifiedBy": "tOJbMhrZj0mjkDH4"
   },
   "ownership": {

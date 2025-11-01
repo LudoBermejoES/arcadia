@@ -51,13 +51,23 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/reformatorio-nueva-esperanza/)** *(Oct 2025)*
+### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/)** *(Oct 2025)*
 
 **Los Marginados de Isla Albedo**
 
 [Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/) y [Kira]({{ site.baseurl }}/characters/details/kira/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
 
 **🌟 Perspectiva**: Control institucional vs. libertad personal, jóvenes con poderes incontrolables, misterios de desapariciones, la cara oscura del sistema metahumano.
+
+---
+
+### ⏰ **[Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)** *(Oct 2025)*
+
+**Atrapados en un Bucle Temporal**
+
+[Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/), [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) y [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) son empleados de un crematorio que quedan atrapados en un bucle temporal durante el funeral de un mafioso. Cada medianoche (00:33-00:34), el tiempo se reinicia, pero ellos retienen la memoria. Un medallón egipcio y un arcón misterioso son la clave.
+
+**🌟 Misterio**: Thriller temporal en espacio cerrado, artefactos místicos egipcios, efecto observador, investigación progresiva, tres desconocidos deben colaborar para escapar del ciclo eterno.
 
 ---
 
@@ -95,6 +105,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 - **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo
 - **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
 - **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/groups/character-groups/#reformatorio-nueva-esperanza)** - Los marginados del sistema
+- **[Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)** - Atrapados en un bucle temporal
 
 
 ### **😈 Las Amenazas Persistentes**

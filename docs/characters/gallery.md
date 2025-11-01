@@ -136,6 +136,14 @@ permalink: /characters/gallery/
   </div>
 </div>
 
+<!-- Crematorio La Tranquilidad -->
+<div class="character-section">
+  <h3 class="character-category-title">⚰️ Crematorio La Tranquilidad</h3>
+  <div class="gallery-container" id="crematorio-gallery">
+    <!-- Crematorio La Tranquilidad character cards will be dynamically loaded here -->
+  </div>
+</div>
+
 <!-- Periodistas -->
 <div class="character-section">
   <h3 class="character-category-title">📺 Periodistas</h3>
@@ -258,6 +266,45 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'Nia_Thompson-Okafor.png' },
       { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'Elio_Rossi-Kim.png' },
       { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'Luna_Fernandez-Zhang.png' }
+    ].sort((a, b) => a.name.localeCompare(b.name)),
+
+    crematorio: [
+      // Protagonistas del Crematorio La Tranquilidad
+      { slug: 'marcos-villar', name: 'Marcos Villar (Recepcionista)', image: 'Marcos Villar.png' },
+      { slug: 'dolores-sanchez', name: 'Dolores Sánchez (Maquilladora)', image: 'Dolores Sánchez.png' },
+      { slug: 'renata-kovac', name: 'Renata Kovač (Guardia)', image: 'Renata Kovač.png' },
+      // NPCs del Crematorio
+      { slug: 'luis-ochoa', name: 'Detective Luis Ochoa', image: 'luis-ochoa.png' },
+      { slug: 'federico-aguilar', name: 'Federico Aguilar (Difunto)', image: 'federico-aguilar.png' },
+      // Asistentes al Funeral - La Vieja Guardia (80 años)
+      { slug: 'salvatore-rossi', name: 'Salvatore "Toto" Rossi', image: 'Salvatore_Rossi.png' },
+      { slug: 'arturo-mendoza', name: 'Arturo Mendoza', image: 'Arturo_Mendoza.png' },
+      { slug: 'viktor-petrov', name: 'Viktor Petrov', image: 'Viktor_Petrov.png' },
+      { slug: 'padre-eugenio-vargas', name: 'Padre Eugenio Vargas', image: 'Eugenio_Vargas.png' },
+      // Generación Activa (40 años)
+      { slug: 'marco-aguilar', name: 'Marco "El Tigre" Aguilar', image: 'Marco_Aguilar.png' },
+      { slug: 'javier-santana', name: 'Dr. Javier Santana', image: 'Javier_Santana.png' },
+      { slug: 'roberto-mora', name: 'Roberto "Cables" Mora', image: 'Roberto_Mora.png' },
+      // Nueva Sangre (20 años)
+      { slug: 'diego-aguilar', name: 'Diego Aguilar', image: 'Diego_Aguilar.png' },
+      { slug: 'andres-rios', name: 'Andrés "Andy" Ríos', image: 'Andres_Rios.png' },
+      { slug: 'omar-hassan', name: 'Omar Hassan', image: 'Omar_Hassan.png' },
+      { slug: 'tomas-cruz', name: 'Tomás "Tommy" Cruz', image: 'Tomas_Cruz.png' },
+      // Matriarcas (70 años)
+      { slug: 'carmela-aguilar', name: 'Doña Carmela Aguilar', image: 'Carmela_Aguilar.png' },
+      { slug: 'sofia-vega', name: 'Sofía "La Contadora" Vega', image: 'Sofia_Vega.png' },
+      { slug: 'renata-lombardi', name: 'Renata "Mamá Rena" Lombardi', image: 'Renata_Lombardi.png' },
+      { slug: 'elena-ortiz', name: 'Dra. Elena Ortiz', image: 'Elena_Ortiz.png' },
+      // Operadoras (40 años)
+      { slug: 'isabella-aguilar', name: 'Isabella "Bella" Aguilar', image: 'Isabella_Aguilar.png' },
+      { slug: 'gabriela-soto', name: 'Gabriela "Gabi" Soto', image: 'Gabriela_Soto.png' },
+      { slug: 'lucia-herrera', name: 'Lucía Herrera', image: 'Lucia_Herrera.png' },
+      { slug: 'marina-volkova', name: 'Marina "La Rusa" Volkova', image: 'Marina_Volkova.png' },
+      // Generación Digital (20 años)
+      { slug: 'valentina-aguilar', name: 'Valentina Aguilar', image: 'Valentina_Aguilar.png' },
+      { slug: 'patricia-navarro', name: 'Patricia "Patty" Navarro', image: 'Patricia_Navarro.png' },
+      { slug: 'camila-ruiz', name: 'Camila "Cami" Ruiz', image: 'Camila_Ruiz.png' },
+      { slug: 'ana-morales', name: 'Ana "Annie" Morales', image: 'Ana_Morales.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     heroes: [
@@ -565,6 +612,7 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.politicos, 'politicos-gallery');
   createCharacterCards(characterCategories.profesionales, 'profesionales-gallery');
   createCharacterCards(characterCategories.reformatorio, 'reformatorio-gallery');
+  createCharacterCards(characterCategories.crematorio, 'crematorio-gallery');
   createCharacterCards(characterCategories.villanos, 'villanos-gallery');
 
   // Initialize Masonry for all galleries after images load
@@ -610,6 +658,7 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('politicos-gallery');
   initializeMasonry('profesionales-gallery');
   initializeMasonry('reformatorio-gallery');
+  initializeMasonry('crematorio-gallery');
   initializeMasonry('villanos-gallery');
 });
 </script>

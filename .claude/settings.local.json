@@ -21,7 +21,16 @@
       "Bash(for file in ana-flores.md viktor-kozlov.md daniel-kwon.md elena-mora.md hector-ruiz.md yuki-tanaka-jardinero.md marcus-coach-williams.md)",
       "Bash(do)",
       "Bash(echo \"=== $file ===\")",
-      "Bash(done)"
+      "Bash(done)",
+      "Bash(curl -O \"http://localhost:30000/tokenizer/pc-images/marcos_villar.Avatar.webp?1759666777667\")",
+      "Bash(curl -O \"http://localhost:30000/tokenizer/npc-images/dolores_s_nchez.Avatar.webp?1759666228306\")",
+      "Bash(curl -O \"http://localhost:30000/tokenizer/pc-images/renata_kova_.Avatar.webp?1759666937959\")",
+      "Bash(curl -k -o marcos_villar.webp \"https://ludobermejo.es:30000/tokenizer/pc-images/marcos_villar.Avatar.webp\")",
+      "Bash(curl:*)",
+      "Bash(curl -k -o renata_kovac.webp \"https://ludobermejo.es:30000/tokenizer/pc-images/renata_kova_.Avatar.webp\")",
+      "Bash(sips:*)",
+      "Bash(git log:*)",
+      "Read(//Users/ludo/code/swade/**)"
     ],
     "deny": [],
     "ask": [],

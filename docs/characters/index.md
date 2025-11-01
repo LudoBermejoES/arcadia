@@ -14,7 +14,7 @@ description: "241 Héroes, Villanos y Aliados"
 ## 🌟 **Universo de Personajes**
 
 
-Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **241 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, pasando por el personal que trabaja en el Reformatorio Nueva Esperanza, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
+Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida a **185 personajes únicos**. Desde héroes legendarios hasta villanos inolvidables, pasando por el personal que trabaja en el Reformatorio Nueva Esperanza y los empleados atrapados en el Crematorio La Tranquilidad, cada uno ha contribuido a tejer la rica tapestry narrativa que define este mundo.
 
 **🦸‍♂️ [Explora la Lista Completa de Personajes →]({{ site.baseurl }}/characters/character-list/)**
 
@@ -353,18 +353,19 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 
 ## 🎲 **Estadísticas del Panteón**
 
-- **241** Personajes Únicos
-- **20** Protagonistas Principales (incluye Protagonistas del Reformatorio)
+- **185** Personajes Únicos
+- **23** Protagonistas Principales (incluye Reformatorio y Crematorio)
 - **56+** Villanos Documentados
 - **15** Internos del Correccional de Menores
 - **8** Personal del Reformatorio Nueva Esperanza
+- **5** Personal y NPCs del Crematorio La Tranquilidad
 - **15** Años de Desarrollo
-- **8** Jugadores Únicos
+- **9** Jugadores Únicos
 - **4** Generaciones Heroicas (incluye Ultracorps)
 
 ---
 
 *Cada personaje en esta base de datos representa años de desarrollo colaborativo, decisiones narrativas significativas, y la evolución orgánica de un universo compartido. Desde el primer héroe hasta el villano más reciente, todos han contribuido a crear la rica tapicería que es el universo de Arcadia.*
 
-**Última actualización**: Enero de 2025
+**Última actualización**: Noviembre de 2025
 

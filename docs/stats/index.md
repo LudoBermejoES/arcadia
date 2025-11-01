@@ -22,12 +22,12 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 </div>
 
 <div class="stat-highlight">
-<span class="stat-big">167</span>
+<span class="stat-big">209</span>
 <span class="stat-label">Personajes Detallados</span>
 </div>
 
 <div class="stat-highlight">
-<span class="stat-big">73</span>
+<span class="stat-big">74</span>
 <span class="stat-label">Sesiones Registradas</span>
 </div>
 
@@ -42,11 +42,11 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 ## 🦸‍♂️ **Estadísticas de Personajes**
 
 ### **📋 Archivo de Personajes**
-- **Total de Personajes Documentados**: 167 fichas completas
-- **Personajes con Imágenes**: 78 retratos únicos
-- **Cobertura Visual**: 48.75% de personajes ilustrados
-- **Líneas de Documentación**: 281 líneas en el índice principal
-- **Categorías de Personajes**: 48 clasificaciones diferentes
+- **Total de Personajes Documentados**: 209 fichas completas
+- **Personajes con Imágenes**: 105 retratos únicos
+- **Cobertura Visual**: 50.24% de personajes ilustrados
+- **Líneas de Documentación**: 400+ líneas en el índice principal
+- **Categorías de Personajes**: 50+ clasificaciones diferentes
 
 ### **🎭 Distribución por Tipo**
 
@@ -82,7 +82,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ## 📚 **Estadísticas de Campañas**
 
-### **📖 Total de Sesiones Documentadas: 73**
+### **📖 Total de Sesiones Documentadas: 74**
 
 #### **🛡️ La Familia (2010-2015)**
 - **Sesiones Documentadas**: 42 sesiones completas
@@ -116,6 +116,21 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Enfoque**: Megacorporación criminal multigeneracional
 - **Período**: Presente en todas las eras como antagonista
 - **Estado**: Organización persistente, documentación continua
+
+#### **🏝️ Reformatorio Nueva Esperanza (2025)**
+- **Sesiones Documentadas**: 1 sesión (inicio de campaña)
+- **Período**: Octubre 2025 - Presente
+- **Jugadores**: 3 participantes (Sergei, Tiritas, Kira)
+- **Enfoque**: Jóvenes metahumanos inadaptados en instituto cerrado
+- **Estado**: Campaña activa, nueva generación
+
+#### **⏰ Crematorio La Tranquilidad (2025)**
+- **Sesiones Documentadas**: 1 sesión (bucle temporal)
+- **Período**: Octubre 2025 - Presente
+- **Jugadores**: 3 participantes (Marcos Villar, Dolores Sánchez, Renata Kovač)
+- **Personajes Documentados**: 27 personajes (3 protagonistas + 24 asistentes al funeral)
+- **Enfoque**: Mini-campaña de misterio temporal con funeral de mafioso
+- **Estado**: Campaña activa, thriller psicológico
 
 ---
 

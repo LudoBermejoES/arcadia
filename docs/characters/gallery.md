@@ -168,14 +168,6 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Correccional -->
-<div class="character-section">
-  <h3 class="character-category-title">⛓️ Correccional de Menores - Isla Azogue</h3>
-  <div class="gallery-container" id="correccional-gallery">
-    <!-- Juvenile detention center inmate cards will be dynamically loaded here -->
-  </div>
-</div>
-
 <script src="https://unpkg.com/masonry-layout@4/dist/masonry.pkgd.min.js"></script>
 <script src="https://unpkg.com/imagesloaded@4/imagesloaded.pkgd.min.js"></script>
 
@@ -241,7 +233,23 @@ document.addEventListener('DOMContentLoaded', function() {
       // Protagonistas del Reformatorio Nueva Esperanza
       { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
       { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
-      { slug: 'kira', name: 'Kira', image: 'kira.png' }
+      { slug: 'kira', name: 'Kira', image: 'kira.png' },
+      // Otros internos del reformatorio
+      { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'Kaida_Chen-Okafor.png' },
+      { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'Dmitri_Volkov-Ramirez.png' },
+      { slug: 'safiya-abbas-petrov', name: 'Safiya Abbas-Petrov', image: 'Safiya_Abbas-Petrov.png' },
+      { slug: 'amara-osei-baptiste', name: 'Amara Osei-Baptiste', image: 'Amara_Osei-Baptiste.png' },
+      { slug: 'tomas-vargas-lee', name: 'Tomás Vargas-Lee', image: 'Tomas_Vargas-Lee.png' },
+      { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'Yuki_Tanaka-Al-Rashid.png' },
+      { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'Fatima_Al-Amin-Rodriguez.png' },
+      { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'Lea_Dubois-Nguyen.png' },
+      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'Marcus_Williams-Santos.png' },
+      { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'Jin_Park-Okonkwo.png' },
+      { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'Zara_Qasim-Kowalski.png' },
+      { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'Ravi_Kapoor-Muller.png' },
+      { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'Nia_Thompson-Okafor.png' },
+      { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'Elio_Rossi-Kim.png' },
+      { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'Luna_Fernandez-Zhang.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     heroes: [
@@ -477,23 +485,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'senora-de-la-sonrisa', name: 'Señora de la Sonrisa', image: 'senora-sonrisa.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
 
-    correccional: [
-      { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'Kaida_Chen-Okafor.png' },
-      { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'Dmitri_Volkov-Ramirez.png' },
-      { slug: 'safiya-abbas-petrov', name: 'Safiya Abbas-Petrov', image: 'Safiya_Abbas-Petrov.png' },
-      { slug: 'amara-osei-baptiste', name: 'Amara Osei-Baptiste', image: 'Amara_Osei-Baptiste.png' },
-      { slug: 'tomas-vargas-lee', name: 'Tomás Vargas-Lee', image: 'Tomas_Vargas-Lee.png' },
-      { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'Yuki_Tanaka-Al-Rashid.png' },
-      { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'Fatima_Al-Amin-Rodriguez.png' },
-      { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'Lea_Dubois-Nguyen.png' },
-      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'Marcus_Williams-Santos.png' },
-      { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'Jin_Park-Okonkwo.png' },
-      { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'Zara_Qasim-Kowalski.png' },
-      { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'Ravi_Kapoor-Muller.png' },
-      { slug: 'nia-thompson-okafor', name: 'Nia Thompson-Okafor', image: 'Nia_Thompson-Okafor.png' },
-      { slug: 'elio-rossi-kim', name: 'Elio Rossi-Kim', image: 'Elio_Rossi-Kim.png' },
-      { slug: 'luna-fernandez-zhang', name: 'Luna Fernández-Zhang', image: 'Luna_Fernandez-Zhang.png' }
-    ].sort((a, b) => a.name.localeCompare(b.name))
   };
 
   // Create group cards
@@ -552,7 +543,6 @@ document.addEventListener('DOMContentLoaded', function() {
   createCharacterCards(characterCategories.protagonistas, 'protagonistas-gallery');
   createCharacterCards(characterCategories.artistas, 'artistas-gallery');
   createCharacterCards(characterCategories.civiles, 'civiles-gallery');
-  createCharacterCards(characterCategories.correccional, 'correccional-gallery');
   createCharacterCards(characterCategories.entidades, 'entidades-gallery');
   createCharacterCards(characterCategories.estudiantes, 'estudiantes-gallery');
   createCharacterCards(characterCategories.heroes, 'heroes-gallery');
@@ -598,7 +588,6 @@ document.addEventListener('DOMContentLoaded', function() {
   initializeMasonry('protagonistas-gallery');
   initializeMasonry('artistas-gallery');
   initializeMasonry('civiles-gallery');
-  initializeMasonry('correccional-gallery');
   initializeMasonry('entidades-gallery');
   initializeMasonry('estudiantes-gallery');
   initializeMasonry('heroes-gallery');

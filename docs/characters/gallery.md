@@ -275,7 +275,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'renata-kovac', name: 'Renata Kovač (Guardia)', image: 'Renata Kovač.png' },
       // NPCs del Crematorio
       { slug: 'luis-ochoa', name: 'Detective Luis Ochoa', image: 'luis-ochoa.png' },
-      { slug: 'federico-aguilar', name: 'Federico Aguilar (Difunto)', image: 'federico-aguilar.png' },
+      // { slug: 'federico-aguilar', name: 'Federico Aguilar (Difunto)', image: 'federico-aguilar.png' }, // Imagen pendiente
       // Asistentes al Funeral - La Vieja Guardia (80 años)
       { slug: 'salvatore-rossi', name: 'Salvatore "Toto" Rossi', image: 'Salvatore_Rossi.png' },
       { slug: 'arturo-mendoza', name: 'Arturo Mendoza', image: 'Arturo_Mendoza.png' },
@@ -292,14 +292,14 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'tomas-cruz', name: 'Tomás "Tommy" Cruz', image: 'Tomas_Cruz.png' },
       // Matriarcas (70 años)
       { slug: 'carmela-aguilar', name: 'Doña Carmela Aguilar', image: 'Carmela_Aguilar.png' },
-      { slug: 'sofia-vega', name: 'Sofía "La Contadora" Vega', image: 'Sofia_Vega.png' },
+      // { slug: 'sofia-vega', name: 'Sofía "La Contadora" Vega', image: 'Sofia_Vega.png' }, // Imagen pendiente
       { slug: 'renata-lombardi', name: 'Renata "Mamá Rena" Lombardi', image: 'Renata_Lombardi.png' },
-      { slug: 'elena-ortiz', name: 'Dra. Elena Ortiz', image: 'Elena_Ortiz.png' },
+      // { slug: 'elena-ortiz', name: 'Dra. Elena Ortiz', image: 'Elena_Ortiz.png' }, // Imagen pendiente
       // Operadoras (40 años)
       { slug: 'isabella-aguilar', name: 'Isabella "Bella" Aguilar', image: 'Isabella_Aguilar.png' },
       { slug: 'gabriela-soto', name: 'Gabriela "Gabi" Soto', image: 'Gabriela_Soto.png' },
       { slug: 'lucia-herrera', name: 'Lucía Herrera', image: 'Lucia_Herrera.png' },
-      { slug: 'marina-volkova', name: 'Marina "La Rusa" Volkova', image: 'Marina_Volkova.png' },
+      // { slug: 'marina-volkova', name: 'Marina "La Rusa" Volkova', image: 'Marina_Volkova.png' }, // Imagen pendiente
       // Generación Digital (20 años)
       { slug: 'valentina-aguilar', name: 'Valentina Aguilar', image: 'Valentina_Aguilar.png' },
       { slug: 'patricia-navarro', name: 'Patricia "Patty" Navarro', image: 'Patricia_Navarro.png' },

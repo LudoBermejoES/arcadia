@@ -22,18 +22,29 @@ Este diagrama muestra la estructura completa del Reformatorio Nueva Esperanza en
 - 🔗 Relaciones y conexiones
 - 🔍 Misterios documentados
 
-<div id="tldraw-container" style="width: 100%; height: 800px; border: 1px solid #ccc; margin: 20px 0;">
-  <div style="padding: 40px; text-align: center; color: #666;">
-    <h3>🎨 Diagrama del Reformatorio</h3>
-    <p>Para visualizar el diagrama completo:</p>
-    <ol style="text-align: left; display: inline-block; margin: 20px auto;">
-      <li>Descarga el archivo <a href="{{ site.baseurl }}/campaigns/aun-sin-nombre/reformatorio/reformatorio-schema.tldr" download>reformatorio-schema.tldr</a></li>
-      <li>Ve a <a href="https://www.tldraw.com/" target="_blank">tldraw.com</a></li>
-      <li>Haz clic en el menú (☰) → File → Open</li>
-      <li>Selecciona el archivo descargado</li>
-    </ol>
-    <p><em>Nota: La integración interactiva en esta página requiere configuración adicional de React.</em></p>
-    <p><a href="{{ site.baseurl }}/campaigns/aun-sin-nombre/reformatorio/README.html" class="button">📖 Ver Guía Completa</a></p>
+<div style="margin: 20px 0;">
+  <div style="background: #f5f5f5; padding: 15px; border-radius: 8px; margin-bottom: 20px;">
+    <h3 style="margin-top: 0;">🎨 Diagrama Interactivo</h3>
+    <p>Usa el ratón para navegar, hacer zoom (rueda del ratón) y explorar el esquema organizacional del reformatorio.</p>
+    <p style="font-size: 14px; color: #666;">
+      💡 <strong>Controles:</strong> Arrastra para mover, rueda para zoom, clic para seleccionar elementos
+    </p>
+  </div>
+
+  <iframe
+    src="{{ site.baseurl }}/assets/tldraw-app/index.html"
+    style="width: 100%; height: 800px; border: 2px solid #ddd; border-radius: 8px;"
+    title="Esquema Visual del Reformatorio Nueva Esperanza"
+    frameborder="0"
+    allow="clipboard-read; clipboard-write"
+  ></iframe>
+
+  <div style="margin-top: 15px; text-align: center; font-size: 14px; color: #666;">
+    <p>
+      <a href="{{ site.baseurl }}/campaigns/aun-sin-nombre/reformatorio/reformatorio-schema.tldr" download>⬇️ Descargar archivo .tldr</a> |
+      <a href="{{ site.baseurl }}/campaigns/aun-sin-nombre/reformatorio/README.html">📖 Ver Guía Completa</a> |
+      <a href="https://www.tldraw.com/" target="_blank">🔗 Abrir en tldraw.com</a>
+    </p>
   </div>
 </div>
 

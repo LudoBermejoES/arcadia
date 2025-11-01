@@ -366,4 +366,5 @@ dist/
 # 4. Ignore temporary processing files and lock files
 # 5. Standard exclusions for Jekyll, OS files, and IDE files
 
-manuales/
+manuales/tldraw-app/node_modules
+tldraw-app/dist

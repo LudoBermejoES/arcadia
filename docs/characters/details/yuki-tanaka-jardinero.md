@@ -7,6 +7,10 @@ slug: yuki-tanaka-jardinero
 
 # Yuki Tanaka
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Yuki Tanaka.png" alt="Yuki Tanaka" />
+</div>
+
 **Jardinero en Reformatorio Nueva Esperanza**
 
 ## Información Básica

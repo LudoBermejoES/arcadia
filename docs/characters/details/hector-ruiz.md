@@ -7,6 +7,10 @@ slug: hector-ruiz
 
 # Hector Ruiz
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Hector Ruiz.png" alt="Hector Ruiz" />
+</div>
+
 **Conserje en Reformatorio Nueva Esperanza**
 
 ## Información Básica

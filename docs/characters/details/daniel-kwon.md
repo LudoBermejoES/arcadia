@@ -7,6 +7,10 @@ slug: daniel-kwon
 
 # Daniel Kwon
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Daniel Kwon.png" alt="Daniel Kwon" />
+</div>
+
 **Profesor de Ciencias y Matemáticas en Reformatorio Nueva Esperanza**
 
 ## Información Básica

@@ -7,6 +7,10 @@ slug: marcus-coach-williams
 
 # Marcus "Coach" Williams
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Marcus Coach Williams.png" alt="Marcus Coach Williams" />
+</div>
+
 **Entrenador Atlético en Reformatorio Nueva Esperanza**
 
 ## Información Básica

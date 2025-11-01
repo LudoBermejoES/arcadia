@@ -7,6 +7,10 @@ slug: viktor-kozlov
 
 # Viktor Kozlov
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Viktor Kozlov.png" alt="Viktor Kozlov" />
+</div>
+
 **Guardia de Seguridad en Reformatorio Nueva Esperanza**
 
 ## Información Básica

@@ -7,6 +7,10 @@ slug: elena-mora
 
 # Elena Mora
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Elena Mora.png" alt="Elena Mora" />
+</div>
+
 **Profesora de Psicología en Reformatorio Nueva Esperanza**
 
 ## Información Básica

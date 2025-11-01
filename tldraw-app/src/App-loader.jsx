@@ -1,7 +1,7 @@
 import { Tldraw } from 'tldraw'
 import 'tldraw/tldraw.css'
 import { useRef } from 'react'
-import diagramSnapshot from './reformatorio-snapshot.json'
+import diagramData from '../work/reformatorio-diagram.tldr'
 
 export default function App() {
   const editorRef = useRef(null)
@@ -10,12 +10,12 @@ export default function App() {
     editorRef.current = editor
 
     // Load the saved diagram snapshot
-    if (diagramSnapshot && diagramSnapshot.shapes && diagramSnapshot.assets) {
+    if (diagramData && diagramData.shapes && diagramData.assets) {
       // Create assets first
-      editor.createAssets(diagramSnapshot.assets)
+      editor.createAssets(diagramData.assets)
 
       // Then create all shapes
-      diagramSnapshot.shapes.forEach(shape => {
+      diagramData.shapes.forEach(shape => {
         editor.createShape(shape)
       })
 

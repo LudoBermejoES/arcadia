@@ -17,7 +17,11 @@
       "Bash(npx tldraw:*)",
       "Bash(timeout 3 npx tldraw open --local)",
       "Bash(chmod:*)",
-      "Bash(/Users/ludo/code/arcadia/work/download-avatars.sh)"
+      "Bash(/Users/ludo/code/arcadia/work/download-avatars.sh)",
+      "Bash(for file in ana-flores.md viktor-kozlov.md daniel-kwon.md elena-mora.md hector-ruiz.md yuki-tanaka-jardinero.md marcus-coach-williams.md)",
+      "Bash(do)",
+      "Bash(echo \"=== $file ===\")",
+      "Bash(done)"
     ],
     "deny": [],
     "ask": [],

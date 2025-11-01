@@ -1,0 +1,2749 @@
+{
+  "shapes": [
+    {
+      "x": 500,
+      "y": 50,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:title",
+      "type": "note",
+      "props": {
+        "color": "black",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83c\udfdd\ufe0f REFORMATORIO NUEVA ESPERANZA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Isla Albedo - Estructura Organizacional"
+                }
+              ]
+            }
+          ]
+        },
+        "size": "xl",
+        "font": "sans",
+        "align": "middle",
+        "verticalAlign": "middle",
+        "labelColor": "black",
+        "growY": 21,
+        "fontSizeAdjustment": 20,
+        "url": "",
+        "scale": 1
+      },
+      "parentId": "page:page",
+      "index": "aQMWM9vV",
+      "typeName": "shape"
+    },
+    {
+      "x": 870,
+      "y": 140,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:section-director",
+      "type": "geo",
+      "props": {
+        "w": 468.91938025210084,
+        "h": 220.03971901260502,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "l",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2550\u2550\u2550 DIRECTOR \u2550\u2550\u2550"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aRzULUSx",
+      "typeName": "shape"
+    },
+    {
+      "x": 1000,
+      "y": 200,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:el-senor-nadie",
+      "type": "geo",
+      "props": {
+        "w": 317.64082195378137,
+        "h": 145.87539390756302,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83d\udc64 EL SE\u00d1OR NADIE"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Director del Reformatorio"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u26a1 Anulaci\u00f3n Total de Poderes"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "53 a\u00f1os"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aSk5AidV",
+      "typeName": "shape"
+    },
+    {
+      "x": -72.61275603991601,
+      "y": 502.3956144957983,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:section-staff",
+      "type": "geo",
+      "props": {
+        "w": 802.612756039916,
+        "h": 777.6043855042017,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "l",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2550\u2550\u2550 PERSONAL \u2550\u2550\u2550"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aTUsncJG",
+      "typeName": "shape"
+    },
+    {
+      "x": 100,
+      "y": 600,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:marcus-coach",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 53.484375,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "MARCUS \"EL COACH\""
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Supervisor Educaci\u00f3n F\u00edsica"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Promete combates"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aUm5zuQl",
+      "typeName": "shape"
+    },
+    {
+      "x": 100,
+      "y": 780,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:ana-flores",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ANA FLORES"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seguridad"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aVe9TBgV",
+      "typeName": "shape"
+    },
+    {
+      "x": 480,
+      "y": 780,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:viktor-kozlov",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "VIKTOR KOZLOV"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Seguridad"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aWPZiz4G",
+      "typeName": "shape"
+    },
+    {
+      "x": 100,
+      "y": 960,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:daniel-kwon",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "DANIEL KWON"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Profesor"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aXDteZUl",
+      "typeName": "shape"
+    },
+    {
+      "x": 480,
+      "y": 960,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elena-mora",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 4.890625,
+        "url": "",
+        "scale": 1,
+        "color": "violet",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ELENA MORA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Profesora"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2b50 Clave libertad"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aYgoN19V",
+      "typeName": "shape"
+    },
+    {
+      "x": 100,
+      "y": 1140,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:hector-ruiz",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 4.890625,
+        "url": "",
+        "scale": 1,
+        "color": "grey",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "H\u00c9CTOR RUIZ"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Conserje"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ve y escucha todo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aZJEvHnV",
+      "typeName": "shape"
+    },
+    {
+      "x": 480,
+      "y": 1140,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:yuki-tanaka-jardinero",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 100,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "YUKI TANAKA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Jardinero"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aa6dgroV",
+      "typeName": "shape"
+    },
+    {
+      "x": 781.1855632878151,
+      "y": 503.9635307247901,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:section-protagonistas",
+      "type": "geo",
+      "props": {
+        "w": 385,
+        "h": 770.4552914915968,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "l",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2550\u2550\u2550 PROTAGONISTAS \u2550\u2550\u2550"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "ab8Q29GV",
+      "typeName": "shape"
+    },
+    {
+      "x": 928.1855632878151,
+      "y": 603.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:sergei",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 140,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83e\udd8e SERGEI (PJ)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Metamorfo veterano"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "16-17 a\u00f1os"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Bromista, l\u00edder social"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "acbCUQOl",
+      "typeName": "shape"
+    },
+    {
+      "x": 928.1855632878151,
+      "y": 823.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:tiritas",
+      "type": "geo",
+      "props": {
+        "w": 200,
+        "h": 140,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 62.078125,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83d\udcaa TIRITAS (J\u00falia Gasull)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Absorbe energ\u00eda cin\u00e9tica"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "2 a\u00f1os aqu\u00ed"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Cicatrices, traumatizado"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "adUMjcRG",
+      "typeName": "shape"
+    },
+    {
+      "x": 928.1855632878151,
+      "y": 1023.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:kira",
+      "type": "geo",
+      "props": {
+        "w": 204,
+        "h": 177.78125,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u26a1 KIRA (Adriana F. Gonzalez)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Manipuladora el\u00e9ctrica"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "13-14 a\u00f1os"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Reci\u00e9n llegada"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aehGNDzl",
+      "typeName": "shape"
+    },
+    {
+      "x": 1235.856230780803,
+      "y": 500.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:section-internos",
+      "type": "geo",
+      "props": {
+        "w": 1350,
+        "h": 800,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "orange",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "l",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2550\u2550\u2550 INTERNOS \u2550\u2550\u2550"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "afZ1GifV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1715.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:tomas",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "orange",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "TOM\u00c1S"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Velocidad"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "agHoLJiV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2045.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:yuki",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 49.1875,
+        "url": "",
+        "scale": 1,
+        "color": "light-blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "YUKI"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Hielo"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "ah6iCSsV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1385.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:zara",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "yellow",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ZARA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Tecnolog\u00eda"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "ajHf9YuV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1385.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:lea",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 49.1875,
+        "url": "",
+        "scale": 1,
+        "color": "violet",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "L\u00c9A"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Transforma"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "akNTf2eV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1715.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:jein",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 49.1875,
+        "url": "",
+        "scale": 1,
+        "color": "grey",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "JIN"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sombras"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "alBuTQzl",
+      "typeName": "shape"
+    },
+    {
+      "x": 2642.5846464058604,
+      "y": 494.0954227676493,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:section-desaparecidos",
+      "type": "geo",
+      "props": {
+        "w": 650,
+        "h": 282.1783088235295,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "l",
+        "font": "draw",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u2550\u2550\u2550 DESAPARECIDOS \u2550\u2550\u2550"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "amTYxfsV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2792.5846464058604,
+      "y": 594.0954227676493,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:amara",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 73.484375,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83d\udc94 AMARA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Emp\u00e1tica"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u26a0\ufe0f DESAPARECIDA"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "an4IX7iV",
+      "typeName": "shape"
+    },
+    {
+      "x": 3122.5846464058604,
+      "y": 594.0954227676493,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:dimitri",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 49.1875,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\ud83d\udc64 DIMITRI"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "\u26a0\ufe0f DESAPARECIDO"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "ao4NSrQV",
+      "typeName": "shape"
+    },
+    {
+      "x": 880,
+      "y": 200,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:el-senor-nadie-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:el-senor-nadie-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b07hcsaoV",
+      "typeName": "shape"
+    },
+    {
+      "x": -30,
+      "y": 600,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:marcus-coach-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:marcus-coach-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b08SODL6V",
+      "typeName": "shape"
+    },
+    {
+      "x": -30,
+      "y": 780,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:ana-flores-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:ana-flores-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b09tqiNBV",
+      "typeName": "shape"
+    },
+    {
+      "x": 350,
+      "y": 780,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:viktor-kozlov-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:viktor-kozlov-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0ArWPfHV",
+      "typeName": "shape"
+    },
+    {
+      "x": -30,
+      "y": 960,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:daniel-kwon-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:daniel-kwon-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0BOKwVsV",
+      "typeName": "shape"
+    },
+    {
+      "x": 350,
+      "y": 960,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elena-mora-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:elena-mora-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0C6xzGbl",
+      "typeName": "shape"
+    },
+    {
+      "x": -30,
+      "y": 1140,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:hector-ruiz-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:hector-ruiz-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0DbEBURl",
+      "typeName": "shape"
+    },
+    {
+      "x": 350,
+      "y": 1140,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:yuki-tanaka-jardinero-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:yuki-tanaka-jardinero-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0EudVUJl",
+      "typeName": "shape"
+    },
+    {
+      "x": 798.1855632878151,
+      "y": 603.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:sergei-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:sergei-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0FIMpzXG",
+      "typeName": "shape"
+    },
+    {
+      "x": 798.1855632878151,
+      "y": 823.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:tiritas-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:tiritas-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0GrBazhG",
+      "typeName": "shape"
+    },
+    {
+      "x": 798.1855632878151,
+      "y": 1023.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:kira-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:kira-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0Hh8BMeV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1585.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:tomas-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:tomas-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0IkigFaV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1915.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:yuki-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:yuki-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0Jv8qu1V",
+      "typeName": "shape"
+    },
+    {
+      "x": 1255.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:zara-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:zara-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0KNkBgDV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1255.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:lea-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:lea-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0Lb0BKiV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1585.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:jein-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:jein-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0MYjl2qV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2662.5846464058604,
+      "y": 594.0954227676493,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:amara-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:amara-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0N6zkI6G",
+      "typeName": "shape"
+    },
+    {
+      "x": 2992.5846464058604,
+      "y": 594.0954227676493,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:dimitri-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:dimitri-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0OU3o1Kl",
+      "typeName": "shape"
+    },
+    {
+      "x": 1715.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elio",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "orange",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "ELIO"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Luz"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P0aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1585.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elio-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:elio-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P0bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 2375.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:fatima",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "FATIMA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Escudos"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P1aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2245.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:fatima-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:fatima-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P1bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 1385.856230780803,
+      "y": 1080.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:kaida",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "KAIDA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fuego"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P2aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1255.856230780803,
+      "y": 1080.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:kaida-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:kaida-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P2bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 1385.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:luna",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "violet",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "LUNA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Sue\u00f1os"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P3aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1255.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:luna-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:luna-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P3bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 2045.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:marcus-santos",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 49.1875,
+        "url": "",
+        "scale": 1,
+        "color": "yellow",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "MARCUS"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Fuerza"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P4aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1915.856230780803,
+      "y": 760.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:marcus-santos-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:marcus-santos-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P4bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 2045.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:nia",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "light-blue",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "NIA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Animales"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P5aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 1915.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:nia-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:nia-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P5bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 2375.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:ravi",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "red",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "RAVI"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Atraviesa"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P6aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2245.856230780803,
+      "y": 600.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:ravi-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:ravi-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P6bG",
+      "typeName": "shape"
+    },
+    {
+      "x": 2375.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:safiya",
+      "type": "geo",
+      "props": {
+        "w": 150,
+        "h": 80,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 24.890625,
+        "url": "",
+        "scale": 1,
+        "color": "grey",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "SAFIYA"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Curaci\u00f3n"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "b0P7aV",
+      "typeName": "shape"
+    },
+    {
+      "x": 2245.856230780803,
+      "y": 920.0702054031551,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:safiya-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:safiya-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0P7bG",
+      "typeName": "shape"
+    }
+  ],
+  "assets": [
+    {
+      "id": "asset:lea-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "lea",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Lea_Dubois-Nguyen.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:zara-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "zara",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Zara_Qasim-Kowalski.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:dimitri-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "dimitri",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Dmitri_Volkov-Ramirez.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:viktor-kozlov-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "viktor-kozlov",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Viktor%20Kozlov.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:el-senor-nadie-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "el-senor-nadie",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/senor-nadie.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:safiya-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "safiya",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Safiya_Abbas-Petrov.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:yuki-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "yuki",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Yuki_Tanaka-Al-Rashid.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:yuki-tanaka-jardinero-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "yuki-tanaka-jardinero",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Yuki%20Tanaka.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:luna-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "luna",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Luna_Fernandez-Zhang.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:kaida-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "kaida",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Kaida_Chen-Okafor.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:hector-ruiz-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "hector-ruiz",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Hector%20Ruiz.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:jein-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "jein",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Jin_Park-Okonkwo.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:ravi-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "ravi",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Ravi_Kapoor-Muller.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:fatima-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "fatima",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Fatima_Al-Amin-Rodriguez.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:daniel-kwon-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "daniel-kwon",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Daniel%20Kwon.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:tiritas-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "tiritas",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/tiritas.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:sergei-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "sergei",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/sergei.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:elena-mora-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "elena-mora",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Elena%20Mora.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:kira-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "kira",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/kira.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:elio-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "elio",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Elio_Rossi-Kim.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:marcus-santos-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "marcus-santos",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Marcus_Williams-Santos.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:amara-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "amara",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Amara_Osei-Baptiste.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:marcus-coach-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "marcus-coach",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Marcus%20Coach%20Williams.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:tomas-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "tomas",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Tomas_Vargas-Lee.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:ana-flores-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "ana-flores",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Ana%20Flores.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:nia-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "nia",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/Nia_Thompson-Okafor.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    }
+  ],
+  "schema": {
+    "schemaVersion": 2,
+    "sequences": {
+      "com.tldraw.store": 5,
+      "com.tldraw.asset": 1,
+      "com.tldraw.camera": 1,
+      "com.tldraw.document": 2,
+      "com.tldraw.instance": 25,
+      "com.tldraw.instance_page_state": 5,
+      "com.tldraw.page": 1,
+      "com.tldraw.instance_presence": 6,
+      "com.tldraw.pointer": 1,
+      "com.tldraw.shape": 4,
+      "com.tldraw.asset.bookmark": 2,
+      "com.tldraw.asset.image": 5,
+      "com.tldraw.asset.video": 5,
+      "com.tldraw.shape.group": 0,
+      "com.tldraw.shape.text": 3,
+      "com.tldraw.shape.bookmark": 2,
+      "com.tldraw.shape.draw": 2,
+      "com.tldraw.shape.geo": 10,
+      "com.tldraw.shape.note": 9,
+      "com.tldraw.shape.line": 5,
+      "com.tldraw.shape.frame": 1,
+      "com.tldraw.shape.arrow": 7,
+      "com.tldraw.shape.highlight": 1,
+      "com.tldraw.shape.embed": 4,
+      "com.tldraw.shape.image": 5,
+      "com.tldraw.shape.video": 4,
+      "com.tldraw.binding.arrow": 1
+    }
+  }
+}

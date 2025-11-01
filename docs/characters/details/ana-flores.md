@@ -7,6 +7,10 @@ slug: ana-flores
 
 # Ana Flores
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/Ana Flores.png" alt="Ana Flores" />
+</div>
+
 **Guardia de Seguridad en Reformatorio Nueva Esperanza**
 
 ## Información Básica

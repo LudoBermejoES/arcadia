@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reformatorio Nueva Esperanza - Esquema Visual</title>
+  <script type="module">
+    import { Tldraw } from 'https://esm.sh/tldraw@4.1.2'
+    import { createRoot } from 'https://esm.sh/react-dom@18.3.1/client'
+    import { createElement, useRef } from 'https://esm.sh/react@18.3.1'
+
+    // Fetch the diagram data
+    const diagramData = await fetch('./reformatorio-diagram.json').then(r => r.json())
+
+    function App() {
+      const editorRef = useRef(null)
+
+      const loadDiagram = (editor) => {
+        editorRef.current = editor
+
+        // Load the saved diagram snapshot
+        if (diagramData && diagramData.shapes && diagramData.assets) {
+          // Create assets first
+          editor.createAssets(diagramData.assets)
+
+          // Then create all shapes
+          diagramData.shapes.forEach(shape => {
+            editor.createShape(shape)
+          })
+
+          // Zoom to fit after loading
+          setTimeout(() => {
+            editor.zoomToFit({ animation: { duration: 400 } })
+          }, 100)
+        }
+      }
+
+      return createElement(
+        'div',
+        { style: { position: 'fixed', inset: 0 } },
+        createElement(Tldraw, { onMount: loadDiagram })
+      )
+    }
+
+    const root = createRoot(document.getElementById('root'))
+    root.render(createElement(App))
+  </script>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+    }
+    #root {
+      width: 100vw;
+      height: 100vh;
+    }
+  </style>
+</head>
+<body>
+  <div id="root"></div>
+</body>
+</html>

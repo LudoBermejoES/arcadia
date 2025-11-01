@@ -7,6 +7,10 @@ slug: la-comadreja
 
 # La Comadreja
 
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/la-comadreja.png" alt="La Comadreja" />
+</div>
+
 ## Presentación
 La Comadreja fue la primera delincuente metahumana que se convirtió en una figura popular en Arcadia durante la década de 1950. Ladrona especializada en robos de alta gama, se caracterizaba por su astucia, habilidades acrobáticas extraordinarias y un peculiar código de honor que la convirtió en una "ladrona caballerosa" admirada por las clases bajas.
 

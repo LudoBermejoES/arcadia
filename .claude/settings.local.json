@@ -12,7 +12,12 @@
       "Read(//c/mnt/c/code/**)",
       "Bash(python:*)",
       "Bash(npm install:*)",
-      "Bash(npm run build:*)"
+      "Bash(npm run build:*)",
+      "Bash(git checkout:*)",
+      "Bash(npx tldraw:*)",
+      "Bash(timeout 3 npx tldraw open --local)",
+      "Bash(chmod:*)",
+      "Bash(/Users/ludo/code/arcadia/work/download-avatars.sh)"
     ],
     "deny": [],
     "ask": [],

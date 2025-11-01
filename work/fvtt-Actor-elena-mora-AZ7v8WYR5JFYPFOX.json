@@ -1,0 +1,1228 @@
+{
+  "name": "Elena Mora",
+  "type": "npc",
+  "folder": "aFj6gXyrs507xBed",
+  "system": {
+    "attributes": {
+      "agility": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "smarts": {
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "animal": false,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "spirit": {
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "unShakeBonus": 0,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "strength": {
+        "die": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "encumbranceSteps": 0
+      },
+      "vigor": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "unStunBonus": 0,
+        "soakBonus": 0,
+        "bleedOut": {
+          "modifier": 0,
+          "ignoreWounds": false
+        }
+      }
+    },
+    "stats": {
+      "toughness": {
+        "value": 5,
+        "modifier": 0,
+        "armor": 0
+      },
+      "parry": {
+        "value": 2,
+        "shield": 0,
+        "modifier": 0
+      },
+      "size": 0,
+      "speed": {}
+    },
+    "details": {
+      "biography": {
+        "value": "Elena Mora Profesora de literatura y escritura creativa, cree en rehabilitación a través de expresión.<br /> Una de las pocas personas en Isla Aldebo que trata a los internos como humanos.<br />"
+      },
+      "autoCalcToughness": false,
+      "autoCalcParry": true,
+      "archetype": "Profesora",
+      "appearance": "",
+      "notes": "",
+      "goals": "",
+      "species": {
+        "name": ""
+      },
+      "currency": 0,
+      "wealth": {
+        "die": 6,
+        "modifier": 0,
+        "wild-die": 6
+      },
+      "conviction": {
+        "value": 0,
+        "active": false
+      }
+    },
+    "powerPoints": {
+      "general": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "wounds": {
+      "max": 0,
+      "ignored": 0,
+      "value": 0
+    },
+    "initiative": {
+      "hasHesitant": false,
+      "hasLevelHeaded": false,
+      "hasImpLevelHeaded": false,
+      "hasQuick": false,
+      "follow": ""
+    },
+    "wildcard": false,
+    "additionalStats": {
+      "chi": {
+        "label": "Chi",
+        "dtype": "Number",
+        "hasMaxValue": false
+      }
+    },
+    "bennies": {
+      "value": 0,
+      "max": 0
+    },
+    "pace": {
+      "base": "ground",
+      "ground": 6,
+      "fly": null,
+      "swim": null,
+      "burrow": null,
+      "running": {
+        "die": 6,
+        "mod": 0
+      }
+    },
+    "category": "",
+    "auras": {
+      "aura1": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      },
+      "aura2": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      }
+    },
+    "fatigue": {
+      "value": 0,
+      "max": 2,
+      "ignored": 0
+    },
+    "woundsOrFatigue": {
+      "ignored": 0
+    },
+    "advances": {
+      "mode": "expanded",
+      "value": 0,
+      "rank": "Novice",
+      "details": "",
+      "list": []
+    },
+    "status": {
+      "isShaken": false,
+      "isDistracted": false,
+      "isVulnerable": false,
+      "isStunned": false,
+      "isEntangled": false,
+      "isBound": false,
+      "isIncapacitated": false
+    }
+  },
+  "items": [
+    {
+      "name": "Humanidades",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/graduate-cap.svg",
+      "system": {
+        "description": "<p>Humanidades refleja el conocimiento de las artes liberales, las ciencias sociales, la literatura, la historia, la arqueología y campos similares. Si un explorador quiere recordar cuándo terminó el calendario maya o citar una línea de <cite>Macbeth</cite>, esta es la habilidad que debe tener.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "academics",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 12,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Academics"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "C4On9utRQUBsOX3t",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Conocimientos Generales",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/gift-of-knowledge.svg",
+      "system": {
+        "description": "<p>Los personajes tiran Conocimientos Generales para conocer personas, lugares y cosas de su mundo, incluyendo etiqueta, geografía, cultura, tecnología popular, contactos y costumbres.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "common-knowledge",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Common Knowledge"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "NPsTYBc8ASkpH9Yw",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Notar",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/psychic-waves.svg",
+      "system": {
+        "description": "<p>Notar representa el nivel de alerta y consciencia general del entorno del héroe. Se utiliza para percibir luces, sonidos, sabores u olores, detectar pistas, detectar emboscadas, encontrar armas ocultas en un enemigo, o determinar si un rival está mintiendo, asustado, feliz, etc.</p>\n<p>El @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} proporciona información básica—el personaje escucha movimiento en el bosque, huele humo distante, o percibe que alguien no está siendo completamente honesto.</p>\n<p>Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} otorga más detalles, como la dirección de un sonido u olor o sobre qué tema una persona está evadiendo o mintiendo.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "notice",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Notice"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "EbaXMn5Y4DwSpQHX",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Performance",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/drama-masks.svg",
+      "system": {
+        "description": "<p>A good entertainer can lift the spirits, rally a crowd to action, or simply earn a few bucks from the locals. Specifics depend on the situation, setting, and how well the character is known in the area.</p>\n<p>Performance covers singing, acting, playing an instrument, or similar tasks that require an audience to appreciate.</p>\n<p><strong>Raising Funds:</strong> The amount of money a character can raise by performing is extremely subjective, but as a general rule a @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{successful} performance raises 20% of the setting's @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Starting Funds} with a success and 30% with a raise. The GM can multiply this amount by the performer's @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01advancement000]{Rank} if she feels it's appropriate. These numbers work for typical performers who might be known in a small establishment or area. Larger performances can greatly boost the performer's fee, but also require more time, energy, and setup.</p>\n<p><strong>Deception: </strong>Performance can be used instead of @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} if the character is attempting to deceive, bluff, or disguise herself and the GM agrees it makes sense in the context of the situation.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "performance",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "UjGZcsU3iM9hcwBl",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Persuadir",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/convince.svg",
+      "system": {
+        "description": "<p>Persuadir es la habilidad de convencer a otros para que hagan lo que quieres a través de la razón, el halago, el engaño, las recompensas u otros medios amistosos. Persuadir no es control mental. Puede cambiar la actitud de alguien, pero no sus objetivos. Un bandido puede dejarte conservar una joya sentimental con una buena tirada de Persuadir, pero aun así se llevará todos tus otros bienes.</p>\n<p>Cuando se usa para @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03support0000000]{Apoyar} a los aliados, es una tirada sin oposición. Si el objetivo es resistente, es una tirada opuesta contra el @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Espíritu} del objetivo. El DJ debe modificar la tirada como considere oportuno basándose en la interpretación, cualquier @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01edges000000000]{Ventaja} o @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01hindrances0000]{Desventaja} pertinente que afecte a la conversación y las circunstancias.</p>\n<p><strong>Nivel de Reacción:</strong> La disposición de una persona a cooperar depende en gran medida de su actitud hacia quien le habla. El Director de Juego puede decidir cómo se sienten los personajes no jugadores basándose en el entorno, o tirar en la @Compendium[swade-core-rules.swade-tables.Reaction Table]{Tabla de Reacciones} si no tiene ideas preconcebidas.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} mejora la actitud del objetivo en un nivel y una subida la mejora en dos. Generalmente no es posible lograr más aumentos en el mismo encuentro; a los individuos les lleva un poco de tiempo ajustar sus prejuicios.</p>\n<p>Un @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{fallo} significa que el objetivo no cambiará de opinión en esta escena o hasta que la situación cambie de alguna manera importante. Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{pifia} empeora la actitud del objetivo en dos niveles (a un mínimo de Hostil).</p>\n<p><strong>Red de Contactos:</strong> Persuasión también se puede usar como una habilidad “macro” para simular varias horas de socialización. Consulta @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Red de Contactos} para ver cómo usar tus encantos para obtener favores o información.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "persuasion",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Persuasion"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "HkRafmUDpN7JskNz",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Research",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/archive-research.svg",
+      "system": {
+        "description": "<p>A character skilled in Research knows how to make good use of libraries, newspaper morgues, the internet, or other written sources of information.</p>\n<p>The amount of time this takes is up to the GM and the situation. Finding something on the internet or a specific passage in a book might be possible in a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{combat round}. Looking through books in a library, searching the internet for a complex topic, or digging up background information on an individual usually takes about an hour.</p>\n<p>@UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Success} finds basic information and a raise provides more detail. @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{Failure} means the researcher doesn’t find what she’s looking for.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} might mean the researcher finds plausible but incorrect information, triggers the notice of some opposed entity or faction, reads something “Humanity Was Not Meant to Know” and suffers a mental illness of some sort (a Minor @Compendium[swade-core-rules.swade-hindrances.Phobia]{Phobia}, @Compendium[swade-core-rules.swade-hindrances.Quirk]{Quirk}, etc.), or she might even accidentally destroy the source. The GM is encouraged to be creative when such a mishap occurs, perhaps forcing the party to approach the situation in a different way.</p>\n<p><strong>Related Skills: </strong>If a character has a skill that relates directly to the subject he’s researching, he can use that instead of Research. An explorer with @Compendium[swade-core-rules.swade-skills.Occult]{Occult} d10 and Research d6, for example, rolls a d10 when investigating vampire lore at a forgotten library. If he later goes to search for the deed to a house where the vampires are rumored to lair, he rolls his normal Research instead.</p>\n<p><strong>Note: </strong>Research may only provide the clues, especially in a mystery-heavy game. Putting the clues together from the information gathered is up to the players.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "research",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "mDiQ2gOBaXXFUqyb",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Carismático",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Tu héroe es agradable por alguna razón. Puede ser digno de confianza o amable, o simplemente irradiar confianza y buena voluntad. Obtienes una repetición gratuita en las tiradas de @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión}.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "charismatic",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Charismatic"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "pvThx5FLuzalRp5e",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Lingüista",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Este viajero del mundo tiene un don para los idiomas. Comienza el juego conociendo la mitad de su tipo de dado de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Astucia} en diferentes habilidades de @Compendium[swade-core-rules.swade-skills.Language]{Idioma} de su elección a d6.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "linguist",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Linguist"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "gFxvPPOMZ4OSB03F",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Erudito",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Profesores eruditos, estudiantes devotos y entusiastas aficionados pasan grandes cantidades de tiempo y energía estudiando temas particulares. Se convierten en expertos en estos campos y rara vez fallan al responder preguntas en su área particular de especialización.</p>\n<p>Elige una de las siguientes habilidades: @Compendium[swade-core-rules.swade-skills.Academics]{Humanidades}, @Compendium[swade-core-rules.swade-skills.Battle]{Tácticas}, @Compendium[swade-core-rules.swade-skills.Occult]{Ocultismo}, @Compendium[swade-core-rules.swade-skills.Science]{Ciencias}, o una habilidad de tipo \"conocimiento\" basada en @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Astucia} permitida en tu entorno, y añade +2 al total siempre que se usen.</p>\n<p>Esta Ventaja puede tomarse más de una vez si se aplica a diferentes habilidades.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "scholar",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Professional",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Scholar"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "62obbkBJPxofQwU1",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "hindrance",
+      "name": "Idealistic",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "",
+        "notes": "",
+        "additionalStats": {},
+        "major": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "either"
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "B5IOtdt5afJfundY",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Pacifista",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>(MENOR O MAYOR)</p>\n<p>Tu héroe desprecia absolutamente la violencia. El pacifismo menor significa que solo lucha cuando no le queda otra opción y nunca permite la matanza de prisioneros u otras víctimas indefensas.</p>\n<p>Los Pacifistas Mayores no lucharán contra personajes vivos bajo ninguna circunstancia. Pueden defenderse, pero no harán nada para dañar permanentemente a criaturas sapientes y vivas. Pueden usar métodos @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0]{no letales}, pero solo en defensa propia o en defensa de otros. ¡Ten en cuenta que las criaturas innegablemente malvadas, los no muertos, los demonios y similares son presa fácil incluso para los Pacifistas Mayores!</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "pacifist",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "either",
+        "major": true
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Pacifist"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "EaT3ej81mD2OZukj",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Tozudo",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Los individuos tozudos siempre quieren salirse con la suya y nunca admiten que están equivocados. Incluso cuando es dolorosamente obvio que han cometido un error, intentan justificarlo con medias verdades y racionalizaciones.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "stubborn",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "minor",
+        "major": false
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Stubborn"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "peQpzCLLjbgQ5H0T",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "weapon",
+      "name": "@sa Compassionate Teacher",
+      "img": "systems/swade/assets/icons/weapon.svg",
+      "system": {
+        "description": "+2 to Persuasion with students when showing empathy @sa Informal Librarian: Knows literature that can help each inmate @sa Voice of Reason: Can calm tense situations with careful words @sa Pragmatic Idealist: Believes in inmates even when they don't believe in themselves  **Historia:** Elena llegó a Isla Aldebo hace 5 años después de enseñar en escuelas públicas regulares por 15 años. Vio el anuncio de trabajo y pensó que podía marcar diferencia. Los primeros meses fueron brutales: los internos la probaban constantemente, destruían sus materiales, se burlaban de sus lecciones.  Pero Elena persistió. Lentamente, algunos internos comenzaron a confiar en ella. Amara descubrió que le gustaba escribir poesía. Luna dibuja en los márgenes de sus cuadernos. Safiya lee sobre medicina.  Elena es una de las pocas personas que los internos respetan genuinamente. No los trata como criminales o monstruos. Los trata como adolescentes traumatizados que necesitan ayuda.  Tiene conflictos constantes con Señor Nadie, quien cree que compasión es debilidad. Elena cree que anular poderes de los niños es crueldad innecesaria. Discuten frecuentemente en reuniones de personal.  Elena sabe que la mayoría de estos jóvenes nunca saldrán del sistema. Pero si puede ayudar aunque sea a uno, vale la pena.  **Secreto:** Elena tiene una hija de 16 años que es metahumana con poderes menores de empatía. Mantiene esto en secreto absoluto porque teme que MetaCorp la use como palanca contra ella. Su hija vive con su ex-esposo y no sabe dónde trabaja su madre realmente.",
+        "equippable": true,
+        "equipStatus": 4,
+        "damage": "@str",
+        "range": "",
+        "rof": 1,
+        "ap": 0,
+        "shots": null,
+        "currentShots": null,
+        "actions": {
+          "trait": "Fighting",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "templates": {
+          "cone": false,
+          "stream": false,
+          "small": false,
+          "medium": false,
+          "large": false
+        },
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "rangeType": null,
+        "parry": 0,
+        "minStr": "",
+        "ammo": "",
+        "reloadType": "none",
+        "ppReloadCost": 2,
+        "trademark": 0,
+        "isHeavyWeapon": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "SJWeEvAGdHmiQ2yk",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Reading Glasses",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "sYlrqMmBiKs7w0Cu",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Backpack Full Of Books",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "DNQVJ2pP1SXUCmy7",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Student Notebooks",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "M9Dohn3aGwLay62k",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Educational Tablet",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "ySCrZMGlAohvkWTQ",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Coffee Thermos",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "2WeCF2JA5N3E9vhP",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "prototypeToken": {
+    "displayName": 0,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "sight": {
+      "enabled": true,
+      "range": 30,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Elena Mora",
+    "actorLink": false,
+    "texture": {
+      "src": "tokenizer/npc-images/elena_mora.Token.webp?1761393855053",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "flags": {
+    "importerApp": {
+      "app": "SWADE Stat Block Importer",
+      "id": "swade-npc-importer",
+      "appVersion": "0.5.0",
+      "importDate": "2025-10-25T11:49:54.372Z"
+    }
+  },
+  "img": "tokenizer/npc-images/elena_mora.Avatar.webp?1761393855053",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "arcadia",
+      "uuid": "Actor.AZ7v8WYR5JFYPFOX",
+      "coreVersion": "13.350",
+      "systemId": "swade",
+      "systemVersion": "5.0.7"
+    },
+    "coreVersion": "13.350",
+    "systemId": "swade",
+    "systemVersion": "5.0.7",
+    "createdTime": 1761392994483,
+    "modifiedTime": 1761480374701,
+    "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

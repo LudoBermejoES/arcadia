@@ -8,7 +8,8 @@ export const reformatorioData = {
     age: '53 años',
     color: 'red',
     x: 650,
-    y: 200
+    y: 200,
+    image: 'https://arcadia.ludobermejo.es/assets/img/characters/senor-nadie.png'
   },
 
   staff: [
@@ -19,7 +20,8 @@ export const reformatorioData = {
       note: 'Promete combates',
       color: 'blue',
       x: 100,
-      y: 480
+      y: 480,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Marcus%20Coach%20Williams.png'
     },
     {
       id: 'ana-flores',
@@ -27,33 +29,55 @@ export const reformatorioData = {
       role: 'Seguridad',
       color: 'blue',
       x: 100,
-      y: 600
+      y: 600,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Ana%20Flores.png'
     },
     {
-      id: 'victor-crofblob',
-      name: 'VÍCTOR CROFBLOB',
-      role: 'Profesor/Médico (50 años)',
-      note: 'Barra electrificada\nEsposas anuladoras',
+      id: 'viktor-kozlov',
+      name: 'VIKTOR KOZLOV',
+      role: 'Seguridad',
+      color: 'blue',
+      x: 300,
+      y: 600,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Viktor%20Kozlov.png'
+    },
+    {
+      id: 'daniel-kwon',
+      name: 'DANIEL KWON',
+      role: 'Profesor (Ciencias/Matemáticas)',
       color: 'blue',
       x: 100,
-      y: 720
+      y: 860,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Daniel%20Kwon.png'
     },
     {
-      id: 'daniel-quon',
-      name: 'DANIEL QUON',
-      role: 'Profesor',
-      color: 'blue',
-      x: 100,
-      y: 860
-    },
-    {
-      id: 'elena-frutas',
-      name: 'ELENA "FRUTAS DEL BOSQUE"',
-      role: 'Psicóloga',
+      id: 'elena-mora',
+      name: 'ELENA MORA',
+      role: 'Profesora (Literatura)',
       note: '⭐ Clave para libertad',
       color: 'violet',
       x: 100,
-      y: 960
+      y: 960,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Elena%20Mora.png'
+    },
+    {
+      id: 'hector-ruiz',
+      name: 'HÉCTOR RUIZ',
+      role: 'Conserje (58 años)',
+      note: 'Ve todo, escucha todo',
+      color: 'grey',
+      x: 100,
+      y: 1100,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Hector%20Ruiz.png'
+    },
+    {
+      id: 'yuki-tanaka-jardinero',
+      name: 'YUKI TANAKA',
+      role: 'Jardinero (52 años)',
+      color: 'green',
+      x: 300,
+      y: 1100,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Yuki%20Tanaka.png'
     }
   ],
 
@@ -66,7 +90,8 @@ export const reformatorioData = {
       details: '16-17 años\nEn reformatorio desde 12-13 años\nBromista, líder social',
       color: 'green',
       x: 500,
-      y: 480
+      y: 480,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/sergei.png'
     },
     {
       id: 'tiritas',
@@ -76,7 +101,8 @@ export const reformatorioData = {
       details: '2 años en reformatorio\nMató padre en defensa propia\nCicatrices, traumatizado',
       color: 'green',
       x: 500,
-      y: 650
+      y: 650,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/tiritas.png'
     },
     {
       id: 'kira',
@@ -86,7 +112,8 @@ export const reformatorioData = {
       details: '13-14 años (la más joven)\nRecién llegada\nDejó compañero en coma',
       color: 'green',
       x: 500,
-      y: 820
+      y: 820,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/kira.png'
     }
   ],
 
@@ -97,7 +124,8 @@ export const reformatorioData = {
       note: 'Conflictivo\nTemperamental',
       color: 'orange',
       x: 900,
-      y: 480
+      y: 480,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Tomas_Vargas-Lee.png'
     },
     {
       id: 'yuki',
@@ -105,7 +133,8 @@ export const reformatorioData = {
       note: 'Manipula hielo\nBromista',
       color: 'light-blue',
       x: 900,
-      y: 580
+      y: 580,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Yuki_Tanaka-Al-Rashid.png'
     },
     {
       id: 'al',
@@ -121,7 +150,8 @@ export const reformatorioData = {
       note: 'Niña pequeña\nPoderes con cacharros\nSe ducha con Kira',
       color: 'yellow',
       x: 900,
-      y: 780
+      y: 780,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Zara_Qasim-Kowalski.png'
     },
     {
       id: 'lea',
@@ -129,7 +159,8 @@ export const reformatorioData = {
       note: '14-15 años\nSe transforma al asustarse\nSiempre con espejo\nEvita relacionarse',
       color: 'violet',
       x: 900,
-      y: 900
+      y: 900,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Lea_Dubois-Nguyen.png'
     },
     {
       id: 'jein',
@@ -137,7 +168,8 @@ export const reformatorioData = {
       note: 'Desaparece en oscuridad\nNo le gusta ducharse\nMolesto por agua\n(posiblemente autista)',
       color: 'grey',
       x: 1150,
-      y: 480
+      y: 480,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Jin_Park-Okonkwo.png'
     }
   ],
 
@@ -148,7 +180,8 @@ export const reformatorioData = {
       note: 'Empática\nPercibe/envía emociones\nCausaba discordia\n⚠️ DESAPARECIDA',
       color: 'red',
       x: 1400,
-      y: 480
+      y: 480,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Amara_Osei-Baptiste.png'
     },
     {
       id: 'dimitri',
@@ -156,7 +189,8 @@ export const reformatorioData = {
       note: 'Interno\n⚠️ DESAPARECIDO',
       color: 'red',
       x: 1400,
-      y: 620
+      y: 620,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/Dmitri_Volkov-Ramirez.png'
     }
   ],
 

@@ -234,6 +234,15 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
       { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
       { slug: 'kira', name: 'Kira', image: 'kira.png' },
+      // Personal del reformatorio
+      { slug: 'el-senor-nadie', name: 'El Señor Nadie (Director)', image: 'senor-nadie.png' },
+      { slug: 'elena-mora', name: 'Elena Mora (Profesora)', image: 'elena-mora.png' },
+      { slug: 'daniel-kwon', name: 'Daniel Kwon (Profesor)', image: 'daniel-kwon.png' },
+      { slug: 'marcus-coach-williams', name: 'Marcus "Coach" Williams', image: 'Marcus_Williams-Santos.png' },
+      { slug: 'hector-ruiz', name: 'Hector Ruiz (Conserje)', image: 'hector-ruiz.png' },
+      { slug: 'yuki-tanaka-jardinero', name: 'Yuki Tanaka (Jardinero)', image: 'yuki-tanaka-jardinero.png' },
+      { slug: 'ana-flores', name: 'Ana Flores (Guardia)', image: 'ana-flores.png' },
+      { slug: 'viktor-kozlov', name: 'Viktor Kozlov (Guardia)', image: 'viktor-kozlov.png' },
       // Otros internos del reformatorio
       { slug: 'kaida-chen-okafor', name: 'Kaida Chen-Okafor', image: 'Kaida_Chen-Okafor.png' },
       { slug: 'dmitri-volkov-ramirez', name: 'Dmitri Volkov-Ramírez', image: 'Dmitri_Volkov-Ramirez.png' },
@@ -243,7 +252,6 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'yuki-tanaka-al-rashid', name: 'Yuki Tanaka-Al-Rashid', image: 'Yuki_Tanaka-Al-Rashid.png' },
       { slug: 'fatima-al-amin-rodriguez', name: 'Fatima Al-Amin-Rodríguez', image: 'Fatima_Al-Amin-Rodriguez.png' },
       { slug: 'lea-dubois-nguyen', name: 'Léa Dubois-Nguyen', image: 'Lea_Dubois-Nguyen.png' },
-      { slug: 'marcus-williams-santos', name: 'Marcus Williams-Santos', image: 'Marcus_Williams-Santos.png' },
       { slug: 'jin-park-okonkwo', name: 'Jin Park-Okonkwo', image: 'Jin_Park-Okonkwo.png' },
       { slug: 'zara-qasim-kowalski', name: 'Zara Qasim-Kowalski', image: 'Zara_Qasim-Kowalski.png' },
       { slug: 'ravi-kapoor-muller', name: 'Ravi Kapoor-Müller', image: 'Ravi_Kapoor-Muller.png' },

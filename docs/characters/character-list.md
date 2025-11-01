@@ -347,7 +347,24 @@ permalink: /characters/character-list/
 - [Diego Moreau-Kim]({{ site.baseurl }}/characters/details/diego-moreau-kim/) (estudiante de Química Ambiental, enfoque en sostenibilidad)
 - [Zara Al-Mahmoud-Silva]({{ site.baseurl }}/characters/details/zara-al-mahmoud-silva/) (estudiante senior de Física Teórica, fundamentos cuánticos)
 
-### Internos del Correccional de Menores - Isla Azogue
+### Reformatorio Nueva Esperanza - Isla Albedo
+
+#### Personal del Reformatorio
+- [El Señor Nadie (Ricardo Vázquez)]({{ site.baseurl }}/characters/details/el-senor-nadie/) (53 años, Director, Anulación Total de Poderes)
+- [Elena Mora]({{ site.baseurl }}/characters/details/elena-mora/) (42 años, Profesora/Psicóloga, cree en rehabilitación)
+- [Daniel Kwon]({{ site.baseurl }}/characters/details/daniel-kwon/) (38 años, Profesor de ciencias, ex-investigador MetaCorp)
+- [Marcus "Coach" Williams]({{ site.baseurl }}/characters/details/marcus-coach-williams/) (45 años, Entrenador atlético, ex-jugador profesional)
+- [Yuki Tanaka]({{ site.baseurl }}/characters/details/yuki-tanaka-jardinero/) (52 años, Jardinero, superviviente de Fukushima)
+- [Hector Ruiz]({{ site.baseurl }}/characters/details/hector-ruiz/) (58 años, Conserje, 20 años en MetaCorp)
+- [Ana Flores]({{ site.baseurl }}/characters/details/ana-flores/) (34 años, Guardia de seguridad, ex-policía)
+- [Viktor Kozlov]({{ site.baseurl }}/characters/details/viktor-kozlov/) (41 años, Guardia de seguridad, ex-militar ruso)
+
+#### Protagonistas del Reformatorio
+- [Sergei]({{ site.baseurl }}/characters/details/sergei/) (16-17 años, metamorfo veterano, PJ)
+- [Tiritas]({{ site.baseurl }}/characters/details/tiritas/) (Júlia Gasull, absorbe energía cinética)
+- [Kira]({{ site.baseurl }}/characters/details/kira/) (13-14 años, manipuladora eléctrica, Adriana F. Gonzalez)
+
+#### Internos del Correccional de Menores
 - [Kaida Chen-Okafor]({{ site.baseurl }}/characters/details/kaida-chen-okafor/) (18 años, manipuladora de fuego, líder de los internos)
 - [Dmitri Volkov-Ramírez]({{ site.baseurl }}/characters/details/dmitri-volkov-ramirez/) (17 años, telequinético ladrón, cleptómano)
 - [Safiya Abbas-Petrov]({{ site.baseurl }}/characters/details/safiya-abbas-petrov/) (16 años, sanadora, pacifista compulsiva)
@@ -356,7 +373,6 @@ permalink: /characters/character-list/
 - [Yuki Tanaka-Al-Rashid]({{ site.baseurl }}/characters/details/yuki-tanaka-al-rashid/) (15 años, creador de hielo, trauma de guerra)
 - [Fatima Al-Amin-Rodríguez]({{ site.baseurl }}/characters/details/fatima-al-amin-rodriguez/) (14 años, generadora de campos de fuerza, protectora)
 - [Léa Dubois-Nguyen]({{ site.baseurl }}/characters/details/lea-dubois-nguyen/) (14 años, cambiaformas, crisis de identidad)
-- [Marcus Williams-Santos]({{ site.baseurl }}/characters/details/marcus-williams-santos/) (13 años, super fuerza, activista juvenil)
 - [Jin Park-Okonkwo]({{ site.baseurl }}/characters/details/jin-park-okonkwo/) (13 años, manipulador de sombras, chantajista)
 - [Zara Qasim-Kowalski]({{ site.baseurl }}/characters/details/zara-qasim-kowalski/) (12 años, controladora de electricidad, genio tecnológico)
 - [Ravi Kapoor-Müller]({{ site.baseurl }}/characters/details/ravi-kapoor-muller/) (11 años, cambio de fase, escapista compulsivo)
@@ -374,4 +390,4 @@ permalink: /characters/character-list/
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*167 personajes documentados - Última actualización: 5 de agosto de 2025*
+*180 personajes documentados - Última actualización: Enero de 2025*

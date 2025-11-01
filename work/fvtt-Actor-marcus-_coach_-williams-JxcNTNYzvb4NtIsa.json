@@ -1,0 +1,1416 @@
+{
+  "name": "Marcus \"coach\" Williams",
+  "type": "npc",
+  "folder": "aFj6gXyrs507xBed",
+  "system": {
+    "attributes": {
+      "agility": {
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "smarts": {
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "animal": false,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "spirit": {
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "unShakeBonus": 0,
+        "wild-die": {
+          "sides": 6
+        }
+      },
+      "strength": {
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "encumbranceSteps": 0
+      },
+      "vigor": {
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "unStunBonus": 0,
+        "soakBonus": 0,
+        "bleedOut": {
+          "modifier": 0,
+          "ignoreWounds": false
+        }
+      }
+    },
+    "stats": {
+      "toughness": {
+        "value": 8,
+        "modifier": 1,
+        "armor": 0
+      },
+      "parry": {
+        "value": 6,
+        "shield": 0,
+        "modifier": 0
+      },
+      "size": 0,
+      "speed": {}
+    },
+    "details": {
+      "biography": {
+        "value": "Marcus Williams Entrenador atlético, ex-jugador de fútbol americano, cree en disciplina física.<br /> Usa ejercicio como terapia y castigo en partes iguales.<br />"
+      },
+      "autoCalcToughness": false,
+      "autoCalcParry": true,
+      "archetype": "Entrenador Marcus \"coach\" Williams (45 Años)",
+      "appearance": "",
+      "notes": "",
+      "goals": "",
+      "species": {
+        "name": ""
+      },
+      "currency": 0,
+      "wealth": {
+        "die": 6,
+        "modifier": 0,
+        "wild-die": 6
+      },
+      "conviction": {
+        "value": 0,
+        "active": false
+      }
+    },
+    "powerPoints": {
+      "general": {
+        "value": 0,
+        "max": 0
+      }
+    },
+    "wounds": {
+      "max": 0,
+      "ignored": 0,
+      "value": 0
+    },
+    "initiative": {
+      "hasHesitant": false,
+      "hasLevelHeaded": false,
+      "hasImpLevelHeaded": false,
+      "hasQuick": false,
+      "follow": ""
+    },
+    "wildcard": false,
+    "additionalStats": {
+      "chi": {
+        "label": "Chi",
+        "dtype": "Number",
+        "hasMaxValue": false
+      }
+    },
+    "bennies": {
+      "value": 0,
+      "max": 0
+    },
+    "pace": {
+      "base": "ground",
+      "ground": 6,
+      "fly": null,
+      "swim": null,
+      "burrow": null,
+      "running": {
+        "die": 6,
+        "mod": 0
+      }
+    },
+    "category": "",
+    "auras": {
+      "aura1": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      },
+      "aura2": {
+        "radius": 5,
+        "walls": false,
+        "enabled": false,
+        "color": "#000000",
+        "alpha": 0.25,
+        "visibleTo": []
+      }
+    },
+    "fatigue": {
+      "value": 0,
+      "max": 2,
+      "ignored": 0
+    },
+    "woundsOrFatigue": {
+      "ignored": 0
+    },
+    "advances": {
+      "mode": "expanded",
+      "value": 0,
+      "rank": "Novice",
+      "details": "",
+      "list": []
+    },
+    "status": {
+      "isShaken": false,
+      "isDistracted": false,
+      "isVulnerable": false,
+      "isStunned": false,
+      "isEntangled": false,
+      "isBound": false,
+      "isIncapacitated": false
+    }
+  },
+  "items": [
+    {
+      "name": "Atletismo",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/jump-across.svg",
+      "system": {
+        "description": "<p>Atletismo combina la coordinación de un individuo con habilidades aprendidas como trepar, saltar, mantener el equilibrio, andar en bicicleta, luchar, esquiar, nadar, lanzar o atrapar. Los personajes que dependen más de la potencia física que de la coordinación pueden tomar la Ventaja @Compendium[swade-core-rules.swade-edges.Brute]{Bestia} para vincular esta habilidad a la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} en lugar de la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Agilidad}.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "athletics",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 12,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "agility",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Athletics"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "Wups3ZlPMZqbohbs",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Conocimientos Generales",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/gift-of-knowledge.svg",
+      "system": {
+        "description": "<p>Los personajes tiran Conocimientos Generales para conocer personas, lugares y cosas de su mundo, incluyendo etiqueta, geografía, cultura, tecnología popular, contactos y costumbres.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "common-knowledge",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Common Knowledge"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "0R1fdl6nMts55mWL",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Pelear",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/punch.svg",
+      "system": {
+        "description": "<p>Pelear cubre todos los ataques cuerpo a cuerpo, ya sea con puños, hachas, espadas láser o artes marciales. Consulta el @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03combat00000000]{Capítulo Tres} para las reglas de combate y las diversas maniobras que un guerrero podría intentar.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "fighting",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 8,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "agility",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Fighting"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "o1j0u5bwVahoJ4KB",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Intimidation",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/arrest.svg",
+      "system": {
+        "description": "<p>Intimidation is the art of frightening an opponent so that he backs down, reveals information, or flees.</p>\n<p>Intimidation is an @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{opposed roll} resisted by the opponent’s @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Spirit}. In combat, this is a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03test0000000000]{Test}. Out of combat, a successful roll means the foe backs down for the most part, reveals some information, or slinks away when the opportunity presents itself.</p>\n<p>A @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{raise} might mean he backs down for the remainder of the scene, spills all the beans, or runs away as fast as he can.</p>\n<p>In or out of combat, a @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Critical Failure} means the target is immune to this character’s Intimidation attempts for the remainder of this encounter!</p>\n<p><strong>Networking:</strong> Intimidation can also be used as a “macro” skill to simulate several hours of working the streets. See @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04networking0000]{Networking} to see how to crack some heads for favors or information.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "intimidation",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 10,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "spirit",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {},
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "BD3u4Thbmdwl8GHp",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Notar",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/psychic-waves.svg",
+      "system": {
+        "description": "<p>Notar representa el nivel de alerta y consciencia general del entorno del héroe. Se utiliza para percibir luces, sonidos, sabores u olores, detectar pistas, detectar emboscadas, encontrar armas ocultas en un enemigo, o determinar si un rival está mintiendo, asustado, feliz, etc.</p>\n<p>El @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{éxito} proporciona información básica—el personaje escucha movimiento en el bosque, huele humo distante, o percibe que alguien no está siendo completamente honesto.</p>\n<p>Una @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{subida} otorga más detalles, como la dirección de un sonido u olor o sobre qué tema una persona está evadiendo o mintiendo.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "notice",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": true
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Notice"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "vtjA5rQPQP2QSIkP",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Supervivencia",
+      "type": "skill",
+      "img": "systems/swade/assets/icons/skills/camping-tent.svg",
+      "system": {
+        "description": "<p>Supervivencia permite a un personaje encontrar comida, agua o refugio en entornos hostiles. También se puede usar para navegar en entornos salvajes, averiguar qué plantas son buenas para comer y cuáles no, etc.</p>\n<p>Una tirada de @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{Supervivencia} exitosa proporciona suficiente comida y agua para una persona durante un día; o para cinco personas con una @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{subida}.</p>\n<p>Se puede encontrar información más detallada sobre el @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hunger00000000]{Hambre} y la @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04thirst00000000]{Sed} en la sección de @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{Peligros}.</p>\n<p><strong>Rastreo: </strong>Supervivencia también se puede usar para detectar y seguir rastros. Cada tirada generalmente cubre el seguimiento de los rastros durante una milla, pero el DJ debe ajustar esto según sea necesario para circunstancias específicas.</p>\n<p>El Director de Juego debe asignar una @UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor03rules0.JournalEntryPage.03traitrolls0000#trait-rolls]{bonificación o penalización} basada en el objetivo, el entorno y el tiempo. Rastrear a un grupo grande que pasó recientemente por un área cubierta de nieve podría otorgar una bonificación de +4, mientras que seguir a una sola persona sobre rocas y arroyos después de más de un día conlleva una penalización de −4.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "survival",
+        "additionalStats": {},
+        "choiceSets": [],
+        "die": {
+          "sides": 6,
+          "modifier": 0
+        },
+        "wild-die": {
+          "sides": 6
+        },
+        "attribute": "smarts",
+        "isCoreSkill": false
+      },
+      "sort": 0,
+      "flags": {
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Survival"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "wXX9YFBXZ1IrOXcL",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Osado",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Aquellos con esta Ventaja han aprendido a dominar su miedo, o han lidiado con tantos horrores que se han vuelto insensibles. Estos valientes exploradores añaden +2 a las pruebas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04fear0000000000]{Miedo} y restan 2 de los resultados de la <strong>@Compendium[swade-core-rules.swade-tables.Fear Table]{Tabla de Miedo}</strong>.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "brave",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Brave"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "V1WW7gVzZ4ttLOBh",
+          "name": "Brave",
+          "changes": [
+            {
+              "key": "system.attributes.spirit.die.modifier",
+              "mode": 2,
+              "value": "2",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<p>Those with this Edge have learned to master their fear, or have dealt with so many horrors they’ve become jaded. These valiant explorers add +2 to @UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04fear0000000000]{Fear} checks and subtract 2 from <strong>@Compendium[swade-core-rules.swade-tables.Fear Table]{Fear Table} </strong>results.</p>",
+          "flags": {
+            "swade": {},
+            "sigil": {
+              "completed": true
+            }
+          },
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.350",
+            "systemId": "swade",
+            "systemVersion": "5.0.7",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/edge.svg",
+          "type": "base",
+          "system": {
+            "conditionalEffect": true,
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false
+          },
+          "origin": null,
+          "statuses": [],
+          "sort": 0
+        }
+      ],
+      "_id": "fNjW4GfB9RkzLk8Q",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Fornido",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Tu luchador es muy grande o está muy en forma. Su @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03sizeandscale00]{Tamaño} aumenta en +1 (y por lo tanto la @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01characters0000]{Dureza} en 1) y trata su @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} como un tipo de dado superior al determinar la <strong>@UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor02gear00.JournalEntryPage.02gearnotes00000#gear-notes]{Carga}</strong> y la <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02minimumstren00]{Fuerza Mínima}</strong> para usar armaduras, armas y equipo sin penalización.</p>\n<p><br />Fornido no puede aumentar el Tamaño de un personaje por encima de +3.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "brawny",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Background",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Brawny"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "elSPHAiFU2C34XoO",
+          "changes": [
+            {
+              "key": "system.stats.size",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            },
+            {
+              "key": "system.attributes.strength.encumbranceSteps",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "flags": {
+            "sigil": {
+              "completed": true
+            }
+          },
+          "name": "Brawny",
+          "tint": "#ffffff",
+          "transfer": true,
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.350",
+            "systemId": "swade",
+            "systemVersion": "5.0.7",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/edge.svg",
+          "type": "base",
+          "system": {
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false,
+            "conditionalEffect": false
+          },
+          "description": "",
+          "origin": null,
+          "statuses": [],
+          "sort": 0
+        }
+      ],
+      "_id": "SFGL0UkeJ46oX0V7",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Soldado",
+      "type": "edge",
+      "img": "systems/swade/assets/icons/edge.svg",
+      "system": {
+        "description": "<p>Los soldados profesionales se acostumbran a llevar cargas pesadas y a soportar condiciones duras. Después de unos días acostumbrándose a su equipo (a discreción del DJ), tratan su @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Fuerza} como un tipo de dado superior al determinar la <strong>@UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor02gear00.JournalEntryPage.02gearnotes00000#gear-notes]{Carga}</strong> y la <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor02gear00.JournalEntryPage.02minimumstren00]{Fuerza Mínima}</strong> para usar armaduras, armas y equipo sin penalización. (Esto se acumula con la Ventaja @Compendium[swade-core-rules.swade-edges.Brawny]{Fornido}).</p>\n<p>También obtienen una repetición gratuita en las tiradas de @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Vigor} realizadas para sobrevivir a peligros ambientales (ver <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{Peligros}</strong>).<br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /><br /></p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "soldier",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "category": "Professional",
+        "grants": [],
+        "isArcaneBackground": false,
+        "requirements": [
+          {
+            "type": "rank",
+            "value": 0,
+            "selector": "",
+            "combinator": "and"
+          }
+        ]
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Soldier"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "_id": "ioAMYg89nbX4dAnv",
+          "changes": [
+            {
+              "key": "system.attributes.strength.encumbranceSteps",
+              "mode": 2,
+              "value": "1",
+              "priority": null
+            }
+          ],
+          "disabled": false,
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "flags": {
+            "sigil": {
+              "completed": true
+            }
+          },
+          "name": "Soldier",
+          "tint": "#ffffff",
+          "transfer": true,
+          "description": "<p>Professional soldiers get used to carrying heavy loads, and enduring harsh conditions. After a few days getting used to their gear (GM’s call), they treat their @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Strength} as one die type higher when determining <strong>@UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor02gear00.JournalEntryPage.02gearnotes00000#gear-notes]{Encumbrance}</strong><strong> </strong>and <strong>@UUID[Compendium.swade-core-rules.swade-rules.JournalEntry.swadecor02gear00.JournalEntryPage.02minimumstren00]{Minimum Strength} </strong>to use armor, weapons, and equipment without a penalty. (This stacks with the @Compendium[swade-core-rules.swade-edges.Brawny]{Brawny} Edge.)<br /></p>\n<p>They also get a free reroll on @UUID[Compendium.swade-core-rules.swade-rules.swadecor01charac.JournalEntryPage.01traits00000000]{Vigor} rolls made to survive environmental hazards (see <strong>@UUID[Compendium.swade-core-rules.swade-rules.swadecor04theadv.JournalEntryPage.04hazards0000000]{Hazards}</strong>). <br style=\"font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:normal;orphans:2;text-align:-webkit-auto;text-indent:0px;text-transform:none;white-space:normal;widows:2;word-spacing:0px;-webkit-text-size-adjust:auto;-webkit-text-stroke-width:0px\" /><br /></p>",
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.350",
+            "systemId": "swade",
+            "systemVersion": "5.0.7",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/edge.svg",
+          "type": "base",
+          "system": {
+            "removeEffect": false,
+            "expiration": null,
+            "loseTurnOnHold": false,
+            "favorite": false,
+            "conditionalEffect": false
+          },
+          "origin": null,
+          "statuses": [],
+          "sort": 0
+        }
+      ],
+      "_id": "uzOAvYtXXZGAcg26",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Leal",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Este incondicional defensor arriesga su vida por sus amigos sin dudarlo. Algunos héroes Leales pueden no actuar de esa manera, pero son los primeros en acudir al rescate de sus amigos cuando están amenazados.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "loyal",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "minor",
+        "major": false
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Loyal"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "w06uK67QwIhGRXUe",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Canalla",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Este cascarrabias es malhumorado y desagradable. Le cuesta hacer algo amable por los demás, debe ser pagado por sus problemas y no acepta premios o favores con gratitud. Además de los evidentes problemas de interpretación, los personajes Canallas restan 1 a las tiradas de @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasión}.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "mean",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "minor",
+        "major": false
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Mean"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [
+        {
+          "name": "Mean",
+          "changes": [
+            {
+              "key": "@Skill{Persuasion}[system.die.modifier]",
+              "mode": 2,
+              "value": "-1",
+              "priority": null
+            }
+          ],
+          "_id": "0UALfHf6bjfMUezZ",
+          "disabled": false,
+          "flags": {
+            "swade": {},
+            "sigil": {
+              "completed": true
+            }
+          },
+          "description": "<p>This curmudgeon is ill-tempered and disagreeable. He has trouble doing anything kind for anyone else, must be paid for his troubles, and doesn’t accept awards or favors graciously. Besides the obvious roleplaying issues, Mean characters subtract 1 from @Compendium[swade-core-rules.swade-skills.Persuasion]{Persuasion} @UUID[Compendium.swade-core-rules.swade-rules.swadecor03rules0.JournalEntryPage.03traitrolls0000]{rolls}.</p>",
+          "duration": {
+            "startTime": null,
+            "seconds": null,
+            "combat": null,
+            "rounds": null,
+            "turns": null,
+            "startRound": null,
+            "startTurn": null
+          },
+          "origin": null,
+          "transfer": true,
+          "statuses": [],
+          "_stats": {
+            "compendiumSource": null,
+            "duplicateSource": null,
+            "exportSource": null,
+            "coreVersion": "13.350",
+            "systemId": "swade",
+            "systemVersion": "5.0.7",
+            "lastModifiedBy": null
+          },
+          "img": "systems/swade/assets/icons/hindrance.svg",
+          "type": "base",
+          "system": {
+            "conditionalEffect": false,
+            "removeEffect": false,
+            "loseTurnOnHold": false,
+            "favorite": false
+          },
+          "tint": "#ffffff",
+          "sort": 0
+        }
+      ],
+      "_id": "b4bA34FTtn9vbS4r",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "name": "Tozudo",
+      "type": "hindrance",
+      "img": "systems/swade/assets/icons/hindrance.svg",
+      "system": {
+        "description": "<p>Los individuos tozudos siempre quieren salirse con la suya y nunca admiten que están equivocados. Incluso cuando es dolorosamente obvio que han cometido un error, intentan justificarlo con medias verdades y racionalizaciones.</p>",
+        "notes": "",
+        "source": "SWADE Core Rules",
+        "swid": "stubborn",
+        "additionalStats": {},
+        "choiceSets": [],
+        "favorite": false,
+        "grants": [],
+        "severity": "minor",
+        "major": false
+      },
+      "sort": 0,
+      "flags": {
+        "sigil": {
+          "completed": true
+        },
+        "babele": {
+          "translated": true,
+          "hasTranslation": true,
+          "originalName": "Stubborn"
+        }
+      },
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "effects": [],
+      "_id": "D6GMti5PrEMBguu7",
+      "folder": null,
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "ability",
+      "name": "@sa Tough Coach",
+      "img": "systems/swade/assets/icons/ability.svg",
+      "system": {
+        "description": "+2 to Intimidation when motivating with physical discipline @sa Legendary Endurance: Can run circles around any inmate @sa Eagle Eye: Immediately detects when someone isn't giving maximum effort @sa Hidden Heart: Beneath rough exterior, genuinely cares about inmates  **Historia:** Marcus jugó fútbol americano profesional por 8 años hasta que una lesión de rodilla terminó su carrera a los 33. Después de retirarse, trabajó como entrenador en escuelas secundarias regulares, pero encontraba el trabajo aburrido.  En 2018, MetaCorp lo reclutó para Isla Aldebo. Le dijeron que necesitaban alguien que pudiera manejar metahumanos físicamente activos. Marcus pensó que sería desafío interesante.  Los primeros días fueron brutales. Marcus intentó dirigir entrenamiento como lo haría con atletas normales. Marcus, con su fuerza aumentada, lo levantó con una mano. Kaida casi lo quema. Tomás corrió círculos alrededor de él a velocidad sobrehumana.  Marcus aprendió rápidamente: estos no eran adolescentes normales. Necesitaban límites, pero también comprensión. Desarrolló rutinas de ejercicio personalizadas para cada interno, diseñadas para ayudarlos a controlar poderes mientras se mantenían en forma.  Para Marcus, el que puede levantar autos, diseñó rutina de pesas extremas. Para Tomás, el velocista, creó circuitos de obstáculos imposiblemente complejos. Para Kaida, ejercicios de respiración y meditación para controlar su temperamento ardiente.  Los internos lo llaman \"Coach\" con mezcla de respeto y temor. Es duro, grita mucho, los hace correr hasta que vomitan. Pero también es justo. Trata a todos igual. Y cuando uno de ellos logra algo difícil, Coach sonríe genuinamente.  **Secreto:** Marcus tiene PTSD no diagnosticado de su carrera en fútbol americano. Concusiones repetidas, violencia en el campo, presión constante. A veces tiene ataques de pánico en su oficina después de días difíciles. Toma medicamentos que esconde en su escritorio. Ningún interno sabe que el hombre más duro de Isla Aldebo está roto por dentro.",
+        "notes": "",
+        "additionalStats": {},
+        "subtype": "special",
+        "grantsPowers": false,
+        "source": "",
+        "swid": "none",
+        "choiceSets": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "build": {
+          "limit": 1,
+          "level": 1
+        }
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "dZauoQPPFRDbnDbi",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Coach Whistle",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "NQanNbuaetWqc0Q0",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Stopwatch",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "L5HckkMQBOGlAq0t",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Sports Equipment",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "pvLQbaQAoeNBgHtr",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Isla Aldebo Athletic Uniform",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "SgJ6zXbRbIPiemFK",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    },
+    {
+      "type": "gear",
+      "name": "Water Bottle",
+      "img": "systems/swade/assets/icons/gear.svg",
+      "system": {
+        "description": "",
+        "equipStatus": 1,
+        "equippable": false,
+        "notes": "",
+        "source": "",
+        "swid": "none",
+        "additionalStats": {},
+        "choiceSets": [],
+        "quantity": 1,
+        "weight": 0,
+        "price": 0,
+        "build": {
+          "limit": 1,
+          "level": 1
+        },
+        "isArcaneDevice": false,
+        "arcaneSkillDie": {
+          "sides": 4,
+          "modifier": 0
+        },
+        "powerPoints": {},
+        "isVehicular": false,
+        "mods": 1,
+        "actions": {
+          "trait": "",
+          "traitMod": "",
+          "dmgMod": "",
+          "additional": {}
+        },
+        "bonusDamageDie": 6,
+        "bonusDamageDice": 1,
+        "activities": [],
+        "favorite": false,
+        "category": "",
+        "grants": [],
+        "grantOn": 1,
+        "isAmmo": false
+      },
+      "effects": [],
+      "flags": {},
+      "_id": "En2zkSRo0lYOpCt6",
+      "folder": null,
+      "sort": 0,
+      "_stats": {
+        "compendiumSource": null,
+        "duplicateSource": null,
+        "exportSource": null,
+        "coreVersion": "13.350",
+        "systemId": "swade",
+        "systemVersion": "5.0.7",
+        "lastModifiedBy": null
+      },
+      "ownership": {
+        "default": 0
+      }
+    }
+  ],
+  "prototypeToken": {
+    "displayName": 0,
+    "disposition": -1,
+    "width": 1,
+    "height": 1,
+    "sight": {
+      "enabled": true,
+      "range": 30,
+      "angle": 360,
+      "visionMode": "basic",
+      "color": null,
+      "attenuation": 0.1,
+      "brightness": 0,
+      "saturation": 0,
+      "contrast": 0
+    },
+    "name": "Marcus \"coach\" Williams",
+    "actorLink": false,
+    "texture": {
+      "src": "tokenizer/npc-images/entrenador_marcus_coach_williams_45_a_os_.Token.webp?1761393372304",
+      "anchorX": 0.5,
+      "anchorY": 0.5,
+      "offsetX": 0,
+      "offsetY": 0,
+      "fit": "contain",
+      "scaleX": 1,
+      "scaleY": 1,
+      "rotation": 0,
+      "tint": "#ffffff",
+      "alphaThreshold": 0.75
+    },
+    "lockRotation": false,
+    "rotation": 0,
+    "alpha": 1,
+    "displayBars": 0,
+    "bar1": {
+      "attribute": null
+    },
+    "bar2": {
+      "attribute": null
+    },
+    "light": {
+      "negative": false,
+      "priority": 0,
+      "alpha": 0.5,
+      "angle": 360,
+      "bright": 0,
+      "color": null,
+      "coloration": 1,
+      "dim": 0,
+      "attenuation": 0.5,
+      "luminosity": 0.5,
+      "saturation": 0,
+      "contrast": 0,
+      "shadows": 0,
+      "animation": {
+        "type": null,
+        "speed": 5,
+        "intensity": 5,
+        "reverse": false
+      },
+      "darkness": {
+        "min": 0,
+        "max": 1
+      }
+    },
+    "detectionModes": [],
+    "occludable": {
+      "radius": 0
+    },
+    "ring": {
+      "enabled": false,
+      "colors": {
+        "ring": null,
+        "background": null
+      },
+      "effects": 1,
+      "subject": {
+        "scale": 1,
+        "texture": null
+      }
+    },
+    "turnMarker": {
+      "mode": 1,
+      "animation": null,
+      "src": null,
+      "disposition": false
+    },
+    "movementAction": null,
+    "flags": {},
+    "randomImg": false,
+    "appendNumber": false,
+    "prependAdjective": false
+  },
+  "flags": {
+    "importerApp": {
+      "app": "SWADE Stat Block Importer",
+      "id": "swade-npc-importer",
+      "appVersion": "0.5.0",
+      "importDate": "2025-10-25T11:49:55.307Z"
+    }
+  },
+  "img": "tokenizer/npc-images/entrenador_marcus_coach_williams_45_a_os_.Avatar.webp?1761393372304",
+  "effects": [],
+  "_stats": {
+    "compendiumSource": null,
+    "duplicateSource": null,
+    "exportSource": {
+      "worldId": "arcadia",
+      "uuid": "Actor.JxcNTNYzvb4NtIsa",
+      "coreVersion": "13.350",
+      "systemId": "swade",
+      "systemVersion": "5.0.7"
+    },
+    "coreVersion": "13.350",
+    "systemId": "swade",
+    "systemVersion": "5.0.7",
+    "createdTime": 1761392995426,
+    "modifiedTime": 1761480374701,
+    "lastModifiedBy": "tOJbMhrZj0mjkDH4"
+  },
+  "ownership": {
+    "default": 0
+  }
+}

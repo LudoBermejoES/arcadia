@@ -1,0 +1,272 @@
+{
+  "A_spades": {
+    "file": "El Emperador Oscuro.png",
+    "name": "El Emperador Oscuro",
+    "category": "Villano Principal"
+  },
+  "K_spades": {
+    "file": "Lucifer.png",
+    "name": "Lucifer",
+    "category": "Villano"
+  },
+  "Q_spades": {
+    "file": "la-reina-cobra.png",
+    "name": "La Reina Cobra",
+    "category": "Villana"
+  },
+  "J_spades": {
+    "file": "La Sombra.png",
+    "name": "La Sombra",
+    "category": "Villano"
+  },
+  "10_spades": {
+    "file": "Abismo.png",
+    "name": "Abismo",
+    "category": "Villano"
+  },
+  "9_spades": {
+    "file": "destino.png",
+    "name": "Destino",
+    "category": "Villano"
+  },
+  "8_spades": {
+    "file": "Mentallo.png",
+    "name": "Mentallo",
+    "category": "Villano"
+  },
+  "7_spades": {
+    "file": "ego.png",
+    "name": "EGO",
+    "category": "Villano"
+  },
+  "6_spades": {
+    "file": "diablo.png",
+    "name": "Diablo",
+    "category": "Villano"
+  },
+  "5_spades": {
+    "file": "Caos.png",
+    "name": "Caos",
+    "category": "Villano"
+  },
+  "4_spades": {
+    "file": "la-comadreja.png",
+    "name": "La Comadreja",
+    "category": "Villana Histórica"
+  },
+  "3_spades": {
+    "file": "garfios.png",
+    "name": "Garfios",
+    "category": "Villano Histórico"
+  },
+  "2_spades": {
+    "file": "baron-soledad.png",
+    "name": "Barón Soledad",
+    "category": "Villano"
+  },
+  "A_hearts": {
+    "file": "Garra.png",
+    "name": "Garra",
+    "category": "La Familia - Líder"
+  },
+  "K_hearts": {
+    "file": "El Faraón.png",
+    "name": "El Faraón",
+    "category": "La Familia"
+  },
+  "Q_hearts": {
+    "file": "ana-montenegro-esfinge-atropos.png",
+    "name": "Esfinge/Atropos",
+    "category": "La Familia"
+  },
+  "J_hearts": {
+    "file": "Bate.png",
+    "name": "Bate",
+    "category": "La Familia"
+  },
+  "10_hearts": {
+    "file": "Mésmero.png",
+    "name": "Mésmero",
+    "category": "La Familia"
+  },
+  "9_hearts": {
+    "file": "Estocada.png",
+    "name": "Estocada",
+    "category": "La Familia"
+  },
+  "8_hearts": {
+    "file": "boreas.png",
+    "name": "Bóreas",
+    "category": "Los Anemoi"
+  },
+  "7_hearts": {
+    "file": "euro.png",
+    "name": "Euro",
+    "category": "Los Anemoi"
+  },
+  "6_hearts": {
+    "file": "cefiro.png",
+    "name": "Céfiro",
+    "category": "Los Anemoi"
+  },
+  "5_hearts": {
+    "file": "austros.png",
+    "name": "Austros",
+    "category": "Los Anemoi"
+  },
+  "4_hearts": {
+    "file": "esperanza-nambasi.png",
+    "name": "Esperanza Nambasi",
+    "category": "Héroe Histórico"
+  },
+  "3_hearts": {
+    "file": "Sara10_Mecánica.png",
+    "name": "Sara10/Mecánica",
+    "category": "Génesis - Héroe"
+  },
+  "2_hearts": {
+    "file": "Vista.png",
+    "name": "Vista",
+    "category": "La Cacería Salvaje"
+  },
+  "A_diamonds": {
+    "file": "Eslizon Esmeralda.png",
+    "name": "Eslizón Esmeralda",
+    "category": "La Fuerza Oculta - Líder"
+  },
+  "K_diamonds": {
+    "file": "Hotman.png",
+    "name": "Hotman",
+    "category": "La Fuerza Oculta"
+  },
+  "Q_diamonds": {
+    "file": "Mencia_Psique_Cia.png",
+    "name": "Psique/Cia",
+    "category": "La Fuerza Oculta"
+  },
+  "J_diamonds": {
+    "file": "Astrid_Kayface.png",
+    "name": "Astrid/Kayface",
+    "category": "La Fuerza Oculta"
+  },
+  "10_diamonds": {
+    "file": "Diana.png",
+    "name": "Diana",
+    "category": "La Fuerza Oculta"
+  },
+  "9_diamonds": {
+    "file": "Justa_Justicia_Sentencia.png",
+    "name": "Justa/Justicia/Sentencia",
+    "category": "La Fuerza Oculta"
+  },
+  "8_diamonds": {
+    "file": "Oido.png",
+    "name": "Oído",
+    "category": "La Cacería Salvaje"
+  },
+  "7_diamonds": {
+    "file": "Olfato.png",
+    "name": "Olfato",
+    "category": "La Cacería Salvaje"
+  },
+  "6_diamonds": {
+    "file": "Gusto.png",
+    "name": "Gusto",
+    "category": "La Cacería Salvaje"
+  },
+  "5_diamonds": {
+    "file": "Tacto.png",
+    "name": "Tacto",
+    "category": "La Cacería Salvaje"
+  },
+  "4_diamonds": {
+    "file": "charada.png",
+    "name": "Charada",
+    "category": "Sastre Heroico"
+  },
+  "3_diamonds": {
+    "file": "federico-lopez.png",
+    "name": "Federico López",
+    "category": "Sastre Heroico"
+  },
+  "2_diamonds": {
+    "file": "el-guardian.png",
+    "name": "El Guardián",
+    "category": "Entidad Protectora"
+  },
+  "A_clubs": {
+    "file": "Lumen.png",
+    "name": "Lúmen",
+    "category": "Génesis"
+  },
+  "K_clubs": {
+    "file": "Alice_Tesla.png",
+    "name": "Alice Tesla",
+    "category": "Génesis"
+  },
+  "Q_clubs": {
+    "file": "Thomas_Raza.png",
+    "name": "Thomas/Raza",
+    "category": "Génesis"
+  },
+  "J_clubs": {
+    "file": "bastet.png",
+    "name": "Bastet",
+    "category": "Entidad Divina"
+  },
+  "10_clubs": {
+    "file": "Espectro.png",
+    "name": "Espectro",
+    "category": "Génesis"
+  },
+  "9_clubs": {
+    "file": "Marcos Villar.png",
+    "name": "Marcos Villar",
+    "category": "Crematorio - Protagonista"
+  },
+  "8_clubs": {
+    "file": "Dolores Sánchez.png",
+    "name": "Dolores Sánchez",
+    "category": "Crematorio - Protagonista"
+  },
+  "7_clubs": {
+    "file": "Renata Kovač.png",
+    "name": "Renata Kovač",
+    "category": "Crematorio - Protagonista"
+  },
+  "6_clubs": {
+    "file": "Marco_Aguilar.png",
+    "name": "Marco 'El Tigre' Aguilar",
+    "category": "Funeral - Generación Activa"
+  },
+  "5_clubs": {
+    "file": "Isabella_Aguilar.png",
+    "name": "Isabella 'Bella' Aguilar",
+    "category": "Funeral - Operadora"
+  },
+  "4_clubs": {
+    "file": "Salvatore_Rossi.png",
+    "name": "Salvatore 'Toto' Rossi",
+    "category": "Funeral - Vieja Guardia"
+  },
+  "3_clubs": {
+    "file": "Carmela_Aguilar.png",
+    "name": "Carmela Aguilar",
+    "category": "Funeral - Matriarca"
+  },
+  "2_clubs": {
+    "file": "Diego_Aguilar.png",
+    "name": "Diego Aguilar",
+    "category": "Funeral - Nueva Sangre"
+  },
+  "joker_1": {
+    "file": "Arcadio.png",
+    "name": "Arcadio",
+    "category": "Joker - Personificación de Arcadia"
+  },
+  "joker_2": {
+    "file": "Arcadio.png",
+    "name": "Arcadio",
+    "category": "Joker - Personificación de Arcadia"
+  }
+}

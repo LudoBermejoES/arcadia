@@ -1,0 +1,23 @@
+# Generated card images
+generated_cards/
+*.png
+
+# Output folders
+tts_output/
+print_output/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# macOS
+.DS_Store
+
+# Virtual environment
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/

@@ -1,0 +1,7 @@
+# Arcadia Playing Cards Generator - Python Dependencies
+
+# Required for card generation
+Pillow>=10.0.0
+
+# Optional for PDF generation
+reportlab>=4.0.0

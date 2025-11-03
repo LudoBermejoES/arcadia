@@ -39,7 +39,11 @@
       "Bash(else)",
       "Bash(echo:*)",
       "Bash(fi)",
-      "Bash(ls:*)"
+      "Bash(ls:*)",
+      "Bash(./setup_env.sh:*)",
+      "Bash(source:*)",
+      "Bash(python3:*)",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": [],

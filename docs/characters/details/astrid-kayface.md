@@ -1,11 +1,11 @@
 ---
 layout: character
-title: Astrid / Kayface
+title: Pantomima
 permalink: /characters/details/astrid-kayface/
 slug: astrid-kayface
 ---
 
-# Astrid / Kayface
+# Pantomima (antes Astrid / Kayface)
 
 <div class="character-photo">
   <img src="{{ site.baseurl }}/assets/img/characters/Astrid_Kayface.png" alt="Astrid / Kayface" />

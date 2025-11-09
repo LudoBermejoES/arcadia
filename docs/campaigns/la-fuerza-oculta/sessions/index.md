@@ -305,6 +305,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 21/09](../ai-notes-summary/session-33-summary.md)** - Entrenamiento y redención secreta
 - **[Resumen 05/10](../ai-notes-summary/2025-10-05-gemini-notes.md)** - Discriminación, investigación y decisión de carreras ilegales
 - **[Resumen 12/10](../ai-notes-summary/2025-10-12-gemini-notes.md)** - Robo del Sombrío y carrera ilegal
+- **[Resumen 02/11](../ai-notes-summary/2025-11-02-gemini-notes.md)** - Puente de Moebius y origen de Pantomima
 
 ---
 
@@ -354,9 +355,9 @@ El juego dentro del juego:
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 15 sesiones documentadas en detalle (2025)
-- **Páginas de Notas**: ~220 páginas de contenido
-- **Horas de Juego**: ~40 horas registradas
+- **Sesiones Totales**: 17 sesiones con transcripción IA documentadas en detalle (Junio-Noviembre 2025)
+- **Páginas de Notas**: ~270 páginas de contenido
+- **Horas de Juego**: ~53 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 25+ referencias a campañas anteriores
 

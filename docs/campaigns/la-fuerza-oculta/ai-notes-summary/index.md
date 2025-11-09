@@ -433,6 +433,137 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### 🏁 **Octubre 2025 - Contactos y Carreras**
+
+#### [📈 Análisis 12/10/2025 - Robo del Sombrío y Carrera Ilegal](2025-10-12-gemini-notes.md)
+**"El Robo Más Audaz"**
+
+**🎯 Temas Centrales Identificados:**
+- **Audacia y Consecuencias**: Traición de confianza de mentor usando permiso oficial
+- **Privilegio como Herramienta**: Diana usa nombre familiar para acceso imposible
+- **Tecnología vs. Magia**: Bugatti combina ingeniería con misterio dimensional
+- **Silencio Conspirativo**: Ausencia de reacción al robo más inquietante que persecución
+
+**🚗 El Bugatti de Sombrío:**
+- **Vehículo Legendario**: Bugatti de titanio de los años 40-50, 0-200 km/h en 5.6s
+- **Propietario Original**: El Sombrío (metahumano histórico)
+- **Fenómeno Inexplicable**: Emanación misteriosa envuelve a Kayface al acercarse
+- **Implicación**: El coche tiene propiedades sobrenaturales o tecnología desconocida
+- **Robo Autorizado**: Espectro permite "prueba" que se convierte en robo permanente
+
+**🤝 Recursos Tácticos Ganados:**
+- **Noemí Pesna**: Mendiga con poder de desactivar electrónica, elimina rastreadores
+- **Garaje de Malik**: Red de mendigos como infraestructura de apoyo
+- **Nacho Smück**: Informante sobre escena de carreras ilegales
+- **Acceso a Carreras**: Entrada al circuito ilegal controlado por La Telaraña
+
+**🏁 La Carrera Ilegal:**
+- **Recorrido**: Todos los puentes largos de Arcadia
+- **Competidores**: Veteranos de múltiples generaciones (Conde de 80 años, Rosa "abuelita")
+- **Organización**: La Telaraña como control de economía criminal
+- **Objetivo Real**: Llamar atención de Cacharrero, no necesariamente ganar
+- **Sabotaje**: Hotman calienta depósito de rival justo antes de salida
+
+**🔮 Líneas Narrativas Abiertas:**
+- ¿Por qué nadie reporta el robo del Bugatti?
+- ¿Espectro sabía y aprobó el plan intencionalmente?
+- ¿Qué fue la emanación que envolvió a Kayface?
+- ¿Conexión del vehículo con sus poderes de ilusión?
+- ¿Qué funciones tienen los botones sin rotular del Bugatti?
+
+---
+
+### 🏁 **Noviembre 2025 - Dimensiones y Revelaciones**
+
+#### [📈 Análisis 02/11/2025 - Puente de Moebius y Origen de Pantomima](2025-11-02-gemini-notes.md)
+**"El Secreto Dimensional de la Familia"**
+
+**🎯 Temas Centrales Identificados:**
+- **Legado Familiar y Destino**: Poderes heredados a través de generaciones heroicas/villanas
+- **Identidad y Transformación**: Kayface → Astrid → Pantomima como evolución identitaria
+- **Realidad vs. Ilusión**: Familia entera (Sombrío, Caos, Pantomima) manipula percepción
+- **Herencia Material y Simbólica**: Bugatti y Puente de Moebius como legado familiar
+
+**🌀 Revelación del Puente de Moebius:**
+- **Bolsillo Dimensional**: Espacio interdimensional accesible solo mediante Bugatti de Sombrío
+- **Geometría Imposible**: Dimensión pocket con física alterada y geometría no-euclidiana
+- **Función Original**: Refugio dimensional y base secreta heredada generacionalmente
+- **Ventaja Táctica**: Escape dimensional utilizado para huida durante carrera
+
+**👨‍👧 El Linaje de Pantomima Revelado:**
+
+**Sombrío (Abuelo)**:
+- **Era Activa**: 1960-1984, desaparecido misteriosamente ~1985
+- **Poder**: Materializar formas de sombra en realidad física
+- **Rol**: Héroe legendario de generación clásica
+- **Legado**: Bugatti dimensional, Puente de Moebius, linaje familiar poderoso
+
+**Caos (Padre)**:
+- **Era Activa**: 2000-presente (supervillano prolífico)
+- **Poder**: Especialista en grandes ilusiones y engaños masivos
+- **Característica**: Ha "muerto" públicamente múltiples veces
+- **Relación Familiar**: Hijo de héroe convertido en villano
+
+**Pantomima (antes Kayface/Astrid)**:
+- **Identidad Verdadera**: Hija de Caos, nieta de Sombrío
+- **Nombre Apropiado**: "Pantomima" refleja linaje de ilusionistas heredado
+- **Poderes Heredados**: Ilusiones de Caos + conexión con sombras de Sombrío
+- **Adopción Oficial**: Transición de Kayface a Pantomima en esta sesión
+
+**🐾 La Verdad sobre Pinky:**
+- **NO es Hurón Real**: Proyección mental de la propia mente de Pantomima
+- **Almacenado Dimensionalmente**: Existe en el Puente de Moebius
+- **Evidencia de Poder**: Conexión inconsciente con habilidades heredadas desde siempre
+- **Implicación**: Pantomima accedía a poderes dimensionales sin saberlo
+
+**🚗 Secretos del Bugatti Revelados:**
+- **Llave Dimensional**: Vehículo es acceso físico al Puente de Moebius
+- **Motor Misterioso**: Funciona con energía dimensional, no combustible convencional
+- **Reconocimiento Familiar**: La "emanación" fue el coche reconociendo a heredera legítima
+- **Solo para Descendientes**: Responde completamente solo a sangre de Sombrío
+
+**🏆 Resultado de la Carrera:**
+- **Victoria por Defecto**: Únicos en llegar a meta intactos tras escape dimensional
+- **Escape Acuático**: Portal dimensional a zona de agua evita persecución
+- **Hazaña Imposible**: Demostración de capacidades que ningún competidor normal podría replicar
+
+**⚖️ Bien vs. Mal No es Heredable:**
+- **Abuelo Héroe** → **Padre Villano** → **Nieta ¿?**
+- Linaje no determina moralidad personal
+- Pantomima puede elegir su propio camino
+- La Fuerza Oculta la acepta a pesar de padre villano
+
+**🔮 Implicaciones Futuras:**
+- ¿Puede Pantomima acceder a poderes de materialización de sombras de Sombrío?
+- ¿Sus ilusiones son más poderosas por doble linaje (Caos + Sombrío)?
+- ¿Sombrío está vivo en alguna dimensión accesible desde el Puente?
+- ¿Confrontación inevitable con Caos cuando descubra existencia de su hija?
+- ¿Qué más está almacenado en el Puente de Moebius?
+- ¿Funciones adicionales del Bugatti sin descubrir (botones sin rotular)?
+- ¿El Puente de Moebius como base secreta permanente para La Fuerza Oculta?
+- ¿Revelación pública de linaje villano? ¿Repercusiones mediáticas?
+
+**📊 Análisis de Transformación Identitaria:**
+
+El nombre **"Pantomima"** es perfectamente apropiado:
+- Refleja poder de ilusiones heredado de Caos
+- Conecta con manipulación de sombras de Sombrío
+- Representa teatro y performance como tradición familiar
+- Nombre **elegido** vs. nombre dado = agencia personal
+
+**Evolución de nombres como etapas de autodescubrimiento:**
+- **Kayface**: Identidad como superviviente marcada (cicatriz K)
+- **Astrid**: Nombre personal, humanidad debajo de la máscara
+- **Pantomima**: Aceptación de linaje como ilusionista hereditaria
+
+**🎭 Conexiones Históricas Reveladas:**
+- **Sombrío y Era Dorada**: Contemporáneo de primera/segunda generación heroica (1960-1984)
+- **Caos y Era Moderna**: Villano activo 25 años, múltiples "muertes" públicas documentadas
+- **Posible Conexión con Espectro**: ¿Espectro conocía a Sombrío históricamente? ¿Autorizó "robo" conociendo secretos?
+- **Red Dimensional**: ¿Otros tienen acceso a dimensiones similares? ¿Conexión con Alice Tesla (Génesis)?
+
+---
+
 ## 🧠 Análisis Transversal de Patrones
 
 ### 📈 **Evolución Narrativa por Fases**

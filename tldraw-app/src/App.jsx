@@ -50,7 +50,10 @@ export default function App() {
 
   return (
     <div style={{ position: 'fixed', inset: 0 }}>
-      <Tldraw onMount={loadDiagram} />
+      <Tldraw
+        onMount={loadDiagram}
+        licenseKey={import.meta.env.VITE_TLDRAW_LICENSE_KEY}
+      />
       <button
         onClick={handleSaveSnapshot}
         style={{

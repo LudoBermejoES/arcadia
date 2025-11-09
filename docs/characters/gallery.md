@@ -326,7 +326,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'estocada', name: 'Estocada', image: 'Estocada.png' },
       { slug: 'euro', name: 'Euro', image: 'euro.png' },
       { slug: 'gusto', name: 'Gusto', image: 'Gusto.png' },
-      { slug: 'la-sombra', name: 'La Sombra', image: 'La Sombra.png' },
+      { slug: 'sombrio', name: 'Sombrío', image: 'La Sombra.png' },
       { slug: 'lucifer-hero', name: 'Lucifer', image: 'Lucifer.png' },
       { slug: 'neon', name: 'Neón', image: 'Neon.png' },
       { slug: 'nube', name: 'Nube', image: 'Nube.png' },

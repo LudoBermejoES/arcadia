@@ -12,7 +12,119 @@ slug: astrid-kayface
 </div>
 
 ## Presentación
-Astrid, también conocida como Kayface, es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Xavi. Se caracteriza por sus conocimientos tecnológicos y su interés en la cultura pop. Comparte habitación con Diana durante el entrenamiento en la mansión.
+Astrid, también conocida como **Pantomima** (anteriormente Kayface), es una metahumana perteneciente al grupo "La Fuerza Oculta", jugada por Xavi. En la **Sesión 37 (2 Noviembre 2025)**, descubrió su verdadero origen: es **hija del supervillano Caos y nieta del héroe legendario Sombrío**, lo que reconfiguró completamente su identidad y comprensión de sus poderes heredados.
+
+## 🌀 REVELACIÓN CRÍTICA: Origen y Transformación Identitaria (Sesión 37)
+
+### El Descubrimiento en el Puente de Moebius
+
+Durante la carrera ilegal del 2 de noviembre de 2025, el **Bugatti de Sombrío** accedió al **Puente de Moebius**, un bolsillo dimensional creado por su abuelo. En este espacio imposible, Kayface descubrió la verdad traumática sobre su linaje familiar.
+
+### Linaje Revelado
+
+**Sombrío** (Abuelo paterno):
+- **Héroe legendario fundacional** (activo 1956-1985)
+- Primer metahumano público de Arcadia
+- Autor del Primer Manifiesto Metahumano
+- **Poder**: Materialización de formas de sombra en realidad física
+- Propietario original del Bugatti dimensional
+- Creador/descubridor del Puente de Moebius
+- **Desaparecido** misteriosamente en 1985
+
+**Caos** (Padre biológico):
+- **Supervillano prolífico** (activo 2000-presente, 25 años)
+- Especialista en grandes ilusiones y engaños masivos
+- Ha "muerto" públicamente múltiples veces (todas falsas)
+- Hijo de héroe que se convirtió en villano
+- **Relación con Astrid/Pantomima**: Desconocida - no hay información sobre si conoce su existencia
+
+**Pantomima** (ella misma):
+- **Hija de villano, nieta de héroe**
+- Heredera de poderes de ambos: ilusiones (Caos) + sombras (Sombrío)
+- **Heredera legítima** del Bugatti dimensional y el Puente de Moebius
+- Adoptó oficialmente el nombre "Pantomima" en esta sesión
+
+### La Verdad sobre Pinky
+
+**Revelación sorprendente**: Pinky, el hurón que siempre acompañó a Astrid/Kayface, **NO es un animal real**. Es una **proyección mental de su propia mente**, almacenada dimensionalmente en el Puente de Moebius.
+
+**Implicaciones**:
+- Astrid accedía inconscientemente a sus poderes dimensionales heredados
+- Creó a Pinky como compañero porque se sentía sola (huérfana)
+- Evidencia de que sus habilidades son mucho más profundas de lo que creía
+- Conexión innata con el Puente de Moebius desde antes de conocer su origen
+
+### El Bugatti y el Reconocimiento
+
+En la **Sesión 36** (12 Octubre 2025), cuando Kayface se acercó al Bugatti de Sombrío en la feria de coches:
+- Una **emanación misteriosa** del vehículo la envolvió brevemente
+- El Bugatti la **reconoció como heredera legítima** de Sombrío
+- Este fenómeno era el vehículo identificando descendiente de su sangre
+- Solo responde completamente a **descendientes de Sombrío**
+
+### Adopción del Nombre "Pantomima"
+
+**Evolución Identitaria**:
+- **Kayface** (identidad inicial): Superviviente marcada con cicatriz (K)
+- **Astrid** (nombre personal): Humanidad debajo de la máscara
+- **Pantomima** (identidad definitiva): Aceptación de linaje como ilusionista hereditaria
+
+**Por qué "Pantomima"**:
+- Refleja poder de ilusiones heredado de Caos
+- Conecta con manipulación de sombras de Sombrío
+- Representa teatro y performance como tradición familiar
+- **Nombre elegido** vs. nombre dado = agencia personal
+
+### Bien vs. Mal No es Heredable
+
+**Ciclo Generacional Completo**:
+- **Sombrío** (Abuelo): Héroe legendario → BIEN
+- **Caos** (Padre): Supervillano prolífico → MAL
+- **Pantomima** (Nieta): Heroína de La Fuerza Oculta → **SU ELECCIÓN**
+
+**Demostración**: La moralidad NO es genética - los poderes SÍ se heredan, pero el camino moral es decisión personal. Hijo de héroe puede ser villano (Caos), hija de villano puede ser heroína (Pantomima).
+
+### Reacción de La Fuerza Oculta
+
+**Apoyo Incondicional**:
+- El equipo aceptó a Pantomima a pesar de su padre villano
+- Demuestra que juzgan a las personas por sus acciones, no su origen
+- **Solidaridad**: Permanecieron junto a ella durante revelación traumática
+- Establece precedente: el linaje no define el destino
+
+### Recursos Heredados
+
+**Bugatti Dimensional**:
+- Vehículo legendario de titanio (años 40-50)
+- **Llave física** al Puente de Moebius
+- 0-200 km/h en 5.6 segundos
+- Motor de energía dimensional (no combustible convencional)
+- Ahora vehículo oficial de La Fuerza Oculta
+
+**Puente de Moebius**:
+- **Bolsillo dimensional** con geometría no-euclidiana
+- Refugio dimensional inaccesible para enemigos
+- Almacén de secretos familiares a través de generaciones
+- **Base secreta potencial** para el equipo
+
+### Implicaciones Futuras
+
+**Preguntas Abiertas**:
+- ¿Puede Pantomima acceder a poderes de materialización de sombras del abuelo?
+- ¿Caos descubrirá la existencia de su hija?
+- ¿Confrontación inevitable padre-hija en el futuro?
+- ¿Sombrío está vivo en alguna dimensión accesible desde el Puente?
+- ¿Qué más está almacenado en el bolsillo dimensional?
+- ¿Revelación pública del linaje villano? ¿Impacto mediático?
+
+**Desarrollo de Personaje**:
+- Procesar ser hija de villano prolífico
+- Demostrar que no hereda destino paterno
+- Explorar poderes heredados de ambos (Caos + Sombrío)
+- Posible búsqueda de información sobre Sombrío desaparecido
+- **Elección Moral**: Definir su propio camino heroico
+
+---
 
 ## Rol y Actividades
 Astrid actúa como la especialista tecnológica del grupo "La Fuerza Oculta". Su papel incluye intentar establecer comunicaciones con el exterior, hackear sistemas de seguridad, y proporcionar apoyo técnico durante las misiones. Fue seleccionada para participar en el programa "Héroes o Villanos".

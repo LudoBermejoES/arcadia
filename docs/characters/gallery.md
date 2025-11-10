@@ -215,7 +215,12 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'mencia-psique-cia', name: 'Mencia / Psique / Cia', image: 'Mencia_Psique_Cia.png' },
       { slug: 'mesmero', name: 'Mésmero', image: 'Mésmero.png' },
       { slug: 'sara10-mecanica', name: 'Sara10 / Mecánica', image: 'Sara10_Mecánica.png' },
-      { slug: 'thomas-raza', name: 'Thomas / Raza', image: 'Thomas_Raza.png' }
+      { slug: 'thomas-raza', name: 'Thomas / Raza', image: 'Thomas_Raza.png' },
+      // Reformatorio Nueva Esperanza
+      { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
+      { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
+      { slug: 'kira', name: 'Kira', image: 'kira.png' },
+      { slug: 'elena-exposito', name: 'Elena Expósito', image: 'elena-exposito.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
     
     participantesHeVi: [
@@ -238,11 +243,6 @@ document.addEventListener('DOMContentLoaded', function() {
     ].sort((a, b) => a.name.localeCompare(b.name)),
 
     reformatorio: [
-      // Protagonistas del Reformatorio Nueva Esperanza
-      { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
-      { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
-      { slug: 'kira', name: 'Kira', image: 'kira.png' },
-      { slug: 'elena-exposito', name: 'Elena Expósito', image: 'elena-exposito.png' },
       // Personal del reformatorio
       { slug: 'el-senor-nadie', name: 'El Señor Nadie (Director)', image: 'senor-nadie.png' },
       { slug: 'elena-mora', name: 'Elena Mora (Profesora)', image: 'Elena Mora.png' },

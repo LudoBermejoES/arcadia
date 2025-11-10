@@ -23,13 +23,17 @@ Tiritas tiene una **hermana** en el exterior, y su conexión con ella es su prin
 Su pasado de violencia doméstica ha dejado marcas tanto físicas como psicológicas. Su cuerpo está **lleno de cicatrices de golpes**, hasta el punto de que se ducha con camiseta para ocultar la extensión del daño.
 
 ## Rol y Actividades
-Tiritas actúa como el **protector** del grupo, aunque de manera más física y directa que Sergei. Su papel incluye:
+Tiritas actúa como el **protector e investigador** del grupo, combinando fuerza física con curiosidad activa. Su papel incluye:
 - Defensa física de compañeros más vulnerables
 - Absorción de daño en situaciones de conflicto
+- **Investigación activa** de misterios del reformatorio (charco, desapariciones)
 - Amistad y apoyo emocional a través de acciones más que palabras
 - Recordatorio constante de las consecuencias reales de la violencia
+- **Bienvenida a nuevos estudiantes** (Elena)
 
 Se unió a Sergei en la legendaria **competición de comer macarrones con queso**, formando un vínculo que une humor y trauma, ligereza y profundidad.
+
+**Nueva Faceta (Sesión 2)**: Tiritas emerge como el investigador del grupo, dispuesto a tomar riesgos para descubrir la verdad sobre las anomalías del reformatorio.
 
 ## Poderes y Habilidades
 - **Absorción de energía cinética**: Se vuelve más grande y fuerte al recibir golpes
@@ -87,10 +91,50 @@ El evento que lo unió a Sergei, transformando potencial rivalidad en amistad pr
 ### **Historia de Defensa**
 El asesinato de su padre en defensa propia es el evento definitorio de su vida. Fue el momento en que su poder se manifestó de la manera más dramática y consecuente.
 
+### **Encuentro con Elena Expósito (02/11/2025)**
+Cuando Elena llegó al gimnasio como nueva estudiante, Tiritas fue el primero en acercarse y presentarse de manera amistosa. Le preguntó sobre sus poderes y la animó a demostrarlos allí mismo.
+
+Lo que siguió fue memorable:
+- Elena manifestó una **pistola ilusoria** completamente realista
+- Le **disparó a Tiritas** con una bala que se sintió real
+- Tiritas **no pudo absorber** el pequeño ataque inicial (chispazo eléctrico de Sergei)
+- Pero cuando Sergei le dio un **golpe accidentalmente fuerte**, Tiritas lo absorbió
+- Se volvió **más grande, con más fuerza y dureza** - considerado "bastante impresionante"
+
+A pesar del disparo, Tiritas invitó a Elena a chocar los cinco, aunque el contacto fue como "golpear cemento" debido a su dureza.
+
+**Actitud de Tiritas**: No mostró rencor por el disparo, manteniendo su actitud protectora y amistosa. Incluso le ofreció macarrones después del incidente.
+
+### **Sesión de Terapia con Señorita Mora (02/11/2025)**
+Tiritas fue el primero en asistir a terapia tras las desapariciones. La Señorita Mora indagó sobre:
+- Su preocupación por la desaparición de sus compañeros
+- Su relación con Amara y Dimitri
+- Sus pesadillas recurrentes
+- Su búsqueda de su hermana
+
+Tiritas mencionó solo el **tecleo misterioso** que escuchó antes de dormirse, siendo consistente con otros estudiantes.
+
+### **Investigación del Charco Misterioso (02/11/2025)**
+Tiritas demostró ser un **investigador activo** de los misterios del reformatorio:
+
+1. **Intento de Escape para Investigar**: Intentó escabullirse para investigar la sesión de Elena, pero el profesor Daniel llamó al guardia Víctor
+2. **Descarga Eléctrica**: Recibió una descarga eléctrica en la espalda de Víctor cuando intentó huir
+3. **Conversación con Víctor**: En el baño, conversó en voz baja con el guardia sobre las extrañas desapariciones:
+   - No se encontró nada en las grabaciones de seguridad
+   - Sugirió que alguien con poderes podría haber hackeado las cámaras
+   - Víctor se mostró preocupado por la situación
+4. **Persuasión**: Logró persuadir a Víctor para que lo acompañara a investigar el charco
+5. **Descubrimiento Crucial**: **Víctor no podía ver el charco** que Tiritas veía claramente
+6. **Hipótesis**: Sugirió que alguien está modificando percepciones o recuerdos
+7. **Investigación con Lea**: Preguntó a Lea (que puede transformarse) sobre el charco, confirmando que ella también lo vio
+
+**Tirada de Conocimiento**: Tiritas descubrió que los telépatas y controladores mentales son **extremadamente raros** en Arcadia, lo que hace el misterio aún más inquietante.
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
 
-## Situación Actual (Octubre 2025)
+## Situación Actual (Noviembre 2025)
 Tiritas continúa su estancia en el reformatorio, equilibrando la necesidad de comportarse para eventualmente ver a su hermana con la tentación constante de intentar otro escape. La desaparición de Amara y Dimitri añade un nuevo nivel de tensión y misterio a un ambiente ya volátil.
 
 ### **Preguntas Abiertas**
@@ -99,7 +143,10 @@ Tiritas continúa su estancia en el reformatorio, equilibrando la necesidad de c
 - ¿Hubo testigos del asesinato de su padre que puedan confirmar la defensa propia?
 - ¿Cuál es el límite de su absorción de energía cinética?
 - ¿Puede aprender a activar sus poderes sin necesitar ser golpeado?
-- ¿Qué sabe sobre las desapariciones previas en el reformatorio?
+- ¿Logrará descubrir la verdad sobre el charco misterioso?
+- ¿Hay realmente un telépata manipulando percepciones en el reformatorio?
+- ¿Por qué Víctor (y otros guardias) no pueden ver lo que los estudiantes sí ven?
+- ¿Su investigación lo pondrá en peligro?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

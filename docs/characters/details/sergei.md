@@ -64,6 +64,32 @@ Tras el incidente con la oreja, Sergei negoció con el profesor Víctor, ofreci�
 ### **Realismo sobre el Exterior**
 Cuando Kira propuso escapar, Sergei demostró una comprensión madura del mundo fuera del reformatorio, advirtiendo: *"Tú subestimas los peligros del exterior"*, mostrando que su larga estancia le ha dado perspectiva sobre las opciones reales disponibles para metahumanos inadaptados.
 
+### **Bienvenida a Elena Expósito (02/11/2025)**
+Cuando Elena llegó como nueva estudiante, Sergei estuvo presente durante su demostración de poderes en el gimnasio. Presenció:
+- La pistola ilusoria creada por Elena
+- El disparo a Tiritas (que sorprendió a todos)
+- La reacción de Kira activando campo de fuerza
+- La reprimenda del Coach a Elena
+
+Sergei también participó en la demostración de poderes con Tiritas, dándole un **golpe accidentalmente fuerte** que activó la absorción de energía de Tiritas de manera espectacular.
+
+### **Demostración de Baloncesto (02/11/2025)**
+En una demostración más ligera, Sergei participó en mates de baloncesto con Kira:
+- Kira realizó un mate espectacular usando sus rayos para elevarse
+- Sergei, transformado en "gran duyón", también intentó el mate
+- Quedó colgado del aro con más dificultad que Kira
+
+**Problema Técnico**: Durante el intento de Sergei, su personaje sufrió un error del plugin de Foundry, haciéndose gigante y luego "implosionando" o desapareciendo. Ludo tuvo que recrear el personaje.
+
+### **Sesión de Terapia con Señorita Mora (02/11/2025)**
+Sergei tuvo su sesión individual donde la psicóloga indagó sobre:
+- Su **pérdida de memoria**: Cómo se siente sin recordar su pasado
+- **Flashbacks**: Si tiene recuerdos fragmentarios que surgen
+- Cómo se siente con respecto a sus compañeros
+- **Pesadillas**: Se despierta sudando y alterado pero no recuerda el contenido
+
+Esta sesión reveló que Sergei sufre de **amnesia significativa** sobre su vida antes del reformatorio, añadiendo profundidad a su misterio personal.
+
 ## Relaciones
 
 ### **Con Tiritas**
@@ -75,19 +101,26 @@ Rol de mentor bromista. Intenta ayudarla a adaptarse mediante humor y consejos p
 ### **Con Víctor**
 Relación de negociación constante. Sergei sabe cómo hablar con Víctor para conseguir lo que quiere, usando humor y ofertas de cooperación.
 
+### **Con Elena Expósito**
+Nueva compañera que llegó en la Sesión 2. Sergei presenció su imprudente demostración con la pistola ilusoria y está evaluando cómo integrarla al grupo.
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
 
-## Situación Actual (Octubre 2025)
+## Situación Actual (Noviembre 2025)
 Sergei continúa como veterano del reformatorio, ahora asumiendo el papel de mentor para Kira, la recién llegada. Tras la misteriosa desaparición de Amara y Dimitri, Sergei se encuentra ante un nuevo tipo de desafío que podría sacudir incluso su optimismo habitual.
 
 ### **Preguntas Abiertas**
 - ¿Por qué realmente está Sergei en el reformatorio desde hace tanto tiempo?
+- **¿Qué causó su pérdida de memoria?** (revelado en Sesión 2)
+- **¿Qué significan sus pesadillas recurrentes?** (se despierta alterado sin recordar)
 - ¿Tiene familia fuera o el reformatorio es su único hogar?
+- **¿Los flashbacks eventualmente revelarán su pasado?**
 - ¿Qué sabe sobre las desapariciones anteriores en Nueva Esperanza?
 - ¿Hasta dónde pueden llegar sus poderes de metamorfismo?
-- ¿Qué pasará cuando descubra qué sucedió con Amara y Dimitri?
+- ¿Su amnesia está relacionada con los misterios del reformatorio?
 
 ---
 
-*Sergei representa la resiliencia y la adaptación. En un lugar diseñado para controlar y reformar, él ha encontrado la manera de mantener su humanidad a través del humor, la amistad y la protección de aquellos más vulnerables que él.*
+*Sergei representa la resiliencia y la adaptación. En un lugar diseñado para controlar y reformar, él ha encontrado la manera de mantener su humanidad a través del humor, la amistad y la protección de aquellos más vulnerables que él. Pero la revelación de su amnesia significativa añade una capa de misterio: ¿quién era antes de perder su memoria, y por qué no puede recordar?*

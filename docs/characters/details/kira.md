@@ -33,12 +33,20 @@ Como la **recién llegada**, Kira está en fase de adaptación al reformatorio. 
 - Resistir la presión institucional de "reformarse"
 
 ## Poderes y Habilidades
+
+### **Poderes Eléctricos**
 - **Manipulación de energía eléctrica**: Control sobre corrientes eléctricas
 - **Disparar relámpagos**: Puede lanzar descargas eléctricas ofensivas
 - **Provocar conmociones**: Capacidad de aturdir o incapacitar con electricidad
 - **Vuelo eléctrico**: Puede volar utilizando campos electromagnéticos
 - **Carga estática continua**: Emite una carga estática constante que causa chispazos al contacto
 - **Calentamiento eléctrico**: Puede electrocutar objetos para calentarlos (probado con macarrones)
+- **Elevación eléctrica**: Puede usar rayos para elevarse y realizar acrobacias (mate de baloncesto espectacular)
+
+### **Poderes Defensivos (Revelado en Sesión 2)**
+- **Campo de Fuerza/Dureza**: Puede activar protección física instintiva
+- **Configuración**: Siempre activo a 2 puntos de efectividad
+- **Activación**: Responde a instinto protector (demostrado al proteger a Tiritas)
 
 ### **Limitaciones y Desafíos**
 - **Control limitado**: Aún está aprendiendo a controlar la intensidad de sus poderes
@@ -92,6 +100,35 @@ Intentó calentar macarrones electrocutándolos, resultando en comida "chamuscad
 ### **Propuesta de Escape**
 Cuestionó por qué sus compañeros aceptaban estar controlados, proponiendo buscar una manera de escapar. La respuesta pragmática de Sergei sobre dinero y comida le mostró la complejidad del mundo exterior.
 
+### **Encuentro con Elena (02/11/2025)**
+Cuando Elena (la nueva estudiante) llegó al gimnasio, Kira presenció la demostración de poderes que culminó con Elena disparando una pistola ilusoria a Tiritas. Kira **reaccionó instintivamente**, activando un campo de fuerza para proteger a Tiritas del disparo.
+
+Este momento reveló:
+- Kira tiene un poder de **campo de fuerza/dureza** además de electricidad
+- Su poder defensivo se activa por instinto protector
+- A pesar de su retraimiento, tiene fuertes instintos de protección hacia sus compañeros
+- La activación no fue completamente pasiva como creía, sino activa bajo estrés
+
+**Ajuste de Poderes**: Ludo Bermejo aclaró que el poder de dureza de Kira puede configurarse como "siempre activo" (2 puntos) en lugar de activación manual (3 puntos). Kira aceptó tenerlo siempre activo.
+
+### **Sesión de Terapia con Señorita Mora (02/11/2025)**
+Kira tuvo su sesión individual con la psicóloga, donde discutieron:
+- Su familia y relación con ellos
+- Procesamiento del incidente con el compañero herido
+- Su deseo de marcharse del reformatorio
+- Pregunta por el estado del compañero en coma
+
+La Señorita Mora comentó que si Kira continuaba haciendo avances, **pronto podría regresar a casa**, ofreciendo una luz de esperanza.
+
+### **El Charco Misterioso (02/11/2025)**
+Mientras se dirigía a su sesión de terapia, Kira **intentó evitar un charco** en el pasillo. Este charco resultó ser parte del misterio más grande del reformatorio:
+- Solo visible para algunos estudiantes
+- Invisible para los guardias de seguridad
+- Brillante cerca de la máquina de agua (según Lea)
+- Sugiere anomalías perceptivas o manipulación mental
+
+Kira es una de las personas que **puede ver el charco**, lo que podría indicar algo especial sobre su percepción o resistencia a manipulación mental.
+
 ## Situación con la Ducha
 Kira **no puede ducharse con otras chicas** debido al peligro de electrocución masiva. Esta limitación práctica:
 - Refuerza su aislamiento físico
@@ -101,25 +138,28 @@ Kira **no puede ducharse con otras chicas** debido al peligro de electrocución 
 
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
 
-## Situación Actual (Octubre 2025)
+## Situación Actual (Noviembre 2025)
 Kira está en sus **primeros días** en el reformatorio, navegando un mundo completamente nuevo mientras procesa el trauma de su accidente. La desaparición de Amara y Dimitri añade un elemento de terror a su ya difícil adaptación.
 
 ### **Desafíos Inmediatos**
 - Adaptarse a la vida comunitaria forzada
 - Desarrollar control sobre emisión eléctrica pasiva
-- Procesar culpa por el compañero en coma
-- Aprender a confiar en Sergei y Tiritas
+- Procesar culpa por el compañero en coma (discutido en terapia)
+- Aprender a confiar en Sergei, Tiritas y ahora Elena
 - Entender las reglas no escritas del reformatorio
-- Determinar si Elena (la psicóloga) es aliada o guardiana
+- Determinar si la Señorita Mora es aliada o guardiana
+- Investigar el charco misterioso que solo algunos ven
 
 ### **Preguntas Abiertas**
 - ¿Se recuperará el compañero que dejó en coma?
-- ¿Enfrentará consecuencias legales adicionales?
+- ¿Podrá regresar a casa pronto como sugirió la Señorita Mora?
 - ¿Puede aprender a controlar la emisión estática continua?
-- ¿Qué sabe realmente sobre las desapariciones?
-- ¿Por qué estaba en las gradas el día que desaparecieron Amara y Dimitri?
-- ¿Escuchó el tecleo misterioso antes de dormirse?
+- ¿Qué significa que pueda ver el charco y los guardias no?
+- ¿Hay un telépata o controlador mental manipulando percepciones?
+- ¿Su poder de dureza siempre activo la protegerá de amenazas futuras?
+- ¿Qué relación tiene Elena Expósito con los misterios del reformatorio?
 
 ## Desarrollo Potencial
 El arco de Kira podría explorar:

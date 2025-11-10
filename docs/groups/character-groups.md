@@ -56,14 +56,15 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 - [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
 
 ### La Fuerza Oculta
-**Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)  
-**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"  
+**Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)
+**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
 **Campaña**: [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
+**Página del Grupo**: [La Fuerza Oculta]({{ site.baseurl }}/groups/la-fuerza-oculta/)
 
 **Miembros**:
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
 - [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
-- [Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
+- [Pantomima / Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
 - [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
 - [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
 - [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)

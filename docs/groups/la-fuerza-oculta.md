@@ -1,0 +1,264 @@
+---
+layout: page
+title: "La Fuerza Oculta"
+permalink: /groups/la-fuerza-oculta/
+---
+
+# La Fuerza Oculta
+
+## Los Herederos del Legado (2024-2025)
+
+**La Fuerza Oculta** representa la tercera generación de héroes de Arcadia, activa desde febrero de 2024. A diferencia de sus predecesores, estos jóvenes héroes crecieron en un mundo que ya conocía el heroísmo organizado, enfrentándose a dilemas morales complejos en una era de meta-narrativa y vigilancia constante.
+
+---
+
+## 🎯 **Misión y Filosofía**
+
+La Fuerza Oculta opera bajo un paradigma diferente a las generaciones anteriores:
+- **Herederos Conscientes**: Conocen las leyendas de La Familia y Génesis
+- **Dilemas Éticos**: Enfrentan situaciones sin respuestas morales claras
+- **Pérdida de Privacidad**: Descubren que su historia es entretenimiento público
+- **Meta-Narrativa**: Juegan al sistema "Héroes o Villanos" mientras son protagonistas del mismo
+
+---
+
+## 👥 **Miembros del Equipo**
+
+### Eslizón Esmeralda (Sugus)
+**Poderes:** Forma reptiliana, estrategia avanzada, regeneración
+**Rol:** Estratega noble del grupo
+**Identidad civil:** Joven de familia aristocrática reptiliana
+
+Eslizón representa la nobleza metahumana con poderes de reptil, combinando inteligencia táctica con habilidades físicas sobrenaturales. Su crianza privilegiada contrasta con su compromiso genuino con la justicia heroica.
+
+**Especialidad:** Planificación táctica, combate cuerpo a cuerpo, liderazgo estratégico
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)
+
+---
+
+### Diana (Eslizo)
+**Poderes:** Poder y privilegio aristocráticos, habilidades de combate superiores
+**Rol:** Poder bruto del equipo
+**Identidad civil:** Heredera de familia influyente
+
+Diana representa el poder heredado y el privilegio aristocrático dentro del mundo metahumano. Su posición social y habilidades combinadas la convierten en una fuerza imparable.
+
+**Especialidad:** Combate directo, influencia social, recursos ilimitados
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/diana/)
+
+---
+
+### Pantomima - antes Astrid/Kayface (Xavi)
+**Poderes:** Ilusiones maestras, manipulación perceptiva
+**Rol:** Maestro de engaños y caos controlado
+**Identidad civil:** Descendiente de Sombrío (abuelo) y Caos (padre)
+
+**Evolución de Identidad:**
+- **Kayface** → **Astrid** → **Pantomima** (Sesión 37, Nov 2025)
+
+Pantomima descubrió su verdadero linaje en el Puente de Moebius: nieta de Sombrío (primer metahumano público de Arcadia) e hija de Caos (supervillano maestro de ilusiones). Heredó el Bugatti dimensional de titanio y recursos masivos de su familia.
+
+**Revelación Familiar (Sesión 37):**
+- Sombrío (abuelo): Héroe legendario que se convirtió en villano
+- Caos (padre): Supervillano maestro de ilusiones (desconoce que tiene una hija)
+- Pinky: No es real, es una proyección mental de Pantomima
+- Bugatti: Vehículo dimensional de titanio, llave física al Puente de Moebius
+
+**Especialidad:** Ilusiones de nivel maestro, caos psicológico controlado, herencia dimensional
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/astrid-kayface/)
+
+---
+
+### Psique/Cia (Conchi)
+**Poderes:** Telepatía, coordinación mental, lectura de emociones
+**Rol:** Coordinadora telepática del equipo
+**Identidad civil:** Joven telépata con conexión profunda al grupo
+
+Psique/Cia es la telepática que mantiene al equipo conectado mental y emocionalmente. Su capacidad de leer y coordinar pensamientos es esencial para operaciones complejas.
+
+**Especialidad:** Enlaces telepáticos, coordinación de equipo, inteligencia emocional
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/mencia-psique-cia/)
+
+---
+
+### Justa/Justicia/Sentencia (Edu)
+**Poderes:** Justicia manifestada, evolución moral radical
+**Rol:** Representación física de la justicia
+**Identidad civil:** Manifestación viviente de conceptos de justicia
+
+**Evolución Radical:**
+- **Justa** → **Justicia** → **Sentencia**
+
+Justa ha experimentado una transformación radical a lo largo de la campaña, evolucionando su comprensión de la justicia desde conceptos simples hasta dilemas morales complejos. Cada iteración de su identidad representa una maduración de su filosofía heroica.
+
+**Especialidad:** Justicia manifestada, juicio moral, consecuencias directas
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/)
+
+---
+
+### Hotman (Jandro)
+**Poderes:** Control térmico, manipulación de calor y fuego
+**Rol:** Controlador térmico del equipo
+**Identidad civil:** Maestro del fuego y temperatura
+
+Hotman controla las temperaturas con precisión, desde congelar hasta incinerar. Su poder destructivo se equilibra con su capacidad de control fino.
+
+**Especialidad:** Manipulación térmica, combate elemental, control de incendios
+
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/hotman/)
+
+---
+
+## 📅 **Historia y Evolución**
+
+### **Fase de Formación (Febrero-Mayo 2024)**
+Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo dinámicas de equipo mientras aprenden a coordinar sus poderes únicos.
+
+### **Operaciones Activas (Junio 2024-Presente)**
+- **37+ sesiones documentadas** (24 manuales + 17 transcripciones AI)
+- Encuentros con organizaciones criminales (La Farándula, Fatum Corporation)
+- Descubrimiento de la meta-narrativa: juegan "Héroes o Villanos"
+- Encuentros con veteranos de generaciones anteriores
+
+### **Revelaciones Familiares (Noviembre 2025)**
+**Sesión 37 - Pantomima:**
+- Descubrimiento del linaje familiar (Sombrío → Caos → Pantomima)
+- Acceso al Puente de Moebius y recursos masivos
+- Verdad sobre Pinky (proyección mental)
+- Herencia del Bugatti dimensional
+
+---
+
+## 🌟 **Logros Destacados**
+
+### **Operaciones Mayores**
+- Infiltración en instalaciones de Fatum Corporation
+- Rescate de civiles en situaciones de rehenes
+- Neutralización de amenazas metahumanas peligrosas
+- Coordinación con MetaCorp en operaciones conjuntas
+
+### **Momentos Icónicos**
+- **El Descubrimiento del Juego**: Encuentran gente jugando a "Héroes o Villanos" con sus identidades
+- **El Puente de Moebius**: Pantomima accede al refugio dimensional de su familia
+- **Encuentros Generacionales**: Interacciones con Mésmero, El Faraón y otros veteranos
+
+---
+
+## 🎭 **Temas Centrales**
+
+### **Meta-Narrativa Consciente**
+La Fuerza Oculta descubre que su historia es entretenimiento público. Juegan al sistema "Héroes o Villanos" sin saber que ellos mismos son los protagonistas.
+
+### **Dilemas Morales Complejos**
+A diferencia de la clara distinción bien/mal de generaciones anteriores, La Fuerza Oculta enfrenta situaciones éticas grises:
+- ¿Cuándo está justificado usar la fuerza?
+- ¿Qué hacer con villanos que tienen razones comprensibles?
+- ¿Cómo manejar la pérdida de privacidad?
+
+### **Legado y Herencia**
+Cada miembro lidia con expectativas y legados:
+- Pantomima: Linaje heroico-villano complejo
+- Psique/Cia: Conexión con telépatas anteriores
+- Todos: Sombra de La Familia y Génesis
+
+### **Adolescencia Bajo Presión Pública**
+Son jóvenes descubriendo identidad mientras el mundo los observa y juzga constantemente.
+
+---
+
+## 🔗 **Conexiones con el Universo**
+
+### **Relaciones con Generaciones Anteriores**
+- **Mésmero**: Mentor y consejero telepático
+- **El Faraón**: Guía espiritual ocasional
+- **Mecánica**: Apoyo tecnológico heredado de Génesis
+
+### **Organizaciones Aliadas**
+- **MetaCorp**: Colaboración ocasional en operaciones mayores
+- **Gobierno de Arcadia**: Reconocimiento oficial limitado
+
+### **Enemigos Recurrentes**
+- **La Farándula**: Villanos teatrales del Siglo de Oro
+- **Fatum Corporation**: Amenaza corporativa multigeneracional
+- **Humanitas**: Partido político antimeta
+
+---
+
+## 📊 **Estadísticas del Grupo**
+
+<div class="stats-grid">
+<div class="stat-card">
+<span class="stat-number">6</span>
+<span class="stat-label">Miembros Activos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">37+</span>
+<span class="stat-label">Sesiones Documentadas</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">~21</span>
+<span class="stat-label">Meses Activos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">3ª</span>
+<span class="stat-label">Generación Heroica</span>
+</div>
+</div>
+
+---
+
+## 🔮 **Estado Actual (Noviembre 2025)**
+
+La Fuerza Oculta continúa operando activamente en Arcadia, enfrentando amenazas cada vez más complejas mientras procesan revelaciones personales profundas. La reciente revelación del linaje de Pantomima ha abierto nuevas preguntas sobre conexiones familiares dentro del mundo heroico y villano.
+
+### **Desafíos Actuales**
+- Procesar la revelación del linaje de Pantomima
+- Navegar la pérdida de privacidad por meta-narrativa
+- Establecer identidad propia más allá de las sombras de La Familia
+- Definir qué significa ser héroe en una era de ambigüedad moral
+
+---
+
+## 🎯 **Especialización Táctica**
+
+Como equipo, La Fuerza Oculta combina:
+- **Estrategia** (Eslizón Esmeralda)
+- **Poder directo** (Diana)
+- **Control psicológico** (Pantomima)
+- **Coordinación telepática** (Psique/Cia)
+- **Justicia manifestada** (Justa/Justicia/Sentencia)
+- **Control elemental** (Hotman)
+
+Esta combinación les permite abordar amenazas desde múltiples ángulos simultáneamente.
+
+---
+
+## 💎 **Citas Características**
+
+> *"Somos los herederos de leyendas... pero ¿qué pasa cuando descubres que eres entretenimiento?"*
+
+> *"Mi abuelo fue héroe, mi padre es villano. ¿Qué soy yo?"* - Pantomima
+
+> *"La justicia no es blanco y negro. Es cada decisión gris que tomamos cada día."* - Justa/Justicia/Sentencia
+
+---
+
+## 📚 **Recursos Adicionales**
+
+- **[Campaña Completa]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Todas las sesiones documentadas
+- **[Transcripciones AI]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** - Sesiones procesadas con IA
+- **[Sesiones Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)** - Notas del DM
+
+---
+
+*La Fuerza Oculta representa la evolución del heroísmo de Arcadia: consciente de su legado, crítico de sus métodos, y navegando un mundo donde la línea entre héroe y entretenimiento se ha difuminado. Son los herederos que deben definir qué significa ser héroe cuando el mundo te observa, te juzga, y juega a ser tú.*
+
+**[🚀 Explorar la Campaña Completa →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)**

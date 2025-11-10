@@ -72,6 +72,45 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### 🍂 **Noviembre 2025 - Misterios Se Profundizan**
+
+#### [📈 Análisis 02/11/2025 - Elena y el Charco Misterioso](2025-11-02-gemini-notes.md)
+**"Ilusiones, Terapia y Anomalías"**
+
+**🎯 Temas Centrales Identificados:**
+- **Poderes como Identidad**: Elena (ilusiones) se integra al grupo
+- **Control Institucional**: Sesiones de terapia obligatorias con Señorita Mora
+- **Percepción vs. Realidad**: Charco que solo algunos pueden ver
+- **Misterio Profundizado**: Anomalías perceptivas y desapariciones
+
+**👥 Desarrollo de Personajes:**
+- **Elena (Perico)**: Nueva estudiante con poderes de ilusión, demostración imprudente con pistola
+- **Tiritas**: Continúa rol protector, busca activamente entender desapariciones
+- **Sergei/Kira**: Desarrollo de dinámicas de grupo con nueva miembro
+
+**🔮 Arcos Narrativos Avanzados:**
+- Introducción de Elena con poderes de ilusión (transformación, engaños)
+- Sesiones terapéuticas individuales revelan traumas personales
+- Charco misterioso visible solo para algunos (anomalía perceptiva)
+- Lea Duboa Maguyen: poder de transformación avanzado sin control
+- Evidencia de manipulación mental o alteración de percepciones
+
+**⚡ Momentos Clave:**
+- Elena crea ilusión de pistola, dispara a Tiritas (reacción institucional)
+- Kira activa campo de fuerza instintivo para proteger
+- Tiritas persuade a guardia Víctor para investigar charco
+- Víctor no puede ver el charco que Tiritas ve claramente
+- Lea confirma ver charco brillante cerca de máquina de agua
+- Otras chicas también mencionan el charco que guardias no ven
+
+**🧠 Dinámicas Sociales:**
+- Integración de Elena al grupo (traumática pero efectiva)
+- Sesiones de terapia como herramienta de control/evaluación
+- Tiritas como investigador activo de misterios
+- Lea: transformación sin control, sin memoria de forma original
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

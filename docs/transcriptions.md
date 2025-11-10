@@ -48,6 +48,14 @@ La campaña más reciente, jugada en el sistema "Héroes o Villanos".
 - [Notas Gemini 2025-08-24](campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
 - [Notas Gemini 2025-08-30](campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 
+### Reformatorio Nueva Esperanza
+La cuarta campaña, ambientada en Isla Albedo, sigue a jóvenes metahumanos marginados.
+
+**Transcripciones AI Disponibles:**
+- [Notas Gemini 2025-10-26](campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/) - Llegada a Isla Albedo
+- [Notas Gemini 2025-11-02](campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/) - Elena y el Charco Misterioso
+- [Ver todas las sesiones del Reformatorio](campaigns/aun-sin-nombre/)
+
 ## Metodología de Transcripción
 
 Las transcripciones se han creado usando diferentes métodos a lo largo de los años:

@@ -51,13 +51,13 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/)** *(Oct 2025)*
+### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/)** *(Oct-Nov 2025)*
 
 **Los Marginados de Isla Albedo**
 
-[Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/) y [Kira]({{ site.baseurl }}/characters/details/kira/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
+[Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/), [Kira]({{ site.baseurl }}/characters/details/kira/) y [Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
 
-**🌟 Perspectiva**: Control institucional vs. libertad personal, jóvenes con poderes incontrolables, misterios de desapariciones, la cara oscura del sistema metahumano.
+**🌟 Perspectiva**: Control institucional vs. libertad personal, jóvenes con poderes incontrolables, misterios de desapariciones, anomalías perceptivas, la cara oscura del sistema metahumano.
 
 ---
 
@@ -98,7 +98,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-## 👥 **234 Personajes Únicos Documentados**
+## 👥 **235 Personajes Únicos Documentados**
 
 ### **🦸‍♂️ Los Héroes Legendarios**
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
@@ -132,7 +132,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">234</span>
+<span class="stat-number">235</span>
 <span class="stat-label">Personajes Únicos</span>
 </div>
 
@@ -142,7 +142,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">84+</span>
+<span class="stat-number">85+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

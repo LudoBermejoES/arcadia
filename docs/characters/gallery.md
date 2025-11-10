@@ -242,6 +242,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'sergei', name: 'Sergei', image: 'sergei.png' },
       { slug: 'tiritas', name: 'Tiritas', image: 'tiritas.png' },
       { slug: 'kira', name: 'Kira', image: 'kira.png' },
+      { slug: 'elena-exposito', name: 'Elena Expósito', image: 'elena-exposito.png' },
       // Personal del reformatorio
       { slug: 'el-senor-nadie', name: 'El Señor Nadie (Director)', image: 'senor-nadie.png' },
       { slug: 'elena-mora', name: 'Elena Mora (Profesora)', image: 'Elena Mora.png' },

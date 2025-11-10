@@ -59,13 +59,15 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 
 **Los Marginados:**
 - **Sesión 1 (26 Oct 2025)**: Llegada a Isla Albedo, instalación en el reformatorio, misterios iniciales
+- **Sesión 2 (02 Nov 2025)**: Llegada de Elena con poderes de ilusión, sesiones de terapia, charco misterioso visible solo para algunos
 - Jóvenes metahumanos recluidos en institución de "rehabilitación"
-- Temas de control institucional vs. libertad personal
+- Temas de control institucional vs. libertad personal, anomalías perceptivas
 
 **Protagonistas:**
 - **Sergei** (PJ) - Metamorfo veterano del reformatorio
 - **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
 - **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
+- **Elena Expósito** (Perico) - Nueva estudiante con poderes de ilusión
 
 ## Resúmenes Especiales
 
@@ -102,8 +104,8 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
-**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (36+ sesiones: 24 manuales + 16 transcripciones AI)
-**Oct 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (1 sesión documentada)
+**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (37+ sesiones: 24 manuales + 17 transcripciones AI)
+**Oct-Nov 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (2 sesiones documentadas)
 
 ## Navegación
 

@@ -10,6 +10,52 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ---
 
+## 📅 **Noviembre 2025**
+
+### **10 de Noviembre de 2025**
+
+#### **🏝️ REFORMATORIO NUEVA ESPERANZA - Sesión 2**
+- **Segunda sesión documentada**: Elena y el Charco Misterioso
+  - **Nueva protagonista**: Elena Expósito (Perico) - Poderes de ilusión
+  - **Tema central**: Percepción vs. realidad, anomalías perceptivas
+  - **Misterio profundizado**: Charco misterioso visible solo para estudiantes
+
+#### **👥 Nuevo Personaje: Elena Expósito**
+- **Poderes de Ilusión Avanzada**:
+  - Creación de ilusiones hasta 24 metros de distancia
+  - Efecto camaleón: transformación personal (visual solamente)
+  - Realismo total que distrae a los afectados
+- **Momento destacado**: Incidente de la pistola ilusoria
+  - Disparó a Tiritas con pistola ilusoria en su primer día
+  - Coach la reprendió por insensibilidad (estudiantes con padres muertos en asaltos)
+  - Demostró transformación imitando a Tiritas
+
+#### **🔮 Misterios Profundizados**
+- **Charco Misterioso**:
+  - Visible para Tiritas, Kira, Lea y otras estudiantes
+  - Invisible para guardias de seguridad (incluyendo Víctor)
+  - Brilla cerca de la máquina de agua
+  - Sugiere manipulación mental o anomalías sobrenaturales
+- **Lea Duboa Maguyen**:
+  - Poder de transformación avanzado sin control
+  - Se transforma al asustarse
+  - No recuerda su forma original
+  - Lleva espejo para verse
+
+#### **🧠 Sesiones de Terapia**
+- **Señorita Mora** (psicóloga) entrevistó a cada estudiante:
+  - **Tiritas**: Exploró trauma paterno y búsqueda de hermana
+  - **Sergei**: Investigó pesadillas y pérdida de memoria
+  - **Kira**: Procesó culpa por compañero herido
+  - **Elena**: Primera evaluación (contenido no revelado)
+
+#### **📊 Estadísticas Actualizadas**
+- **Reformatorio Nueva Esperanza**: 2 sesiones documentadas
+- **Protagonistas**: 4 jugadores (Sergei, Tiritas, Kira, Elena)
+- **Proyecto total**: 85+ sesiones, 235+ personajes
+
+---
+
 ## 📅 **Octubre 2025**
 
 ### **26 de Octubre de 2025**

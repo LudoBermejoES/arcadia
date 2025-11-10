@@ -1,0 +1,174 @@
+---
+layout: character
+title: Elena Expósito
+permalink: /characters/details/elena-exposito/
+slug: elena-exposito
+---
+
+# Elena Expósito
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/elena-exposito.png" alt="Elena Expósito" />
+</div>
+
+## Presentación
+Elena Expósito es una estudiante nueva en el Reformatorio Nueva Esperanza en Isla Albedo, con poderes de ilusión extraordinariamente desarrollados. Su llegada el 2 de noviembre de 2025 fue memorable por su demostración imprudente e impactante de habilidades. Es jugada por **Perico** en la campaña "Reformatorio Nueva Esperanza".
+
+## Historia Personal
+Elena llegó al reformatorio en noviembre de 2025 como nueva interna. Las circunstancias exactas que la llevaron allí no han sido reveladas, pero su **comportamiento impulsivo** y su **falta de conciencia sobre las consecuencias** de usar poderes en contextos sensibles sugieren que tuvo problemas controlando sus habilidades en el mundo exterior.
+
+### **Integración al Reformatorio**
+A diferencia de la mayoría de los estudiantes que llegan temerosos o reservados, Elena demostró una **actitud despreocupada y casi teatral** desde el primer momento. Su presentación al grupo fue:
+- Introducida por el Coach Marcus al resto de estudiantes en el gimnasio
+- Mencionada por la psicóloga (Señorita Mora) como alguien que querría hablar con ella
+- Inmediatamente amistosa con Tiritas, quien se acercó a presentarse
+
+## Rol y Actividades
+Elena actúa como el **elemento impredecible** del grupo. Su rol incluye:
+- Demostración espectacular (y problemática) de poderes
+- Integración social inmediata y sin reservas
+- Potencial catalizador de conflictos debido a su imprudencia
+- Representación de jóvenes que no comprenden totalmente el peso de sus poderes
+
+Su primer día incluyó la legendaria **demostración de la pistola ilusoria**, un evento que la definió inmediatamente en la comunidad del reformatorio.
+
+## Poderes y Habilidades
+
+### **Ilusión Avanzada**
+Elena posee poderes de ilusión de nivel superior:
+
+- **Creación de Ilusiones a Distancia**: Puede crear ilusiones hasta **24 metros** de distancia en un área mediana
+- **Realismo Total**: Las ilusiones parecen completamente reales a los sentidos
+- **Distracción Efectiva**: Quienes están involucrados en la ilusión quedan distraídos porque les parece auténtica
+- **Objetos Complejos**: Puede crear ilusiones de objetos tecnológicos funcionales (armas de fuego, herramientas)
+
+### **Efecto Camaleón**
+Su poder secundario le permite transformaciones personales:
+
+- **Transformación Personal**: Puede transformarse en otra persona
+- **Forma de Objeto Inanimado**: Capacidad de parecer objetos sin movimiento
+- **Forma Animal**: Puede adoptar apariencia de animales
+- **Limitación Crítica**: La transformación es **solo visual**, no confiere habilidades físicas reales
+
+**Ejemplo**: Si se transforma en Tiritas (forma grande y fuerte), ella **no gana** la fuerza de Tiritas. Es solo apariencia.
+
+### **Ventajas Físicas**
+- **Pies Ligeros**: Mayor velocidad de movimiento
+- **Afortunado**: Tendencia a que las situaciones se resuelvan favorablemente
+
+### **Limitaciones y Peculiaridades**
+- **No apta para Mando o Voz Potente**: Su personalidad no es de liderazgo o autoridad
+- **Falta de Juicio**: No evalúa contextos sociales antes de actuar
+- **Impulsividad**: Actúa primero, considera consecuencias después
+
+## El Incidente de la Pistola (Primer Día)
+
+### **La Demostración**
+En su primer día en el gimnasio, cuando Tiritas le preguntó sobre sus poderes y la animó a demostrarlos:
+
+1. **Creación**: Elena manifestó una **pistola ilusoria** completamente realista
+2. **Disparo**: **Disparó a Tiritas** con una bala que se sintió completamente real
+3. **Reacción Instintiva**: Kira (Adriana Ferran Gonzalez) activó instintivamente un **campo de fuerza** para proteger a Tiritas
+4. **Respuesta Institucional**: Los guardias de seguridad se pusieron en **alerta máxima**
+5. **Reprimenda**: El Coach la **reprendió severamente**, recordándole que usar armas de fuego no es apropiado
+
+### **Contexto Sensible**
+El Coach explicó que su acción fue particularmente insensible porque:
+- Algunos estudiantes tienen padres que **murieron en asaltos con armas de fuego**
+- El reformatorio es un lugar donde muchos internos tienen **traumas relacionados con violencia**
+- Las armas de fuego son un **símbolo traumático** en esa comunidad
+
+### **Reacción del Grupo**
+- **Tiritas**: Sorprendido pero no traumatizado (acostumbrado a recibir daño)
+- **Kira**: Reacción protectora instintiva, luego comentó que Elena estaba "pirada"
+- **Sergei**: (Reacción no documentada en detalle)
+- **Coach Marcus**: Enfado profesional pero controlado
+- **Guardias**: Alerta de seguridad activada
+
+## Apariencia y Peculiaridades
+- **Actitud despreocupada**: No parece afectada por la seriedad de su situación
+- **Socialmente abierta**: Se integra rápidamente sin timidez
+- **Falta de filtros**: Dice y hace lo que se le ocurre sin censura interna
+- **Teatralidad natural**: Sus demostraciones tienen un elemento de performance
+
+## Personalidad
+Elena es **impulsiva, teatral y socialmente desinhibida**. Características clave:
+
+- **Imprudente**: No evalúa consecuencias antes de actuar
+- **Sociable**: Se relaciona fácilmente con otros sin barreras
+- **Despreocupada**: No parece sentir el peso de estar en un reformatorio
+- **Creativa**: Sus ilusiones muestran imaginación considerable
+- **Insensible involuntariamente**: No capta contextos emocionales complejos
+
+## Integración Social
+
+### **Relación con Tiritas**
+Su primer contacto social fue con Tiritas, quien:
+- Se acercó a presentarse de manera amistosa
+- Le preguntó sobre sus poderes
+- La animó a demostrar sus habilidades
+- Recibió el "disparo" sin rencor aparente
+- Le ofreció **macarrones** después del incidente
+
+### **Relación con el Grupo**
+- **Kira**: Reacción protectora inicial, pero también crítica ("está pirada")
+- **Sergei**: (Relación por desarrollar)
+- **Coach Marcus**: Relación complicada tras el incidente de la pistola
+- **Guardias de Seguridad**: Vigilancia aumentada
+
+## Momentos Destacados
+
+### **Llegada al Reformatorio (02/11/2025)**
+Presentada por el Coach como "la nueva chica" que la psicóloga querría ver.
+
+### **Demostración de Transformación**
+Después del incidente de la pistola, Elena también demostró su **efecto camaleón** al:
+- Imitar la forma de Tiritas cuando este le invitó a chocar los cinco
+- Crear **dos versiones de Tiritas** simultáneamente
+- Recibir elogios de los presentes por la impresión visual
+
+### **Primera Sesión de Terapia**
+Elena tuvo su primera sesión con la **Señorita Mora** (psicóloga), donde presumiblemente se exploró:
+- Su historial personal
+- Las circunstancias de su llegada
+- Su comprensión de sus poderes
+- Sus objetivos en el reformatorio
+
+### **El Charco Misterioso**
+Cuando Elena iba a su sesión de terapia, **interactuó con un charco en el pasillo**. Sin embargo:
+- La **guardia de seguridad que la acompañaba** insistió en que **no había ningún charco**
+- Este evento conecta con el misterio mayor de **anomalías perceptivas** en el reformatorio
+- Otros estudiantes (Kira, Tiritas, Lea) también han visto el charco
+- Los guardias **no pueden verlo**, sugiriendo manipulación mental o fenómenos sobrenaturales
+
+## Apariciones Documentadas
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
+
+## Situación Actual (Noviembre 2025)
+Elena acaba de llegar al reformatorio y ya se ha establecido como un **personaje memorable** por su imprudencia y sus poderes impresionantes. Se encuentra en las etapas iniciales de:
+- **Adaptación institucional**: Aprendiendo las reglas (a través de violaciones)
+- **Integración social**: Formando relaciones con otros internos
+- **Evaluación psicológica**: Sesiones con la Señorita Mora
+- **Control de poderes**: Aprendiendo contextos apropiados para demostrar habilidades
+
+### **Preguntas Abiertas**
+- ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
+- ¿Tiene familia en el exterior?
+- ¿Cuál es su edad exacta?
+- ¿Aprenderá a evaluar contextos sociales antes de actuar?
+- ¿Puede ver el charco misterioso? (aún por confirmar)
+- ¿Qué rol jugará en las investigaciones de las desapariciones?
+- ¿Su imprudencia causará problemas mayores en el futuro?
+
+## Desarrollo Potencial
+El arco de Elena podría explorar:
+- **Madurez social**: Aprender a leer contextos emocionales
+- **Control contextual**: Usar poderes apropiadamente según la situación
+- **Consecuencias**: Enfrentar resultados de su imprudencia
+- **Trauma oculto**: Descubrir si su despreocupación es una máscara
+- **Maestría de ilusiones**: Expandir sus habilidades a niveles más sofisticados
+- **Rol en misterios**: Sus poderes podrían ser clave para resolver anomalías perceptivas
+
+---
+
+*Elena Expósito representa la juventud impulsiva sin filtros sociales. En un reformatorio lleno de jóvenes traumatizados y controlados, ella es el elemento caótico que recuerda que no todos están listos para asumir la responsabilidad de sus poderes. Su inocencia (o ignorancia) de las consecuencias sociales podría ser tanto su mayor debilidad como su fuerza transformadora.*

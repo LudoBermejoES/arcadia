@@ -83,19 +83,20 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 ---
 
 ## 🏝️ **[Reformatorio Nueva Esperanza](aun-sin-nombre/)**
-**Cuarta Campaña • Desde Oct 2025 (Recién Iniciada)**
+**Cuarta Campaña • Desde Oct 2025 (2 Meses Activos)**
 > Los inadaptados de Isla Albedo
 
 ### **Los Jóvenes Recluidos:**
 - 🦎 **Sergei** (PJ) - Metamorfo veterano del reformatorio
 - 💪 **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
 - ⚡ **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
+- 🎭 **Elena Expósito** (Perico) - Nueva estudiante con poderes de ilusión
 
 ### **Nueva Perspectiva:**
-- **1 sesión inicial** documentada en isla volcánica
+- **2 sesiones documentadas** en isla volcánica
 - **Control vs. Libertad** en institución de "rehabilitación"
 - **Jóvenes marginados** sin control de poderes
-- **Misterios oscuros** (desapariciones, tecleo misterioso)
+- **Misterios oscuros** (desapariciones, charco misterioso, anomalías perceptivas)
 
 **[🚀 Explorar Reformatorio Nueva Esperanza →](aun-sin-nombre/)**
 
@@ -152,7 +153,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">84+</span>
+<span class="stat-number">85+</span>
 <span class="stat-label">Sesiones Totales</span>
 </div>
 
@@ -167,7 +168,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 </div>
 
 <div class="stat-card">
-<span class="stat-number">234+</span>
+<span class="stat-number">235+</span>
 <span class="stat-label">Personajes Creados</span>
 </div>
 </div>

@@ -62,7 +62,10 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 ## 📖 Cronología de Aventuras
 
 ### 🌴 **Fase I: Primeros Días en el Reformatorio (Octubre 2025)**
-- **[26 Octubre](ai-notes/2025-10-26-gemini-notes.md)**: Llegada de Kira, presentaciones, primeros ejercicios, incidente con Tomás Vargas, bromas con poderes, desaparición misteriosa de Amara y Dimitri
+- **[26 Octubre](ai-notes-summary/2025-10-26-gemini-notes.md)**: Llegada de Kira, presentaciones, primeros ejercicios, incidente con Tomás Vargas, bromas con poderes, desaparición misteriosa de Amara y Dimitri
+
+### 🍂 **Fase II: Misterios Se Profundizan (Noviembre 2025)**
+- **[02 Noviembre](ai-notes-summary/2025-11-02-gemini-notes.md)**: Llegada de Elena con poderes de ilusión, sesiones de terapia con Señorita Mora, descubrimiento del charco misterioso que solo algunos pueden ver, revelación del poder de Lea (transformación sin control)
 
 ---
 
@@ -106,18 +109,21 @@ Esta campaña muestra Arcadia desde la perspectiva de aquellos que la sociedad h
 - **Elena "Frutas del Bosque"**: Psicóloga, clave para la libertad de los internos
 
 ### 👥 **Compañeros Internos Destacados**
+- **[Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/)**: Nueva estudiante con poderes de ilusión (transformación, creación de engaños a 24 metros), imprudente
 - **Tomás Vargas**: Conflictivo, temperamental
 - **Yuki Tanaka**: Puede manejar hielo, bromista
 - **Al Rashid**: Puede manejar la oscuridad
 - **Amara**: Empática (puede percibir y enviar emociones), causa discordia - **DESAPARECIDA**
 - **Dimitri**: Otro interno - **DESAPARECIDO**
 - **Zara**: Niña pequeña con poderes de cacharros, se ducha con Kira llevando cables de tierra
-- **Lea Duboa Maguyen**: 14-15 años, se transforma en otras personas al asustarse, siempre con espejo, evita relacionarse, toma medicación
+- **Lea Duboa Maguyen**: 14-15 años, se transforma en otras personas al asustarse, siempre con espejo, evita relacionarse, toma medicación, sin memoria de forma original
 - **Jein Park**: No le gusta ducharse, molesto por el agua sobre piel (posiblemente autista), puede desaparecer en zonas oscuras
 
 ### 🔮 **Misterios Iniciales**
 - Desaparición sin rastro de Amara y Dimitri
 - Tecleo misterioso antes de que todos se durmieran
+- Charco misterioso visible solo para algunos estudiantes (no para guardias)
+- Anomalías perceptivas y posible manipulación mental
 - ¿Qué sucede realmente en Isla Albedo?
 
 ---
@@ -136,22 +142,22 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">1</span>
-<span class="stat-label">Mes Activo</span>
+<span class="stat-number">2</span>
+<span class="stat-label">Meses Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">1</span>
+<span class="stat-number">2</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">3</span>
+<span class="stat-number">4</span>
 <span class="stat-label">Jugadores Principales</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~2</span>
+<span class="stat-number">~4</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>
@@ -177,6 +183,8 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 - **La Oreja Reptante**: Broma de Sergei con sus poderes de metamorfo
 - **El Chispazo de Apoyo**: Kira ofreciendo defender a Sergei
 - **El Tecleo Misterioso**: Antes de la desaparición de Amara y Dimitri
+- **El Disparo de Ilusión**: Elena crea pistola y dispara a Tiritas (su primer día)
+- **El Charco Invisible**: Solo los estudiantes pueden verlo, los guardias no
 
 ### 💎 **Citas Memorables**
 > *"Te ayudaré a que Kira tenga una buena actitud... a cambio de una doble ración de macarrones"* - Sergei negociando con Víctor
@@ -194,6 +202,9 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 ### 🎯 **Misterios por Resolver**
 - ¿Qué sucedió con Amara y Dimitri?
 - ¿Quién o qué causó el tecleo misterioso?
+- ¿Qué es el charco misterioso y por qué solo algunos pueden verlo?
+- ¿Hay un telépata o controlador mental en el reformatorio?
+- ¿Cuál es la verdadera forma original de Lea?
 - ¿Cuál es el verdadero propósito del Reformatorio Nueva Esperanza?
 - ¿Podrán los jóvenes controlar sus poderes... o descubrirán algo más oscuro?
 

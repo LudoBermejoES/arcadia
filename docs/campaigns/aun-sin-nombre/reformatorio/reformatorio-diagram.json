@@ -606,7 +606,7 @@
       "type": "geo",
       "props": {
         "w": 385,
-        "h": 770.4552914915968,
+        "h": 970.4552914915968,
         "geo": "rectangle",
         "dash": "draw",
         "growY": 0,
@@ -846,6 +846,76 @@
       },
       "parentId": "page:page",
       "index": "aehGNDzl",
+      "typeName": "shape"
+    },
+    {
+      "x": 928.1855632878151,
+      "y": 1223.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elena-exposito",
+      "type": "geo",
+      "props": {
+        "w": 204,
+        "h": 177.78125,
+        "geo": "rectangle",
+        "dash": "draw",
+        "growY": 0,
+        "url": "",
+        "scale": 1,
+        "color": "green",
+        "labelColor": "black",
+        "fill": "none",
+        "size": "s",
+        "font": "sans",
+        "align": "start",
+        "verticalAlign": "start",
+        "richText": {
+          "type": "doc",
+          "content": [
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "🎭 ELENA EXPÓSITO (Perico)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Ilusionista avanzada"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Recién llegada (02/11/2025)"
+                }
+              ]
+            },
+            {
+              "type": "paragraph",
+              "content": [
+                {
+                  "type": "text",
+                  "text": "Impulsiva, teatral"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      "parentId": "page:page",
+      "index": "aei1XYpl",
       "typeName": "shape"
     },
     {
@@ -1569,6 +1639,30 @@
       },
       "parentId": "page:page",
       "index": "b0Hh8BMeV",
+      "typeName": "shape"
+    },
+    {
+      "x": 798.1855632878151,
+      "y": 1223.4992121848741,
+      "rotation": 0,
+      "isLocked": false,
+      "opacity": 1,
+      "meta": {},
+      "id": "shape:elena-exposito-img",
+      "type": "image",
+      "props": {
+        "w": 100,
+        "h": 120,
+        "assetId": "asset:elena-exposito-asset",
+        "playing": true,
+        "url": "",
+        "crop": null,
+        "flipX": false,
+        "flipY": false,
+        "altText": ""
+      },
+      "parentId": "page:page",
+      "index": "b0I2pQZrV",
       "typeName": "shape"
     },
     {
@@ -2608,6 +2702,20 @@
       "props": {
         "name": "kira",
         "src": "https://arcadia.ludobermejo.es/assets/img/characters/kira.png",
+        "w": 100,
+        "h": 120,
+        "mimeType": "image/png",
+        "isAnimated": false
+      },
+      "meta": {}
+    },
+    {
+      "id": "asset:elena-exposito-asset",
+      "type": "image",
+      "typeName": "asset",
+      "props": {
+        "name": "elena-exposito",
+        "src": "https://arcadia.ludobermejo.es/assets/img/characters/elena-exposito.png",
         "w": 100,
         "h": 120,
         "mimeType": "image/png",

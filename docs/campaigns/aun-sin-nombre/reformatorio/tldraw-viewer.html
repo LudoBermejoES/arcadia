@@ -65,7 +65,10 @@
       return createElement(
         'div',
         { style: { position: 'fixed', inset: 0 } },
-        createElement(Tldraw, { onMount: loadDiagram })
+        createElement(Tldraw, {
+          onMount: loadDiagram,
+          licenseKey: 'tldraw-2030-11-03/WyJJWTBUOXRVTSIsWyIqLmFyY2FkaWEubHVkb2Jlcm1lam8uZXMiXSw5LCIyMDMwLTExLTAzIl0.oD87BvmgSTZ7gvHnyVe3KPkkXJGfUVkE+JNXBWJY/untzKDIt1Wc2NKp4uMY5NErEwLYOCKT9x0sOWNpvvbKmg'
+        })
       )
     }
 

@@ -114,6 +114,17 @@ export const reformatorioData = {
       x: 800,
       y: 1020,
       image: 'https://arcadia.ludobermejo.es/assets/img/characters/kira.png'
+    },
+    {
+      id: 'elena-exposito',
+      name: '🎭 ELENA EXPÓSITO',
+      player: 'Perico',
+      power: 'Ilusionista avanzada',
+      details: 'Recién llegada (02/11/2025)\nImpulsiva, teatral',
+      color: 'green',
+      x: 800,
+      y: 1220,
+      image: 'https://arcadia.ludobermejo.es/assets/img/characters/elena-exposito.png'
     }
   ],
 

@@ -43,7 +43,8 @@
       "Bash(./setup_env.sh:*)",
       "Bash(source:*)",
       "Bash(python3:*)",
-      "Bash(cat:*)"
+      "Bash(cat:*)",
+      "Bash(test:*)"
     ],
     "deny": [],
     "ask": [],

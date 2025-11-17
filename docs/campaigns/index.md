@@ -30,7 +30,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 - 🐱 **Estocada** (Keven) - El acróbata felino (miembro temporal)
 
 ### **Legado:**
-- **41 sesiones documentadas** de aventuras épicas
+- **43 sesiones documentadas** de aventuras épicas
 - **Códigos heroicos** que definen la ética moderna
 - **Hazañas legendarias** que salvaron Arcadia
 - **Tradiciones establecidas** para futuras generaciones
@@ -153,7 +153,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">85+</span>
+<span class="stat-number">87+</span>
 <span class="stat-label">Sesiones Totales</span>
 </div>
 

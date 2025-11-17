@@ -79,6 +79,8 @@ Bate fue programado con **órdenes automáticas** que podían activarse:
 - [Session 34](../../campaigns/la-familia/session-34.md)
 - [Session 40](../../campaigns/la-familia/session-40.md)
 - [Session 41](../../campaigns/la-familia/session-41.md)
+- [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md)
+- [Session 43](../../campaigns/la-familia/session-43-2025-09-11.md) - Destruye faraones zombis y aturde a la Esfinge con bate de arcanita
 
 ## El Reconocimiento de la Verdad
 Gradualmente, Bate fue aceptando la realidad devastadora:

@@ -83,6 +83,7 @@ Su dominio sobre el tiempo evolucionó dramáticamente a lo largo de su arco nar
 - [Session 26](../../campaigns/la-familia/session-26.md)
 - [Session 32](../../campaigns/la-familia/session-32.md)
 - [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md) - Reunión 10 años después
+- [Session 43](../../campaigns/la-familia/session-43-2025-09-11.md) - Transformada en armadura de oro, lidera exploración dimensional y negocia con Esfinge
 - [La Fuerza Oculta AI Notes](../../campaigns/la-fuerza-oculta/ai-notes/) - Como abogada Ana Montenegro
 
 ## La Transformación Cósmica - Embarazo Temporal

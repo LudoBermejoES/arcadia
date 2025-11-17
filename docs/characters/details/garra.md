@@ -86,6 +86,7 @@ Como **experto tecnológico** y **estratega práctico** del grupo, Garra aporta 
 - [Session 40](../../campaigns/la-familia/session-40.md)
 - [Session 41](../../campaigns/la-familia/session-41.md)
 - [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md)
+- [Session 43](../../campaigns/la-familia/session-43-2025-09-11.md) - Portal dimensional, abismo estelar y encuentro con la Esfinge
 - [Genesis Session 03](../../campaigns/genesis/session-03.md)
 
 ## Relaciones Clave

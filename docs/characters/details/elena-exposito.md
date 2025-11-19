@@ -141,8 +141,28 @@ Cuando Elena iba a su sesión de terapia, **interactuó con un charco en el pasi
 - Otros estudiantes (Kira, Tiritas, Lea) también han visto el charco
 - Los guardias **no pueden verlo**, sugiriendo manipulación mental o fenómenos sobrenaturales
 
+### **Investigación y Consecuencias (16/11/2025)**
+Elena participó en el plan del grupo para investigar el charco misterioso:
+- **Impulsividad Extrema**: Elena **lamió el charco** directamente, una acción que sorprendió a todos
+- **Enfermedad Temporal**: Inmediatamente se sintió mal y comenzó a vomitar
+- **Vómito Anómalo**: El vómito **no se mezcló con el charco**, revelando su naturaleza extraña
+- **Encierro**: El Coach la llevó a la enfermería y la **cerró con llave** para observación
+- **Recuperación**: Después de 10 minutos se sintió mejor, pero permaneció bajo observación hasta la noche
+
+### **El Mundo Sepia y el Combate (16/11/2025)**
+Durante la noche, Elena experimentó algo extraordinario:
+- **Despertar Selectivo**: Fue una de los tres únicos (con Kira y Sergei) que despertó durante la anomalía
+- **Mundo Sepia**: Vio el mundo en color sepia con estática visual
+- **Tiempo Suspendido**: Presenció gotas de agua suspendidas en el aire
+- **Habilidades de Latrocinio**: Logró abrir la puerta de las chicas con una **excelente tirada de latrocinio**
+- **Primer Combate Real**: Enfrentó avispas gigantes del tamaño de San Bernardos
+- **Raqueta Eléctrica Ilusoria**: Creó una raqueta eléctrica de ilusión para atacar (aunque no fue efectiva)
+- **Benny por Roleplay**: Su creatividad le ganó un Benny del GM por buena interpretación
+- **Trabajo en Equipo**: Colaboró con Kira, Sergei y Tiritas en el combate
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
 
 ## Situación Actual (Noviembre 2025)
 Elena acaba de llegar al reformatorio y ya se ha establecido como un **personaje memorable** por su imprudencia y sus poderes impresionantes. Se encuentra en las etapas iniciales de:

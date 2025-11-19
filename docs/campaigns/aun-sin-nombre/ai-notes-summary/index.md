@@ -111,6 +111,57 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+#### [📈 Análisis 16/11/2025 - El Mundo Sepia y las Avispas Gigantes](2025-11-16-gemini-notes.md)
+**"Realidad Alternativa y Primer Combate"**
+
+**🎯 Temas Centrales Identificados:**
+- **Realidad Fragmentada**: Mundo sepia con estática, tiempo suspendido
+- **Amenaza Sobrenatural**: Avispas del tamaño de San Bernardos
+- **Investigación Activa**: Plan para estudiar el charco misterioso
+- **Consecuencias de Imprudencia**: Elena enferma tras lamer el charco
+
+**👥 Desarrollo de Personajes:**
+- **Elena**: Impulsividad extrema (lame el charco), sufre consecuencias
+- **Tiritas**: Falla en distracción (interpretación fallida con Mora)
+- **Sergei (PJ)**: Transformación en espadas, efectivo en combate
+- **Kira**: Poder devastador revelado (41 puntos de daño, "fatality")
+
+**🔮 Arcos Narrativos Avanzados:**
+- Plan de congelación del charco con Yuki (no ejecutado)
+- Investigación en sala de ordenadores sobre telépatas:
+  - Mésmero: último gran telépata
+  - Sique: desaparecida, miembro de La Fuerza Oculta
+  - "Les Enfants Terribles": anarquistas con tecnología avanzada
+- Elena lamió charco → enfermedad temporal → encerrada en enfermería
+- Kira con collar inhibidor tras intento de tirar vaso de agua
+- Mundo sepia: Solo despertaron Kira, Sergei y Elena
+- Primer combate real contra entidades sobrenaturales
+
+**⚡ Momentos Clave:**
+- Tiritas intentó distraer a Señorita Mora (tirada de interpretación falló)
+- Elena lamió el charco y vomitó (vómito no se mezcló con charco)
+- Coach llevó a Elena a enfermería, cerró con llave
+- Víctor puso collar inhibidor a Kira (fue llevada a habitación superior)
+- Ana (guardia) pisó charco sin mojarse
+- Tecleo nocturno: "ticli, ticli, ticli" se escuchó nuevamente
+- Despertar en mundo sepia: color sepia, estática visual, gota suspendida
+- Móvil de Kira grababa imagen estática (no registraba movimiento)
+- Sergei y Elena abrieron puertas con latrocinio/poderes
+- Avispas gigantes atacaron en oscuridad
+- Kira destruyó avispa con chispazo (41 puntos → "fatality")
+- Sergei transformó manos en espadas, dejó aturdida una avispa
+- Tiritas montó avispa, arrancó ala, la mató con aguijón de otra
+- Elena creó "raqueta eléctrica" ilusoria (ganó Benny por roleplay)
+
+**🧠 Dinámicas Sociales:**
+- Kira investiga sobre telépatas y grupos metahumanos
+- Sara/Zara ofrece crear cochecito con cámara para investigar charco
+- Señorita Mora se siente culpable por lo sucedido con Elena
+- Política estricta del reformatorio: objetos = potenciales armas
+- Primer trabajo en equipo real del grupo en combate
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

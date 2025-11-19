@@ -13,6 +13,37 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ## 📅 Cronología de Sesiones - 2025
 
+### 🍂 **Noviembre 2025 - Misterios Se Profundizan**
+
+#### [📝 Sesión 16 de Noviembre](../ai-notes-summary/2025-11-16-gemini-notes.md)
+**"El Mundo Sepia y las Avispas Gigantes"**
+- 💻 **Sala de Ordenadores**: Investigación sobre telépatas (Mésmero, Sique, La Fuerza Oculta)
+- 👅 **Elena Lame el Charco**: Enferma y es encerrada en enfermería
+- ⚡ **Collar Inhibidor**: Kira recibe collar tras intento de distracción
+- 🌫️ **Mundo Sepia**: Kira, Sergei y Elena despiertan en realidad alternativa
+- ⏸️ **Tiempo Suspendido**: Color sepia, estática visual, gota flotando
+- 🐝 **Avispas Gigantes**: Combate contra avispas del tamaño de San Bernardos
+- ⚔️ **Primer Combate**: Kira (fatality 41 pts), Sergei (espadas), Tiritas (aguijón)
+- 🎭 **Elena**: Crea raqueta eléctrica ilusoria (gana Benny por roleplay)
+- 🔬 **Descubrimiento**: Sara/Zara ofrece crear cochecito con cámara para investigar charco
+
+**Temas Clave**: Realidad fragmentada, amenaza sobrenatural, trabajo en equipo
+
+---
+
+#### [📝 Sesión 2 de Noviembre](../ai-notes-summary/2025-11-02-gemini-notes.md)
+**"Elena y el Charco Misterioso"**
+- 🎭 **Nueva Estudiante**: Elena Expósito se une al reformatorio
+- 🔫 **Incidente**: Elena crea pistola ilusoria y dispara a Tiritas
+- 🧠 **Terapia**: Sesiones individuales con Señorita Mora revelan traumas
+- 💧 **Charco Misterioso**: Solo estudiantes pueden verlo, guardias no
+- 🔍 **Investigación**: Tiritas persuade a Víctor para investigar
+- 👁️ **Lea Revelada**: Poder de transformación sin control, sin memoria de forma original
+
+**Temas Clave**: Percepción vs realidad, control institucional, anomalías perceptivas
+
+---
+
 ### 🌴 **Octubre 2025 - Primeros Días en Isla Albedo**
 
 #### [📝 Sesión 26 de Octubre](../ai-notes-summary/2025-10-26-gemini-notes.md)

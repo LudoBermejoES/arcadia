@@ -130,9 +130,20 @@ Tiritas demostró ser un **investigador activo** de los misterios del reformator
 
 **Tirada de Conocimiento**: Tiritas descubrió que los telépatas y controladores mentales son **extremadamente raros** en Arcadia, lo que hace el misterio aún más inquietante.
 
+### **El Mundo Sepia - Permanece Dormido (16/11/2025)**
+Durante la anomalía temporal nocturna, Tiritas tuvo un destino diferente:
+- **No Despertó**: A diferencia de Kira, Sergei y Elena, Tiritas **permaneció dormido** durante la anomalía
+- **Mundo Sepia**: Mientras sus compañeros despertaban en realidad alternativa, él seguía en estado de sueño
+- **Estática en su Cuerpo**: Sergei notó que Tiritas dormido tenía **estática a su alrededor**
+- **Vuelta al Normal**: Cuando el grupo derrotó las avispas, presumiblemente volvió a la realidad normal
+- **Colaboración Final**: A pesar de estar dormido inicialmente, Tiritas participó en la fase final del combate
+- **Aguijón Mortal**: Usó el aguijón de una avispa muerta para **clavar en la cabeza** de la última criatura
+- **Método Efectivo**: Montó una avispa, arrancó su ala para desestabilizarla, y la mató con el aguijón
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
 
 ## Situación Actual (Noviembre 2025)
 Tiritas continúa su estancia en el reformatorio, equilibrando la necesidad de comportarse para eventualmente ver a su hermana con la tentación constante de intentar otro escape. La desaparición de Amara y Dimitri añade un nuevo nivel de tensión y misterio a un ambiente ya volátil.

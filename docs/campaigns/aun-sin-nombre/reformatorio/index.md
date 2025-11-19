@@ -16,7 +16,7 @@ Este diagrama muestra la estructura completa del Reformatorio Nueva Esperanza en
 
 - 👤 **Dirección**: El Señor Nadie
 - 👥 **Personal**: 7 miembros del staff
-- 🌟 **Protagonistas**: 3 personajes jugables (Sergei, Tiritas, Kira)
+- 🌟 **Protagonistas**: 4 personajes jugables (Sergei, Tiritas, Kira, Elena)
 - 👥 **Internos**: 13 jóvenes metahumanos ordenados por edad
 - ❗ **Desaparecidos**: 2 personas (Amara y Dimitri)
 
@@ -96,6 +96,14 @@ Los 13 internos están ordenados del más joven al mayor:
   Recién llegada<br>
   Dejó compañero en coma<br>
   <a href="{{ site.baseurl }}/characters/details/kira/">Ver perfil completo →</a>
+</div>
+
+<div class="character-card" style="background-color: #efe; padding: 20px; border-left: 6px solid #0a0; font-weight: bold;">
+  <strong>🎭 ELENA EXPÓSITO</strong> <em>(Perico)</em><br>
+  Ilusionista avanzada<br>
+  Recién llegada (02/11/2025)<br>
+  Impulsiva, teatral<br>
+  <a href="{{ site.baseurl }}/characters/details/elena-exposito/">Ver perfil completo →</a>
 </div>
 
 </div>

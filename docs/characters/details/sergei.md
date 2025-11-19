@@ -104,9 +104,19 @@ Relación de negociación constante. Sergei sabe cómo hablar con Víctor para c
 ### **Con Elena Expósito**
 Nueva compañera que llegó en la Sesión 2. Sergei presenció su imprudente demostración con la pistola ilusoria y está evaluando cómo integrarla al grupo.
 
+### **El Mundo Sepia y Combate con Espadas (16/11/2025)**
+Durante la anomalía nocturna, Sergei experimentó su primer combate real:
+- **Despertar en Mundo Sepia**: Fue uno de los tres únicos que despertó (con Kira y Elena)
+- **Abrir Puertas**: Abrió la puerta de los chicos **modificando sus dedos en ganzúas** (tirada de control exitosa)
+- **Transformación Combativa**: Transformó sus **manos en espadas** para combatir las avispas
+- **Habilidad "Pelear" d6**: El GM le otorgó la habilidad de pelear con dado de seis y espada larga
+- **Efectivo en Combate**: Logró **dejar aturdida** una de las avispas gigantes
+- **Trabajo en Equipo**: Coordinó con Kira, Elena y Tiritas para derrotar todas las criaturas
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
 
 ## Situación Actual (Noviembre 2025)
 Sergei continúa como veterano del reformatorio, ahora asumiendo el papel de mentor para Kira, la recién llegada. Tras la misteriosa desaparición de Amara y Dimitri, Sergei se encuentra ante un nuevo tipo de desafío que podría sacudir incluso su optimismo habitual.

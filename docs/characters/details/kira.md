@@ -136,9 +136,31 @@ Kira **no puede ducharse con otras chicas** debido al peligro de electrocución 
 - Simboliza su separación del grupo general
 - Representa el desafío constante de vivir con poderes peligrosos
 
+### **Investigación sobre Telépatas (16/11/2025)**
+Kira tomó un rol activo en la investigación del charco misterioso:
+- **Sala de Ordenadores**: Mientras Tiritas distraía a Señorita Mora, Kira investigó sobre telépatas
+- **Tirada de Informática Exitosa**: Descubrió información crucial sobre telépatas en Arcadia
+- **Mésmero**: Identificó al último gran telépata conocido
+- **Sique**: Descubrió que la última telépata conocida (16-17 años) está desaparecida
+- **La Fuerza Oculta**: Sique formaba parte de este grupo de superhéroes buscados
+- **Les Enfants Terribles**: Investigó sobre este grupo anarquista con tecnología avanzada
+- **Collar Inhibidor**: Recibió collar inhibidor tras intentar tirar un vaso de agua como distracción
+
+### **El Mundo Sepia y Poder Devastador (16/11/2025)**
+Durante la anomalía nocturna, Kira reveló el verdadero alcance de sus poderes:
+- **Despertar Selectivo**: Una de los tres únicos que despertó en el mundo sepia
+- **Móvil Grabando**: Dejó su móvil grabando toda la noche (grababa imagen estática, no movimiento)
+- **Primer Combate Real**: Enfrentó avispas del tamaño de San Bernardos
+- **"Fatality"**: Destruyó una avispa con un **chispazo directo de 41 puntos de daño**
+- **Poder Revelado**: El GM describió el ataque como un "fatality del Mortal Kombat"
+- **Explosión Total**: La avispa estalló en **mil pedazos** con el impacto
+- **Segundo Ataque**: Gastó un Benny para golpear otra criatura tras fallo inicial
+- **Coordinación**: Trabajó en equipo con Sergei, Elena y Tiritas para victoria total
+
 ## Apariciones Documentadas
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
 
 ## Situación Actual (Noviembre 2025)
 Kira está en sus **primeros días** en el reformatorio, navegando un mundo completamente nuevo mientras procesa el trauma de su accidente. La desaparición de Amara y Dimitri añade un elemento de terror a su ya difícil adaptación.

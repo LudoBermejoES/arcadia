@@ -66,6 +66,7 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 
 ### 🍂 **Fase II: Misterios Se Profundizan (Noviembre 2025)**
 - **[02 Noviembre](ai-notes-summary/2025-11-02-gemini-notes.md)**: Llegada de Elena con poderes de ilusión, sesiones de terapia con Señorita Mora, descubrimiento del charco misterioso que solo algunos pueden ver, revelación del poder de Lea (transformación sin control)
+- **[16 Noviembre](ai-notes-summary/2025-11-16-gemini-notes.md)**: Investigación en sala de ordenadores sobre telépatas (Mésmero, Sique, La Fuerza Oculta), Elena lame el charco y enferma, Kira recibe collar inhibidor, despertar en mundo sepia con estática visual, primer combate contra avispas gigantes del tamaño de San Bernardos
 
 ---
 
@@ -147,7 +148,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">2</span>
+<span class="stat-number">3</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

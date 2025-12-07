@@ -219,7 +219,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Operaciones Conocidas:**
 - **💊 Tráfico de Drogas**: Sustancias potenciadoras en instalaciones subterráneas
-- **🔫 Seguridad Criminal**: Protección de laboratorios de La Farándula  
+- **🔫 Seguridad Criminal**: Protección de laboratorios de La Farándula
 - **⚔️ Combate Especializado**: Mercenarios entrenados y bien equipados
 - **🗺️ Conocimiento Local**: Rutas secretas del metro y túneles
 
@@ -231,6 +231,39 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 #### **Filosofía Criminal:**
 *"Lealtad absoluta a la organización, honor entre criminales"*
+
+---
+
+### **🎯 [Cazacapas](caza-capas.md)**
+**Mercenarios de Élite Anti-Metahumanos**
+
+#### **Estructura Profesional:**
+- **🚫 Sin Poderes**: Ningún miembro posee habilidades metahumanas
+- **🔧 Tecnología Avanzada**: Compensan la falta de poderes con equipamiento de vanguardia
+- **🎯 Especialización Total**: Entrenamiento específico para enfrentar cualquier tipo de metahumano
+- **🔄 Adaptabilidad Extrema**: Capacidad para ajustar tácticas a cualquier situación
+
+#### **Capacidades Operativas:**
+- **🌐 Red Global**: Operan internacionalmente con células independientes
+- **🛡️ Arsenal Anti-Meta**: Inhibidores de poderes, armamento adaptativo, sistemas de detección
+- **📊 Base de Datos**: Archivos completos de metahumanos conocidos y sus debilidades
+- **💼 Profesionalismo Absoluto**: Cumplen contratos sin consideraciones morales personales
+
+#### **Operaciones Típicas:**
+- **👤 Captura de Metahumanos**: Para clientes diversos (vivos preferiblemente)
+- **💀 Neutralización de Amenazas**: Eliminación de metas peligrosos
+- **🚁 Rescate en Zonas Calientes**: Extracción de objetivos en áreas controladas por metas
+- **🛡️ Seguridad VIP**: Protección contra amenazas metahumanas
+- **📦 Recuperación de Activos**: Obtención de objetos protegidos por poderes
+
+#### **Reputación:**
+- **⭐ Estándar de Oro**: Considerados los mejores en operaciones anti-metahumanas
+- **😰 Temidos**: Incluso metas poderosos los toman muy en serio
+- **💰 Precios Premium**: Sus servicios son extremadamente costosos
+- **📈 Tasa de Éxito**: Récord impresionante de misiones completadas
+
+#### **Filosofía Operativa:**
+*"La tecnología y la preparación superan a cualquier superpoder"*
 
 ---
 

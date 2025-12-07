@@ -52,6 +52,10 @@ Desde septiembre de 2025, mantiene una rutina intensa de 8 horas diarias de entr
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
 - [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
 - [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
+- [La Fuerza Oculta Session 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
+- [La Fuerza Oculta Session 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md)
+- [La Fuerza Oculta AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
 
 ## Cosas a Hacer (Septiembre 2025)
 
@@ -753,3 +757,113 @@ Tras la tensión, el equipo sale a descomprimir:
 > "La comunicación previa es tan importante como las buenas intenciones"
 
 Esta sesión marca un momento crucial donde Sentencia debe confrontar que su tendencia a actuar sola por sentimientos de culpa puede poner en riesgo a quienes más le importan, forzándola a evolucionar de heroína independiente a verdadera miembro de equipo que comparte tanto victorias como planificación de misiones.
+
+---
+
+## ⚔️ Liderazgo Bajo Fuego: Isla Sal (Noviembre 2025)
+
+### El Ataque Mercenario en la Fiesta de Eneiros
+
+Durante la fiesta exclusiva de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Sentencia demostró su capacidad de liderazgo táctico bajo presión extrema.
+
+#### **Protección de Hotman Durante el Ataque**
+- **Identificación de amenaza**: Detectó inmediatamente que el ataque coordinado tenía como objetivo a Hotman
+- **Acción protectora**: Se parapetó con mesa para proteger a Hotman de los disparos
+- **Coordinación táctica**: Gestionó posiciones defensivas mientras el equipo respondía
+- **Prioridad clara**: Proteger a su pareja fue su primer instinto táctico
+
+#### **Respuesta Profesional al Ataque**
+- **Granada de humo**: Cuando estalló granada lacrimógena, permitió a Hotman neutralizarla
+- **Evaluación rápida**: Reconoció que los atacantes eran mercenarios profesionales entrenados
+- **Liderazgo tranquilo**: Mantuvo calma mientras coordinaba con el equipo telepáticamente
+- **Adaptación**: Ajustó táctica cuando apareció mercenario armado con armadura pesada
+
+### La Negociación con el Mercenario Armado
+
+#### **Confrontación con el Tanque Humano**
+- **Aparición dramática**: Mercenario completamente acorazado con cañón multitubo apareció detrás de ella
+- **Amenaza directa**: El mercenario la apuntó pero no disparó
+- **Comunicación del enemigo**: "Venimos por Hotman. Quiero llevarse al herido"
+- **Momento de decisión**: Debía decidir entre continuar combate o negociar
+
+#### **Decisión Táctica de Permitir Evacuación**
+- **Evaluación rápida**: Reconoció que combatir al mercenario armado causaría más bajas
+- **Prioridad de objetivos**: Proteger al equipo era más importante que capturar enemigos
+- **Acuerdo verbal**: "De acuerdo" - permitió que el mercenario evacuara al herido
+- **Confianza mutua**: El mercenario le dio la espalda confiando en su palabra
+
+#### **No Disparar por la Espalda**
+- **Código de honor**: No atacó al mercenario cuando estaba vulnerable
+- **Respeto profesional**: Reconoció que ambos eran profesionales haciendo su trabajo
+- **Decisión controversial**: Equipo podría cuestionar dejar escapar a los atacantes
+- **Pragmatismo heroico**: Priorizar supervivencia del equipo sobre captura de enemigos
+
+### Implicaciones para el Personaje
+
+#### **Evolución del Liderazgo**
+- **Madurez táctica**: Capacidad de negociar en lugar de solo combatir
+- **Código de honor**: Respeta acuerdos incluso con enemigos
+- **Protección priorizada**: Hotman y el equipo antes que objetivos secundarios
+- **Pensamiento estratégico**: Reconoce cuándo retirarse es la mejor opción
+
+#### **Relación con Hotman Fortalecida**
+- **Instinto protector**: Su primer movimiento fue protegerlo
+- **Coordinación en combate**: Trabajaron juntos efectivamente bajo fuego
+- **Decisión compartida**: Su negociación protegió a ambos
+- **Vínculo profundizado**: La crisis confirmó su compromiso mutuo
+
+#### **Profesionalismo Militar**
+- **Reconocimiento de iguales**: Vio a los mercenarios como profesionales, no villanos
+- **Código táctico**: Honrar acuerdos verbales incluso en combate
+- **Evaluación de amenazas**: Distingue cuándo la lucha es necesaria
+- **Pragmatismo sobre ideología**: Resultado importa más que victoria absoluta
+
+### Desarrollo del Personaje
+
+#### **De Justiciera a Comandante**
+- **Antes**: Enfoque en cumplir justicia sin compromiso
+- **Ahora**: Capacidad de negociar y hacer acuerdos tácticos
+- **Crecimiento**: Reconocer que no todas las batallas deben pelearse
+- **Madurez**: Entender que proteger al equipo es más importante que ganar
+
+#### **Código Personal en Evolución**
+- **Honrar la palabra**: Los acuerdos deben respetarse, incluso con enemigos
+- **Respeto profesional**: Reconocer competencia en adversarios
+- **Flexibilidad táctica**: No todo conflicto requiere victoria total
+- **Protección prioritaria**: El equipo antes que objetivos secundarios
+
+### Estado Actual (Noviembre 2025)
+
+#### **Capacidades Demostradas**
+- Liderazgo bajo fuego directo
+- Negociación táctica con enemigos
+- Protección efectiva de pareja y equipo
+- Toma de decisiones rápidas en crisis
+
+#### **Decisiones Controversiales**
+- Dejar escapar a mercenarios profesionales
+- Honrar acuerdo con atacantes
+- Priorizar supervivencia sobre captura
+- Confiar en palabra de enemigos
+
+#### **Crecimiento Personal**
+- Código de honor más complejo
+- Pragmatismo sobre ideología pura
+- Reconocimiento de grises morales
+- Liderazgo maduro y flexible
+
+### Comparación con Acción Hospitalaria
+
+**Contraste de Decisiones**:
+- **Hospital (Septiembre)**: Actuó sola sin consultar al equipo
+- **Isla Sal (Noviembre)**: Coordinó con el equipo, negoció abiertamente
+- **Antes**: Decisiones unilaterales basadas en principios absolutos
+- **Ahora**: Pragmatismo táctico consultado con compañeros
+
+**Evolución Confirmada**:
+- De heroína independiente a líder de equipo
+- De justicia absoluta a pragmatismo táctico
+- De combate siempre a negociación cuando necesario
+- De soledad a protección mutua con Hotman
+
+---

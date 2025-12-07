@@ -46,6 +46,10 @@ Eslizón actúa como el explorador y reconocimiento del grupo "La Fuerza Oculta"
 - [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
 - [La Fuerza Oculta Session 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md)
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
+- [La Fuerza Oculta Session 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
+- [La Fuerza Oculta Session 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md)
+- [La Fuerza Oculta AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -580,3 +584,84 @@ La reflexión final de Esme sintetiza su desarrollo emocional:
 - **Resultado**: Proporciona estabilidad emocional al equipo mediante ejemplo de aceptación serena
 
 Esta reflexión personal confirma que Eslizón Esmeralda ha alcanzado un **estado de integración psicológica único**, donde su naturaleza reptiliana no es conflicto sino solución, proporcionando estabilidad emocional que contrasta con la volatilidad de sus compañeros mamíferos, mientras mantiene conexiones humanas profundas basadas en el placer simple de la compañía mutua.
+
+---
+
+## 🦎 Rescate de Eneiros en Isla Sal (Noviembre 2025)
+
+### Protección del Anfitrión Durante el Ataque
+
+Durante el ataque mercenario en la fiesta de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Eslizón demostró sus capacidades de rescate y protección bajo presión extrema.
+
+#### **Evacuación de Eneiros a Zona Segura**
+- **Identificación de amenaza**: Reconoció inmediatamente que Eneiros estaba en peligro
+- **Acción rápida**: Tomó a Eneiros y lo transportó a la segunda planta de la casa
+- **Fuerza superior**: Utilizó su fuerza física para mover al metahumano afectado
+- **Prioridad de protección**: Enfocó en salvar al anfitrión antes que combatir
+
+#### **Respuesta a la Pérdida de Control de Poderes**
+- **Eneiros afectado por dardo**: El anfitrión perdió control de sus poderes del oro
+- **Erupción de oro descontrolada**: Los poderes de Eneiros se manifestaron caóticamente
+- **Transporte seguro**: Mantuvo a Eneiros a salvo mientras sus poderes se descontrolaban
+- **Posicionamiento estratégico**: Llevó a Eneiros a ubicación protegida en segunda planta
+
+#### **Remoción del Dardo Supresor**
+- **Identificación del problema**: Detectó el dardo que causaba la descontrol de poderes
+- **Acción médica**: **Removió el dardo de Eneiros** con cuidado
+- **Estabilización**: Ayudó a que Eneiros recuperara control tras remover el dardo
+- **Atención durante crisis**: Mantuvo atención en Eneiros mientras el combate continuaba
+
+### Implicaciones para el Personaje
+
+#### **Rol de Protector Consolidado**
+- **Instinto de rescate**: Su primer impulso fue proteger a quien estaba en peligro
+- **Fuerza aplicada**: Utilizó su poder físico superior para evacuar efectivamente
+- **Prioridades claras**: Proteger al vulnerable antes que combatir a los atacantes
+- **Efectividad demostrada**: Salvó a Eneiros de posibles consecuencias graves
+
+#### **Capacidades Confirmadas**
+- **Fuerza para transporte**: Puede mover metahumanos adultos bajo presión
+- **Pensamiento táctico**: Identificó zona segura rápidamente
+- **Primeros auxilios**: Capaz de remover proyectiles peligrosos
+- **Multitarea en combate**: Protegió a Eneiros mientras el equipo combatía
+
+#### **Desarrollo del Personaje**
+- **De explorador a rescatista**: Añade nuevo rol a sus capacidades
+- **Confiabilidad bajo presión**: Mantiene calma durante crisis extremas
+- **Pensamiento independiente**: Actuó sin necesitar órdenes directas
+- **Responsabilidad ampliada**: Protege no solo al equipo, sino a aliados externos
+
+### Estado Actual (Noviembre 2025)
+
+#### **Capacidades de Rescate**
+- Evacuación de personas en peligro
+- Remoción de proyectiles y dardos
+- Estabilización de metahumanos afectados
+- Transporte bajo fuego
+
+#### **Contribución al Equipo**
+- Protector de aliados vulnerables
+- Rescatista de emergencia
+- Apoyo médico básico
+- Fuerza bruta cuando necesaria
+
+#### **Crecimiento Personal**
+- Rol más allá de exploración
+- Instinto protector desarrollado
+- Capacidad de tomar iniciativa
+- Responsabilidad hacia aliados externos
+
+### Comparación con Roles Previos
+
+**Evolución de Capacidades**:
+- **Antes**: Explorador, reconocimiento, combate cuerpo a cuerpo
+- **Ahora**: Añade rescate, evacuación, primeros auxilios
+- **Futuro**: Especialista en protección de VIP durante misiones
+
+**Importancia Táctica**:
+- El equipo puede confiar en él para proteger aliados vulnerables
+- Su fuerza superior lo hace ideal para evacuaciones
+- Capaz de actuar independientemente durante crisis
+- Puede manejar múltiples responsabilidades simultáneamente
+
+---

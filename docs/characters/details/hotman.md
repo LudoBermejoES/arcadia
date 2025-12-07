@@ -48,6 +48,10 @@ Hotman actúa como miembro del grupo de superhéroes "La Fuerza Oculta". Su pape
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
 - [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
 - [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
+- [La Fuerza Oculta Session 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
+- [La Fuerza Oculta Session 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md)
+- [La Fuerza Oculta AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
 
 ## Cosas a Hacer (Septiembre 2025)
 
@@ -1071,3 +1075,61 @@ Tras la sesión del 28 de septiembre, Hotman recibe un mensaje a través de su p
 - **De Hot a Hotman**: El nombre de superhéroe es ahora su verdadera identidad
 
 Esta confrontación marca el **nacimiento definitivo de Hotman** como adulto libre, destruyendo no solo al padre físico sino al fantasma psicológico que lo atormentaba. El niño que lloró por Bibau ha muerto, reemplazado por alguien capaz de quemar sus miedos y encontrar el sol en la sonrisa de la persona que ama.
+
+---
+
+## 🔥 La Oferta de Eneiros y el Ataque en Isla Sal (Noviembre 2025)
+
+### La Fiesta Exclusiva y la Tentación del Poder
+
+Durante la fiesta de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Hotman enfrentó una de sus mayores pruebas de lealtad y carácter.
+
+#### **La Oferta de Mentoría de Eneiros**
+- **Reconocimiento del maestro**: Eneiros, uno de los metahumanos más poderosos, notó el potencial de Hotman
+- **Oferta de entrenamiento**: Propuso convertirse en mentor personal de Hotman
+- **Tentación del poder**: Oportunidad de aprender de un maestro del oro y la riqueza
+- **Decisión de Hotman**: **Rechazó la oferta** por lealtad a su equipo
+
+#### **Motivación del Rechazo**
+- **Lealtad al equipo**: No quería abandonar a La Fuerza Oculta
+- **Valores sobre poder**: Priorizó sus amistades sobre oportunidades de crecimiento individual
+- **Relación con Justa**: Su compromiso con ella influyó en la decisión
+- **Identidad heroica**: Demostró que su heroísmo se basa en conexiones, no en poder
+
+### El Ataque Mercenario Coordinado
+
+La misma noche de la fiesta, La Fuerza Oculta fue víctima de un **ataque mercenario coordinado**:
+
+#### **Hotman como Objetivo Potencial**
+- **Ataque generalizado**: Los mercenarios atacaron a múltiples miembros del equipo
+- **Dardos con supresores**: Armas diseñadas para neutralizar poderes metahumanos
+- **Salvado por Justa**: Su pareja lo protegió activamente durante el ataque
+- **Vulnerabilidad revelada**: Confrontación con la realidad de ser objetivo de ataques profesionales
+
+#### **Reacción Durante el Ataque**
+- **Eneiros afectado**: El anfitrión perdió control de sus poderes del oro
+- **Caos generalizado**: La fiesta se convirtió en zona de batalla
+- **Coordinación con el equipo**: Trabajó junto a sus compañeros para responder
+- **Apoyo a compañeros**: Participó en la defensa y protección del grupo
+
+### Implicaciones para el Personaje
+
+#### **Consolidación de Valores**
+- **Lealtad probada**: Su rechazo a Eneiros demuestra compromiso genuino con el equipo
+- **Madurez heroica**: Rechazó poder fácil en favor de crecimiento con sus compañeros
+- **Relación fortalecida con Justa**: Ella lo salvó, profundizando su vínculo
+- **Identidad clara**: Confirmó que su camino es junto a La Fuerza Oculta
+
+#### **Nueva Realidad de Amenazas**
+- **Objetivo de mercenarios**: Ahora es considerado amenaza por grupos profesionales
+- **Vulnerabilidad reconocida**: Supresores químicos son su principal debilidad
+- **Necesidad de cautela**: Su popularidad en redes lo hace objetivo identificable
+- **Dependencia del equipo**: Comprendió que su supervivencia depende de sus compañeros
+
+#### **Evolución de la Relación con Justa**
+- **Protección mutua**: Ella lo salvó del ataque, consolidando su rol protector
+- **Decisión compartida**: Su rechazo a Eneiros fue influenciado por su relación
+- **Confianza profunda**: Demostró que confía en ella para tomar decisiones importantes
+- **Compromiso confirmado**: La crisis confirmó la solidez de su relación
+
+---

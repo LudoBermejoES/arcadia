@@ -51,6 +51,10 @@ Mencia actúa como la especialista psíquica del grupo "La Fuerza Oculta". Su pa
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
 - [La Fuerza Oculta Session 33](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md)
 - [La Fuerza Oculta AI Notes 2025-09-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes.md)
+- [La Fuerza Oculta AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
+- [La Fuerza Oculta Session 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
+- [La Fuerza Oculta Session 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md)
+- [La Fuerza Oculta AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
 
 ## Cosas a Hacer (Agosto 2025)
 
@@ -543,3 +547,87 @@ ientes representan peligro
 > "La coordinación perfecta no solo requiere conexión telepática, sino también actuación convincente, mediación empática y reconocimiento de cuándo el equipo necesita helado más que heroísmo"
 
 Esta sesión confirma la **evolución completa** de Psique como el **corazón emocional y cerebro táctico** de La Fuerza Oculta, capaz de coordinar operaciones complejas, mediar conflictos internos, y recordar al equipo que ser héroes también significa cuidarse mutuamente a través de momentos simples de normalidad compartida.
+
+---
+
+## 🧠 Control Mental Exitoso y Dilema Moral en Isla Sal (Noviembre 2025)
+
+### El Ataque Mercenario en la Fiesta de Eneiros
+
+Durante la fiesta exclusiva de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Psique demostró su creciente poder telepático al tomar control completo de la mente de un atacante profesional.
+
+#### **Toma de Control Mental del Líder Mercenario**
+- **Ataque coordinado**: Los mercenarios lanzaron un asalto con dardos supresores contra el equipo
+- **Identificación del líder**: Psique detectó al coordinador del ataque
+- **Control mental exitoso**: Por primera vez, tomó **control completo** de la mente de un enemigo consciente
+- **Uso táctico**: Utilizó al mercenario controlado para obtener información
+
+#### **Infligir Daño Psíquico**
+- **Interrogación mental**: Extrajo información crítica sobre los atacantes
+- **Shock psíquico**: Causó **daño mental severo** al mercenario durante el control
+- **Consecuencias para el objetivo**: El mercenario quedó traumatizado por la invasión mental
+- **Efectividad comprobada**: Demostró que puede usar poderes ofensivamente
+
+### El Dilema Moral
+
+#### **Conflicto Interno sobre el Daño Causado**
+- **Primera vez causando daño**: Nunca antes había herido intencionalmente a alguien
+- **Trauma del enemigo**: Comprendió que causó sufrimiento psicológico real
+- **Cuestionamiento ético**: ¿Es aceptable dañar la mente de un atacante?
+- **Ambigüedad moral**: El mercenario atacó primero, pero el daño mental es permanente
+
+#### **Debate con el Equipo**
+- **Justificación táctica**: El equipo argumentó que fue necesario para protegerse
+- **Preocupación de Psique**: Teme convertirse en alguien que daña mentes casualmente
+- **Límites difusos**: ¿Dónde está la línea entre defensa y abuso de poder?
+- **Comparación con violencia física**: Los compañeros causan daño físico; ella causa daño mental
+
+### Implicaciones para el Personaje
+
+#### **Crecimiento de Poder**
+- **Control mental completo**: Alcanzó nivel de maestría similar a Mésmero
+- **Uso ofensivo**: Confirmó capacidad de usar poderes para atacar, no solo defender
+- **Efectividad en combate**: Se estableció como amenaza real para enemigos
+- **Entrenamiento fructífero**: El entrenamiento brutal con Mésmero dio resultados
+
+#### **Desarrollo Moral**
+- **Consciencia del daño**: Comprende las consecuencias de sus poderes
+- **Empatía con víctimas**: Siente el sufrimiento que causa
+- **Necesidad de límites**: Debe establecer reglas sobre cuándo usar daño mental
+- **Responsabilidad del poder**: El poder telepático conlleva responsabilidad ética única
+
+#### **Evolución de Rol en el Equipo**
+- **De coordinadora a combatiente**: Ya no solo apoya, también ataca
+- **Arma psíquica**: Se convierte en amenaza ofensiva real
+- **Dilemas únicos**: Enfrenta conflictos éticos que otros no tienen
+- **Necesidad de apoyo**: Diana y el equipo deben ayudarla a procesar estas experiencias
+
+### Estado Actual (Noviembre 2025)
+
+#### **Capacidades Confirmadas**
+- Control mental completo de enemigos conscientes
+- Infligir daño psíquico severo
+- Interrogación mental bajo presión
+- Uso táctico de mentes controladas
+
+#### **Conflictos Internos**
+- ¿Es ético dañar mentes, incluso de enemigos?
+- ¿Dónde están los límites del uso de poderes?
+- ¿Cómo evitar convertirse en villana?
+- ¿El daño mental es peor que el daño físico?
+
+#### **Necesidades Futuras**
+- Establecer código ético personal sobre uso de poderes
+- Procesar con Diana el trauma de causar daño
+- Consultar con Mésmero sobre límites morales
+- Desarrollar criterios claros sobre cuándo usar daño mental
+
+### Comparación con Mésmero
+
+Esta experiencia la acerca al nivel de poder de **Mésmero**, pero también a sus dilemas morales:
+- **Mésmero**: Ha usado control mental durante décadas, tiene código ético desarrollado
+- **Psique**: Acaba de descubrir este poder, debe construir sus propios límites
+- **Diferencia generacional**: Mésmero puede ser su guía en la ética telepática
+- **Necesidad de mentoría moral**: No solo técnica, sino ética del poder mental
+
+---

@@ -541,6 +541,43 @@ Durante una carrera ilegal, el **Bugatti de Sombrío** accedió al **Puente de M
 - [AI Notes 2025-10-12](../../campaigns/la-fuerza-oculta/ai-notes/2025-10-12-gemini-notes.md)
 - [Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md) - **Revelación del Linaje**
 - [Resumen Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes.md)
+- [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md) - Fiesta de Eneiros
+- [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Ataque mercenario y pérdida de poderes
+- [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
+
+---
+
+## 🎭 Crisis en la Fiesta de Eneiros: Pérdida Temporal de Poderes (Noviembre 2025)
+
+### El Ataque Coordinado en Isla Sal
+
+Durante la fiesta exclusiva de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Pantomima experimentó su primera **pérdida completa de poderes** tras un ataque mercenario coordinado.
+
+#### **El Ataque con Dardos**
+- **Objetivo coordinado**: Ataque simultáneo contra múltiples miembros de La Fuerza Oculta
+- **Arma utilizada**: Dardos con sedantes/supresores de poderes metahumanos
+- **Pantomima impactada**: Recibió un dardo que la **aturdió completamente**
+- **Caída dramática**: Cayó de su monopatín volador mientras estaba en el aire
+
+#### **Consecuencias Inmediatas**
+- **Pérdida de poderes**: Sus habilidades de ilusión quedaron **completamente suprimidas**
+- **Vulnerabilidad extrema**: Primera vez que experimenta impotencia total
+- **Diana también afectada**: Su compañera de equipo perdió poderes simultáneamente
+- **Apoyo del equipo**: Sus compañeros la protegieron durante su vulnerabilidad
+
+#### **Duración y Recuperación**
+- **Efecto temporal**: Los poderes eventualmente regresaron (duración exacta desconocida)
+- **Primera experiencia**: Nunca antes había experimentado supresión de poderes
+- **Impacto psicológico**: Confrontación con su dependencia de habilidades ilusorias
+- **Confianza en el equipo**: Demostró que sus compañeros la protegen incluso cuando es vulnerable
+
+### Implicaciones para el Personaje
+
+Esta experiencia marca un **punto de maduración crucial**:
+- **Vulnerabilidad aceptada**: Aprendió que no siempre puede confiar en sus poderes
+- **Importancia del equipo**: Comprendió el valor de tener compañeros confiables
+- **Debilidad identificada**: Los supresores químicos son su principal vulnerabilidad
+- **Necesidad de contingencias**: Debe desarrollar habilidades no dependientes de poderes
 
 ---
 

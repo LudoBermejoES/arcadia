@@ -40,6 +40,10 @@ Diana actúa como un miembro de combate del grupo "La Fuerza Oculta". Su papel i
 - [La Fuerza Oculta AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
 - [La Fuerza Oculta AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
 - [La Fuerza Oculta Session 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
+- [La Fuerza Oculta AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
+- [La Fuerza Oculta Session 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
+- [La Fuerza Oculta Session 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md)
+- [La Fuerza Oculta AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
 - [Fatum Campaign](../../groups/fatum/fatum.md)
 
 ## Cosas a Hacer (Agosto 2025)
@@ -565,3 +569,51 @@ Justo cuando Diana se prepara para volver al mundo, experimenta algo imposible:
 Este momento marca un **punto de inflexión fundamental** en el desarrollo de Diana: el descubrimiento de que **Apolo está vivo** transforma completamente su comprensión de sí misma, su filosofía de refugio en la nada, y su capacidad de encontrar paz. La contradicción de estar "a la vez, algo terrible y algo maravilloso" define perfectamente su nuevo estado existencial: ya no puede ser quien era, pero tampoco sabe quién será ahora que la soledad se ha revelado como una ilusión.
 
 **Vínculo con Archivo Personal**: Ver [reflexión completa en pensamientos/diana.md]({{ site.baseurl }}/characters/pensamientos/diana/)
+
+---
+
+## 💫 Pérdida Temporal de Poderes en Isla Sal (Noviembre 2025)
+
+### El Ataque Mercenario en la Fiesta de Eneiros
+
+Durante la fiesta exclusiva de **Eneiros** en **Isla Sal** (16 de noviembre de 2025), Diana experimentó su primera **pérdida completa de poderes** tras un ataque mercenario coordinado.
+
+#### **El Ataque con Dardos Supresores**
+- **Objetivo coordinado**: Ataque simultáneo contra múltiples miembros de La Fuerza Oculta
+- **Arma utilizada**: Dardos con sedantes/supresores de poderes metahumanos
+- **Diana impactada**: Recibió un dardo que **suprimió completamente sus poderes**
+- **Pantomima también afectada**: Su compañera de equipo perdió poderes simultáneamente
+
+#### **Consecuencias Inmediatas**
+- **Pérdida de capacidades**: Sus habilidades de combate quedaron **completamente anuladas**
+- **Vulnerabilidad extrema**: Por primera vez, completamente indefensa en combate
+- **Apoyo del equipo**: Sus compañeros la protegieron durante su impotencia
+- **Caos generalizado**: Eneiros perdió control de sus poderes del oro
+
+#### **Impacto Psicológico**
+- **Segunda vulnerabilidad**: Tras el trauma de los gorilas dorados, nueva confrontación con impotencia
+- **Dependencia del equipo**: Comprendió que sin poderes, depende completamente de sus compañeros
+- **Confianza renovada**: El equipo demostró que la protege incluso cuando está indefensa
+- **Relación con Psique**: Ambas experimentaron pérdida de poderes, profundizando empatía mutua
+
+### Implicaciones para el Personaje
+
+#### **Vulnerabilidad Reconocida**
+- **Debilidad identificada**: Los supresores químicos son su principal vulnerabilidad
+- **Herencia de Fatum**: Sus poderes pueden ser neutralizados, como cualquier metahumano
+- **Necesidad de contingencias**: Debe desarrollar habilidades no dependientes de poderes
+- **Humildad heroica**: Reconoce que incluso los más poderosos pueden ser neutralizados
+
+#### **Evolución de la Relación con el Equipo**
+- **Confianza profundizada**: El equipo la protegió cuando estaba vulnerable
+- **Reciprocidad**: Ella protege a otros; ellos la protegen a ella
+- **Igualdad en vulnerabilidad**: Todos tienen debilidades que deben ser compensadas
+- **Solidaridad fortalecida**: La crisis compartida unió más al grupo
+
+#### **Crecimiento Personal**
+- **Aceptación de limitaciones**: No es invencible, puede ser neutralizada
+- **Valor del equipo**: Su supervivencia depende de La Fuerza Oculta
+- **Preparación futura**: Debe anticipar ataques con supresores
+- **Madurez heroica**: Comprender vulnerabilidad es parte del crecimiento
+
+---

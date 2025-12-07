@@ -98,10 +98,23 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[20 Julio](manual-notes/session-24-2025-07-20.md)**: Primera misión oficial, infiltración subterránea, descubrimiento de La Farándula
 - **[27 Julio](manual-notes/session-25-2025-07-27.md)**: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación del Puño Gris y sustancias potenciadoras
 - **[3 Agosto](manual-notes/session-26-2025-08-03.md)**: Entrega de mercenarios, establecimiento de base e ingresos independientes
-- **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), experimentos con furgoneta, ataque de Les Enfant Terribles
-- **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: División del equipo, infiltración en cúpula energética, derrota de Les Enfant Terribles, aparición de monos dorados
-- **[24 Agosto](manual-notes/session-29-2024-08-24.md)**: Combate épico contra gorilas dorados, aparición de Emperatriz de Jade y Abismo de los 7 Abominables, alianza temporal inesperada
-- **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas del ataque, trauma de Sentencia, búsqueda de mentores, contacto con Espectro, revelación sobre Sofía Nakamura y el PD
+- **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en Almacenes Hêvî, ataque de Les Enfant Terribles
+- **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: Les Enfant Terribles, monos dorados
+- **[24 Agosto](manual-notes/session-29-2024-08-24.md)**: Combate contra gorilas dorados, Emperatriz de Jade, alianza con 7 Abominables
+- **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas, trauma postraumático, búsqueda de mentores
+
+### 🧙 **Fase VII: Encuentros con el Pasado (Septiembre 2025)**
+- **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Barrio Gótico, encuentro con Espectro y Mentallo, rechazo de jeringuilla
+- **[23 Septiembre](manual-notes/session-33-2024-09-23.md)**: Entrenamiento con Mésmero, Sentencia entrega prótesis a Les Enfant
+- **[28 Septiembre](manual-notes/session-33-2024-09-28.md)**: Fuga de hospital, encuentro con Mambo y Zambo
+
+### 🏎️ **Fase VIII: Revelaciones Dimensionales y Ataques Coordinados (Octubre-Noviembre 2025)**
+- **[12 Octubre](ai-notes/2025-10-12-gemini-notes.md)**: Robo del Bugatti del Sombrío, carrera ilegal por puentes
+- **[2 Noviembre](ai-notes/2025-11-02-gemini-notes.md)**: Puente de Moebius, revelación de origen de Pantomima (Sombrío/Caos)
+- **[2 Noviembre](manual-notes/session-38-2025-11-02.md)**: Fiesta de Eneiros en Isla Sal, ofrecimiento de pupilaje a Hotman
+- **[16 Noviembre](ai-notes/2025-11-16-gemini-notes.md)** / **[Manual](manual-notes/session-40-2025-11-16.md)**: Ataque mercenario, Diana y Pantomima pierden poderes
+- **[23 Noviembre](ai-notes/2025-11-23-gemini-motes.md)**: Contacto con La Cacería Salvaje, misión al Barrio Gótico
+- **[30 Noviembre](ai-notes/2025-11-30-gemini-notes.md)**: Combate con mercenarios, negociación de Sentencia
 - **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Crisis financiera, análisis mediático, primera visita al teatro abandonado de Espectro
 - **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Equipamiento no letal con Espectro, encuentro con Mentallo, rechazo de Psique a la jeringuilla del poder, planificación de mentores
 - **[21 Septiembre](manual-notes/session-33-2024-09-23.md)**: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, infiltración hospitalaria de Sentencia, entrega secreta de prótesis a Les Enfant heridos

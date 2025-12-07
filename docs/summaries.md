@@ -44,7 +44,7 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 **Programa "Héroes o Villanos":**
 - **Sesiones 1-12**: Entrenamiento secreto en la mansión
 - **Sesiones 13-25**: Misiones operativas y desarrollo del equipo
-- **Sesiones 26-30**: Operaciones recientes (hasta agosto 2025)
+- **Sesiones 26-40**: Operaciones recientes y revelaciones dimensionales (hasta noviembre 2025)
 - Elementos meta-narrativos y referencias al propio juego
 
 **Equipo Actual:**
@@ -72,7 +72,7 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 ## Resúmenes Especiales
 
 ### Transcripciones AI (Gemini)
-Los resúmenes más recientes utilizan inteligencia artificial para procesar grabaciones largas (16 transcripciones disponibles):
+Los resúmenes más recientes utilizan inteligencia artificial para procesar grabaciones largas (20 transcripciones disponibles):
 
 - **2025-06-15**: Sesión de entrenamiento en la mansión
 - **2025-06-22**: Primera misión operativa del equipo
@@ -91,6 +91,10 @@ Los resúmenes más recientes utilizan inteligencia artificial para procesar gra
 - **2025-09-28**: Fuga caótica del hospital y encuentro con concursantes
 - **2025-10-05**: Discriminación en pizzería e investigación de Cacharrero
 - **2025-10-12**: Robo del Bugatti Sombrío y carrera ilegal
+- **2025-11-02**: Puente de Moebius y revelación del origen de Pantomima
+- **2025-11-16**: Fiesta de Eneiros en Isla Sal y ataque mercenario coordinado
+- **2025-11-23**: Contacto con La Cacería Salvaje, misión al Barrio Gótico
+- **2025-11-30**: Combate con mercenarios, Diana y Pantomima pierden poderes
 
 ### Campañas Especiales
 
@@ -104,8 +108,8 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
-**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (37+ sesiones: 24 manuales + 17 transcripciones AI)
-**Oct-Nov 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (2 sesiones documentadas)
+**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (40 sesiones: 37 manuales + 20 transcripciones AI)
+**Oct-Nov 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (3 sesiones documentadas)
 
 ## Navegación
 

@@ -249,14 +249,59 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2025-11-16 - Fiesta de Eneiros y el Ataque](2025-11-16-gemini-notes.md)
+**"El Ofrecimiento y el Asalto"**
+- 🎉 **Evento Exclusivo**: Fiesta en Isla Sal en la mansión de Eneiros con celebridades
+- 🏆 **Ofrecimiento de Pupilaje**: Eneiros ofrece a Hotman ser su pupilo y continuar su legado
+- 🎯 **Rechazo Heroico**: Hotman rechaza la oferta por lealtad a su equipo y a Sentencia
+- 🎯 **Ataque Coordinado**: Dardos con láser apuntan a Eneiros y Hotman
+- 💛 **Ola de Oro**: Eneiros pierde control de sus poderes, creando tsunami de oro fundido
+- ⚡ **Pantomima Atacada**: Cae aturdida tras recibir disparo de Taser mientras volaba
+- 🛡️ **Protección Grupal**: Justa salva a Hotman, Eslizón salva a Eneiros
+
+**Duración**: ~2.5 horas | **Palabras**: ~16,000 | **Páginas**: ~42
+
+---
+
+#### [📼 2025-11-23 - La Cacería Salvaje y el Barrio Gótico](2025-11-23-gemini-motes.md)
+**"Los Guardianes Felinos del Gótico"**
+- 📧 **Contacto Oficial**: La Cacería Salvaje contacta vía correo @metas.com
+- 🐱 **Los Cinco Sentidos**: Vista, Tacto, Oído, Olfato y Gusto buscan ayuda del grupo
+- 🦁 **Misión Bestial**: Investigar actividad de "padre bestia" en Distrito Mercury
+- 🚗 **Viaje Temporal**: Nacho lleva al grupo en Renault 5 antiguo al Barrio Gótico
+- 🌫️ **Atmósfera Mágica**: Tecnología moderna no funciona en el distrito viviente
+- 💊 **Farmacia 24h**: Encuentro con mujer misteriosa en farmacia protegida
+- 🪄 **Bendición del Gótico**: Ritual de protección para el grupo antes de la misión
+- 🤗 **Pago Emocional**: Kauneda pide abrazos a los cinco felinos como compensación
+
+**Duración**: ~2 horas | **Palabras**: ~14,500 | **Páginas**: ~37
+
+---
+
+#### [📼 2025-11-30 - Combate con Mercenarios y Pérdida de Poderes](2025-11-30-gemini-notes.md)
+**"La Retirada Táctica y el Precio del Conflicto"**
+- 💥 **Continuación del Asalto**: Resolución del ataque a la mansión de Eneiros
+- 🎖️ **Mercenarios Profesionales**: 5 atacantes coordinados con comunicación militar
+- 🔥 **Hotman Neutraliza Gas**: Uso creativo de poderes para destruir gas lacrimógeno
+- 🧠 **Sique Triangula**: Localización mental de los 5 atacantes rodeando la mansión
+- 🤖 **Paolo Galeno**: Líder mercenario con escudo mental, neutralizado por Sique
+- 🛡️ **Manuel Cortezas**: Mercenario acorazado que negocia con Sentencia
+- 🤝 **Retirada Negociada**: Los mercenarios se retiran sin llevarse a Hotman
+- 💔 **Pérdida Temporal**: Diana y Pantomima pierden sus poderes misteriosamente
+- 📅 **Planificación Futura**: Grupo planea reunión presencial en Madrid en diciembre
+
+**Duración**: ~2.5 horas | **Palabras**: ~16,500 | **Páginas**: ~43
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 17 sesiones completas
+- **Total de Transcripciones**: 20 sesiones completas
 - **Período Cubierto**: Junio-Noviembre 2025 (6 meses intensivos)
-- **Palabras Totales**: ~321,800 palabras transcritas
-- **Páginas Equivalentes**: ~821 páginas de contenido
-- **Horas de Audio**: ~53 horas de partidas registradas
+- **Palabras Totales**: ~369,000 palabras transcritas
+- **Páginas Equivalentes**: ~943 páginas de contenido
+- **Horas de Audio**: ~60 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**

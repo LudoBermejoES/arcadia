@@ -214,17 +214,46 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 
 ---
 
+#### **Octubre-Noviembre 2025 - Revelaciones y Ataques Coordinados**
+- **[Sesión 38 - 2 Noviembre 2025](session-38-2025-11-02.md)** - *"La Fiesta de Eneiros"*
+  - Devolución del coche del Sombrío tras carrera interdimensional
+  - Voces misteriosas en la radio de la furgoneta: "Faraón, ¿dónde vas?"
+  - Pantomima se aísla tras descubrimientos sobre su familia
+  - Viaje a Isla Sal para la fiesta exclusiva de Eneiros
+  - Encuentro con celebridades: Granito, Chen Way Romano, Joaquín Navarro
+  - Eneiros ofrece a Hotman ser su pupilo y continuar su legado
+  - Hotman rechaza por lealtad a su equipo y a Sentencia
+  - Ataque con dardos láser contra Eneiros y Hotman
+  - Eneiros pierde control, crea ola de oro fundido
+  - Pantomima es atacada y cae del monopatín (final de sesión)
+
+- **[Sesión 39 - 2 Noviembre 2025](session-39-2025-11-02.md)** - *Sin Notas Documentadas*
+  - No se tomaron notas en esta sesión
+
+- **[Sesión 40 - 16 Noviembre 2025](session-40-2025-11-16.md)** - *"Combate con Mercenarios y Pérdida de Poderes"*
+  - Resolución del ataque: 5 mercenarios profesionales coordinados
+  - Hotman neutraliza gas lacrimógeno con sus poderes de calor
+  - Diana identifica que vienen por Hotman
+  - Sique localiza mentalmente a los 5 atacantes rodeando la mansión
+  - Combate táctico: Justa dispara, Sique controla mentalmente al líder
+  - Paolo Galeno (líder mercenario) neutralizado por Sique
+  - Sentencia negocia con Manuel Cortezas (mercenario acorazado)
+  - Los mercenarios se retiran sin llevarse a Hotman
+  - **Diana y Pantomima pierden sus poderes misteriosamente**
+
+---
+
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 34 sesiones documentadas
-- **Período Cubierto**: Marzo 2024 - Septiembre 2025 (18 meses)
-- **Páginas Estimadas**: ~510 páginas de notas detalladas
-- **Horas de Juego**: ~102 horas registradas
+- **Total de Sesiones**: 37 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Noviembre 2025 (20 meses)
+- **Páginas Estimadas**: ~555 páginas de notas detalladas
+- **Horas de Juego**: ~111 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (50% del total)
-- **Fase Héroes Independientes (2025)**: 17 sesiones (50% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (46% del total)
+- **Fase Héroes Independientes (2025)**: 20 sesiones (54% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

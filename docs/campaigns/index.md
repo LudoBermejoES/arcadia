@@ -73,10 +73,11 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 - 🔥 **Hotman** (Jandro) - El maestro del calor
 
 ### **Era Moderna:**
-- **37 sesiones activas** con narrativa compleja
+- **40 sesiones activas** con narrativa compleja
 - **Dilemas morales** sin respuestas fáciles
 - **Encuentros con el pasado heroico** de Arcadia
 - **Meta-narrativa** y pérdida de privacidad
+- **Revelaciones dimensionales** y ataques coordinados
 
 **[🚀 Explorar La Fuerza Oculta →](la-fuerza-oculta/)**
 
@@ -153,7 +154,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">87+</span>
+<span class="stat-number">90+</span>
 <span class="stat-label">Sesiones Totales</span>
 </div>
 

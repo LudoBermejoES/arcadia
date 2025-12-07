@@ -10,6 +10,79 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ---
 
+## 📅 **Diciembre 2025**
+
+### **7 de Diciembre de 2025**
+
+#### **📝 Actualización Masiva de Sesiones de La Fuerza Oculta**
+- **Integradas 6 sesiones nuevas** - Documentación completa de sesiones 37-40 y sesiones intercaladas:
+  - **3 transcripciones AI nuevas**: 2025-11-16, 2025-11-23, 2025-11-30
+  - **3 sesiones manuales nuevas**: session-38, session-39, session-40
+  - **Período cubierto**: 2 Noviembre - 30 Noviembre 2025
+  - **Incremento significativo**: 37→40 sesiones totales en La Fuerza Oculta
+
+#### **🎉 Sesión 37-40: Revelaciones Dimensionales y Ataques Coordinados**
+- **Sesión 37 (2 Nov)**: El Puente de Moebius y el Origen de Pantomima
+  - Revelación familiar: Sombrío (abuelo), Caos (padre) de Pantomima
+  - Descubrimiento de puente dimensional durante carrera ilegal
+  - Pinky revelada como proyección dimensional
+- **Sesión 38 (2 Nov)**: La Fiesta de Eneiros en Isla Sal
+  - Ofrecimiento de pupilaje de Eneiros a Hotman
+  - Hotman rechaza por lealtad a su equipo y a Sentencia
+  - Ataque coordinado con dardos láser
+  - Eneiros pierde control, crea ola de oro fundido
+  - Pantomima atacada con Taser, cae del monopatín
+- **Sesión 39 (2 Nov)**: Sin notas documentadas
+- **Sesión 40 (16 Nov)**: Combate con Mercenarios Profesionales
+  - 5 mercenarios coordinados atacan la mansión
+  - Hotman neutraliza gas lacrimógeno
+  - Sique controla mentalmente al líder Paolo Galeno
+  - Sentencia negocia retirada con Manuel Cortezas
+  - **Diana y Pantomima pierden poderes misteriosamente**
+
+#### **🏰 Sesión Intercalada: La Cacería Salvaje del Barrio Gótico**
+- **Sesión 23 Nov**: Contacto con los Cinco Hermanos Felinos
+  - Primer contacto vía @metas.com
+  - Misión para investigar "padre bestia"
+  - Exploración atmosférica del Barrio Gótico
+  - Encuentro con farmacia mágica misteriosa
+
+#### **📊 Actualizaciones de Índices y Estadísticas**
+- **ai-notes/index.md**: Incrementado de 17 a 20 transcripciones AI
+  - Palabras totales: 321,800 → 369,000
+  - Páginas equivalentes: 821 → 943
+  - Horas de audio: 53 → 60
+- **manual-notes/index.md**: Actualizado de 34 a 37 sesiones
+  - Período cubierto: 18 meses → 20 meses
+  - Páginas estimadas: 510 → 555
+  - Horas de juego: 102 → 111
+- **summary/summary.md**: Añadidas 3 secciones narrativas extensas
+  - Sesión 37: ~40 líneas sobre revelaciones dimensionales
+  - Sesiones 38-40: ~90 líneas sobre fiesta de Eneiros y combate mercenario
+  - Sesión intercalada: ~70 líneas sobre La Cacería Salvaje
+- **la-fuerza-oculta/index.md**: Nueva Fase VIII creada
+  - "Revelaciones Dimensionales y Ataques Coordinados"
+  - 6 sesiones documentadas con enlaces cruzados
+
+#### **🌍 Actualizaciones Globales del Proyecto**
+- **campaigns/index.md**: Sesiones totales 87+ → 90+
+  - La Fuerza Oculta: 37 → 40 sesiones
+  - Añadido bullet point "Revelaciones dimensionales y ataques coordinados"
+- **docs/index.md**: Sesiones documentadas 85+ → 90+
+  - Fecha de actualización: 12 octubre → 7 diciembre 2025
+- **summaries.md**: Múltiples actualizaciones
+  - Rango de sesiones: "26-30" → "26-40"
+  - Transcripciones AI: 16 → 20 (con 4 nuevas entradas listadas)
+  - Cronología actualizada: "37+ sesiones" → "40 sesiones"
+
+#### **📈 Estadísticas del Proyecto Actualizadas**
+- **Total sesiones La Fuerza Oculta**: 40 sesiones (37 manuales + 20 AI transcriptions)
+- **Total sesiones proyecto**: 90+ sesiones documentadas
+- **Período de noviembre 2025**: 6 sesiones nuevas documentadas
+- **Crecimiento de documentación AI**: +3 transcripciones (+48,200 palabras)
+
+---
+
 ## 📅 **Noviembre 2025**
 
 ### **10 de Noviembre de 2025**

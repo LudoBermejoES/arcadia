@@ -1006,6 +1006,219 @@ Esta sesión representa la escalada máxima de audacia del grupo, donde traicion
 
 ---
 
+### Sesión 37: El Puente de Moebius y el Origen de Pantomima (2 noviembre 2025)
+
+**El descubrimiento dimensional más importante de la campaña:**
+
+Durante la carrera ilegal por los puentes de Arcadia, el Bugatti del Sombrío transporta al grupo a través de un fenómeno interdimensional: **el Puente de Moebius**, una dimensión de bolsillo accesible únicamente a través del vehículo legendario.
+
+**Revelaciones familiares masivas sobre Pantomima (antes Kayface/Astrid):**
+
+1. **Sombrío** (abuelo de Pantomima):
+   - Héroe legendario de los años 60-70
+   - Poder: materialización de sombras tangibles
+   - Desaparecido en 1985 sin rastro
+   - Creador del Puente de Moebius como dimensión personal
+   - Propietario original del Bugatti de titanio
+
+2. **Caos** (padre de Pantomima):
+   - Villano especialista en grandes ilusiones
+   - Hijo de Sombrío que se convirtió en supervillano
+   - "Murió" múltiples veces entre 2000-presente
+   - Maestro de engaños considerado el mejor ilusionista de Arcadia
+   - **No sabe que tiene una hija**
+
+3. **Pinky revelado**:
+   - El hurón familiar de Pantomima NO es real
+   - Es una proyección mental almacenada en el Puente de Moebius
+   - Parte de la herencia dimensional de Pantomima
+   - Puede manifestarse cuando Pantomima accede a su poder
+
+**La Mansión del Sombrío:**
+- Ubicada dentro del Puente de Moebius
+- Habitación de Caos preservada desde su juventud
+- Objetos personales de tres generaciones de ilusionistas
+- Portal dimensional accesible desde el Bugatti
+
+**Implicaciones:**
+- Pantomima es heredera de dos linajes de poderes de ilusión
+- Su poder de crear ilusiones tangibles proviene de ambos lados familiares
+- El Bugatti actúa como llave física al Puente de Moebius
+- Pinky representa conexión inconsciente con herencia dimensional
+
+**Escape de la carrera:**
+- Atraviesan portal dimensional para evitar persecución
+- Ganan la carrera por defecto (únicos en llegar intactos)
+- Revelación deja a Pantomima emocionalmente devastada
+- Grupo descubre nueva dimensión de poderes de compañera
+
+---
+
+### Sesiones 38-40: La Fiesta de Eneiros y el Asalto Mercenario (2-16 noviembre 2025)
+
+**Devolución del Bugatti y voces misteriosas:**
+
+Tras la carrera interdimensional, el grupo devuelve el Bugatti a la exposición. Durante el regreso en la furgoneta, escuchan voces distorsionadas en la radio: *"Faraón, ¿dónde vas?"* - posible referencia al villano histórico El Faraón.
+
+**Pantomima se aísla:**
+- Las revelaciones sobre su familia la dejan emocionalmente devastada
+- Rechaza comunicación con el grupo
+- Se encierra en su habitación procesando su identidad
+
+**La Invitación de Eneiros:**
+
+**Eneiros**, el meta-humano dorado legendario, invita a La Fuerza Oculta a su fiesta exclusiva en **Isla Sal**, uno de los eventos sociales más codiciados de Arcadia.
+
+**Características de la fiesta:**
+- Ubicación: Mansión privada en Isla Sal
+- Asistentes: Celebridades, actores, políticos, modelos, meta-humanos de élite
+- Reglas: Prohibición de teléfonos móviles, reportajes fotográficos solo por prensa autorizada
+- Transporte: Lancha motora desde puerto específico
+- Dress code: Trajes oficiales de superhéroes
+
+**Celebridades presentes:**
+- **Granito**: Meta-humano rocoso de casi 3 metros, especialista en papeles cómicos
+- **Chen Way Romano**: Estrella de acción de Arcadibut
+- **Diego Markovic Santana**: Modelo reconocido
+- **Joaquín Navarro**: Actor y activista afrocolombiano intenso
+- **Mijail Misha Petrosian**: Director de cine especializado en violencia filosófica
+- **Leila Javibi Park**: Poetisa y ex-supermodelo de ascendencia china
+
+**El Ofrecimiento a Hotman:**
+
+Eneiros lleva a Hotman a una sala privada y le hace una propuesta extraordinaria:
+
+- **Pupilaje personal**: Ser entrenado directamente por Eneiros
+- **Razones específicas**: Hotman representa nueva generación, ha sufrido, tiene poder de matar pero prefiere no hacerlo
+- **Estipendio económico**: Apoyo financiero durante entrenamiento
+- **Ayuda legal**: Eneiros puede arreglar los problemas de Hotman con Metacorps
+- **Condición imposible**: No puede extender protección a Sentencia ni al resto del equipo buscados por la justicia
+
+**Rechazo heroico:**
+Hotman rechaza la oferta por lealtad a su equipo y especialmente a Sentencia, priorizando vínculos familiares elegidos sobre oportunidad de ascenso social y legal.
+
+**El Ataque Coordinado:**
+
+En el momento exacto de la respuesta de Hotman:
+
+1. **Dardos con láser**: Punteros láser apuntan a Eneiros y Hotman
+2. **Justa reacciona**: Ve los puntos láser, se lanza sobre Hotman salvándolo
+3. **Eneiros impactado**: Un dardo le acierta en el brazo
+4. **Pérdida de control**: Eneiros grita *"¡Marchaos, no puedo controlarlo!"*
+5. **Ola de oro fundido**: Tsunami de oro líquido inunda la sala
+6. **Eslizón salva a Eneiros**: Le quita el dardo con la cola mientras cae inconsciente
+7. **Pantomima atacada**: Recibe disparo de Taser mientras vuela en monopatín, cae aturdida
+
+**Los Mercenarios Profesionales:**
+
+**Cinco atacantes militares coordinados:**
+- Comunicación por radio sincronizada
+- Gafas de visión nocturna
+- Escudos mentales de nivel 4 (dificultan detección telepática)
+- Armamento: dardos, gas lacrimógeno, aturdidores
+- Objetivo confirmado: **Extraer a Hotman**
+
+**Combate táctico en la mansión:**
+
+1. **Gas lacrimógeno**: Lanzan granada de gas en el salón
+2. **Hotman neutraliza**: Usa poderes de calor para quemar el gas creativamente (olor a chile resultante)
+3. **Sique triangula**: Localiza mentalmente a los 5 atacantes rodeando la mansión
+4. **Jinete Mental**: Sique se mete en la mente del líder **Paolo Galeno**
+5. **Diana coordina evacuación**: Usa intimidación para que Granito saque a los civiles
+6. **Pantomima crea ilusiones**: Genera duplicados para confundir a atacantes
+7. **Justa dispara**: Ataque agresivo contra mercenarios
+8. **Hotman golpea**: Con el masos ataca a Paolo causándole herida y aturdimiento
+9. **Sique devuelve dolor**: Ataque psíquico de *Jaqueca* deja a Paolo inconsciente
+
+**Manuel Cortezas - Negociación:**
+
+El mercenario acorazado con cañón láser se materializa y apunta a Sentencia:
+- *"Aléjese de mi compañero, señorita sentencia. Hemos venido por..."*
+- **Duelo mexicano**: Cualquier ataque provocaría disparo instantáneo
+- **Sentencia negocia**: Pregunta a qué vinieron
+- **Acuerdo tácito**: Cortezas quiere recuperar a Paolo y retirarse
+- **Retirada honorable**: Sentencia se aparta, mercenarios se retiran sin llevarse a Hotman
+
+**Consecuencia misteriosa - Pérdida de poderes:**
+
+Tras el combate, **Diana y Pantomima** descubren que han **perdido sus poderes temporalmente**:
+- **Diana**: Pierde sensación de predecir lo que va a pasar
+- **Pantomima**: Sus ilusiones desaparecen completamente
+- **Origen desconocido**: No está claro qué o quién causó esta pérdida
+- **Duración incierta**: No se sabe cuánto durará el efecto
+
+---
+
+### Sesión Intercalada: La Cacería Salvaje del Barrio Gótico (23 noviembre 2025)
+
+**Contacto oficial vía @metas.com:**
+
+**La Cacería Salvaje**, grupo de cinco meta-humanos felinos que patrullan el Barrio Gótico, contactan a La Fuerza Oculta solicitando ayuda urgente.
+
+**Los Cinco Sentidos:**
+- **Vista** (18 años, varón): Líder, especialista visual
+- **Tacto** (18 años, hembra): Co-líder, percepción táctil avanzada
+- **Oído** (16 años, hembra): Especialista auditiva
+- **Olfato** (16 años, varón): Rastreador olfativo superior
+- **Gusto** (14 años, varón): Detector de sustancias
+
+**Antecedentes:**
+- Hijos de **Estocada** (antiguo miembro de La Familia)
+- Criados por **Mésmero** y **Garra**
+- Prohibidos de salir del Barrio Gótico por su seguridad
+- Promesa a su padre de permanecer en el distrito
+- Desconfianza total hacia "pieles suaves" (humanos normales) y policía
+
+**La Misión:**
+- **Objetivo**: Investigar actividad de **"padre bestia"** en **Distrito Mercury**
+- **Problema**: La Cacería no puede salir del Barrio Gótico debido a su promesa
+- **Razón**: Necesitan meta-humanos de confianza que entiendan a las "bestias"
+- **Pago emocional**: Kauneda (Sique) pide abrazos a los cinco felinos como compensación
+
+**Viaje al Barrio Gótico con Nacho:**
+
+**Nacho Smück**, conductor de Uber conocido del grupo, les lleva en un **Renault 5 de los años 80** (propiedad de su tío) porque:
+- La tecnología moderna no funciona en el Barrio Gótico
+- Coches eléctricos e híbridos fallan al entrar
+- La magia del distrito interfiere con electrónica avanzada
+- Solo vehículos antiguos pueden circular
+
+**Atmósfera del Barrio Gótico:**
+- Cambio repentino: niebla, humedad, mayor oscuridad
+- Bares como puntos de luz con símbolos de protección múltiples
+- Ajo pegado con cinta americana en vidrieras (protección contra vampiros)
+- Mapas físicos con escritos a mano y manchas de sangre para navegación
+- Calles que "cambian" requiriendo cartografía mágica
+
+**Encuentro en la Farmacia 24 Horas:**
+
+Tras el encuentro con La Cacería, Kauneda necesita antihistamínicos por alergia al pelo de gato. La farmacéutica es una mujer misteriosa:
+
+**Características de la mujer:**
+- ~50 años, estricta como profesora
+- Similar a "Bayonetta no sexualizada"
+- Títulos diversos: farmacéutica, segunda plaza en tiro olímpico, pseudociencias mezcladas con ciencias
+- **Pacto de sangre**: La farmacia está protegida mágicamente
+- **Protección vedada**: El lugar es respetado por entidades del Gótico
+
+**La "Bendición del Barrio Gótico":**
+- Ritual de protección con ceniza
+- Referencia a Eslizón como "hombre mujer" (transformación de género)
+- Ofrecimiento de cacao caliente con licor
+- Discusión sobre el peligro de ser meta-humano en zona mágica
+- Niebla oscura forma afuera mientras están dentro
+
+**Elementos extraños:**
+- Nacho está más protegido por ser "horno de los taxistas"
+- Tiempo casi estático mientras están en la farmacia
+- Mención de "La Samaritana" que ayuda a los perdidos
+- Examen físico para detectar "embarazo" mágico (imposible pero verificado)
+
+**Salida:**
+Tras la bendición y protección, el grupo regresa con Nacho descubriendo que casi no ha pasado tiempo, lo que genera confusión sobre la naturaleza temporal de la experiencia.
+
+---
+
 ## Temas Centrales y Evolución de Personajes
 
 ### Justicia vs. Legalidad
@@ -1159,6 +1372,18 @@ Esta sesión representa la escalada máxima de audacia del grupo, donde traicion
 - 08/09: Encuentro con veteranos en el Barrio Gótico, primera oferta de poder de Mentallo
 - 14/09: Equipamiento no letal con Espectro, rechazo definitivo de la jeringuilla del poder, planificación de mentores
 - 21/09: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, Sentencia entrega prótesis secretamente a Les Enfant heridos
+- 28/09: Fuga caótica de hospital tras infiltración de Sentencia, encuentro con Mambo y Zambo
+
+**Octubre:**
+- 05/10: *[Sesión documentada en AI notes]*
+- 12/10: Robo del Bugatti del Sombrío en feria de coches, carrera ilegal por puentes de Arcadia
+
+**Noviembre:**
+- 02/11: Puente de Moebius revelado, origen familiar de Pantomima descubierto (Sombrío abuelo, Caos padre)
+- 02/11: Fiesta en Isla Sal, ofrecimiento de Eneiros a Hotman, ataque mercenario coordinado
+- 16/11: Combate con 5 mercenarios profesionales, negociación de Sentencia, Diana y Pantomima pierden poderes
+- 23/11: Contacto con La Cacería Salvaje, misión para investigar "padre bestia", viaje al Barrio Gótico
+- 30/11: *[Continuación de eventos, planificación de reunión presencial en Madrid]*
 
 ---
 

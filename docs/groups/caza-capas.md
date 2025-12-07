@@ -3,6 +3,11 @@ layout: page
 title: "Cazacapas"
 permalink: /groups/caza-capas/
 ---
+
+<div class="character-photo">
+  <img src="{{ site.baseurl }}/assets/img/characters/caza-capas.png" alt="Cazacapas" />
+</div>
+
 # Cazacapas
 
 ## Información Básica

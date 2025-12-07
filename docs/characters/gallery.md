@@ -194,7 +194,8 @@ document.addEventListener('DOMContentLoaded', function() {
     { slug: 'los-confesores', name: 'Los Confesores', image: 'los-confesores.png', description: 'Fanáticos religiosos antimeta' },
     { slug: 'los-espligan', name: 'Los Espligan', image: 'espligan.png', description: 'Mercenarios especializados parasitarios' },
     { slug: 'puno-gris', name: 'Puño Gris', image: 'puno-gris.png', description: 'Mafia del distrito asiático' },
-    { slug: 'ultracorps', name: 'Ultracorps', image: 'ultracorps.png', description: 'División especial de MetaCorp con humanos mejorados' }
+    { slug: 'ultracorps', name: 'Ultracorps', image: 'ultracorps.png', description: 'División especial de MetaCorp con humanos mejorados' },
+    { slug: 'caza-capas', name: 'Cazacapas', image: 'caza-capas.png', description: 'Mercenarios de élite anti-metahumanos' }
   ];
   
   // Character data organized by categories

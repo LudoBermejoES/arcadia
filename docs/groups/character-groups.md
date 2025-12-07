@@ -114,11 +114,33 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 - Múltiples entidades bestiales creadas artificialmente
 
 ### Los Cazadores
-**Tipo**: Grupo criminal/mercenario  
+**Tipo**: Grupo criminal/mercenario
 **Concepto**: Organización de cazadores
 
 **Miembros**:
 - Información limitada disponible
+
+### [Cazacapas](caza-capas.md)
+**Tipo**: Mercenarios de élite anti-metahumanos
+**Concepto**: Organización profesional especializada en enfrentamientos con metahumanos sin usar superpoderes
+
+**Características**:
+- **Sin Poderes**: Ningún miembro posee habilidades metahumanas
+- **Tecnología Avanzada**: Compensan la falta de poderes con equipamiento de vanguardia
+- **Especialización Total**: Entrenamiento específico para enfrentar cualquier tipo de metahumano
+- **Adaptabilidad Extrema**: Capacidad para ajustar tácticas a cualquier situación
+- **Red Global**: Operan internacionalmente con células independientes
+- **Arsenal Anti-Meta**: Inhibidores de poderes, armamento adaptativo, sistemas de detección
+- **Profesionalismo Absoluto**: Cumplen contratos sin consideraciones morales personales
+
+**Operaciones Típicas**:
+- Captura de metahumanos para clientes diversos
+- Neutralización de amenazas superpoderosas
+- Rescate en zonas controladas por metas
+- Seguridad contra amenazas metahumanas
+- Recuperación de activos protegidos por poderes
+
+**Reputación**: Considerados el estándar de oro en operaciones anti-metahumanas, temidos incluso por metas poderosos, precios premium, récord impresionante de éxito.
 
 ## Organizaciones Oficiales y Fuerzas del Orden
 

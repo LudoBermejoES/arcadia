@@ -245,23 +245,23 @@ Eslizón Esmeralda es un metahumano con transformación reptiliana completa que 
 
 ### Aliados Externos
 
-**La Cacería Salvaje**: Aliados que le contactaron para investigar actividad de "Padre Bestia" en el Distrito Mercurii. Vista (líder) expresó confianza total: "Votamos y decidimos que eras la mejor elección porque entiendes a las bestias". Recibió abrazo grupal de los cinco hermanos.
+**[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Aliados que le contactaron para investigar actividad de "Padre Bestia" en el Distrito Mercurii. Vista (líder) expresó confianza total: "Votamos y decidimos que eras la mejor elección porque entiendes a las bestias". Recibió abrazo grupal de los cinco hermanos.
 
-**Eneiros**: Lo salvó en Isla Sal (evacuación + remoción de dardo)
+**[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Lo salvó en Isla Sal (evacuación + remoción de dardo)
 
-**El Cacharrero**: Guía para cirugía del chip de Hotman
+**[El Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)**: Guía para cirugía del chip de Hotman
 
 **Nacho**: Conductor de confianza que usa un Renault 5 de los 80 para entrar al Barrio Gótico (los coches modernos no funcionan allí)
 
 ### Estudiantes (como Profesor Online)
 
 Bajo avatar de mapache y filtro deep fake, enseña a:
-- **[Marina Sato-García](marina-sato-garcia.md)** (20) - Química de materiales
-- **[Kai Okonkwo-Singh](kai-okonkwo-singh.md)** (19) - Física biomédica
-- **[Elena Petrov-Nielsen](elena-petrov-nielsen.md)** (21) - Química física/geología
-- **[Diego Moreau-Kim](diego-moreau-kim.md)** (20) - Química ambiental
-- **[Francisco Moreau](francisco-moreau.md)** (23) - Física aplicada (discapacitado con exoesqueleto)
-- **[Zara Al-Mahmoud-Silva](zara-al-mahmoud-silva.md)** (22) - Física teórica
+- **[Marina Sato-García]({{ site.baseurl }}/characters/details/marina-sato-garcia/)** (20) - Química de materiales
+- **[Kai Okonkwo-Singh]({{ site.baseurl }}/characters/details/kai-okonkwo-singh/)** (19) - Física biomédica
+- **[Elena Petrov-Nielsen]({{ site.baseurl }}/characters/details/elena-petrov-nielsen/)** (21) - Química física/geología
+- **[Diego Moreau-Kim]({{ site.baseurl }}/characters/details/diego-moreau-kim/)** (20) - Química ambiental
+- **[Francisco Moreau]({{ site.baseurl }}/characters/details/francisco-moreau/)** (23) - Física aplicada (discapacitado con exoesqueleto)
+- **[Zara Al-Mahmoud-Silva]({{ site.baseurl }}/characters/details/zara-al-mahmoud-silva/)** (22) - Física teórica
 
 ---
 

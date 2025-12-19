@@ -95,7 +95,7 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 **Escalada de Hostilidad**:
 1. **Adolescencia**: Padre negligente y controlador
 2. **Septiembre 2025**: Confrontación donde Hotman rechaza ir a internado suizo y quema el coche
-3. **Diciembre 2025**: Padre contrata a Cazacapas para implantar chip de control
+3. **Diciembre 2025**: Padre contrata a [Cazacapas]({{ site.baseurl }}/groups/caza-capas/) para implantar chip de control
 4. **Mensaje**: "Eres tan imbécil como esperaba, hijo"
 
 ### La Transformación: Muerte del Miedo
@@ -249,13 +249,13 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 
 ### Dentro de La Fuerza Oculta
 
-**Eslizón Esmeralda**: Compañero de habitación, le extrajo el chip - deuda de vida
+**[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)**: Compañero de habitación, le extrajo el chip - deuda de vida
 
-**Diana**: Reconocimiento mutuo, ella defendió sus acciones
+**[Diana]({{ site.baseurl }}/characters/details/diana/)**: Reconocimiento mutuo, ella defendió sus acciones
 
-**Psique/Cia**: Enlace telepático para coordinación, lo estabilizó tras heridas
+**[Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/)**: Enlace telepático para coordinación, lo estabilizó tras heridas
 
-**Pantomima**: Coordinación táctica, ella lo protegió con ilusiones
+**[Pantomima]({{ site.baseurl }}/characters/details/pantomima/)**: Coordinación táctica, ella lo protegió con ilusiones
 
 ### Aliados Externos
 
@@ -263,11 +263,11 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 
 **Espectro**: Proveedor de equipamiento protector, mentor ocasional
 
-**Eneiros**: Rechazó ser su mentor/patrón, pero lo rescató en Isla Sal
+**[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Rechazó ser su mentor/patrón, pero lo rescató en Isla Sal
 
 ### Familia
 
-**Padre** (sin nombre): Empresario abusivo, orquestador de ataque de Cazacapas, actualmente herido y hostil
+**Padre** (sin nombre): Empresario abusivo, orquestador de ataque de [Cazacapas]({{ site.baseurl }}/groups/caza-capas/), actualmente herido y hostil
 
 **Madre**: Mencionada como negligente ("ver la televisión o hacer llorar a alguna criada")
 
@@ -343,7 +343,7 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 ### Amenazas Activas
 
 - **Padre**: Orquestador de ataques profesionales
-- **Cazacapas**: Grupo mercenario especializado en captura metahumana
+- **[Cazacapas]({{ site.baseurl }}/groups/caza-capas/)**: Grupo mercenario especializado en captura metahumana
 - **Tecnología de control**: Existen dispositivos diseñados específicamente para él
 - **Exposición pública**: Su fama lo hace objetivo identificable
 

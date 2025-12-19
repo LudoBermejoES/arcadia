@@ -215,13 +215,13 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 
 ### Dentro de La Fuerza Oculta
 
-**Psique/Cia**: Compañera de habitación, equilibrio emocional del grupo
+**[Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/)**: Compañera de habitación, equilibrio emocional del grupo
 
-**Diana**: Compañera de equipo de combate, solidaridad silenciosa
+**[Diana]({{ site.baseurl }}/characters/details/diana/)**: Compañera de equipo de combate, solidaridad silenciosa
 
-**Eslizón**: Voz de la razón que cuestiona sus decisiones
+**[Eslizón]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)**: Voz de la razón que cuestiona sus decisiones
 
-**Pantomima**: Coordinación táctica y apoyo
+**[Pantomima]({{ site.baseurl }}/characters/details/pantomima/)**: Coordinación táctica y apoyo
 
 ### Mentores
 
@@ -230,7 +230,7 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - Mentor de filosofía heroica
 - Conexión generacional con veteranos
 
-**Comadreja**:
+**[Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/)**:
 - Entrenador de combate
 - Sesiones brutales que la fortalecen
 

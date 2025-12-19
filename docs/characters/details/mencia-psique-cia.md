@@ -200,28 +200,28 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ### Dentro de La Fuerza Oculta
 
-**Justa/Sentencia**: Compañera de habitación, destinataria de mediación grupal
+**[Justa/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/)**: Compañera de habitación, destinataria de mediación grupal
 
-**Hotman**: Compañero de equipo de combate, lo estabilizó médicamente
+**[Hotman]({{ site.baseurl }}/characters/details/hotman/)**: Compañero de equipo de combate, lo estabilizó médicamente
 
-**Eslizón**: Compañero de equipo de combate original
+**[Eslizón]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)**: Compañero de equipo de combate original
 
-**Pantomima/Kayface**: Coordinación táctica perfecta (actuación + ilusiones)
+**[Pantomima/Kayface]({{ site.baseurl }}/characters/details/pantomima/)**: Coordinación táctica perfecta (actuación + ilusiones)
 
 ### Mentores
 
-**Mésmero**: Telépata veterano, entrenador brutal pero confiable
+**[Mésmero]({{ site.baseurl }}/characters/details/mesmero/)**: Telépata veterano, entrenador brutal pero confiable
 
-**Mentallo**: Figura ambigua que ofrece poder a cambio de precio desconocido
+**[Mentallo]({{ site.baseurl }}/characters/details/mentallo/)**: Figura ambigua que ofrece poder a cambio de precio desconocido
 
 ### Pacientes (como Althea Argos)
 
-- **[Carmen Rousseau-Nakamura](carmen-rousseau-nakamura.md)** (42) - Duelo por divorcio
-- **[Viktor Chen-Andersson](viktor-chen-andersson.md)** (38) - Ansiedad laboral
-- **[Esperanza Kowalski-Okafor](esperanza-kowalski-okafor.md)** (55) - Duelo y jubilación
-- **[Adrian Belmont-Vasquez](adrian-belmont-vasquez.md)** (29) - Ansiedad social
-- **[Isabella Rodriguez-Tanaka](isabella-rodriguez-tanaka.md)** (46) - Estrés laboral
-- **[Marcus Thompson-Petrov](marcus-thompson-petrov.md)** (34) - Depresión
+- **[Carmen Rousseau-Nakamura]({{ site.baseurl }}/characters/details/carmen-rousseau-nakamura/)** (42) - Duelo por divorcio
+- **[Viktor Chen-Andersson]({{ site.baseurl }}/characters/details/viktor-chen-andersson/)** (38) - Ansiedad laboral
+- **[Esperanza Kowalski-Okafor]({{ site.baseurl }}/characters/details/esperanza-kowalski-okafor/)** (55) - Duelo y jubilación
+- **[Adrian Belmont-Vasquez]({{ site.baseurl }}/characters/details/adrian-belmont-vasquez/)** (29) - Ansiedad social
+- **[Isabella Rodriguez-Tanaka]({{ site.baseurl }}/characters/details/isabella-rodriguez-tanaka/)** (46) - Estrés laboral
+- **[Marcus Thompson-Petrov]({{ site.baseurl }}/characters/details/marcus-thompson-petrov/)** (34) - Depresión
 
 ---
 

@@ -867,3 +867,171 @@ Durante la fiesta exclusiva de **Eneiros** en **Isla Sal** (16 de noviembre de 2
 - De soledad a protección mutua con Hotman
 
 ---
+
+## 🔥 La Noche de la Sentencia: Despertar de la Rabia (Diciembre 2025)
+
+### El Insomnio de la Venganza
+
+Tras los eventos de la **Sesión 42** (7 de diciembre de 2025), Justa no puede dormir. Las palabras del padre de Hotman resuenan en su mente una y otra vez: *"Eres tan imbécil como esperaba, hijo"*... *"Ya no eres mi hijo"*.
+
+#### **El Gimnasio de Medianoche**
+
+Sin sueño, ardiendo de rabia, se levanta y se dirige al pequeño gimnasio de la base:
+
+- **Primer puñetazo**: Golpea el saco con tal fuerza que el estruendo la hace detenerse - no quiere despertar a todo el mundo
+- **Odio puro**: Nunca antes había notado que todas sus restricciones han saltado; siente un odio tan puro que le quema las venas
+- **Ejercicio violento**: Flexiones, dominadas, ejercicios brutales intentando no hacer ruido
+- **Agotamiento catártico**: Poco a poco, según el cansancio hace mella en sus músculos, su mente comienza a despejarse
+
+#### **La Idea Afilada como un Estilete**
+
+Cuando queda sin aliento, surge una idea clara como el sol de invierno, fría como el corazón de la noche:
+
+> **"Ella es Sentencia y ha condenado a ese hombre. No sabe cuándo ni cómo, pero pagará por lo que le ha hecho a Hotman."**
+
+- **Revelación personal**: Comprende que toda la rabia que ha estado quemando no es solo por Hotman - es también por sí misma
+- **Ausencia paterna**: *"Al menos tú tienes un padre"* - sus propias palabras revelan la herida profunda
+- **Comprensión de Sentencia**: Entiende lo que de verdad significa haberse convertido en Sentencia
+
+### La Filosofía de la Justicia Personal
+
+#### **Declaración de Intenciones**
+
+Mientras recupera el aliento en el suelo del gimnasio, bañada en sudor y con los músculos ardiendo, asume verdades fundamentales:
+
+> **"No puede esperar a que haya justicia en los hombres, tampoco en el universo. La justicia debe buscarla ella."**
+
+- **Peso de la decisión**: Esa idea pesa tanto que durante unos segundos no puede moverse ni pensar
+- **Resignación activa**: Comprende que puede que no consiga nada, que el mundo es grande, que hay poderes más allá de sus fuerzas
+- **Filosofía consolidada**: *"Da igual. Nunca se ha tratado de lo que consigues sino de lo que haces para conseguirlo"*
+- **Transformación emocional**: Ya no hay rabia - hay resolución
+
+### El Encuentro con Hotman
+
+#### **El Baño de Medianoche**
+
+Mientras se seca tras una larga ducha de agua muy caliente, Hotman aparece en pijama amarillo:
+
+**El Diálogo**:
+- *"Tú tampoco podías dormir, Hot."*
+- *"Yo sí, pero te he oído en el gimnasio."*
+
+#### **La Declaración de Sentencia**
+
+Tras minutos de silencio, Justa lo mira desde muy cerca:
+
+> **"Lo voy a matar. No sé cuándo ni cómo, pero está sentenciado."**
+
+#### **La Revelación de Hotman**
+
+Hotman comparte la verdad sobre su último encuentro con su padre:
+- **El día del centro comercial**: Revela que fue cuando llegó tarde
+- **Resultado del encuentro**: *"Él no salió muy bien parado"*
+- **Interpretación del ataque**: *"Esta ha sido la respuesta de un hombre jodido: no me ha podido dominar y eso le ha vuelto peligroso"*
+- **Primera victoria**: *"Quizá sea la primera vez en su vida que alguien no hace lo que él quiere"*
+
+#### **La Filosofía de Hotman**
+
+Por primera vez, Hotman sonríe y toma las manos de Justa:
+
+> **"Estoy cansado de odiarle, cansado de que sea motivo de mi rabia y de mis pesadillas. Quiero dejarle atrás. Es suficiente castigo que me vea por ahí como la viva imagen de su fracaso - no como padre, eso nunca ha sabido serlo, sino como jefe de la saga familiar que él hubiera deseado."**
+
+### La Intensidad Sobrehumana
+
+#### **La Mirada de Hielo**
+
+Hotman mira a los ojos de Justa - profundamente azules - y le cuesta mantenerle la mirada:
+- **Intensidad nunca vista**: Ha visto muchas veces a Justa enfadada, pero nunca con esa intensidad
+- **Comprensión del heroísmo**: Entiende en un destello que ser superhéroe - más allá de las capas y las chorradas - es sufrir esa intensidad sobrehumana
+- **Cosas enormes, desproporcionadas, imposibles**: La intensidad que anima a hacer grandes errores o grandes hechos, aun a costa de la propia vida
+
+#### **El Momento de Vulnerabilidad**
+
+De repente, Justa pierde la mirada de hielo:
+- *"Al menos tú tienes un padre."*
+- *"No lo entiendes, es mejor no tener padre a tener uno como el mío."*
+- *"No lo sé, ya no estoy segura de nada."*
+
+**Observación de Hotman**:
+- Por unos segundos, su aura de energía y seguridad pétrea desaparece
+- Se pregunta si toda esa fortaleza no es más que una apariencia, un escudo ante los demás pero sobre todo ante sí misma
+- Concluye que somos lo que decidimos ser, y si hay alguien con voluntad férrea, es ella
+
+### La Transformación de la Relación
+
+#### **La Declaración de Justa**
+
+De repente, la Justa de siempre vuelve como un pequeño huracán:
+
+> **"Hot, al principio estaba contigo un poco por probar, un juego, pero creo que esa fase ya ha pasado."**
+
+- Hotman sonríe: *"¿Me vas a dejar?"*
+- *"No, imbécil, todo lo contrario."*
+
+#### **El Momento Más Valiente**
+
+En el momento más valiente de toda su vida, Hotman se acerca esperando besar el hielo de una estatua y encuentra:
+- **Fuego, lava, rabia y energía** precipitada en un sentimiento común como nunca había sentido
+- **Recuerdo del chip**: Recuerda que el dispositivo de su padre quizá accedió a sus recuerdos más preciados con Justa
+- **Decisión de extirpar**: Donde tiene que eliminar a su padre es de su memoria - quemar recuerdos con nuevas vivencias
+
+### El Archivo "Sentencias"
+
+#### **La Investigación Nocturna**
+
+Mucho después, ya en la soledad de su cuarto mientras Hotman duerme en su cama, Justa actúa:
+
+- **Nuevo directorio**: Abre una carpeta llamada "Sentencias" en su portátil
+- **Primera subcarpeta**: Crea "Padre de H"
+- **Investigación activa**: Comienza a llenarla con toda la información que encuentra en la red sobre él
+
+**Significado del Archivo**:
+- **Formalización de la sentencia**: El padre de Hotman está oficialmente en su lista
+- **Método sistemático**: Recopilación de inteligencia para futura acción
+- **Determinación fría**: La rabia se ha transformado en planificación metódica
+- **Justicia personal activa**: No esperará a que el sistema actúe
+
+### Implicaciones para el Personaje
+
+#### **Nueva Faceta de Sentencia**
+- **Cazadora de justicia**: No solo reacciona - planifica activamente
+- **Archivo de objetivos**: Mantiene registro de quienes merecen sentencia
+- **Metodología evolucionada**: De justiciera impulsiva a cazadora paciente
+- **Protectora activa**: Defenderá a Hotman incluso de amenazas que él prefiere ignorar
+
+#### **Evolución de la Relación con Hotman**
+- **Más allá del juego**: Declara abiertamente que la relación es seria
+- **Conflicto de métodos**: Él quiere dejar atrás a su padre; ella quiere destruirlo
+- **Protección unilateral**: Actuará para protegerlo incluso contra sus deseos
+- **Intimidad profundizada**: La vulnerabilidad compartida los une más que la pasión
+
+#### **Vulnerabilidad Revelada**
+- **Ausencia paterna**: Su propia herida por no tener padre emerge
+- **Incertidumbre existencial**: *"Ya no estoy segura de nada"*
+- **Escudo descubierto**: Por primera vez, Hotman ve detrás de su coraza de acero
+- **Humanidad mostrada**: Sentencia también tiene dudas y dolor
+
+### Estado Actual (Diciembre 2025)
+
+**Estado Emocional**:
+- Rabia transformada en resolución fría
+- Sentencia dictada contra el padre de Hotman
+- Investigación activa en curso
+- Vulnerabilidad reconocida pero controlada
+
+**Relación con Hotman**:
+- Declaración de seriedad - ya no es un juego
+- Conflicto latente sobre cómo manejar a su padre
+- Intimidad física y emocional profundizada
+- Protección activa aunque él no la haya pedido
+
+**Archivo "Sentencias"**:
+- Primer objetivo: Padre de Hotman
+- Método: Recopilación de inteligencia
+- Plazo: Indefinido pero inevitable
+- Determinación: Absoluta
+
+**Filosofía Consolidada**:
+> "No se trata de lo que consigues, sino de lo que haces para conseguirlo. La justicia no vendrá de los hombres ni del universo. Debe buscarla ella. Y la encontrará."
+
+---

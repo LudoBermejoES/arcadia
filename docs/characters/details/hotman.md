@@ -1232,3 +1232,148 @@ La Fuerza Oculta llevó a Hotman al taller de **El Cacharrero** en **Metalurgia 
 > "Mi padre prefiere un hijo controlable a uno libre. Pero yo ya elegí mi familia, y ellos arriesgaron todo para mantenerme libre. Eso es más de lo que jamás me dio mi sangre."
 
 ---
+
+## 💔 La Noche del Perdón: Conversación con Justa (Diciembre 2025)
+
+### El Encuentro en el Baño de Medianoche
+
+Tras los eventos de la Sesión 42, Hotman no puede dormir. Escucha a Justa golpeando el saco en el gimnasio de la base y se levanta en su pijama amarillo para buscarla.
+
+#### **El Diálogo Íntimo**
+
+Encuentra a Justa secándose tras una larga ducha caliente:
+
+- *"Tú tampoco podías dormir, Hot."*
+- *"Yo sí, pero te he oído en el gimnasio."*
+
+Tras minutos de silencio, Justa lo mira de cerca con una intensidad de hielo en sus ojos azules:
+
+> **"Lo voy a matar. No sé cuándo ni cómo, pero está sentenciado."**
+
+### La Revelación sobre el Encuentro Previo
+
+#### **La Verdad sobre el Centro Comercial**
+
+Hotman decide contarle la verdad sobre su último encuentro con su padre:
+
+- *"¿Cuándo lo has visto?"*
+- *"Aquel día que fui tarde al centro comercial."*
+- **El resultado**: *"Él no salió muy bien parado."*
+
+#### **Interpretación del Ataque de Cazacapas**
+
+Hotman analiza con claridad sorprendente:
+
+> **"Esta ha sido la respuesta de un hombre jodido: no me ha podido dominar y eso le ha vuelto peligroso. Quizá sea la primera vez en su vida que alguien no hace lo que él quiere."**
+
+### La Filosofía del Perdón
+
+#### **La Decisión de Dejar Atrás**
+
+Por primera vez, Hotman sonríe y toma las manos de Justa:
+
+> **"Estoy cansado de odiarle, cansado de que sea motivo de mi rabia y de mis pesadillas. Quiero dejarle atrás. Es suficiente castigo que me vea por ahí como la viva imagen de su fracaso - no como padre, eso nunca ha sabido serlo, sino como jefe de la saga familiar que él hubiera deseado."**
+
+**Elementos de la Filosofía**:
+- **Agotamiento del odio**: El odio constante lo ha drenado emocionalmente
+- **Inversión del castigo**: Su existencia libre ES el castigo para su padre
+- **Redefinición del fracaso paterno**: No fracasó como padre (nunca lo intentó) sino como patriarca de una saga
+- **Victoria silenciosa**: Vivir bien es la mejor venganza
+
+#### **Comprensión de la Intensidad Heroica**
+
+Al mirar a los ojos de Justa - más intensos que nunca - Hotman tiene una revelación:
+
+- **Dificultad de sostener la mirada**: Ha visto a Justa enfadada muchas veces, pero nunca con esa intensidad
+- **Revelación sobre el heroísmo**: Entiende que ser superhéroe - más allá de las capas y las chorradas - es sufrir esa intensidad sobrehumana
+- **Naturaleza del heroísmo**: La intensidad que anima a hacer cosas enormes, desproporcionadas, imposibles, grandes errores o grandes hechos, aun a costa de la propia vida
+
+### El Momento de Vulnerabilidad Compartida
+
+#### **La Herida de Justa Revelada**
+
+De repente, Justa pierde la mirada de hielo:
+
+- *"Al menos tú tienes un padre."*
+- *"No lo entiendes, es mejor no tener padre a tener uno como el mío."*
+- *"No lo sé, ya no estoy segura de nada."*
+
+**Observaciones de Hotman**:
+- Por unos segundos, su aura de energía y seguridad pétrea desaparece
+- Se pregunta si toda esa fortaleza no es más que una apariencia
+- Un escudo ante los demás pero sobre todo ante sí misma
+- Concluye: *"Somos lo que decidimos ser, y si hay alguien con voluntad férrea, es ella"*
+
+### La Transformación de la Relación
+
+#### **La Declaración de Justa**
+
+De repente, la Justa de siempre vuelve como un pequeño huracán:
+
+> **"Hot, al principio estaba contigo un poco por probar, un juego, pero creo que esa fase ya ha pasado."**
+
+- Hotman sonríe: *"¿Me vas a dejar?"*
+- *"No, imbécil, todo lo contrario."*
+
+#### **El Momento Más Valiente de su Vida**
+
+Hotman se acerca esperando besar el hielo de una estatua y encuentra fuego, lava, rabia y energía precipitada en un sentimiento común como nunca había experimentado.
+
+**Pensamientos Durante el Momento**:
+- **El recuerdo del chip**: Recuerda que el dispositivo de su padre quizá accedió a sus recuerdos más preciados - el sexo, pero también los momentos de complicidad, las risas, el mirarse y sonreír como idiotas
+- **Sensación de espionaje**: No puede evitar la sensación de que su padre está ahí, espiándole insidiosamente
+- **Decisión crucial**: Donde tiene que extirpar a su padre es de su memoria
+- **Método elegido**: Quemar sus recuerdos con nuevas vivencias
+
+### La Resolución Personal
+
+#### **Filosofía Consolidada sobre su Padre**
+
+Hotman alcanza una paz interior que no había conocido:
+
+- **Existencia física irrelevante**: La presencia real de su padre ya no importa
+- **Mejor vivo que muerto**: Como dijo, es mejor que siga vivo viéndolo triunfar
+- **Extirpación mental**: Donde debe eliminarlo es de su memoria y sus pesadillas
+- **Creación de nuevos recuerdos**: Con Justa, puede sobrescribir el dolor con intensidad positiva
+
+### Implicaciones para el Personaje
+
+#### **Evolución Emocional Significativa**
+
+- **Del odio al agotamiento**: Ya no quiere gastar energía en odiar a su padre
+- **Redefinición de la victoria**: Vivir libre y feliz ES derrotar a su padre
+- **Aceptación del daño**: Reconoce que el chip pudo violar su intimidad, pero no lo destruirá
+- **Elección activa de felicidad**: Decide crear nuevos recuerdos en lugar de lamentar los violados
+
+#### **Profundización de la Relación con Justa**
+
+- **Declaración recibida**: Ella ya no está "probando" - esto es serio
+- **Conflicto latente**: Ella quiere matar a su padre; él quiere olvidarlo
+- **Respeto mutuo**: Entiende su intensidad aunque no comparta su método
+- **Intimidad profundizada**: La vulnerabilidad compartida los une más que la pasión
+
+#### **Comprensión del Heroísmo**
+
+- **Más allá de las capas**: Entiende que el heroísmo es intensidad sobrehumana
+- **Cosas imposibles**: Los héroes hacen cosas desproporcionadas, grandes errores o grandes hechos
+- **Costo personal**: Incluso a costa de la propia vida
+- **Naturaleza dual**: La misma intensidad que crea héroes puede destruirlos
+
+### Estado Actual (Diciembre 2025)
+
+**Estado Emocional**:
+- Agotamiento del odio hacia su padre
+- Paz interior encontrada a través de la redefinición
+- Aceptación de la violación de privacidad sin destrucción
+- Determinación de crear nuevos recuerdos positivos
+
+**Relación con Justa**:
+- Declaración formal de seriedad recibida
+- Consciente del conflicto sobre el destino de su padre
+- Intimidad física y emocional en nuevo nivel
+- Comprensión de su vulnerabilidad oculta
+
+**Filosofía Personal**:
+> "Mi padre quiso controlarme con un chip, pero no puede controlar lo que elijo recordar. Cada nuevo momento con Justa borra un viejo recuerdo contaminado. Él creyó que me espiaba, pero lo que realmente hizo fue mostrarme lo que tengo que proteger."
+
+---

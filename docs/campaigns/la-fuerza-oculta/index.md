@@ -108,24 +108,19 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[23 Septiembre](manual-notes/session-33-2024-09-23.md)**: Entrenamiento con Mésmero, Sentencia entrega prótesis a Les Enfant
 - **[28 Septiembre](manual-notes/session-33-2024-09-28.md)**: Fuga de hospital, encuentro con Mambo y Zambo
 
-### 🏎️ **Fase VIII: Revelaciones Dimensionales y Ataques Coordinados (Octubre-Noviembre 2025)**
-- **[12 Octubre](ai-notes/2025-10-12-gemini-notes.md)**: Robo del Bugatti del Sombrío, carrera ilegal por puentes
-- **[2 Noviembre](ai-notes/2025-11-02-gemini-notes.md)**: Puente de Moebius, revelación de origen de Pantomima (Sombrío/Caos)
+### 🕵️ **Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)**
+- **[5 Octubre](ai-notes-summary/2025-10-05-gemini-notes.md)**: Incidente de discriminación en pizzería, video viral de Hotman con Mambo y Zambo, investigación para contactar a Cacharrero, decisión de participar en carreras ilegales
+- **[12 Octubre](manual-notes/session-36-2024-10-12.md)** / **[AI](ai-notes/2025-10-12-gemini-notes.md)**: Feria de coches clásicos, descubrimiento del Bugatti Sombrío de titanio, robo audaz, carrera ilegal por los puentes de Arcadia
+
+### 🌀 **Fase IX: Dimensiones, Revelaciones y Fiesta en Isla Sal (Noviembre 2025)**
+- **[2 Noviembre](ai-notes/2025-11-02-gemini-notes.md)** / **[Manual](manual-notes/session-37-2025-11-02.md)**: Durante carrera ilegal, Bugatti accede al Puente de Moebius (bolsillo dimensional), revelación del linaje de Pantomima (hija de Caos, nieta de Sombrío), Pinky revelado como proyección mental, adopción del nombre "Pantomima"
 - **[2 Noviembre](manual-notes/session-38-2025-11-02.md)**: Fiesta de Eneiros en Isla Sal, ofrecimiento de pupilaje a Hotman
-- **[16 Noviembre](ai-notes/2025-11-16-gemini-notes.md)** / **[Manual](manual-notes/session-40-2025-11-16.md)**: Ataque mercenario, Diana y Pantomima pierden poderes
-- **[23 Noviembre](ai-notes/2025-11-23-gemini-motes.md)**: Contacto con La Cacería Salvaje, misión al Barrio Gótico
+
+### ⚔️ **Fase X: Ataques Coordinados y Crisis Personal (Noviembre-Diciembre 2025)**
+- **[16 Noviembre](ai-notes/2025-11-16-gemini-notes.md)** / **[Manual](manual-notes/session-40-2025-11-16.md)**: Ataque de Cazacapas en Isla Sal, Diana y Pantomima pierden poderes por dardos supresores, defensa coordinada del equipo
+- **[23 Noviembre](ai-notes/2025-11-23-gemini-motes.md)**: Contacto con La Cacería Salvaje, misión encargada para investigar "Padre Bestia" en el Barrio Gótico
 - **[30 Noviembre](ai-notes/2025-11-30-gemini-notes.md)**: Combate con mercenarios, negociación de Sentencia
-- **[8 Septiembre](ai-notes-summary/2025-09-08-gemini-notes.md)**: Crisis financiera, análisis mediático, primera visita al teatro abandonado de Espectro
-- **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Equipamiento no letal con Espectro, encuentro con Mentallo, rechazo de Psique a la jeringuilla del poder, planificación de mentores
-- **[21 Septiembre](manual-notes/session-33-2024-09-23.md)**: Invitación de Eneiros, entrenamiento brutal de Psique con Mésmero, infiltración hospitalaria de Sentencia, entrega secreta de prótesis a Les Enfant heridos
-- **[28 Septiembre](manual-notes/session-33-2024-09-28.md)**: Fuga caótica del hospital, confrontación con Metacorps, ilusión de embarazada terminal, repercusiones mediáticas, encuentro casual con Mambo y Zambo en restaurante
-
-### 🕵️ **Fase VII: Investigación y Carreras (Octubre 2025)**
-- **[5 Octubre](ai-notes-summary/2025-10-05-gemini-notes.md)**: Incidente de discriminación en pizzería, video viral de Hotman con Mambo y Zambo, investigación para contactar a Cacharrero, tres opciones descubiertas (piedra lunar, Bastón del Faraón, carreras ilegales), decisión de participar en carreras ilegales
-- **[12 Octubre](manual-notes/session-33-2024-10-12.md)**: Feria de coches clásicos, descubrimiento del Bugatti Sombrío de titanio, fenómeno misterioso con Kayface, autorización de Espectro para probar el coche, robo audaz llevándolo a garaje secreto, Noemí Pesna desactiva rastreadores, silencio inexplicable sobre el robo, carrera ilegal por los puentes de Arcadia, competidores veteranos, Hotman sabotea rival antes de salida
-
-### 🌀 **Fase VIII: Dimensiones y Revelaciones (Noviembre 2025)**
-- **[2 Noviembre](ai-notes-summary/2025-11-02-gemini-notes.md)**: Durante carrera ilegal, Bugatti accede al Puente de Moebius (bolsillo dimensional), revelación traumática del linaje de Kayface: hija de Caos (supervillano 2000-presente) y nieta de Sombrío (héroe legendario 1960-1984), Pinky revelado como proyección mental almacenada dimensionalmente, adopción oficial del nombre "Pantomima", Bugatti reconoce a Pantomima como heredera legítima de Sombrío, escape dimensional a través de portal acuático, victoria en carrera por defecto, La Fuerza Oculta acepta a Pantomima a pesar de su padre villano
+- **[7 Diciembre](ai-notes/2025-12-07-gemini-notes.md)** / **[Manual](manual-notes/session-42-2025-12-07.md)**: Chip implantado en Hotman por atacante invisible, mensaje holográfico del padre repudiándolo, Eneiros crea collar de oro bloqueador, El Cacharrero extrae el chip en Metalurgia Rashid, Eneiros rechaza ser padrino de Hotman
 
 ---
 
@@ -180,12 +175,12 @@ Mezcla elementos de:
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">1.5</span>
+<span class="stat-number">~2</span>
 <span class="stat-label">Años Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">37</span>
+<span class="stat-number">42+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -195,7 +190,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">53+</span>
+<span class="stat-number">60+</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>
@@ -240,15 +235,16 @@ Mezcla elementos de:
 
 ---
 
-## 🔮 Estado Actual
+## 🔮 Estado Actual (Diciembre 2025)
 
-**La Fuerza Oculta** continúa activa, navegando las complejidades de ser héroes en un mundo que ha perdido la inocencia. Cada sesión añade nuevas capas a un universo que ha crecido orgánicamente durante 15 años.
+**La Fuerza Oculta** continúa activa tras sobrevivir a ataques coordinados de Cazacapas y una crisis personal de Hotman con su padre. Han establecido alianzas formales con La Cacería Salvaje y cuentan con el apoyo técnico de El Cacharrero. Cada sesión añade nuevas capas a un universo que ha crecido orgánicamente durante 15 años.
 
-### 🎯 **Próximos Arcos Narrativos**
-- Resolución de la amenaza de La Farándula
-- Desarrollo de la relación con la entidad misteriosa
-- Evolución de las dinámicas románticas del grupo
-- Conexiones más profundas con las campañas anteriores
+### 🎯 **Arcos Narrativos Activos**
+- **Investigación "Padre Bestia"**: Misión encargada por La Cacería Salvaje en el Barrio Gótico
+- **Amenaza Cazacapas**: Grupo mercenario antimeta que ha identificado al equipo como objetivo
+- **Crisis familiar de Hotman**: Su padre lo ha repudiado y parece tener conexiones peligrosas
+- **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
+- **Visita al padrino de Diana**: Encuentro programado con Mulciber (Fatum)
 
 ---
 

@@ -120,7 +120,7 @@ Hotman controla las temperaturas con precisión, desde congelar hasta incinerar.
 Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo dinámicas de equipo mientras aprenden a coordinar sus poderes únicos.
 
 ### **Operaciones Activas (Junio 2024-Presente)**
-- **37+ sesiones documentadas** (24 manuales + 17 transcripciones AI)
+- **42+ sesiones documentadas** (39 manuales + 22 transcripciones AI)
 - Encuentros con organizaciones criminales (La Farándula, Fatum Corporation)
 - Descubrimiento de la meta-narrativa: juegan "Héroes o Villanos"
 - Encuentros con veteranos de generaciones anteriores
@@ -131,6 +131,22 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - Acceso al Puente de Moebius y recursos masivos
 - Verdad sobre Pinky (proyección mental)
 - Herencia del Bugatti dimensional
+
+### **Ataque de Cazacapas (Noviembre 2025)**
+**Sesión 40 - Isla Sal:**
+- Ataque mercenario coordinado durante fiesta en mansión de [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
+- Diana y Pantomima pierden temporalmente sus poderes por dardos supresores
+- [Cazacapas]({{ site.baseurl }}/organizations/cazacapas/) identificados: grupo paramilitar antimeta
+- El equipo protege a sus compañeras vulnerables durante el combate
+
+### **Crisis de Hotman (Diciembre 2025)**
+**Sesiones 41-42:**
+- Chip implantado en el cuello de Hotman por atacante invisible
+- Mensaje holográfico: su padre lo repudia públicamente
+- [Eneiros]({{ site.baseurl }}/characters/details/eneiros/) crea collar de oro para bloquear comunicaciones del chip
+- Eneiros rechaza ser padrino de Hotman por motivos de seguridad
+- [El Cacharrero]({{ site.baseurl }}/characters/details/el-cacharrero/) extrae el chip en Metalurgia Rashid
+- Alianza fortalecida con [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/) para investigar "Padre Bestia"
 
 ---
 
@@ -146,6 +162,8 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - **El Descubrimiento del Juego**: Encuentran gente jugando a "Héroes o Villanos" con sus identidades
 - **El Puente de Moebius**: Pantomima accede al refugio dimensional de su familia
 - **Encuentros Generacionales**: Interacciones con Mésmero, El Faraón y otros veteranos
+- **Defensa de Isla Sal**: Protección coordinada de compañeras sin poderes durante ataque Cazacapas
+- **Alianza con La Cacería Salvaje**: Eslizón establece contacto formal con los cinco hermanos felinos
 
 ---
 
@@ -186,6 +204,8 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 - **La Farándula**: Villanos teatrales del Siglo de Oro
 - **Fatum Corporation**: Amenaza corporativa multigeneracional
 - **Humanitas**: Partido político antimeta
+- **[Cazacapas]({{ site.baseurl }}/organizations/cazacapas/)**: Grupo paramilitar mercenario antimeta
+- **Padre de Hotman**: Antagonista personal tras repudio público
 
 ---
 
@@ -198,12 +218,12 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 </div>
 
 <div class="stat-card">
-<span class="stat-number">37+</span>
+<span class="stat-number">42+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~21</span>
+<span class="stat-number">~22</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
@@ -215,15 +235,22 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 
 ---
 
-## 🔮 **Estado Actual (Noviembre 2025)**
+## 🔮 **Estado Actual (Diciembre 2025)**
 
-La Fuerza Oculta continúa operando activamente en Arcadia, enfrentando amenazas cada vez más complejas mientras procesan revelaciones personales profundas. La reciente revelación del linaje de Pantomima ha abierto nuevas preguntas sobre conexiones familiares dentro del mundo heroico y villano.
+La Fuerza Oculta continúa operando activamente en Arcadia tras sobrevivir a múltiples ataques coordinados. El reciente ataque de Cazacapas en Isla Sal demostró tanto su vulnerabilidad como su capacidad de protegerse mutuamente. La crisis personal de Hotman con su padre ha fortalecido los lazos del equipo.
 
 ### **Desafíos Actuales**
-- Procesar la revelación del linaje de Pantomima
-- Navegar la pérdida de privacidad por meta-narrativa
-- Establecer identidad propia más allá de las sombras de La Familia
-- Definir qué significa ser héroe en una era de ambigüedad moral
+- **Amenaza Cazacapas**: Grupo mercenario antimeta que los ha identificado como objetivos
+- **Investigación "Padre Bestia"**: Misión encargada por La Cacería Salvaje en el Barrio Gótico
+- **Familia de Hotman**: El padre de Hotman lo ha repudiado públicamente y parece tener conexiones peligrosas
+- **Recuperación post-chip**: Hotman procesando la extracción del chip y el rechazo de Eneiros como padrino
+- **Integración del linaje de Pantomima**: Continuar procesando su herencia Sombrío/Caos
+- **Búsqueda de mentores**: Cada miembro busca guía en veteranos (Mésmero, Eneiros, Espectro, etc.)
+
+### **Alianzas Recientes**
+- **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Alianza formal para investigar amenazas en el Barrio Gótico
+- **[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Apoyo tecnológico y refugio, aunque rechazó el patronazgo formal
+- **[El Cacharrero]({{ site.baseurl }}/characters/details/el-cacharrero/)**: Servicio de extracción del chip, posible contacto técnico futuro
 
 ---
 
@@ -259,6 +286,6 @@ Esta combinación les permite abordar amenazas desde múltiples ángulos simult�
 
 ---
 
-*La Fuerza Oculta representa la evolución del heroísmo de Arcadia: consciente de su legado, crítico de sus métodos, y navegando un mundo donde la línea entre héroe y entretenimiento se ha difuminado. Son los herederos que deben definir qué significa ser héroe cuando el mundo te observa, te juzga, y juega a ser tú.*
+*La Fuerza Oculta representa la evolución del heroísmo de Arcadia: consciente de su legado, crítico de sus métodos, y navegando un mundo donde la línea entre héroe y entretenimiento se ha difuminado. Son los herederos que deben definir qué significa ser héroe cuando el mundo te observa, te juzga, y juega a ser tú. En diciembre de 2025, han demostrado que pueden protegerse mutuamente ante ataques coordinados y están forjando alianzas con la siguiente generación de vigilantes como La Cacería Salvaje.*
 
 **[🚀 Explorar la Campaña Completa →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)**

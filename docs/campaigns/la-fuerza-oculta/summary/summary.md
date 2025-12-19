@@ -1219,6 +1219,132 @@ Tras la bendición y protección, el grupo regresa con Nacho descubriendo que ca
 
 ---
 
+### Sesión 42: Resolución del Ataque y el Chip de Control (7 diciembre 2025)
+
+**Culminación del asalto mercenario:**
+
+La sesión del 7 de diciembre resuelve el ataque de los Cazacapas a la mansión de Eneiros, revelando un complot familiar contra Hotman y la existencia de tecnología de control metahumano de origen corporativo.
+
+**Pérdida de poderes y destello táctico:**
+
+- **Pantomima anuncia**: *"No puedo hacer ilusiones, he perdido mis poderes"*
+- **Hotman improvisa**: Crea destello haciendo arder bombillas de magnesio para cegar a los atacantes con gafas de visión nocturna
+- **Maniobra coordinada**: *"Cerrad los ojos"* - Hotman y Sentencia entran en la casa tras el destello
+
+**El disparo del chip:**
+
+En el interior de la casa, un atacante invisible se materializa junto a Hotman:
+- Pistola tecnológicamente avanzada en la cabeza de Hotman
+- *"No te muevas"*
+- **Disparo en la nuca**: Le clavan un chip directamente en la médula espinal
+- **Justa estalla de rabia**: Transmitida por el enlace telepático mientras Hotman grita de dolor
+
+**Combate final y retirada negociada:**
+
+- **Diana** intenta razonar con el tanque que carga al herido: *"Va a ser muy difícil salir de ahí cargando al herido"*
+- **Respuesta pragmática**: *"Nos retiraremos"*
+- **Sique ataca mentalmente** al hombre que les anulaba los poderes
+- **Justa dispara** al atacante invisible sin éxito
+- Los mercenarios comienzan **retirada organizada**: *"Retirada, mensaje enviado"*
+
+**El mensaje del padre de Hotman:**
+
+Al intentar quemar el chip, Hotman activa una grabación holográfica:
+
+- **Voz del padre**: *"Eres tan imbécil como esperaba, hijo"*
+- **Proyección 3D**: Superpuesta a la visión de Hotman
+- **Todo el grupo lo escucha** a través del enlace telepático
+- **Contenido del mensaje**: *"Aprovecho esta oportunidad para decirte que ya no tienes que preocuparte. No podrás acceder al dinero familiar, a ninguna de nuestras posiciones, estás solo. Nadie te contratará en la ciudad. Todos los posibles interesados en patrocinarte recibirán una carta. Ya no eres mi hijo."*
+- **Reacción de Justa**: *"Qué hijo de puta"*
+
+**Intervención de Eneiros:**
+
+- **Rescate dorado**: Eneiros crea puente de oro para evacuarles por los cielos
+- **Cúpula protectora**: Crea escudo dorado contra posibles ataques aéreos
+- **Collar inhibidor**: Crea un **torque de oro** alrededor del cuello de Hotman para bloquear las comunicaciones del chip durante 2-3 días
+- **Coste físico**: Eneiros pierde varios kilos al crear oro permanente, se ve más frágil
+- **Rechazo del pupilaje**: Eneiros comunica a través de su mayordomo que debe rechazar ser patrón de Hotman ya que no puede garantizar su seguridad tras lo ocurrido
+
+**Reacciones del grupo:**
+
+- **Justa muy cabreada**: Pregunta a Hotman dónde vive su padre para "hacerle una visitita"
+- **Psique consuela a Diana**: Le da un beso y le dice *"Nunca he estado tan orgullosa de ti"*
+- **Hotman se lleva a Justa a la galería de tiro**: Después de varios cargadores, se calma
+- **Justa se bebe un litro de leche**: Ante la pregunta de si quiere hablar, dice *"No, quiero disparar"*
+
+**Identificación del enemigo:**
+
+El grupo deduce que los atacantes son los **Cazacapas**:
+- Grupo mercenario paramilitar ilegal
+- Especializados en enfrentar metahumanos
+- Sin poderes propios, compensan con tecnología avanzada
+- No respetan convenciones como Espectro
+- Matan a quien sea si son contratados
+
+**La visita a Cacharrero:**
+
+Al día siguiente, cita en **Metalurgia Rashid** (siderúrgica abandonada en distrito portuario):
+
+**El encuentro:**
+- Siderúrgica llena de luces y coches a pesar de estar "abandonada"
+- Teléfono con códigos hexadecimales en vez de números
+- Voz en el teléfono: *"Mira niña, no me jodas, entrad de una puta vez"*
+- **Cacharrero aparece flotando** sobre metal fundido con turbina a reacción
+- Aspecto: "Enano" tecnológico, le saca dos cabezas a Hotman
+
+**Interacción con el grupo:**
+- A Hotman: *"¿Tu eres Ardorin?"* *"Me estás tocando las pelotas muchacho, agáchate"*
+- A Justa: *"¿Puedes disparar con esas pistolas con esas muñecas, preciosa?"*
+- Justa demuestra su puntería destruyendo un adorno lejano - Cacharrero ni se inmuta
+- Derrite el collar de oro de Eneiros con facilidad
+- Regala a Hotman **gafas doradas chulescas** que se gradúan a su vista
+
+**Extracción del chip:**
+
+- **Cacharrero guía a Eslizón**: Le da instrucciones precisas y herramientas para la operación
+- **Proceso exitoso**: Eslizón extrae el chip de la nuca de Hotman
+- **Análisis del dispositivo**: El chip servía para **anular los poderes de Hotman a voluntad**
+- **Origen tecnológico**: *"Es genérico, tecnología de una empresa armamentística del gobierno o bancos. Alguien con mucha mano en esa industria."*
+- **Mensaje final**: *"Decidle a Eneiros que ya he cumplido el contrato."*
+
+**Implicaciones:**
+
+1. **El padre de Hotman** orquestó toda la operación de los Cazacapas
+2. **Control familiar**: El chip permitía anular los poderes de su hijo a voluntad
+3. **Desheredación total**: Hotman ha sido cortado de todo recurso familiar
+4. **Tecnología corporativa**: Los chips de control están disponibles para quienes tengan dinero y conexiones
+5. **Alianza Eneiros-Cacharrero**: Existe colaboración entre el meta-humano dorado y el genio tecnológico
+
+**Nuevos personajes introducidos:**
+
+**Cacharrero:**
+- Genio tecnológico de estatura baja
+- Personalidad abrasiva y directa
+- Vuela con turbina a reacción personal
+- Capaz de derretir oro mágico con facilidad
+- Conocimientos médicos y tecnológicos avanzados
+- Padre de Sara10/Mecánica (Cacharrina)
+- Fanático de carreras de vehículos especiales
+
+**Temas desarrollados:**
+
+**Traición familiar:**
+- El padre de Hotman representa la máxima traición posible
+- Usó mercenarios para implantar un dispositivo de control en su propio hijo
+- Desheredación pública como castigo por independencia
+
+**Familia elegida vs. familia de sangre:**
+- Reacción del grupo ante el mensaje demuestra vínculos más fuertes que lazos sanguíneos
+- Justa lista para venganza física contra el padre de su compañero
+- El grupo funciona como familia protectora
+
+**Tecnología vs. poderes:**
+- Los chips de control representan la respuesta corporativa a los metahumanos
+- El dinero puede comprar formas de neutralizar superpoderes
+- Cacharrero representa el equilibrio: tecnología al servicio de quienes la necesitan
+
+---
+
 ## Temas Centrales y Evolución de Personajes
 
 ### Justicia vs. Legalidad

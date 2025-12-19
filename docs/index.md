@@ -142,7 +142,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">90+</span>
+<span class="stat-number">92+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -247,6 +247,6 @@ Cada página que explores, cada personaje que conozcas, cada historia que leas, 
 
 ---
 
-*Última actualización: 7 de diciembre de 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
+*Última actualización: 19 de diciembre de 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
 
 **[🔍 Buscar Contenido]({{ site.baseurl }}/search/) | [📖 Historial de Cambios]({{ site.baseurl }}/historial/) | [📊 Estadísticas Completas]({{ site.baseurl }}/stats/)**

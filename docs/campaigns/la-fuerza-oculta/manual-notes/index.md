@@ -241,19 +241,35 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Los mercenarios se retiran sin llevarse a Hotman
   - **Diana y Pantomima pierden sus poderes misteriosamente**
 
+#### **Diciembre 2025 - Resolución del Ataque y Cacharrero**
+- **[Sesión 42 - 7 Diciembre 2025](session-42-2025-12-07.md)** - *"Resolución del Ataque y el Chip de Control"*
+  - Pantomima anuncia pérdida de poderes: "No puedo hacer ilusiones"
+  - Hotman crea destello con bombillas de magnesio para cegar atacantes
+  - Un atacante invisible le dispara un chip en la nuca a Hotman
+  - Mensaje del padre de Hotman: "Eres tan imbécil como esperaba, hijo"
+  - **Desheredación total**: El padre de Hotman lo corta de todo recurso familiar
+  - Justa estalla de rabia, todo el grupo lo escucha por enlace telepático
+  - Identificación de los Cazacapas como los mercenarios atacantes
+  - Eneiros rescata al grupo con puente de oro y crea collar inhibidor
+  - Eneiros rechaza ser patrón de Hotman por no poder garantizar su seguridad
+  - Al día siguiente: Visita a Cacharrero en Metalurgia Rashid
+  - **Cacharrero extrae el chip** de la nuca de Hotman con ayuda de Eslizón
+  - Revelación: El chip servía para anular los poderes de Hotman a voluntad
+  - Tecnología de origen corporativo: "empresa armamentística del gobierno o bancos"
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 37 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Noviembre 2025 (20 meses)
-- **Páginas Estimadas**: ~555 páginas de notas detalladas
-- **Horas de Juego**: ~111 horas registradas
+- **Total de Sesiones**: 38 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Diciembre 2025 (21 meses)
+- **Páginas Estimadas**: ~570 páginas de notas detalladas
+- **Horas de Juego**: ~114 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (46% del total)
-- **Fase Héroes Independientes (2025)**: 20 sesiones (54% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (45% del total)
+- **Fase Héroes Independientes (2025)**: 21 sesiones (55% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

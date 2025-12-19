@@ -294,14 +294,37 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+### ❄️ **Diciembre 2025 - Resolución y Tecnología**
+
+#### [📼 2025-12-07 - Resolución del Ataque y el Chip de Control](2025-12-07-gemini-notes.md)
+**"El Mensaje del Padre y la Extracción del Chip"**
+- 💡 **Destello Táctico**: Hotman crea destello con bombillas de magnesio para cegar atacantes
+- 🔫 **Chip Implantado**: Atacante invisible dispara chip en la nuca de Hotman
+- 📨 **Mensaje Devastador**: Voz del padre: "Eres tan imbécil como esperaba, hijo"
+- 💔 **Desheredación Total**: "Ya no eres mi hijo, no accederás a ningún recurso familiar"
+- 😡 **Rabia de Justa**: "¿Dónde vive tu padre? Voy a hacerle una visitita"
+- 🎖️ **Identificación Cazacapas**: El grupo deduce que los atacantes son los mercenarios de élite
+- 🛡️ **Rescate de Eneiros**: Puente de oro y collar inhibidor temporal para Hotman
+- ❌ **Rechazo del Pupilaje**: Eneiros no puede garantizar seguridad de Hotman tras el ataque
+- 🏭 **Metalurgia Rashid**: Visita a Cacharrero en siderúrgica "abandonada" del distrito portuario
+- 🤏 **Cacharrero**: Genio tecnológico "enano" que vuela con turbina a reacción
+- 👓 **Regalo**: Gafas doradas que se gradúan automáticamente para Hotman
+- 🔧 **Extracción del Chip**: Eslizón, guiada por Cacharrero, extrae el chip de la nuca
+- ⚠️ **Revelación Técnica**: El chip permitía anular los poderes de Hotman a voluntad
+- 🏢 **Origen Corporativo**: "Tecnología de empresa armamentística del gobierno o bancos"
+
+**Duración**: ~3 horas | **Palabras**: ~18,500 | **Páginas**: ~48
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 20 sesiones completas
-- **Período Cubierto**: Junio-Noviembre 2025 (6 meses intensivos)
-- **Palabras Totales**: ~369,000 palabras transcritas
-- **Páginas Equivalentes**: ~943 páginas de contenido
-- **Horas de Audio**: ~60 horas de partidas registradas
+- **Total de Transcripciones**: 21 sesiones completas
+- **Período Cubierto**: Junio-Diciembre 2025 (7 meses intensivos)
+- **Palabras Totales**: ~387,500 palabras transcritas
+- **Páginas Equivalentes**: ~991 páginas de contenido
+- **Horas de Audio**: ~63 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**
@@ -311,6 +334,7 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 - **Septiembre 2025**: Continuidad de calidad con escenas complejas del Barrio Gótico
 - **Octubre 2025**: Precisión mantenida en escenas de acción con múltiples competidores
 - **Noviembre 2025**: Captura excepcional de revelaciones complejas sobre historia familiar
+- **Diciembre 2025**: Documentación completa de confrontación familiar y tecnología metahumana
 
 ### 🎭 **Cobertura Narrativa**
 - **Diálogos de Personajes**: 100% capturados con interpretación

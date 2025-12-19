@@ -12,6 +12,75 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ## 📅 **Diciembre 2025**
 
+### **19 de Diciembre de 2025**
+
+#### **📝 Documentación de Sesión 42 (jugada el 7 de diciembre)**
+- **Sesión documentada** - Resolución completa del arco de Isla Sal:
+  - **Notas manuales**: session-42-2025-12-07.md con eventos detallados
+  - **Transcripción AI**: 2025-12-07-gemini-notes.md procesada por Gemini
+  - **Resumen en summary.md**: ~130 líneas de análisis narrativo completo
+  - **Fecha de la sesión**: 7 de diciembre 2025
+
+#### **💔 Eventos Narrativos Principales**
+- **El Mensaje del Padre de Hotman**:
+  - Chip implantado en la nuca de Hotman por atacante invisible
+  - Grabación holográfica: *"Eres tan imbécil como esperaba, hijo"*
+  - Desheredación total: *"Ya no eres mi hijo, no podrás acceder al dinero familiar"*
+  - Todo el grupo lo escucha por el enlace telepático de Psique
+  - Justa estalla de rabia: *"¿Dónde vive tu padre? Voy a hacerle una visitita"*
+
+- **Identificación de los Cazacapas**:
+  - Grupo mercenario paramilitar confirmado como atacantes
+  - Especializados en enfrentar metahumanos sin usar poderes propios
+  - Tecnología avanzada: inhibidores de poderes, escudos mentales, armamento adaptativo
+
+- **Intervención de Eneiros**:
+  - Rescate del grupo con puente de oro por los cielos
+  - Collar inhibidor de comunicaciones para Hotman (2-3 días de protección)
+  - Coste físico: Eneiros pierde kilos al crear oro permanente
+  - Rechaza ser patrón de Hotman por no poder garantizar su seguridad
+
+- **Encuentro con Cacharrero**:
+  - Visita a Metalurgia Rashid (siderúrgica abandonada)
+  - Cacharrero: genio tecnológico de estatura baja que vuela con turbina
+  - Eslizón extrae el chip guiada por Cacharrero
+  - Revelación: El chip permitía anular poderes de Hotman a voluntad
+  - Origen: *"Tecnología de empresa armamentística del gobierno o bancos"*
+
+#### **📊 Actualizaciones de Índices y Estadísticas**
+- **summary/summary.md**: Añadida sección completa de Sesión 42 (~130 líneas)
+- **manual-notes/index.md**:
+  - Incrementado de 37 a 38 sesiones documentadas
+  - Nueva sección "Diciembre 2025 - Resolución del Ataque y Cacharrero"
+  - Período cubierto: 20 → 21 meses
+  - Páginas estimadas: 555 → 570
+- **ai-notes/index.md**:
+  - Incrementado de 20 a 21 transcripciones AI
+  - Nueva sección "Diciembre 2025 - Resolución y Tecnología"
+  - Palabras totales: 369,000 → 387,500
+  - Páginas equivalentes: 943 → 991
+- **campaigns/index.md**:
+  - Sesiones totales: 90+ → 92+
+  - La Fuerza Oculta: 40 → 42 sesiones
+- **docs/index.md**:
+  - Sesiones documentadas: 90+ → 92+
+  - Fecha de actualización: 7 diciembre → 19 diciembre 2025
+
+#### **🏛️ Reorganización de Cazacapas**
+- **Movido de character-groups.md a index.md**:
+  - Cazacapas NO son grupo de jugadores, son organización mercenaria NPC
+  - Eliminada sección completa de character-groups.md
+  - Añadida sección detallada en groups/index.md (Organizaciones Villanas)
+  - Imagen añadida: caza-capas.png
+
+#### **📈 Estadísticas del Proyecto Actualizadas**
+- **Total sesiones La Fuerza Oculta**: 42 sesiones (38 manuales + 21 AI transcriptions)
+- **Total sesiones proyecto**: 92+ sesiones documentadas
+- **Transcripciones AI**: 21 completas (7 meses de cobertura)
+- **Período cubierto**: Marzo 2024 - Diciembre 2025 (21 meses)
+
+---
+
 ### **7 de Diciembre de 2025**
 
 #### **📝 Actualización Masiva de Sesiones de La Fuerza Oculta**

@@ -665,3 +665,68 @@ Durante el ataque mercenario en la fiesta de **Eneiros** en **Isla Sal** (16 de 
 - Puede manejar múltiples responsabilidades simultáneamente
 
 ---
+
+## 🔧 Cirugía de Emergencia: Extracción del Chip de Hotman (Diciembre 2025)
+
+### El Momento Crítico en Metalurgia Rashid
+
+El 7 de diciembre de 2025, Eslizón demostró una nueva faceta de sus capacidades cuando realizó una **operación quirúrgica de emergencia** para salvar a Hotman de un chip de control implantado por Cazacapas.
+
+#### **Contexto del Ataque**
+- **Víctima**: Hotman fue atacado por mercenarios invisibles de Cazacapas
+- **Chip implantado**: Un dispositivo de control fue disparado en su cuello
+- **Propósito del chip**: Permitía controlar los poderes de Hotman a voluntad
+- **Riesgo**: Hotman podría ser usado como arma contra su propio equipo
+
+#### **El Taller del Cacharrero**
+La Fuerza Oculta llevó a Hotman a **Metalurgia Rashid**, el taller de **El Cacharrero**:
+
+- **Diagnóstico técnico**: El Cacharrero identificó el chip y explicó sus capacidades
+- **Evaluación del riesgo**: El chip tenía protocolos de seguridad que podían causar daño si se removía incorrectamente
+- **Guía especializada**: El Cacharrero proporcionó instrucciones precisas para la extracción segura
+- **Confianza en Eslizón**: El equipo confió en las habilidades de precisión de Esme para la operación
+
+#### **La Extracción Quirúrgica**
+- **Cirujano improvisado**: Eslizón asumió el rol de cirujano sin entrenamiento formal
+- **Precisión reptiliana**: Utilizó sus habilidades de manipulación fina para operar
+- **Concentración extrema**: Mantuvo pulso firme mientras extraía el dispositivo del cuello de Hotman
+- **Éxito completo**: El chip fue removido sin activar sus protocolos de seguridad
+
+### Implicaciones para el Personaje
+
+#### **Nueva Capacidad Demostrada**
+- **Habilidad quirúrgica**: Puede realizar operaciones delicadas bajo presión
+- **Control fino**: Su naturaleza reptiliana incluye precisión de manipulación excepcional
+- **Nervios de acero**: Mantiene calma durante procedimientos de alto riesgo
+- **Versatilidad extrema**: Añade "cirujano de emergencia" a sus múltiples roles
+
+#### **Vínculo Profundizado con Hotman**
+- **Confianza absoluta**: Hotman permitió que Eslizón operara en su cuello
+- **Deuda de vida**: Eslizón salvó a Hotman de ser controlado por su padre
+- **Hermandad forjada**: El acto crea un lazo más allá de simple camaradería
+- **Responsabilidad compartida**: Ambos comprenden que dependen del otro
+
+#### **Evolución del Rol en el Equipo**
+- **De explorador a cirujano**: Continúa expandiendo sus capacidades
+- **Especialista en rescate**: Ahora incluye rescate médico además de físico
+- **Confiabilidad total**: El equipo sabe que puede confiar en él para cualquier emergencia
+- **Liderazgo silencioso**: Asume responsabilidades críticas sin fanfarria
+
+### Estado Actual (Diciembre 2025)
+
+**Capacidades Confirmadas**:
+- Extracción quirúrgica de dispositivos implantados
+- Manipulación fina bajo presión extrema
+- Evaluación táctica de amenazas médicas
+- Coordinación con expertos técnicos
+
+**Relación con Hotman**:
+- Vínculo de hermanos forjado en la crisis
+- Confianza mutua absoluta
+- Historia compartida de vulnerabilidad y rescate
+- Responsabilidad de protección permanente
+
+**Filosofía Consolidada**:
+> "No necesito entrenamiento médico formal para hacer lo correcto. Cuando un compañero tiene algo en el cuerpo que no debería estar ahí, lo saco. Punto. Eso es lo que hacen los hermanos."
+
+---

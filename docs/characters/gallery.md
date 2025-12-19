@@ -203,7 +203,7 @@ document.addEventListener('DOMContentLoaded', function() {
     protagonistas: [
       // La Familia
       { slug: 'ana-montenegro-esfinge-atropos', name: 'Ana Montenegro / Esfinge / Atropos', image: 'ana-montenegro-esfinge-atropos.png' },
-      { slug: 'astrid-kayface', name: 'Pantomima (antes Astrid / Kayface)', image: 'Astrid_Kayface.png' },
+      { slug: 'pantomima', name: 'Pantomima (antes Astrid / Kayface)', image: 'Astrid_Kayface.png' },
       { slug: 'bate', name: 'Bate', image: 'Bate.png' },
       { slug: 'diana', name: 'Diana', image: 'diana.png' },
       { slug: 'el-faraon', name: 'El Faraón', image: 'El Faraón.png' },

@@ -113,11 +113,11 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Conflicto**: Destino criminal vs elección heroica, bajo tutela de Mulciber
 - **Evolución**: De heredera villana predestinada a atacante principal de La Fuerza Oculta
 
-#### [🎪 **Astrid/Kayface**]({{ site.baseurl }}/characters/details/astrid-kayface/) *(Xavi)*
-**La Ilusionista Traumatizada**
-- **Poderes**: Ilusiones complejas, monopatín volador
-- **Historia**: Pasado doloroso en protección social
-- **Especialidad**: Infiltración y manipulación de realidad
+#### [🎪 **Pantomima**]({{ site.baseurl }}/characters/details/pantomima/) *(Xavi)*
+**La Heredera de Sombrío y Caos**
+- **Poderes**: Ilusiones maestras, herencia dimensional
+- **Linaje**: Hija de Caos (villano) y nieta de Sombrío (héroe legendario)
+- **Especialidad**: Caos psicológico controlado, Bugatti dimensional
 
 #### [🧿 **Mencia/Psique/Cia**]({{ site.baseurl }}/characters/details/mencia-psique-cia/) *(Conchi)*
 **La Telépata Coordinadora**

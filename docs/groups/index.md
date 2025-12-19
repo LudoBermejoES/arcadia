@@ -62,7 +62,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 #### **Composición Actual:**
 - **🦎 [Eslizón Esmeralda](../characters/details/eslizon-esmeralda.md)** *(Sugus)* - Estratega noble
 - **💎 [Diana](../characters/details/diana.md)** *(Eslizo)* - Poder y privilegio
-- **🎪 [Astrid/Kayface](../characters/details/astrid-kayface.md)** *(Xavi)* - Maestría ilusoria
+- **🎪 [Pantomima](../characters/details/pantomima.md)** *(Xavi)* - Maestría ilusoria
 - **🧿 [Mencia/Psique/Cia](../characters/details/mencia-psique-cia.md)** *(Conchi)* - Coordinación telepática
 - **⚖️ [Justa/Justicia/Sentencia](../characters/details/justa-justicia-sentencia.md)** *(Edu)* - Evolución moral
 - **🔥 [Hotman](../characters/details/hotman.md)** *(Jandro)* - Poder térmico

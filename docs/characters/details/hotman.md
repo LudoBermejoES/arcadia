@@ -1133,3 +1133,102 @@ La misma noche de la fiesta, La Fuerza Oculta fue víctima de un **ataque mercen
 - **Compromiso confirmado**: La crisis confirmó la solidez de su relación
 
 ---
+
+## 🎯 Cazacapas: El Chip de Control (Diciembre 2025)
+
+### El Ataque Coordinado en Isla Sal
+
+Durante la resolución de la crisis en **Isla Sal** (7 de diciembre de 2025), Hotman se convirtió en el **objetivo principal** de un ataque coordinado por **Cazacapas**, un grupo de mercenarios especializados en captura de metahumanos.
+
+#### **El Chip Implantado**
+- **Momento del ataque**: Un atacante invisible disparó mientras Hotman creaba un flash con bombillas de magnesio
+- **Ubicación**: El chip fue implantado en su **cuello**
+- **Propósito**: Dispositivo diseñado para **controlar sus poderes a voluntad** por terceros
+- **Tecnología**: Sofisticado chip de control metahumano creado específicamente para él
+
+#### **El Mensaje del Padre**
+El ataque vino acompañado de un mensaje devastador de su padre biológico:
+
+> **"Eres tan imbécil como esperaba, hijo"**
+
+**Significado del Mensaje**:
+- **Confirmación de complicidad**: Su padre está detrás del ataque de Cazacapas
+- **Rechazo público**: Lo desconoce como hijo ante sus propios mercenarios
+- **Crueldad calculada**: El insulto durante un momento de vulnerabilidad
+- **Intención de control**: Prefiere un hijo controlable a uno libre
+
+#### **Rescate por Eneiros y Rechazo de Patronazgo**
+- **Puente de oro**: Eneiros creó un puente de oro para rescatar al equipo del ataque
+- **Collar inhibidor**: Eneiros fabricó un collar inhibidor para Hotman en caso de emergencia
+- **Rechazo definitivo**: Cuando Hotman preguntó si Eneiros sería su nuevo patrón, **Eneiros rechazó categóricamente**
+
+**Implicaciones del Rechazo de Eneiros**:
+- **Sin mentor poderoso**: Hotman queda sin figura paterna heroica de reemplazo
+- **Autovalidación necesaria**: Debe encontrar su camino sin patrocinio de elite
+- **Libertad y soledad**: Liberado de expectativas, pero también de protección especial
+
+### La Extracción del Chip en Metalurgia Rashid
+
+#### **Visita al Cacharrero**
+La Fuerza Oculta llevó a Hotman al taller de **El Cacharrero** en **Metalurgia Rashid**:
+
+- **Diagnóstico técnico**: El Cacharrero identificó el chip y sus capacidades de control
+- **Guía especializada**: Proporcionó instrucciones precisas para la extracción segura
+- **Riesgo de la operación**: El chip estaba diseñado para causar daño si se removía incorrectamente
+
+#### **Eslizón como Cirujano de Emergencia**
+- **Extracción heroica**: **Eslizón Esmeralda** realizó la extracción del chip del cuello de Hotman
+- **Precisión reptiliana**: Utilizó sus habilidades de manipulación fina para remover el dispositivo
+- **Éxito de la operación**: El chip fue extraído sin activar sus protocolos de seguridad
+- **Vínculo profundizado**: Eslizón literalmente salvó la libertad de Hotman
+
+### Implicaciones para el Personaje
+
+#### **Nueva Vulnerabilidad Identificada**
+- **Tecnología anti-Hotman**: Existen dispositivos diseñados específicamente para controlarlo
+- **Padre como amenaza activa**: Su progenitor orquesta ataques profesionales contra él
+- **Cazacapas como enemigos**: Tiene un grupo de mercenarios especializados en su contra
+- **Necesidad de vigilancia**: Debe estar alerta a futuros intentos de control
+
+#### **Rechazo Paterno Absoluto**
+- **Puente ya quemado**: Si quedaba alguna conexión, este ataque la destruyó completamente
+- **Padre como villano**: Su progenitor ha pasado de negligente a activamente hostil
+- **Crueldad confirmada**: El mensaje demuestra desprecio total
+- **Libertad con dolor**: La liberación viene con el conocimiento de ser odiado
+
+#### **Eneiros como No-Patrón**
+- **Sin figura de reemplazo**: No encontrará en Eneiros al mentor que necesita
+- **Autosuficiencia forzada**: Debe desarrollarse sin patronazgo de elite
+- **Equipo como única familia**: La Fuerza Oculta es su único apoyo
+- **Justa como ancla**: Su relación se vuelve aún más crucial para su estabilidad
+
+#### **Deuda con Eslizón**
+- **Vida salvada**: Eslizón literalmente extrajo una amenaza de su cuerpo
+- **Confianza profundizada**: Permitió que un compañero operara en su cuello
+- **Vínculo de hermanos**: El acto crea un lazo más allá de camaradería
+- **Gratitud permanente**: Debe a Eslizón su libertad de control externo
+
+### Estado Actual (Diciembre 2025)
+
+**Situación Física**:
+- Chip extraído exitosamente
+- Sin secuelas aparentes de la implantación
+- Cuello probablemente con cicatriz de la operación
+- Poderes intactos y bajo su propio control
+
+**Situación Emocional**:
+- Confirmación de hostilidad paterna activa
+- Rechazo de patronazgo de Eneiros procesándose
+- Dependencia aumentada en Justa y el equipo
+- Gratitud profunda hacia Eslizón
+
+**Nuevas Amenazas Identificadas**:
+- Cazacapas como grupo enemigo especializado
+- Padre biológico como orquestador de ataques
+- Tecnología de control metahumano en su contra
+- Necesidad de mayor vigilancia y protección
+
+**Filosofía Consolidada**:
+> "Mi padre prefiere un hijo controlable a uno libre. Pero yo ya elegí mi familia, y ellos arriesgaron todo para mantenerme libre. Eso es más de lo que jamás me dio mi sangre."
+
+---

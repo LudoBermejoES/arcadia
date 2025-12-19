@@ -33,9 +33,9 @@ permalink: /campaigns/la-fuerza-oculta/
 - **Trasfondo**: Heredera de una poderosa familia metahumana
 - **Conflicto**: Equilibrar privilegio con responsabilidad heroica
 
-#### 🎪 **[Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/)** *(Xavi)*
+#### 🎪 **[Pantomima]({{ site.baseurl }}/characters/details/pantomima/)** *(Xavi)*
 - **Poderes**: Ilusiones complejas, monopatín volador
-- **Historia**: Pasado traumático en protección social
+- **Historia**: Hija de Caos y nieta de Sombrío, linaje revelado en Nov 2025
 - **Especialidad**: Infiltración y manipulación de la realidad
 
 #### 🧿 **[Cia/Psique]({{ site.baseurl }}/characters/details/mencia-psique-cia/)** *(Conchi)*

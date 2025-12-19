@@ -90,7 +90,7 @@ permalink: /all-content/
 #### **🔮 La Fuerza Oculta (Tercera Generación)**
 - [🦎 Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) *(Sugus)* - El reptil noble
 - [💎 Diana]({{ site.baseurl }}/characters/details/diana/) *(Eslizo)* - La heredera poderosa
-- [🎪 Astrid/Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) *(Xavi)* - La ilusionista
+- [🎪 Pantomima]({{ site.baseurl }}/characters/details/pantomima/) *(Xavi)* - La heredera de Sombrío y Caos
 - [🧿 Mencia/Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) *(Conchi)* - La telépata
 - [⚖️ Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) *(Edu)* - La justiciera evolutiva
 - [🔥 Hotman]({{ site.baseurl }}/characters/details/hotman/) *(Jandro)* - El maestro del calor

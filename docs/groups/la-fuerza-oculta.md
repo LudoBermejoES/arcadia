@@ -68,7 +68,7 @@ Pantomima descubrió su verdadero linaje en el Puente de Moebius: nieta de Sombr
 
 **Especialidad:** Ilusiones de nivel maestro, caos psicológico controlado, herencia dimensional
 
-[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/astrid-kayface/)
+[**→ Ver ficha completa**]({{ site.baseurl }}/characters/details/pantomima/)
 
 ---
 

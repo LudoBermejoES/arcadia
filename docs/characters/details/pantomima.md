@@ -1,8 +1,8 @@
 ---
 layout: character
 title: Pantomima
-permalink: /characters/details/astrid-kayface/
-slug: astrid-kayface
+permalink: /characters/details/pantomima/
+slug: pantomima
 ---
 
 # Pantomima (antes Astrid / Kayface)
@@ -417,6 +417,40 @@ Durante una carrera ilegal, el **Bugatti de Sombrío** accedió al **Puente de M
 - Optimización dentro de límites
 - Especialización profunda vs. versatilidad superficial
 - Limitaciones como marco de creatividad
+
+---
+
+## ⚠️ Crisis de Poderes: Isla Sal (Diciembre 2025)
+
+### La Pérdida Temporal de Poderes
+
+Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó una situación sin precedentes: **sus poderes de ilusión dejaron de funcionar**.
+
+#### **El Anuncio Durante el Ataque**
+- **Momento crítico**: Durante el ataque de Cazacapas a La Fuerza Oculta
+- **Declaración**: Pantomima anunció al equipo que sus poderes no funcionaban
+- **Impacto táctico**: El equipo perdió su principal especialista en distracción e ilusiones
+- **Vulnerabilidad**: Sin poderes, quedó expuesta durante el combate
+
+#### **Causas Posibles**
+- **Supresión química**: Los mercenarios de Cazacapas usaban dardos supresores
+- **Interferencia dimensional**: Posible bloqueo del Puente de Moebius
+- **Agotamiento**: Uso intensivo previo de poderes
+- **Causas desconocidas**: Investigación pendiente
+
+#### **Implicaciones para el Personaje**
+- **Dependencia de poderes revelada**: Su efectividad táctica depende completamente de sus ilusiones
+- **Vulnerabilidad física**: Sin poderes, carece de capacidades de combate directo significativas
+- **Necesidad de contingencias**: Debe desarrollar habilidades alternativas
+- **Investigación de causas**: Determinar si fue supresión temporal o problema mayor
+
+### Estado Actual (Diciembre 2025)
+
+**Situación de Poderes**:
+- Funcionalidad actual: **Por confirmar**
+- Pérdida temporal documentada
+- Investigación de causas pendiente
+- Preocupación por recurrencia
 
 ---
 

@@ -107,9 +107,9 @@ El "Concurso Héroes o Villanos" fue un reality show producido por RTA que prese
 - **Identidad**: Personaje transgénero
 - **Apoyo**: Fuerte seguimiento de la comunidad LGBTQ+
 
-**[Astrid/Kayface](../characters/details/astrid-kayface.md)** *(Xavi)*
-- **Poderes**: Creación de ilusiones, vuelo en monopatín
-- **Especialidad**: Maestría en efectos visuales y engaño
+**[Pantomima](../characters/details/pantomima.md)** *(Xavi)*
+- **Poderes**: Ilusiones maestras, herencia dimensional de Sombrío
+- **Especialidad**: Caos psicológico controlado, Bugatti dimensional
 
 #### **Características Distintivas**
 - **Supervivientes**: Únicos que sobrevivieron al ataque final

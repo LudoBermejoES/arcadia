@@ -64,7 +64,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Miembros**:
 - [Hotman]({{ site.baseurl }}/characters/details/hotman/) (Jandro)
 - [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) (Sugus)
-- [Pantomima / Astrid / Kayface]({{ site.baseurl }}/characters/details/astrid-kayface/) (Xavi)
+- [Pantomima]({{ site.baseurl }}/characters/details/pantomima/) (Xavi)
 - [Diana]({{ site.baseurl }}/characters/details/diana/) (Eslizo)
 - [Justa / Justicia / Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) (Edu)
 - [Mencia / Psique / Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) (Conchi)

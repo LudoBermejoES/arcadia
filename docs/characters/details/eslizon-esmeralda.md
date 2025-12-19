@@ -180,6 +180,37 @@ Eslizón Esmeralda es un metahumano con transformación reptiliana completa que 
 - Operación sin activar protocolos de seguridad del dispositivo
 - Creó deuda de vida y vínculo de hermandad con Hotman
 
+### Fase V: Misión de la Cacería Salvaje (Noviembre 2025)
+
+**Contacto Inicial** (23 Noviembre):
+- Email de La Cacería Salvaje: "Tenemos que hablar, necesitamos tu ayuda"
+- Reunión en azotea del Barrio Gótico a las 22:00
+- Viaje en Renault 5 de los 80 con Nacho (los coches modernos no funcionan en el Gótico)
+
+**Encuentro con los Cinco Sentidos**:
+- Vista, Tacto, Oído, Olfato y Gusto (hijos de Estocada)
+- Metahumanos felinos que patrullan el Barrio Gótico
+- No pueden salir del barrio por promesa a su padre
+- Desconfían de "pieles suaves" (humanos normales)
+
+**La Misión**:
+- Investigar actividad de "Padre Bestia" en el Distrito Mercurii
+- Zona del hospital donde atendieron a los heridos por disparos
+- Vista advirtió: "Es muy muy peligroso"
+- Confianza expresada: "Votamos y decidimos que eras la mejor elección porque entiendes a las bestias"
+
+**Reconocimiento Especial**:
+- Gusto fascinado por su cola de metro y medio
+- Abrazo grupal de los cinco hermanos como muestra de confianza
+- Diana reveló que Mésmero y Garra los criaron
+- Conexión especial como metahumano no-humanoide
+
+**Parada en la Farmacia del Gótico**:
+- Farmacéutica con títulos de pseudociencias y tiro olímpico
+- Protección mágica del establecimiento (pacto de sangre antiguo)
+- Diana "brillaba" en el ambiente mágico del barrio
+- Recibió "bendición del barrio gótico" con ceniza
+
 ---
 
 ## 🔗 Relaciones
@@ -214,11 +245,13 @@ Eslizón Esmeralda es un metahumano con transformación reptiliana completa que 
 
 ### Aliados Externos
 
-**La Cacería Salvaje**: Mensaje pendiente "Tenemos que hablar, ven al barrio gótico"
+**La Cacería Salvaje**: Aliados que le contactaron para investigar actividad de "Padre Bestia" en el Distrito Mercurii. Vista (líder) expresó confianza total: "Votamos y decidimos que eras la mejor elección porque entiendes a las bestias". Recibió abrazo grupal de los cinco hermanos.
 
 **Eneiros**: Lo salvó en Isla Sal (evacuación + remoción de dardo)
 
 **El Cacharrero**: Guía para cirugía del chip de Hotman
+
+**Nacho**: Conductor de confianza que usa un Renault 5 de los 80 para entrar al Barrio Gótico (los coches modernos no funcionan allí)
 
 ### Estudiantes (como Profesor Online)
 
@@ -304,7 +337,7 @@ Bajo avatar de mapache y filtro deep fake, enseña a:
 - Gratitud por familia elegida
 
 **Pendientes**:
-- Reunión con La Cacería Salvaje
+- **Investigar a "Padre Bestia"** en el Distrito Mercurii (misión de La Cacería Salvaje)
 - Bolsillos tácticos para traje
 - Zona de calor en base renovada
 - Línea de comunicación segura
@@ -361,6 +394,7 @@ Bajo avatar de mapache y filtro deep fake, enseña a:
 - [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
 - [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Isla Sal
 - [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
+- [AI Notes 2025-11-23](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-23-gemini-motes.md) - **Encuentro con La Cacería Salvaje**
 
 ---
 

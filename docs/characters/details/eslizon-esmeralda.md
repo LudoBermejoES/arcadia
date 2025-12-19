@@ -13,12 +13,14 @@ slug: eslizon-esmeralda
 
 ## Información Básica
 
-**Nombre Civil**: Esme
-**Identidad Heroica**: Eslizón Esmeralda
-**Jugador**: Sugus
-**Grupo**: La Fuerza Oculta
-**Rol**: Explorador, tank, voz de la razón, profesor universitario online
-**Estado**: Activo (2024-presente)
+| Campo | Valor |
+|-------|-------|
+| **Nombre Civil** | Esme |
+| **Identidad Heroica** | Eslizón Esmeralda |
+| **Jugador** | Sugus |
+| **Grupo** | La Fuerza Oculta |
+| **Rol** | Explorador, tank, voz de la razón, profesor universitario online |
+| **Estado** | Activo (2024-presente) |
 
 ---
 
@@ -213,7 +215,9 @@ Eslizón Esmeralda es un metahumano con transformación reptiliana completa que 
 ### Aliados Externos
 
 **La Cacería Salvaje**: Mensaje pendiente "Tenemos que hablar, ven al barrio gótico"
+
 **Eneiros**: Lo salvó en Isla Sal (evacuación + remoción de dardo)
+
 **El Cacharrero**: Guía para cirugía del chip de Hotman
 
 ### Estudiantes (como Profesor Online)

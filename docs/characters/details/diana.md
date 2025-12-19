@@ -13,12 +13,14 @@ slug: diana
 
 ## Información Básica
 
-**Nombre Civil**: Diana
-**Identidad Heroica**: Diana
-**Jugador**: Eslizo
-**Grupo**: La Fuerza Oculta
-**Rol**: Combatiente principal, heredera de Fatum que eligió el heroísmo
-**Estado**: Activa (2024-presente)
+| Campo | Valor |
+|-------|-------|
+| **Nombre Civil** | Diana |
+| **Identidad Heroica** | Diana |
+| **Jugador** | Eslizo |
+| **Grupo** | La Fuerza Oculta |
+| **Rol** | Combatiente principal, heredera de Fatum que eligió el heroísmo |
+| **Estado** | Activa (2024-presente) |
 
 ---
 
@@ -195,7 +197,9 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 ### Familia Biológica
 
 **Cloris** (madre, fallecida): Murió durante su parto, "corazón" de Fatum
+
 **Apolo** (hermano gemelo): Vivo en algún lugar distante (revelación Sept 2025)
+
 **Mulciber** (tutor legal): La cuida con culpa y obligación
 
 ---

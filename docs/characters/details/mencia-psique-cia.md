@@ -13,13 +13,15 @@ slug: mencia-psique-cia
 
 ## Información Básica
 
-**Nombre Civil**: Mencia
-**Identidades Heroicas**: Psique / Cia
-**Identidad Profesional**: Althea Argos (terapeuta)
-**Jugadora**: Conchi
-**Grupo**: La Fuerza Oculta
-**Rol**: Coordinadora telepática, especialista en inteligencia, terapeuta
-**Estado**: Activa (2024-presente)
+| Campo | Valor |
+|-------|-------|
+| **Nombre Civil** | Mencia |
+| **Identidades Heroicas** | Psique / Cia |
+| **Identidad Profesional** | Althea Argos (terapeuta) |
+| **Jugadora** | Conchi |
+| **Grupo** | La Fuerza Oculta |
+| **Rol** | Coordinadora telepática, especialista en inteligencia, terapeuta |
+| **Estado** | Activa (2024-presente) |
 
 ---
 
@@ -199,13 +201,17 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 ### Dentro de La Fuerza Oculta
 
 **Justa/Sentencia**: Compañera de habitación, destinataria de mediación grupal
+
 **Hotman**: Compañero de equipo de combate, lo estabilizó médicamente
+
 **Eslizón**: Compañero de equipo de combate original
+
 **Pantomima/Kayface**: Coordinación táctica perfecta (actuación + ilusiones)
 
 ### Mentores
 
 **Mésmero**: Telépata veterano, entrenador brutal pero confiable
+
 **Mentallo**: Figura ambigua que ofrece poder a cambio de precio desconocido
 
 ### Pacientes (como Althea Argos)

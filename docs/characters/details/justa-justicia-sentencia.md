@@ -13,12 +13,14 @@ slug: justa-justicia-sentencia
 
 ## Información Básica
 
-**Nombre Civil**: Justa McKomick
-**Identidades Heroicas**: Justicia → Sentencia
-**Jugador**: Edu
-**Grupo**: La Fuerza Oculta
-**Rol**: Líder táctica, especialista en armas de fuego
-**Estado**: Activa (2024-presente)
+| Campo | Valor |
+|-------|-------|
+| **Nombre Civil** | Justa McKomick |
+| **Identidades Heroicas** | Justicia → Sentencia |
+| **Jugador** | Edu |
+| **Grupo** | La Fuerza Oculta |
+| **Rol** | Líder táctica, especialista en armas de fuego |
+| **Estado** | Activa (2024-presente) |
 
 ---
 
@@ -214,8 +216,11 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 ### Dentro de La Fuerza Oculta
 
 **Psique/Cia**: Compañera de habitación, equilibrio emocional del grupo
+
 **Diana**: Compañera de equipo de combate, solidaridad silenciosa
+
 **Eslizón**: Voz de la razón que cuestiona sus decisiones
+
 **Pantomima**: Coordinación táctica y apoyo
 
 ### Mentores

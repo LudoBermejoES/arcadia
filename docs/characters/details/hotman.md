@@ -13,12 +13,14 @@ slug: hotman
 
 ## Información Básica
 
-**Nombre Civil**: Alejandro (apellido desconocido)
-**Identidad Heroica**: Hotman
-**Jugador**: Jandro
-**Grupo**: La Fuerza Oculta
-**Rol**: Especialista en combate a distancia, influencer metahumano
-**Estado**: Activo (2024-presente)
+| Campo | Valor |
+|-------|-------|
+| **Nombre Civil** | Alejandro (apellido desconocido) |
+| **Identidad Heroica** | Hotman |
+| **Jugador** | Jandro |
+| **Grupo** | La Fuerza Oculta |
+| **Rol** | Especialista en combate a distancia, influencer metahumano |
+| **Estado** | Activo (2024-presente) |
 
 ---
 
@@ -248,19 +250,25 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 ### Dentro de La Fuerza Oculta
 
 **Eslizón Esmeralda**: Compañero de habitación, le extrajo el chip - deuda de vida
+
 **Diana**: Reconocimiento mutuo, ella defendió sus acciones
+
 **Psique/Cia**: Enlace telepático para coordinación, lo estabilizó tras heridas
+
 **Pantomima**: Coordinación táctica, ella lo protegió con ilusiones
 
 ### Aliados Externos
 
 **[Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/)**: Primer "Hottie" oficial, taxista fan convertido en apoyo logístico
+
 **Espectro**: Proveedor de equipamiento protector, mentor ocasional
+
 **Eneiros**: Rechazó ser su mentor/patrón, pero lo rescató en Isla Sal
 
 ### Familia
 
 **Padre** (sin nombre): Empresario abusivo, orquestador de ataque de Cazacapas, actualmente herido y hostil
+
 **Madre**: Mencionada como negligente ("ver la televisión o hacer llorar a alguna criada")
 
 ---

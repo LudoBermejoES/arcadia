@@ -317,10 +317,28 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2025-12-21 - Investigación de Padre Bestia y Poder de Vuelo](2025-12-21-gemini-notes.md)
+**"Caos Revelado y el Vuelo de Hotman"**
+- 🎭 **Revelación de Caos**: Cacharrero confirma que Caos (padre de Pantomima) ordenó el ataque con el chip
+- 🛹 **Demostración de Poder**: Cacharrero muestra control absoluto sobre el monopatín de Pantomima
+- ✈️ **Nuevo Poder Descubierto**: Hotman descubre que puede volar/flotar durante momento íntimo con Justa
+- 🔥 **Mecánica del Vuelo**: Ondas de calor fluctuantes bajo su cuerpo, similar a estela de aviones
+- ⚡ **Pulso Electromagnético**: Justa activa accidentalmente un EMP que apaga el Distrito Mercury
+- 🚐 **Furgoneta Protegida**: El vehículo del grupo resulta estar blindado contra EMPs
+- 🐾 **Misión Padre Bestia**: Continúa la investigación para La Cacería Salvaje en edificio abandonado
+- 🏚️ **Infiltración**: Pantomima abre cerradura profesional de edificio marcado para demolición
+- 👹 **Hombres Bestiales**: Descubrimiento de 12-15 personas con características bestiales
+- ⚔️ **Combate Urbano**: Enfrentamiento con hombres armados con machetes y pistolas
+- 🧠 **Poder de Psique**: Sique usa nuevo poder mental para aturdir a oponente llamada Sofía
+
+**Duración**: ~3 horas | **Palabras**: ~17,500 | **Páginas**: ~45
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 21 sesiones completas
+- **Total de Transcripciones**: 22 sesiones completas
 - **Período Cubierto**: Junio-Diciembre 2025 (7 meses intensivos)
 - **Palabras Totales**: ~387,500 palabras transcritas
 - **Páginas Equivalentes**: ~991 páginas de contenido

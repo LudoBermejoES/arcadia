@@ -44,7 +44,9 @@
       "Bash(source:*)",
       "Bash(python3:*)",
       "Bash(cat:*)",
-      "Bash(test:*)"
+      "Bash(test:*)",
+      "Bash(git mv:*)",
+      "Bash(git show:*)"
     ],
     "deny": [],
     "ask": [],

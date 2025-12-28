@@ -257,13 +257,28 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Revelación: El chip servía para anular los poderes de Hotman a voluntad
   - Tecnología de origen corporativo: "empresa armamentística del gobierno o bancos"
 
+- **[Sesión 43 - 21 Diciembre 2025](session-43-2025-12-21.md)** - *"Vuelo de Hotman e Investigación de Padre Bestia"*
+  - Cacharrero revela que **Caos** (padre de Pantomima) ordenó el ataque con el chip
+  - Pantomima pide a Cacharrero que transmita mensaje discreto a Caos
+  - Cacharrero demuestra control absoluto sobre el monopatín y lo devuelve
+  - **Hotman descubre poder de vuelo**: Flota durante momento íntimo con Justa
+  - Ondas de calor fluctuantes bajo su cuerpo permiten la flotación
+  - Diana comenta: "Hotman está flotando porque se ha puesto cachondo"
+  - **Justa activa pulso electromagnético** que apaga el Distrito Mercury
+  - La furgoneta del grupo resulta estar protegida contra EMPs
+  - Investigación de Padre Bestia en edificio abandonado marcado para demolición
+  - Pantomima abre cerradura profesional con herramientas de latrocinio
+  - Descubrimiento de 12-15 personas bestiales armadas con machetes y pistolas
+  - Combate: Diana embiste, Eslizón desarma, Justa dispara con balas de goma
+  - **Sique usa nuevo poder mental** para aturdir a oponente llamada Sofía
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 38 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Diciembre 2025 (21 meses)
+- **Total de Sesiones**: 39 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Diciembre 2025 (22 meses)
 - **Páginas Estimadas**: ~570 páginas de notas detalladas
 - **Horas de Juego**: ~114 horas registradas
 

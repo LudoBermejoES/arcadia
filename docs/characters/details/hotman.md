@@ -41,6 +41,13 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - Fusión metálica interna (derrite gorilas dorados desde dentro)
 - Manipulación precisa de energía (abre cúpulas energéticas)
 
+**Vuelo/Flotación** (Descubierto Diciembre 2025):
+- Genera ondas de calor fluctuantes bajo su cuerpo
+- Efecto visual similar a la estela de los aviones
+- Control actualmente limitado (activación involuntaria)
+- Se activa bajo estados emocionales intensos
+- Requiere entrenamiento para uso controlado
+
 **Aplicaciones Térmicas**:
 - Calentamiento controlado de objetos
 - Hervir agua con sus manos (prepara infusiones para Justa)
@@ -234,6 +241,24 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - "Al principio estaba contigo un poco por probar, un juego, pero creo que esa fase ya ha pasado."
 - Intimidad profundizada tras la vulnerabilidad compartida
 
+### Fase VIII: Descubrimiento del Vuelo (21 Diciembre 2025)
+
+**El Vuelo Involuntario**:
+- Durante momento íntimo con Justa, Hotman comienza a flotar
+- Justa se echa a reír al verlo desnudo flotando en el aire
+- Diana comenta: "Hotman está flotando porque se ha puesto cachondo"
+- Tardó unos 10 minutos en aprender a descender
+
+**Mecánica del Nuevo Poder**:
+- Ondas de calor fluctuantes bajo su cuerpo generan sustentación
+- Efecto visual similar a la estela de los aviones
+- Activación vinculada a estados emocionales intensos
+- Diana sugiere que debe aprender a controlarlo cuando lo necesite
+
+**Revelación sobre el Ataque**:
+- El Cacharrero confirma que **Caos** (padre de Pantomima) ordenó el ataque con el chip
+- Conexión entre el padre de Pantomima y el ataque a Hotman
+
 ---
 
 ## 🔗 Relaciones
@@ -398,6 +423,8 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
 - [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Isla Sal
 - [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
+- [Sesión 43](../../campaigns/la-fuerza-oculta/manual-notes/session-43-2025-12-21.md) - Descubrimiento del vuelo
+- [AI Notes 2025-12-21](../../campaigns/la-fuerza-oculta/ai-notes/2025-12-21-gemini-notes.md)
 
 ---
 

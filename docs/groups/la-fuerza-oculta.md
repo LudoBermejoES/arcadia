@@ -218,7 +218,7 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 </div>
 
 <div class="stat-card">
-<span class="stat-number">42+</span>
+<span class="stat-number">43+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -241,10 +241,10 @@ La Fuerza Oculta continúa operando activamente en Arcadia tras sobrevivir a mú
 
 ### **Desafíos Actuales**
 - **Amenaza Cazacapas**: Grupo mercenario antimeta que los ha identificado como objetivos
-- **Investigación "Padre Bestia"**: Misión encargada por La Cacería Salvaje en el Barrio Gótico
-- **Familia de Hotman**: El padre de Hotman lo ha repudiado públicamente y parece tener conexiones peligrosas
-- **Recuperación post-chip**: Hotman procesando la extracción del chip y el rechazo de Eneiros como padrino
-- **Integración del linaje de Pantomima**: Continuar procesando su herencia Sombrío/Caos
+- **Investigación "Padre Bestia"**: Misión activa en el Distrito Mercury, combate en curso con hombres bestiales
+- **Conexión Caos-Ataque**: Cacharrero confirmó que Caos (padre de Pantomima) ordenó el ataque con el chip
+- **Nuevo poder de Hotman**: Descubrió capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
+- **Integración del linaje de Pantomima**: Pantomima busca comunicación con Caos a través de Cacharrero
 - **Búsqueda de mentores**: Cada miembro busca guía en veteranos (Mésmero, Eneiros, Espectro, etc.)
 
 ### **Alianzas Recientes**

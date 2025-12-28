@@ -242,7 +242,7 @@ La Fuerza Oculta continúa operando activamente en Arcadia tras sobrevivir a mú
 ### **Desafíos Actuales**
 - **Amenaza Cazacapas**: Grupo mercenario antimeta que los ha identificado como objetivos
 - **Investigación "Padre Bestia"**: Misión activa en el Distrito Mercury, combate en curso con hombres bestiales
-- **Conexión Caos-Ataque**: Cacharrero confirmó que Caos (padre de Pantomima) ordenó el ataque con el chip
+- **Conexión Pantomima-Caos**: Cacharrero confirma que Caos (padre de Pantomima) encargó el monopatín
 - **Nuevo poder de Hotman**: Descubrió capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
 - **Integración del linaje de Pantomima**: Pantomima busca comunicación con Caos a través de Cacharrero
 - **Búsqueda de mentores**: Cada miembro busca guía en veteranos (Mésmero, Eneiros, Espectro, etc.)

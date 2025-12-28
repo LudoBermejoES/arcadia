@@ -121,7 +121,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[23 Noviembre](ai-notes/2025-11-23-gemini-motes.md)**: Contacto con La Cacería Salvaje, misión encargada para investigar "Padre Bestia" en el Barrio Gótico
 - **[30 Noviembre](ai-notes/2025-11-30-gemini-notes.md)**: Combate con mercenarios, negociación de Sentencia
 - **[7 Diciembre](ai-notes/2025-12-07-gemini-notes.md)** / **[Manual](manual-notes/session-42-2025-12-07.md)**: Chip implantado en Hotman por atacante invisible, mensaje holográfico del padre repudiándolo, Eneiros crea collar de oro bloqueador, El Cacharrero extrae el chip en Metalurgia Rashid, Eneiros rechaza ser padrino de Hotman
-- **[21 Diciembre](ai-notes/2025-12-21-gemini-notes.md)** / **[Manual](manual-notes/session-43-2025-12-21.md)**: Cacharrero revela que Caos ordenó el ataque, Hotman descubre poder de vuelo durante momento íntimo con Justa, pulso electromagnético apaga Distrito Mercury, investigación de Padre Bestia en edificio abandonado, combate con hombres bestiales
+- **[21 Diciembre](ai-notes/2025-12-21-gemini-notes.md)** / **[Manual](manual-notes/session-43-2025-12-21.md)**: Pantomima pregunta a Cacharrero por Caos (quien encargó el monopatín), Hotman descubre poder de vuelo durante momento íntimo con Justa, pulso electromagnético apaga Distrito Mercury, investigación de Padre Bestia en edificio abandonado, combate con hombres bestiales
 
 ---
 

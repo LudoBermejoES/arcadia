@@ -318,9 +318,9 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 ---
 
 #### [📼 2025-12-21 - Investigación de Padre Bestia y Poder de Vuelo](2025-12-21-gemini-notes.md)
-**"Caos Revelado y el Vuelo de Hotman"**
-- 🎭 **Revelación de Caos**: Cacharrero confirma que Caos (padre de Pantomima) ordenó el ataque con el chip
-- 🛹 **Demostración de Poder**: Cacharrero muestra control absoluto sobre el monopatín de Pantomima
+**"El Monopatín de Caos y el Vuelo de Hotman"**
+- 🎭 **Conexión con Caos**: Pantomima pregunta a Cacharrero por Caos (quien encargó el monopatín)
+- 🛹 **Demostración de Poder**: Cacharrero muestra control absoluto sobre el monopatín y lo devuelve a Pantomima
 - ✈️ **Nuevo Poder Descubierto**: Hotman descubre que puede volar/flotar durante momento íntimo con Justa
 - 🔥 **Mecánica del Vuelo**: Ondas de calor fluctuantes bajo su cuerpo, similar a estela de aviones
 - ⚡ **Pulso Electromagnético**: Justa activa accidentalmente un EMP que apaga el Distrito Mercury

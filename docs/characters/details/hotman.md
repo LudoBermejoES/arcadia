@@ -255,9 +255,9 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - Activación vinculada a estados emocionales intensos
 - Diana sugiere que debe aprender a controlarlo cuando lo necesite
 
-**Revelación sobre el Ataque**:
-- El Cacharrero confirma que **Caos** (padre de Pantomima) ordenó el ataque con el chip
-- Conexión entre el padre de Pantomima y el ataque a Hotman
+**Contexto**:
+- La sesión confirma que el ataque con el chip fue ordenado por el padre de Hotman (no Caos)
+- Pantomima descubre que Caos (su padre) encargó el monopatín a Cacharrero
 
 ---
 

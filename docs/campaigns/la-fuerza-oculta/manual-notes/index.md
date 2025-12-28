@@ -258,8 +258,8 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Tecnología de origen corporativo: "empresa armamentística del gobierno o bancos"
 
 - **[Sesión 43 - 21 Diciembre 2025](session-43-2025-12-21.md)** - *"Vuelo de Hotman e Investigación de Padre Bestia"*
-  - Cacharrero revela que **Caos** (padre de Pantomima) ordenó el ataque con el chip
-  - Pantomima pide a Cacharrero que transmita mensaje discreto a Caos
+  - Pantomima pregunta a Cacharrero por **Caos** (quien encargó el monopatín)
+  - Pantomima pide a Cacharrero que transmita mensaje discreto a Caos (su padre)
   - Cacharrero demuestra control absoluto sobre el monopatín y lo devuelve
   - **Hotman descubre poder de vuelo**: Flota durante momento íntimo con Justa
   - Ondas de calor fluctuantes bajo su cuerpo permiten la flotación

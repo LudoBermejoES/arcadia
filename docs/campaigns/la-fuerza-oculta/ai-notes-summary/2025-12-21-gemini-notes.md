@@ -13,23 +13,22 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-12-21/
 
 ## Resumen Ejecutivo
 
-La sesión comienza resolviendo la trama del chip con **Cacharrero**, quien revela que fue **Caos** (padre de Pantomima) quien ordenó el ataque contra Hotman. **Hotman descubre un nuevo poder**: la capacidad de flotar/volar mediante ondas de calor fluctuantes, activándose durante un momento íntimo con Justa. El grupo continúa la misión encargada por La Cacería Salvaje para investigar a **Padre Bestia** en el Distrito Mercury. Tras un **pulso electromagnético accidental** que apaga todo el distrito, infiltran un edificio abandonado donde encuentran 12-15 hombres bestiales armados. El combate resultante ve a **Sique usar un nuevo poder mental** para aturdir a una oponente.
+La sesión comienza con **Pantomima** preguntando a **Cacharrero** por **Caos** (su padre), quien fue quien encargó el monopatín. **Hotman descubre un nuevo poder**: la capacidad de flotar/volar mediante ondas de calor fluctuantes, activándose durante un momento íntimo con Justa. El grupo continúa la misión encargada por La Cacería Salvaje para investigar a **Padre Bestia** en el Distrito Mercury. Tras un **pulso electromagnético accidental** que apaga todo el distrito, infiltran un edificio abandonado donde encuentran 12-15 hombres bestiales armados. El combate resultante ve a **Sique usar un nuevo poder mental** para aturdir a una oponente.
 
 ---
 
 ## Eventos Principales
 
-### Resolución con Cacharrero
+### Interacción con Cacharrero
 
-**La Tecnología del Chip**:
-- El chip extraído era tecnología militar genérica de gran industria
-- Diseñado para anular los poderes de Hotman a voluntad
-- Origen: empresa armamentística del gobierno o bancos
+**Contexto del Chip** (sesión anterior):
+- El chip fue ordenado por el padre de Hotman, no por Caos
+- El chip servía para anular los poderes de Hotman a voluntad
+- Tecnología militar genérica de gran industria
 
-**Revelación sobre el Ataque**:
-- Pantomima pregunta a Cacharrero quién ordenó el encargo
-- **Caos** es identificado como el responsable del ataque
-- Caos es el padre de Pantomima y el hijo de Sombrío
+**Conexión con Caos**:
+- Pantomima pregunta a Cacharrero quién encargó el monopatín
+- **Caos** (padre de Pantomima, hijo de Sombrío) fue quien lo encargó
 - Pantomima solicita a Cacharrero que transmita discretamente un mensaje a Caos
 
 **Demostración de Poder de Cacharrero**:
@@ -224,10 +223,10 @@ La sesión comienza resolviendo la trama del chip con **Cacharrero**, quien reve
 
 ## Conexiones con Tramas Anteriores
 
-### El Chip y Caos
-- El ataque de Cazacapas (sesión 42) fue ordenado por Caos
-- Conexión entre el padre de Pantomima y el padre de Hotman
-- Ambos padres hostiles hacia sus hijos metahumanos
+### El Chip y los Padres
+- El ataque de Cazacapas (sesión 42) fue ordenado por el padre de Hotman
+- Caos encargó el monopatín de Pantomima (revelado en esta sesión)
+- Ambos padres tienen conexiones con tecnología avanzada
 
 ### La Cacería Salvaje
 - Continuación de la alianza establecida en sesión 41
@@ -306,7 +305,7 @@ La sesión comienza resolviendo la trama del chip con **Cacharrero**, quien reve
 - EMP ha dejado el distrito a oscuras
 
 ### Información Crítica
-- Caos ordenó el ataque con el chip
+- Caos encargó el monopatín (el chip fue ordenado por el padre de Hotman)
 - Hotman puede volar (pero sin control)
 - 12-15 oponentes en el edificio
 - Sique tiene nuevo poder de ataque mental
@@ -319,9 +318,9 @@ La sesión comienza resolviendo la trama del chip con **Cacharrero**, quien reve
 
 ---
 
-**Estado del Grupo**: En combate activo dentro de edificio ocupado por bestiales, con nuevo poder de vuelo de Hotman por entrenar, y esperando posible contacto de Caos.
+**Estado del Grupo**: En combate activo dentro de edificio ocupado por bestiales, con nuevo poder de vuelo de Hotman por entrenar, y esperando posible contacto de Caos a través de Cacharrero.
 
-**Próximo Desafío**: Resolver el combate contra los hombres bestiales, investigar la conexión con Padre Bestia, y decidir qué hacer con la información sobre la implicación de Caos.
+**Próximo Desafío**: Resolver el combate contra los hombres bestiales, investigar la conexión con Padre Bestia, y establecer comunicación con Caos (padre de Pantomima).
 
 ---
 

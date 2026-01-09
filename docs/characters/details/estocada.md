@@ -26,12 +26,12 @@ Eventualmente, Estocada tomó la decisión de marcharse de La Familia para forma
 - Inmunidad temporal: Posee una naturaleza dual temporal, pudiendo existir en múltiples líneas de tiempo
 
 ## Apariciones Documentadas
-- [Session 01](../../campaigns/la-familia/session-01.md)
-- [Session 14](../../campaigns/la-familia/session-14.md)
-- [Session 15](../../campaigns/la-familia/session-15.md)
-- [Session 16](../../campaigns/la-familia/session-16.md)
-- [Session 17](../../campaigns/la-familia/session-17.md)
-- [Session 32](../../campaigns/la-familia/session-32.md)
+- [Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/)
+- [Session 14]({{ site.baseurl }}/campaigns/la-familia/session-14/)
+- [Session 15]({{ site.baseurl }}/campaigns/la-familia/session-15/)
+- [Session 16]({{ site.baseurl }}/campaigns/la-familia/session-16/)
+- [Session 17]({{ site.baseurl }}/campaigns/la-familia/session-17/)
+- [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
 
 ## La Familia de Estocada
 
@@ -41,11 +41,11 @@ Estocada formó una familia única con cuatro compañeras Bestia, teniendo múlt
 ### La Cacería Salvaje
 Cinco de sus hijos han formado el grupo heroico conocido como **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**, operando como vigilantes especializados en el Barrio Gótico:
 
-- **[Vista](vista.md)** - 18 años (Varón) - Líder, especialista en percepción visual
-- **[Tacto](tacto.md)** - 18 años (Hembra) - Co-líder, especialista en percepción táctil  
-- **[Oído](oido.md)** - 16 años (Hembra) - Especialista en percepción auditiva
-- **[Olfato](olfato.md)** - 16 años (Varón) - Rastreador, especialista olfativo
-- **[Gusto](gusto.md)** - 14 años (Varón) - Detector de sustancias, especialista gustativo
+- **[Vista]({{ site.baseurl }}/characters/details/vista/)** - 18 años (Varón) - Líder, especialista en percepción visual
+- **[Tacto]({{ site.baseurl }}/characters/details/tacto/)** - 18 años (Hembra) - Co-líder, especialista en percepción táctil  
+- **[Oído]({{ site.baseurl }}/characters/details/oido/)** - 16 años (Hembra) - Especialista en percepción auditiva
+- **[Olfato]({{ site.baseurl }}/characters/details/olfato/)** - 16 años (Varón) - Rastreador, especialista olfativo
+- **[Gusto]({{ site.baseurl }}/characters/details/gusto/)** - 14 años (Varón) - Detector de sustancias, especialista gustativo
 
 ### Legado Heroico
 A diferencia de las Bestias típicas, estos hijos han canalizado su herencia hacia el heroísmo, demostrando que la naturaleza bestial no determina la moralidad. Su formación de un grupo de vigilantes representa la continuación del legado heroico de Estocada, adaptado a una nueva generación.

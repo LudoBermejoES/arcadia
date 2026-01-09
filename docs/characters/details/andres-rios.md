@@ -272,20 +272,20 @@ Y cuando Andy vea su propio funeral (probablemente antes de los 30), ¿cuántos 
 - **Madre**: Murió de sobredosis (2022)
 - **Contacto de salida**: Número de Dolores (nunca llamado)
 - **Expectativa de vida**: Probablemente no llegará a 30 años
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Arturo Mendoza](arturo-mendoza.md) - Su mentor y figura paterna
-- [Dolores Sánchez](dolores-sanchez.md) - Le ofreció salida
-- [Diego Aguilar](diego-aguilar.md) - Su protegido consentido
-- [Dr. Javier Santana](javier-santana.md) - Lo salvó dos veces
-- [Ana Morales](ana-morales.md) - Su ex-novia embarazada
-- [Marco Aguilar](marco-aguilar.md) - Su jefe directo
-- [Federico Aguilar](federico-aguilar.md) - Empleador que nunca conoció
+- [Arturo Mendoza]({{ site.baseurl }}/characters/details/arturo-mendoza/) - Su mentor y figura paterna
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Le ofreció salida
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Su protegido consentido
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) - Lo salvó dos veces
+- [Ana Morales]({{ site.baseurl }}/characters/details/ana-morales/) - Su ex-novia embarazada
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Su jefe directo
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Empleador que nunca conoció
 
 ---
 

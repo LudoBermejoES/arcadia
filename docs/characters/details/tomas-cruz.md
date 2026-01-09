@@ -267,20 +267,20 @@ Y cuando escupa en la tumba de Federico, será el acto más satisfactorio de su 
 - **Misión en funeral**: Espionaje con micrófono oculto
 - **Objetivo**: Recopilar información para destruir Fatum
 - **Expectativa de vida**: Muy baja (probablemente no llegará a 25)
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Asesino de su hermano
-- [Renata Kovač](renata-kovac.md) - Guardiana que lo amenazó
-- [Diego Aguilar](diego-aguilar.md) - Cliente principal de drogas
-- [Patricia Navarro](patricia-navarro.md) - Cliente y cómplice infiltrada
-- [Dr. Javier Santana](javier-santana.md) - Lo salvó de sobredosis
-- [Ana Morales](ana-morales.md) - Colega traficante
-- [Marcos Villar](marcos-villar.md) - Preparó funeral de su hermano
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Asesino de su hermano
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - Guardiana que lo amenazó
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Cliente principal de drogas
+- [Patricia Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) - Cliente y cómplice infiltrada
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) - Lo salvó de sobredosis
+- [Ana Morales]({{ site.baseurl }}/characters/details/ana-morales/) - Colega traficante
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Preparó funeral de su hermano
 
 ---
 

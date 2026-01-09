@@ -114,7 +114,7 @@ Felipe Álvarez representa una figura clave en el misterio del Hospital de las C
 **La pregunta central permanece: ¿Por qué las autoridades eligieron específicamente a Felipe Álvarez para reemplazar a las monjas, y qué secretos murieron con él?**
 
 ## Apariciones Documentadas
-- [Hospital - Sesión 01](../../campaigns/hospital/session-01.md)
+- [Hospital - Sesión 01]({{ site.baseurl }}/campaigns/hospital/session-01/)
 
 ---
 

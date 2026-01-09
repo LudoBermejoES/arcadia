@@ -26,12 +26,12 @@ Telaraña actúa como el cerebro maestro detrás de la mayoría de actividades c
 
 ## Apariciones Documentadas
 - [World Building - Ambientación]({{ site.baseurl }}/world-building/ambientacion/)
-- [World Building - Arcadia Awakening](../../world-building/history/03-arcadia-awakening.md)
-- [La Familia Session 06](../../campaigns/la-familia/session-06.md)
-- [La Familia Session 20](../../campaigns/la-familia/session-20.md)
-- [La Familia Session 22](../../campaigns/la-familia/session-22.md)
-- [La Familia Session 40](../../campaigns/la-familia/session-40.md)
-- [La Familia Session 41](../../campaigns/la-familia/session-41.md)
+- [World Building - Arcadia Awakening]({{ site.baseurl }}/world-building/03-arcadia-awakening/)
+- [La Familia Session 06]({{ site.baseurl }}/campaigns/la-familia/session-06/)
+- [La Familia Session 20]({{ site.baseurl }}/campaigns/la-familia/session-20/)
+- [La Familia Session 22]({{ site.baseurl }}/campaigns/la-familia/session-22/)
+- [La Familia Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
+- [La Familia Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 
 ## Detalles Adicionales
 Telaraña fue mencionado por primera vez en el "Primer Manifiesto Metahumano" del 15 de marzo, cuando una figura conocida como "El Oscuro" explicó que "las olas de crímenes incesantes eran realizadas por metahumanos dirigidos por alguien conocido como Telaraña". Esto marca el inicio oficial de la era metahumana en Arcadia.

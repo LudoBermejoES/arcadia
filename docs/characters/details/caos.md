@@ -20,7 +20,7 @@ slug: caos
 **Clasificación**: Villano Mayor
 **Área de Operación**: Arcadia
 **Era Activa**: 2000-presente (25 años documentados)
-**Relación Familiar**: Padre de [Pantomima](pantomima/) (antes Kayface/Astrid), hijo de [Sombrío](sombrio/) (héroe legendario)
+**Relación Familiar**: Padre de [Pantomima]({{ site.baseurl }}/characters/details/pantomima/) (antes Kayface/Astrid), hijo de [Sombrío]({{ site.baseurl }}/characters/details/sombrio/) (héroe legendario)
 
 ## Descripción
 
@@ -194,11 +194,11 @@ Es **hijo del legendario héroe Sombrío** (activo 1960-1984) y **padre de Panto
 ## Apariciones Documentadas
 
 ### Génesis (2013-2014)
-- **[Génesis - Sesión 03](../../campaigns/genesis/session-03.md)**: Aparición temprana documentada
+- **[Génesis - Sesión 03]({{ site.baseurl }}/campaigns/genesis/session-03/)**: Aparición temprana documentada
 
 ### La Fuerza Oculta (2024-2025)
-- **[Sesión 37 - 2 Noviembre 2025](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)**: Revelado como padre de Pantomima
-- **[Resumen Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes.md)**: Análisis de impacto familiar
+- **[Sesión 37 - 2 Noviembre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)**: Revelado como padre de Pantomima
+- **[Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)**: Análisis de impacto familiar
 
 ## Misterios Sin Resolver
 

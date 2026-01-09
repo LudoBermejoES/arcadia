@@ -284,22 +284,22 @@ Y cuando termine el funeral, Camila irá al Crematorio a llorar en silencio con 
 - **Mentora**: Ana Morales
 - **Refugio emocional**: Crematorio con Dolores
 - **Dilema central**: Supervivencia vs. humanidad, culpa vs. necesidad
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Víctima de su grabación
-- [Dolores Sánchez](dolores-sanchez.md) - Refugio emocional
-- [Renata Lombardi](renata-lombardi.md) - Jefa protectora/explotadora
-- [Diego Aguilar](diego-aguilar.md) - Enamorado manipulado
-- [Marco Aguilar](marco-aguilar.md) - Víctima de extracción
-- [Roberto Mora](roberto-mora.md) - Víctima de extracción
-- [Detective Luis Ochoa](luis-ochoa.md) - Víctima de extracción
-- [Patricia Navarro](patricia-navarro.md) - Compañera de cuarto
-- [Ana Morales](ana-morales.md) - Quien la introdujo a Telaraña
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Víctima de su grabación
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Refugio emocional
+- [Renata Lombardi]({{ site.baseurl }}/characters/details/renata-lombardi/) - Jefa protectora/explotadora
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Enamorado manipulado
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Víctima de extracción
+- [Roberto Mora]({{ site.baseurl }}/characters/details/roberto-mora/) - Víctima de extracción
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Víctima de extracción
+- [Patricia Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) - Compañera de cuarto
+- [Ana Morales]({{ site.baseurl }}/characters/details/ana-morales/) - Quien la introdujo a Telaraña
 
 ---
 

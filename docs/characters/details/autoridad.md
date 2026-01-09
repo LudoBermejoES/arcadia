@@ -127,12 +127,12 @@ Autoridad representa **el peligro de la búsqueda de conocimiento sin límites �
 - **Conexión con eventos actuales** aún por revelar
 
 ## Apariciones Documentadas
-- [La Familia Session 03](../../campaigns/la-familia/session-03.md)
-- [La Familia Session 04](../../campaigns/la-familia/session-04.md)
-- [La Familia Session 20](../../campaigns/la-familia/session-20.md)
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
-- [Fatum Index](../../groups/fatum/index.md)
-- [Hospital Index](../../campaigns/hospital/index.md)
+- [La Familia Session 03]({{ site.baseurl }}/campaigns/la-familia/session-03/)
+- [La Familia Session 04]({{ site.baseurl }}/campaigns/la-familia/session-04/)
+- [La Familia Session 20]({{ site.baseurl }}/campaigns/la-familia/session-20/)
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
+- [Fatum Index]({{ site.baseurl }}/groups/fatum/)
+- [Hospital Index]({{ site.baseurl }}/campaigns/hospital/)
 
 ## Apariciones en las Crónicas
 

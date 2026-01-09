@@ -2,9 +2,6 @@
 
 ## Información Básica
 
-<div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/generic.png" alt="Los Periodistas de Arcadia" />
-</div>
 
 **Nombre del Grupo**: Los Periodistas de Arcadia  
 **Tipo**: Profesionales de Medios y Comunicación  

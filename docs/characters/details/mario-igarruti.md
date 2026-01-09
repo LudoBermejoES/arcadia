@@ -97,10 +97,10 @@ Mario Igarruti es el especialista social de los [Ultracorps](../../groups/ultrac
 ## Relaciones
 
 ### **Equipo Ultracorps**
-- **[Neill O'Hara](oneill.md)**: Respeto profesional hacia el líder sin poderes
-- **[Iñigo Temblez](inigo-temblez.md)**: Colaboración técnica-social en operaciones
-- **[Pablo de la Serna](pablo-de-la-serna.md)**: Contraste entre fuerza bruta y sutileza
-- **[Roberto Gómez](roberto-gomez.md)**: Sincronización en operaciones de infiltración
+- **[Neill O'Hara]({{ site.baseurl }}/characters/details/oneill/)**: Respeto profesional hacia el líder sin poderes
+- **[Iñigo Temblez]({{ site.baseurl }}/characters/details/inigo-temblez/)**: Colaboración técnica-social en operaciones
+- **[Pablo de la Serna]({{ site.baseurl }}/characters/details/pablo-de-la-serna/)**: Contraste entre fuerza bruta y sutileza
+- **[Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/)**: Sincronización en operaciones de infiltración
 
 ### **Red de Contactos**
 - **Submundo de Arcadia**: Conexiones en círculos de prostitución y entretenimiento

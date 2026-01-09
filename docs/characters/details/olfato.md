@@ -17,7 +17,7 @@ slug: olfato
 **Edad**: 16 años  
 **Género**: Masculino  
 **Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
-**Familia**: Hijo de [Estocada](estocada.md)  
+**Familia**: Hijo de [Estocada]({{ site.baseurl }}/characters/details/estocada/)  
 **Especialización**: Percepción Olfativa  
 **Rol**: Rastreador Principal
 
@@ -72,10 +72,10 @@ Olfato actúa como el **rastreador y analista químico** de La Cacería Salvaje.
 ## Relaciones Familiares
 
 ### Con sus Hermanos:
-- **[Vista](vista.md)**: Colaboración perfecta - Vista ve lo que Olfato rastrea
-- **[Oído](oido.md)**: Trabajo conjunto combinando sonidos y olores para rastreo completo
-- **[Tacto](tacto.md)**: Respeto mutuo por sus habilidades sensoriales complementarias
-- **[Gusto](gusto.md)**: Colaboración especial en análisis químico y detección de sustancias
+- **[Vista]({{ site.baseurl }}/characters/details/vista/)**: Colaboración perfecta - Vista ve lo que Olfato rastrea
+- **[Oído]({{ site.baseurl }}/characters/details/oido/)**: Trabajo conjunto combinando sonidos y olores para rastreo completo
+- **[Tacto]({{ site.baseurl }}/characters/details/tacto/)**: Respeto mutuo por sus habilidades sensoriales complementarias
+- **[Gusto]({{ site.baseurl }}/characters/details/gusto/)**: Colaboración especial en análisis químico y detección de sustancias
 
 ### Dinámicas de Edad:
 Como hermano mediano (16 años):

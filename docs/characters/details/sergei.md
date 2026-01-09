@@ -114,9 +114,9 @@ Durante la anomalía nocturna, Sergei experimentó su primer combate real:
 - **Trabajo en Equipo**: Coordinó con Kira, Elena y Tiritas para derrotar todas las criaturas
 
 ## Apariciones Documentadas
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 
 ## Situación Actual (Noviembre 2025)
 Sergei continúa como veterano del reformatorio, ahora asumiendo el papel de mentor para Kira, la recién llegada. Tras la misteriosa desaparición de Amara y Dimitri, Sergei se encuentra ante un nuevo tipo de desafío que podría sacudir incluso su optimismo habitual.

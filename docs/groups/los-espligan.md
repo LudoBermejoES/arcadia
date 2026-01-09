@@ -159,12 +159,12 @@ Los Espligan muestran preferencias específicas:
 - **Supervivencia temporal**: Su naturaleza extratemporal los hace resilientes
 
 ## Apariciones Documentadas
-- [La Familia Session 14](../../campaigns/la-familia/session-14.md) - Ataque durante actuación de Mésmero
-- [La Familia Session 15](../../campaigns/la-familia/session-15.md) - Información histórica de Natasha
-- [La Familia Session 17](../../campaigns/la-familia/session-17.md) - Análisis de laboratorio de muestras
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto de parásitos temporales
-- [La Familia Session 40](../../campaigns/la-familia/session-40.md) - Referencia a "reina espligan"
-- [La Familia Index](../../campaigns/la-familia/index.md) - Fase de parásitos del tiempo
+- [La Familia Session 14]({{ site.baseurl }}/campaigns/la-familia/session-14/) - Ataque durante actuación de Mésmero
+- [La Familia Session 15]({{ site.baseurl }}/campaigns/la-familia/session-15/) - Información histórica de Natasha
+- [La Familia Session 17]({{ site.baseurl }}/campaigns/la-familia/session-17/) - Análisis de laboratorio de muestras
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto de parásitos temporales
+- [La Familia Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/) - Referencia a "reina espligan"
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/) - Fase de parásitos del tiempo
 
 ## Misterios Sin Resolver
 

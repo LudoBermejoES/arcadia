@@ -154,7 +154,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 #### **😈 Organizaciones Villanas (15 grupos)**
 - **La Farándula**: Villanos teatrales del Siglo de Oro *(documentación específica)*
-- **[Fatum Corporation](../groups/fatum.md)**: Megacorporación criminal *(documentación específica)*
+- **[Fatum Corporation]({{ site.baseurl }}/groups/fatum/)**: Megacorporación criminal *(documentación específica)*
 - **Telaraña**: Red criminal jerárquica principal
 - **Puño Gris**: Mafia del distrito asiático *(documentación específica)*
 - **Las Bestias**: Criminales metahumanos bestiales *(documentación específica)*

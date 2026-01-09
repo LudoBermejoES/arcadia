@@ -253,19 +253,19 @@ Gabi se pregunta: **¿Cuánto tiempo más puede sostener esta doble vida antes d
 - **Proveedora de armas**: Marina Volkova
 - **Admiradora**: Ana Morales
 - **Dilema central**: Maternidad secreta vs. vida criminal, lealtad a muerto vs. futuro
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Figura paterna, reclutador
-- [Marcos Villar](marcos-villar.md) - Ex-novio, romance perdido
-- [Isabella Aguilar](isabella-aguilar.md) - Jefa actual
-- [Marco Aguilar](marco-aguilar.md) - Cliente de operaciones
-- [Marina Volkova](marina-volkova.md) - Proveedora de armas
-- [Ana Morales](ana-morales.md) - Admiradora
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Figura paterna, reclutador
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Ex-novio, romance perdido
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Jefa actual
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Cliente de operaciones
+- [Marina Volkova]({{ site.baseurl }}/characters/details/marina-volkova/) - Proveedora de armas
+- [Ana Morales]({{ site.baseurl }}/characters/details/ana-morales/) - Admiradora
 
 ---
 

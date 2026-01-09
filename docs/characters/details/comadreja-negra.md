@@ -33,11 +33,11 @@ A diferencia de su madre (especializada en robos de alto perfil), Comadreja Negr
 Como figura del submundo especializada en intermediación, Comadreja Negra facilita comunicaciones y transacciones entre diferentes facciones criminales. Opera con la astucia y versatilidad heredadas de su madre, necesarias para navegar los peligrosos territorios del mundo criminal arcadiano manteniendo su neutralidad y supervivencia.
 
 ## Apariciones Documentadas
-- [La Familia Session 01](../../campaigns/la-familia/session-01.md)
-- [La Familia Session 28](../../campaigns/la-familia/session-28.md)
-- [La Familia Index](../../campaigns/la-familia/index.md)
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
-- [La Fuerza Oculta AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
+- [La Familia Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/)
+- [La Familia Session 28]({{ site.baseurl }}/campaigns/la-familia/session-28/)
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/)
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
+- [La Fuerza Oculta AI Notes 2025-06-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
 
 ## Detalles Adicionales
 

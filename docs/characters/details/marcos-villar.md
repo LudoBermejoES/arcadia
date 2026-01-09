@@ -81,8 +81,8 @@ Su experiencia como **actor** le permite:
 ## 🔗 Relaciones
 
 ### Compañeros del Crematorio
-- **[Dolores Sánchez](dolores-sanchez.md)**: Compañera atrapada en el bucle, maquilladora mortuoria
-- **[Renata Kovač](renata-kovac.md)**: Compañera atrapada en el bucle, guardia de seguridad
+- **[Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)**: Compañera atrapada en el bucle, maquilladora mortuoria
+- **[Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)**: Compañera atrapada en el bucle, guardia de seguridad
 
 ### NPCs Relacionados
 - **Detective Luis Ochoa**: Investigador que aparece en cada iteración del bucle
@@ -140,15 +140,15 @@ El bucle temporal le obliga a **revivir el mismo día repetidamente**, poniendo 
 - **Lugar de trabajo**: Crematorio La Tranquilidad
 - **Habilidades especiales**: Empatía, comunicación, lectura de personas
 - **Estado actual**: Atrapado en bucle temporal
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Ver Dolores Sánchez](dolores-sanchez.md)
-- [Ver Renata Kovač](renata-kovac.md)
+- [Ver Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)
+- [Ver Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)
 - [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---

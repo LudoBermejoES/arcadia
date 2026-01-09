@@ -25,11 +25,11 @@ Lumen actúa como miembro del grupo "Génesis" con un rol especial debido a su n
 - Presencia significativa: Su mera existencia atrae la atención de entidades poderosas
 
 ## Apariciones Documentadas
-- [Genesis Session 02](../../campaigns/genesis/session-02.md)
-- [Genesis Session 03](../../campaigns/genesis/session-03.md)
-- [Genesis Session 04](../../campaigns/genesis/session-04.md)
-- [Genesis Session 05](../../campaigns/genesis/session-05.md)
-- [Genesis Session 06](../../campaigns/genesis/session-06.md)
+- [Genesis Session 02]({{ site.baseurl }}/campaigns/genesis/session-02/)
+- [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
+- [Genesis Session 04]({{ site.baseurl }}/campaigns/genesis/session-04/)
+- [Genesis Session 05]({{ site.baseurl }}/campaigns/genesis/session-05/)
+- [Genesis Session 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
 ## Detalles Adicionales
 Lumen es clasificada como "muy nueva" por el Faraón, una categoría aún más pura que Sara10, quien es simplemente "nueva". Esta clasificación sugiere que representa una forma completamente nueva o evolucionada de metahumano.

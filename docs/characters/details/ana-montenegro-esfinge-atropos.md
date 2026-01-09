@@ -77,13 +77,13 @@ Su dominio sobre el tiempo evolucionó dramáticamente a lo largo de su arco nar
 - **Mentoría**: Guía para jóvenes metahumanos
 
 ## Apariciones Documentadas
-- [Session 01](../../campaigns/la-familia/session-01.md) - Rescatada como "Atropos-Esfinge"
-- [Session 12](../../campaigns/la-familia/session-12.md)
-- [Session 14](../../campaigns/la-familia/session-14.md)
-- [Session 26](../../campaigns/la-familia/session-26.md)
-- [Session 32](../../campaigns/la-familia/session-32.md)
-- [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md) - Reunión 10 años después
-- [Session 43](../../campaigns/la-familia/session-43-2025-09-11.md) - Transformada en armadura de oro, lidera exploración dimensional y negocia con Esfinge
+- [Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/) - Rescatada como "Atropos-Esfinge"
+- [Session 12]({{ site.baseurl }}/campaigns/la-familia/session-12/)
+- [Session 14]({{ site.baseurl }}/campaigns/la-familia/session-14/)
+- [Session 26]({{ site.baseurl }}/campaigns/la-familia/session-26/)
+- [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
+- [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/) - Reunión 10 años después
+- [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Transformada en armadura de oro, lidera exploración dimensional y negocia con Esfinge
 - [La Fuerza Oculta AI Notes](../../campaigns/la-fuerza-oculta/ai-notes/) - Como abogada Ana Montenegro
 
 ## La Transformación Cósmica - Embarazo Temporal

@@ -555,29 +555,29 @@ Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó 
 
 **Fase Profesionalización** (Julio 2025):
 - [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/)
-- [AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md) - Operación Metro
-- [AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
+- [AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) - Operación Metro
+- [AI Notes 2025-07-28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/)
 
 **Fase Consolidación** (Agosto 2025):
-- [Sesión 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
-- [AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
-- [Sesión 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
-- [AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
-- [Sesión 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md) - Les Enfant Terribles
-- [AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
-- [Sesión 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md) - Gorilas Dorados
-- [AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
-- [Sesión 30](../../campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30.md) - Cacharrero
-- [AI Notes 2025-08-30](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes.md)
+- [Sesión 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/)
+- [AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
+- [Sesión 27]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/)
+- [AI Notes 2025-08-10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
+- [Sesión 28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/) - Les Enfant Terribles
+- [AI Notes 2025-08-17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
+- [Sesión 29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/) - Gorilas Dorados
+- [AI Notes 2025-08-24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
+- [Sesión 30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30/) - Cacharrero
+- [AI Notes 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 
 **Fase Revelación** (Octubre-Noviembre 2025):
-- [Sesión 34](../../campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12.md) - Bugatti
-- [AI Notes 2025-10-12](../../campaigns/la-fuerza-oculta/ai-notes/2025-10-12-gemini-notes.md)
-- [Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md) - **Revelación del Linaje**
-- [Resumen Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes.md)
-- [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md) - Fiesta de Eneiros
-- [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Ataque mercenario y pérdida de poderes
-- [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
+- [Sesión 34]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/) - Bugatti
+- [AI Notes 2025-10-12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-10-12-gemini-notes/)
+- [Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/) - **Revelación del Linaje**
+- [Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/) - Fiesta de Eneiros
+- [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Ataque mercenario y pérdida de poderes
+- [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 
 ---
 

@@ -66,7 +66,7 @@ Lucifer aparece en referencias a la historia heroica clásica de Arcadia y en co
 Como héroe clásico, Lucifer representa parte de la fundación histórica del heroísmo en Arcadia, contribuyendo al establecimiento de tradiciones y estándares que definen la cultura metahumana heroica.
 
 ## Apariciones Documentadas
-- [Génesis - Sesión 03](../../campaigns/genesis/session-03.md)
+- [Génesis - Sesión 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
 
 ---
 

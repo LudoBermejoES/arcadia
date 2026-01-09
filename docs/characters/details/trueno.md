@@ -98,11 +98,11 @@ Su misteriosa desaparición ha creado:
 - **Búsqueda activa**: Los MetaCorp necesitan localizarlo, sugiriendo su importancia crítica para la organización
 
 ## Apariciones Documentadas
-- [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
-- [La Familia - Sesión 19](../../campaigns/la-familia/session-19.md)
-- [La Familia - Sesión 27](../../campaigns/la-familia/session-27.md)
-- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
-- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Familia - Sesión 05]({{ site.baseurl }}/campaigns/la-familia/session-05/)
+- [La Familia - Sesión 19]({{ site.baseurl }}/campaigns/la-familia/session-19/)
+- [La Familia - Sesión 27]({{ site.baseurl }}/campaigns/la-familia/session-27/)
+- [La Familia - Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
+- [La Familia - Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
 
 ---
 

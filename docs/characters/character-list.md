@@ -183,7 +183,7 @@ permalink: /characters/character-list/
 ## Seres Antiguos y Sobrenaturales
 
 ### Entidades Místicas
-- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-entidad/) (entidad antigua)
+- Lucifer (entidad antigua)
 - [Bastet]({{ site.baseurl }}/characters/details/bastet/)
 - [Alfred]({{ site.baseurl }}/characters/details/alfred/)
 - [El Golem]({{ site.baseurl }}/characters/details/el-golem/)

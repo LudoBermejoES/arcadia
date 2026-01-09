@@ -158,9 +158,9 @@ Durante la anomalía nocturna, Kira reveló el verdadero alcance de sus poderes:
 - **Coordinación**: Trabajó en equipo con Sergei, Elena y Tiritas para victoria total
 
 ## Apariciones Documentadas
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 
 ## Situación Actual (Noviembre 2025)
 Kira está en sus **primeros días** en el reformatorio, navegando un mundo completamente nuevo mientras procesa el trauma de su accidente. La desaparición de Amara y Dimitri añade un elemento de terror a su ya difícil adaptación.

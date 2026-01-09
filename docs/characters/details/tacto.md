@@ -17,7 +17,7 @@ slug: tacto
 **Edad**: 18 años  
 **Género**: Femenino  
 **Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
-**Familia**: Hija de [Estocada](estocada.md)  
+**Familia**: Hija de [Estocada]({{ site.baseurl }}/characters/details/estocada/)  
 **Especialización**: Percepción Táctil  
 **Rol**: Especialista en Reconocimiento Físico y Co-líder
 
@@ -78,9 +78,9 @@ Tacto actúa como **co-líder y especialista en reconocimiento táctil** de La C
 - **Coordinación Perfect**: Trabajan como equipo unificado
 
 ### Con sus Hermanos Menores:
-- **[Oído](oido.md)**: Comparte experiencias como una de las dos hermanas
-- **[Olfato](olfato.md)**: Respeto por sus habilidades complementarias de detección
-- **[Gusto](gusto.md)**: Protección maternal especial por ser el menor
+- **[Oído]({{ site.baseurl }}/characters/details/oido/)**: Comparte experiencias como una de las dos hermanas
+- **[Olfato]({{ site.baseurl }}/characters/details/olfato/)**: Respeto por sus habilidades complementarias de detección
+- **[Gusto]({{ site.baseurl }}/characters/details/gusto/)**: Protección maternal especial por ser el menor
 
 ### Dinámicas de Género:
 Como la hermana mayor:

@@ -104,10 +104,10 @@ Pablo de la Serna es el comandante táctico y especialista de fuerza veterano de
 ## Relaciones
 
 ### **Equipo Ultracorps**
-- **[Neill O'Hara](oneill.md)**: Respeto total hacia la experiencia de liderazgo del comandante
-- **[Mario Igarruti](mario-igarruti.md)**: Coordinación fuerza-diplomacia en operaciones complejas
-- **[Iñigo Temblez](inigo-temblez.md)**: Protección del especialista técnico durante misiones peligrosas
-- **[Roberto Gómez](roberto-gomez.md)**: Complementariedad entre fuerza bruta y agilidad táctica
+- **[Neill O'Hara]({{ site.baseurl }}/characters/details/oneill/)**: Respeto total hacia la experiencia de liderazgo del comandante
+- **[Mario Igarruti]({{ site.baseurl }}/characters/details/mario-igarruti/)**: Coordinación fuerza-diplomacia en operaciones complejas
+- **[Iñigo Temblez]({{ site.baseurl }}/characters/details/inigo-temblez/)**: Protección del especialista técnico durante misiones peligrosas
+- **[Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/)**: Complementariedad entre fuerza bruta y agilidad táctica
 
 ### **Comunidad Militar**
 - **MetaCorp Tactical Division**: Enlaces con otras unidades de combate especializadas

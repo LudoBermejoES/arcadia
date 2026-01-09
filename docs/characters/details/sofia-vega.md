@@ -5,9 +5,6 @@ permalink: /characters/details/sofia-vega/
 slug: sofia-vega
 ---
 
-<div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Sofia_Vega.png" alt="Sofía La Contadora Vega" />
-</div>
 
 # Sofía "La Contadora" Vega
 
@@ -253,21 +250,21 @@ El funeral es transacción como cualquier otra. Federico está muerto, pero los 
 - **Lugar de paz**: Crematorio La Tranquilidad (visitas regulares)
 - **Secreto mortal**: Ubicación de 500M de Federico
 - **Dilema central**: Retiro vs. lealtad, libertad vs. responsabilidad
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Empleador durante 40 años
-- [Marcos Villar](marcos-villar.md) - Le da momentos de humanidad
-- [Omar Hassan](omar-hassan.md) - Su aprendiz brillante
-- [Carmela Aguilar](carmela-aguilar.md) - Amiga de 40 años
-- [Renata Lombardi](renata-lombardi.md) - Amiga de 40 años
-- [Viktor Petrov](viktor-petrov.md) - Único amigo verdadero
-- [Lucía Herrera](lucia-herrera.md) - Colaboradora legal
-- [Dr. Javier Santana](javier-santana.md) - Le paga en efectivo
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Empleador durante 40 años
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Le da momentos de humanidad
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Su aprendiz brillante
+- [Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Amiga de 40 años
+- [Renata Lombardi]({{ site.baseurl }}/characters/details/renata-lombardi/) - Amiga de 40 años
+- [Viktor Petrov]({{ site.baseurl }}/characters/details/viktor-petrov/) - Único amigo verdadero
+- [Lucía Herrera]({{ site.baseurl }}/characters/details/lucia-herrera/) - Colaboradora legal
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) - Le paga en efectivo
 
 ---
 

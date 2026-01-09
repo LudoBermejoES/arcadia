@@ -60,8 +60,8 @@ Hassan fue designado por Malik para supervisar la renovación completa de la bas
 - **Infraestructura internet**: Instalación de cables RJ45 para conectividad
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md) - Designación como capataz para renovación de base
-- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md) - Contexto de servicios especializados
+- [La Fuerza Oculta Session 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/) - Designación como capataz para renovación de base
+- [La Fuerza Oculta AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) - Contexto de servicios especializados
 
 ## Importancia Operativa
 

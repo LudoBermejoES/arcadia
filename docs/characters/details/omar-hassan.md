@@ -270,20 +270,20 @@ Y mientras todos lloran, Omar calcula: **35 millones más y puede desaparecer pa
 - **Mentor**: Sofía Vega (técnicas tradicionales)
 - **Colaborador técnico**: Roberto Mora (infraestructura digital)
 - **Dilema central**: Escapar ahora con 15M vs. esperar 7 años más por 50M
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Quien lo reclutó y corrompió
-- [Marcos Villar](marcos-villar.md) - Su ancla de normalidad
-- [Diego Aguilar](diego-aguilar.md) - Amigo de infancia usado como herramienta
-- [Isabella Aguilar](isabella-aguilar.md) - Su jefa actual
-- [Roberto Mora](roberto-mora.md) - Colaborador técnico
-- [Sofía Vega](sofia-vega.md) - Su mentora financiera
-- [Lucía Herrera](lucia-herrera.md) - Abogada que estructura operaciones
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Quien lo reclutó y corrompió
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Su ancla de normalidad
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Amigo de infancia usado como herramienta
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Su jefa actual
+- [Roberto Mora]({{ site.baseurl }}/characters/details/roberto-mora/) - Colaborador técnico
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Su mentora financiera
+- [Lucía Herrera]({{ site.baseurl }}/characters/details/lucia-herrera/) - Abogada que estructura operaciones
 
 ---
 

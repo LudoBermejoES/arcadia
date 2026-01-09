@@ -26,7 +26,7 @@ Anianca es una joven habitante del Distrito Gótico, nieta de una residente del 
 **Hermana Protectora**: En las visiones o recuerdos revelados durante la investigación, se mostró como una niña rubia que protegía a su hermano menor tras la muerte de su madre.
 
 ## Apariciones Documentadas
-- [La Familia Session 23](../../campaigns/la-familia/session-23.md)
+- [La Familia Session 23]({{ site.baseurl }}/campaigns/la-familia/session-23/)
 
 **Desaparición Inicial**: Su abuela informó que había desaparecido desde hacía dos días, con temores de que hubiera ido "A la Umbría" y no hubiera regresado.
 

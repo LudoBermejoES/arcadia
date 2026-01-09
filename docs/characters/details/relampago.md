@@ -82,17 +82,17 @@ Según registros de 2025, Relámpago:
 - Demostró una postura más independiente respecto a MetaCorp
 
 ## Apariciones Documentadas
-- [La Familia - Sesión 02](../../campaigns/la-familia/session-02.md)
-- [La Familia - Sesión 05](../../campaigns/la-familia/session-05.md)
-- [La Familia - Sesión 14](../../campaigns/la-familia/session-14.md)
-- [La Familia - Sesión 17](../../campaigns/la-familia/session-17.md)
-- [La Familia - Sesión 18](../../campaigns/la-familia/session-18.md)
-- [La Familia - Sesión 20](../../campaigns/la-familia/session-20.md)
-- [La Familia - Sesión 27](../../campaigns/la-familia/session-27.md)
-- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
-- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
-- [La Fuerza Oculta - Summary](../../campaigns/la-fuerza-oculta/summary/summary.md)
-- [La Fuerza Oculta - AI Notes (15 Junio 2025)](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
+- [La Familia - Sesión 02]({{ site.baseurl }}/campaigns/la-familia/session-02/)
+- [La Familia - Sesión 05]({{ site.baseurl }}/campaigns/la-familia/session-05/)
+- [La Familia - Sesión 14]({{ site.baseurl }}/campaigns/la-familia/session-14/)
+- [La Familia - Sesión 17]({{ site.baseurl }}/campaigns/la-familia/session-17/)
+- [La Familia - Sesión 18]({{ site.baseurl }}/campaigns/la-familia/session-18/)
+- [La Familia - Sesión 20]({{ site.baseurl }}/campaigns/la-familia/session-20/)
+- [La Familia - Sesión 27]({{ site.baseurl }}/campaigns/la-familia/session-27/)
+- [La Familia - Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
+- [La Familia - Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
+- [La Fuerza Oculta - Summary]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/)
+- [La Fuerza Oculta - AI Notes (15 Junio 2025)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
 
 ## Impacto en la Narrativa
 

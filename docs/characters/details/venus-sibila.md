@@ -79,12 +79,12 @@ Venus/Sibila aparece en referencias históricas sobre los orígenes del heroísm
 Como heroína histórica, Venus/Sibila representa los orígenes del heroísmo femenino en Arcadia, estableciendo tradiciones y precedentes que influyeron en el desarrollo posterior de la comunidad heroica.
 
 ## Apariciones Documentadas
-- [La Familia - Sesión 03](../../campaigns/la-familia/session-03.md)
-- [La Familia - Sesión 04](../../campaigns/la-familia/session-04.md)
-- [La Familia - Sesión 11](../../campaigns/la-familia/session-11.md)
-- [La Familia - Sesión 16](../../campaigns/la-familia/session-16.md)
-- [La Familia - Index](../../campaigns/la-familia/index.md)
-- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Familia - Sesión 03]({{ site.baseurl }}/campaigns/la-familia/session-03/)
+- [La Familia - Sesión 04]({{ site.baseurl }}/campaigns/la-familia/session-04/)
+- [La Familia - Sesión 11]({{ site.baseurl }}/campaigns/la-familia/session-11/)
+- [La Familia - Sesión 16]({{ site.baseurl }}/campaigns/la-familia/session-16/)
+- [La Familia - Index]({{ site.baseurl }}/campaigns/la-familia/)
+- [La Familia - Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
 
 ---
 

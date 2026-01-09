@@ -21,7 +21,7 @@ permalink: /groups/la-caceria-salvaje/
 
 ## Descripción
 
-La Cacería Salvaje es un grupo único de cinco metahumanos bestiales, todos con características felinas y hermanos entre sí, hijos de [Estocada](../characters/details/estocada.md). Este grupo opera como vigilantes en el Barrio Gótico de Arcadia, luchando por la justicia desde las sombras. Su naturaleza bestial hace que no puedan pasar desapercibidos, razón por la cual evitan el foco público y mantienen su sede en una ubicación secreta.
+La Cacería Salvaje es un grupo único de cinco metahumanos bestiales, todos con características felinas y hermanos entre sí, hijos de [Estocada]({{ site.baseurl }}/characters/details/estocada/). Este grupo opera como vigilantes en el Barrio Gótico de Arcadia, luchando por la justicia desde las sombras. Su naturaleza bestial hace que no puedan pasar desapercibidos, razón por la cual evitan el foco público y mantienen su sede en una ubicación secreta.
 
 ## Historia del Grupo
 

@@ -86,9 +86,9 @@ Lorena formó parte de un equipo especializado:
 - **Enfoque interdisciplinario**: Combinación de técnicas psíquicas y tecnológicas
 
 ## Apariciones Documentadas
-- [Hospital Session 01](../../campaigns/hospital/session-01.md) - Investigación principal del hospital abandonado
-- [Hospital Session 02](../../campaigns/hospital/session-02.md) - Continuación de la investigación
-- [Hospital Index](../../campaigns/hospital/index.md) - Contexto de la campaña hospitalaria
+- [Hospital Session 01]({{ site.baseurl }}/campaigns/hospital/session-01/) - Investigación principal del hospital abandonado
+- [Hospital Session 02]({{ site.baseurl }}/campaigns/hospital/session-02/) - Continuación de la investigación
+- [Hospital Index]({{ site.baseurl }}/campaigns/hospital/) - Contexto de la campaña hospitalaria
 
 ## Teorías sobre su Desaparición
 

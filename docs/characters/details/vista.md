@@ -17,7 +17,7 @@ slug: vista
 **Edad**: 18 años  
 **Género**: Masculino  
 **Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
-**Familia**: Hijo de [Estocada](estocada.md)  
+**Familia**: Hijo de [Estocada]({{ site.baseurl }}/characters/details/estocada/)  
 **Especialización**: Percepción Visual  
 **Rol**: Líder del grupo
 
@@ -72,10 +72,10 @@ Vista actúa como el **coordinador táctico y líder** de La Cacería Salvaje. S
 ## Relaciones Familiares
 
 ### Con sus Hermanos:
-- **[Tacto](tacto.md)**: Comparte liderazgo como co-mayor del grupo
-- **[Oído](oido.md)**: Colaboración estrecha en reconocimiento
-- **[Olfato](olfato.md)**: Trabajo conjunto en rastreo y seguimiento
-- **[Gusto](gusto.md)**: Protección especial por ser el menor
+- **[Tacto]({{ site.baseurl }}/characters/details/tacto/)**: Comparte liderazgo como co-mayor del grupo
+- **[Oído]({{ site.baseurl }}/characters/details/oido/)**: Colaboración estrecha en reconocimiento
+- **[Olfato]({{ site.baseurl }}/characters/details/olfato/)**: Trabajo conjunto en rastreo y seguimiento
+- **[Gusto]({{ site.baseurl }}/characters/details/gusto/)**: Protección especial por ser el menor
 
 ### Legado Paterno:
 - **Orgullo por Estocada**: Respeta profundamente el legado heroico de su padre

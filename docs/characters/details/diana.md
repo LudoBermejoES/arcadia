@@ -176,7 +176,7 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Conversación post-Gorilas Dorados marcó un antes y después
 - Ancla emocional que le permite desafiar destino de Fatum
 - Primer rechazo temporal tras revelación de Apolo
-- [Ver conversación completa](../pensamientos/Psique_y_Diana.md)
+- [Ver conversación completa]({{ site.baseurl }}/characters/pensamientos/psique-y-diana/)
 
 ### Dentro de La Fuerza Oculta
 
@@ -303,23 +303,23 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07-2024-04-28/)
 - [Sesión 20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/)
 - [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/) - Operación Metro
-- [AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
-- [AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
-- [AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
-- [Sesión 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md)
-- [AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md)
-- [Sesión 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
-- [AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
-- [Sesión 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md) - Les Enfant Terribles
-- [AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
-- [Sesión 29](../../campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md) - Gorilas Dorados
-- [AI Notes 2025-08-24](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes.md)
-- [AI Notes 2025-09-14](../../campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes.md)
-- [Sesión 32](../../campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14.md)
-- [AI Notes 2025-11-02](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)
-- [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
-- [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Isla Sal
-- [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
+- [AI Notes 2025-06-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
+- [AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/)
+- [AI Notes 2025-07-28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/)
+- [Sesión 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/)
+- [AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
+- [Sesión 27]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/)
+- [AI Notes 2025-08-10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
+- [Sesión 28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/) - Les Enfant Terribles
+- [AI Notes 2025-08-17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
+- [Sesión 29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/) - Gorilas Dorados
+- [AI Notes 2025-08-24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
+- [AI Notes 2025-09-14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes/)
+- [Sesión 32]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/)
+- [AI Notes 2025-11-02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)
+- [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)
+- [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Isla Sal
+- [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales

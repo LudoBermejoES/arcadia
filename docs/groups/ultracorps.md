@@ -305,12 +305,12 @@ Los Ultracorps han evolucionado hasta convertirse en la división más respetada
 
 ### Referencias Principales
 - [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md) - Presentación pública y atentado Freiglasung
-- [Freiglasung](freiglasung.md) - Contexto del atentado durante su presentación
+- [Freiglasung]({{ site.baseurl }}/groups/freiglasung/) - Contexto del atentado durante su presentación
 - [MetaCorp](character-groups.md#metacorp) - Organización matriz y estructura operativa
 
 ### Contexto Histórico
 - [Ambientación - Los MetaCorp]({{ site.baseurl }}/world-building/ambientacion/#los-metacorp) - Evolución de la organización
-- [Historia - Maturity Arrives](../../world-building/history/06-maturity-arrives.md) - Desarrollo institucional
+- [Historia - Maturity Arrives]({{ site.baseurl }}/world-building/06-maturity-arrives/) - Desarrollo institucional
 
 ---
 

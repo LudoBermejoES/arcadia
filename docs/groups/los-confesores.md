@@ -126,10 +126,10 @@ Los Confesores **adquirieron notoriedad pública** cuando fue encontrada **una n
 - **Sacrificio personal**: Disposición al martirio por la causa
 
 ## Apariciones Documentadas
-- [La Familia Session 15](../../campaigns/la-familia/session-15.md) - Información sobre su naturaleza y ubicación
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto de caza de espligan
-- [La Familia Index](../../campaigns/la-familia/index.md) - Fase de parásitos temporales
-- [Fatum Corporation](fatum.md) - Colaboración ocasional antimeta
+- [La Familia Session 15]({{ site.baseurl }}/campaigns/la-familia/session-15/) - Información sobre su naturaleza y ubicación
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto de caza de espligan
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/) - Fase de parásitos temporales
+- [Fatum Corporation]({{ site.baseurl }}/groups/fatum/) - Colaboración ocasional antimeta
 
 ## Amenaza Actual y Futura
 

@@ -71,7 +71,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 ## Grupos Villanos y Criminales
 
-### [Fatum Corporation](fatum.md)
+### [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 **Tipo**: Megacorporación Criminal  
 **Concepto**: Corporación que opera simultáneamente en los mundos legítimo e ilegal, con tentáculos que se extienden a través de toda la sociedad arcadiana
 
@@ -174,7 +174,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 **Información**: Grupo político que se opone a los derechos y presencia de metahumanos en la sociedad.
 
-#### [Freiglasung](freiglasung.md)
+#### [Freiglasung]({{ site.baseurl }}/groups/freiglasung/)
 **Tipo**: Grupo terrorista (desmantelado)  
 **Concepto**: Brazo armado terrorista de Humanitas
 
@@ -202,7 +202,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Comunidad religiosa
 
 **Miembros**:
-- [Las monjas del albergue]({{ site.baseurl }}/characters/details/las-monjas-del-albergue/)
+- Las monjas del albergue
 
 #### Los Sirianos
 **Tipo**: Secta religiosa  

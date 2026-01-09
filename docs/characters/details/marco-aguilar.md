@@ -241,20 +241,20 @@ Cada interacción en el funeral es una bomba de tiempo. Marco está al borde del
 - **Cicatrices**: Físicas del atentado de 2019, psicológicas de toda una vida
 - **Familia**: Hermano de Isabella, padre de Diego, sobrino de Federico
 - **Dilema central**: Líder o soldado, venganza o aceptación
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su tío, mentor y dios caído
-- [Isabella Aguilar](isabella-aguilar.md) - Su hermana, rival invisible
-- [Diego Aguilar](diego-aguilar.md) - Su hijo, legado de violencia
-- [Marcos Villar](marcos-villar.md) - Conexión trágica del atentado 2019
-- [Salvatore Rossi](salvatore-rossi.md) - Su mentor decepcionado
-- [Arturo Mendoza](arturo-mendoza.md) - Veterano que lo entrenó
-- [Roberto Mora](roberto-mora.md) - Su ingeniero comandado
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su tío, mentor y dios caído
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Su hermana, rival invisible
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Su hijo, legado de violencia
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Conexión trágica del atentado 2019
+- [Salvatore Rossi]({{ site.baseurl }}/characters/details/salvatore-rossi/) - Su mentor decepcionado
+- [Arturo Mendoza]({{ site.baseurl }}/characters/details/arturo-mendoza/) - Veterano que lo entrenó
+- [Roberto Mora]({{ site.baseurl }}/characters/details/roberto-mora/) - Su ingeniero comandado
 
 ---
 

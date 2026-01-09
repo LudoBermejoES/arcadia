@@ -84,16 +84,16 @@ Lleva 30 años rezando por sus víctimas. El peso de esas oraciones lo está des
 - **Años de servicio**: 30 años (1985-2015)
 - **Especialidad**: Sicario, músculo, ejecuciones
 - **Objeto personal**: Rosario del sacerdote
-- **Primera aparición**: [Sesión 1]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces
 
-- [Federico Aguilar](federico-aguilar.md) - Su jefe y salvador
-- [Marcos Villar](marcos-villar.md) - Conexión trágica desconocida
-- [Andrés Ríos](andres-rios.md) - Protegido que no escuchó
-- [Luis Ochoa](luis-ochoa.md) - Testigo de su caída
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su jefe y salvador
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Conexión trágica desconocida
+- [Andrés Ríos]({{ site.baseurl }}/characters/details/andres-rios/) - Protegido que no escuchó
+- [Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Testigo de su caída
 
 ---
 

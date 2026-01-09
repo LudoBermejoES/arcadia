@@ -176,18 +176,18 @@ Pero Eugenio lo ejecuta con dignidad, porque eso es lo único que le queda: **la
 - **Años confesando a Federico**: 25 años (2000-2025)
 - **Objeto más peligroso**: Biblia hueca con cuaderno de confesiones
 - **Dilema central**: Secreto de confesión vs. justicia
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su penitente durante 25 años
-- [Dolores Sánchez](dolores-sanchez.md) - Respeto cínico mutuo
-- [Doña Carmela Aguilar](dona-carmela-aguilar.md) - Penitente poderosa
-- [Valentina Aguilar](valentina-aguilar.md) - Bautizada en la infancia
-- [Diego Aguilar](diego-aguilar.md) - Bautizado en la infancia
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su penitente durante 25 años
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Respeto cínico mutuo
+- [Doña Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Penitente poderosa
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Bautizada en la infancia
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Bautizado en la infancia
 
 ---
 

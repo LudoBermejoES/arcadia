@@ -50,7 +50,11 @@
       "Bash(npm view:*)",
       "Bash(npx markdown-link-check:*)",
       "Bash(npx linkinator:*)",
-      "Bash(grep:*)"
+      "Bash(grep:*)",
+      "Bash(git -C \"c:/code/ArcadiaPage\" status --short)",
+      "Bash(git -C \"c:/code/ArcadiaPage\" log -3 --oneline)",
+      "Bash(git -C \"c:/code/ArcadiaPage\" add -A)",
+      "Bash(git -C \"c:/code/ArcadiaPage\" commit -m \"$(cat <<''EOF''\nCorrección masiva de enlaces rotos (~130 archivos)\n\n- Corregir natacha.jpg → natacha.png\n- Restaurar imagen la-comadreja.png en La Comadreja Gris\n- Corregir enlaces anidados en caos.md y sombrio.md\n- Eliminar referencias a imágenes inexistentes (Sofia_Vega, Marina_Volkova, Elena_Ortiz, generic.png)\n- Eliminar enlaces rotos a lucifer-entidad y las-monjas-del-albergue\n- Convertir ~300 enlaces relativos .md a formato Jekyll con site.baseurl\n- Corregir enlaces en groups/, locations/ y characters/details/\n\n🤖 Generated with [Claude Code](https://claude.com/claude-code)\n\nCo-Authored-By: Claude Opus 4.5 <noreply@anthropic.com>\nEOF\n)\")"
     ],
     "deny": [],
     "ask": [],

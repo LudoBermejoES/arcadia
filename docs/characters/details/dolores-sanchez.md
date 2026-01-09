@@ -108,8 +108,8 @@ Llegó el mismo año que comenzó La Familia, lo que significa:
 ## 🔗 Relaciones
 
 ### Compañeros del Crematorio
-- **[Marcos Villar](marcos-villar.md)**: Compañero atrapado en el bucle, recepcionista
-- **[Renata Kovač](renata-kovac.md)**: Compañera atrapada en el bucle, guardia de seguridad
+- **[Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)**: Compañero atrapado en el bucle, recepcionista
+- **[Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)**: Compañera atrapada en el bucle, guardia de seguridad
 
 ### NPCs Relacionados
 - **Federico Aguilar** (difunto): Su cuerpo es el centro de su trabajo y del misterio
@@ -169,15 +169,15 @@ El maquillaje mortuorio es un **arte que transforma lo horrible en paz**. Dolore
 - **Experiencia**: 15 años en arte mortuorio
 - **Especialización**: Preparación de cadáveres metahumanos
 - **Estado actual**: Atrapada en bucle temporal
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Ver Marcos Villar](marcos-villar.md)
-- [Ver Renata Kovač](renata-kovac.md)
+- [Ver Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)
+- [Ver Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)
 - [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---

@@ -25,9 +25,9 @@ Thomas actúa como el rastreador y combatiente físico del grupo "Génesis". Su 
 - Resistencia al daño: Demostrada en combate contra criaturas sobrenaturales
 
 ## Apariciones Documentadas
-- [Genesis Session 02](../../campaigns/genesis/session-02.md)
-- [Genesis Session 03](../../campaigns/genesis/session-03.md)
-- [Genesis Session 06](../../campaigns/genesis/session-06.md)
+- [Genesis Session 02]({{ site.baseurl }}/campaigns/genesis/session-02/)
+- [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
+- [Genesis Session 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
 ## Detalles Adicionales
 Thomas es clasificado como "antiguo" junto con Alice, lo que significa que es perseguido tanto por "los Alados" como por "agentes del Emperador Oscuro". Esta naturaleza antigua sugiere una existencia cíclica, habiendo "nacido y muerto cientos de veces" según Alfred.

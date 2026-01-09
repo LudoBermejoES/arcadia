@@ -262,21 +262,21 @@ El funeral es oportunidad de negocios. Federico está muerto, pero la familia Ag
 - **Archivo secreto**: 10 años de documentos comprometedores
 - **Caso que la persigue**: Violador liberado que reincidió (2016)
 - **Dilema central**: Éxito profesional vs. muerte de idealismo
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Cliente principal durante 10 años
-- [Dolores Sánchez](dolores-sanchez.md) - Consultora forense
-- [Carmela Aguilar](carmela-aguilar.md) - Cliente actual
-- [Isabella Aguilar](isabella-aguilar.md) - Cliente actual
-- [Sofía Vega](sofia-vega.md) - Colaboradora financiera
-- [Omar Hassan](omar-hassan.md) - Implementador digital
-- [Detective Luis Ochoa](luis-ochoa.md) - Colaborador policial
-- [Renata Lombardi](renata-lombardi.md) - Proveedora de chantaje
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Cliente principal durante 10 años
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Consultora forense
+- [Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Cliente actual
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Cliente actual
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Colaboradora financiera
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Implementador digital
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Colaborador policial
+- [Renata Lombardi]({{ site.baseurl }}/characters/details/renata-lombardi/) - Proveedora de chantaje
 
 ---
 

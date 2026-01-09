@@ -118,9 +118,9 @@ Su caso expuso:
 - **Tecnología de extracción**: Métodos desarrollados para aprovechar sus habilidades
 
 ## Apariciones Documentadas
-- [La Familia Session 19](../../campaigns/la-familia/session-19.md) - Descubrimiento del laboratorio secreto
-- [La Familia Session 20](../../campaigns/la-familia/session-20.md) - Revelación del plan del alcalde
-- [La Familia Index](../../campaigns/la-familia/index.md) - Contexto de corrupción gubernamental
+- [La Familia Session 19]({{ site.baseurl }}/campaigns/la-familia/session-19/) - Descubrimiento del laboratorio secreto
+- [La Familia Session 20]({{ site.baseurl }}/campaigns/la-familia/session-20/) - Revelación del plan del alcalde
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/) - Contexto de corrupción gubernamental
 
 ## Legado y Significado
 

@@ -110,10 +110,10 @@ Roberto Gómez es el maestro de infiltración y coordinador de inteligencia de l
 ## Relaciones
 
 ### **Equipo Ultracorps**
-- **[Neill O'Hara](oneill.md)**: Respeto por la experiencia investigativa que complementa sus habilidades
-- **[Mario Igarruti](mario-igarruti.md)**: Coordinación infiltración-manipulación para operaciones complejas
-- **[Iñigo Temblez](inigo-temblez.md)**: Colaboración técnica para bypass de sistemas de seguridad
-- **[Pablo de la Serna](pablo-de-la-serna.md)**: Contraste operativo entre sigilo y fuerza directa
+- **[Neill O'Hara]({{ site.baseurl }}/characters/details/oneill/)**: Respeto por la experiencia investigativa que complementa sus habilidades
+- **[Mario Igarruti]({{ site.baseurl }}/characters/details/mario-igarruti/)**: Coordinación infiltración-manipulación para operaciones complejas
+- **[Iñigo Temblez]({{ site.baseurl }}/characters/details/inigo-temblez/)**: Colaboración técnica para bypass de sistemas de seguridad
+- **[Pablo de la Serna]({{ site.baseurl }}/characters/details/pablo-de-la-serna/)**: Contraste operativo entre sigilo y fuerza directa
 
 ### **Red de Contactos Especializados**
 - **Informantes urbanos**: Red de fuentes en diferentes distritos de Arcadia

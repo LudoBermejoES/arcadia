@@ -5,9 +5,6 @@ permalink: /characters/details/elena-ortiz/
 slug: elena-ortiz
 ---
 
-<div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Elena_Ortiz.png" alt="Doctora Elena Ortiz" />
-</div>
 
 # Doctora Elena Ortiz
 
@@ -236,18 +233,18 @@ Y Elena se pregunta: **cuando ella muera, ¿quién falsificará su autopsia?**
 - **Cómplice principal**: Detective Luis Ochoa
 - **Archivo secreto**: Autopsias reales guardadas (evidencia de 200 homicidios)
 - **Dilema central**: Legado científico vs. justicia para víctimas
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Quien la corrompió
-- [Dolores Sánchez](dolores-sanchez.md) - Sospecha pero calla
-- [Detective Luis Ochoa](luis-ochoa.md) - Cómplice en falsificación
-- [Dr. Javier Santana](javier-santana.md) - Colega médico corrupto
-- [Valentina Aguilar](valentina-aguilar.md) - Certificó muerte de su madre
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Quien la corrompió
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Sospecha pero calla
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Cómplice en falsificación
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) - Colega médico corrupto
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Certificó muerte de su madre
 
 ---
 

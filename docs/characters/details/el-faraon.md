@@ -63,17 +63,17 @@ Conforme avanzaba su arco narrativo, las manifestaciones se volvían más pertur
 - **Conexión cósmica**: Sus poderes se vincularon con fuerzas universales
 
 ## Apariciones Documentadas
-- [Session 01](../../campaigns/la-familia/session-01.md)
-- [Session 02](../../campaigns/la-familia/session-02.md)
-- [Session 03](../../campaigns/la-familia/session-03.md)
-- [Session 10](../../campaigns/la-familia/session-10.md)
-- [Session 11](../../campaigns/la-familia/session-11.md)
-- [Session 13](../../campaigns/la-familia/session-13.md)
-- [Session 24](../../campaigns/la-familia/session-24.md)
-- [Session 26](../../campaigns/la-familia/session-26.md)
-- [Session 32](../../campaigns/la-familia/session-32.md)
-- [Session 40](../../campaigns/la-familia/session-40.md)
-- [Genesis Session 03](../../campaigns/genesis/session-03.md)
+- [Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/)
+- [Session 02]({{ site.baseurl }}/campaigns/la-familia/session-02/)
+- [Session 03]({{ site.baseurl }}/campaigns/la-familia/session-03/)
+- [Session 10]({{ site.baseurl }}/campaigns/la-familia/session-10/)
+- [Session 11]({{ site.baseurl }}/campaigns/la-familia/session-11/)
+- [Session 13]({{ site.baseurl }}/campaigns/la-familia/session-13/)
+- [Session 24]({{ site.baseurl }}/campaigns/la-familia/session-24/)
+- [Session 26]({{ site.baseurl }}/campaigns/la-familia/session-26/)
+- [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
+- [Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
+- [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
 
 ## El Sancta Sanctorum - El Refugio Mágico Prohibido
 En el sótano de la casa de La Familia, El Faraón descubrió su **sancta sanctorum**: una cámara mágica que respondía exclusivamente a él, donde todo aquel que entrara debía obedecerle absolutamente.

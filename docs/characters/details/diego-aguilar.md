@@ -278,22 +278,22 @@ Y todos en el funeral lo saben: Diego no sobrevivirá mucho en el mundo de Fatum
 - **Primera víctima asesinada**: 17 años (cobro de deuda)
 - **Expectativa de vida**: Probablemente no llegará a 30 años
 - **Dilema central**: Heredero sin temple, deseo secreto de libertad vs. atrapamiento
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su abuelo consentidor
-- [Marco Aguilar](marco-aguilar.md) - Su padre que reproduce errores
-- [Isabella Aguilar](isabella-aguilar.md) - Su madre manipuladora
-- [Valentina Aguilar](valentina-aguilar.md) - Su hermana y cómplice
-- [Marcos Villar](marcos-villar.md) - Quien lo ve con compasión trágica
-- [Omar Hassan](omar-hassan.md) - Amigo de infancia
-- [Tomás Cruz](tomas-cruz.md) - Su proveedor de drogas
-- [Andrés Ríos](andres-rios.md) - Su guardaespaldas
-- [Camila Ruiz](camila-ruiz.md) - Amor no correspondido
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su abuelo consentidor
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Su padre que reproduce errores
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Su madre manipuladora
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Su hermana y cómplice
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Quien lo ve con compasión trágica
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Amigo de infancia
+- [Tomás Cruz]({{ site.baseurl }}/characters/details/tomas-cruz/) - Su proveedor de drogas
+- [Andrés Ríos]({{ site.baseurl }}/characters/details/andres-rios/) - Su guardaespaldas
+- [Camila Ruiz]({{ site.baseurl }}/characters/details/camila-ruiz/) - Amor no correspondido
 
 ---
 

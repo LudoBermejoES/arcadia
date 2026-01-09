@@ -17,7 +17,7 @@ slug: oido
 **Edad**: 16 años  
 **Género**: Femenino  
 **Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
-**Familia**: Hija de [Estocada](estocada.md)  
+**Familia**: Hija de [Estocada]({{ site.baseurl }}/characters/details/estocada/)  
 **Especialización**: Percepción Auditiva  
 **Rol**: Especialista en Reconocimiento Sónico
 
@@ -72,10 +72,10 @@ Oído actúa como la **especialista en reconocimiento sónico y comunicaciones**
 ## Relaciones Familiares
 
 ### Con sus Hermanos:
-- **[Vista](vista.md)**: Colaboración perfecta en reconocimiento - él ve, ella escucha
-- **[Tacto](tacto.md)**: Comparte experiencias como una de las dos hermanas del grupo
-- **[Olfato](olfato.md)**: Trabajo conjunto en rastreo - sonidos y olores se complementan
-- **[Gusto](gusto.md)**: Protección maternal hacia el hermano menor
+- **[Vista]({{ site.baseurl }}/characters/details/vista/)**: Colaboración perfecta en reconocimiento - él ve, ella escucha
+- **[Tacto]({{ site.baseurl }}/characters/details/tacto/)**: Comparte experiencias como una de las dos hermanas del grupo
+- **[Olfato]({{ site.baseurl }}/characters/details/olfato/)**: Trabajo conjunto en rastreo - sonidos y olores se complementan
+- **[Gusto]({{ site.baseurl }}/characters/details/gusto/)**: Protección maternal hacia el hermano menor
 
 ### Dinámicas de Género:
 Como una de las dos hermanas, comparte con Tacto:

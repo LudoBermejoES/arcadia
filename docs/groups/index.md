@@ -110,7 +110,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 😈 **Organizaciones Villanas**
 
-### **🎭 [La Farándula](la-farandula.md)**
+### **🎭 [La Farándula]({{ site.baseurl }}/groups/la-farandula/)**
 **Los Villanos Teatrales Organizados**
 
 #### **Estructura Criminal:**
@@ -130,7 +130,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🏢 [Fatum Corporation](fatum.md)** 
+### **🏢 [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)** 
 **La Megacorporación Criminal**
 
 #### **Estructura Corporativa:**
@@ -147,7 +147,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **💥 [Freiglasung](freiglasung.md)**
+### **💥 [Freiglasung]({{ site.baseurl }}/groups/freiglasung/)**
 **Grupo Terrorista Anti-Metahumano (Desmantelado)**
 
 #### **Amenaza Histórica:**
@@ -164,7 +164,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **⛪ [Los Confesores](los-confesores.md)**
+### **⛪ [Los Confesores]({{ site.baseurl }}/groups/los-confesores/)**
 **Fanáticos Religiosos Antimeta**
 
 #### **Ideología Extremista:**
@@ -295,7 +295,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## ⚠️ **Amenazas Sobrenaturales**
 
-### **🐛 [Los Espligan](los-espligan.md)**
+### **🐛 [Los Espligan]({{ site.baseurl }}/groups/los-espligan/)**
 **Parásitos Temporales**
 
 #### **Naturaleza de la Amenaza:**
@@ -549,13 +549,13 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[🛡️ Veteranos](los-defensores.md)** - Equipos de apoyo
 
 ### **😈 Organizaciones Villanas**
-- **[🎭 La Farándula](la-farandula.md)** - Los teatrales organizados
-- **[🏢 Fatum Corporation](fatum.md)** - La megacorporación criminal
+- **[🎭 La Farándula]({{ site.baseurl }}/groups/la-farandula/)** - Los teatrales organizados
+- **[🏢 Fatum Corporation]({{ site.baseurl }}/groups/fatum/)** - La megacorporación criminal
 - **[🐺 Las Bestias](las-bestias.md)** - Organización criminal sobrenatural
 - **[🥊 Puño Gris](puno-gris.md)** - Mafia del distrito asiático
 - **[🏴‍☠️ Los enfants terribles](los-enfants-terribles.md)** - Banda juvenil anarquista tecnológica
-- **[💥 Freiglasung](freiglasung.md)** - Terroristas anti-meta (desmantelados)
-- **[⛪ Los Confesores](los-confesores.md)** - Fanáticos antimeta
+- **[💥 Freiglasung]({{ site.baseurl }}/groups/freiglasung/)** - Terroristas anti-meta (desmantelados)
+- **[⛪ Los Confesores]({{ site.baseurl }}/groups/los-confesores/)** - Fanáticos antimeta
 
 ### **🏛️ Instituciones Públicas**
 - **🏛️ Gobierno de Arcadia** - Administración especializada
@@ -595,7 +595,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ## 📱 **Acceso Rápido**
 
 ### **🚀 Enlaces Directos**
-- **[📋 Lista de Grupos](character-groups.md)** - Índice completo alfabético
+- **[📋 Lista de Grupos]({{ site.baseurl }}/groups/character-groups/)** - Índice completo alfabético
 - **[👥 Personajes](../characters/index.md)** - Miembros individuales
 - **[🌍 Worldbuilding](../world-building/index.md)** - Contexto del universo
 - **[📚 Campañas](../campaigns/)** - Organizaciones en acción
@@ -611,4 +611,4 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **🔄 En Constante Evolución**
 *Con La Fuerza Oculta aún activa, estas organizaciones continúan evolucionando. Nuevas alianzas se forman, viejas rivalidades se reavivan, y el equilibrio de poder cambia con cada sesión de juego.*
 
-**🏛️ [Explora el Listado Completo de Grupos →](character-groups.md)**
+**🏛️ [Explora el Listado Completo de Grupos →]({{ site.baseurl }}/groups/character-groups/)**

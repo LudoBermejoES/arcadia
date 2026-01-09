@@ -46,8 +46,8 @@ Mientras que Anselmo tenía preferencia por armas de precisión como la Desert E
 - **Operaciones encubiertas**: Mantenimiento de refugios seguros
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta AI Notes 2025-07-13](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes.md) - Recuperación de armas y recursos
-- [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md) - Ubicaciones de entrenamiento
+- [La Fuerza Oculta AI Notes 2025-07-13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/) - Recuperación de armas y recursos
+- [La Fuerza Oculta AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) - Ubicaciones de entrenamiento
 
 ## Infraestructura Operacional
 

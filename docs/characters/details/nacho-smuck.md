@@ -18,8 +18,8 @@ Nacho Smück (nombre completo: Ignacio Smück) es un taxista/conductor de Uber e
 Nacho trabaja como conductor profesional en Arcadia, operando tanto como taxista tradicional como conductor de plataformas digitales como Uber. Su conocimiento de las calles de la ciudad y su disposición a conducir agresivamente cuando la situación lo requiere lo convierten en un recurso valioso durante emergencias.
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 28](../../campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17.md)
-- [La Fuerza Oculta AI Notes 2025-08-17](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes.md)
+- [La Fuerza Oculta Session 28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/)
+- [La Fuerza Oculta AI Notes 2025-08-17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
 
 ## Detalles Adicionales
 

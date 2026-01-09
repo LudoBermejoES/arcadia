@@ -134,8 +134,8 @@ Durante sus patrullas nocturnas, Renata ha notado:
 ## 🔗 Relaciones
 
 ### Compañeros del Crematorio
-- **[Marcos Villar](marcos-villar.md)**: Compañero atrapado en el bucle, recepcionista
-- **[Dolores Sánchez](dolores-sanchez.md)**: Compañera atrapada en el bucle, maquilladora
+- **[Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)**: Compañero atrapado en el bucle, recepcionista
+- **[Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)**: Compañera atrapada en el bucle, maquilladora
 
 ### Relaciones Complejas
 - **Los MetaCorps**: Su antigua organización que la expulsó
@@ -205,15 +205,15 @@ Ex-militar expulsada por mala conducta, Renata lucha entre:
 - **Habilidades**: Combate táctico, vigilancia, seguridad perimetral
 - **Estado actual**: Atrapada en bucle temporal
 - **Pasado**: Huyendo de Croacia, expulsada de MetaCorps
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Ver Marcos Villar](marcos-villar.md)
-- [Ver Dolores Sánchez](dolores-sanchez.md)
+- [Ver Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)
+- [Ver Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)
 - [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---

@@ -94,7 +94,7 @@ Leopoldo Gómez aparece en contextos relacionados con la administración guberna
 Como funcionario gubernamental, Gómez representa la continuidad administrativa del gobierno local, asegurando que las políticas y programas se implementen efectivamente en beneficio de la comunidad.
 
 ## Apariciones Documentadas
-- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md)
+- [La Familia - Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 
 ---
 

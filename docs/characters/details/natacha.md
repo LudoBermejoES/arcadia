@@ -8,7 +8,7 @@ slug: natacha
 # Natacha
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/natacha.jpg" alt="Natacha" />
+  <img src="{{ site.baseurl }}/assets/img/characters/natacha.png" alt="Natacha" />
 </div>
 
 ## Presentación

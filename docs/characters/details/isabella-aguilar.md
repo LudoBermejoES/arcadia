@@ -263,23 +263,23 @@ Y mientras todos buscan al asesino de Federico, la verdadera responsable planea 
 - **Alianzas**: Carmela (cómplice), Renata Kovač (trato tácito)
 - **Rival principal**: Marco Aguilar (hermano que sospecha)
 - **Dilema central**: Consolidar poder sin desatar guerra interna
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su padre, víctima
-- [Carmela Aguilar](carmela-aguilar.md) - Su madre, cómplice
-- [Marco Aguilar](marco-aguilar.md) - Su hermano, rival
-- [Diego Aguilar](diego-aguilar.md) - Su hijo, herramienta
-- [Valentina Aguilar](valentina-aguilar.md) - Su hija, herramienta
-- [Renata Kovač](renata-kovac.md) - Aliada por trato tácito
-- [Roberto Mora](roberto-mora.md) - Ingeniero comandado
-- [Omar Hassan](omar-hassan.md) - Genio financiero comandado
-- [Detective Luis Ochoa](luis-ochoa.md) - Policía comprado
-- [Salvatore Rossi](salvatore-rossi.md) - Sabe su secreto
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su padre, víctima
+- [Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Su madre, cómplice
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Su hermano, rival
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Su hijo, herramienta
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Su hija, herramienta
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - Aliada por trato tácito
+- [Roberto Mora]({{ site.baseurl }}/characters/details/roberto-mora/) - Ingeniero comandado
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Genio financiero comandado
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Policía comprado
+- [Salvatore Rossi]({{ site.baseurl }}/characters/details/salvatore-rossi/) - Sabe su secreto
 
 ---
 

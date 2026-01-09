@@ -142,9 +142,9 @@ Mateo fue entregado junto con otros mercenarios:
 - **Precedente de vulnerabilidad**: Demostración de que La Telaraña puede ser infiltrada
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md) - Captura, interrogación y colaboración
-- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md) - Detalles de interacción con héroes
-- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md) - Contexto de operación criminal
+- [La Fuerza Oculta Session 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/) - Captura, interrogación y colaboración
+- [La Fuerza Oculta AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) - Detalles de interacción con héroes
+- [La Fuerza Oculta Summary]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/) - Contexto de operación criminal
 
 ## Legado y Significado
 

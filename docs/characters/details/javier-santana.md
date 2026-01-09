@@ -255,20 +255,20 @@ Javier sabe que mientras Fatum exista, él seguirá siendo su médico clandestin
 - **Certificados de muerte falsificados**: 30+
 - **Objeto más peligroso**: Diario médico encriptado con 10 años de evidencia
 - **Dilema central**: Salvación vs. complicidad, libertad vs. supervivencia
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su captor y torturador psicológico
-- [Dolores Sánchez](dolores-sanchez.md) - Colaboradora en muerte
-- [Detective Luis Ochoa](luis-ochoa.md) - Cómplice en falsificación
-- [Marco Aguilar](marco-aguilar.md) - Paciente salvado 3 veces
-- [Andrés Ríos](andres-rios.md) - Paciente salvado 2 veces
-- [Tomás Cruz](tomas-cruz.md) - Salvado de sobredosis
-- [Sofía Vega](sofia-vega.md) - Su pagadora discreta
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su captor y torturador psicológico
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Colaboradora en muerte
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Cómplice en falsificación
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Paciente salvado 3 veces
+- [Andrés Ríos]({{ site.baseurl }}/characters/details/andres-rios/) - Paciente salvado 2 veces
+- [Tomás Cruz]({{ site.baseurl }}/characters/details/tomas-cruz/) - Salvado de sobredosis
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Su pagadora discreta
 
 ---
 

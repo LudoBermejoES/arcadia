@@ -263,21 +263,21 @@ Y Ana continuará vendiendo drogas a Diego, esperando que cada dosis sea la últ
 - **Refugio emocional**: Crematorio (visitas desde 2018)
 - **Figura maternal**: Dolores Sánchez
 - **Dilema central**: Supervivencia vs. escape, venganza vs. futuro
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Dolores Sánchez](dolores-sanchez.md) - Preparó a su hermano, refugio
-- [Andrés Ríos](andres-rios.md) - Ex-novio violento, padre del bebé
-- [Diego Aguilar](diego-aguilar.md) - Cliente que odia
-- [Tommy Cruz](tomas-cruz.md) - Colega traficante
-- [Patricia Navarro](patricia-navarro.md) - Cliente de estimulantes
-- [Camila Ruiz](camila-ruiz.md) - Amiga, introducida a Telaraña
-- [Gabriela Soto](gabriela-soto.md) - Admiración a distancia
-- [Federico Aguilar](federico-aguilar.md) - Responsable de muerte de hermano
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Preparó a su hermano, refugio
+- [Andrés Ríos]({{ site.baseurl }}/characters/details/andres-rios/) - Ex-novio violento, padre del bebé
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Cliente que odia
+- [Tommy Cruz]({{ site.baseurl }}/characters/details/tomas-cruz/) - Colega traficante
+- [Patricia Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) - Cliente de estimulantes
+- [Camila Ruiz]({{ site.baseurl }}/characters/details/camila-ruiz/) - Amiga, introducida a Telaraña
+- [Gabriela Soto]({{ site.baseurl }}/characters/details/gabriela-soto/) - Admiración a distancia
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Responsable de muerte de hermano
 
 ---
 

@@ -64,8 +64,8 @@ Durante la investigación, el equipo del que formaba parte Mia documentó:
 - **Referencias literarias**: Conexiones con **El Quijote** y posiblemente **La Farándula**
 
 ## Apariciones Documentadas
-- [Hospital Session 01](../../campaigns/hospital/session-01.md) - Participación en la investigación del hospital abandonado
-- [Hospital Index](../../campaigns/hospital/index.md) - Contexto de la campaña hospitalaria
+- [Hospital Session 01]({{ site.baseurl }}/campaigns/hospital/session-01/) - Participación en la investigación del hospital abandonado
+- [Hospital Index]({{ site.baseurl }}/campaigns/hospital/) - Contexto de la campaña hospitalaria
 
 ## Teorías sobre su Desaparición
 

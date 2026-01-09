@@ -145,7 +145,7 @@ Marta representa:
 ## Apariciones Documentadas
 
 ### **Referencias Principales**
-- [La Familia - Sesión 13](../../campaigns/la-familia/session-13.md) - Su caso como petición de Barón Soledad y detalles del rescate
+- [La Familia - Sesión 13]({{ site.baseurl }}/campaigns/la-familia/session-13/) - Su caso como petición de Barón Soledad y detalles del rescate
 
 ### **Contexto del Rescate**
 - **Prisión de Cormorán**: Ubicación donde estaba encarcelada

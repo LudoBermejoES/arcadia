@@ -215,19 +215,19 @@ Y mientras todos lloran o fingen, Renata evalúa: **¿Quién será su próximo c
 - **Poder**: Información sexual sobre poderosos
 - **Seguro de vida**: Grabaciones publicadas automáticamente si muere
 - **Dilema central**: Qué hacer con 40 años de secretos
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Cliente durante 35 años
-- [Dolores Sánchez](dolores-sanchez.md) - Compañera de cigarrillos
-- [Carmela Aguilar](carmela-aguilar.md) - Amiga de 40 años
-- [Sofía Vega](sofia-vega.md) - Amiga de 40 años
-- [Lucía Herrera](lucia-herrera.md) - Usa sus archivos de chantaje
-- [Camila Ruiz](camila-ruiz.md) - Trabajadora y posible espía
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Cliente durante 35 años
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Compañera de cigarrillos
+- [Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Amiga de 40 años
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Amiga de 40 años
+- [Lucía Herrera]({{ site.baseurl }}/characters/details/lucia-herrera/) - Usa sus archivos de chantaje
+- [Camila Ruiz]({{ site.baseurl }}/characters/details/camila-ruiz/) - Trabajadora y posible espía
 
 ---
 

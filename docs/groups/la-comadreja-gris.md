@@ -7,7 +7,7 @@ permalink: /groups/la-comadreja-gris/
 # La Comadreja Gris
 
 <div class="character-photo wide-image">
-  <img src="{{ site.baseurl }}/assets/img/generic.png" alt="La Comadreja Gris (referencia histórica)" />
+  <img src="{{ site.baseurl }}/assets/img/characters/la-comadreja.png" alt="La Comadreja Gris" />
 </div>
 
 ## Presentación

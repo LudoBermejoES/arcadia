@@ -78,10 +78,10 @@ Los ataques tuvieron repercusiones duraderas en Arcadia:
 - **Contactos comerciales**: Mantenía relaciones con proveedores de materiales especializados
 
 ## Apariciones Documentadas
-- [La Familia Session 14](../../campaigns/la-familia/session-14.md) - Cita profesional con el equipo
-- [La Familia Session 25](../../campaigns/la-familia/session-25.md) - Entrega de trajes actualizados para La Familia
-- [La Familia Session 33](../../campaigns/la-familia/session-33.md) - Creación de armadura diamantina para Atropos
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto de servicios profesionales
+- [La Familia Session 14]({{ site.baseurl }}/campaigns/la-familia/session-14/) - Cita profesional con el equipo
+- [La Familia Session 25]({{ site.baseurl }}/campaigns/la-familia/session-25/) - Entrega de trajes actualizados para La Familia
+- [La Familia Session 33]({{ site.baseurl }}/campaigns/la-familia/session-33/) - Creación de armadura diamantina para Atropos
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto de servicios profesionales
 
 ## Legado y Impacto
 

@@ -77,10 +77,10 @@ Aconsejó a Isabella cuando empezó a tomar control. Ve en ella **la inteligenci
 
 ## 🔗 Enlaces
 
-- [Renata Kovač](renata-kovac.md) - Conoce su pasado oscuro
-- [Sofía Vega](sofia-vega.md) - Su única amiga verdadera
-- [Isabella Aguilar](isabella-aguilar.md) - Protegida brillante
-- [Federico Aguilar](federico-aguilar.md) - Jefe durante 30 años
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - Conoce su pasado oscuro
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Su única amiga verdadera
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Protegida brillante
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Jefe durante 30 años
 
 ---
 

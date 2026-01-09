@@ -119,8 +119,8 @@ Su expertise único incluye:
 - **Recursos únicos**: Acceso a equipamiento especializado
 
 ## Apariciones Documentadas
-- [La Familia Index](../../campaigns/la-familia/index.md)
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md)
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/)
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
 
 ---
 

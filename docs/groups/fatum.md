@@ -179,8 +179,8 @@ A diferencia de otros grupos criminales que surgen y desaparecen, Fatum Corporat
 
 ### 😈 vs Otras Organizaciones Criminales
 
-- **🎭 [La Farándula](la-farandula.md)**: Competencia por territorio y recursos
-- **⛪ [Los Confesores](los-confesores.md)**: Colaboración ocasional contra metahumanos
+- **🎭 [La Farándula]({{ site.baseurl }}/groups/la-farandula/)**: Competencia por territorio y recursos
+- **⛪ [Los Confesores]({{ site.baseurl }}/groups/los-confesores/)**: Colaboración ocasional contra metahumanos
 - **⚔️ Mercenarios**: Contratos y traiciones comerciales
 - **🌑 Criminales Independientes**: Absorción o eliminación
 

@@ -264,20 +264,20 @@ El funeral es el momento de decisión. Roberto sabe que la muerte de Federico ca
 - **Acceso**: Cuentas offshore de Fatum (500M$), backdoors en todos los sistemas
 - **Aprendiz**: Patricia Navarro (no sabe que lo traicionó)
 - **Dilema central**: Quedarse y servir a Isabella vs. robar 500M y huir
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Empleador durante 15 años
-- [Renata Kovač](renata-kovac.md) - Entendimiento técnico silencioso
-- [Marco Aguilar](marco-aguilar.md) - Jefe inmediato incomprensivo
-- [Isabella Aguilar](isabella-aguilar.md) - Nueva jefa más peligrosa
-- [Patricia Navarro](patricia-navarro.md) - Su aprendiz que lo traicionó
-- [Omar Hassan](omar-hassan.md) - Colaborador financiero
-- [Detective Luis Ochoa](luis-ochoa.md) - Provee acceso policial
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Empleador durante 15 años
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - Entendimiento técnico silencioso
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Jefe inmediato incomprensivo
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Nueva jefa más peligrosa
+- [Patricia Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) - Su aprendiz que lo traicionó
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Colaborador financiero
+- [Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/) - Provee acceso policial
 
 ---
 

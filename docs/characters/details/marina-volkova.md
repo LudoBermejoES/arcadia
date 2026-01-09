@@ -5,9 +5,6 @@ permalink: /characters/details/marina-volkova/
 slug: marina-volkova
 ---
 
-<div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Marina_Volkova.png" alt="Marina La Rusa Volkova" />
-</div>
 
 # Marina "La Rusa" Volkova
 
@@ -261,20 +258,20 @@ Y secretamente, también venderá a los enemigos de los Aguilar. Porque en el ne
 - **Búsqueda activa**: Gobierno ruso, Interpol
 - **Reconocimiento mutuo**: Con Renata Kovač (ambas ex-militares)
 - **Dilema central**: Doble juego riesgoso vs. ganancias duplicadas
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Cliente principal durante 17 años
-- [Renata Kovač](renata-kovac.md) - Respeto entre guerreras
-- [Viktor Petrov](viktor-petrov.md) - Quien la introdujo
-- [Marco Aguilar](marco-aguilar.md) - Cliente impulsivo
-- [Gabriela Soto](gabriela-soto.md) - Cliente profesional
-- [Dr. Javier Santana](javier-santana.md) - Compra equipos médicos
-- [Isabella Aguilar](isabella-aguilar.md) - Nueva jefa
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Cliente principal durante 17 años
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - Respeto entre guerreras
+- [Viktor Petrov]({{ site.baseurl }}/characters/details/viktor-petrov/) - Quien la introdujo
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Cliente impulsivo
+- [Gabriela Soto]({{ site.baseurl }}/characters/details/gabriela-soto/) - Cliente profesional
+- [Dr. Javier Santana]({{ site.baseurl }}/characters/details/javier-santana/) - Compra equipos médicos
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Nueva jefa
 
 ---
 

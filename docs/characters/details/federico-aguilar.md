@@ -196,9 +196,9 @@ Basándose en su legado y funeral:
 - **Conexión misteriosa**: ¿Por qué este crematorio específicamente?
 
 ### Con los Protagonistas (Indirecta)
-- **[Marcos Villar](marcos-villar.md)**: Maneja su funeral, siente la tensión
-- **[Dolores Sánchez](dolores-sanchez.md)**: Preparó su cuerpo, busca anomalías
-- **[Renata Kovač](renata-kovac.md)**: Vigila su funeral, nota patrones
+- **[Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)**: Maneja su funeral, siente la tensión
+- **[Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)**: Preparó su cuerpo, busca anomalías
+- **[Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)**: Vigila su funeral, nota patrones
 
 ### Con el Detective Ochoa
 - **Objetivo de investigación**: Ochoa lo investigaba en vida
@@ -263,17 +263,17 @@ Algunos secretos están tan bien guardados que ni siquiera la muerte puede revel
 - **Conexiones**: Telaraña, Puño Gris, organizaciones criminales internacionales
 - **Artefactos asociados**: Medallón egipcio, arcón misterioso
 - **Funeral**: Crematorio La Tranquilidad, incineración a medianoche
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Ver Detective Luis Ochoa](luis-ochoa.md)
-- [Ver Marcos Villar](marcos-villar.md)
-- [Ver Dolores Sánchez](dolores-sanchez.md)
-- [Ver Renata Kovač](renata-kovac.md)
+- [Ver Detective Luis Ochoa]({{ site.baseurl }}/characters/details/luis-ochoa/)
+- [Ver Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)
+- [Ver Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)
+- [Ver Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)
 - [Telaraña (Personaje)]({{ site.baseurl }}/characters/details/telarana/)
 
 ---

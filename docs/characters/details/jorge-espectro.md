@@ -49,9 +49,9 @@ Jorge es propietario y director de **"Fuerzas de Seguridad Wraith"**, una compa√
 - Resistencia f√≠sica: Demostrada en combate contra robots y otros enemigos
 
 ## Apariciones Documentadas
-- [Genesis Session 02](../../campaigns/genesis/session-02.md)
-- [Genesis Session 03](../../campaigns/genesis/session-03.md)
-- [Genesis Session 06](../../campaigns/genesis/session-06.md)
+- [Genesis Session 02]({{ site.baseurl }}/campaigns/genesis/session-02/)
+- [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
+- [Genesis Session 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
 ## Vida Familiar
 

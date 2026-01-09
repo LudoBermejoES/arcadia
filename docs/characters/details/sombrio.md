@@ -19,7 +19,7 @@ slug: sombrio
 **Estado**: Desaparecido (desde 1985)
 **Era Activa**: 1956-1985 (~30 años de servicio heroico)
 **Clasificación**: Héroe Legendario de Primera Generación
-**Relación Familiar**: Padre de [Caos](caos/) (supervillano), abuelo de [Pantomima](pantomima/) (La Fuerza Oculta)
+**Relación Familiar**: Padre de [Caos]({{ site.baseurl }}/characters/details/caos/) (supervillano), abuelo de [Pantomima]({{ site.baseurl }}/characters/details/pantomima/) (La Fuerza Oculta)
 
 ## Descripción
 
@@ -333,9 +333,9 @@ Es especialmente notable por:
 ### Referencias en Campañas Modernas
 
 **La Fuerza Oculta (2024-2025)**:
-- **[Sesión 36 - 12 Octubre 2025](../../campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12.md)**: Descubrimiento del Bugatti en feria de coches, fenómeno de reconocimiento con Pantomima
-- **[Sesión 37 - 2 Noviembre 2025](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes.md)**: Revelación completa del linaje, acceso al Puente de Moebius
-- **[Resumen Sesión 37](../../campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes.md)**: Análisis del impacto familiar y legado dimensional
+- **[Sesión 36 - 12 Octubre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/)**: Descubrimiento del Bugatti en feria de coches, fenómeno de reconocimiento con Pantomima
+- **[Sesión 37 - 2 Noviembre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)**: Revelación completa del linaje, acceso al Puente de Moebius
+- **[Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)**: Análisis del impacto familiar y legado dimensional
 
 ## Legado Duradero
 

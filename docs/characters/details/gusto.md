@@ -17,7 +17,7 @@ slug: gusto
 **Edad**: 14 años  
 **Género**: Masculino  
 **Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
-**Familia**: Hijo de [Estocada](estocada.md)  
+**Familia**: Hijo de [Estocada]({{ site.baseurl }}/characters/details/estocada/)  
 **Especialización**: Percepción Gustativa  
 **Rol**: Detector de Sustancias y Analista Químico
 
@@ -72,10 +72,10 @@ Gusto actúa como el **analista químico y detector de sustancias** de La Cacer�
 ## Relaciones Familiares
 
 ### Con sus Hermanos:
-- **[Vista](vista.md)**: Respeto profundo por el liderazgo y protección de su hermano mayor
-- **[Tacto](tacto.md)**: Aprecia la protección maternal que ella le proporciona
-- **[Oído](oido.md)**: Colaboración en detección - ella escucha, él analiza lo que encuentra
-- **[Olfato](olfato.md)**: Trabajo conjunto especializado en análisis químico conjunto
+- **[Vista]({{ site.baseurl }}/characters/details/vista/)**: Respeto profundo por el liderazgo y protección de su hermano mayor
+- **[Tacto]({{ site.baseurl }}/characters/details/tacto/)**: Aprecia la protección maternal que ella le proporciona
+- **[Oído]({{ site.baseurl }}/characters/details/oido/)**: Colaboración en detección - ella escucha, él analiza lo que encuentra
+- **[Olfato]({{ site.baseurl }}/characters/details/olfato/)**: Trabajo conjunto especializado en análisis químico conjunto
 
 ### Dinámicas de Edad:
 Como el menor del grupo (14 años):

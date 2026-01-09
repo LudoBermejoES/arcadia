@@ -107,10 +107,10 @@ Iñigo Temblez es el cerebro tecnológico de los [Ultracorps](../../groups/ultra
 ## Relaciones
 
 ### **Equipo Ultracorps**
-- **[Neill O'Hara](oneill.md)**: Respeto por la experiencia del líder veterano
-- **[Mario Igarruti](mario-igarruti.md)**: Colaboración social-técnica en operaciones complejas
-- **[Pablo de la Serna](pablo-de-la-serna.md)**: Proporciona apoyo técnico para operaciones de fuerza
-- **[Roberto Gómez](roberto-gomez.md)**: Coordinación técnica para misiones de infiltración
+- **[Neill O'Hara]({{ site.baseurl }}/characters/details/oneill/)**: Respeto por la experiencia del líder veterano
+- **[Mario Igarruti]({{ site.baseurl }}/characters/details/mario-igarruti/)**: Colaboración social-técnica en operaciones complejas
+- **[Pablo de la Serna]({{ site.baseurl }}/characters/details/pablo-de-la-serna/)**: Proporciona apoyo técnico para operaciones de fuerza
+- **[Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/)**: Coordinación técnica para misiones de infiltración
 
 ### **Comunidad Tecnológica**
 - **MetaCorp Technical Division**: Enlaces con otros especialistas técnicos

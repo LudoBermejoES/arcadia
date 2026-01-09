@@ -263,20 +263,20 @@ Y mientras todos calculan poder, Valentina solo llora a su abuelo.
 - **Amor secreto**: Estudiante universitario (no sabe que es Aguilar)
 - **Comportamiento extraño**: Sesiones fotográficas en Crematorio
 - **Dilema central**: Ignorancia vs. conocimiento, escape vs. atrapamiento
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su abuelo adorado
-- [Marcos Villar](marcos-villar.md) - Le da momentos de humanidad
-- [Isabella Aguilar](isabella-aguilar.md) - Su madre manipuladora
-- [Diego Aguilar](diego-aguilar.md) - Su hermano y cómplice
-- [Carmela Aguilar](carmela-aguilar.md) - Su abuela que la desprecia
-- [Patricia Navarro](patricia-navarro.md) - Gestora técnica
-- [Omar Hassan](omar-hassan.md) - Gestor financiero
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su abuelo adorado
+- [Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/) - Le da momentos de humanidad
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Su madre manipuladora
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Su hermano y cómplice
+- [Carmela Aguilar]({{ site.baseurl }}/characters/details/carmela-aguilar/) - Su abuela que la desprecia
+- [Patricia Navarro]({{ site.baseurl }}/characters/details/patricia-navarro/) - Gestora técnica
+- [Omar Hassan]({{ site.baseurl }}/characters/details/omar-hassan/) - Gestor financiero
 
 ---
 

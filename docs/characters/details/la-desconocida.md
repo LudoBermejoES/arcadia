@@ -94,7 +94,7 @@ La Desconocida aparece principalmente en referencias históricas vagas y especul
 Como heroína misteriosa, La Desconocida representa el poder del anonimato heroico y la idea de que los verdaderos héroes pueden operar sin reconocimiento público, estableciendo un modelo alternativo de heroísmo.
 
 ## Apariciones Documentadas
-- [Génesis - Sesión 05](../../campaigns/genesis/session-05.md)
+- [Génesis - Sesión 05]({{ site.baseurl }}/campaigns/genesis/session-05/)
 
 ---
 

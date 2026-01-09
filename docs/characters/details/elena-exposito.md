@@ -161,8 +161,8 @@ Durante la noche, Elena experimentó algo extraordinario:
 - **Trabajo en Equipo**: Colaboró con Kira, Sergei y Tiritas en el combate
 
 ## Apariciones Documentadas
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 
 ## Situación Actual (Noviembre 2025)
 Elena acaba de llegar al reformatorio y ya se ha establecido como un **personaje memorable** por su imprudencia y sus poderes impresionantes. Se encuentra en las etapas iniciales de:

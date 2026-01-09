@@ -18,8 +18,8 @@ Amara Quebé es la propietaria de una tienda de ropa artesanal en los Almacenes 
 Amara regenta "Artesanías Quebé", una tienda especializada en prendas artesanales y hechas a mano en los Almacenes Hêvî.
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 27](../../campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10.md)
-- [La Fuerza Oculta AI Notes 2025-08-10](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes.md)
+- [La Fuerza Oculta Session 27]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/)
+- [La Fuerza Oculta AI Notes 2025-08-10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
 
 ## Detalles Adicionales
 Amara ofreció servicios de cambio de imagen a los miembros de La Fuerza Oculta, proporcionando un vestido para Justa, aunque resultó ser demasiado corto para las necesidades del grupo.

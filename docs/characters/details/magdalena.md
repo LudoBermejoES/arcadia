@@ -152,11 +152,11 @@ Sus inicios se centraron en la cobertura de noticias relacionadas con metahumano
 - **Trabajo de campo arriesgado**: Disposición a trabajar en entornos peligrosos para obtener noticias
 
 ## Apariciones Documentadas
-- [La Familia Session 20](../../campaigns/la-familia/session-20.md) - Trabajo periodístico en cobertura carcelaria
-- [La Familia Index](../../campaigns/la-familia/index.md) - Contexto de actividades periodísticas
-- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md) - Entrevista exclusiva con La Fuerza Oculta
-- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md) - Cobertura de entrega de mercenarios
-- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md) - Contexto de cobertura actual
+- [La Familia Session 20]({{ site.baseurl }}/campaigns/la-familia/session-20/) - Trabajo periodístico en cobertura carcelaria
+- [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/) - Contexto de actividades periodísticas
+- [La Fuerza Oculta Session 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/) - Entrevista exclusiva con La Fuerza Oculta
+- [La Fuerza Oculta AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) - Cobertura de entrega de mercenarios
+- [La Fuerza Oculta Summary]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/) - Contexto de cobertura actual
 
 ## Legado Profesional
 

@@ -41,11 +41,11 @@ Gracias a esta intervención, Francisco ahora puede vivir independientemente y e
 - **Visión humanitaria**: Aplica su genio no solo en combate, sino para mejorar vidas
 
 ## Apariciones Documentadas
-- [Genesis Session 02](../../campaigns/genesis/session-02.md)
-- [Genesis Session 03](../../campaigns/genesis/session-03.md)
-- [Genesis Session 04](../../campaigns/genesis/session-04.md)
-- [Genesis Session 05](../../campaigns/genesis/session-05.md)
-- [Genesis Session 06](../../campaigns/genesis/session-06.md)
+- [Genesis Session 02]({{ site.baseurl }}/campaigns/genesis/session-02/)
+- [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
+- [Genesis Session 04]({{ site.baseurl }}/campaigns/genesis/session-04/)
+- [Genesis Session 05]({{ site.baseurl }}/campaigns/genesis/session-05/)
+- [Genesis Session 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
 ## El Caso Francisco Moreau: Un Legado de Compasión
 

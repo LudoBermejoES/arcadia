@@ -117,4 +117,4 @@ La escena donde Noemí toca el Bugatti de 100 millones de dólares y elimina tod
 
 ---
 
-**[← Volver a Personajes](../character-list.md)**
+**[← Volver a Personajes]({{ site.baseurl }}/characters/character-list/)**

@@ -142,9 +142,9 @@ Esta reacción sugiere:
 ## 🔗 Relaciones
 
 ### Con los Protagonistas
-- **[Marcos Villar](marcos-villar.md)**: Interacción profesional, tensión por su presencia
-- **[Dolores Sánchez](dolores-sanchez.md)**: Observación mutua, ambos buscan pistas
-- **[Renata Kovač](renata-kovac.md)**: Renata analiza su comportamiento en grabaciones, sospecha de él
+- **[Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)**: Interacción profesional, tensión por su presencia
+- **[Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)**: Observación mutua, ambos buscan pistas
+- **[Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)**: Renata analiza su comportamiento en grabaciones, sospecha de él
 
 ### Con Federico Aguilar (Difunto)
 - **Relación profesional**: Ha investigado sus actividades criminales
@@ -218,7 +218,7 @@ Si descubre la verdad sobre el bucle temporal, ¿se convierte en aliado o en ame
 - **Hábitos**: Fuma y bebe café constantemente
 - **Estado en el bucle**: Desconocido (¿consciente o inconsciente?)
 - **Actitud**: Profesional, persistente, intimidante cuando es necesario
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
@@ -244,10 +244,10 @@ Si descubre la verdad sobre el bucle temporal, ¿se convierte en aliado o en ame
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Ver Federico Aguilar (Difunto)](federico-aguilar.md)
-- [Ver Marcos Villar](marcos-villar.md)
-- [Ver Dolores Sánchez](dolores-sanchez.md)
-- [Ver Renata Kovač](renata-kovac.md)
+- [Ver Federico Aguilar (Difunto)]({{ site.baseurl }}/characters/details/federico-aguilar/)
+- [Ver Marcos Villar]({{ site.baseurl }}/characters/details/marcos-villar/)
+- [Ver Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/)
+- [Ver Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/)
 
 ---
 

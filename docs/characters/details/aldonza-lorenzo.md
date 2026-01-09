@@ -94,13 +94,13 @@ Aldonza ha regresado de la muerte con características profundamente alteradas, 
 - **Sacrificio ritual**: Su muerte original alimentó fuerzas místicas
 
 ## Apariciones Documentadas
-- [La Familia Session 01](../../campaigns/la-familia/session-01.md) - Primer encuentro
-- [La Familia Session 34](../../campaigns/la-familia/session-34.md) - Su muerte por Atropos
-- [La Familia Session 41](../../campaigns/la-familia/session-41.md) - Investigación posterior y visiones temporales
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto histórico
-- [La Fuerza Oculta Session 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27.md) - Regreso y enfrentamiento
-- [La Fuerza Oculta AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md) - Detalles del combate reciente
-- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md) - Impacto actual
+- [La Familia Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/) - Primer encuentro
+- [La Familia Session 34]({{ site.baseurl }}/campaigns/la-familia/session-34/) - Su muerte por Atropos
+- [La Familia Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/) - Investigación posterior y visiones temporales
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto histórico
+- [La Fuerza Oculta Session 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/) - Regreso y enfrentamiento
+- [La Fuerza Oculta AI Notes 2025-07-28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/) - Detalles del combate reciente
+- [La Fuerza Oculta Summary]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/) - Impacto actual
 
 ## Legado y Amenaza Actual
 

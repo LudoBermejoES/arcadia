@@ -147,9 +147,9 @@ Malik representa un eslabón esencial en la estructura social de Arcadia:
 - **Dignidad humana**: Reconocimiento del valor de cada individuo
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 26](../../campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03.md) - Negociación de servicios de renovación
-- [La Fuerza Oculta AI Notes 2025-08-03](../../campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes.md) - Verificación telepática y acuerdos
-- [La Fuerza Oculta Summary](../../campaigns/la-fuerza-oculta/summary/summary.md) - Contexto de relaciones con héroes
+- [La Fuerza Oculta Session 26]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/) - Negociación de servicios de renovación
+- [La Fuerza Oculta AI Notes 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) - Verificación telepática y acuerdos
+- [La Fuerza Oculta Summary]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/) - Contexto de relaciones con héroes
 
 ## Legado y Importancia
 

@@ -246,18 +246,18 @@ Y cuando Patty salga del Crematorio con malware instalado, Telaraña tendrá acc
 - **Misión en funeral**: Plantar malware en dispositivos Aguilar
 - **Adicción**: Estimulantes (anfetaminas, modafinilo)
 - **Dilema central**: Traición a mentor vs. lealtad a dinero
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Roberto Mora](roberto-mora.md) - Su mentor traicionado
-- [Renata Kovač](renata-kovac.md) - La atrapó hackeando
-- [Valentina Aguilar](valentina-aguilar.md) - Cliente cobertura
-- [Tommy Cruz](tomas-cruz.md) - Proveedor de estimulantes
-- [Camila Ruiz](camila-ruiz.md) - Compañera de cuarto
+- [Roberto Mora]({{ site.baseurl }}/characters/details/roberto-mora/) - Su mentor traicionado
+- [Renata Kovač]({{ site.baseurl }}/characters/details/renata-kovac/) - La atrapó hackeando
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Cliente cobertura
+- [Tommy Cruz]({{ site.baseurl }}/characters/details/tomas-cruz/) - Proveedor de estimulantes
+- [Camila Ruiz]({{ site.baseurl }}/characters/details/camila-ruiz/) - Compañera de cuarto
 
 ---
 

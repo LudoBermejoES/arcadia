@@ -109,17 +109,17 @@ Con Federico muerto, Salvatore representa el último vínculo con los orígenes 
 - **Rol en Fatum**: El cerebro estratégico
 - **Estado civil**: Viudo (María, fallecida en 2015)
 - **Característica distintiva**: Memoria perfecta de 40 años de operaciones
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su socio de 40 años
-- [Dolores Sánchez](dolores-sanchez.md) - La preparadora que honró a su esposa
-- [Marco Aguilar](marco-aguilar.md) - Su protegido impulsivo
-- [Viktor Petrov](viktor-petrov.md) - Consejero desde los años 90
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su socio de 40 años
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - La preparadora que honró a su esposa
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Su protegido impulsivo
+- [Viktor Petrov]({{ site.baseurl }}/characters/details/viktor-petrov/) - Consejero desde los años 90
 
 ---
 

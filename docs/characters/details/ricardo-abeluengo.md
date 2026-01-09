@@ -179,12 +179,12 @@ El plan secreto de Abeluengo se convirtió en realidad:
 - **Autonomía**: Arcadia se convirtió en una **isla de metahumanos** independiente
 
 ## Apariciones Documentadas
-- [La Familia - Sesión 28](../../campaigns/la-familia/session-28.md) - Cena en la Casa de Arcadia
-- [La Familia - Sesión 21](../../campaigns/la-familia/session-21.md) - Rescate durante actuación de Mésmero
-- [La Familia - Sesión 29](../../campaigns/la-familia/session-29.md) - Incidente en el bunker presidencial
-- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md) - El Gran Atentado
-- [La Familia - Summary](../../campaigns/la-familia/summary/summary.md) - Contexto general
-- [La Fuerza Oculta - Sesión 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24.md) - Referencias posteriores
+- [La Familia - Sesión 28]({{ site.baseurl }}/campaigns/la-familia/session-28/) - Cena en la Casa de Arcadia
+- [La Familia - Sesión 21]({{ site.baseurl }}/campaigns/la-familia/session-21/) - Rescate durante actuación de Mésmero
+- [La Familia - Sesión 29]({{ site.baseurl }}/campaigns/la-familia/session-29/) - Incidente en el bunker presidencial
+- [La Familia - Sesión 41]({{ site.baseurl }}/campaigns/la-familia/session-41/) - El Gran Atentado
+- [La Familia - Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto general
+- [La Fuerza Oculta - Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Referencias posteriores
 
 ## Evaluación Histórica
 

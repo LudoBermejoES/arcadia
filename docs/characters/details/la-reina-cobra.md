@@ -83,10 +83,10 @@ Dentro de la estructura organizacional de Las Bestias, La Reina Cobra funciona c
 - **Territorio disputado**: Participa en conflictos por el control del Barrio Gótico
 
 ## Apariciones Documentadas
-- [La Familia Session 15](../../campaigns/la-familia/session-15.md) - Primera aparición como transportista mesmética
-- [La Familia Session 22](../../campaigns/la-familia/session-22.md) - Manifestación de características serpentinas
-- [La Familia Session 41](../../campaigns/la-familia/session-41.md) - Descubrimiento de su cola reptiliana durante inspección
-- [La Familia Summary](../../campaigns/la-familia/summary/summary.md) - Contexto de Las Bestias
+- [La Familia Session 15]({{ site.baseurl }}/campaigns/la-familia/session-15/) - Primera aparición como transportista mesmética
+- [La Familia Session 22]({{ site.baseurl }}/campaigns/la-familia/session-22/) - Manifestación de características serpentinas
+- [La Familia Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/) - Descubrimiento de su cola reptiliana durante inspección
+- [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/) - Contexto de Las Bestias
 
 ## Análisis Táctico
 

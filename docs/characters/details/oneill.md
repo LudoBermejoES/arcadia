@@ -113,10 +113,10 @@ Neill O'Hara, conocido operacionalmente como "Oneill", es el veterano fundador d
 ## Relaciones
 
 ### **Equipo Ultracorps**
-- **[Mario Igarruti](mario-igarruti.md)**: Especialista social y diplomático del equipo
-- **[Iñigo Temblez](inigo-temblez.md)**: Genio tecnológico y soporte técnico
-- **[Pablo de la Serna](pablo-de-la-serna.md)**: Músculo del equipo con fuerza mejorada
-- **[Roberto Gómez](roberto-gomez.md)**: Especialista en infiltración y agilidad
+- **[Mario Igarruti]({{ site.baseurl }}/characters/details/mario-igarruti/)**: Especialista social y diplomático del equipo
+- **[Iñigo Temblez]({{ site.baseurl }}/characters/details/inigo-temblez/)**: Genio tecnológico y soporte técnico
+- **[Pablo de la Serna]({{ site.baseurl }}/characters/details/pablo-de-la-serna/)**: Músculo del equipo con fuerza mejorada
+- **[Roberto Gómez]({{ site.baseurl }}/characters/details/roberto-gomez/)**: Especialista en infiltración y agilidad
 
 ### **MetaCorp y Aliados**
 - **La Familia**: Relación colaborativa en operaciones complejas

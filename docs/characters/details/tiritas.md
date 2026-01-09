@@ -141,9 +141,9 @@ Durante la anomalía temporal nocturna, Tiritas tuvo un destino diferente:
 - **Método Efectivo**: Montó una avispa, arrancó su ala para desestabilizarla, y la mató con el aguijón
 
 ## Apariciones Documentadas
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes.md)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025](../../campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes.md)
+- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 
 ## Situación Actual (Noviembre 2025)
 Tiritas continúa su estancia en el reformatorio, equilibrando la necesidad de comportarse para eventualmente ver a su hermana con la tentación constante de intentar otro escape. La desaparición de Amara y Dimitri añade un nuevo nivel de tensión y misterio a un ambiente ya volátil.

@@ -154,12 +154,12 @@ Uno de los eventos más significativos ocurridos en la casa:
 ## 📚 **Apariciones Documentadas**
 
 ### **Campaña La Familia**
-- [Sesión 33](../../campaigns/la-familia/session-33.md) - Residencia principal, desaparición misteriosa
-- [Sesión 42 (Mayo 2025)](../../campaigns/la-familia/session-42-2025-05-25.md) - Reunión de veteranos, estado restaurado
+- [Sesión 33]({{ site.baseurl }}/campaigns/la-familia/session-33/) - Residencia principal, desaparición misteriosa
+- [Sesión 42 (Mayo 2025)]({{ site.baseurl }}/campaigns/la-familia/session-42/) - Reunión de veteranos, estado restaurado
 
 ### **Campaña La Fuerza Oculta**
-- [Sesión 20 (Junio 2025)](../../campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15.md) - Refugio de fugitivos
-- [Summary La Fuerza Oculta](../../campaigns/la-fuerza-oculta/summary/summary.md) - Centro de curación y desarrollo
+- [Sesión 20 (Junio 2025)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/) - Refugio de fugitivos
+- [Summary La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/) - Centro de curación y desarrollo
 
 ---
 

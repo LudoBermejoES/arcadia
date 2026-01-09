@@ -25,7 +25,7 @@ permalink: /groups/humanitas/
 | **Líder Conocido** | Leopoldo Gómez |
 | **Ideología** | Supremacía humana "normal" |
 | **Financiación** | Conexiones con USA y UE |
-| **Estatus** | Activo políticamente |
+| **Estatus** | **Ilegalizado** (pertenencia a banda armada) |
 
 ---
 
@@ -51,8 +51,8 @@ Humanitas surgió como respuesta al creciente poder e influencia de los metahuma
 ### **Conexión con Freiglasung**
 Operaron como el brazo político de la organización terrorista hasta que [La Familia]({{ site.baseurl }}/groups/la-familia/) desenmascaró la conexión durante sus investigaciones (Sesión 41). Freiglasung fue posteriormente desmantelado tras ser identificado como colaborador de banda terrorista.
 
-### **Situación Actual**
-Tras el escándalo de Freiglasung, Humanitas perdió credibilidad pero mantiene una base electoral significativa. Continúan presionando por legislación restrictiva contra metahumanos.
+### **Ilegalización**
+Tras la investigación de La Familia, se demostró la conexión directa entre Humanitas y Freiglasung. El partido fue **declarado ilegal por pertenencia a banda armada**, poniendo fin a su actividad política oficial en Arcadia.
 
 ---
 

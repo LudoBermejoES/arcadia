@@ -266,23 +266,23 @@ Y mientras todos buscan al asesino de Federico, la verdadera responsable los obs
 - **Secreto mortal**: Ordenó muerte de Federico
 - **Heredera elegida**: Isabella Aguilar
 - **Dilema central**: Amor vs. imperio, viuda vs. asesina
-- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md)
+- **Primera aparición**: [Sesión 1 - 25 Octubre 2025]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 
 ---
 
 ## 🔗 Enlaces Relacionados
 
 - [← Volver a Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
-- [Federico Aguilar](federico-aguilar.md) - Su esposo durante 50 años, víctima
-- [Isabella Aguilar](isabella-aguilar.md) - Su hija, cómplice, heredera
-- [Marco Aguilar](marco-aguilar.md) - Su hijo, ama pero no respeta
-- [Diego Aguilar](diego-aguilar.md) - Su nieto consentido
-- [Valentina Aguilar](valentina-aguilar.md) - Su nieta consentida
-- [Dolores Sánchez](dolores-sanchez.md) - Preparadora discreta
-- [Salvatore Rossi](salvatore-rossi.md) - Sabe su secreto, calla
-- [Sofía Vega](sofia-vega.md) - Amiga de 40 años
-- [Renata Lombardi](renata-lombardi.md) - Amiga de 40 años
-- [Padre Eugenio Vargas](padre-eugenio-vargas.md) - Su confesor comprado
+- [Federico Aguilar]({{ site.baseurl }}/characters/details/federico-aguilar/) - Su esposo durante 50 años, víctima
+- [Isabella Aguilar]({{ site.baseurl }}/characters/details/isabella-aguilar/) - Su hija, cómplice, heredera
+- [Marco Aguilar]({{ site.baseurl }}/characters/details/marco-aguilar/) - Su hijo, ama pero no respeta
+- [Diego Aguilar]({{ site.baseurl }}/characters/details/diego-aguilar/) - Su nieto consentido
+- [Valentina Aguilar]({{ site.baseurl }}/characters/details/valentina-aguilar/) - Su nieta consentida
+- [Dolores Sánchez]({{ site.baseurl }}/characters/details/dolores-sanchez/) - Preparadora discreta
+- [Salvatore Rossi]({{ site.baseurl }}/characters/details/salvatore-rossi/) - Sabe su secreto, calla
+- [Sofía Vega]({{ site.baseurl }}/characters/details/sofia-vega/) - Amiga de 40 años
+- [Renata Lombardi]({{ site.baseurl }}/characters/details/renata-lombardi/) - Amiga de 40 años
+- [Padre Eugenio Vargas]({{ site.baseurl }}/characters/details/padre-eugenio-vargas/) - Su confesor comprado
 
 ---
 

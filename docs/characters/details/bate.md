@@ -68,19 +68,19 @@ Bate fue programado con **órdenes automáticas** que podían activarse:
 3. **"Protocolo Bate"**: Casi mata a Mésmero cuando su programación se activó completamente
 
 ## Apariciones Documentadas
-- [Session 01](../../campaigns/la-familia/session-01.md)
-- [Session 02](../../campaigns/la-familia/session-02.md)
-- [Session 03](../../campaigns/la-familia/session-03.md)
-- [Session 11](../../campaigns/la-familia/session-11.md)
-- [Session 14](../../campaigns/la-familia/session-14.md)
-- [Session 18](../../campaigns/la-familia/session-18.md)
-- [Session 24](../../campaigns/la-familia/session-24.md)
-- [Session 32](../../campaigns/la-familia/session-32.md)
-- [Session 34](../../campaigns/la-familia/session-34.md)
-- [Session 40](../../campaigns/la-familia/session-40.md)
-- [Session 41](../../campaigns/la-familia/session-41.md)
-- [Session 42](../../campaigns/la-familia/session-42-2025-05-25.md)
-- [Session 43](../../campaigns/la-familia/session-43-2025-09-11.md) - Destruye faraones zombis y aturde a la Esfinge con bate de arcanita
+- [Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/)
+- [Session 02]({{ site.baseurl }}/campaigns/la-familia/session-02/)
+- [Session 03]({{ site.baseurl }}/campaigns/la-familia/session-03/)
+- [Session 11]({{ site.baseurl }}/campaigns/la-familia/session-11/)
+- [Session 14]({{ site.baseurl }}/campaigns/la-familia/session-14/)
+- [Session 18]({{ site.baseurl }}/campaigns/la-familia/session-18/)
+- [Session 24]({{ site.baseurl }}/campaigns/la-familia/session-24/)
+- [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
+- [Session 34]({{ site.baseurl }}/campaigns/la-familia/session-34/)
+- [Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
+- [Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
+- [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/)
+- [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Destruye faraones zombis y aturde a la Esfinge con bate de arcanita
 
 ## El Reconocimiento de la Verdad
 Gradualmente, Bate fue aceptando la realidad devastadora:

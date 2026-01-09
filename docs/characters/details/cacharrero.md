@@ -99,10 +99,10 @@ Su conexión con Sara10 vincula las campañas Génesis con la historia más ampl
 
 ## Apariciones Documentadas
 
-- **[Genesis Session 03](../../campaigns/genesis/session-03.md)**: Primera comunicación directa con Sara10, establecimiento de la relación padre-hija
-- **[Genesis Session 04](../../campaigns/genesis/session-04.md)**: Visita a prisión revela su pérdida de memoria, historia de escape y conexión genética con Sara10
-- **[Genesis Session 05](../../campaigns/genesis/session-05.md)**: Recomendación de Comadreja Negra de que Sara10 lo visite
-- **[La Familia Session 34](../../campaigns/la-familia/session-34.md)**: Asiste a héroes con escape usando tecnología de excavación, muestra naturaleza protectora
+- **[Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)**: Primera comunicación directa con Sara10, establecimiento de la relación padre-hija
+- **[Genesis Session 04]({{ site.baseurl }}/campaigns/genesis/session-04/)**: Visita a prisión revela su pérdida de memoria, historia de escape y conexión genética con Sara10
+- **[Genesis Session 05]({{ site.baseurl }}/campaigns/genesis/session-05/)**: Recomendación de Comadreja Negra de que Sara10 lo visite
+- **[La Familia Session 34]({{ site.baseurl }}/campaigns/la-familia/session-34/)**: Asiste a héroes con escape usando tecnología de excavación, muestra naturaleza protectora
 
 ## Relaciones Clave
 

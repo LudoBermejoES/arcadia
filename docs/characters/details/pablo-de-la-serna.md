@@ -18,13 +18,13 @@ slug: pablo-de-la-serna
 **Altura**: 1.84m  
 **Peso**: 92kg  
 **Categoría**: MetaCorp - Fuerzas del Orden  
-**Afiliación**: [Ultracorps](../../groups/ultracorps/) (Especialista en Fuerza)  
+**Afiliación**: [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) (Especialista en Fuerza)  
 **Estado**: Activo  
 **Clasificación**: Humano mejorado artificialmente, especialista en operaciones de fuerza
 
 ## Descripción
 
-Pablo de la Serna es el comandante táctico y especialista de fuerza veterano de los [Ultracorps](../../groups/ultracorps/), un líder militar de 43 años cuyas capacidades físicas y experiencia de combate lo han establecido como la punta de lanza definitiva del equipo. Con 1.84m de altura y una complexión que combina fuerza optimizada con cicatrices de combate, representa la evolución del soldado de élite que ha sobrevivido y prosperado durante una década de operaciones de alto riesgo. Su combinación de fuerza sobrehumana, resistencia probada en combate y liderazgo táctico desarrollado lo ha convertido en el segundo al mando natural tras el semi-retiro de O'Hara.
+Pablo de la Serna es el comandante táctico y especialista de fuerza veterano de los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/), un líder militar de 43 años cuyas capacidades físicas y experiencia de combate lo han establecido como la punta de lanza definitiva del equipo. Con 1.84m de altura y una complexión que combina fuerza optimizada con cicatrices de combate, representa la evolución del soldado de élite que ha sobrevivido y prosperado durante una década de operaciones de alto riesgo. Su combinación de fuerza sobrehumana, resistencia probada en combate y liderazgo táctico desarrollado lo ha convertido en el segundo al mando natural tras el semi-retiro de O'Hara.
 
 ## Mejoras Artificiales
 

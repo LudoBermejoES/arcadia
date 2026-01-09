@@ -18,13 +18,13 @@ slug: roberto-gomez
 **Altura**: 1.69m  
 **Peso**: 60kg  
 **Categoría**: MetaCorp - Fuerzas del Orden  
-**Afiliación**: [Ultracorps](../../groups/ultracorps/) (Especialista en Infiltración)  
+**Afiliación**: [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) (Especialista en Infiltración)  
 **Estado**: Activo  
 **Clasificación**: Humano mejorado artificialmente, especialista en agilidad y coordinación
 
 ## Descripción
 
-Roberto Gómez es el maestro de infiltración y coordinador de inteligencia de los [Ultracorps](../../groups/ultracorps/), un veterano especialista de 39 años cuyas capacidades han evolucionado hasta niveles casi míticos en el mundo del espionaje. Su complexión aparentemente ligera (1.69m, 60kg) oculta una década de refinamiento que ha convertido cada músculo, cada reflejo, en una herramienta de precisión letal. Tras diez años perfeccionando su arte, Roberto ha transcendido de agente encubierto a fantasma viviente: capaz de infiltrarse en cualquier lugar, obtener cualquier información, y desaparecer sin dejar rastro.
+Roberto Gómez es el maestro de infiltración y coordinador de inteligencia de los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/), un veterano especialista de 39 años cuyas capacidades han evolucionado hasta niveles casi míticos en el mundo del espionaje. Su complexión aparentemente ligera (1.69m, 60kg) oculta una década de refinamiento que ha convertido cada músculo, cada reflejo, en una herramienta de precisión letal. Tras diez años perfeccionando su arte, Roberto ha transcendido de agente encubierto a fantasma viviente: capaz de infiltrarse en cualquier lugar, obtener cualquier información, y desaparecer sin dejar rastro.
 
 ## Mejoras Artificiales
 

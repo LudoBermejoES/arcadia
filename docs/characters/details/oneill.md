@@ -19,13 +19,13 @@ slug: oneill
 **Altura**: 1.60m  
 **Peso**: 50kg  
 **Categoría**: MetaCorp - Fuerzas del Orden  
-**Afiliación**: [Ultracorps](../../groups/ultracorps/) (Líder)  
+**Afiliación**: [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) (Líder)  
 **Estado**: Semi-retirado (Consultor Senior)  
 **Clasificación**: Humano sin poderes, especialista en investigación criminal
 
 ## Descripción
 
-Neill O'Hara, conocido operacionalmente como "Oneill", es el veterano fundador de los [Ultracorps](../../groups/ultracorps/) y ex-líder de MetaCorp, ahora en su rol de consultor senior. Con aspecto de irlandés veterano, nariz un poco roja y aspecto de mala ostia que se ha acentuado con los años, es un investigador policial de 55 años con una carrera única: comenzó como miembro de MetaCorp (2014), se convirtió en el primer líder de Ultracorps (2014-2015), y ascendió a líder de toda MetaCorp cuando Trueno desapareció en 2015 (2015-2025). Tras una década de liderazgo total de la organización, O'Hara se ha semi-retirado del servicio activo, manteniendo un rol consultivo y de mentoría para las nuevas generaciones.
+Neill O'Hara, conocido operacionalmente como "Oneill", es el veterano fundador de los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) y ex-líder de MetaCorp, ahora en su rol de consultor senior. Con aspecto de irlandés veterano, nariz un poco roja y aspecto de mala ostia que se ha acentuado con los años, es un investigador policial de 55 años con una carrera única: comenzó como miembro de MetaCorp (2014), se convirtió en el primer líder de Ultracorps (2014-2015), y ascendió a líder de toda MetaCorp cuando Trueno desapareció en 2015 (2015-2025). Tras una década de liderazgo total de la organización, O'Hara se ha semi-retirado del servicio activo, manteniendo un rol consultivo y de mentoría para las nuevas generaciones.
 
 ## Historia Personal
 
@@ -127,7 +127,7 @@ Neill O'Hara, conocido operacionalmente como "Oneill", es el veterano fundador d
 
 **Operación de Rescate**: Durante una misión crítica con La Familia, coordinó operaciones especializadas demostrando su capacidad de liderazgo bajo presión.
 
-**Coordinación con Ultracorps**: Llamó a los [Ultracorps](../../groups/ultracorps/) durante una operación táctica, demostrando su capacidad de coordinar diferentes recursos especializados.
+**Coordinación con Ultracorps**: Llamó a los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) durante una operación táctica, demostrando su capacidad de coordinar diferentes recursos especializados.
 
 **Gestión de Crisis**: Intentó ponerse en contacto con Rayo cuando Relámpago había desaparecido, mostrando su rol como coordinador de las comunicaciones del equipo.
 

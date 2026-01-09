@@ -18,13 +18,13 @@ slug: inigo-temblez
 **Altura**: 1.50m  
 **Peso**: 45kg  
 **Categoría**: MetaCorp - Fuerzas del Orden  
-**Afiliación**: [Ultracorps](../../groups/ultracorps/) (Especialista Tecnológico)  
+**Afiliación**: [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) (Especialista Tecnológico)  
 **Estado**: Activo  
 **Clasificación**: Humano mejorado artificialmente, genio tecnológico
 
 ## Descripción
 
-Iñigo Temblez es el cerebro tecnológico de los [Ultracorps](../../groups/ultracorps/), un veterano especialista de 33 años que ha evolucionado de "atlético, siempre bien dispuesto" a un genio tecnológico maduro y estratega. Durante la década pasada, sus mejoras artificiales se han integrado completamente con su experiencia, convirtiéndolo no solo en el especialista tecnológico más avanzado de MetaCorp, sino en el arquitecto principal de los sistemas tecnológicos que definen las operaciones modernas de Ultracorps. Su obsesión juvenil por el reconocimiento se ha transformado en una visión madura sobre el poder de la tecnología para proteger Arcadia.
+Iñigo Temblez es el cerebro tecnológico de los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/), un veterano especialista de 33 años que ha evolucionado de "atlético, siempre bien dispuesto" a un genio tecnológico maduro y estratega. Durante la década pasada, sus mejoras artificiales se han integrado completamente con su experiencia, convirtiéndolo no solo en el especialista tecnológico más avanzado de MetaCorp, sino en el arquitecto principal de los sistemas tecnológicos que definen las operaciones modernas de Ultracorps. Su obsesión juvenil por el reconocimiento se ha transformado en una visión madura sobre el poder de la tecnología para proteger Arcadia.
 
 ## Mejoras Artificiales
 

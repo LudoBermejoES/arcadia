@@ -18,13 +18,13 @@ slug: mario-igarruti
 **Altura**: 1.79m  
 **Peso**: 68kg  
 **Categoría**: MetaCorp - Fuerzas del Orden  
-**Afiliación**: [Ultracorps](../../groups/ultracorps/) (Especialista Social)  
+**Afiliación**: [Ultracorps]({{ site.baseurl }}/groups/ultracorps/) (Especialista Social)  
 **Estado**: Activo  
 **Clasificación**: Humano mejorado artificialmente, especialista en manipulación social
 
 ## Descripción
 
-Mario Igarruti es el especialista social de los [Ultracorps](../../groups/ultracorps/), un veterano operativo de 38 años descrito como "guapo, seductor, con clase". Tras una década de servicio activo, ha refinado sus mejoras artificiales hasta convertirse en el especialista social más efectivo de MetaCorp. Su capacidad de manipulación social, artificialmente potenciada y perfeccionada con años de experiencia, lo ha establecido como el coordinador principal para operaciones diplomáticas complejas y situaciones que requieren resolución no violenta.
+Mario Igarruti es el especialista social de los [Ultracorps]({{ site.baseurl }}/groups/ultracorps/), un veterano operativo de 38 años descrito como "guapo, seductor, con clase". Tras una década de servicio activo, ha refinado sus mejoras artificiales hasta convertirse en el especialista social más efectivo de MetaCorp. Su capacidad de manipulación social, artificialmente potenciada y perfeccionada con años de experiencia, lo ha establecido como el coordinador principal para operaciones diplomáticas complejas y situaciones que requieren resolución no violenta.
 
 ## Mejoras Artificiales
 

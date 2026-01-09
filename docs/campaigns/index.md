@@ -137,7 +137,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 ---
 
-## 😈 **[Fatum Corporation](fatum/)**
+## 😈 **[Fatum Corporation]({{ site.baseurl }}/groups/fatum/)**
 **Archivo de Villanos • El Imperio Criminal**
 > El enemigo que trasciende generaciones
 
@@ -147,7 +147,7 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 - **Influencia omnipresente** en Arcadia
 - **Amenaza que evoluciona** con cada generación heroica
 
-**[🚀 Explorar Fatum →](fatum/)**
+**[🚀 Explorar Fatum →]({{ site.baseurl }}/groups/fatum/)**
 
 ---
 

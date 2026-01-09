@@ -25,7 +25,7 @@ Telaraña actúa como el cerebro maestro detrás de la mayoría de actividades c
 - Estrategia a largo plazo: Capaz de coordinar operaciones complejas y sostenidas
 
 ## Apariciones Documentadas
-- [World Building - Ambientación](../../world-building/ambientacion.md)
+- [World Building - Ambientación]({{ site.baseurl }}/world-building/ambientacion/)
 - [World Building - Arcadia Awakening](../../world-building/history/03-arcadia-awakening.md)
 - [La Familia Session 06](../../campaigns/la-familia/session-06.md)
 - [La Familia Session 20](../../campaigns/la-familia/session-20.md)

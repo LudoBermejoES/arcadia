@@ -467,8 +467,7 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 ### Enlaces Relacionados
 
 - [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)
-- [Distrito Solis]({{ site.baseurl }}/world-building/geography/distrito-solis/)
-- [Distrito Lunae]({{ site.baseurl }}/world-building/geography/distrito-lunae/)
+- [Distritos Residenciales]({{ site.baseurl }}/world-building/geography/residential-districts/) (incluye Distrito Solis y Distrito Lunae)
 
 <style>
 .map-container {

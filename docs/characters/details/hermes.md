@@ -25,7 +25,7 @@ Hermes actúa como un criminal especializado en robos de alto perfil y operacion
 - Evasión: Habilidad excepcional para escapar de las autoridades
 
 ## Apariciones Documentadas
-- [World Building - Ambientación](../../world-building/ambientacion.md)
+- [World Building - Ambientación]({{ site.baseurl }}/world-building/ambientacion/)
 
 ## Detalles Adicionales
 El "Robo del Zeppelin" de 1972 marca el debut público de Hermes y se ha convertido en uno de los crímenes más famosos de la historia de Arcadia. Este evento estableció tanto su reputación criminal como su metodología, combinando habilidades sobrehumanas con planificación meticulosa y estilo personal.

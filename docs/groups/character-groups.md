@@ -235,7 +235,7 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 
 **Miembros asociados**:
 - [El Emperador Oscuro]({{ site.baseurl }}/characters/details/el-emperador-oscuro/) (entidad primordial)
-- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-entidad/) (entidad antigua)
+- Lucifer (entidad antigua)
 - [Bastet]({{ site.baseurl }}/characters/details/bastet/)
 - [Alfred]({{ site.baseurl }}/characters/details/alfred/)
 

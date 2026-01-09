@@ -49,7 +49,7 @@ permalink: /groups/humanitas/
 Humanitas surgió como respuesta al creciente poder e influencia de los metahumanos en la sociedad arcadiana. Capitalizando miedos y resentimientos de sectores de la población sin poderes.
 
 ### **Conexión con Freiglasung**
-Operaron como el brazo político de la organización terrorista hasta que [La Familia]({{ site.baseurl }}/groups/la-familia/) desenmascaró la conexión durante sus investigaciones (Sesión 41).
+Operaron como el brazo político de la organización terrorista hasta que [La Familia]({{ site.baseurl }}/groups/la-familia/) desenmascaró la conexión durante sus investigaciones (Sesión 41). Freiglasung fue posteriormente desmantelado tras ser identificado como colaborador de banda terrorista.
 
 ### **Situación Actual**
 Tras el escándalo de Freiglasung, Humanitas perdió credibilidad pero mantiene una base electoral significativa. Continúan presionando por legislación restrictiva contra metahumanos.

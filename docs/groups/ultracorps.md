@@ -309,7 +309,7 @@ Los Ultracorps han evolucionado hasta convertirse en la división más respetada
 - [MetaCorp](character-groups.md#metacorp) - Organización matriz y estructura operativa
 
 ### Contexto Histórico
-- [Ambientación - Los MetaCorp](../../world-building/ambientacion.md#los-metacorp) - Evolución de la organización
+- [Ambientación - Los MetaCorp]({{ site.baseurl }}/world-building/ambientacion/#los-metacorp) - Evolución de la organización
 - [Historia - Maturity Arrives](../../world-building/history/06-maturity-arrives.md) - Desarrollo institucional
 
 ---

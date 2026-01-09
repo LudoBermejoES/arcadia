@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "La Familia - Resumen Detallado"
-permalink: /campaigns/la-familia/summary/summary/
+permalink: /campaigns/la-familia/summary/
 ---
 
 # La Familia - Resumen Detallado de Campaña

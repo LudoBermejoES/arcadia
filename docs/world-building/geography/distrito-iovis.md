@@ -409,7 +409,7 @@ El **Distrito Iovis** es el distrito residencial institucional de Arcadia, donde
 
 - [Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)
 - [Distrito Martis]({{ site.baseurl }}/world-building/geography/distrito-martis/)
-- [Distrito Solis]({{ site.baseurl }}/world-building/geography/distrito-solis/)
+- [Distritos Residenciales]({{ site.baseurl }}/world-building/geography/residential-districts/) (incluye Distrito Solis)
 
 <style>
 .map-container {

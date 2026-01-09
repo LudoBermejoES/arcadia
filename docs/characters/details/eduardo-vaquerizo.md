@@ -40,4 +40,4 @@ Su caso representa los riesgos que enfrentan los civiles que intentan detener a 
 ## Enlaces Relacionados
 
 - [Saltamontes]({{ site.baseurl }}/characters/details/saltamontes/)
-- [Banco de Arcadia]({{ site.baseurl }}/world-building/geography/distrito-clasico/)
+- [Banco de Arcadia]({{ site.baseurl }}/world-building/distrito-clasico/)

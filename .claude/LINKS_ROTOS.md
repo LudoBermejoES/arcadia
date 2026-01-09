@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: 144 (tras depurar duplicados)
+**Enlaces rotos únicos**: ~100 (tras correcciones de puntos 4, 5, 6, 7 y 9)
 
 ---
 
@@ -98,10 +98,11 @@ Rutas que incluyen subdirectorios inexistentes:
 | `/characters/details/vista/la-caceria-salvaje.md` | `/characters/details/vista/` |
 | `/characters/details/caos/pantomima/` | `/characters/details/pantomima/` |
 | `/characters/details/sombrio/caos/` | `/characters/details/caos/` |
-| `/characters/details/pensamientos/diana/` | Verificar estructura |
-| `/characters/pensamientos/` | No existe esta sección |
 
 **Problema**: Se están usando rutas anidadas que no existen en la estructura del proyecto.
+
+**CORREGIDO (2026-01-09)**:
+- `/characters/pensamientos/diana/` - Añadido frontmatter con permalink correcto
 
 ---
 
@@ -109,11 +110,13 @@ Rutas que incluyen subdirectorios inexistentes:
 
 | URL | Estado | Acción |
 |-----|--------|--------|
-| `/groups/humanitas/` | No existe | Crear archivo o quitar enlace |
-| `/groups/telarana/` | No existe | Verificar si es `/characters/details/telarana/` |
 | `/characters/groups/ultracorps/` | Ruta incorrecta | Debe ser `/groups/ultracorps/` |
 | `/characters/groups/fatum/` | Ruta incorrecta | Debe ser `/groups/fatum/` |
 | `/campaigns/fatum/` | No existe | Verificar si hay contenido |
+
+**CORREGIDO (2026-01-09)**:
+- `/groups/humanitas/` - Creado archivo humanitas.md
+- `/groups/telarana/` - Corregido a `/characters/details/telarana/` (Telaraña es personaje, no grupo)
 
 ---
 
@@ -121,14 +124,17 @@ Rutas que incluyen subdirectorios inexistentes:
 
 | URL Incorrecta | Verificar Si Existe |
 |----------------|---------------------|
-| `/world-building/04-metahumanidad-desatada/` | `/world-building/arcadia-awakening/` |
-| `/world-building/07-last-twenty-years/` | `/world-building/last-twenty-years/` |
-| `/world-building/geography/distrito-solis/` | No existe - distrito por crear |
-| `/world-building/geography/distrito-lunae/` | No existe - distrito por crear |
-| `/world-building/geography/distrito-clasico/` | Verificar permalink real |
-| `/world-building/society/arcadia-society/` | `/world-building/arcadia-society/` |
-| `/world-building/ambientacion.md` | Usar `/world-building/ambientacion/` |
 | `/world-building/ambientacion/geography/...` | Rutas anidadas inexistentes |
+
+**CORREGIDO (2026-01-09)**:
+
+- `/world-building/04-metahumanidad-desatada/` → `/world-building/04-last-twenty-years/`
+- `/world-building/07-last-twenty-years/` → `/world-building/04-last-twenty-years/`
+- `/world-building/society/arcadia-society/` → `/world-building/arcadia-society/`
+- `/world-building/geography/distrito-solis/` → `/world-building/geography/residential-districts/`
+- `/world-building/geography/distrito-lunae/` → `/world-building/geography/residential-districts/`
+- `/world-building/geography/distrito-clasico/` → `/world-building/distrito-clasico/`
+- `ambientacion.md` → `/world-building/ambientacion/` (3 archivos corregidos)
 
 ---
 
@@ -136,12 +142,15 @@ Rutas que incluyen subdirectorios inexistentes:
 
 | URL | Estado |
 |-----|--------|
-| `/campaigns/la-familia/summary/` | No existe |
-| `/campaigns/la-fuerza-oculta/summary/` | No existe |
 | `/campaigns/la-fuerza-oculta/themes/` | No existe |
 | `/all-content/campaigns/` | Ruta incorrecta |
 | `/all-content/world-building/` | Ruta incorrecta |
 | `/campaigns/campaigns/` | Ruta duplicada |
+
+**CORREGIDO (2026-01-09)**:
+
+- `/campaigns/la-familia/summary/` - Corregido permalink (era `/summary/summary/`)
+- `/campaigns/la-fuerza-oculta/summary/` - Corregido permalink (era `/summary/summary/`)
 
 ---
 
@@ -163,11 +172,15 @@ Las capturas están en carpetas con nombres largos tipo Notion que no se desplie
 
 | URL | Acción |
 |-----|--------|
-| `/characters/details/humanitas/` | Humanitas es organización, no personaje |
-| `/characters/details/lucifer-entidad/` | Verificar si existe como otro nombre |
-| `/characters/details/las-monjas-del-albergue/` | Crear ficha o quitar enlace |
-| `/characters/details/julian/` | Verificar nombre correcto |
-| `/characters/details/dr-Hotman/` | Case-sensitivity: `/characters/details/dr-hotman/` |
+| (Todos corregidos - ver abajo) | |
+
+**CORREGIDO (2026-01-09)**:
+
+- `/characters/details/humanitas/` → `/groups/humanitas/` (Humanitas es organización)
+- `/characters/details/lucifer-entidad/` → Eliminado enlace (no existe ficha de la entidad)
+- `/characters/details/las-monjas-del-albergue/` → Eliminado enlace (sin ficha)
+- `/characters/details/julian/` → Eliminado enlace (sin ficha)
+- `/characters/details/dr-Hotman/` → `/characters/details/hotman/` (case-sensitivity)
 
 ---
 
@@ -221,9 +234,9 @@ grep -rl "texto-viejo" docs/ | xargs sed -i 's|texto-viejo|texto-nuevo|g'
 3. Enlaces de imágenes
 
 ### Baja Prioridad (Requieren creación de contenido)
-1. Distritos no documentados (Solis, Lunae)
-2. Grupos sin ficha propia (Humanitas)
-3. Resúmenes de campaña no creados
+1. ~~Distritos no documentados (Solis, Lunae)~~ - Corregido: enlazados a residential-districts
+2. ~~Grupos sin ficha propia (Humanitas)~~ - Corregido: creado humanitas.md
+3. ~~Resúmenes de campaña no creados~~ - Corregido: arreglados permalinks
 
 ---
 
@@ -241,6 +254,21 @@ grep -rl "texto-viejo" docs/ | xargs sed -i 's|texto-viejo|texto-nuevo|g'
 | 2026-01-09 | `/characters/details/lucifer/` → `/characters/details/lucifer-hero/` | character-groups.md |
 | 2026-01-09 | URLs de sesiones con fechas en all-content.md | all-content.md (45 sesiones) |
 | 2026-01-09 | Enlaces relativos `session-XX.md` → permalinks con fecha | 7 archivos de personajes |
+| 2026-01-09 | Añadido frontmatter a `/characters/pensamientos/diana/` | diana.md (pensamientos) |
+| 2026-01-09 | Creado `/groups/humanitas/` | humanitas.md (nuevo) |
+| 2026-01-09 | `/groups/telarana/` → `/characters/details/telarana/` | 2 archivos |
+| 2026-01-09 | `/world-building/04-metahumanidad-desatada/` → `/world-building/04-last-twenty-years/` | world-building/index.md |
+| 2026-01-09 | `/world-building/07-last-twenty-years/` → `/world-building/04-last-twenty-years/` | 3 archivos |
+| 2026-01-09 | `/world-building/society/arcadia-society/` → `/world-building/arcadia-society/` | 4 archivos personajes |
+| 2026-01-09 | `/world-building/geography/distrito-clasico/` → `/world-building/distrito-clasico/` | eduardo-vaquerizo.md |
+| 2026-01-09 | `/world-building/geography/distrito-solis/` → residential-districts | distrito-martis.md, distrito-iovis.md |
+| 2026-01-09 | `/world-building/geography/distrito-lunae/` → residential-districts | distrito-martis.md |
+| 2026-01-09 | `ambientacion.md` → `/world-building/ambientacion/` | ultracorps.md, hermes.md, telarana.md |
+| 2026-01-09 | Corregido permalink `/campaigns/*/summary/summary/` → `/campaigns/*/summary/` | 2 archivos summary |
+| 2026-01-09 | `/characters/details/humanitas/` → `/groups/humanitas/` | la-familia/index.md |
+| 2026-01-09 | Eliminado enlace lucifer-entidad (sin ficha) | character-groups.md |
+| 2026-01-09 | Eliminados enlaces julian, las-monjas-del-albergue (sin ficha) | character-list.md |
+| 2026-01-09 | `/characters/details/dr-Hotman/` → `/characters/details/hotman/` | character-list.md |
 
 ---
 

@@ -46,7 +46,11 @@
       "Bash(cat:*)",
       "Bash(test:*)",
       "Bash(git mv:*)",
-      "Bash(git show:*)"
+      "Bash(git show:*)",
+      "Bash(npm view:*)",
+      "Bash(npx markdown-link-check:*)",
+      "Bash(npx linkinator:*)",
+      "Bash(grep:*)"
     ],
     "deny": [],
     "ask": [],

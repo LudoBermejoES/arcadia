@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "La Fuerza Oculta - Resumen Detallado"
-permalink: /campaigns/la-fuerza-oculta/summary/summary/
+permalink: /campaigns/la-fuerza-oculta/summary/
 ---
 
 # La Fuerza Oculta - Resumen Detallado de Campaña

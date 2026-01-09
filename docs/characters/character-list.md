@@ -203,8 +203,8 @@ permalink: /characters/character-list/
 - [Natacha]({{ site.baseurl }}/characters/details/natacha/)
 - [Gregor]({{ site.baseurl }}/characters/details/gregor/) (carnicero)
 - [Hassir]({{ site.baseurl }}/characters/details/hassir/) (quiosquero/vendedor de periódicos)
-- [Julian]({{ site.baseurl }}/characters/details/julian/) (cocinero del albergue, conexiones mafiosas)
-- [Las Monjas del Albergue]({{ site.baseurl }}/characters/details/las-monjas-del-albergue/)
+- Julian (cocinero del albergue, conexiones mafiosas)
+- Las Monjas del Albergue
 - [Señora Pepa]({{ site.baseurl }}/characters/details/senora-pepa/) (regenta pensión)
 
 ## Grupos de Protagonistas
@@ -239,7 +239,7 @@ permalink: /characters/character-list/
 - [Mia Tanaka]({{ site.baseurl }}/characters/details/mia-tanaka/)
 - [Dani Rodriguez]({{ site.baseurl }}/characters/details/dani-rodriguez/) (camarógrafo especializado en investigación paranormal)
 - [Lorena Sanchez]({{ site.baseurl }}/characters/details/lorena-sanchez/)
-- [Dr. Hotman]({{ site.baseurl }}/characters/details/dr-Hotman/)
+- [Dr. Hotman]({{ site.baseurl }}/characters/details/hotman/)
 
 ## Concursantes del Programa "Héroes o Villanos"
 

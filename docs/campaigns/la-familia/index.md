@@ -80,12 +80,12 @@ Siguiendo el rastro del [Faraón]({{ site.baseurl }}/characters/details/el-farao
 ### 🏝️ **Fase IV: El Clonario y las Visiones del Futuro (2012)**
 **"Isla Pequeña y el Barrio Gótico en Ruinas"**
 
-En la Isla Pequeña descubren una cripta con cuerpos preservados de todos los miembros de La Familia. Son transportados al barrio gótico futurista en ruinas (2025) donde conocen al envejecido Luis Montenegro. Descubren carteles de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y periódicos sobre la rendición de España a la República de Arcadia. Las lecturas mentales revelan campos de concentración.
+En la Isla Pequeña descubren una cripta con cuerpos preservados de todos los miembros de La Familia. Son transportados al barrio gótico futurista en ruinas (2025) donde conocen al envejecido Luis Montenegro. Descubren carteles de [Humanitas]({{ site.baseurl }}/groups/humanitas/) y periódicos sobre la rendición de España a la República de Arcadia. Las lecturas mentales revelan campos de concentración.
 
 ### 🧬 **Fase V: Las Manipulaciones Reveladas (2012-2013)**
 **"Mentes Borradas y Edades Falsas"**
 
-Investigan a Luis Fuentes de [Humanitas]({{ site.baseurl }}/characters/details/humanitas/) y su ideología de exterminio metahumano. Descubren que los miembros tienen solo un año de edad biológica. [Bate]({{ site.baseurl }}/characters/details/bate/) descubre que su mente fue borrada y reescrita, y que su edad real supera los 100 años. Se revela una base española de 1946 que "cultivaba" metahumanos.
+Investigan a Luis Fuentes de [Humanitas]({{ site.baseurl }}/groups/humanitas/) y su ideología de exterminio metahumano. Descubren que los miembros tienen solo un año de edad biológica. [Bate]({{ site.baseurl }}/characters/details/bate/) descubre que su mente fue borrada y reescrita, y que su edad real supera los 100 años. Se revela una base española de 1946 que "cultivaba" metahumanos.
 
 ### 🔮 **Fase VI: Profecías y Almas Perdidas (2013)**
 **"De la Sibila al Pozo de Almas"**

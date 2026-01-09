@@ -148,21 +148,38 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - [El Cacharrero]({{ site.baseurl }}/characters/details/el-cacharrero/) extrae el chip en Metalurgia Rashid
 - Alianza fortalecida con [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/) para investigar "Padre Bestia"
 
+### **Operación Rescate de Crías Bestiales (Diciembre 2025 - Enero 2026)**
+
+**Sesiones 44-45:**
+
+- Investigación del edificio abandonado de Padre Bestia
+- Combate con mercenarios de **Constellis** (grupo paramilitar estadounidense)
+- Descubrimiento: USA busca investigar cómo crear y controlar humanos bestiales
+- Diana realiza interrogatorio brutal para obtener información
+- Localización del desguace donde tenían secuestradas a las crías
+- **Operación Desguace**: Asalto coordinado con Protocolo Dame Veneno
+- **Rescate exitoso** de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
+- Fortalecimiento de la alianza con La Cacería Salvaje
+
 ---
 
 ## 🌟 **Logros Destacados**
 
 ### **Operaciones Mayores**
+
 - Infiltración en instalaciones de Fatum Corporation
 - Rescate de civiles en situaciones de rehenes
 - Neutralización de amenazas metahumanas peligrosas
 - Coordinación con MetaCorp en operaciones conjuntas
+- **Rescate de crías bestiales** (Enero 2026) - Operación coordinada contra mercenarios de Constellis
 
 ### **Momentos Icónicos**
+
 - **El Descubrimiento del Juego**: Encuentran gente jugando a "Héroes o Villanos" con sus identidades
 - **El Puente de Moebius**: Pantomima accede al refugio dimensional de su familia
 - **Encuentros Generacionales**: Interacciones con Mésmero, El Faraón y otros veteranos
 - **Defensa de Isla Sal**: Protección coordinada de compañeras sin poderes durante ataque Cazacapas
+- **Operación Desguace**: Rescate exitoso de las crías de Padre Bestia
 - **Alianza con La Cacería Salvaje**: Eslizón establece contacto formal con los cinco hermanos felinos
 
 ---
@@ -218,12 +235,12 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 </div>
 
 <div class="stat-card">
-<span class="stat-number">43+</span>
+<span class="stat-number">45+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~22</span>
+<span class="stat-number">~23</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
@@ -235,13 +252,13 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 
 ---
 
-## 🔮 **Estado Actual (Diciembre 2025)**
+## 🔮 **Estado Actual (Enero 2026)**
 
-La Fuerza Oculta continúa operando activamente en Arcadia tras sobrevivir a múltiples ataques coordinados. El reciente ataque de Cazacapas en Isla Sal demostró tanto su vulnerabilidad como su capacidad de protegerse mutuamente. La crisis personal de Hotman con su padre ha fortalecido los lazos del equipo.
+La Fuerza Oculta ha completado exitosamente la Operación Desguace, rescatando a las 4 crías bestiales secuestradas por mercenarios de Constellis. Tras sobrevivir a múltiples ataques coordinados (Cazacapas en Isla Sal) y resolver la crisis personal de Hotman con su padre, el equipo ha demostrado capacidad táctica excepcional en operaciones complejas.
 
 ### **Desafíos Actuales**
-- **Amenaza Cazacapas**: Grupo mercenario antimeta que los ha identificado como objetivos
-- **Investigación "Padre Bestia"**: Misión activa en el Distrito Mercury, combate en curso con hombres bestiales
+
+- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales
 - **Conexión Pantomima-Caos**: Cacharrero confirma que Caos (padre de Pantomima) encargó el monopatín
 - **Nuevo poder de Hotman**: Descubrió capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
 - **Integración del linaje de Pantomima**: Pantomima busca comunicación con Caos a través de Cacharrero

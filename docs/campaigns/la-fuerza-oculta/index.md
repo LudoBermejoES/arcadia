@@ -122,6 +122,11 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[30 Noviembre](ai-notes/2025-11-30-gemini-notes.md)**: Combate con mercenarios, negociación de Sentencia
 - **[7 Diciembre](ai-notes/2025-12-07-gemini-notes.md)** / **[Manual](manual-notes/session-42-2025-12-07.md)**: Chip implantado en Hotman por atacante invisible, mensaje holográfico del padre repudiándolo, Eneiros crea collar de oro bloqueador, El Cacharrero extrae el chip en Metalurgia Rashid, Eneiros rechaza ser padrino de Hotman
 - **[21 Diciembre](ai-notes/2025-12-21-gemini-notes.md)** / **[Manual](manual-notes/session-43-2025-12-21.md)**: Pantomima pregunta a Cacharrero por Caos (quien encargó el monopatín), Hotman descubre poder de vuelo durante momento íntimo con Justa, pulso electromagnético apaga Distrito Mercury, investigación de Padre Bestia en edificio abandonado, combate con hombres bestiales
+- **[28 Diciembre](ai-notes-summary/2025-12-28-gemini-notes.md)** / **[Manual](manual-notes/session-44-2025-12-28.md)**: Combate con mercenarios de Constellis, descubrimiento de secuestro de crías bestiales, interrogatorio brutal de Diana, localización del desguace donde tienen a las crías
+
+### 🐾 **Fase XI: Rescate de las Crías Bestiales (Enero 2026)**
+
+- **[4 Enero](ai-notes-summary/2026-01-04-gemini-notes.md)** / **[Manual](manual-notes/session-45-2026-01-04.md)**: Operación de asalto al desguace, Protocolo Dame Veneno para interferencia de comunicaciones, combate coordinado contra mercenarios, rescate exitoso de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
 
 ---
 
@@ -181,7 +186,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">43+</span>
+<span class="stat-number">45+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -191,7 +196,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">60+</span>
+<span class="stat-number">68+</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>
@@ -236,13 +241,14 @@ Mezcla elementos de:
 
 ---
 
-## 🔮 Estado Actual (Diciembre 2025)
+## 🔮 Estado Actual (Enero 2026)
 
-**La Fuerza Oculta** continúa activa tras sobrevivir a ataques coordinados de Cazacapas y una crisis personal de Hotman con su padre. Han establecido alianzas formales con La Cacería Salvaje y cuentan con el apoyo técnico de El Cacharrero. Cada sesión añade nuevas capas a un universo que ha crecido orgánicamente durante 15 años.
+**La Fuerza Oculta** ha completado exitosamente el rescate de las crías bestiales secuestradas por mercenarios de Constellis. Tras sobrevivir a ataques coordinados de Cazacapas y una crisis personal de Hotman con su padre, el equipo ha demostrado su capacidad táctica en operaciones complejas. Mantienen alianzas formales con La Cacería Salvaje y cuentan con el apoyo técnico de El Cacharrero. Cada sesión añade nuevas capas a un universo que ha crecido orgánicamente durante 15 años.
 
 ### 🎯 **Arcos Narrativos Activos**
-- **Investigación "Padre Bestia"**: Misión encargada por La Cacería Salvaje en el Barrio Gótico
-- **Amenaza Cazacapas**: Grupo mercenario antimeta que ha identificado al equipo como objetivo
+
+- **Investigación "Padre Bestia"**: Misión completada - crías rescatadas, pero quedan preguntas sobre Constellis
+- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales
 - **Crisis familiar de Hotman**: Su padre lo ha repudiado y parece tener conexiones peligrosas
 - **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
 - **Visita al padrino de Diana**: Encuentro programado con Mulciber (Fatum)

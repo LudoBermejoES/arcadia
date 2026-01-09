@@ -272,19 +272,47 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Combate: Diana embiste, Eslizón desarma, Justa dispara con balas de goma
   - **Sique usa nuevo poder mental** para aturdir a oponente llamada Sofía
 
+- **[Sesión 44 - 28 Diciembre 2025](session-44-2025-12-28.md)** - *"El Cubil de las Bestias"*
+  - Continuación de la infiltración en el edificio abandonado
+  - Combate contra yonquis armados y mercenarios de **Constellis**
+  - Descubrimiento de tatuaje militar identificando al grupo mercenario
+  - **Sique lee la mente** de mercenaria: los cachorros de Padre Bestia fueron secuestrados
+  - Aparición de **hombre rinoceronte** y **hombre murciélago** buscando a las crías
+  - Mina claymore explota al subir las escaleras (Diana y Justa esquivan)
+  - Jaulas vacías y ordenadores destruidos: los mercenarios ya huyeron
+  - **Interrogatorio brutal** de Diana a mercenario capturado
+  - Revelación: Mercenarios de USA robaron cachorros para investigar control de humanos bestiales
+  - Localización del desguace donde tienen a las crías
+  - **Sique escanea mentalmente** el desguace: 12 enemigos, 4 crías en compactador de basura
+
+#### **Enero 2026 - Rescate de las Crías Bestiales**
+
+- **[Sesión 45 - 4 Enero 2026](session-45-2026-01-04.md)** - *"Operación Desguace"*
+  - Falta Jandro (Hotman no participa en esta sesión)
+  - Planificación táctica del asalto al desguace
+  - **Protocolo Dame Veneno**: Interferencia de comunicaciones enemigas
+  - Infiltración sigilosa bajo ilusión de Pantomima
+  - Combate coordinado: Sentencia elimina tiradores, Eslizón noquea mercenarios
+  - Diana recibe disparo y queda atontada, Pantomima la oculta con ilusión
+  - Eslizón usa enemigo como escudo humano
+  - **Sentencia elimina al francotirador** de la torreta
+  - Diana mata a dos enemigos más en combate cuerpo a cuerpo
+  - **Rescate exitoso de las 4 crías bestiales** del compactador de basura
+  - Las crías son adorables: caimancito, murciélago, perrito y ratilla (vestidos)
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 39 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Diciembre 2025 (22 meses)
-- **Páginas Estimadas**: ~570 páginas de notas detalladas
-- **Horas de Juego**: ~114 horas registradas
+- **Total de Sesiones**: 41 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Enero 2026 (23 meses)
+- **Páginas Estimadas**: ~600 páginas de notas detalladas
+- **Horas de Juego**: ~120 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (45% del total)
-- **Fase Héroes Independientes (2025)**: 21 sesiones (55% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (41% del total)
+- **Fase Héroes Independientes (2025-2026)**: 24 sesiones (59% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

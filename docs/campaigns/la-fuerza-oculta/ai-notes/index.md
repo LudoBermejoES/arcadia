@@ -335,14 +335,54 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2025-12-28 - El Cubil de las Bestias](../ai-notes-summary/2025-12-28-gemini-notes.md)
+
+**"Mercenarios de Constellis y el Secuestro de las Crías"**
+
+- 🏚️ **Infiltración Continuada**: El grupo entra en el edificio abandonado de Padre Bestia
+- ⚔️ **Combate con Yonquis**: Enfrentamiento con personas armadas bajo efectos de drogas
+- 🎖️ **Identificación de Constellis**: Tatuaje militar revela grupo de mercenarios profesionales
+- 🧠 **Lectura Mental**: Sique extrae información de mercenaria inconsciente
+- 🦏 **Apariciones Bestiales**: Hombre rinoceronte y hombre murciélago buscan a las crías
+- 💥 **Trampa Explosiva**: Mina claymore explota, Diana y Justa esquivan por reflejos
+- 🗣️ **Interrogatorio Brutal**: Diana tortura a mercenario para obtener información
+- 🇺🇸 **Revelación**: USA quiere investigar cómo crear y controlar humanos bestiales
+- 🏭 **Localización**: Las crías están en un desguace fuertemente vigilado
+- 📡 **Escaneo Mental**: Sique triangula posiciones de 12 enemigos y 4 crías en compactador
+
+**Duración**: ~2.5 horas | **Palabras**: ~15,000 | **Páginas**: ~38
+
+---
+
+### 🎄 **Enero 2026 - Rescate de las Crías Bestiales**
+
+#### [📼 2026-01-04 - Operación Desguace](../ai-notes-summary/2026-01-04-gemini-notes.md)
+
+**"Asalto Coordinado y Rescate Exitoso"**
+
+- 📋 **Planificación Táctica**: Múltiples opciones de ataque discutidas por el grupo
+- 🎭 **Ilusión de Cobertura**: Pantomima mantiene ilusión mientras el grupo se infiltra
+- 📻 **Protocolo Dame Veneno**: Interferencia de comunicaciones enemigas con música
+- 🚛 **Infiltración por Camión**: El grupo sube a un camión para mejor posición
+- 🔫 **Combate Coordinado**: Sentencia elimina tiradores, Eslizón noquea mercenarios
+- 🛡️ **Escudo Humano**: Eslizón usa enemigo capturado como protección
+- 🎯 **Francotirador Eliminado**: Sentencia neutraliza al tirador de la torreta
+- 💪 **Diana Devastadora**: Mata a dos enemigos en combate cuerpo a cuerpo
+- 🐾 **Rescate Exitoso**: Las 4 crías bestiales rescatadas del compactador
+- 🥰 **Crías Adorables**: Caimancito, murciélago, perrito y ratilla (vestidos)
+
+**Duración**: ~2.5 horas | **Palabras**: ~16,000 | **Páginas**: ~41
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 22 sesiones completas
-- **Período Cubierto**: Junio-Diciembre 2025 (7 meses intensivos)
-- **Palabras Totales**: ~387,500 palabras transcritas
-- **Páginas Equivalentes**: ~991 páginas de contenido
-- **Horas de Audio**: ~63 horas de partidas registradas
+- **Total de Transcripciones**: 24 sesiones completas
+- **Período Cubierto**: Junio 2025 - Enero 2026 (8 meses intensivos)
+- **Palabras Totales**: ~418,500 palabras transcritas
+- **Páginas Equivalentes**: ~1,070 páginas de contenido
+- **Horas de Audio**: ~68 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**
@@ -353,6 +393,7 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 - **Octubre 2025**: Precisión mantenida en escenas de acción con múltiples competidores
 - **Noviembre 2025**: Captura excepcional de revelaciones complejas sobre historia familiar
 - **Diciembre 2025**: Documentación completa de confrontación familiar y tecnología metahumana
+- **Enero 2026**: Cobertura de operaciones tácticas coordinadas y rescate de crías bestiales
 
 ### 🎭 **Cobertura Narrativa**
 - **Diálogos de Personajes**: 100% capturados con interpretación

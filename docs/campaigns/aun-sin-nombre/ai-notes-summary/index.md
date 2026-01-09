@@ -36,7 +36,7 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🌴 **Octubre 2025 - Primeros Días Analizados**
 
-#### [📈 Análisis 26/10/2025 - Llegada a Isla Albedo](2025-10-26-gemini-notes.md)
+#### [📈 Análisis 26/10/2025 - Llegada a Isla Albedo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 **"Bienvenidos al Reformatorio"**
 
 **🎯 Temas Centrales Identificados:**
@@ -74,7 +74,7 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🍂 **Noviembre 2025 - Misterios Se Profundizan**
 
-#### [📈 Análisis 02/11/2025 - Elena y el Charco Misterioso](2025-11-02-gemini-notes.md)
+#### [📈 Análisis 02/11/2025 - Elena y el Charco Misterioso]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 **"Ilusiones, Terapia y Anomalías"**
 
 **🎯 Temas Centrales Identificados:**
@@ -111,7 +111,7 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
-#### [📈 Análisis 16/11/2025 - El Mundo Sepia y las Avispas Gigantes](2025-11-16-gemini-notes.md)
+#### [📈 Análisis 16/11/2025 - El Mundo Sepia y las Avispas Gigantes]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 **"Realidad Alternativa y Primer Combate"**
 
 **🎯 Temas Centrales Identificados:**

@@ -4,6 +4,49 @@ Este documento describe los archivos que deben actualizarse cuando se añade una
 
 ---
 
+## ⚠️ IMPORTANTE: Cabecera YAML Obligatoria
+
+**TODOS los archivos de sesión deben tener una cabecera YAML (frontmatter)** al principio del archivo para que Jekyll los procese correctamente y genere las URLs adecuadas.
+
+### Formato de Cabecera para Notas Manuales:
+```yaml
+---
+layout: page
+title: "La Fuerza Oculta - Sesión XX"
+permalink: /campaigns/la-fuerza-oculta/manual-notes/session-XX-YYYY-MM-DD/
+---
+```
+
+### Formato de Cabecera para Notas AI:
+```yaml
+---
+layout: page
+title: "La Fuerza Oculta - Análisis Sesión XX"
+permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/YYYY-MM-DD-gemini-notes/
+---
+```
+
+### Ejemplo Completo:
+```yaml
+---
+layout: page
+title: "Reformatorio Nueva Esperanza - Sesión 1"
+permalink: /campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/
+---
+
+26 oct 2025
+
+## Arcadia -- Fantarol
+...resto del contenido...
+```
+
+**Sin esta cabecera:**
+- El archivo no será procesado por Jekyll
+- Los enlaces que apunten a él darán error 404
+- No aparecerá en la navegación del sitio
+
+---
+
 ## Archivos OBLIGATORIOS (Siempre se actualizan)
 
 ### 1. Archivos de la Sesión (Crear nuevos)

@@ -15,7 +15,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### 🍂 **Noviembre 2025 - Misterios Se Profundizan**
 
-#### [📝 Sesión 16 de Noviembre](../ai-notes-summary/2025-11-16-gemini-notes.md)
+#### [📝 Sesión 16 de Noviembre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 **"El Mundo Sepia y las Avispas Gigantes"**
 - 💻 **Sala de Ordenadores**: Investigación sobre telépatas (Mésmero, Sique, La Fuerza Oculta)
 - 👅 **Elena Lame el Charco**: Enferma y es encerrada en enfermería
@@ -31,7 +31,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ---
 
-#### [📝 Sesión 2 de Noviembre](../ai-notes-summary/2025-11-02-gemini-notes.md)
+#### [📝 Sesión 2 de Noviembre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 **"Elena y el Charco Misterioso"**
 - 🎭 **Nueva Estudiante**: Elena Expósito se une al reformatorio
 - 🔫 **Incidente**: Elena crea pistola ilusoria y dispara a Tiritas
@@ -46,7 +46,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### 🌴 **Octubre 2025 - Primeros Días en Isla Albedo**
 
-#### [📝 Sesión 26 de Octubre](../ai-notes-summary/2025-10-26-gemini-notes.md)
+#### [📝 Sesión 26 de Octubre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 **"Bienvenidos a Nueva Esperanza"**
 - 🏝️ **Llegada**: Kira llega al Reformatorio Nueva Esperanza en Isla Albedo
 - 👥 **Presentaciones**: Conoce a Sergei (veterano metamorfo) y Tiritas (absorbedor de energía cinética)

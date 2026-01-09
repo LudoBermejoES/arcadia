@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Reformatorio Nueva Esperanza - Sesión 1"
+permalink: /campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/
+---
+
 26 oct 2025
 
 ## Arcadia \-- Fantarol

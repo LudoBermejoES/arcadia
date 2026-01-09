@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Reformatorio Nueva Esperanza - Sesión 2"
+permalink: /campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/
+---
+
 2 nov 2025
 
 ## Los domingos al rol \- Turno de mañana

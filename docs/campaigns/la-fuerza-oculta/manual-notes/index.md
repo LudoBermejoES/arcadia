@@ -195,7 +195,7 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Descubrimiento de Mentallo, el psíquico más poderoso
   - Rechazo de Psique a la jeringuilla del poder
 
-- **[Sesión 33 - 23 Septiembre 2024]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/)** - *"El Entrenamiento de Psique y el Secreto de Sentencia"*
+- **[Sesión 33 - 23 Septiembre 2024]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/)** - *"El Entrenamiento de Psique y el Secreto de Sentencia"*
   - Invitación a la fiesta exclusiva de Eneiros
   - Primera sesión brutal de entrenamiento de Psique con Mésmero
   - Comportamiento extraño de Sentencia, hablando con paredes
@@ -203,7 +203,7 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Infiltración en el Hospital General de Arcadia
   - Entrega de prótesis avanzadas a Les Enfant heridos
 
-- **[Sesión 34 - 28 Septiembre 2024]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28/)** - *"Caos Hospitalario y Encuentro con Concursantes"*
+- **[Sesión 34 - 28 Septiembre 2024]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/)** - *"Caos Hospitalario y Encuentro con Concursantes"*
   - Justa descubierta en hospital con identificación falsa
   - Fuga caótica con uniforme ajustado y peluca cayéndose
   - Ilusión de embarazada terminal causa pánico masivo

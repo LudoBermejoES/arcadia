@@ -417,7 +417,7 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - [AI Notes 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 - [AI Notes 2025-09-14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes/)
 - [Sesión 32]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/)
-- [Sesión 33]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/) - Primera cita con Justa
+- [Sesión 33]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/) - Primera cita con Justa
 - [AI Notes 2025-09-21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes/)
 - [AI Notes 2025-11-02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)

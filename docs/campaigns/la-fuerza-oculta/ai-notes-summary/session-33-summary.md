@@ -129,4 +129,4 @@ La sesión termina con Sentencia completando su misión secreta de entregar pró
 
 *Esta sesión destaca por su enfoque en las consecuencias personales de las acciones heroicas y la búsqueda de redención de Sentencia, mostrando que incluso los actos más duros pueden venir de un lugar de compasión.*
 
-[📅 Ver Sesiones]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/) | [🤖 Ver Transcripción IA]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes/) | [📝 Ver Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/)
+[📅 Ver Sesiones]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/) | [🤖 Ver Transcripción IA]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes/) | [📝 Ver Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/)

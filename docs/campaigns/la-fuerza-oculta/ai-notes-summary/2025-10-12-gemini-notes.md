@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-10-12/
 # Sesión 34: Robo del Sombrío y Carrera Ilegal
 **Fecha**: 12 de Octubre de 2025
 
-[📝 Notas Gemini](../ai-notes/2025-10-12-gemini-notes.md) | [📋 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/)
+[📝 Notas Gemini](../ai-notes/2025-10-12-gemini-notes.md) | [📋 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/)
 
 ---
 

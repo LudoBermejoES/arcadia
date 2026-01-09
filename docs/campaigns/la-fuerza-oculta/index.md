@@ -105,8 +105,8 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ### 🧙 **Fase VII: Encuentros con el Pasado (Septiembre 2025)**
 - **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Barrio Gótico, encuentro con Espectro y Mentallo, rechazo de jeringuilla
-- **[23 Septiembre](manual-notes/session-33-2024-09-23.md)**: Entrenamiento con Mésmero, Sentencia entrega prótesis a Les Enfant
-- **[28 Septiembre](manual-notes/session-33-2024-09-28.md)**: Fuga de hospital, encuentro con Mambo y Zambo
+- **[23 Septiembre](manual-notes/session-34-2024-09-23.md)**: Entrenamiento con Mésmero, Sentencia entrega prótesis a Les Enfant
+- **[28 Septiembre](manual-notes/session-35-2024-09-28.md)**: Fuga de hospital, encuentro con Mambo y Zambo
 
 ### 🕵️ **Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)**
 - **[5 Octubre](ai-notes-summary/2025-10-05-gemini-notes.md)**: Incidente de discriminación en pizzería, video viral de Hotman con Mambo y Zambo, investigación para contactar a Cacharrero, decisión de participar en carreras ilegales

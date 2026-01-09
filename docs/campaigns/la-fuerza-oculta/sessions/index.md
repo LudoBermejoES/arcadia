@@ -39,13 +39,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 29 de Junio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-19-2025-06-29/)
-**"Apocalipsis Geográfico y Supervivencia"** 
-- 🌍 **Catástrofe**: Desaparición masiva de territorio
-- 🗼 **Ubicación**: Torre de vigilancia forestal canadiense
-- 👥 **Personajes**: Jake (prepper), Noja, Ema y otros supervivientes
-- 👻 **Horror**: Encuentro con entidades sobrenaturales transformadas
-- 🏠 **Refugio**: Descubrimiento del búnker subterráneo de Jake
+<!-- Sesión 19 no existe - hubo salto de sesión 17 a 20 -->
 
 **Temas Clave**: Supervivencia, horror sobrenatural, trabajo en equipo bajo presión extrema
 
@@ -193,7 +187,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 21 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/)
+#### [📝 Sesión 21 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/)
 **"El Entrenamiento de Psique y el Secreto de Sentencia"**
 - 🎉 **Invitación Elite**: Eneiros invita a La Fuerza Oculta a su fiesta exclusiva
 - 🧠 **Entrenamiento Mental**: Primera sesión brutal de Psique con Mésmero
@@ -207,7 +201,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 28 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28/) | [📼 IA](../ai-notes/2025-09-28-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-09-28-gemini-notes.md)
+#### [📝 Sesión 28 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/) | [📼 IA](../ai-notes/2025-09-28-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-09-28-gemini-notes.md)
 **"Caos Hospitalario y Encuentro con Concursantes"**
 - 🏥 **Infiltración Fallida**: Justa descubierta con identificación falsa en el hospital
 - 🏃‍♀️ **Fuga Caótica**: Escape espectacular con uniforme ajustado y peluca cayéndose
@@ -241,7 +235,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 12 de Octubre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/) | [📼 IA](../ai-notes/2025-10-12-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-10-12-gemini-notes.md)
+#### [📝 Sesión 12 de Octubre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/) | [📼 IA](../ai-notes/2025-10-12-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-10-12-gemini-notes.md)
 **"Robo del Sombrío y Carrera Ilegal"**
 - 🏎️ **Feria de Coches Clásicos**: Infiltración en exposición de vehículos antiguos de alta gama
 - 🚗 **El Bugatti Sombrío**: Descubrimiento del legendario Bugatti de titanio de 1954 de El Sombrío

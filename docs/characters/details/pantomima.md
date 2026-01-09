@@ -571,7 +571,7 @@ Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó 
 - [AI Notes 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 
 **Fase Revelación** (Octubre-Noviembre 2025):
-- [Sesión 34]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/) - Bugatti
+- [Sesión 34]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/) - Bugatti
 - [AI Notes 2025-10-12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-10-12-gemini-notes/)
 - [Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/) - **Revelación del Linaje**
 - [Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)

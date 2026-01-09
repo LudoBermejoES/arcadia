@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-28-gemini-notes/
 # Resumen: Sesión 28 de Septiembre 2025
 ## "Fuga del Hospital y Repercusiones Mediáticas"
 
-[← Volver a Resúmenes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/) | [📼 Transcripción Completa]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-28-gemini-notes/) | [📝 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28/)
+[← Volver a Resúmenes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/) | [📼 Transcripción Completa]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-28-gemini-notes/) | [📝 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/)
 
 ---
 

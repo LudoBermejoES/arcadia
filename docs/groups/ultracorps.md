@@ -304,7 +304,7 @@ Los Ultracorps han evolucionado hasta convertirse en la división más respetada
 ## Apariciones Documentadas
 
 ### Referencias Principales
-- [La Familia - Sesión 41](../../campaigns/la-familia/session-41.md) - Presentación pública y atentado Freiglasung
+- [La Familia - Sesión 41](../../campaigns/la-familia/session-41/) - Presentación pública y atentado Freiglasung
 - [Freiglasung]({{ site.baseurl }}/groups/freiglasung/) - Contexto del atentado durante su presentación
 - [MetaCorp](character-groups.md#metacorp) - Organización matriz y estructura operativa
 

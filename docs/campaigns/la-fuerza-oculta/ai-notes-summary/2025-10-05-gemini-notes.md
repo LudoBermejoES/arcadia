@@ -280,4 +280,4 @@ La Fuerza Oculta continúa su búsqueda de Cacharrero mientras experimentan disc
 
 **Próxima Sesión**: Robo del coche y preparativos para la carrera ilegal
 
-[← Sesión Anterior]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-28/) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →
+[← Sesión Anterior]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →

@@ -106,8 +106,8 @@ Su enfrentamiento con La Fuerza Oculta marca:
 - Un precedente de enemigos que pueden regresar de la muerte
 
 ## Apariciones Documentadas
-- [La Familia Session 34](../../campaigns/la-familia/session-34.md) - Muerte de Dulcinea
-- [La Familia Session 41](../../campaigns/la-familia/session-41.md) - Investigación y antecedentes
+- [La Familia Session 34](../../campaigns/la-familia/session-34/) - Muerte de Dulcinea
+- [La Familia Session 41](../../campaigns/la-familia/session-41/) - Investigación y antecedentes
 - [La Fuerza Oculta Session 24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24-2025-07-20/) - Descubrimiento de su regreso
 - [La Fuerza Oculta Session 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/) - Enfrentamiento con Dulcinea
 - [La Fuerza Oculta AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)

@@ -342,7 +342,7 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - [AI Notes 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 - [AI Notes 2025-09-14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes/)
 - [Sesión 32]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/)
-- [Sesión 33]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/)
+- [Sesión 33]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/)
 - [AI Notes 2025-09-21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-21-gemini-notes/)
 - [AI Notes 2025-11-02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)

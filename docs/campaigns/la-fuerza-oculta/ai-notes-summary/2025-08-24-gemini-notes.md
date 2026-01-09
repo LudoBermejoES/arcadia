@@ -222,4 +222,4 @@ La batalla se desarrolla con **técnicas de combate sofisticadas** nunca antes v
 
 *Esta sesión marca un punto de inflexión en La Fuerza Oculta, donde las amenazas históricas de Arcadia se entrelazan con el presente, y el grupo debe navegar alianzas inesperadas mientras mantiene su integridad heroica.*
 
-**[🎮 Ver Transcripción Completa →](../ai-notes/2025-08-24-gemini-notes.md)** | **[📝 Ver Notas Manuales →](../manual-notes/session-29-2024-08-24.md)**
+**[🎮 Ver Transcripción Completa →](../ai-notes/2025-08-24-gemini-notes.md)** | **[📝 Ver Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/)**

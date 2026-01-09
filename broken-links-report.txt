@@ -1,32 +1,17 @@
   [404] https://arcadia.ludobermejo.es/all-content/campaigns/
   [404] https://arcadia.ludobermejo.es/all-content/world-building/
-  [404] https://arcadia.ludobermejo.es/assets/img/characters/Elena_Ortiz.png
-  [404] https://arcadia.ludobermejo.es/assets/img/characters/generic.png
-  [404] https://arcadia.ludobermejo.es/assets/img/characters/Marina_Volkova.png
-  [404] https://arcadia.ludobermejo.es/assets/img/characters/natacha.jpg
-  [404] https://arcadia.ludobermejo.es/assets/img/characters/Sofia_Vega.png
   [404] https://arcadia.ludobermejo.es/campaigns/aun-sin-nombre/ai-notes/
   [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
   [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/
+  [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/
   [404] https://arcadia.ludobermejo.es/campaigns/fatum/
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/index.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.14.png
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.45.png
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.13.07.png
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.16.36.png
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.18.40.png
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.19.08.png
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-04.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-14.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-15.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-17.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-33.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-34.md
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-40.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-41.md
+  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-42/
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-42-2025-05-25/
+  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-43/
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-43-2025-09-11/
-  [404] https://arcadia.ludobermejo.es/campaigns/la-familia/summary/summary.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-familia/summary/summary/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/manual-notes/session-32-2024-09-28.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/manual-notes/session-33-2024-10-12.md
@@ -80,6 +65,7 @@
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md
+  [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-31-2024-09-08/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/
@@ -88,6 +74,7 @@
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12.md
+  [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/
@@ -103,55 +90,29 @@
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/summary/summary/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/themes/
   [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-  [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md
-  [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md
-  [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12.md
-  [404] https://arcadia.ludobermejo.es/characters/details/caos/pantomima/
-  [404] https://arcadia.ludobermejo.es/characters/details/caos/sombrio/
-  [404] https://arcadia.ludobermejo.es/characters/details/las-monjas-del-albergue/
-  [404] https://arcadia.ludobermejo.es/characters/details/lucifer-entidad/
-  [404] https://arcadia.ludobermejo.es/characters/details/padre-eugenio-vargas/dona-carmela-aguilar.md
-  [404] https://arcadia.ludobermejo.es/characters/details/sombrio/caos/
-  [404] https://arcadia.ludobermejo.es/characters/details/sombrio/pantomima/
-  [404] https://arcadia.ludobermejo.es/characters/groups/fatum/index.md
   [404] https://arcadia.ludobermejo.es/characters/groups/ultracorps/
   [404] https://arcadia.ludobermejo.es/characters/pensamientos/
+  [404] https://arcadia.ludobermejo.es/characters/pensamientos/psique-y-diana/
   [404] https://arcadia.ludobermejo.es/groups/La%20familia/
   [404] https://arcadia.ludobermejo.es/groups/la-familia/El%20fara%C3%B3n.md
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-mercurii/
-  [404] https://arcadia.ludobermejo.es/world-building/history/06-maturity-arrives.md
 [404] https://arcadia.ludobermejo.es/all-content/campaigns/
 [404] https://arcadia.ludobermejo.es/all-content/world-building/
-[404] https://arcadia.ludobermejo.es/assets/img/characters/Elena_Ortiz.png
-[404] https://arcadia.ludobermejo.es/assets/img/characters/generic.png
-[404] https://arcadia.ludobermejo.es/assets/img/characters/Marina_Volkova.png
-[404] https://arcadia.ludobermejo.es/assets/img/characters/natacha.jpg
-[404] https://arcadia.ludobermejo.es/assets/img/characters/Sofia_Vega.png
 [404] https://arcadia.ludobermejo.es/campaigns/aun-sin-nombre/ai-notes/
 [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
 [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/
+[404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/
 [404] https://arcadia.ludobermejo.es/campaigns/fatum/
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/index.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.14.png
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.12.45.png
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_19.13.07.png
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.16.36.png
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.18.40.png
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/PARTIDA%20SUPERHE%CC%81ROES%2018%20237ad5e1bc8181e7abc4d2490e58948d/Captura_de_pantalla_2025-05-25_a_las_20.19.08.png
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-04.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-14.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-15.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-17.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-33.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-34.md
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-40.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-41.md
+[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-42/
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-42-2025-05-25/
+[404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-43/
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/session-43-2025-09-11/
-[404] https://arcadia.ludobermejo.es/campaigns/la-familia/summary/summary.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-familia/summary/summary/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/manual-notes/session-32-2024-09-28.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/manual-notes/session-33-2024-10-12.md
@@ -205,6 +166,7 @@
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md
+[404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-31-2024-09-08/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/
@@ -213,6 +175,7 @@
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12.md
+[404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/
@@ -228,23 +191,12 @@
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/summary/summary/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/themes/
 [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-[404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24.md
-[404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23.md
-[404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12.md
-[404] https://arcadia.ludobermejo.es/characters/details/caos/pantomima/
-[404] https://arcadia.ludobermejo.es/characters/details/caos/sombrio/
-[404] https://arcadia.ludobermejo.es/characters/details/las-monjas-del-albergue/
-[404] https://arcadia.ludobermejo.es/characters/details/lucifer-entidad/
-[404] https://arcadia.ludobermejo.es/characters/details/padre-eugenio-vargas/dona-carmela-aguilar.md
-[404] https://arcadia.ludobermejo.es/characters/details/sombrio/caos/
-[404] https://arcadia.ludobermejo.es/characters/details/sombrio/pantomima/
-[404] https://arcadia.ludobermejo.es/characters/groups/fatum/index.md
 [404] https://arcadia.ludobermejo.es/characters/groups/ultracorps/
 [404] https://arcadia.ludobermejo.es/characters/pensamientos/
+[404] https://arcadia.ludobermejo.es/characters/pensamientos/psique-y-diana/
 [404] https://arcadia.ludobermejo.es/groups/La%20familia/
 [404] https://arcadia.ludobermejo.es/groups/la-familia/El%20fara%C3%B3n.md
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-mercurii/
-[404] https://arcadia.ludobermejo.es/world-building/history/06-maturity-arrives.md

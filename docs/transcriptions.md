@@ -14,47 +14,49 @@ Esta sección contiene las transcripciones completas de las sesiones de juego de
 Transcripciones de la primera campaña del proyecto, donde conocimos a los primeros héroes de Arcadia.
 
 **Sesiones Disponibles:**
-- [Sesión 01](campaigns/la-familia/session-01/) - El comienzo
-- [Sesión 02](campaigns/la-familia/session-02/) - Primeras aventuras
-- [Sesión 03](campaigns/la-familia/session-03/) - Desarrollo del grupo
-- [Ver todas las sesiones de La Familia](campaigns/la-familia/)
+- [Sesión 01]({{ site.baseurl }}/campaigns/la-familia/session-01/) - El comienzo
+- [Sesión 02]({{ site.baseurl }}/campaigns/la-familia/session-02/) - Primeras aventuras
+- [Sesión 03]({{ site.baseurl }}/campaigns/la-familia/session-03/) - Desarrollo del grupo
+- [Ver todas las sesiones de La Familia]({{ site.baseurl }}/campaigns/la-familia/)
 
 ### Génesis
 La segunda campaña que amplió el universo de Arcadia con nuevos personajes y tramas.
 
 **Sesiones Disponibles:**
-- [Sesión 01](campaigns/genesis/session-01/) - Nuevos comienzos
-- [Sesión 02](campaigns/genesis/session-02/) - Construcción del mundo
-- [Ver todas las sesiones de Génesis](campaigns/genesis/)
+- [Sesión 01]({{ site.baseurl }}/campaigns/genesis/session-01/) - Nuevos comienzos
+- [Sesión 02]({{ site.baseurl }}/campaigns/genesis/session-02/) - Construcción del mundo
+- [Ver todas las sesiones de Génesis]({{ site.baseurl }}/campaigns/genesis/)
 
 ### La Fuerza Oculta
 La campaña más reciente, jugada en el sistema "Héroes o Villanos".
 
 **Notas Manuales:**
-- [Sesión 01](campaigns/la-fuerza-oculta/manual-notes/session-01/) - El programa secreto
-- [Sesión 02](campaigns/la-fuerza-oculta/manual-notes/session-02/) - Entrenamiento
-- [Ver todas las sesiones de La Fuerza Oculta](campaigns/la-fuerza-oculta/)
+- [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - El programa secreto
+- [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) - Entrenamiento
+- [Ver todas las sesiones de La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 
 **Transcripciones AI:**
-- [Notas Gemini 2025-06-15](campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
-- [Notas Gemini 2025-06-22](campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/)
-- [Notas Gemini 2025-07-06](campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/)
-- [Notas Gemini 2025-07-13](campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/)
-- [Notas Gemini 2025-07-20](campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/)
-- [Notas Gemini 2025-07-28](campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/)
-- [Notas Gemini 2025-08-03](campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
-- [Notas Gemini 2025-08-10](campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
-- [Notas Gemini 2025-08-17](campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
-- [Notas Gemini 2025-08-24](campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
-- [Notas Gemini 2025-08-30](campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
+
+- [Notas Gemini 2025-06-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
+- [Notas Gemini 2025-06-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/)
+- [Notas Gemini 2025-07-06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/)
+- [Notas Gemini 2025-07-13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/)
+- [Notas Gemini 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/)
+- [Notas Gemini 2025-07-28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/)
+- [Notas Gemini 2025-08-03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/)
+- [Notas Gemini 2025-08-10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
+- [Notas Gemini 2025-08-17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
+- [Notas Gemini 2025-08-24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
+- [Notas Gemini 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 
 ### Reformatorio Nueva Esperanza
 La cuarta campaña, ambientada en Isla Albedo, sigue a jóvenes metahumanos marginados.
 
 **Transcripciones AI Disponibles:**
-- [Notas Gemini 2025-10-26](campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/) - Llegada a Isla Albedo
-- [Notas Gemini 2025-11-02](campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/) - Elena y el Charco Misterioso
-- [Ver todas las sesiones del Reformatorio](campaigns/aun-sin-nombre/)
+
+- [Notas Gemini 2025-10-26]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/) - Llegada a Isla Albedo
+- [Notas Gemini 2025-11-02]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/) - Elena y el Charco Misterioso
+- [Ver todas las sesiones del Reformatorio]({{ site.baseurl }}/campaigns/aun-sin-nombre/)
 
 ## Metodología de Transcripción
 
@@ -67,8 +69,8 @@ Las transcripciones se han creado usando diferentes métodos a lo largo de los a
 
 ## Navegación
 
-- [🏠 Inicio](/)
-- [📚 Campañas](campaigns/)
-- [🦸 Personajes](characters/)
-- [👥 Grupos](groups/)
-- [🌍 Mundo](world-building/)
+- [🏠 Inicio]({{ site.baseurl }}/)
+- [📚 Campañas]({{ site.baseurl }}/campaigns/)
+- [🦸 Personajes]({{ site.baseurl }}/characters/)
+- [👥 Grupos]({{ site.baseurl }}/groups/)
+- [🌍 Mundo]({{ site.baseurl }}/world-building/)

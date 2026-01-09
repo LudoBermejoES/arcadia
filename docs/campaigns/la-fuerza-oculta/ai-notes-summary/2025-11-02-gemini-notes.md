@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02/
 # Sesión 37: Puente de Moebius y Origen de Pantomima
 **Fecha**: 2 de Noviembre de 2025
 
-[📝 Notas Gemini](../ai-notes/2025-11-02-gemini-notes.md) | [📋 Notas Manuales](../manual-notes/session-37-2025-11-02.md)
+[📝 Notas Gemini](../ai-notes/2025-11-02-gemini-notes.md) | [📋 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-37-2025-11-02/)
 
 ---
 

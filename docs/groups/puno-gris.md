@@ -97,5 +97,5 @@ Durante la **sesión del 27 de julio de 2025**, La Fuerza Oculta se infiltró en
 **Puño Gris** sirve como introducción a la compleja red criminal que gobierna Arcadia desde las sombras, representando tanto una amenaza táctica inmediata como una ventana hacia conflictos mayores con **Telaraña** y otras organizaciones del submundo metahumano.
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta - Sesión 25 (27 Julio 2025)](../../campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27.md)
+- [La Fuerza Oculta - Sesión 25 (27 Julio 2025)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/)
 - [La Fuerza Oculta - Resumen Detallado](../../campaigns/la-fuerza-oculta/summary/summary.md)

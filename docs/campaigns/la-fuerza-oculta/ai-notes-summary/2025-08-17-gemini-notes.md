@@ -277,4 +277,4 @@ Esta sesión marca un **punto de inflexión significativo** en La Fuerza Oculta:
 
 *Esta sesión demuestra la maduración de La Fuerza Oculta como equipo heroico independiente, capaz de adaptarse a crisis inesperadas mientras mantiene sus principios morales fundamentales, aunque con métodos cada vez más pragmáticos.*
 
-**[📚 Ver Notas Completas →](../ai-notes/2025-08-17-gemini-notes.md)** | **[📝 Ver Notas Manuales →](../manual-notes/session-28-2025-08-17.md)**
+**[📚 Ver Notas Completas →](../ai-notes/2025-08-17-gemini-notes.md)** | **[📝 Ver Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/)**

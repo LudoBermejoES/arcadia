@@ -15,7 +15,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🌅 **Junio 2025 - Los Fugitivos**
 
-#### [📝 Sesión 15 de Junio](../manual-notes/session-20-2025-06-15.md)
+#### [📝 Sesión 15 de Junio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/)
 **"La Gran Evasión y el Refugio"**
 - ⚖️ **Contexto**: Post-juicio y condena del grupo
 - 🏃‍♂️ **Eventos**: Evasión organizada por Ana Montenegro
@@ -27,7 +27,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 22 de Junio](../manual-notes/session-21-2025-06-22.md) 
+#### [📝 Sesión 22 de Junio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-21-2025-06-22/) 
 **"Debate Ético y Primer Combate"**
 - 🤔 **Filosofía**: Discusión profunda sobre moralidad heroica
 - ⚔️ **Acción**: Primer combate coordinado como equipo fugitivo
@@ -39,7 +39,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 29 de Junio](../manual-notes/session-19-2025-06-29.md)
+#### [📝 Sesión 29 de Junio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-19-2025-06-29/)
 **"Apocalipsis Geográfico y Supervivencia"** 
 - 🌍 **Catástrofe**: Desaparición masiva de territorio
 - 🗼 **Ubicación**: Torre de vigilancia forestal canadiense
@@ -53,7 +53,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🦸‍♂️ **Julio 2025 - Profesionalización Heroica**
 
-#### [📝 Sesión 6 de Julio](../manual-notes/session-22-2025-07-06.md)
+#### [📝 Sesión 6 de Julio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22-2025-07-06/)
 **"Trajes, Identidad y Meta-Narrativa"**
 - 🎭 **Camuflaje**: Estrategia genial de disfrazarse de fans de sí mismos
 - 🛍️ **Compras**: Visita a la tienda "No Solo Juegos" 
@@ -65,7 +65,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 13 de Julio](../manual-notes/session-23-2025-07-13.md)
+#### [📝 Sesión 13 de Julio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-23-2025-07-13/)
 **"Evolución y Primera Misión Oficial"**
 - ⬆️ **Progreso**: Segunda subida de nivel de todos los personajes
 - 🏋️‍♂️ **Entrenamiento**: Rutinas en el gimnasio de Comadreja  
@@ -78,7 +78,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 20 de Julio](../manual-notes/session-24-2025-07-20.md)
+#### [📝 Sesión 20 de Julio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24-2025-07-20/)
 **"Operación Subterránea y La Farándula"**
 - 🚇 **Infiltración**: Entrada exitosa a la estación de metro abandonada
 - 🎯 **Combate**: Serie de enfrentamientos tácticos coordinados
@@ -93,7 +93,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ### 🏛️ **Agosto 2025 - Independencia Heroica**
 
-#### [📝 Sesión 3 de Agosto](../manual-notes/session-26-2025-08-03.md)
+#### [📝 Sesión 3 de Agosto]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-26-2025-08-03/)
 **"Entrega de Justicia y Establecimiento de Base"**
 - 📺 **Show Mediático**: Entrega profesional de mercenarios a la prensa
 - 🤝 **Negociaciones**: Acuerdo con Malik para renovación de base operativa
@@ -106,7 +106,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 10 de Agosto](../manual-notes/session-27-2025-08-10.md)
+#### [📝 Sesión 10 de Agosto]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-27-2025-08-10/)
 **"Compras en Almacenes Hêvî y Ataque Terrorista"**
 - 🛒 **Compras**: Día de shopping en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) del Distrito Martis
 - 🚗 **Experimentos**: Descubrimiento de funciones secretas de la furgoneta heredada
@@ -117,7 +117,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 **Temas Clave**: Vida cotidiana heroica, exposición pública, preparación para nueva amenaza
 
-#### [📝 Sesión 17 de Agosto](../manual-notes/session-28-2025-08-17.md)
+#### [📝 Sesión 17 de Agosto]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/)
 **"Les Enfant Terribles y el Retorno de los Monos Dorados"**
 - 💥 **Separación**: El grupo se divide por problemas de comunicación
 - 🛡️ **Cúpula de Energía**: Almacenes Hêvî queda aislado del exterior
@@ -131,7 +131,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 24 de Agosto](../manual-notes/session-29-2024-08-24.md)
+#### [📝 Sesión 24 de Agosto]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/)
 **"Combate con Gorilas Dorados y los 7 Abominables"**
 - 🐒 **Batalla Épica**: Enfrentamiento coordinado contra múltiples gorilas de oro
 - ⚔️ **Tácticas de Combate**: Trabajo en equipo con ilusiones, ataques térmicos y teletransporte
@@ -145,7 +145,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 30 de Agosto](../manual-notes/session-30-2024-08-30.md)
+#### [📝 Sesión 30 de Agosto]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30/)
 **"Repercusiones Mediáticas y Búsqueda de Orientación"**
 - 📺 **Reacción Pública**: Análisis mediático del incidente con monos dorados
 - ⚖️ **Debate Político**: Surgimiento del Partido por la Democracia (PD) antimeta
@@ -178,7 +178,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 14 de Septiembre](../manual-notes/session-32-2024-09-14.md)
+#### [📝 Sesión 14 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/)
 **"Decisiones y Mentores"**
 - 💬 **Meta-Discusión**: Análisis grupal de sesiones anteriores y planificación
 - 🎯 **Arsenal No Letal**: Implementación de munición de silicona para Sentencia
@@ -193,7 +193,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 21 de Septiembre](../manual-notes/session-33-2024-09-23.md)
+#### [📝 Sesión 21 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-23/)
 **"El Entrenamiento de Psique y el Secreto de Sentencia"**
 - 🎉 **Invitación Elite**: Eneiros invita a La Fuerza Oculta a su fiesta exclusiva
 - 🧠 **Entrenamiento Mental**: Primera sesión brutal de Psique con Mésmero
@@ -207,7 +207,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 28 de Septiembre](../manual-notes/session-33-2024-09-28.md) | [📼 IA](../ai-notes/2025-09-28-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-09-28-gemini-notes.md)
+#### [📝 Sesión 28 de Septiembre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-28/) | [📼 IA](../ai-notes/2025-09-28-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-09-28-gemini-notes.md)
 **"Caos Hospitalario y Encuentro con Concursantes"**
 - 🏥 **Infiltración Fallida**: Justa descubierta con identificación falsa en el hospital
 - 🏃‍♀️ **Fuga Caótica**: Escape espectacular con uniforme ajustado y peluca cayéndose
@@ -241,7 +241,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-#### [📝 Sesión 12 de Octubre](../manual-notes/session-33-2024-10-12.md) | [📼 IA](../ai-notes/2025-10-12-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-10-12-gemini-notes.md)
+#### [📝 Sesión 12 de Octubre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-12/) | [📼 IA](../ai-notes/2025-10-12-gemini-notes.md) | [📊 Análisis](../ai-notes-summary/2025-10-12-gemini-notes.md)
 **"Robo del Sombrío y Carrera Ilegal"**
 - 🏎️ **Feria de Coches Clásicos**: Infiltración en exposición de vehículos antiguos de alta gama
 - 🚗 **El Bugatti Sombrío**: Descubrimiento del legendario Bugatti de titanio de 1954 de El Sombrío
@@ -313,25 +313,25 @@ Análisis narrativos profundos de cada sesión:
 
 ### ⚖️ **Evolución Moral**
 Sigue la transformación de Justa → Justicia → Sentencia:
-- **[15/06 - El Cambio de Nombre](../manual-notes/session-20-2025-06-15.md)**
-- **[22/06 - Debates Éticos](../manual-notes/session-21-2025-06-22.md)**
-- **[20/07 - Aplicación Práctica](../manual-notes/session-24-2025-07-20.md)**
+- **[15/06 - El Cambio de Nombre]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/)**
+- **[22/06 - Debates Éticos]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-21-2025-06-22/)**
+- **[20/07 - Aplicación Práctica]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24-2025-07-20/)**
 
 ### 👥 **Dinámicas de Grupo** 
 Desarrollo de relaciones y roles dentro del equipo:
-- **[15/06 - Formación Inicial](../manual-notes/session-20-2025-06-15.md)**
-- **[22/06 - Cohesión en Crisis](../manual-notes/session-21-2025-06-22.md)**
-- **[20/07 - Especialización de Roles](../manual-notes/session-24-2025-07-20.md)**
+- **[15/06 - Formación Inicial]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/)**
+- **[22/06 - Cohesión en Crisis]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-21-2025-06-22/)**
+- **[20/07 - Especialización de Roles]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24-2025-07-20/)**
 
 ### 🌆 **Arcadia Moderna**
 Exploración de la ciudad 10 años después:
-- **[06/07 - Geografía de Distritos](../manual-notes/session-22-2025-07-06.md)**
-- **[13/07 - Vida Cotidiana Heroica](../manual-notes/session-23-2025-07-13.md)**
-- **[20/07 - Infraestructura Subterránea](../manual-notes/session-24-2025-07-20.md)**
+- **[06/07 - Geografía de Distritos]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22-2025-07-06/)**
+- **[13/07 - Vida Cotidiana Heroica]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-23-2025-07-13/)**
+- **[20/07 - Infraestructura Subterránea]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-24-2025-07-20/)**
 
 ### 🎭 **Meta-Narrativa**
 El juego dentro del juego:
-- **[06/07 - Descubrimiento Inicial](../manual-notes/session-22-2025-07-06.md)**
+- **[06/07 - Descubrimiento Inicial]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-22-2025-07-06/)**
 
 ---
 

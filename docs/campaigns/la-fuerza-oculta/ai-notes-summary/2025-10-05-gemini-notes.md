@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-10-05/
 # Sesión 33: Pizza, Discriminación y Carreras Ilegales
 **Fecha**: 5 de Octubre de 2025
 
-[🎙️ Grabación](https://drive.google.com/file/d/1rd3SrV8Ny0G7R4h5FnTgloEe9l59eWF5/view?usp=drive_web) | [📝 Notas Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) | [📋 Notas Manuales](../manual-notes/session-33-2024-10-05.md)
+[🎙️ Grabación](https://drive.google.com/file/d/1rd3SrV8Ny0G7R4h5FnTgloEe9l59eWF5/view?usp=drive_web) | [📝 Notas Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) | [📋 Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-10-05/)
 
 ---
 
@@ -280,4 +280,4 @@ La Fuerza Oculta continúa su búsqueda de Cacharrero mientras experimentan disc
 
 **Próxima Sesión**: Robo del coche y preparativos para la carrera ilegal
 
-[← Sesión Anterior](../manual-notes/session-32-2024-09-28.md) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →
+[← Sesión Anterior]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-28/) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →

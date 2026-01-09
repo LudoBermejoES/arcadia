@@ -7,7 +7,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-12-21/
 # Sesión 43: Vuelo de Hotman e Investigación de Padre Bestia
 **Fecha**: 21 de Diciembre de 2025
 
-[Notas Gemini](../ai-notes/2025-12-21-gemini-notes.md) | [Notas Manuales](../manual-notes/session-43-2025-12-21.md)
+[Notas Gemini](../ai-notes/2025-12-21-gemini-notes.md) | [Notas Manuales]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-43-2025-12-21/)
 
 ---
 

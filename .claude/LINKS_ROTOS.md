@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: ~56 (tras corrección de manual-notes, antes ~202)
+**Enlaces rotos únicos**: ~34 (tras eliminar capturas Notion, antes ~56)
 
 ---
 
@@ -23,25 +23,9 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ## Categorías de Enlaces Rotos Actuales
 
-### 1. CAPTURAS DE PANTALLA NOTION (~22 imágenes)
+### ~~1. CAPTURAS DE PANTALLA NOTION~~ ✅ CORREGIDO
 
-Las capturas están en carpetas con nombres largos tipo Notion que no se despliegan:
-
-**Sesiones afectadas**:
-- session-05-2024-04-14 (2 imágenes)
-- session-07-2024-04-28 (1 imagen)
-- session-11-2024-06-16 (2 imágenes)
-- session-12-2024-07-07 (1 imagen)
-- session-16-2024-08-18 (2 imágenes)
-- session-17-2024-08-25 (2 imágenes)
-- session-21-2025-06-22 (1 imagen)
-- session-22-2025-07-06 (3 imágenes)
-- session-23-2025-07-13 (6 imágenes)
-- session-24-2025-07-20 (1 imagen)
-
-**Problema**: GitHub Pages no despliega correctamente carpetas con caracteres especiales (SUPERHÉROES, espacios, acentos).
-
-**Solución**: Eliminar referencias a imágenes de Notion en archivos de manual-notes o mover imágenes a `/assets/img/sessions/`.
+Eliminadas 22 referencias a imágenes de Notion de 10 archivos de sesión.
 
 ---
 
@@ -137,8 +121,8 @@ Las capturas están en carpetas con nombres largos tipo Notion que no se desplie
 2. Campañas sin ai-notes (crear carpetas o eliminar referencias)
 3. Pensamientos de personajes
 
-### Baja Prioridad (Requiere reorganización)
-1. Capturas de pantalla Notion (~22 imágenes) - Eliminar referencias o mover archivos
+### ~~Baja Prioridad~~ ✅ COMPLETADO
+~~1. Capturas de pantalla Notion (~22 imágenes) - Eliminar referencias o mover archivos~~
 
 ---
 
@@ -177,6 +161,7 @@ Las capturas están en carpetas con nombres largos tipo Notion que no se desplie
 | 2026-01-09 | Convertidos enlaces relativos .md a formato Jekyll | manual-notes/index.md, sessions/index.md, ai-notes-summary/*.md |
 | 2026-01-09 | Corregidos enlaces en transcriptions.md | transcriptions.md |
 | 2026-01-09 | Renombrado `session-29-2024-08-24 .md` (espacio) | session-29-2024-08-24.md |
+| 2026-01-09 | **Eliminadas 22 referencias a capturas Notion** | 10 archivos de manual-notes |
 
 ---
 

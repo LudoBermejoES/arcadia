@@ -54,5 +54,5 @@ Sataka muestra un estilo directo y algo irreverente, como se evidencia en su pre
 ## Enlaces Relacionados
 
 - [Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/)
-- [Radio Televisión de Arcadia]({{ site.baseurl }}/world-building/society/arcadia-society/)
+- [Radio Televisión de Arcadia]({{ site.baseurl }}/world-building/arcadia-society/)
 - [Programa "Héroes o Villanos"]({{ site.baseurl }}/groups/concurso-heroes-o-villanos/)

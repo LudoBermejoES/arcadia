@@ -1,15 +1,37 @@
-29 de Septiembre de 2025
+---
+layout: page
+title: "El Destello de Apolo - Diana"
+permalink: /characters/pensamientos/diana/
+---
 
-Diana cerró los ojos. Acababa de destrozar el tercer saco de entrenamiento, el seco olor a serrín derramado llenaba el aire. Le temblaban un poco los músculos de los brazos y las piernas tras el esfuerzo. Tenía el aliento alterado, el pecho le subía y bajaba más rápido de lo habitual pero estaba en calma. El ejercicio, la destrucción, siempre le servían para alcanzar un remoto valle de tranquilidad, oculto en las cumbres del estrés y el agotamiento, alimentado por la sangre circulando a borbotones por sus venas. 
-Abrió y cerró las manos sintiendo las vendas que habían protegido sus nudillos. Sin abrir los ojos, escuchó a alguien charlar a lo lejos, quizá en la cocina. Sería Justa haciendo la cena, Hotman grabando un video o Psique saludando mientras llegaba de su trabajo como psicóloga.  
-Poco a poco el pulso se le fue sosegando, el sudor comenzó a evaporarse en la piel, enfriándola. No quería abrir los ojos, aún no. Aquella oscuridad era su refugio, allí no había nada, nadie, no había más que ausencias. El mundo estaba construido de presencias, de lugares, de personas, todo eso era evanescente, desaparecía tarde o temprano dejando tan solo aquel tapiz espeso y fluctuante de una nada en la que se estaba a salvo de la pérdida, de la esperanza. 
-Hizo durar la situación unos segundos más. Pronto, muy pronto, quizá ante la voz de Psique o su presencia mental, tendría que volver al mundo, al grupo, a la guarida a ser de nuevo Diana. En esos momentos no lo deseaba pero tampoco se negaba a ello, tan solo existía feliz en ese instante alargado tan parecido a un descanso, a la paz. 
-Y justo en el momento en que se disponía a abrir los ojos y llenarse de nuevo del universo, lo sintió. Apenas era la astilla de un recuerdo, el resonar de un acorde ejecutado un siglo atrás, el fulgor último de un atardecer anegado de nubes, el reflejo de un cuchillo cortando el aire en una noche cerrada, el leve peso de un párpado cerrándose por última vez, el susurro de una palabra perdida en el viento, el tacto de unos dedos hechos de luz en la piel del rostro, el último brillo de una sonrisa que se desvanece como se apaga una estrella fugaz. 
-Diana gritó como si con el grito pudiera deshacerse de todo aquello, como si así pudiera no ser consciente de qué estaba sintiendo, del origen de aquel destello, de aquella presencia construida con la ausencia más intensa. 
+# El Destello de Apolo
+
+*29 de Septiembre de 2025*
+
+Diana cerró los ojos. Acababa de destrozar el tercer saco de entrenamiento, el seco olor a serrín derramado llenaba el aire. Le temblaban un poco los músculos de los brazos y las piernas tras el esfuerzo. Tenía el aliento alterado, el pecho le subía y bajaba más rápido de lo habitual pero estaba en calma. El ejercicio, la destrucción, siempre le servían para alcanzar un remoto valle de tranquilidad, oculto en las cumbres del estrés y el agotamiento, alimentado por la sangre circulando a borbotones por sus venas.
+
+Abrió y cerró las manos sintiendo las vendas que habían protegido sus nudillos. Sin abrir los ojos, escuchó a alguien charlar a lo lejos, quizá en la cocina. Sería Justa haciendo la cena, Hotman grabando un video o Psique saludando mientras llegaba de su trabajo como psicóloga.
+
+Poco a poco el pulso se le fue sosegando, el sudor comenzó a evaporarse en la piel, enfriándola. No quería abrir los ojos, aún no. Aquella oscuridad era su refugio, allí no había nada, nadie, no había más que ausencias. El mundo estaba construido de presencias, de lugares, de personas, todo eso era evanescente, desaparecía tarde o temprano dejando tan solo aquel tapiz espeso y fluctuante de una nada en la que se estaba a salvo de la pérdida, de la esperanza.
+
+Hizo durar la situación unos segundos más. Pronto, muy pronto, quizá ante la voz de Psique o su presencia mental, tendría que volver al mundo, al grupo, a la guarida a ser de nuevo Diana. En esos momentos no lo deseaba pero tampoco se negaba a ello, tan solo existía feliz en ese instante alargado tan parecido a un descanso, a la paz.
+
+Y justo en el momento en que se disponía a abrir los ojos y llenarse de nuevo del universo, lo sintió. Apenas era la astilla de un recuerdo, el resonar de un acorde ejecutado un siglo atrás, el fulgor último de un atardecer anegado de nubes, el reflejo de un cuchillo cortando el aire en una noche cerrada, el leve peso de un párpado cerrándose por última vez, el susurro de una palabra perdida en el viento, el tacto de unos dedos hechos de luz en la piel del rostro, el último brillo de una sonrisa que se desvanece como se apaga una estrella fugaz.
+
+Diana gritó como si con el grito pudiera deshacerse de todo aquello, como si así pudiera no ser consciente de qué estaba sintiendo, del origen de aquel destello, de aquella presencia construida con la ausencia más intensa.
+
 —¡Diana! ¿Qué sucede?
-Psique estaba a su lado, su mente pulsando la suya con delicadeza pero con insistencia, con la prisa del que quiere atender a un herido. 
-Diana abrió los ojos y puso la mano abierta en su rostro. 
-—No, por favor, ahora no. 
-Y comenzó a llorar porque por leve que hubiera sido aquel destello mental, Diana había sabido desde el primer microsegundo que aquella ínfima presencia en el abismo de su soledad era la demostración de que no estaba sola, no del todo. Daba igual la distancia, daba igual la lógica, lo imposible. Apolo estaba allá, en algún sitio y eso era, a la vez, algo terrible y algo maravilloso. 
-Sintió el abrazo de Psique y se dejó abrazar pero muy lejos de poder encontrar un consuelo que ahora era aún más imposible que antes. 
 
+Psique estaba a su lado, su mente pulsando la suya con delicadeza pero con insistencia, con la prisa del que quiere atender a un herido.
+
+Diana abrió los ojos y puso la mano abierta en su rostro.
+
+—No, por favor, ahora no.
+
+Y comenzó a llorar porque por leve que hubiera sido aquel destello mental, Diana había sabido desde el primer microsegundo que aquella ínfima presencia en el abismo de su soledad era la demostración de que no estaba sola, no del todo. Daba igual la distancia, daba igual la lógica, lo imposible. Apolo estaba allá, en algún sitio y eso era, a la vez, algo terrible y algo maravilloso.
+
+Sintió el abrazo de Psique y se dejó abrazar pero muy lejos de poder encontrar un consuelo que ahora era aún más imposible que antes.
+
+---
+
+**[← Volver a Diana]({{ site.baseurl }}/characters/details/diana/)**

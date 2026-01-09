@@ -53,5 +53,5 @@ Su influencia trasciende el entretenimiento digital, convirtiéndose en un fenó
 
 ## Enlaces Relacionados
 
-- [Celebridades de ArcadiaWood]({{ site.baseurl }}/world-building/society/arcadia-society/)
-- [Medios de Comunicación de Arcadia]({{ site.baseurl }}/world-building/society/arcadia-society/)
+- [Celebridades de ArcadiaWood]({{ site.baseurl }}/world-building/arcadia-society/)
+- [Medios de Comunicación de Arcadia]({{ site.baseurl }}/world-building/arcadia-society/)

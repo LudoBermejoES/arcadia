@@ -274,7 +274,7 @@ Algunos secretos están tan bien guardados que ni siquiera la muerte puede revel
 - [Ver Marcos Villar](marcos-villar.md)
 - [Ver Dolores Sánchez](dolores-sanchez.md)
 - [Ver Renata Kovač](renata-kovac.md)
-- [Telaraña (Organización)]({{ site.baseurl }}/groups/telarana/)
+- [Telaraña (Personaje)]({{ site.baseurl }}/characters/details/telarana/)
 
 ---
 

@@ -324,7 +324,7 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ### Reflexiones Personales
 
-- [El Destello de Apolo](../pensamientos/diana/)
+- [El Destello de Apolo]({{ site.baseurl }}/characters/pensamientos/diana/)
 
 ---
 

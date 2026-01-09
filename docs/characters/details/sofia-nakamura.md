@@ -154,7 +154,7 @@ Nakamura ha desarrollado una estrategia política efectiva:
 ## Enlaces Relacionados
 
 - [François Chalá]({{ site.baseurl }}/characters/details/francois-chala/) - Alcalde actual, opositor político
-- [Gobierno de Arcadia]({{ site.baseurl }}/world-building/society/arcadia-society/)
+- [Gobierno de Arcadia]({{ site.baseurl }}/world-building/arcadia-society/)
 - [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/) - Grupo afectado por sus políticas
 
 ---

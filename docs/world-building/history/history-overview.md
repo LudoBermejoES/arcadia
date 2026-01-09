@@ -17,17 +17,14 @@ El período de migración y asentamiento desde España hasta la consolidación d
 ### [03. El Despertar de Arcadia]({{ site.baseurl }}/world-building/03-arcadia-awakening/)
 La llegada de los primeros metahumanos y el establecimiento de Telaraña como poder criminal.
 
-### [04. Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)
-Las historias que definieron los años 50: La Comadreja, David y el Golem, Esperanza Nambasi y Garfios.
+### [04. En los Últimos Veinte Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)
+Los eventos recientes que han dado forma a la Arcadia contemporánea.
 
 ### [05. La Edad de Oro de Arcadia]({{ site.baseurl }}/world-building/05-golden-age/)
 La Crisis de los Misiles de Cuba, el auge económico y los eventos que consolidaron a Arcadia como potencia.
 
 ### [06. La Madurez Llega a Arcadia]({{ site.baseurl }}/world-building/06-maturity-arrives/)
 La evolución política y social de Arcadia hacia una nación madura.
-
-### [07. En los Últimos Veinte Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)
-Los eventos recientes que han dado forma a la Arcadia contemporánea.
 
 ---
 

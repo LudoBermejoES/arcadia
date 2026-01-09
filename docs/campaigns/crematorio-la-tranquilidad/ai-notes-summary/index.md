@@ -211,7 +211,7 @@ Aprender demasiado causa resets. Los protagonistas deben balancear ignorancia y 
 
 ### Universo Arcadia
 - [El Faraón]({{ site.baseurl }}/characters/details/el-faraon/) - Experto en misticismo egipcio
-- [Telaraña]({{ site.baseurl }}/groups/telarana/) - Organización criminal
+- [Telaraña]({{ site.baseurl }}/characters/details/telarana/) - Líder criminal
 - [Los Espligan]({{ site.baseurl }}/groups/los-espligan/) - Parásitos temporales
 
 ---

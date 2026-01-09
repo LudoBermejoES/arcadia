@@ -95,7 +95,7 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **Establecimiento de Normas**: Las primeras leyes y regulaciones
 - **Conflictos Iniciales**: Tensiones entre humanos y metahumanos
 
-#### **[04 - Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)**
+#### **[04 - Los Últimos Veinte Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)**
 **Las Historias que Definieron los Años 50**
 - **La Comadreja**: Primera delincuente metahumana con estilo y clase
 - **David y el Golem**: Los héroes que liberaron el Barrio Gótico de la Telaraña
@@ -116,7 +116,7 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **Política Metahumana**: Integración en sistemas gubernamentales
 - **Desafíos Modernos**: Amenazas que requieren nuevas aproximaciones
 
-#### **[07 - Los Últimos Veinte Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)**
+#### **[07 - Los Últimos Veinte Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)**
 **La Era Moderna Pre-Heroica**
 - **Consolidación Social**: Integración completa de metahumanos
 - **Desarrollo Tecnológico**: Avances únicos impulsados por poderes
@@ -302,10 +302,9 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 - **[🌅 Orígenes]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)** - Los primeros días
 - **[🏗️ Construcción]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)** - Establecimiento de la sociedad
 - **[⚡ Despertar]({{ site.baseurl }}/world-building/03-arcadia-awakening/)** - El surgimiento meta
-- **[🦸 Metahumanidad Desatada]({{ site.baseurl }}/world-building/04-metahumanidad-desatada/)** - Historias de los años 50
+- **[🦸 Los Últimos 20 Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)** - La era pre-heroica moderna
 - **[🏛️ Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)** - La era heroica clásica
 - **[🔮 Era Moderna]({{ site.baseurl }}/world-building/06-maturity-arrives/)** - Complejidad actual
-- **[📈 Últimos 20 Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)** - La era pre-heroica moderna
 
 ### **🎭 Por Elemento Cultural**
 - **🦸‍♂️ Tradiciones Heroicas** - Códigos y ceremonias

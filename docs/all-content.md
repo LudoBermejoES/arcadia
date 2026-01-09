@@ -157,7 +157,7 @@ permalink: /all-content/
 - **[01 - Primeros Pasos]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)** - Los orígenes
 - **[02 - De España a Arcadia]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)** - 21 años de transición
 - **[03 - El Despertar]({{ site.baseurl }}/world-building/03-arcadia-awakening/)** - El nacimiento metahumano
-- **[04 - Últimos 20 Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)** - Era moderna
+- **[04 - Últimos 20 Años]({{ site.baseurl }}/world-building/04-last-twenty-years/)** - Era moderna
 - **[05 - Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)** - El apogeo heroico
 - **[06 - Llega la Madurez]({{ site.baseurl }}/world-building/06-maturity-arrives/)** - Tiempos complejos
 

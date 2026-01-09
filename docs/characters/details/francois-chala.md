@@ -75,7 +75,7 @@ Durante su mandato, Chalá ha enfrentado presiones sobre la **Ley de Prevención
 #### **Oposición y Aliados**
 - **Grupo Mixto**: Facción que presiona por políticas anti-metahumanas más estrictas
 - **Su propio partido**: Debe manejar divisiones internas sobre política metahumana
-- **Medios de comunicación**: Mantiene relaciones con [RTA]({{ site.baseurl }}/world-building/society/arcadia-society/) y otros medios
+- **Medios de comunicación**: Mantiene relaciones con [RTA]({{ site.baseurl }}/world-building/arcadia-society/) y otros medios
 
 #### **Eventos Públicos**
 - **Visitas oficiales**: Apariciones en lugares de incidentes como el Distrito Biónico
@@ -144,7 +144,7 @@ Como alcalde afrodescendiente en una sociedad diversa, Chalá representa:
 
 - [Ricardo Abeluengo]({{ site.baseurl }}/characters/details/ricardo-abeluengo/) - Su predecesor
 - [Bailarina]({{ site.baseurl }}/characters/details/bailarina/) - Héroe que asistió durante crisis
-- [Gobierno de Arcadia]({{ site.baseurl }}/world-building/society/arcadia-society/)
+- [Gobierno de Arcadia]({{ site.baseurl }}/world-building/arcadia-society/)
 - [Distrito Biónico]({{ site.baseurl }}/world-building/geography/)
 
 ---

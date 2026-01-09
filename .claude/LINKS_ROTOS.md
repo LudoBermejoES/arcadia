@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: 0 (último escaneo linkinator - pendiente verificación tras despliegue)
+**Enlaces rotos únicos**: 0 ✅ (verificado con linkinator)
 
 ---
 
@@ -23,12 +23,9 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ## Estado Actual
 
-**Todos los enlaces rotos conocidos han sido corregidos.** Pendiente de verificación tras el próximo despliegue.
+✅ **Todos los enlaces rotos han sido corregidos y verificados.**
 
-Los últimos 3 enlaces rotos detectados fueron:
-- `/campaigns/campaigns/` - Corregido en plan.md
-- `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` - Corregido en 5 archivos
-- `/world-building/geography/barrio-gotico/` - Corregido en ambientacion.md
+Último escaneo con linkinator: **0 errores 404 detectados**
 
 ---
 
@@ -86,6 +83,8 @@ Los últimos 3 enlaces rotos detectados fueron:
 | 2026-01-09 | `/world-building/geography/barrio-gotico/` → `/world-building/barrio-gotico/` | ambientacion.md |
 | 2026-01-09 | `../sessions/` → site.baseurl en ai-notes-summary | 5 archivos de resúmenes |
 | 2026-01-09 | `../../campaigns/` → site.baseurl | crematorio plan.md |
+| 2026-01-09 | **Añadido frontmatter a sesiones aun-sin-nombre** | 3 archivos ai-notes-summary |
+| 2026-01-09 | Convertidos enlaces .md a Jekyll en aun-sin-nombre | ai-notes-summary/index.md, sessions/index.md |
 
 ---
 

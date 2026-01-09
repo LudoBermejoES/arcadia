@@ -79,6 +79,7 @@ jobs:
             const fs = require('fs');
             const brokenLinks = fs.readFileSync('broken-links.txt', 'utf8');
             const count = '${{ steps.linkinator.outputs.broken_count }}';
+            const date = new Date().toISOString();
 
             // Buscar si ya existe un issue abierto sobre enlaces rotos
             const existingIssues = await github.rest.issues.listForRepo({
@@ -88,26 +89,17 @@ jobs:
               labels: 'broken-links'
             });
 
-            const issueBody = `## 🔗 Enlaces Rotos Detectados
-
-**Fecha del escaneo**: ${new Date().toISOString()}
-**Total de enlaces rotos**: ${count}
-
-### Enlaces que devuelven 404:
-
-\`\`\`
-${brokenLinks}
-\`\`\`
-
-### Cómo corregir:
-
-1. Revisar el archivo \`.claude/LINKS_ROTOS.md\` para ver patrones comunes
-2. Verificar que los permalinks en el frontmatter YAML coincidan con los enlaces
-3. Usar \`{{ site.baseurl }}/ruta/\` para enlaces internos
-4. Ejecutar localmente: \`npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|google|github.com" --verbosity error\`
-
----
-*Issue generado automáticamente por GitHub Actions*`;
+            const issueBody = '## 🔗 Enlaces Rotos Detectados\n\n' +
+              '**Fecha del escaneo**: ' + date + '\n' +
+              '**Total de enlaces rotos**: ' + count + '\n\n' +
+              '### Enlaces que devuelven 404:\n\n' +
+              '```\n' + brokenLinks + '```\n\n' +
+              '### Cómo corregir:\n\n' +
+              '1. Revisar el archivo `.claude/LINKS_ROTOS.md` para ver patrones comunes\n' +
+              '2. Verificar que los permalinks en el frontmatter YAML coincidan con los enlaces\n' +
+              '3. Usar `{{ site.baseurl }}/ruta/` para enlaces internos\n' +
+              '4. Ejecutar localmente: `npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|google|github.com" --verbosity error`\n\n' +
+              '---\n*Issue generado automáticamente por GitHub Actions*';
 
             if (existingIssues.data.length > 0) {
               // Actualizar el issue existente
@@ -117,13 +109,13 @@ ${brokenLinks}
                 issue_number: existingIssues.data[0].number,
                 body: issueBody
               });
-              console.log(`Issue #${existingIssues.data[0].number} actualizado`);
+              console.log('Issue #' + existingIssues.data[0].number + ' actualizado');
             } else {
               // Crear nuevo issue
               await github.rest.issues.create({
                 owner: context.repo.owner,
                 repo: context.repo.repo,
-                title: `🔗 ${count} enlaces rotos detectados`,
+                title: '🔗 ' + count + ' enlaces rotos detectados',
                 body: issueBody,
                 labels: ['broken-links', 'automated']
               });

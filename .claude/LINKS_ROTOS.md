@@ -239,6 +239,8 @@ grep -rl "texto-viejo" docs/ | xargs sed -i 's|texto-viejo|texto-nuevo|g'
 | 2026-01-09 | `los-rayos.png` → `los_rayos.png` | los-rayos.md |
 | 2026-01-09 | `/characters/details/la-sombra/` → `/characters/details/sombrio/` | 4 archivos |
 | 2026-01-09 | `/characters/details/lucifer/` → `/characters/details/lucifer-hero/` | character-groups.md |
+| 2026-01-09 | URLs de sesiones con fechas en all-content.md | all-content.md (45 sesiones) |
+| 2026-01-09 | Enlaces relativos `session-XX.md` → permalinks con fecha | 7 archivos de personajes |
 
 ---
 

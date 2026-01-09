@@ -548,13 +548,13 @@ Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó 
 ### La Fuerza Oculta (2024-2025)
 
 **Fase Formación** (Marzo-Mayo 2024):
-- [Sesión 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md) - Selección
-- [Sesión 02](../../campaigns/la-fuerza-oculta/manual-notes/session-02.md) - Mansión
-- [Sesión 05](../../campaigns/la-fuerza-oculta/manual-notes/session-05.md) - Espectro
-- [Sesión 07](../../campaigns/la-fuerza-oculta/manual-notes/session-07.md) - Monopatín
+- [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Selección
+- [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) - Mansión
+- [Sesión 05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-05-2024-04-14/) - Espectro
+- [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07-2024-04-28/) - Monopatín
 
 **Fase Profesionalización** (Julio 2025):
-- [Sesión 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25.md)
+- [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/)
 - [AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md) - Operación Metro
 - [AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)
 

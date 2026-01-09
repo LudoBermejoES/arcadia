@@ -298,11 +298,11 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ### La Fuerza Oculta (2024-2025)
 
-- [Sesión 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md) - Selección
-- [Sesión 02](../../campaigns/la-fuerza-oculta/manual-notes/session-02.md) - Mansión
-- [Sesión 07](../../campaigns/la-fuerza-oculta/manual-notes/session-07.md)
-- [Sesión 20](../../campaigns/la-fuerza-oculta/manual-notes/session-20.md)
-- [Sesión 25](../../campaigns/la-fuerza-oculta/manual-notes/session-25.md) - Operación Metro
+- [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Selección
+- [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) - Mansión
+- [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07-2024-04-28/)
+- [Sesión 20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-20-2025-06-15/)
+- [Sesión 25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/) - Operación Metro
 - [AI Notes 2025-06-15](../../campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes.md)
 - [AI Notes 2025-07-20](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes.md)
 - [AI Notes 2025-07-28](../../campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes.md)

@@ -27,7 +27,7 @@ Saltamontes actúa como un ladrón especializado en objetivos de alta seguridad,
 - Sigilo operacional: Mantiene su identidad completamente oculta
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta Session 01](../../campaigns/la-fuerza-oculta/manual-notes/session-01.md)
+- [La Fuerza Oculta Session 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/)
 
 ## Detalles Adicionales
 El robo del banco de Rhiad representa el pináculo de la carrera criminal de Saltamontes. En esta operación, "esquivó todas las defensas y saqueó la bóveda", demostrando capacidades que superan incluso las medidas de seguridad más avanzadas disponibles en Arcadia. Este éxito lo catapultó a la posición de segundo metahumano más buscado.

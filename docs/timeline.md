@@ -117,8 +117,8 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 
 ## Navegación Temporal
 
-- [🏠 Inicio](/)
-- [📚 Ver Campañas por Período](campaigns/)
-- [🦸 Evolución de Personajes](characters/)
-- [🌍 Historia del Mundo](world-building/history/)
-- [📜 Transcripciones Cronológicas](transcriptions/)
+- [🏠 Inicio]({{ site.baseurl }}/)
+- [📚 Ver Campañas por Período]({{ site.baseurl }}/campaigns/)
+- [🦸 Evolución de Personajes]({{ site.baseurl }}/characters/)
+- [🌍 Historia del Mundo]({{ site.baseurl }}/world-building/history/)
+- [📜 Transcripciones Cronológicas]({{ site.baseurl }}/transcriptions/)

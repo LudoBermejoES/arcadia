@@ -197,8 +197,8 @@ permalink: /all-content/
 
 ### **🚀 Accesos Rápidos**
 - **[Personajes Más Importantes](characters/character-list.md#protagonistas)**
-- **[Sesiones Más Épicas](campaigns/)**  
-- **[Worldbuilding Esencial](world-building/)**
+- **[Sesiones Más Épicas]({{ site.baseurl }}/campaigns/)**
+- **[Worldbuilding Esencial]({{ site.baseurl }}/world-building/)**
 - **[Cronología Completa]({{ site.baseurl }}/world-building/history-overview/)**
 
 ### **📈 Por Popularidad**

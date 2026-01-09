@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: 10 (último escaneo linkinator)
+**Enlaces rotos únicos**: 0 (último escaneo linkinator - pendiente verificación tras despliegue)
 
 ---
 
@@ -21,65 +21,14 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ---
 
-## Categorías de Enlaces Rotos Actuales (10 únicos)
+## Estado Actual
 
-### 1. ÍNDICES ALL-CONTENT (2 enlaces)
+**Todos los enlaces rotos conocidos han sido corregidos.** Pendiente de verificación tras el próximo despliegue.
 
-| URL Incorrecta | Corrección |
-|----------------|------------|
-| `/all-content/campaigns/` | Cambiar a `/all-content/#campaigns` o eliminar enlace |
-| `/all-content/world-building/` | Cambiar a `/all-content/#world-building` o eliminar enlace |
-
-**Problema**: all-content.md no tiene rutas separadas por sección.
-**Solución**: Buscar archivos que referencian estas URLs y corregir a anclas `#`.
-
----
-
-### 2. CAMPAÑAS (3 enlaces)
-
-| URL | Problema | Solución |
-|-----|----------|----------|
-| `/campaigns/campaigns/` | Ruta duplicada incorrecta | Buscar y eliminar enlace |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto | Ya corregido - puede ser cache |
-| `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` | Ruta incorrecta | Cambiar a `/campaigns/la-fuerza-oculta/sessions/` |
-
----
-
-### 3. RUTAS DE PERSONAJES INCORRECTAS (1 enlace)
-
-| URL Incorrecta | Corrección |
-|----------------|------------|
-| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Ruta mal formada - buscar y eliminar |
-
----
-
-### 4. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
-
-| URL Incorrecta | Corrección |
-|----------------|------------|
-| `/world-building/ambientacion/geography/barrio-gotico/` | Cambiar a `/world-building/barrio-gotico/` |
-| `/world-building/ambientacion/geography/distrito-iovis/` | Cambiar a `/world-building/distrito-iovis/` |
-| `/world-building/ambientacion/geography/distrito-martis/` | Cambiar a `/world-building/distrito-martis/` |
-| `/world-building/ambientacion/geography/distrito-mercurii/` | Cambiar a `/world-building/distrito-mercurii/` |
-
-**Problema**: La ruta tiene niveles extra `/ambientacion/geography/` que no existen.
-**Solución**: Buscar archivos con estas rutas y corregir a la ruta directa.
-
----
-
-## Priorización de Correcciones
-
-### Alta Prioridad (Fácil de corregir)
-1. **World-building rutas anidadas**: Eliminar `/ambientacion/geography/` (4 enlaces)
-2. **campaigns/campaigns/**: Eliminar enlace duplicado (1 enlace)
-3. **ai-notes-summary/sessions/**: Corregir a /sessions/ (1 enlace)
-
-### Media Prioridad
-1. **Índices all-content**: Cambiar a anclas `#` (2 enlaces)
-2. **characters/campaigns/...**: Buscar y eliminar enlace mal formado (1 enlace)
-
-### Baja Prioridad (Puede ser cache)
-1. **crematorio...Session-1.md**: Ya corregido a formato Jekyll, verificar después de despliegue (1 enlace)
+Los últimos 3 enlaces rotos detectados fueron:
+- `/campaigns/campaigns/` - Corregido en plan.md
+- `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` - Corregido en 5 archivos
+- `/world-building/geography/barrio-gotico/` - Corregido en ambientacion.md
 
 ---
 
@@ -131,6 +80,12 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 | 2026-01-09 | `/campaigns/fatum/` → `/groups/fatum/` | campaigns/index.md |
 | 2026-01-09 | `../../groups/ultracorps/` → `/groups/ultracorps/` | 6 archivos de personajes |
 | 2026-01-09 | Corregidos enlaces .md en crematorio-la-tranquilidad | sessions/index.md, index.md, ai-notes-summary/index.md |
+| 2026-01-09 | `/all-content/campaigns/` y `/world-building/` → site.baseurl | all-content.md |
+| 2026-01-09 | Enlaces de navegación relativos → site.baseurl | summaries.md, timeline.md |
+| 2026-01-09 | `../../campaigns/la-fuerza-oculta/ai-notes/` → site.baseurl | ana-montenegro-esfinge-atropos.md |
+| 2026-01-09 | `/world-building/geography/barrio-gotico/` → `/world-building/barrio-gotico/` | ambientacion.md |
+| 2026-01-09 | `../sessions/` → site.baseurl en ai-notes-summary | 5 archivos de resúmenes |
+| 2026-01-09 | `../../campaigns/` → site.baseurl | crematorio plan.md |
 
 ---
 

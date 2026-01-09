@@ -289,7 +289,7 @@ Hablar de la geografía de Arcadia es hablar del sentido de la maravilla del ser
 ### Distrito Clásico
 También llamado el Distrito Central, es el distrito político, religioso y judicial de Arcadia. Cerca de doce manzanas de edificios bajos, mármoles importados, teatros romanos, hemiciclos cerrados por cúpulas de cristal transparente, todo al servicio de los gobernantes y legisladores de Arcadia.
 
-### [Distrito Gótico (Barrio Gótico)]({{ site.baseurl }}/world-building/geography/barrio-gotico/)
+### [Distrito Gótico (Barrio Gótico)]({{ site.baseurl }}/world-building/barrio-gotico/)
 Veinticinco manzanas residenciales con arquitectura industrial de los años cuarenta y cincuenta semejante a la de Chicago, intercalada con numerosas iglesias de diferentes procesiones. Sus calles estrechas y retorcidas parecen no llegar a ninguna parte, creando un lugar oscuro, oloroso, siniestro y repleto de sombras que se ha convertido en el corazón místico de Arcadia.
 
 **Características principales**: 
@@ -302,7 +302,7 @@ Veinticinco manzanas residenciales con arquitectura industrial de los años cuar
 - Fenómenos sobrenaturales activos y mundo espiritual visible
 - Sistema de navegación único con "pautas" locales
 
-**→ [Ver información completa del Barrio Gótico]({{ site.baseurl }}/world-building/geography/barrio-gotico/)**
+**→ [Ver información completa del Barrio Gótico]({{ site.baseurl }}/world-building/barrio-gotico/)**
 
 ### Distrito Futurista
 Compuesto en su totalidad por rascacielos, estas grandes construcciones fueron diseñadas para sugerir velocidad, urgencia y dinamismo. Veinte manzanas dedicadas en exclusiva a las empresas, los bancos y los servicios asociados, es sin duda una de las maravillas de Arcadia.

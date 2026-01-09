@@ -324,4 +324,4 @@ La sesión comienza con **Pantomima** preguntando a **Cacharrero** por **Caos** 
 
 ---
 
-[Sesión Anterior](2025-12-07-gemini-notes.md) | [Índice de Sesiones](../sessions/) | Sesión Siguiente (pendiente)
+[Sesión Anterior](2025-12-07-gemini-notes.md) | [Índice de Sesiones]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/) | Sesión Siguiente (pendiente)

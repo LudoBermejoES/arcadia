@@ -6,7 +6,7 @@ permalink: /campaigns/crematorio-la-tranquilidad/plan/
 
 # 🕰️ Plan de Campaña: Crematorio La Tranquilidad
 
-[← Volver al Índice de Campañas](../../campaigns/)
+[← Volver al Índice de Campañas]({{ site.baseurl }}/campaigns/)
 
 ---
 
@@ -553,7 +553,7 @@ Esta campaña ofrece una **experiencia concentrada e intensa** diferente a las c
 
 ## 🔗 Enlaces Relacionados
 
-- [← Volver al Índice de Campañas](../../campaigns/)
+- [← Volver al Índice de Campañas]({{ site.baseurl }}/campaigns/)
 - [Ver Sesión 1](ai-notes/2025-10-25-Session-1.md)
 - [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 - [Cronología General de Arcadia]({{ site.baseurl }}/world-building/timeline/)

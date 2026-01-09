@@ -511,4 +511,4 @@ Los **competidores mayores** (Conde de 80 años, Rosa "abuelita") sugieren:
 
 ---
 
-[← Sesión Anterior](2025-10-05-gemini-notes.md) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →
+[← Sesión Anterior](2025-10-05-gemini-notes.md) | [Índice de Sesiones]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/) | Sesión Siguiente →

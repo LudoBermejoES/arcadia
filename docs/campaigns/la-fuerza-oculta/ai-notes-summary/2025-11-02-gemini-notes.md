@@ -429,4 +429,4 @@ Espectro probablemente sabía esto - por eso autorizó la "prueba".
 
 ---
 
-[← Sesión Anterior](2025-10-12-gemini-notes.md) | [Índice de Sesiones](../sessions/) | Sesión Siguiente →
+[← Sesión Anterior](2025-10-12-gemini-notes.md) | [Índice de Sesiones]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/) | Sesión Siguiente →

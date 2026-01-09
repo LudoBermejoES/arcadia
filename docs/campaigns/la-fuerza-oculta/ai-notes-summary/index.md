@@ -659,4 +659,4 @@ Los análisis establecen:
 
 *Los resúmenes analíticos de La Fuerza Oculta representan una innovación en la comprensión profunda de campañas de rol, transformando experiencias de juego en análisis narrativos sofisticados que revelan la complejidad y profundidad de la creación colaborativa de historias.*
 
-**[📼 Ver Transcripciones Completas →](../ai-notes/)** | **[📋 Revisar Notas Manuales →](../manual-notes/)** | **[📅 Cronología General →](../sessions/)**
+**[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

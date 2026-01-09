@@ -1,20 +1,6 @@
-  [404] https://arcadia.ludobermejo.es/all-content/campaigns/
-  [404] https://arcadia.ludobermejo.es/all-content/world-building/
   [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
-  [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/
-  [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-  [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
-  [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
-  [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/
-  [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-mercurii/
-[404] https://arcadia.ludobermejo.es/all-content/campaigns/
-[404] https://arcadia.ludobermejo.es/all-content/world-building/
+  [404] https://arcadia.ludobermejo.es/world-building/geography/barrio-gotico/
 [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
-[404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/
-[404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-[404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
-[404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
-[404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/
-[404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-mercurii/
+[404] https://arcadia.ludobermejo.es/world-building/geography/barrio-gotico/

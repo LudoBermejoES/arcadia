@@ -1,4 +1,14 @@
-Conversación entre Psique y Diana (después de el encuentro con la Emperatriz de Jade y los monos en el centro comercial) Lo he dejado en modo narración, con el permiso de Eslizo 😉
+---
+layout: page
+title: "Conversación entre Psique y Diana"
+permalink: /characters/pensamientos/psique-y-diana/
+---
+
+# Conversación entre Psique y Diana
+
+*Después del encuentro con la Emperatriz de Jade y los monos en el centro comercial*
+
+*Escrito en modo narración, con el permiso de Eslizo*
 
 **************************************************************
 La estación subterránea estaba vacía, envuelta en un silencio gris y opaco. El resplandor mortecino de los fluorescentes dibujaba sombras largas sobre las paredes agrietadas, mientras el eco de vidas ausentes aún parecía flotar en el aire.

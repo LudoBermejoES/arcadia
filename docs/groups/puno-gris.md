@@ -98,4 +98,4 @@ Durante la **sesión del 27 de julio de 2025**, La Fuerza Oculta se infiltró en
 
 ## Apariciones Documentadas
 - [La Fuerza Oculta - Sesión 25 (27 Julio 2025)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-25-2025-07-27/)
-- [La Fuerza Oculta - Resumen Detallado](../../campaigns/la-fuerza-oculta/summary/summary.md)
+- [La Fuerza Oculta - Resumen Detallado]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/)

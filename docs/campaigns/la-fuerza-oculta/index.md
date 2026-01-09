@@ -55,7 +55,7 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ---
 
-## 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/summary/)**
+## 📚 **[Aventuras Detalladas]({{ site.baseurl }}/campaigns/la-fuerza-oculta/summary/)**
 
 Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde los primeros días como participantes del reality show hasta su evolución como héroes fugitivos independientes.
 

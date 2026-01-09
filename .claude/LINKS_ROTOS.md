@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: ~34 (tras eliminar capturas Notion, antes ~56)
+**Enlaces rotos únicos**: 23 (último escaneo linkinator)
 
 ---
 
@@ -23,72 +23,70 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ## Categorías de Enlaces Rotos Actuales
 
-### ~~1. CAPTURAS DE PANTALLA NOTION~~ ✅ CORREGIDO
+### 1. CAPTURAS NOTION EN LA FAMILIA SESSION-42 (6 imágenes)
 
-Eliminadas 22 referencias a imágenes de Notion de 10 archivos de sesión.
+| URL Rota |
+|----------|
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.12.14.png` |
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.12.45.png` |
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.13.07.png` |
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.16.36.png` |
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.18.40.png` |
+| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.19.08.png` |
+
+**Problema**: Carpetas Notion con caracteres especiales (SUPERHÉROES).
+**Solución**: Eliminar referencias en `session-42-2025-05-25.md` de La Familia.
 
 ---
 
-### 2. SESIONES CON NUMERACIÓN INCORRECTA (~6 enlaces)
+### 2. SESIONES DE LA FAMILIA (2 enlaces)
 
 | URL Rota | Problema |
 |----------|----------|
-| `/manual-notes/session-19-2025-06-29/` | Sesión 19 no existe (salto de 17 a 20) |
-| `/manual-notes/session-32-2024-09-28/` | Debería ser session-35-2024-09-28 |
-| `/manual-notes/session-33-2024-09-23/` | Debería ser session-34-2024-09-23 |
-| `/manual-notes/session-33-2024-09-28/` | Debería ser session-35-2024-09-28 |
-| `/manual-notes/session-33-2024-10-12/` | Debería ser session-36-2024-10-12 |
+| `/campaigns/la-familia/session-42-2025-05-25/` | Permalink no coincide |
+| `/campaigns/la-familia/session-43-2025-09-11/` | Permalink no coincide |
 
-**Solución**: Verificar numeración en `sessions/index.md` y `ai-notes-summary/` y corregir referencias.
+**Solución**: Verificar frontmatter de session-42 y session-43 en La Familia.
 
 ---
 
-### 3. SESIONES DE LA FAMILIA (~8 enlaces)
+### 3. ÍNDICES Y RUTAS INCORRECTAS (6 enlaces)
 
-| URL Rota | Tipo |
-|----------|------|
-| `/campaigns/la-familia/session-04.md` | Enlace .md en lugar de permalink |
-| `/campaigns/la-familia/session-34.md` | Enlace .md en lugar de permalink |
-| `/campaigns/la-familia/session-41.md` | Enlace .md en lugar de permalink |
-| `/campaigns/la-familia/session-42/` | Sesión no existe |
-| `/campaigns/la-familia/session-42-2025-05-25/` | Sesión no existe |
-| `/campaigns/la-familia/session-43/` | Sesión no existe |
-| `/campaigns/la-familia/session-43-2025-09-11/` | Sesión no existe |
-| `/campaigns/la-familia/summary/summary/` | Permalink duplicado |
-
-**Solución**: Verificar sesiones existentes de La Familia y corregir o eliminar referencias.
+| URL Incorrecta | Corrección |
+|----------------|------------|
+| `/all-content/campaigns/` | `/all-content/#campaigns` o eliminar |
+| `/all-content/world-building/` | `/all-content/#world-building` o eliminar |
+| `/characters/groups/ultracorps/` | `/groups/ultracorps/` |
+| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Eliminar referencia |
+| `/groups/La%20familia/` | `/groups/la-familia/` |
+| `/groups/la-familia/El%20faraón.md` | Usar permalink correcto |
 
 ---
 
-### 4. CAMPAÑAS Y SECCIONES FALTANTES (~8 enlaces)
+### 4. CAMPAÑAS Y SECCIONES FALTANTES (7 enlaces)
 
 | URL | Estado |
 |-----|--------|
 | `/campaigns/aun-sin-nombre/ai-notes/` | Campaña sin carpeta ai-notes |
 | `/campaigns/campaigns/` | Ruta duplicada incorrecta |
 | `/campaigns/crematorio-la-tranquilidad/ai-notes/` | Campaña sin carpeta ai-notes |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/` | Permalink incorrecto |
+| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto |
+| `/campaigns/fatum/` | Campaña no existe o sin índice |
 | `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` | No existe |
-| `/campaigns/la-fuerza-oculta/summary/summary.md` | Enlace .md incorrecto |
-| `/campaigns/la-fuerza-oculta/summary/summary/` | Permalink duplicado |
 | `/campaigns/la-fuerza-oculta/themes/` | No existe |
 
 ---
 
-### 5. ÍNDICES Y RUTAS INCORRECTAS (~6 enlaces)
+### 5. SUMMARY DUPLICADOS (2 enlaces)
 
-| URL Incorrecta | Corrección |
-|----------------|------------|
-| `/all-content/campaigns/` | `/all-content/#campaigns` |
-| `/all-content/world-building/` | `/all-content/#world-building` |
-| `/characters/groups/ultracorps/` | `/groups/ultracorps/` |
-| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Ruta incorrecta |
-| `/groups/La%20familia/` | `/groups/la-familia/` |
-| `/groups/la-familia/El%20faraón.md` | Usar permalink correcto |
+| URL Incorrecta | Problema |
+|----------------|----------|
+| `/campaigns/la-fuerza-oculta/summary/summary.md` | Enlace .md incorrecto |
+| `/campaigns/la-fuerza-oculta/summary/summary/` | Permalink duplicado |
 
 ---
 
-### 6. WORLD-BUILDING RUTAS ANIDADAS (~4 enlaces)
+### 6. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
@@ -99,30 +97,29 @@ Eliminadas 22 referencias a imágenes de Notion de 10 archivos de sesión.
 
 ---
 
-### 7. PENSAMIENTOS DE PERSONAJES (~2 enlaces)
+### 7. PENSAMIENTOS DE PERSONAJES (2 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
-| `/characters/pensamientos/` | `/characters/pensamientos/diana/` o crear índice |
+| `/characters/pensamientos/` | Crear índice o redirigir |
 | `/characters/pensamientos/psique-y-diana/` | Verificar si existe o eliminar |
 
 ---
 
 ## Priorización de Correcciones
 
-### Alta Prioridad (Afectan navegación principal)
-1. Índices incorrectos (`/all-content/...`)
-2. Rutas de grupos incorrectas
-3. World-building rutas anidadas
-4. Numeración incorrecta de sesiones
+### Alta Prioridad (Fácil de corregir)
+1. Capturas Notion en La Familia session-42 (eliminar 6 referencias)
+2. World-building rutas anidadas (4 enlaces)
+3. Índices incorrectos (6 enlaces)
 
-### Media Prioridad (Contenido específico)
-1. Sesiones de La Familia (verificar existencia)
-2. Campañas sin ai-notes (crear carpetas o eliminar referencias)
-3. Pensamientos de personajes
+### Media Prioridad
+1. Sesiones de La Familia - verificar permalinks (2 enlaces)
+2. Summary duplicados (2 enlaces)
 
-### ~~Baja Prioridad~~ ✅ COMPLETADO
-~~1. Capturas de pantalla Notion (~22 imágenes) - Eliminar referencias o mover archivos~~
+### Baja Prioridad (Requiere crear contenido)
+1. Campañas sin ai-notes (7 enlaces)
+2. Pensamientos de personajes - crear índice (2 enlaces)
 
 ---
 
@@ -161,7 +158,7 @@ Eliminadas 22 referencias a imágenes de Notion de 10 archivos de sesión.
 | 2026-01-09 | Convertidos enlaces relativos .md a formato Jekyll | manual-notes/index.md, sessions/index.md, ai-notes-summary/*.md |
 | 2026-01-09 | Corregidos enlaces en transcriptions.md | transcriptions.md |
 | 2026-01-09 | Renombrado `session-29-2024-08-24 .md` (espacio) | session-29-2024-08-24.md |
-| 2026-01-09 | **Eliminadas 22 referencias a capturas Notion** | 10 archivos de manual-notes |
+| 2026-01-09 | **Eliminadas 22 referencias a capturas Notion** | 10 archivos de manual-notes (La Fuerza Oculta) |
 
 ---
 

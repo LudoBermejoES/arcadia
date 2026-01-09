@@ -375,4 +375,4 @@ El juego dentro del juego:
 
 *Cada sesión de La Fuerza Oculta construye sobre 15 años de narrativa compartida, creando una experiencia única donde el pasado y presente del universo se entrelazan en cada decisión de los jugadores.*
 
-**[📚 Explorar Notas Detalladas →](../ai-notes-summary/)** | **[🎭 Análisis Temático →](../themes/)**
+**[📚 Explorar Notas Detalladas →](../ai-notes-summary/)**

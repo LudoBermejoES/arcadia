@@ -73,14 +73,9 @@ Tiene una conexión especial con su hermano Luis, quien también posee habilidad
 ## Enlaces a Personajes Individuales
 
 ### Fichas Principales (Detalles Completos)
-- **[Bate](../../characters/details/bate.md)** - El corazón emocional del grupo
-- **[Atropos](../../characters/details/ana-montenegro-esfinge-atropos.md)** - La manipuladora temporal
-- **[El Faraón](../../characters/details/el-faraon.md)** - El líder espiritual 
-- **[Garra](../../characters/details/garra.md)** - El estratega telequinético
-- **[Mésmero](../../characters/details/mesmero.md)** - El telepático coordinador
 
-### Archivos de Grupo (Resúmenes)
-- **[Bate](Bate.md)** - Resumen del grupo
-- **[Atropos](Atropos.md)** - Resumen del grupo
-- **[El Faraón](El%20faraón.md)** - Resumen del grupo
-- **[Garra](Garra.md)** - Resumen del grupo
+- **[Bate]({{ site.baseurl }}/characters/details/bate/)** - El corazón emocional del grupo
+- **[Atropos]({{ site.baseurl }}/characters/details/ana-montenegro-esfinge-atropos/)** - La manipuladora temporal
+- **[El Faraón]({{ site.baseurl }}/characters/details/el-faraon/)** - El líder espiritual
+- **[Garra]({{ site.baseurl }}/characters/details/garra/)** - El estratega telequinético
+- **[Mésmero]({{ site.baseurl }}/characters/details/mesmero/)** - El telepático coordinador

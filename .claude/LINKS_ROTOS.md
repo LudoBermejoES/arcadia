@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: 23 (último escaneo linkinator)
+**Enlaces rotos únicos**: 17 (último escaneo linkinator)
 
 ---
 
@@ -21,105 +21,82 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ---
 
-## Categorías de Enlaces Rotos Actuales
+## Categorías de Enlaces Rotos Actuales (17 únicos)
 
-### 1. CAPTURAS NOTION EN LA FAMILIA SESSION-42 (6 imágenes)
-
-| URL Rota |
-|----------|
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.12.14.png` |
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.12.45.png` |
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...19.13.07.png` |
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.16.36.png` |
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.18.40.png` |
-| `/campaigns/la-familia/session-42/PARTIDA%20SUPERHE...20.19.08.png` |
-
-**Problema**: Carpetas Notion con caracteres especiales (SUPERHÉROES).
-**Solución**: Eliminar referencias en `session-42-2025-05-25.md` de La Familia.
-
----
-
-### 2. SESIONES DE LA FAMILIA (2 enlaces)
-
-| URL Rota | Problema |
-|----------|----------|
-| `/campaigns/la-familia/session-42-2025-05-25/` | Permalink no coincide |
-| `/campaigns/la-familia/session-43-2025-09-11/` | Permalink no coincide |
-
-**Solución**: Verificar frontmatter de session-42 y session-43 en La Familia.
-
----
-
-### 3. ÍNDICES Y RUTAS INCORRECTAS (6 enlaces)
+### 1. ÍNDICES ALL-CONTENT (2 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
-| `/all-content/campaigns/` | `/all-content/#campaigns` o eliminar |
-| `/all-content/world-building/` | `/all-content/#world-building` o eliminar |
-| `/characters/groups/ultracorps/` | `/groups/ultracorps/` |
-| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Eliminar referencia |
-| `/groups/La%20familia/` | `/groups/la-familia/` |
-| `/groups/la-familia/El%20faraón.md` | Usar permalink correcto |
+| `/all-content/campaigns/` | Cambiar a `/all-content/#campaigns` o eliminar enlace |
+| `/all-content/world-building/` | Cambiar a `/all-content/#world-building` o eliminar enlace |
+
+**Problema**: all-content.md no tiene rutas separadas por sección.
+**Solución**: Buscar archivos que referencian estas URLs y corregir a anclas `#`.
 
 ---
 
-### 4. CAMPAÑAS Y SECCIONES FALTANTES (7 enlaces)
+### 2. CAMPAÑAS SIN AI-NOTES O INEXISTENTES (6 enlaces)
 
-| URL | Estado |
-|-----|--------|
-| `/campaigns/aun-sin-nombre/ai-notes/` | Campaña sin carpeta ai-notes |
-| `/campaigns/campaigns/` | Ruta duplicada incorrecta |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/` | Campaña sin carpeta ai-notes |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto |
-| `/campaigns/fatum/` | Campaña no existe o sin índice |
-| `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` | No existe |
-| `/campaigns/la-fuerza-oculta/themes/` | No existe |
-
----
-
-### 5. SUMMARY DUPLICADOS (2 enlaces)
-
-| URL Incorrecta | Problema |
-|----------------|----------|
-| `/campaigns/la-fuerza-oculta/summary/summary.md` | Enlace .md incorrecto |
-| `/campaigns/la-fuerza-oculta/summary/summary/` | Permalink duplicado |
+| URL | Problema | Solución |
+|-----|----------|----------|
+| `/campaigns/aun-sin-nombre/ai-notes/` | Campaña sin carpeta ai-notes | Crear carpeta o eliminar enlace |
+| `/campaigns/campaigns/` | Ruta duplicada incorrecta | Eliminar enlace |
+| `/campaigns/crematorio-la-tranquilidad/ai-notes/` | Campaña sin carpeta ai-notes | Crear carpeta o eliminar enlace |
+| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto | Convertir a permalink Jekyll |
+| `/campaigns/fatum/` | Campaña no existe o sin índice | Crear index.md o redirigir a `/groups/fatum/` |
+| `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` | Ruta incorrecta | Cambiar a `/campaigns/la-fuerza-oculta/sessions/` |
 
 ---
 
-### 6. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
+### 3. RUTAS DE PERSONAJES INCORRECTAS (3 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
-| `/world-building/ambientacion/geography/barrio-gotico/` | `/world-building/barrio-gotico/` |
-| `/world-building/ambientacion/geography/distrito-iovis/` | `/world-building/distrito-iovis/` |
-| `/world-building/ambientacion/geography/distrito-martis/` | `/world-building/distrito-martis/` |
-| `/world-building/ambientacion/geography/distrito-mercurii/` | `/world-building/distrito-mercurii/` |
+| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Ruta mal formada - eliminar |
+| `/characters/groups/ultracorps/` | Cambiar a `/groups/ultracorps/` |
+| `/characters/pensamientos/` | Crear índice en `/characters/pensamientos/index.md` |
 
 ---
 
-### 7. PENSAMIENTOS DE PERSONAJES (2 enlaces)
+### 4. RUTAS DE GRUPOS INCORRECTAS (2 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
-| `/characters/pensamientos/` | Crear índice o redirigir |
-| `/characters/pensamientos/psique-y-diana/` | Verificar si existe o eliminar |
+| `/groups/La%20familia/` | Cambiar a `/groups/la-familia/` (sin mayúscula, sin espacio) |
+| `/groups/la-familia/El%20faraón.md` | Cambiar a `/characters/details/el-faraon/` |
+
+---
+
+### 5. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
+
+| URL Incorrecta | Corrección |
+|----------------|------------|
+| `/world-building/ambientacion/geography/barrio-gotico/` | Cambiar a `/world-building/barrio-gotico/` |
+| `/world-building/ambientacion/geography/distrito-iovis/` | Cambiar a `/world-building/distrito-iovis/` |
+| `/world-building/ambientacion/geography/distrito-martis/` | Cambiar a `/world-building/distrito-martis/` |
+| `/world-building/ambientacion/geography/distrito-mercurii/` | Cambiar a `/world-building/distrito-mercurii/` |
+
+**Problema**: La ruta tiene niveles extra `/ambientacion/geography/` que no existen.
+**Solución**: Buscar archivos con estas rutas y corregir a la ruta directa.
 
 ---
 
 ## Priorización de Correcciones
 
 ### Alta Prioridad (Fácil de corregir)
-1. Capturas Notion en La Familia session-42 (eliminar 6 referencias)
-2. World-building rutas anidadas (4 enlaces)
-3. Índices incorrectos (6 enlaces)
+1. **Grupos incorrectos**: `/groups/La%20familia/` y El faraón.md (2 enlaces)
+2. **Characters incorrectos**: `/characters/groups/ultracorps/` (1 enlace)
+3. **World-building rutas anidadas**: Eliminar `/ambientacion/geography/` (4 enlaces)
 
 ### Media Prioridad
-1. Sesiones de La Familia - verificar permalinks (2 enlaces)
-2. Summary duplicados (2 enlaces)
+1. **Índices all-content**: Cambiar a anclas `#` (2 enlaces)
+2. **ai-notes-summary/sessions/**: Corregir ruta (1 enlace)
 
-### Baja Prioridad (Requiere crear contenido)
-1. Campañas sin ai-notes (7 enlaces)
-2. Pensamientos de personajes - crear índice (2 enlaces)
+### Baja Prioridad (Requiere crear contenido o decisión)
+1. **Campañas sin ai-notes**: aun-sin-nombre, crematorio (3 enlaces)
+2. **campaigns/fatum/**: Decidir si crear campaña o redirigir (1 enlace)
+3. **characters/pensamientos/**: Crear índice (1 enlace)
+4. **campaigns/campaigns/**: Eliminar enlace duplicado (1 enlace)
 
 ---
 
@@ -159,6 +136,12 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 | 2026-01-09 | Corregidos enlaces en transcriptions.md | transcriptions.md |
 | 2026-01-09 | Renombrado `session-29-2024-08-24 .md` (espacio) | session-29-2024-08-24.md |
 | 2026-01-09 | **Eliminadas 22 referencias a capturas Notion** | 10 archivos de manual-notes (La Fuerza Oculta) |
+| 2026-01-09 | **Eliminadas 6 capturas Notion de La Familia** | session-42-2025-05-25.md |
+| 2026-01-09 | Corregidos permalinks session-42 y session-43 | la-familia/index.md, summary.md |
+| 2026-01-09 | Eliminado enlace themes/ | sessions/index.md |
+| 2026-01-09 | Corregido summary/summary/ duplicado | la-fuerza-oculta/index.md |
+| 2026-01-09 | Añadido frontmatter a Psique_y_Diana.md | Psique_y_Diana.md |
+| 2026-01-09 | Convertido enlace relativo en puno-gris.md | puno-gris.md |
 
 ---
 

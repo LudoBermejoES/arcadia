@@ -3,7 +3,7 @@
 Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
 
 **Última actualización**: 9 Enero 2026
-**Enlaces rotos únicos**: 17 (último escaneo linkinator)
+**Enlaces rotos únicos**: 10 (último escaneo linkinator)
 
 ---
 
@@ -21,7 +21,7 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ---
 
-## Categorías de Enlaces Rotos Actuales (17 únicos)
+## Categorías de Enlaces Rotos Actuales (10 únicos)
 
 ### 1. ÍNDICES ALL-CONTENT (2 enlaces)
 
@@ -35,39 +35,25 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 
 ---
 
-### 2. CAMPAÑAS SIN AI-NOTES O INEXISTENTES (6 enlaces)
+### 2. CAMPAÑAS (3 enlaces)
 
 | URL | Problema | Solución |
 |-----|----------|----------|
-| `/campaigns/aun-sin-nombre/ai-notes/` | Campaña sin carpeta ai-notes | Crear carpeta o eliminar enlace |
-| `/campaigns/campaigns/` | Ruta duplicada incorrecta | Eliminar enlace |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/` | Campaña sin carpeta ai-notes | Crear carpeta o eliminar enlace |
-| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto | Convertir a permalink Jekyll |
-| `/campaigns/fatum/` | Campaña no existe o sin índice | Crear index.md o redirigir a `/groups/fatum/` |
+| `/campaigns/campaigns/` | Ruta duplicada incorrecta | Buscar y eliminar enlace |
+| `/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md` | Enlace .md incorrecto | Ya corregido - puede ser cache |
 | `/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/` | Ruta incorrecta | Cambiar a `/campaigns/la-fuerza-oculta/sessions/` |
 
 ---
 
-### 3. RUTAS DE PERSONAJES INCORRECTAS (3 enlaces)
+### 3. RUTAS DE PERSONAJES INCORRECTAS (1 enlace)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
-| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Ruta mal formada - eliminar |
-| `/characters/groups/ultracorps/` | Cambiar a `/groups/ultracorps/` |
-| `/characters/pensamientos/` | Crear índice en `/characters/pensamientos/index.md` |
+| `/characters/campaigns/la-fuerza-oculta/ai-notes/` | Ruta mal formada - buscar y eliminar |
 
 ---
 
-### 4. RUTAS DE GRUPOS INCORRECTAS (2 enlaces)
-
-| URL Incorrecta | Corrección |
-|----------------|------------|
-| `/groups/La%20familia/` | Cambiar a `/groups/la-familia/` (sin mayúscula, sin espacio) |
-| `/groups/la-familia/El%20faraón.md` | Cambiar a `/characters/details/el-faraon/` |
-
----
-
-### 5. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
+### 4. WORLD-BUILDING RUTAS ANIDADAS (4 enlaces)
 
 | URL Incorrecta | Corrección |
 |----------------|------------|
@@ -84,19 +70,16 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 ## Priorización de Correcciones
 
 ### Alta Prioridad (Fácil de corregir)
-1. **Grupos incorrectos**: `/groups/La%20familia/` y El faraón.md (2 enlaces)
-2. **Characters incorrectos**: `/characters/groups/ultracorps/` (1 enlace)
-3. **World-building rutas anidadas**: Eliminar `/ambientacion/geography/` (4 enlaces)
+1. **World-building rutas anidadas**: Eliminar `/ambientacion/geography/` (4 enlaces)
+2. **campaigns/campaigns/**: Eliminar enlace duplicado (1 enlace)
+3. **ai-notes-summary/sessions/**: Corregir a /sessions/ (1 enlace)
 
 ### Media Prioridad
 1. **Índices all-content**: Cambiar a anclas `#` (2 enlaces)
-2. **ai-notes-summary/sessions/**: Corregir ruta (1 enlace)
+2. **characters/campaigns/...**: Buscar y eliminar enlace mal formado (1 enlace)
 
-### Baja Prioridad (Requiere crear contenido o decisión)
-1. **Campañas sin ai-notes**: aun-sin-nombre, crematorio (3 enlaces)
-2. **campaigns/fatum/**: Decidir si crear campaña o redirigir (1 enlace)
-3. **characters/pensamientos/**: Crear índice (1 enlace)
-4. **campaigns/campaigns/**: Eliminar enlace duplicado (1 enlace)
+### Baja Prioridad (Puede ser cache)
+1. **crematorio...Session-1.md**: Ya corregido a formato Jekyll, verificar después de despliegue (1 enlace)
 
 ---
 
@@ -142,6 +125,12 @@ npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|g
 | 2026-01-09 | Corregido summary/summary/ duplicado | la-fuerza-oculta/index.md |
 | 2026-01-09 | Añadido frontmatter a Psique_y_Diana.md | Psique_y_Diana.md |
 | 2026-01-09 | Convertido enlace relativo en puno-gris.md | puno-gris.md |
+| 2026-01-09 | Creado index.md para crematorio-la-tranquilidad/ai-notes/ | ai-notes/index.md (nuevo) |
+| 2026-01-09 | Creado index.md para aun-sin-nombre/ai-notes/ | ai-notes/index.md (nuevo) |
+| 2026-01-09 | Creado index.md para characters/pensamientos/ | pensamientos/index.md (nuevo) |
+| 2026-01-09 | `/campaigns/fatum/` → `/groups/fatum/` | campaigns/index.md |
+| 2026-01-09 | `../../groups/ultracorps/` → `/groups/ultracorps/` | 6 archivos de personajes |
+| 2026-01-09 | Corregidos enlaces .md en crematorio-la-tranquilidad | sessions/index.md, index.md, ai-notes-summary/index.md |
 
 ---
 
@@ -180,6 +169,8 @@ find docs/campaigns/la-fuerza-oculta/manual-notes/ -name "*.md" | wc -l
 4. **Enlaces Relativos vs Absolutos**: Preferir `{{ site.baseurl }}/ruta/` para enlaces internos.
 
 5. **Notion Export**: Las carpetas exportadas de Notion contienen caracteres especiales que no funcionan en GitHub Pages.
+
+6. **Cache**: Algunos enlaces pueden seguir apareciendo como 404 temporalmente después de correcciones hasta que el cache se actualice.
 
 ---
 

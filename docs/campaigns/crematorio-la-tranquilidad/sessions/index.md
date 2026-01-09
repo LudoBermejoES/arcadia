@@ -81,7 +81,7 @@ Cada sesión incluye:
 
     <h4>🔗 Enlaces</h4>
     <ul>
-      <li><a href="../ai-notes/2025-10-25-Session-1.md">📝 Transcripción Completa</a></li>
+      <li><a href="{{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/">📝 Transcripción Completa</a></li>
       <li><a href="../ai-notes-summary/">📊 Resumen Analítico</a></li>
     </ul>
   </div>

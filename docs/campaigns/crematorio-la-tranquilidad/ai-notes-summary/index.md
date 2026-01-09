@@ -27,7 +27,7 @@ Esta sección contiene **resúmenes analíticos** de las sesiones de la mini-cam
 
 ### 📅 **Sesión 1: El Primer Bucle** (25 Octubre 2025)
 
-**[Transcripción completa →](../ai-notes/2025-10-25-Session-1.md)**
+**[Transcripción completa →]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)**
 
 #### Resumen Ejecutivo
 Tres empleados del Crematorio La Tranquilidad —Marcos Villar (recepcionista), Dolores Sánchez (preparadora mortuoria) y Renata Kovač (guardia de seguridad)— quedan atrapados en un bucle temporal durante el funeral del mafioso Federico Aguilar. El bucle se reinicia a las 00:33-00:34, pero los tres retienen memoria de cada iteración.
@@ -198,7 +198,7 @@ Aprender demasiado causa resets. Los protagonistas deben balancear ignorancia y 
 
 ### Documentación de Campaña
 - [← Volver a la Campaña Principal](../index.md)
-- [Ver Transcripción Sesión 1](../ai-notes/2025-10-25-Session-1.md)
+- [Ver Transcripción Sesión 1]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)
 - [Ver Sesiones Cronológicas](../sessions/)
 - [Consultar Plan de Campaña](../plan.md)
 

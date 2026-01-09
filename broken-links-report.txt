@@ -1,33 +1,19 @@
   [404] https://arcadia.ludobermejo.es/all-content/campaigns/
   [404] https://arcadia.ludobermejo.es/all-content/world-building/
-  [404] https://arcadia.ludobermejo.es/campaigns/aun-sin-nombre/ai-notes/
   [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
-  [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/
   [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md
-  [404] https://arcadia.ludobermejo.es/campaigns/fatum/
   [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/
   [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-  [404] https://arcadia.ludobermejo.es/characters/groups/ultracorps/
-  [404] https://arcadia.ludobermejo.es/characters/pensamientos/
-  [404] https://arcadia.ludobermejo.es/groups/La%20familia/
-  [404] https://arcadia.ludobermejo.es/groups/la-familia/El%20fara%C3%B3n.md
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/
   [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-mercurii/
 [404] https://arcadia.ludobermejo.es/all-content/campaigns/
 [404] https://arcadia.ludobermejo.es/all-content/world-building/
-[404] https://arcadia.ludobermejo.es/campaigns/aun-sin-nombre/ai-notes/
 [404] https://arcadia.ludobermejo.es/campaigns/campaigns/
-[404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/
 [404] https://arcadia.ludobermejo.es/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1.md
-[404] https://arcadia.ludobermejo.es/campaigns/fatum/
 [404] https://arcadia.ludobermejo.es/campaigns/la-fuerza-oculta/ai-notes-summary/sessions/
 [404] https://arcadia.ludobermejo.es/characters/campaigns/la-fuerza-oculta/ai-notes/
-[404] https://arcadia.ludobermejo.es/characters/groups/ultracorps/
-[404] https://arcadia.ludobermejo.es/characters/pensamientos/
-[404] https://arcadia.ludobermejo.es/groups/La%20familia/
-[404] https://arcadia.ludobermejo.es/groups/la-familia/El%20fara%C3%B3n.md
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/barrio-gotico/
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-iovis/
 [404] https://arcadia.ludobermejo.es/world-building/ambientacion/geography/distrito-martis/

@@ -110,7 +110,7 @@ permalink: /campaigns/crematorio-la-tranquilidad/
 ## 📖 Cronología de Aventuras
 
 ### 🕰️ **Primera Iteración: Descubrimiento del Bucle (25 Octubre 2025)**
-- **[Sesión 1](ai-notes/2025-10-25-Session-1.md)**: El Primer Bucle
+- **[Sesión 1]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)**: El Primer Bucle
   - Introducción a los tres empleados del crematorio
   - Funeral de Federico Aguilar se desarrolla normalmente
   - Aparición del Detective Luis Ochoa investigando
@@ -359,6 +359,6 @@ Los protagonistas tendrán nuevas oportunidades de:
 
 *Crematorio La Tranquilidad: Donde el tiempo es un círculo, la muerte es el principio, y tres almas atrapadas buscan romper el ciclo eterno.*
 
-**[🔍 Lee la Primera Sesión →](ai-notes/2025-10-25-Session-1.md)**
-**[📋 Consulta el Plan Completo →](plan.md)**
+**[🔍 Lee la Primera Sesión →]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/ai-notes/2025-10-25-Session-1/)**
+**[📋 Consulta el Plan Completo →]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/plan/)**
 **[👥 Conoce a los Protagonistas →]({{ site.baseurl }}/characters/gallery/#crematorio)**

@@ -555,7 +555,7 @@ Esta campaña ofrece una **experiencia concentrada e intensa** diferente a las c
 
 - [← Volver al Índice de Campañas](../../campaigns/)
 - [Ver Sesión 1](ai-notes/2025-10-25-Session-1.md)
-- [Galería de Personajes]({{ site.baseurl }}/characters/gallery.html)
+- [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 - [Cronología General de Arcadia]({{ site.baseurl }}/world-building/timeline/)
 
 ---

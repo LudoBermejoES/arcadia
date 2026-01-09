@@ -149,7 +149,7 @@ El bucle temporal le obliga a **revivir el mismo día repetidamente**, poniendo 
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
 - [Ver Dolores Sánchez](dolores-sanchez.md)
 - [Ver Renata Kovač](renata-kovac.md)
-- [Galería de Personajes]({{ site.baseurl }}/characters/gallery.html)
+- [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---
 

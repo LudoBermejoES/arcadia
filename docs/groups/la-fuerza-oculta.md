@@ -136,7 +136,7 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 **Sesión 40 - Isla Sal:**
 - Ataque mercenario coordinado durante fiesta en mansión de [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
 - Diana y Pantomima pierden temporalmente sus poderes por dardos supresores
-- [Cazacapas]({{ site.baseurl }}/organizations/cazacapas/) identificados: grupo paramilitar antimeta
+- [Cazacapas]({{ site.baseurl }}/groups/caza-capas/) identificados: grupo paramilitar antimeta
 - El equipo protege a sus compañeras vulnerables durante el combate
 
 ### **Crisis de Hotman (Diciembre 2025)**
@@ -145,7 +145,7 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - Mensaje holográfico: su padre lo repudia públicamente
 - [Eneiros]({{ site.baseurl }}/characters/details/eneiros/) crea collar de oro para bloquear comunicaciones del chip
 - Eneiros rechaza ser padrino de Hotman por motivos de seguridad
-- [El Cacharrero]({{ site.baseurl }}/characters/details/el-cacharrero/) extrae el chip en Metalurgia Rashid
+- [El Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/) extrae el chip en Metalurgia Rashid
 - Alianza fortalecida con [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/) para investigar "Padre Bestia"
 
 ### **Operación Rescate de Crías Bestiales (Diciembre 2025 - Enero 2026)**
@@ -221,7 +221,7 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 - **La Farándula**: Villanos teatrales del Siglo de Oro
 - **Fatum Corporation**: Amenaza corporativa multigeneracional
 - **Humanitas**: Partido político antimeta
-- **[Cazacapas]({{ site.baseurl }}/organizations/cazacapas/)**: Grupo paramilitar mercenario antimeta
+- **[Cazacapas]({{ site.baseurl }}/groups/caza-capas/)**: Grupo paramilitar mercenario antimeta
 - **Padre de Hotman**: Antagonista personal tras repudio público
 
 ---
@@ -267,7 +267,7 @@ La Fuerza Oculta ha completado exitosamente la Operación Desguace, rescatando a
 ### **Alianzas Recientes**
 - **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Alianza formal para investigar amenazas en el Barrio Gótico
 - **[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Apoyo tecnológico y refugio, aunque rechazó el patronazgo formal
-- **[El Cacharrero]({{ site.baseurl }}/characters/details/el-cacharrero/)**: Servicio de extracción del chip, posible contacto técnico futuro
+- **[El Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)**: Servicio de extracción del chip, posible contacto técnico futuro
 
 ---
 

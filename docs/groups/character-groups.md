@@ -155,13 +155,13 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 **Concepto**: Superhéroes establecidos y reconocidos
 
 **Miembros**:
-- [La Sombra / El Oscuro]({{ site.baseurl }}/characters/details/la-sombra-el-oscuro/)
+- [Sombrío]({{ site.baseurl }}/characters/details/sombrio/)
 - [Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/)
 - [Bailarina]({{ site.baseurl }}/characters/details/bailarina/)
 - [Neón]({{ site.baseurl }}/characters/details/neon/)
 - [Eneiros]({{ site.baseurl }}/characters/details/eneiros/)
 - [Serpiente]({{ site.baseurl }}/characters/details/serpiente/)
-- [Lucifer]({{ site.baseurl }}/characters/details/lucifer/)
+- [Lucifer]({{ site.baseurl }}/characters/details/lucifer-hero/)
 - [Anarquista]({{ site.baseurl }}/characters/details/anarquista/)
 
 ## Organizaciones Especializadas

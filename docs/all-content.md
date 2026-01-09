@@ -98,7 +98,7 @@ permalink: /all-content/
 ### **Villanos Icónicos**
 - [🎭 La Farándula]({{ site.baseurl }}/groups/la-farandula/) - Los villanos teatrales
 - [👑 La Emperatriz]({{ site.baseurl }}/characters/details/la-emperatriz/) - La tirana suprema
-- [🌑 La Sombra]({{ site.baseurl }}/characters/details/la-sombra/) - El terror nocturno
+- [🌑 Sombrío]({{ site.baseurl }}/characters/details/sombrio/) - El terror nocturno
 - [⚡ Saltamontes]({{ site.baseurl }}/characters/details/saltamontes/) - El ladrón imposible
 - [🤖 Metalo]({{ site.baseurl }}/characters/details/metalo/) - El mercenario gallego
 - [🧠 Mentallo]({{ site.baseurl }}/characters/details/mentallo/) - El telepático corrupto
@@ -151,19 +151,19 @@ permalink: /all-content/
 - **[Geografía de Arcadia]({{ site.baseurl }}/world-building/geography/)** - La isla volcánica con 12 distritos únicos
 
 ### **📚 Historia Cronológica**
-- **[Visión General]({{ site.baseurl }}/world-building/history/history-overview/)**
-- **[01 - Primeros Pasos]({{ site.baseurl }}/world-building/history/01-arcadia-first-steps/)** - Los orígenes
-- **[02 - De España a Arcadia]({{ site.baseurl }}/world-building/history/02-spain-to-arcadia-21-years/)** - 21 años de transición  
-- **[03 - El Despertar]({{ site.baseurl }}/world-building/history/03-arcadia-awakening/)** - El nacimiento metahumano
-- **[04 - Últimos 20 Años]({{ site.baseurl }}/world-building/history/04-last-twenty-years/)** - Era moderna
-- **[05 - Edad Dorada]({{ site.baseurl }}/world-building/history/05-golden-age/)** - El apogeo heroico
-- **[06 - Llega la Madurez]({{ site.baseurl }}/world-building/history/06-maturity-arrives/)** - Tiempos complejos
+- **[Visión General]({{ site.baseurl }}/world-building/history-overview/)**
+- **[01 - Primeros Pasos]({{ site.baseurl }}/world-building/01-arcadia-first-steps/)** - Los orígenes
+- **[02 - De España a Arcadia]({{ site.baseurl }}/world-building/02-spain-to-arcadia-21-years/)** - 21 años de transición
+- **[03 - El Despertar]({{ site.baseurl }}/world-building/03-arcadia-awakening/)** - El nacimiento metahumano
+- **[04 - Últimos 20 Años]({{ site.baseurl }}/world-building/07-last-twenty-years/)** - Era moderna
+- **[05 - Edad Dorada]({{ site.baseurl }}/world-building/05-golden-age/)** - El apogeo heroico
+- **[06 - Llega la Madurez]({{ site.baseurl }}/world-building/06-maturity-arrives/)** - Tiempos complejos
 
 ### **🏛️ Sociedad**
-- **[Sociedad Arcadiana]({{ site.baseurl }}/world-building/society/arcadia-society/)** - Estructura social metahumana
+- **[Sociedad Arcadiana]({{ site.baseurl }}/world-building/arcadia-society/)** - Estructura social metahumana
 
 ### **💰 Economía**
-- **[Economía de Arcadia]({{ site.baseurl }}/world-building/economy/arcadia-economy/)** - Sistema económico único
+- **[Economía de Arcadia]({{ site.baseurl }}/world-building/arcadia-economy/)** - Sistema económico único
 
 ---
 
@@ -197,7 +197,7 @@ permalink: /all-content/
 - **[Personajes Más Importantes](characters/character-list.md#protagonistas)**
 - **[Sesiones Más Épicas](campaigns/)**  
 - **[Worldbuilding Esencial](world-building/)**
-- **[Cronología Completa]({{ site.baseurl }}/world-building/history/history-overview/)**
+- **[Cronología Completa]({{ site.baseurl }}/world-building/history-overview/)**
 
 ### **📈 Por Popularidad**
 - **Más Referenciados**: El Faraón, Garra, La Farándula
@@ -220,7 +220,7 @@ Todos los enlaces están optimizados para navegación móvil. El sitio es comple
 - **Campañas**: [Familia]({{ site.baseurl }}/campaigns/la-familia/) | [Génesis]({{ site.baseurl }}/campaigns/genesis/) | [Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 - **Personajes**: [Lista Completa]({{ site.baseurl }}/characters/character-list/)
 - **Mundo**: [Worldbuilding]({{ site.baseurl }}/world-building/ambientacion/)
-- **Historia**: [Cronología]({{ site.baseurl }}/world-building/history/history-overview/)
+- **Historia**: [Cronología]({{ site.baseurl }}/world-building/history-overview/)
 
 ---
 

@@ -220,7 +220,7 @@ Los 13 internos están ordenados del más joven al mayor:
 - [← Volver a la Campaña](../index.md)
 - [Ver Sesiones](../sessions/)
 - [Ver Notas AI](../ai-notes-summary/)
-- [Galería de Personajes]({{ site.baseurl }}/characters/gallery.html)
+- [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---
 

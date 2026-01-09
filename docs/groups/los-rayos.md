@@ -7,7 +7,7 @@ permalink: /groups/los-rayos/
 # Los Rayos
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/los-rayos.png" alt="Los Rayos" />
+  <img src="{{ site.baseurl }}/assets/img/characters/los_rayos.png" alt="Los Rayos" />
 </div>
 
 

@@ -41,7 +41,7 @@ permalink: /characters/character-list/
 ## Metahumanos Héroes y Vigilantes
 
 ### Los Clásicos
-- [La Sombra / El Oscuro]({{ site.baseurl }}/characters/details/la-sombra/)
+- [Sombrío]({{ site.baseurl }}/characters/details/sombrio/)
 - [Rayo Ígneo]({{ site.baseurl }}/characters/details/rayo-igneo/)
 - [Bailarina]({{ site.baseurl }}/characters/details/bailarina/)
 - [Neón]({{ site.baseurl }}/characters/details/neon/)

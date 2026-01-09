@@ -178,7 +178,7 @@ El maquillaje mortuorio es un **arte que transforma lo horrible en paz**. Dolore
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
 - [Ver Marcos Villar](marcos-villar.md)
 - [Ver Renata Kovač](renata-kovac.md)
-- [Galería de Personajes]({{ site.baseurl }}/characters/gallery.html)
+- [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---
 

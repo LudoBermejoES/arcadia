@@ -8,7 +8,7 @@ slug: jruschov
 # Jruschov
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/jruschov.png" alt="Jruschov" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Jruschov.png" alt="Jruschov" />
 </div>
 
 

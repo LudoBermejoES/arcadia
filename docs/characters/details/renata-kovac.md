@@ -214,7 +214,7 @@ Ex-militar expulsada por mala conducta, Renata lucha entre:
 - [← Volver a la campaña Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)
 - [Ver Marcos Villar](marcos-villar.md)
 - [Ver Dolores Sánchez](dolores-sanchez.md)
-- [Galería de Personajes]({{ site.baseurl }}/characters/gallery.html)
+- [Galería de Personajes]({{ site.baseurl }}/characters/gallery/)
 
 ---
 

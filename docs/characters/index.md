@@ -157,7 +157,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Ambición**: Dominación total de Arcadia
 - **Metodología**: Manipulación política y fuerza bruta
 
-#### [🌑 **La Sombra**]({{ site.baseurl }}/characters/details/la-sombra/)
+#### [🌑 **Sombrío**]({{ site.baseurl }}/characters/details/sombrio/)
 **El Terror Nocturno**
 - **Poderes**: Manipulación de oscuridad, intangibilidad selectiva
 - **Terrorismo**: Ataques psicológicos devastadores

@@ -19,7 +19,7 @@ Las Bestias constituyen una organización criminal única en Arcadia, compuesta 
 El Viejo, originalmente un biólogo con conocimientos avanzados, desarrolló técnicas experimentales para crear entidades bestiales artificiales. Su transformación de científico a líder criminal marca el inicio de Las Bestias como organización, estableciendo un modelo único donde la ciencia se convierte en herramienta de control criminal.
 
 ### Conexión con Estocada
-La organización tiene una conexión histórica significativa con [Estocada](../characters/details/estocada.md), ex-miembro temporal de "La Familia". Estocada, pese a no ser una Bestia artificial, se unió al grupo y eventualmente formó una familia con cuatro compañeras Bestia, generando descendencia que más tarde formaría [La Cacería Salvaje](la-caceria-salvaje.md).
+La organización tiene una conexión histórica significativa con [Estocada](../characters/details/estocada.md), ex-miembro temporal de "La Familia". Estocada, pese a no ser una Bestia artificial, se unió al grupo y eventualmente formó una familia con cuatro compañeras Bestia, generando descendencia que más tarde formaría [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/).
 
 ### Conflicto Generacional
 La desaparición de Estocada mientras cazaba a los Cazadores (enemigos de Las Bestias) y la posterior independencia de sus hijos ha creado una tensión única: Las Bestias enfrentan ahora a la descendencia heroica de uno de sus antiguos miembros.

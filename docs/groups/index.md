@@ -13,7 +13,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ## 🦸‍♂️ **Equipos Heroicos Principales**
 
-### **🏛️ [La Familia](La%20familia/La%20Familia.md) - Los Fundadores Originales**
+### **🏛️ [La Familia]({{ site.baseurl }}/groups/la-familia/) - Los Fundadores Originales**
 **(2010-2015) | 6 Miembros (5 Principales + 1 Temporal)**
 
 #### **Composición Histórica:**
@@ -443,7 +443,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🐱 [La Cacería Salvaje](la-caceria-salvaje.md)**
+### **🐱 [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**
 **Los Vigilantes Felinos del Barrio Gótico**
 
 #### **Composición Familiar:**
@@ -542,10 +542,10 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ## 🔍 **Navegación por Tipo**
 
 ### **🦸‍♂️ Organizaciones Heroicas**
-- **[🏛️ La Familia](La%20familia/La%20Familia.md)** - Los fundadores legendarios
-- **[⚡ Génesis](../campaigns/genesis/index.md)** - La generación puente
-- **[🔮 La Fuerza Oculta](../campaigns/la-fuerza-oculta/index.md)** - Los herederos actuales
-- **[🐱 La Cacería Salvaje](la-caceria-salvaje.md)** - Los vigilantes felinos del Barrio Gótico
+- **[🏛️ La Familia]({{ site.baseurl }}/groups/la-familia/)** - Los fundadores legendarios
+- **[⚡ Génesis]({{ site.baseurl }}/campaigns/genesis/)** - La generación puente
+- **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Los herederos actuales
+- **[🐱 La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)** - Los vigilantes felinos del Barrio Gótico
 - **[🛡️ Veteranos](los-defensores.md)** - Equipos de apoyo
 
 ### **😈 Organizaciones Villanas**

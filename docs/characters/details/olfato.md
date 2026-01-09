@@ -16,7 +16,7 @@ slug: olfato
 **Nombre**: Olfato  
 **Edad**: 16 años  
 **Género**: Masculino  
-**Grupo**: [La Cacería Salvaje](la-caceria-salvaje.md)  
+**Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
 **Familia**: Hijo de [Estocada](estocada.md)  
 **Especialización**: Percepción Olfativa  
 **Rol**: Rastreador Principal

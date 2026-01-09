@@ -320,7 +320,7 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - [Sesión 38](../../campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02.md)
 - [Sesión 40](../../campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16.md) - Isla Sal
 - [AI Notes 2025-11-16](../../campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes.md)
-- [Fatum Campaign](../../groups/fatum/fatum.md)
+- [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales
 

@@ -24,7 +24,7 @@ Bellona actúa como la principal fuerza de combate de Fatum y se ve a sí misma 
 - **Liderazgo**: Ha asumido roles directivos tras la muerte de Janus
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../groups/fatum/fatum.md)
+- [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ## Detalles Adicionales
 Bellona mantiene una relación especial con Mulciber, quien forja sus armas personalizadas. Esta colaboración es crucial para maximizar su efectividad en combate, ya que las armas de Mulciber complementan perfectamente sus habilidades físicas.

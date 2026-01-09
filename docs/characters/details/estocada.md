@@ -39,7 +39,7 @@ Eventualmente, Estocada tomó la decisión de marcharse de La Familia para forma
 Estocada formó una familia única con cuatro compañeras Bestia, teniendo múltiples cachorros (5+3+3 según registros) que escaparon para buscar a su padre cuando fue capturado. Estos hijos no tienen el vínculo típico de las Bestias con su creador, y desarrollaron genes metahumanos al llegar a la pubertad como había sido predicho.
 
 ### La Cacería Salvaje
-Cinco de sus hijos han formado el grupo heroico conocido como **[La Cacería Salvaje](la-caceria-salvaje.md)**, operando como vigilantes especializados en el Barrio Gótico:
+Cinco de sus hijos han formado el grupo heroico conocido como **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**, operando como vigilantes especializados en el Barrio Gótico:
 
 - **[Vista](vista.md)** - 18 años (Varón) - Líder, especialista en percepción visual
 - **[Tacto](tacto.md)** - 18 años (Hembra) - Co-líder, especialista en percepción táctil  

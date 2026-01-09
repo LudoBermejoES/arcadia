@@ -16,7 +16,7 @@ slug: tacto
 **Nombre**: Tacto  
 **Edad**: 18 años  
 **Género**: Femenino  
-**Grupo**: [La Cacería Salvaje](la-caceria-salvaje.md)  
+**Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
 **Familia**: Hija de [Estocada](estocada.md)  
 **Especialización**: Percepción Táctil  
 **Rol**: Especialista en Reconocimiento Físico y Co-líder

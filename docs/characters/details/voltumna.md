@@ -25,7 +25,7 @@ Voltumna actúa como el especialista técnico y táctico de Fatum, siendo especi
 - **Operaciones urbanas**: Especialmente efectivo en entornos con infraestructura eléctrica
 
 ## Apariciones Documentadas
-- [Fatum Campaign](../../groups/fatum/fatum.md)
+- [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ## Detalles Adicionales
 La habilidad electroquinética de Voltumna es particularmente valiosa en el mundo moderno, donde casi toda la infraestructura depende de sistemas eléctricos. Puede desactivar sistemas de seguridad, causar apagones estratégicos, o sobrecargar equipos electrónicos para facilitar las operaciones de Fatum.

@@ -16,7 +16,7 @@ slug: gusto
 **Nombre**: Gusto  
 **Edad**: 14 años  
 **Género**: Masculino  
-**Grupo**: [La Cacería Salvaje](la-caceria-salvaje.md)  
+**Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
 **Familia**: Hijo de [Estocada](estocada.md)  
 **Especialización**: Percepción Gustativa  
 **Rol**: Detector de Sustancias y Analista Químico

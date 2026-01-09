@@ -1,199 +1,281 @@
 # Guía para Detectar y Corregir Enlaces Rotos
 
-Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage y las estrategias para corregirlos.
+Este documento describe cómo encontrar enlaces rotos en el proyecto ArcadiaPage, categoriza los tipos de errores comunes, y proporciona estrategias para corregirlos.
+
+**Última actualización**: 9 Enero 2026
+**Enlaces rotos únicos**: 144 (tras depurar duplicados)
 
 ---
 
-## 🔍 Cómo Detectar Enlaces Rotos
+## Metodología de Detección
 
-### Herramienta Recomendada: `linkinator`
+### Herramienta Principal: `linkinator`
 
 ```bash
 # Verificar enlaces en el sitio desplegado
 npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|google|github.com" --verbosity error
 
-# Guardar resultados en archivo
-npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|google|github.com" --verbosity error 2>&1 | sort -u > broken-links-report.txt
+# Guardar resultados únicos en archivo
+npx linkinator https://arcadia.ludobermejo.es --recurse --skip "youtube|gemini|google|github.com" --verbosity error 2>&1 | grep "\[404\]" | sort -u > broken-links-report.txt
+
+# Contar enlaces rotos únicos
+wc -l broken-links-report.txt
 ```
 
-**Ventajas:**
-- No requiere instalación permanente (`npx` lo descarga bajo demanda)
-- Analiza el sitio compilado (HTML final, no markdown)
-- Detecta 404s reales, imágenes faltantes, enlaces mal formados
-
-### Interpretación de Resultados
-
-| Código | Significado |
-|--------|-------------|
-| `[404]` | Página no encontrada - enlace roto |
-| `[0]` | Error de conexión/timeout - puede ser temporal o problema de DNS |
-| `[503]` | Servidor no disponible temporalmente |
+**Interpretación de códigos:**
+| Código | Significado | Acción |
+|--------|-------------|--------|
+| `[404]` | Página no encontrada | Corregir enlace o crear archivo |
+| `[0]` | Error de conexión | Verificar si es temporal o archivo real |
+| `[503]` | Servidor no disponible | Reintentar más tarde |
 
 ---
 
-## 🔎 Cómo Buscar si un Archivo Existe en Otra Ubicación
+## Categorías de Enlaces Rotos (Enero 2026)
 
-### 1. Buscar por nombre (case-insensitive)
+### 1. IMÁGENES FALTANTES (5 archivos)
 
+Imágenes referenciadas pero que no existen en `/docs/assets/img/characters/`:
+
+| Imagen | Estado | Acción Recomendada |
+|--------|--------|-------------------|
+| `Elena_Ortiz.png` | No existe | Crear imagen o eliminar referencia |
+| `Sofia_Vega.png` | No existe | Crear imagen o eliminar referencia |
+| `Marina_Volkova.png` | No existe | Crear imagen o eliminar referencia |
+| `generic.png` | No existe | Crear placeholder o eliminar referencia |
+| `natacha.jpg` | No existe | Verificar si existe como .png |
+
+**Buscar dónde se usan:**
 ```bash
-# En Windows/Git Bash
-ls -la docs/assets/img/characters/ | grep -i nombrearchivo
-
-# Ejemplo: buscar "bailarina" ignorando mayúsculas
-ls -la docs/assets/img/characters/ | grep -i bailarina
-```
-
-### 2. Buscar con Glob patterns
-
-```bash
-# Buscar en todo el proyecto
-# Desde Claude Code usar: Glob con pattern "docs/**/*nombrearchivo*"
-```
-
-### 3. Verificar permalink en archivos markdown
-
-```bash
-# Ver las primeras líneas del archivo para encontrar el permalink
-head -10 docs/characters/details/nombre-archivo.md
+grep -rn "Elena_Ortiz.png\|Sofia_Vega.png\|Marina_Volkova.png\|generic.png\|natacha.jpg" docs/
 ```
 
 ---
 
-## �� Tipos Comunes de Enlaces Rotos y Soluciones
+### 2. ENLACES RELATIVOS MAL FORMADOS (Muchos)
 
-### 1. **Case Sensitivity en Imágenes**
+Enlaces que usan rutas relativas `.md` en lugar de permalinks:
 
-GitHub Pages (Linux) distingue mayúsculas/minúsculas.
+| Patrón Incorrecto | Corrección |
+|-------------------|------------|
+| `la-caceria-salvaje.md` | `/groups/la-caceria-salvaje/` |
+| `fatum.md` | `/groups/fatum/` |
+| `La Familia.md` | `/groups/la-familia/` |
+| `session-XX.md` | Usar permalink de la sesión |
 
-| URL Rota | Archivo Real | Solución |
-|----------|--------------|----------|
-| `jruschov.png` | `Jruschov.png` | Corregir mayúscula en referencia |
-| `los-rayos.png` | `los_rayos.png` | Cambiar guión por guión bajo |
+**Problema**: Los enlaces relativos como `[texto](archivo.md)` no funcionan en Jekyll porque los permalinks transforman las URLs.
 
-### 2. **Personajes con Slug Diferente**
+**Buscar este patrón:**
+```bash
+grep -rn "](.*\.md)" docs/ | grep -v "^Binary"
+```
 
-| URL Rota | Archivo/Permalink Real | Solución |
-|----------|------------------------|----------|
-| `/characters/details/el-cacharrero/` | `/characters/details/cacharrero/` | Quitar "el-" |
-| `/characters/details/la-sombra/` | `/characters/details/la-nueva-sombra/` | Añadir "-nueva" |
-| `/characters/details/lucifer/` | `/characters/details/lucifer-hero/` | Añadir "-hero" |
+---
 
-### 3. **Grupos en Ruta Incorrecta**
+### 3. SESIONES CON FORMATO INCORRECTO (~40 enlaces)
 
-| URL Rota | Corrección |
-|----------|------------|
-| `/organizations/cazacapas/` | `/groups/caza-capas/` |
-| `/groups/telarana/` | `/characters/details/telarana/` (es personaje, no grupo) |
+Las sesiones de La Fuerza Oculta tienen fechas en sus permalinks pero se enlazan sin ellas:
 
-### 4. **World-Building sin Subcarpetas en Permalink**
-
-Los archivos están en subcarpetas pero los permalinks no las incluyen:
-
-| URL Rota | Permalink Correcto |
-|----------|-------------------|
-| `/world-building/history/history-overview/` | `/world-building/history-overview/` |
-| `/world-building/geography/distrito-clasico/` | `/world-building/distrito-clasico/` |
-| `/world-building/economy/arcadia-economy/` | `/world-building/arcadia-economy/` |
-
-### 5. **Extensiones Incorrectas**
-
-| URL Rota | Corrección |
-|----------|------------|
-| `/characters/gallery.html` | `/characters/gallery/` |
-
-### 6. **Sesiones sin Fecha**
-
-En `all-content.md` los enlaces usan `/session-XX/` pero los archivos tienen fecha:
-
-| URL Rota | Corrección |
-|----------|------------|
+| URL Incorrecta | Posible Permalink Real |
+|----------------|----------------------|
 | `/manual-notes/session-01/` | `/manual-notes/session-01-2024-03-24/` |
+| `/manual-notes/session-25/` | `/manual-notes/session-25-2024-XX-XX/` |
+
+**Verificar permalinks reales:**
+```bash
+grep -h "permalink:" docs/campaigns/la-fuerza-oculta/manual-notes/*.md | sort
+```
 
 ---
 
-## 🛠️ Proceso de Corrección
+### 4. RUTAS DE PERSONAJES ANIDADAS INCORRECTAS (~15 enlaces)
 
-### Paso 1: Identificar el archivo origen del enlace roto
+Rutas que incluyen subdirectorios inexistentes:
 
-```bash
-# Buscar dónde se usa el enlace roto
-grep -r "texto-del-enlace-roto" docs/
+| URL Incorrecta | Corrección |
+|----------------|------------|
+| `/characters/details/estocada/la-caceria-salvaje.md` | `/characters/details/estocada/` |
+| `/characters/details/vista/la-caceria-salvaje.md` | `/characters/details/vista/` |
+| `/characters/details/caos/pantomima/` | `/characters/details/pantomima/` |
+| `/characters/details/sombrio/caos/` | `/characters/details/caos/` |
+| `/characters/details/pensamientos/diana/` | Verificar estructura |
+| `/characters/pensamientos/` | No existe esta sección |
+
+**Problema**: Se están usando rutas anidadas que no existen en la estructura del proyecto.
+
+---
+
+### 5. GRUPOS/ORGANIZACIONES FALTANTES (~6 enlaces)
+
+| URL | Estado | Acción |
+|-----|--------|--------|
+| `/groups/humanitas/` | No existe | Crear archivo o quitar enlace |
+| `/groups/telarana/` | No existe | Verificar si es `/characters/details/telarana/` |
+| `/characters/groups/ultracorps/` | Ruta incorrecta | Debe ser `/groups/ultracorps/` |
+| `/characters/groups/fatum/` | Ruta incorrecta | Debe ser `/groups/fatum/` |
+| `/campaigns/fatum/` | No existe | Verificar si hay contenido |
+
+---
+
+### 6. WORLD-BUILDING CON RUTAS INCORRECTAS (~12 enlaces)
+
+| URL Incorrecta | Verificar Si Existe |
+|----------------|---------------------|
+| `/world-building/04-metahumanidad-desatada/` | `/world-building/arcadia-awakening/` |
+| `/world-building/07-last-twenty-years/` | `/world-building/last-twenty-years/` |
+| `/world-building/geography/distrito-solis/` | No existe - distrito por crear |
+| `/world-building/geography/distrito-lunae/` | No existe - distrito por crear |
+| `/world-building/geography/distrito-clasico/` | Verificar permalink real |
+| `/world-building/society/arcadia-society/` | `/world-building/arcadia-society/` |
+| `/world-building/ambientacion.md` | Usar `/world-building/ambientacion/` |
+| `/world-building/ambientacion/geography/...` | Rutas anidadas inexistentes |
+
+---
+
+### 7. ÍNDICES Y RESÚMENES FALTANTES (~8 enlaces)
+
+| URL | Estado |
+|-----|--------|
+| `/campaigns/la-familia/summary/` | No existe |
+| `/campaigns/la-fuerza-oculta/summary/` | No existe |
+| `/campaigns/la-fuerza-oculta/themes/` | No existe |
+| `/all-content/campaigns/` | Ruta incorrecta |
+| `/all-content/world-building/` | Ruta incorrecta |
+| `/campaigns/campaigns/` | Ruta duplicada |
+
+---
+
+### 8. CAPTURAS DE PANTALLA NO DESPLEGADAS (~25 imágenes)
+
+Las capturas están en carpetas con nombres largos tipo Notion que no se despliegan correctamente:
+
+```
+/campaigns/la-fuerza-oculta/manual-notes/PARTIDA SUPERHÉROES XX .../Captura_de_pantalla_....png
 ```
 
-### Paso 2: Verificar si el destino existe con otro nombre
+**Problema**: Estas carpetas con caracteres especiales y espacios pueden no desplegarse correctamente en GitHub Pages.
+
+**Solución**: Mover imágenes a `/docs/assets/img/sessions/` con nombres normalizados.
+
+---
+
+### 9. PERSONAJES ESPECÍFICOS FALTANTES (~5 enlaces)
+
+| URL | Acción |
+|-----|--------|
+| `/characters/details/humanitas/` | Humanitas es organización, no personaje |
+| `/characters/details/lucifer-entidad/` | Verificar si existe como otro nombre |
+| `/characters/details/las-monjas-del-albergue/` | Crear ficha o quitar enlace |
+| `/characters/details/julian/` | Verificar nombre correcto |
+| `/characters/details/dr-Hotman/` | Case-sensitivity: `/characters/details/dr-hotman/` |
+
+---
+
+## Proceso de Corrección Paso a Paso
+
+### Paso 1: Identificar el archivo origen
+
+```bash
+# Buscar dónde se usa un enlace roto específico
+grep -rn "texto-del-enlace" docs/
+```
+
+### Paso 2: Verificar si el destino existe
 
 ```bash
 # Buscar archivos similares
-ls -la docs/characters/details/ | grep -i parte-del-nombre
-ls -la docs/groups/ | grep -i parte-del-nombre
-ls -la docs/assets/img/characters/ | grep -i parte-del-nombre
+ls -la docs/characters/details/ | grep -i "nombre"
+ls -la docs/groups/ | grep -i "nombre"
+
+# Ver el permalink real de un archivo
+head -10 docs/ruta/archivo.md
 ```
 
-### Paso 3: Verificar el permalink real
+### Paso 3: Determinar la corrección
+
+1. **Si el archivo existe con otro nombre**: Actualizar el enlace
+2. **Si el archivo no existe pero debería**: Crear el archivo
+3. **Si el enlace es redundante**: Eliminar el enlace
+
+### Paso 4: Aplicar corrección
 
 ```bash
-head -10 docs/ruta/al/archivo.md
+# Usando Claude Code Edit tool o sed
+# Ejemplo de corrección masiva:
+grep -rl "texto-viejo" docs/ | xargs sed -i 's|texto-viejo|texto-nuevo|g'
 ```
 
-### Paso 4: Corregir el enlace en el archivo origen
+---
 
-Editar el archivo markdown para usar la URL correcta.
+## Priorización de Correcciones
+
+### Alta Prioridad (Afectan navegación principal)
+1. Enlaces en `index.md` de campañas
+2. Enlaces en `character-list.md`
+3. Enlaces en `all-content.md`
+4. Enlaces entre personajes relacionados
+
+### Media Prioridad (Afectan contenido secundario)
+1. Enlaces en fichas de personajes
+2. Enlaces en sesiones individuales
+3. Enlaces de imágenes
+
+### Baja Prioridad (Requieren creación de contenido)
+1. Distritos no documentados (Solis, Lunae)
+2. Grupos sin ficha propia (Humanitas)
+3. Resúmenes de campaña no creados
 
 ---
 
-## 📊 Análisis Enero 2026
+## Correcciones Ya Aplicadas (Enero 2026)
 
-### Archivos que EXISTEN pero con ruta/nombre diferente:
-
-| Categoría | Cantidad | Acción |
-|-----------|----------|--------|
-| Imágenes case-sensitive | 2 | Corregir mayúsculas en referencias |
-| Personajes slug diferente | 3 | Actualizar enlaces |
-| Grupos ruta incorrecta | 2 | Cambiar organizations→groups o groups→characters |
-| World-building sin subcarpeta | ~10 | Quitar subcarpeta del permalink en enlaces |
-| Galería extensión | 5 | Cambiar .html por / |
-
-### Archivos que NO EXISTEN (requieren creación o eliminar enlace):
-
-| Tipo | Ejemplos |
-|------|----------|
-| Imágenes | `Elena_Ortiz.png`, `Sofia_Vega.png`, `generic.png` |
-| Grupos | `humanitas.md` |
-| Distritos | `distrito-solis.md`, `distrito-lunae.md` |
-
-### Errores [0] que son falsos positivos:
-
-Los siguientes archivos existen y tienen permalinks correctos, pero linkinator reportó error de conexión:
-- `/characters/details/ana-flores/`
-- `/characters/details/el-golem/`
-- `/characters/details/el-guardian/`
-- `/characters/details/natacha/`
-- `/characters/details/yeng/`
-- Y otros ~10 más
+| Fecha | Corrección | Archivos Afectados |
+|-------|------------|-------------------|
+| 2026-01-09 | `/organizations/cazacapas/` → `/groups/caza-capas/` | la-fuerza-oculta.md |
+| 2026-01-09 | `/characters/details/el-cacharrero/` → `/characters/details/cacharrero/` | la-fuerza-oculta.md |
+| 2026-01-09 | `/characters/gallery.html` → `/characters/gallery/` | 5 archivos |
+| 2026-01-09 | Enlaces world-building sin subcarpetas | all-content.md |
+| 2026-01-09 | `jruschov.png` → `Jruschov.png` | jruschov.md |
+| 2026-01-09 | `los-rayos.png` → `los_rayos.png` | los-rayos.md |
+| 2026-01-09 | `/characters/details/la-sombra/` → `/characters/details/sombrio/` | 4 archivos |
+| 2026-01-09 | `/characters/details/lucifer/` → `/characters/details/lucifer-hero/` | character-groups.md |
 
 ---
 
-## 🔄 Mantenimiento Preventivo
-
-1. **Antes de crear enlaces**: Verificar que el permalink del destino coincida
-2. **Al renombrar archivos**: Buscar y actualizar todas las referencias
-3. **Ejecutar linkinator**: Periódicamente después de cambios grandes
-4. **Case sensitivity**: Siempre verificar mayúsculas en nombres de imagen
-
----
-
-## 📝 Comandos Útiles
+## Comandos Útiles
 
 ```bash
-# Contar enlaces rotos únicos
-cat broken-links-report.txt | grep "\[404\]" | sort -u | wc -l
-
-# Buscar todas las referencias a un enlace específico
-grep -rn "texto-buscar" docs/
-
-# Listar todos los permalinks de personajes
+# Ver todos los permalinks de personajes
 grep -h "permalink:" docs/characters/details/*.md | sort
+
+# Ver todos los permalinks de grupos
+grep -h "permalink:" docs/groups/*.md | sort
 
 # Verificar imágenes existentes
 ls docs/assets/img/characters/ | sort
+
+# Buscar referencias a un texto específico
+grep -rn "texto" docs/ --include="*.md"
+
+# Contar archivos de personajes
+find docs/characters/details/ -name "*.md" | wc -l
+
+# Ver estructura de carpetas
+find docs/ -type d | head -50
 ```
+
+---
+
+## Notas Importantes
+
+1. **Jekyll Permalinks**: Los archivos `.md` tienen permalinks definidos en el frontmatter que determinan su URL final. No asumir que la ruta del archivo = URL.
+
+2. **Case Sensitivity**: GitHub Pages (Linux) distingue mayúsculas de minúsculas. `Archivo.png` ≠ `archivo.png`.
+
+3. **Caracteres Especiales**: Evitar espacios y caracteres especiales en nombres de archivo. Usar guiones o guiones bajos.
+
+4. **Enlaces Relativos vs Absolutos**: Preferir `{{ site.baseurl }}/ruta/` para enlaces internos en lugar de rutas relativas `.md`.
+
+---
+
+*Documento mantenido por Claude Code para el proyecto ArcadiaPage*

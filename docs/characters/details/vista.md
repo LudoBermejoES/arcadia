@@ -16,7 +16,7 @@ slug: vista
 **Nombre**: Vista  
 **Edad**: 18 años  
 **Género**: Masculino  
-**Grupo**: [La Cacería Salvaje](la-caceria-salvaje.md)  
+**Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
 **Familia**: Hijo de [Estocada](estocada.md)  
 **Especialización**: Percepción Visual  
 **Rol**: Líder del grupo

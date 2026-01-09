@@ -16,7 +16,7 @@ slug: oido
 **Nombre**: Oído  
 **Edad**: 16 años  
 **Género**: Femenino  
-**Grupo**: [La Cacería Salvaje](la-caceria-salvaje.md)  
+**Grupo**: [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)  
 **Familia**: Hija de [Estocada](estocada.md)  
 **Especialización**: Percepción Auditiva  
 **Rol**: Especialista en Reconocimiento Sónico

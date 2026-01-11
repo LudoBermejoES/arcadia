@@ -162,6 +162,53 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### ❄️ **Enero 2026 - Cruzando al Otro Lado**
+
+#### [📈 Análisis 11/01/2026 - El Upside Down]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+**"Atravesando el Charco"**
+
+**🎯 Temas Centrales Identificados:**
+- **Exploración Interdimensional**: Cruce hacia el "Upside Down" a través del charco
+- **Combate Táctico**: Victoria definitiva contra múltiples avispas gigantes
+- **Trabajo en Equipo**: Coordinación efectiva de poderes en combate
+- **Nuevo Territorio**: Entorno desconocido lleno de óxido, polvo e insectos
+
+**👥 Desarrollo de Personajes:**
+- **Tiritas**: Crece físicamente al absorber daño, se vuelve "más tocho"
+- **Kira**: Ataques devastadores, decapita avispas con rayos
+- **Sergei**: Usa brazo separado para sigilo, ataca con espadas corporales
+- **Elena**: Crea ilusión de pájaro gigante para distraer enemigos
+
+**🔮 Arcos Narrativos Avanzados:**
+- Combates exitosos contra avispas gigantes (varias derrotadas)
+- Sergei usa su poder para cerrar puertas sigilosamente
+- El grupo cruza el charco brillante hacia otra dimensión
+- Nuevo entorno: sin cobertura telefónica, tiempo normal, lleno de óxido
+- Descubrimiento de arcade, cajas, contenedores de gas
+- Escaleras selladas y múltiples puertas por explorar
+- Combate final contra avispa en el "Upside Down"
+
+**⚡ Momentos Clave:**
+- Elena saca Joker: +2 ataque y daño
+- Elena crea ilusión de pájaro gigante que confunde a las avispas
+- Sergei mata avispa con 11 de daño
+- Kira herida pero se desaturde con espíritu
+- Kira decapita avispa causando explosión
+- Tiritas absorbe aguijonazo y crece de tamaño
+- El grupo salta al charco brillante uno por uno
+- Aparecen en zona oxidada con insectos y arañas
+- Arcade se enciende brevemente con poder de Kira (no hay electricidad)
+- Tiritas agarra avispa por las antenas y la mata con dado explosivo
+
+**🧠 Dinámicas Sociales:**
+- Kira impulsiva quiere pelear, el grupo prefiere investigar
+- Elena anima al grupo desde la retaguardia
+- Tiritas lidera los asaltos frontales
+- Sergei usa habilidades de sigilo y flanqueo
+- Humor grupal sobre la "avispafobia" de PJ
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

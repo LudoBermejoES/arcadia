@@ -11,7 +11,28 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ---
 
-## 📅 Cronología de Sesiones - 2025
+## 📅 Cronología de Sesiones
+
+### ❄️ **Enero 2026 - Cruzando al Otro Lado**
+
+#### [📝 Sesión 11 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+
+**"El Upside Down"**
+
+- 🐝 **Combates contra Avispas**: Victoria definitiva contra múltiples avispas gigantes
+- 🦅 **Ilusión de Pájaro**: Elena crea pájaro gigante para distraer enemigos
+- ⚔️ **Sergei Letal**: Mata avispa con 11 de daño, usa brazo separado para sigilo
+- ⚡ **Kira Devastadora**: Decapita avispas con rayos eléctricos
+- 💪 **Tiritas Crece**: Absorbe aguijonazo y aumenta de tamaño
+- 🌀 **Cruce del Charco**: El grupo salta al charco brillante
+- 🌫️ **Upside Down**: Aparecen en zona oxidada sin cobertura telefónica
+- 🕷️ **Nuevo Entorno**: Polvo, óxido, arañas, insectos por todas partes
+- 🎮 **Arcade**: Kira intenta encenderlo pero no hay electricidad
+- 🚪 **Exploración**: Escaleras selladas, puertas misteriosas, contenedores de gas
+
+**Temas Clave**: Exploración interdimensional, combate táctico, trabajo en equipo
+
+---
 
 ### 🍂 **Noviembre 2025 - Misterios Se Profundizan**
 
@@ -182,8 +203,9 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 ## 🎭 Análisis por Contenido
 
 ### **Sesiones con Transcripción IA**
-- **Total**: 1 sesión
-- **Promedio**: ~2 horas por sesión
+
+- **Total**: 4 sesiones
+- **Promedio**: ~1.5 horas por sesión
 - **Formato**: Transcripción automática Gemini + análisis narrativo
 
 ### **Temas Recurrentes Identificados**

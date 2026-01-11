@@ -70,11 +70,17 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 ## 📖 Cronología de Aventuras
 
 ### 🌴 **Fase I: Primeros Días en el Reformatorio (Octubre 2025)**
-- **[26 Octubre](ai-notes-summary/2025-10-26-gemini-notes.md)**: Llegada de Kira, presentaciones, primeros ejercicios, incidente con Tomás Vargas, bromas con poderes, desaparición misteriosa de Amara y Dimitri
+
+- **[26 Octubre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)**: Llegada de Kira, presentaciones, primeros ejercicios, incidente con Tomás Vargas, bromas con poderes, desaparición misteriosa de Amara y Dimitri
 
 ### 🍂 **Fase II: Misterios Se Profundizan (Noviembre 2025)**
-- **[02 Noviembre](ai-notes-summary/2025-11-02-gemini-notes.md)**: Llegada de Elena con poderes de ilusión, sesiones de terapia con Señorita Mora, descubrimiento del charco misterioso que solo algunos pueden ver, revelación del poder de Lea (transformación sin control)
-- **[16 Noviembre](ai-notes-summary/2025-11-16-gemini-notes.md)**: Investigación en sala de ordenadores sobre telépatas (Mésmero, Sique, La Fuerza Oculta), Elena lame el charco y enferma, Kira recibe collar inhibidor, despertar en mundo sepia con estática visual, primer combate contra avispas gigantes del tamaño de San Bernardos
+
+- **[02 Noviembre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)**: Llegada de Elena con poderes de ilusión, sesiones de terapia con Señorita Mora, descubrimiento del charco misterioso que solo algunos pueden ver, revelación del poder de Lea (transformación sin control)
+- **[16 Noviembre]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)**: Investigación en sala de ordenadores sobre telépatas (Mésmero, Sique, La Fuerza Oculta), Elena lame el charco y enferma, Kira recibe collar inhibidor, despertar en mundo sepia con estática visual, primer combate contra avispas gigantes del tamaño de San Bernardos
+
+### ❄️ **Fase III: Cruzando al Otro Lado (Enero 2026)**
+
+- **[11 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)**: Combates victoriosos contra avispas gigantes, cruce a través del charco brillante hacia el "Upside Down", exploración de zona oxidada sin cobertura telefónica, Tiritas crece al absorber daño
 
 ---
 
@@ -151,12 +157,12 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">2</span>
+<span class="stat-number">4</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">3</span>
+<span class="stat-number">4</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -166,7 +172,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~4</span>
+<span class="stat-number">~6</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>

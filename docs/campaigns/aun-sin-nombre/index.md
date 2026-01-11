@@ -49,6 +49,14 @@ permalink: /campaigns/aun-sin-nombre/
 - **Personalidad**: Retraída, estilo "emo", joven de 13-14 años
 - **Peculiaridad**: No puede ducharse con otras chicas debido a sus poderes eléctricos
 
+#### 🎭 **[Elena]({{ site.baseurl }}/characters/details/elena-exposito/)** *(Perico)*
+
+- **Poderes**: Ilusionista avanzada, puede crear ilusiones a 24 metros de distancia y transformarse en otras personas/objetos/animales
+- **Habilidades**: Efecto camaleón (transformación visual), creación de engaños realistas
+- **Historia**: Recién llegada al reformatorio (02/11/2025)
+- **Personalidad**: Impulsiva, teatral, imprudente
+- **Incidente notable**: Su primer día creó una pistola ilusoria y "disparó" a Tiritas
+
 ---
 
 ## 📚 **Aventuras Detalladas**
@@ -110,7 +118,7 @@ Esta campaña muestra Arcadia desde la perspectiva de aquellos que la sociedad h
 - **Elena "Frutas del Bosque"**: Psicóloga, clave para la libertad de los internos
 
 ### 👥 **Compañeros Internos Destacados**
-- **[Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/)**: Nueva estudiante con poderes de ilusión (transformación, creación de engaños a 24 metros), imprudente
+
 - **Tomás Vargas**: Conflictivo, temperamental
 - **Yuki Tanaka**: Puede manejar hielo, bromista
 - **Al Rashid**: Puede manejar la oscuridad

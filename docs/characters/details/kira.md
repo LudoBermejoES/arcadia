@@ -147,7 +147,9 @@ Kira tomó un rol activo en la investigación del charco misterioso:
 - **Collar Inhibidor**: Recibió collar inhibidor tras intentar tirar un vaso de agua como distracción
 
 ### **El Mundo Sepia y Poder Devastador (16/11/2025)**
+
 Durante la anomalía nocturna, Kira reveló el verdadero alcance de sus poderes:
+
 - **Despertar Selectivo**: Una de los tres únicos que despertó en el mundo sepia
 - **Móvil Grabando**: Dejó su móvil grabando toda la noche (grababa imagen estática, no movimiento)
 - **Primer Combate Real**: Enfrentó avispas del tamaño de San Bernardos
@@ -157,31 +159,54 @@ Durante la anomalía nocturna, Kira reveló el verdadero alcance de sus poderes:
 - **Segundo Ataque**: Gastó un Benny para golpear otra criatura tras fallo inicial
 - **Coordinación**: Trabajó en equipo con Sergei, Elena y Tiritas para victoria total
 
+### **El Upside Down (11/01/2026)**
+
+Kira demostró tanto poder devastador como vulnerabilidad en combate:
+
+- **Ataque Sorpresa**: Lanzó el primer ataque a distancia contra una avispa, dejándola aturdida con **7 puntos de daño**
+- **Herida en Combate**: Una avispa que detectó la ilusión de Elena la atacó y la hirió
+- **Benny Defensivo**: Gastó un Benny para absorber la herida, quedando solo aturdida
+- **Recuperación con Espíritu**: Se desaturdió con una tirada exitosa de dado de espíritu
+- **Decapitación Eléctrica**: Decapitó a una avispa causando que **explotara**, ganando +2 al ataque y daño
+- **Doble Eliminación**: Aprovechó el bono para destruir una segunda avispa con **11 en la tirada**
+- **Arcade Sin Corriente**: Intentó alimentar un juego arcade con su electricidad, pero no había corriente en el lugar
+- **GPS Fallido**: Intentó usar el GPS sin éxito - no hay cobertura en el Upside Down
+- **Cruce del Charco**: Saltó al charco brillante siguiendo a Tiritas
+
 ## Apariciones Documentadas
+
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 
-## Situación Actual (Noviembre 2025)
-Kira está en sus **primeros días** en el reformatorio, navegando un mundo completamente nuevo mientras procesa el trauma de su accidente. La desaparición de Amara y Dimitri añade un elemento de terror a su ya difícil adaptación.
+## Situación Actual (Enero 2026)
 
-### **Desafíos Inmediatos**
-- Adaptarse a la vida comunitaria forzada
-- Desarrollar control sobre emisión eléctrica pasiva
-- Procesar culpa por el compañero en coma (discutido en terapia)
-- Aprender a confiar en Sergei, Tiritas y ahora Elena
-- Entender las reglas no escritas del reformatorio
-- Determinar si la Señorita Mora es aliada o guardiana
-- Investigar el charco misterioso que solo algunos ven
+Kira ha cruzado al "Upside Down" junto con sus compañeros, adentrándose en un territorio sin electricidad ni cobertura telefónica. A pesar de su corta estancia en el reformatorio, se ha convertido en una de las principales fuerzas ofensivas del grupo.
+
+### **Evolución Reciente**
+
+- **Poder Ofensivo Clave**: Sus ataques eléctricos a distancia son devastadores contra las avispas
+- **Vulnerabilidad Aprendida**: Fue herida en combate, aprendiendo que no es invulnerable
+- **Resiliencia**: Se recuperó de estar aturdida con una tirada de espíritu exitosa
+- **Limitaciones del Upside Down**: Su electricidad no puede alimentar dispositivos sin corriente
+
+### **Desafíos Actuales**
+
+- Sobrevivir en el Upside Down sin cobertura ni electricidad ambiental
+- Protegerse mientras mantiene su rol ofensivo
+- Descubrir qué conexión tiene este lugar con las desapariciones
+- Trabajar en equipo con Sergei, Tiritas y Elena
 
 ### **Preguntas Abiertas**
+
 - ¿Se recuperará el compañero que dejó en coma?
 - ¿Podrá regresar a casa pronto como sugirió la Señorita Mora?
-- ¿Puede aprender a controlar la emisión estática continua?
-- ¿Qué significa que pueda ver el charco y los guardias no?
-- ¿Hay un telépata o controlador mental manipulando percepciones?
-- ¿Su poder de dureza siempre activo la protegerá de amenazas futuras?
-- ¿Qué relación tiene Elena Expósito con los misterios del reformatorio?
+- ¿Qué secretos guarda el Upside Down?
+- ¿Hay un telépata o controlador mental detrás de todo esto?
+- ¿Por qué no hay electricidad en esta dimensión?
+- ¿Encontrarán a Amara y Dimitri en este lugar?
+- ¿Podrán volver al reformatorio?
 
 ## Desarrollo Potencial
 El arco de Kira podría explorar:

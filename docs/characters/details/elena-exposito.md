@@ -150,7 +150,9 @@ Elena participó en el plan del grupo para investigar el charco misterioso:
 - **Recuperación**: Después de 10 minutos se sintió mejor, pero permaneció bajo observación hasta la noche
 
 ### **El Mundo Sepia y el Combate (16/11/2025)**
+
 Durante la noche, Elena experimentó algo extraordinario:
+
 - **Despertar Selectivo**: Fue una de los tres únicos (con Kira y Sergei) que despertó durante la anomalía
 - **Mundo Sepia**: Vio el mundo en color sepia con estática visual
 - **Tiempo Suspendido**: Presenció gotas de agua suspendidas en el aire
@@ -160,25 +162,45 @@ Durante la noche, Elena experimentó algo extraordinario:
 - **Benny por Roleplay**: Su creatividad le ganó un Benny del GM por buena interpretación
 - **Trabajo en Equipo**: Colaboró con Kira, Sergei y Tiritas en el combate
 
+### **El Upside Down (11/01/2026)**
+
+Elena demostró el valor táctico de sus ilusiones en combate:
+
+- **Joker en Iniciativa**: Sacó un Joker, obteniendo **+2 al ataque y +2 al daño**
+- **Pájaro Gigante Ilusorio**: Creó una ilusión de un **pájaro gigante** para asustar y distraer a las avispas
+- **Distracción Efectiva**: Una avispa atacó al pájaro ilusorio y falló, permitiendo que Sergei la matara por el flanco
+- **Apoyo al Equipo**: Se acercó a Kira para apartarla cuando fue herida
+- **Retirada Estratégica**: Ayudó a organizar la retirada táctica del grupo
+- **Animadora**: Se limitó a animar al grupo desde la retaguardia en el combate final
+- **Cruce del Charco**: Saltó al charco brillante siguiendo a Tiritas y Sergei
+- **Advertencia Crucial**: Advirtió al grupo que **no abrieran una puerta específica** en el Upside Down
+
 ## Apariciones Documentadas
+
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 
-## Situación Actual (Noviembre 2025)
-Elena acaba de llegar al reformatorio y ya se ha establecido como un **personaje memorable** por su imprudencia y sus poderes impresionantes. Se encuentra en las etapas iniciales de:
-- **Adaptación institucional**: Aprendiendo las reglas (a través de violaciones)
-- **Integración social**: Formando relaciones con otros internos
-- **Evaluación psicológica**: Sesiones con la Señorita Mora
-- **Control de poderes**: Aprendiendo contextos apropiados para demostrar habilidades
+## Situación Actual (Enero 2026)
+
+Elena ha cruzado al "Upside Down" junto con sus compañeros, demostrando que sus ilusiones son una herramienta táctica valiosa. Su rol como especialista en distracción y apoyo se ha consolidado.
+
+### **Evolución Reciente**
+
+- **Valor Táctico**: Sus ilusiones (pájaro gigante) son efectivas para distraer enemigos
+- **Rol de Apoyo**: Prefiere animar y apoyar desde la retaguardia
+- **Intuición**: Su advertencia sobre la puerta sugiere percepción especial
+- **Parte del Equipo**: Ha dejado de ser "la nueva" para ser miembro pleno del grupo
 
 ### **Preguntas Abiertas**
+
 - ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
 - ¿Tiene familia en el exterior?
 - ¿Cuál es su edad exacta?
-- ¿Aprenderá a evaluar contextos sociales antes de actuar?
-- ¿Puede ver el charco misterioso? (aún por confirmar)
-- ¿Qué rol jugará en las investigaciones de las desapariciones?
-- ¿Su imprudencia causará problemas mayores en el futuro?
+- ¿Por qué advirtió que no abrieran esa puerta específica?
+- ¿Qué secretos guarda el Upside Down?
+- ¿Sus ilusiones serán clave para sobrevivir en esta dimensión?
+- ¿Encontrarán a Amara y Dimitri?
 
 ## Desarrollo Potencial
 El arco de Elena podría explorar:

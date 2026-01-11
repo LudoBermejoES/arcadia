@@ -131,7 +131,9 @@ Tiritas demostró ser un **investigador activo** de los misterios del reformator
 **Tirada de Conocimiento**: Tiritas descubrió que los telépatas y controladores mentales son **extremadamente raros** en Arcadia, lo que hace el misterio aún más inquietante.
 
 ### **El Mundo Sepia - Permanece Dormido (16/11/2025)**
+
 Durante la anomalía temporal nocturna, Tiritas tuvo un destino diferente:
+
 - **No Despertó**: A diferencia de Kira, Sergei y Elena, Tiritas **permaneció dormido** durante la anomalía
 - **Mundo Sepia**: Mientras sus compañeros despertaban en realidad alternativa, él seguía en estado de sueño
 - **Estática en su Cuerpo**: Sergei notó que Tiritas dormido tenía **estática a su alrededor**
@@ -140,24 +142,47 @@ Durante la anomalía temporal nocturna, Tiritas tuvo un destino diferente:
 - **Aguijón Mortal**: Usó el aguijón de una avispa muerta para **clavar en la cabeza** de la última criatura
 - **Método Efectivo**: Montó una avispa, arrancó su ala para desestabilizarla, y la mató con el aguijón
 
+### **El Upside Down (11/01/2026)**
+
+Tiritas demostró su valor como tanque del grupo en múltiples combates:
+
+- **Absorción de Aguijonazo**: Recibió un ataque de avispa y **absorbió la energía cinética**, volviéndose "más tocho"
+- **Crecimiento Físico**: Tras la absorción, su tamaño aumentó notablemente - ahora es **más grande que el resto del grupo**
+- **Combate Cuerpo a Cuerpo**: Atacó tomando a la avispa **de las antenas** con tirada exitosa
+- **Dado Explosivo**: Mató a la avispa con una tirada de daño desarmado con **dado explosivo**
+- **Artista Marcial**: Su habilidad d10 en pelea le da ventaja significativa en combate desarmado
+- **Primer Salto al Charco**: Fue el primero en **lanzarse al charco brillante**, desapareciendo inmediatamente
+- **Líder de Vanguardia**: En el Upside Down, fue enviado primero ante posibles amenazas
+- **Sartén Improvisada**: Cogió una sartén de la cocina como arma improvisada ligera
+
 ## Apariciones Documentadas
+
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 
-## Situación Actual (Noviembre 2025)
-Tiritas continúa su estancia en el reformatorio, equilibrando la necesidad de comportarse para eventualmente ver a su hermana con la tentación constante de intentar otro escape. La desaparición de Amara y Dimitri añade un nuevo nivel de tensión y misterio a un ambiente ya volátil.
+## Situación Actual (Enero 2026)
+
+Tiritas ha cruzado al "Upside Down" siendo el primero en saltar al charco brillante, demostrando su valentía característica. En este nuevo entorno oxidado y lleno de insectos, su rol como tanque del grupo se ha consolidado completamente.
+
+### **Evolución Reciente**
+
+- **Tanque Consolidado**: Su absorción de energía cinética lo hace ideal para enfrentar amenazas primero
+- **Crecimiento Físico**: Tras absorber el aguijonazo, es ahora **más grande que el resto del grupo**
+- **Combatiente Efectivo**: Su d10 en pelea y dados explosivos lo convierten en el principal eliminador de avispas
+- **Líder de Vanguardia**: El grupo confía en él para ir primero ante peligros desconocidos
 
 ### **Preguntas Abiertas**
+
 - ¿Qué edad tiene realmente? (no especificada en notas)
 - ¿Dónde está su hermana y cómo está?
-- ¿Hubo testigos del asesinato de su padre que puedan confirmar la defensa propia?
+- ¿Qué secretos guarda el Upside Down?
 - ¿Cuál es el límite de su absorción de energía cinética?
 - ¿Puede aprender a activar sus poderes sin necesitar ser golpeado?
-- ¿Logrará descubrir la verdad sobre el charco misterioso?
-- ¿Hay realmente un telépata manipulando percepciones en el reformatorio?
-- ¿Por qué Víctor (y otros guardias) no pueden ver lo que los estudiantes sí ven?
-- ¿Su investigación lo pondrá en peligro?
+- ¿Qué conexión tiene este lugar con las desapariciones de Amara y Dimitri?
+- ¿Por qué no hay electricidad ni cobertura en esta dimensión?
+- ¿Encontrarán una salida o quedarán atrapados?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

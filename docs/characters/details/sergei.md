@@ -113,23 +113,45 @@ Durante la anomalía nocturna, Sergei experimentó su primer combate real:
 - **Efectivo en Combate**: Logró **dejar aturdida** una de las avispas gigantes
 - **Trabajo en Equipo**: Coordinó con Kira, Elena y Tiritas para derrotar todas las criaturas
 
+### **El Upside Down (11/01/2026)**
+
+La exploración del misterio del charco alcanzó un nuevo nivel:
+
+- **Combate Letal**: Mató a una avispa con **11 puntos de daño** usando sus manos-espada
+- **Brazo Reptante**: Usó su habilidad de **separar partes del cuerpo** para enviar su brazo como "gusano" y cerrar una puerta sigilosamente, evitando alertar a una avispa
+- **Sigilo Exitoso**: Tirada de sigilo perfecta para la maniobra del brazo
+- **Cruce del Charco**: Saltó al charco brillante junto con el grupo
+- **Nuevo Entorno**: Apareció en el "Upside Down" - zona oxidada sin cobertura telefónica
+- **Exploración**: Descubrió salas con cajas, monitores apagados, y un cono lleno de arañas
+- **Combate Final**: Participó en el enfrentamiento contra la última avispa antes de terminar la sesión
+
 ## Apariciones Documentadas
+
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 
-## Situación Actual (Noviembre 2025)
-Sergei continúa como veterano del reformatorio, ahora asumiendo el papel de mentor para Kira, la recién llegada. Tras la misteriosa desaparición de Amara y Dimitri, Sergei se encuentra ante un nuevo tipo de desafío que podría sacudir incluso su optimismo habitual.
+## Situación Actual (Enero 2026)
+
+Sergei ha cruzado al "Upside Down" junto con sus compañeros, adentrándose en territorio completamente desconocido. Su veteranía en el reformatorio no le preparó para lo que encontraron al otro lado del charco: un mundo de óxido, polvo e insectos sin cobertura telefónica.
+
+### **Evolución Reciente**
+
+- **Combate Veterano**: Cuatro sesiones de enfrentamientos contra avispas gigantes le han convertido en un luchador experimentado
+- **Uso Creativo de Poderes**: Su brazo reptante demuestra pensamiento táctico avanzado
+- **Líder de Exploración**: Mantiene su rol de veterano guiando al grupo en territorio desconocido
 
 ### **Preguntas Abiertas**
+
 - ¿Por qué realmente está Sergei en el reformatorio desde hace tanto tiempo?
 - **¿Qué causó su pérdida de memoria?** (revelado en Sesión 2)
 - **¿Qué significan sus pesadillas recurrentes?** (se despierta alterado sin recordar)
 - ¿Tiene familia fuera o el reformatorio es su único hogar?
 - **¿Los flashbacks eventualmente revelarán su pasado?**
-- ¿Qué sabe sobre las desapariciones anteriores en Nueva Esperanza?
-- ¿Hasta dónde pueden llegar sus poderes de metamorfismo?
-- ¿Su amnesia está relacionada con los misterios del reformatorio?
+- ¿Qué encontrarán en el Upside Down?
+- ¿Por qué no hay electricidad ni cobertura en esta dimensión?
+- ¿Su amnesia está relacionada con los misterios del reformatorio y el charco?
 
 ---
 

@@ -1,168 +1,143 @@
-4 ene 2026
+---
+layout: page
+title: "La Fuerza Oculta - Análisis Sesión 45"
+permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-04-gemini-notes/
+---
+
+# Sesión 45 - 4 Enero 2026
+## "Operación Desguace - Rescate de las Crías Bestiales"
 
-## Los domingos al rol
+[← Volver al Índice de AI Notes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/) | [← Índice Principal]({{ site.baseurl }}/)
 
-Archivos adjuntos [Los domingos al rol](https://www.google.com/calendar/event?eid=MjhiZThraXA5NnNzcDNtMmkwODl2aTEzMjZfMjAyNjAxMDRUMTczMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - 2025/06/15 19:03 CEST - Notas de Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) 
+---
 
-Registros de la reunión [Transcripción](?tab=t.wlmnvpsiquh8) [Grabación](https://drive.google.com/file/d/1jAtzwzwzOFPKiviMPpeK-122dXPJqdn-/view?usp=drive_web) 
+## Resumen Ejecutivo
 
-### Resumen
+La sesión continúa la misión de rescate de las crías bestiales secuestradas por mercenarios de Constellis. El grupo ejecuta un asalto coordinado a un desguace fuertemente vigilado, utilizando la ilusión de Pantomima como cobertura y el "Protocolo Dame Veneno" para interferir las comunicaciones enemigas. Tras un intenso combate táctico, consiguen rescatar a las 4 crías del compactador de basura.
 
-La reunión comenzó con Ludo Bermejo y Xavi Gracia saludándose, comentando sobre nombres gallegos y las condiciones climáticas en su ubicación, y Ludo Bermejo y Eduardo Vaquerizo compartieron preocupaciones sobre la posible presencia de amianto en el desván de Ludo Bermejo. Sugus Blanco compartió consejos sobre botas para nieve con Xavi Gracia, quien se dirige a Legión, mientras que Ernesto Diezhandino le advirtió sobre las dificultades del viaje.
+**Jugadores presentes**: Sugus (Eslizón), Conchi (Sique/Psique), Xavi (Pantomima), Edu (Sentencia), Eslizo (Diana)
+**Ausente**: Jandro (Hotman)
 
-Los participantes procedieron a discutir la serie *Pluribus* y *Breaking Bad* antes de que Ludo Bermejo decidiera continuar la partida de rol. Eduardo Vaquerizo hizo un resumen detallado de la partida anterior (*El Cubil de las Bestias*), donde el equipo se dirigió a una chatarrería vigilada para rescatar a las crías de bestia.
+---
 
-El grupo, incluyendo a Ludo Bermejo, Eduardo Vaquerizo, Xavi Gracia, Sugus Blanco, Kauneda Arashi y Ernesto Diezhandino, planificó un ataque sigiloso, decidiendo usar la ilusión de Pantomima y rodear la chatarrería para acceder por la parte trasera cerca del compactador. La ejecución del plan llevó a que el equipo se posicionara en un camión para mejorar la visibilidad. Sugus Blanco, asistido por Pantomima (Xavi Gracia), saltó la valla y se infiltró bajo la ilusión de Pantomima. El grupo realizó la "Operación Dame Veneno" para deshabilitar el compactador, lo que resultó en que Eduardo Vaquerizo abriera fuego contra dos guardias. El combate continuó con Sugus Blanco usando a un enemigo como escudo, Justa (Eduardo Vaquerizo) eliminando al tirador de la torreta y Diana (Ernesto Diezhandino) atacando a un enemigo para finalmente sacar a los niños, lo que concluyó la sesión.
+## Eventos Principales
 
-### Detalles
+### 1. Planificación Táctica
+- El grupo analiza múltiples opciones para asaltar el desguace
+- Decisión de entrar por la parte trasera cerca del compactador
+- Uso del camión estacionado para ganar altura y visibilidad
+- Pantomima mantiene ilusión de "ondulación de calor" que oculta al grupo
 
-*Longitud de las notas: Estándar*
+### 2. Protocolo Dame Veneno
+- Eslizón propone cortar la electricidad para inutilizar el compactador
+- Se implementa interferencia de comunicaciones enemigas usando las radios
+- La canción "Dame veneno que quiero morir" suena como distracción
 
-* **Introducciones y Nombres Gallegos** Ludo Bermejo y Xavi Gracia iniciaron la reunión con saludos y comentarios personales. Xavi Gracia mencionó un amigo gallego llamado Yago, cuyo apodo es "Yoga" ([00:00:00](?tab=t.wlmnvpsiquh8#heading=h.7o8kpvvg45ap)). Ludo Bermejo comentó sobre la frecuencia de nombres como Yago (escrito con i latina) y Bryce en Galicia ([00:02:06](?tab=t.wlmnvpsiquh8#heading=h.ss4j32csm5ut)).
+### 3. Infiltración
+- Eslizón salta la valla llevando a Pantomima en su cola
+- El grupo pasa uno a uno bajo la cobertura de la ilusión
+- Tiradas de sigilo exitosas (con uso de Bennies)
+- Localización del panel de control del compactador
 
-* **Entorno de Ludo y Condiciones Climáticas** Eduardo Vaquerizo preguntó a Ludo Bermejo si estaba en su pueblo, lo que Ludo Bermejo confirmó, habiendo regresado la noche anterior. Eduardo Vaquerizo notó el cambio debido a las sombras, lo que llevó a Ludo Bermejo a explicar que tiene una luz apuntándole directamente en un desván oscuro ([00:02:53](?tab=t.wlmnvpsiquh8#heading=h.ae1n3en0zlet)). Xavi Gracia mencionó haber estado en Calatayut para fin de año, pero que hacía más frío en Santa Coloma ([00:03:45](?tab=t.wlmnvpsiquh8#heading=h.rvlgjcn8lz78)). Ludo Bermejo estuvo de acuerdo en que el frío en su ubicación es más intenso que en Madrid debido a la humedad y el aire ([00:04:33](?tab=t.wlmnvpsiquh8#heading=h.miuj4pchhz6w)).
+### 4. Combate Coordinado
+- **Sentencia** abre fuego, eliminando a dos guardias con disparos precisos
+- **Eslizón** ataca por sorpresa y usa a un enemigo como escudo humano
+- **Diana** recibe disparo del francotirador y queda herida/atontada
+- **Sique** intenta ataque mental pero falla; proporciona coordenadas por radio
+- **Pantomima** crea ilusión multiplicadora para proteger a Diana
 
-* **Preocupaciones sobre el Desván y la Uralita** Eduardo Vaquerizo señaló que Ludo Bermejo está en un desván sin la protección aislante superior adecuada, sugiriendo que debería hacer mucho frío. Hubo una discusión sobre la posibilidad de que el material del techo fuera uralita (fibrocemento), con preocupaciones sobre el amianto ([00:04:33](?tab=t.wlmnvpsiquh8#heading=h.miuj4pchhz6w)). Xavi Gracia buscó en Google la composición de la uralita y Eduardo Vaquerizo confirmó que es amianto, pero solo afecta si se hacen agujeros ([00:06:06](?tab=t.wlmnvpsiquh8#heading=h.2qqy4gs9c2vb)). Xavi Gracia agregó que si tiene la inscripción "NT" (Nueva Tecnología) y fue instalada después de 2002, es probable que no contenga amianto ([00:06:53](?tab=t.wlmnvpsiquh8#heading=h.w1lfrtbnd2pe)).
+### 5. Resolución del Combate
+- **Sentencia elimina al francotirador** de la torreta con segundo disparo
+- Diana se recupera y ataca con rabia, matando a dos enemigos más
+- Eslizón flanquea usando a un mercenario aturdido como escudo
+- Hotman (ausente) es mencionado pero no participa
 
-* **Experiencias con Uralita** Los participantes compartieron experiencias con la uralita. Eduardo Vaquerizo recordó haber visto un equipo especializado retirar uralita con trajes aislantes blancos de una nave derribada para construir un Lidl. Xavi Gracia también mencionó tener uralita en la casa de su pueblo, pero evitar subir, y Eduardo Vaquerizo indicó que el amianto no es peligroso a menos que se manipule ([00:07:34](?tab=t.wlmnvpsiquh8#heading=h.v8zmv0ykrk5u)). Eduardo Vaquerizo relató un caso en su trabajo en la Agencia Estatal de Seguridad Aérea, donde las tuberías de desagüe eran de uralita y cualquier modificación requeriría cambiarlas por completo ([00:08:20](?tab=t.wlmnvpsiquh8#heading=h.c912xc6tobf2)).
+### 6. Rescate Exitoso
+- La puerta del compactador se abre tras tres turnos
+- Diana saca a las 4 crías bestiales del interior
+- **Las crías son adorables**: caimancito, murciélago, perrito y ratilla
+- Detalle especial: las crías van vestidas con ropita
 
-* **Riesgos del Amianto y Mercurio** Xavi Gracia y Eduardo Vaquerizo discutieron que el amianto es cancerígeno si se inhala, lo cual ocurre si se rompe o se le hacen agujeros. Eduardo Vaquerizo comparó el peligro con jugar con mercurio de termómetros rotos cuando eran jóvenes, un acto que es supertóxico ([00:09:10](?tab=t.wlmnvpsiquh8#heading=h.j1tt8bepvp4y)).
+---
 
-* **Preparativos para el Viaje a Legión** Sugus Blanco compartió que usó unas botas Quechua de Decathlon de 50 € para ir a Siberia, y Xavi Gracia pidió el enlace, ya que se dirige a Legión (el vivo en Chequia) en menos de un mes ([00:09:45](?tab=t.wlmnvpsiquh8#heading=h.5al7cvx03f4b)). Xavi Gracia está preocupade por la nieve y el hielo, que podrían requerir crampones ([00:10:44](?tab=t.wlmnvpsiquh8#heading=h.j9axiaf58xrr)).
+## Desarrollo de Personajes
 
-* **Advertencias sobre Legión** Ernesto Diezhandino, que es de Palencia, una región que consideró de montaña y fría ([00:11:37](?tab=t.wlmnvpsiquh8#heading=h.gj44y3wqd08p)), advirtió a Xavi Gracia sobre no ir a Legión ([00:10:44](?tab=t.wlmnvpsiquh8#heading=h.j9axiaf58xrr)). El riesgo incluía tener que cavar en el hielo para defecar, una experiencia que no recomendó ([00:11:37](?tab=t.wlmnvpsiquh8#heading=h.gj44y3wqd08p)).
+### Sentencia (Edu)
+- Eficiencia letal: elimina múltiples objetivos con precisión
+- Se ofrece a cubrir la retirada del grupo
+- Continúa su evolución como ejecutor táctico del equipo
 
-* **Discusión sobre la Serie Pluribus y Breaking Bad** Xavi Gracia mencionó que el concepto de una partida que Ludo Bermejo había dirigido había sido copiado en una serie llamada *Pluribus*, que recomendó ([00:11:37](?tab=t.wlmnvpsiquh8#heading=h.gj44y3wqd08p)). Eduardo Vaquerizo estuvo de acuerdo en que la serie es muy buena. Hubo una comparación con *Breaking Bad*, elogiando a su autor, pero Xavi Gracia confesó haber dejado *Breaking Bad* a mitad de la tercera temporada porque no soportaba al protagonista ([00:12:29](?tab=t.wlmnvpsiquh8#heading=h.g3vap9t9b7y4)).
+### Diana (Eslizo)
+- Recibe herida en combate pero se recupera
+- Usa la rabia como combustible (obtiene Benny por desventaja de inmadurez)
+- Protagoniza el rescate físico de las crías
 
-* **Decisión de Continuar la Partida de Rol** Eduardo Vaquerizo preguntó sobre el plan de juego. Ludo Bermejo decidió continuar la última partida con los jugadores presentes, ya que solo faltaba uno. Ludo Bermejo pidió a Eduardo Vaquerizo que hiciera un resumen para Xavi Gracia y para dar tiempo a que otres, como Conchi, pudieran entrar ([00:13:29](?tab=t.wlmnvpsiquh8#heading=h.gc063md8mdxh)).
+### Eslizón (Sugus)
+- Lidera la planificación táctica
+- Usa creativamente a un enemigo como escudo humano
+- Demuestra habilidades de infiltración y combate sigiloso
 
-* **Resumen de la Partida Anterior: El Cubil de las Bestias (Parte 1\)** Eduardo Vaquerizo comenzó el resumen de la partida en el Cubil de las Bestias. El equipo neutralizó a varios tipos, uno de los cuales gritó que no querían problemas. Descubrieron que los vencidos tenían un tatuaje militar que Sentencia identificó como el grupo de mercenarios Costelis. Un zumbido fuerte fue detectado arriba, posiblemente drones o algún tipo de arma ([00:14:12](?tab=t.wlmnvpsiquh8#heading=h.y84wgbisytk6)).
+### Sique/Psique (Conchi)
+- Proporciona inteligencia táctica por enlace mental
+- Sus ataques mentales fallan esta sesión
+- Coordina comunicaciones del equipo por radio
 
-* **Resumen de la Partida Anterior: El Cubil de las Bestias (Parte 2\)** Diana y Justa subieron las escaleras. Síque investigó las mentes arriba y no detectó a nadie, pero al entrar una mina *claymore* estalló. Encontraron jaulas vacías, restos de comida y ordenadores destruidos. Entonces aparecieron dos criaturas: un hombre rinoceronte y un hombre murciélago ([00:14:59](?tab=t.wlmnvpsiquh8#heading=h.nm9wfdfbe5sj)). Kauneda Arashi y Eduardo Vaquerizo debatieron si llamar a las criaturas "bestias" o "seres animaformes", con Eduardo Vaquerizo sugiriendo evitar el término "bestias" ([00:15:49](?tab=t.wlmnvpsiquh8#heading=h.8ktqptgjtc7)).
+### Pantomima (Xavi)
+- Mantiene ilusión de cobertura durante toda la operación
+- Crea efecto multiplicador para proteger a Diana
+- Se agota por el esfuerzo continuado
 
-* **Resumen de la Partida Anterior: El Cubil de las Bestias (Parte 3\)** El murciélago en el techo encontró tirolinas por donde habían huido. Una criatura les dijo que un escudo que los ocultaba había caído, probablemente debido a un pulso nuclear provocado por el equipo ([00:15:49](?tab=t.wlmnvpsiquh8#heading=h.8ktqptgjtc7)). El equipo se llevó a un hombre con cuchillo en la furgoneta, a quien interrogaron con dolor físico, descubriendo el punto de salida planeado y que los mercenarios robaron a los cachorros del Padre Bestia hace tres semanas para investigar cómo crear y controlar humanos bestiales ([00:16:33](?tab=t.wlmnvpsiquh8#heading=h.hm83ia301qju)).
+---
 
-* **Resumen de la Partida Anterior: El Cubil de las Bestias (Parte 4\)** Se reveló que los mercenarios estaban en una chatarrería fuertemente vigilada, con un inhibidor para evitar que las criaturas los detectaran. Después de que se fue la luz, supieron que algo se acercaba. Abandonaron al mercenario herido después de llamar a una ambulancia. La persecución continuó hasta la chatarrería ([00:17:12](?tab=t.wlmnvpsiquh8#heading=h.34xiw6ri5wqz)). Síque intentó localizar a los mercenarios y detectó dos en la parte delantera, cinco al norte, un francotirador en la puerta tres, cuatro presencias asustadas (las bestias) y tres soldados junto a ellas en el compactador de basura ([00:18:03](?tab=t.wlmnvpsiquh8#heading=h.hy07aebds1v0)).
+## Temas Narrativos
 
-* **Plan de Ataque Inicial: Entrada por la Oficina de Control** El grupo se reunió para planificar el ataque. Ludo Bermejo explicó que Pantomima estaba manteniendo una ilusión de cobertura que hacía que el espacio pareciera una ondulación de calor, y que salir de ella haría que el equipo fuera visible. Eduardo Vaquerizo propuso que Hotman inhabilitara al tipo en la oficina y que Pantomima abriera la puerta ([00:19:53](?tab=t.wlmnvpsiquh8#heading=h.degx7cxzwjad)). Xavi Gracia mencionó que Pantomima podría tener algo de habilidad en cerraduras o pirateo (hacker) ([00:21:38](?tab=t.wlmnvpsiquh8#heading=h.hrmhlupv0eii)).
+### Trabajo en Equipo
+- Ejecución coordinada de plan complejo
+- Cada miembro cumple un rol específico
+- Comunicación efectiva (radios + enlace mental)
 
-* **Preocupación por las Crías en el Compactador** Kauneda Arashi expresó gran preocupación de que las crías de bestia estuvieran en el compactador de basura. Esto podría significar que los mercenarios planean compactarlas si alguien intenta rescatarlas o si las bestias originales localizan la chatarrería ([00:22:35](?tab=t.wlmnvpsiquh8#heading=h.ak9s8xv4yi9g)). Kauneda Arashi sugirió que la habitación de control estaba en un pasillo con tres personas a la derecha y una a la izquierda ([00:24:17](?tab=t.wlmnvpsiquh8#heading=h.6lkbokhu989v)).
+### Violencia Justificada
+- El grupo acepta la necesidad de usar fuerza letal
+- Diana mata sin remordimiento aparente por proteger a las crías
+- Sentencia continúa su rol de "verdugo" del equipo
 
-* **Discusión sobre Cámaras y Cobertura** Ernesto Diezhandino preguntó por la dirección a la que apuntaban las cámaras. Ludo Bermejo confirmó que apuntaban de forma estándar y con buen ángulo, pero que no eran las de 360 grados que se colocan en el techo ([00:25:11](?tab=t.wlmnvpsiquh8#heading=h.xclmh1ai9fsu)). Ernesto Diezhandino propuso que Pantomima se elevara y transmitiera lo que veía a través del vínculo mental, pero Ludo Bermejo aclaró que no puede enviar imágenes mentales detalladas. Eduardo Vaquerizo sugirió acercarse a la valla y saltarla, permaneciendo dentro del radio de cobertura de Pantomima ([00:26:32](?tab=t.wlmnvpsiquh8#heading=h.50xobc5h7ntx)).
+### Rescate y Protección de Inocentes
+- Las crías representan víctimas inocentes
+- El equipo arriesga sus vidas por proteger a los indefensos
+- Conclusión emotiva con las crías adorables vestidas
 
-* **Propuesta de Ataque con Dos Flancos y Uso de la Furgoneta** Kauneda Arashi propuso un ataque con dos flancos, usando la furgoneta. Una parte del equipo (Lizón, Diana y Sentencia) podría neutralizar a los cuatro enemigos en el exterior y acceder al compactador ([00:28:14](?tab=t.wlmnvpsiquh8#heading=h.4ql3wvhyznr9)). El plan sería sincronizar el avance sigiloso de este grupo para neutralizar a los soldados y luego, mediante un enlace mental, avisar al equipo en la furgoneta para que entrara por la puerta y distrajera a los soldados, mientras el primer equipo rescataba a las crías ([00:29:11](?tab=t.wlmnvpsiquh8#heading=h.70spjm69y7rp)).
+---
 
-* **Discusión sobre el Dispositivo de Inhibición** Ernesto Diezhandino se preguntó si los mercenarios tendrían otra máquina para impedir que las bestias encontraran a las crías. Eduardo Vaquerizo insistió en que el dispositivo anterior estaba roto, pero Kauneda Arashi y Ernesto Diezhandino plantearon la posibilidad de que tuvieran otro ([00:30:28](?tab=t.wlmnvpsiquh8#heading=h.fkv7s3o91g0u)). Eduardo Vaquerizo argumentó que no importaba si el dispositivo estaba roto, ya que el equipo tenía que entrar de todos modos ([00:32:00](?tab=t.wlmnvpsiquh8#heading=h.fiv4z0mn533c)).
+## Mecánicas de Juego Destacadas
 
-* **Estrategia de Cortar la Electricidad** Sugus Blanco propuso otra idea: cortar la electricidad para inhabilitar cualquier máquina que pudiera compactar a las crías y causar confusión. Eduardo Vaquerizo consideró la idea como buena, pero señaló que tendrían que localizar el poste de luz ([00:34:08](?tab=t.wlmnvpsiquh8#heading=h.oi31b13deyy4)). Ludo Bermejo advirtió que la chatarrería podría tener generadores de emergencia y que la compactadora podría funcionar con gasoil en lugar de electricidad ([00:34:59](?tab=t.wlmnvpsiquh8#heading=h.97dxpuqswf9n)). Sin embargo, el grupo acordó que cortar la luz podría aumentar la confusión ([00:36:25](?tab=t.wlmnvpsiquh8#heading=h.d7ar82v6cpwm)).
+- **Protocolo Dame Veneno**: Acción científica para interferir comunicaciones
+- **Ilusión de cobertura**: Cuesta acción mantenerla en movimiento
+- **Escudo humano**: Eslizón usa aferramiento + arrastre
+- **Bennies**: Múltiples usos para repetir tiradas críticas
+- **Acción retenida**: Sentencia espera para disparar a objetivos que aparezcan
 
-* **Exploración de la Entrada Trasera Cerca del Compactador** Kauneda Arashi notó la presencia de un camión con una cabina roja en la parte superior del compactador y una posible puerta de entrada detrás ([00:37:19](?tab=t.wlmnvpsiquh8#heading=h.djtfh7ewito)). Kauneda Arashi identificó que esta sería la ruta más directa hacia el compactador, con solo dos personas cerca ([00:40:00](?tab=t.wlmnvpsiquh8#heading=h.p3amw5ekstl7)). La propuesta era rodear el perímetro para investigar esta zona ([00:42:18](?tab=t.wlmnvpsiquh8#heading=h.vorfrv3n8dyg)).
+---
 
-* **Preocupaciones sobre la Cobertura de Pantomima y el Uso de Radios** Ludo Bermejo informó que el equipo tardaría unos diez minutos en rodear la chatarrería sigilosamente ([00:43:12](?tab=t.wlmnvpsiquh8#heading=h.93hfu0komfzd)). Ludo Bermejo también señaló que Pantomima estaba cansándose al mantener la ilusión de cobertura en movimiento. Kauneda Arashi sugirió usar las radios que Espectro les dio, las cuales se pondrían para evitar hacer ruido ([00:43:49](?tab=t.wlmnvpsiquh8#heading=h.rdedj5obq8c9)) ([00:48:54](?tab=t.wlmnvpsiquh8#heading=h.vxjk4vami9cl)). Ernesto Diezhandino preguntó si se podían usar las radios para interferir en las comunicaciones de los mercenarios ([00:46:48](?tab=t.wlmnvpsiquh8#heading=h.ncbejvc61gk6)). Ludo Bermejo sugirió que podrían emitir ruido a todos los canales, incluso una canción, para causar distracción ([00:47:33](?tab=t.wlmnvpsiquh8#heading=h.iar1n17155ij)).
+## Información Relevante para Continuidad
 
-* **Decisión de la Aproximación** El equipo se movió hasta una posición cerca del camión ([00:46:48](?tab=t.wlmnvpsiquh8#heading=h.ncbejvc61gk6)) ([00:48:26](?tab=t.wlmnvpsiquh8#heading=h.hizfuyxfxkc7)). La puerta cerca del camión permitiría saltar la valla, manteniendo la cobertura de Pantomima. Sugus Blanco dijo que llevaría a Pantomima en su cola para ayudarle ([00:48:54](?tab=t.wlmnvpsiquh8#heading=h.vxjk4vami9cl)). El grupo decidió proceder con la aproximación al camión.
+- **4 crías bestiales rescatadas**: Caimancito, murciélago, perrito, ratilla
+- **Mercenarios de Constellis neutralizados** en el desguace
+- **La Cacería Salvaje** espera la entrega de las crías
+- **Hotman ausente** de la operación (jugador no disponible)
+- **Operación exitosa** sin bajas del equipo (Diana herida pero recuperada)
 
-* **Ilusión de Pantomima y Movimiento** Ludo Bermejo aclaró que la ilusión que mantiene Pantomima le cuesta una acción en cada turno si se mueve, similar a estar corriendo continuamente ([00:49:40](?tab=t.wlmnvpsiquh8#heading=h.5zltgd1mbjn4)). Sin embargo, la ilusión se mantiene si se quedan quietos. Xavi Gracia confirmó que si permanecen parados, la ilusión se mantiene, pero si se mueven, la valla debe parecer sin gente, lo cual Kauneda Arashi consideró agotador para Pantomima ([00:50:18](?tab=t.wlmnvpsiquh8#heading=h.tp8hszf7h0kr)).
+---
 
-* **Posicionamiento en el Camión** Eduardo Vaquerizo sugirió subirse al camión para tener mejor visibilidad. Ludo Bermejo accedió a que subieran al camión sin requerir tirada, asumiendo que eran capaces, para que pudieran ver más o menos todo el área ([00:50:59](?tab=t.wlmnvpsiquh8#heading=h.ios3i7vv59ji)). Sugus Blanco mencionó ver a un "tío" desde la altura del camión, lo cual otros también confirmaron.
+## Citas Destacadas
 
-* **Identificación de Amenazas y Compactadora** Kauneda Arashi avisó que había otro individuo a la derecha de la persona que ya estaban viendo ([00:51:43](?tab=t.wlmnvpsiquh8#heading=h.8af4h18arkrj)). Sugus Blanco preguntó dónde se encontraba la compactadora, y Kauneda Arashi indicó que estaba delante de esas dos personas. Ludo Bermejo aclaró que si bien podían llegar a la compactadora corriendo, el sitio donde se abre está en el lado opuesto.
+> *"Dame veneno que quiero morir"* - Canción usada para interferir comunicaciones
 
-* **Plan de Cobertura y Visibilidad** Eduardo Vaquerizo propuso quedarse en el camión haciendo fuego de cobertura mientras los demás corrían hacia la compactadora ([00:52:20](?tab=t.wlmnvpsiquh8#heading=h.32fe53kxjvc)). No obstante, Ludo Bermejo señaló que Eduardo Vaquerizo no tenía visibilidad suficiente desde arriba debido a las montañas de escombros ([00:53:02](?tab=t.wlmnvpsiquh8#heading=h.p9nmubyllnsq)). Por lo tanto, Eduardo Vaquerizo concluyó que tendrían que entrar todos juntos, ya que no tenían visión clara para un rol de francotirador.
+> *"Vámonos, vámonos, vámonos a salir de aquí"* - Sentencia cubriendo la retirada
 
-* **Alternativas de Acceso y Uso del Camión** Kauneda Arashi preguntó si podían usar la furgoneta para acceder, pero Eduardo Vaquerizo argumentó que el camión estaba bloqueando la puerta. Ludo Bermejo confirmó que la furgoneta no cabía y que, en cualquier caso, tendrían que rodear toda la zona ([00:53:35](?tab=t.wlmnvpsiquh8#heading=h.umnwq0nztdpa)). Kauneda Arashi sugirió abrir el camión para sacar a las "bestias" con el objetivo de escapar más tarde ([00:54:25](?tab=t.wlmnvpsiquh8#heading=h.6s13liq8f44w)).
+> *"Son adorables... ¡y van vestidos!"* - Reacción del grupo al ver las crías
 
-* **Métodos para Abrir el Camión** El grupo discutió hacer un puente en el camión para abrirlo, lo cual requeriría las habilidades de *Repair* o *Electronics*. Xavi Gracia mencionó que el podría improvisar con *Jack of Old Trade* ([00:54:51](?tab=t.wlmnvpsiquh8#heading=h.c98lxfousacr)). Se acordó que abrir el camión (para poder entrar y escapar más tarde) era mejor hacerlo antes de la persecución, aunque Xavi Gracia advirtió sobre el riesgo de activar una alarma al intentar abrir o disparar a la cerradura ([00:55:41](?tab=t.wlmnvpsiquh8#heading=h.twkxer6d6eu7)).
+---
 
-* **Estrategia de Sigilo Propuesta por Sugus Blanco** Sugus Blanco propuso un plan de sigilo para evitar confrontaciones prematuras. El plan consistía en que Sugus Blanco saltaría la valla, llevando a Pantomima para mantener la ilusión y pasar a los demás uno por uno, moviéndose por dentro del lugar de la misma manera que lo hicieron fuera. Si los localizaban, volverían al camuflaje ([00:58:10](?tab=t.wlmnvpsiquh8#heading=h.mup25esv56hg)).
+*La sesión representa el cierre exitoso del arco de rescate de las crías bestiales, demostrando la evolución táctica del equipo y su capacidad para ejecutar operaciones complejas coordinadas.*
 
-* **Verificación de Sistemas de Seguridad** Xavi Gracia expresó su deseo de comprobar si el área tenía sistemas de seguridad como cables finos o alarmas, independientemente de la ilusión de Pantomima ([00:59:31](?tab=t.wlmnvpsiquh8#heading=h.bnidirs6cxwy)). Ludo Bermejo solicitó una tirada de *Cieberi*. Xavi Gracia sacó un seis, y Ludo Bermejo confirmó que la base, que parecía ser profesional y bien montada, solo tenía cámaras de baja luminosidad y no sistemas adicionales como láseres ([01:00:19](?tab=t.wlmnvpsiquh8#heading=h.4i8pfrveycxg)).
-
-* **Procedimiento de Descenso y Movimiento Inicial** Sugus Blanco describió el plan para descender del camión y avanzar hacia la compactadora bajo la ilusión de Pantomima. Ludo Bermejo indicó que para bajar del camión, los demás necesitarían superar una tirada de *Athletics* con dificultad cuatro, pero Sugus Blanco, debido a su cola, probablemente no la necesitaría ([01:01:56](?tab=t.wlmnvpsiquh8#heading=h.i67mk4317mlp)). Además, Ludo Bermejo advirtió que acercarse a la gente requeriría una tirada de *Stealth*, ya que la ilusión solo era un oscurecimiento, no invisibilidad ([01:02:50](?tab=t.wlmnvpsiquh8#heading=h.icz6rosja7t4)).
-
-* **Aclaración sobre la Ilusión y el Movimiento** Kauneda Arashi aclaró que la ilusión recrea los píxeles de las imágenes alrededor de ellos y que correr o ir rápido dificultaría el proceso. Ludo Bermejo también señaló que Sugus Blanco podía usar su habilidad de pegarse a las paredes para ayudar a los demás a bajar sin tirar ([01:03:37](?tab=t.wlmnvpsiquh8#heading=h.yxfq75fqdlr7)).
-
-* **Descenso del Camión y Tiradas de Habilidad** Ludo Bermejo indicó que Hotman descendería volando, y otros personajes como Pantomima, asistidos por Sugus Blanco, harían una tirada de *Athletics* con un \+2 ([01:04:48](?tab=t.wlmnvpsiquh8#heading=h.r69dwyhqwh3m)). Kauneda Arashi le pidió ayuda a Sugus Blanco para descender ([01:09:05](?tab=t.wlmnvpsiquh8#heading=h.cmb8im8l4jvn)). Después del descenso, se movieron hasta el punto que Kauneda Arashi consideró seguro, cerca de la compactadora.
-
-* **Ataque y Posicionamiento Inicial** Eduardo Vaquerizo sugirió que se encargarían de los dos guardias en el camino hacia la entrada del compactador, mientras el grupo buscaba la entrada en el extremo opuesto. La entrada al compactador se identificó como el sitio que buscaban ([01:09:45](?tab=t.wlmnvpsiquh8#heading=h.7pxv4uhf348f)) ([01:12:29](?tab=t.wlmnvpsiquh8#heading=h.d3ss8l3utg1m)). Se discutió el posicionamiento para dejar a los personajes con acciones de combate al frente, aunque Ludo Bermejo señaló que Pantomima podía andar si no estaban bajo presión, facilitando la colocación ([01:10:19](?tab=t.wlmnvpsiquh8#heading=h.i6dq18nk8fpz)) ([01:11:53](?tab=t.wlmnvpsiquh8#heading=h.ky73oxihq50y)).
-
-* **Tiradas de Sigilo y Falla de Kauneda Arashi** El grupo realizó una tirada de *Stealth* con un \+2 al moverse hacia la compactadora ([01:14:26](?tab=t.wlmnvpsiquh8#heading=h.22gawpirpp9m)). Kauneda Arashi tuvo una tirada de tres, resultando en una pifia. Usó un *Benny* para repetir la tirada y tuvo éxito ([01:15:03](?tab=t.wlmnvpsiquh8#heading=h.q6434r2vcu12)) ([01:16:30](?tab=t.wlmnvpsiquh8#heading=h.l7sjsjj33duz)).
-
-* **Ubicación del Botón del Compactador** Al llegar al compactador, Ludo Bermejo señaló dos botones: uno que abre el compartimento (hace ruido y no puede ser silenciado por Pantomima) y otro que aplasta ([01:17:15](?tab=t.wlmnvpsiquh8#heading=h.h9nuw3ree4ys)). Ernesto Diezhandino propuso coordinar la apertura con la "Operación Dame Veneno" ([01:17:55](?tab=t.wlmnvpsiquh8#heading=h.5m05ugd7yxbz)).
-
-* **Ejecución de la Operación Dame Veneno** Sugus Blanco intentó el protocolo "Dame Veneno" (posiblemente una acción científica) e inicialmente falló la tirada. Sugus Blanco usó un *Benny* y tuvo éxito, llevando a que el equipo se preparara para abrir la puerta y neutralizar a los enemigos cercanos ([01:18:45](?tab=t.wlmnvpsiquh8#heading=h.iemsxpq2fgb6)).
-
-* **Acciones de Combate al Abrir el Compactador** Eduardo Vaquerizo disparó a los dos guardias cercanos ([01:19:46](?tab=t.wlmnvpsiquh8#heading=h.22bsg5q81pwa)). El grupo tuvo un turno gratis para actuar ([01:20:15](?tab=t.wlmnvpsiquh8#heading=h.745u3i3ihgx7)). Eduardo Vaquerizo disparó a uno de los tipos, incapacitándolo ([01:22:25](?tab=t.wlmnvpsiquh8#heading=h.4pknhswbn4tm)), y luego disparó al segundo tipo, causándole gran daño ([01:23:34](?tab=t.wlmnvpsiquh8#heading=h.nty54c8e5bb5)). Los disparos sonaron, ya que Eduardo Vaquerizo no tenía silenciador.
-
-* **Acciones de los Personajes durante la Apertura** Sugus Blanco decidió dedicarse a ayudar a sacar a las "crías" una vez que el compartimento se abriera, y se subió al compactador para vigilar el otro lado ([01:20:54](?tab=t.wlmnvpsiquh8#heading=h.nf19xzs7u6mz)) ([01:24:08](?tab=t.wlmnvpsiquh8#heading=h.qp7253filz1k)). Ludo Bermejo advirtió que la apertura del compactador tomaría uno o dos turnos ([01:23:34](?tab=t.wlmnvpsiquh8#heading=h.nty54c8e5bb5)). El grupo no podía guardar acción en este turno de sorpresa ([01:28:41](?tab=t.wlmnvpsiquh8#heading=h.s1er2h29nqrw)).
-
-* **Interferencia Sonora y Comunicación** El sonido del compactador activó una respuesta de gritos entre los enemigos en inglés, y Ludo Bermejo sugirió que la radio del grupo ahora sería necesaria, ya que Sugus Blanco se había alejado ([01:24:49](?tab=t.wlmnvpsiquh8#heading=h.sdeyv9aw2ns)). Ernesto Diezhandino también se subió al compactador, aprovechando su alto movimiento ([01:25:59](?tab=t.wlmnvpsiquh8#heading=h.jk7famtngjoo)).
-
-* **Preparación para el Combate Inminente** Hotman se quedó cerca de Sentencia, preparado para el combate y para vigilar el lado trasero del compactador ([01:27:06](?tab=t.wlmnvpsiquh8#heading=h.5k55p2byv09)). Ludo Bermejo informó que los enemigos ya no estaban "sorprendidos," y que tendrían que hacer tiradas para ver al grupo. La reunión terminó cuando se preparaban para la tirada de iniciativa ([01:28:41](?tab=t.wlmnvpsiquh8#heading=h.s1er2h29nqrw)).
-
-* **Problemas Iniciales de Cartas y Música** El juego se enfrentó a problemas iniciales ya que no quedaban cartas suficientes en el mazo, lo que sorprendió a Ludo Bermejo ([01:30:09](?tab=t.wlmnvpsiquh8#heading=h.dg7oemnyfqu5)). Ernesto Diezhandino sugirió que esto podría deberse a que algunos personajes (como Dimitri Kovalsk y Chengueilin) habían usado más de una carta ([01:31:11](?tab=t.wlmnvpsiquh8#heading=h.4r2i2lfuk46z)). Paralelamente, hubo una discusión sobre la música que sonaba, con Xavi Gracia y Ernesto Diezhandino haciendo bromas sobre proponer otras canciones y Eduardo Vaquerizo mencionando que Ernesto estaba sufriendo por la música ([01:31:58](?tab=t.wlmnvpsiquh8#heading=h.6ny7ari0lf5q)).
-
-* **Reseteo de Cartas y Mazo** Ludo Bermejo tuvo que resetear el sistema de cartas debido a la falta de cartas, solicitando a los participantes que volvieran a seleccionar ([01:31:58](?tab=t.wlmnvpsiquh8#heading=h.6ny7ari0lf5q)). A pesar de los esfuerzos, Ernesto Diezhandino y Eduardo Vaquerizo reportaron problemas iniciales para tirar, lo que llevó a Ludo Bermejo a intentar arreglarlo seleccionando combatientes y creando un grupo ([01:32:43](?tab=t.wlmnvpsiquh8#heading=h.5ysw2tn3bnkv)). Kauneda Arashi y Eduardo Vaquerizo confirmaron que finalmente pudieron seleccionar ([01:34:24](?tab=t.wlmnvpsiquh8#heading=h.uq1hn5nkikpq)).
-
-* **Discusión sobre la Canción de Fondo** Ernesto Diezhandino insistió en que la canción "Dame veneno que quiero morir" no estaba completa y estaba en un bucle ([01:32:43](?tab=t.wlmnvpsiquh8#heading=h.5ysw2tn3bnkv)) ([01:34:24](?tab=t.wlmnvpsiquh8#heading=h.uq1hn5nkikpq)). Ludo Bermejo bromeó que si devolvían la furgoneta, la canción no volvería a sonar. Ernesto Diezhandino defendió que la canción era un "temazo aplastante y abrumador" y que solo habían escuchado un trozo ([01:33:44](?tab=t.wlmnvpsiquh8#heading=h.gx1zezgeolik)).
-
-* **Dificultades en la Interfaz y Visualización** Ernesto Diezhandino experimentó dificultades para verse a sí mismo y solo veía los grupos de combatientes en su pantalla después del reseteo. Sugus Blanco indicó a Ernesto Diezhandino dónde estaba su personaje, lo que obligó a este último a volver a cargar ([01:35:06](?tab=t.wlmnvpsiquh8#heading=h.wtt6zzep00on)).
-
-* **Inicio del Combate y Primera Acción Retenida** Se confirmó que faltaban pantomima y diana por sacar en la iniciativa ([01:35:06](?tab=t.wlmnvpsiquh8#heading=h.wtt6zzep00on)). Eduardo Vaquerizo retuvo su acción hasta que viera a alguien a tiro, colocándose delante de Sique y Panto para protegerlas ([01:35:51](?tab=t.wlmnvpsiquh8#heading=h.7d7sh1wczvln)).
-
-* **Disparo de Eduardo Vaquerizo y Eliminación de un Combatiente** Un combatiente emergió y Eduardo Vaquerizo usó su acción retenida para disparar con su "deeragle" ([01:36:42](?tab=t.wlmnvpsiquh8#heading=h.w1ou86qtkw12)). Aunque el tiro de Eduardo Vaquerizo fue malo inicialmente, un "cuatro le da" y le hizo suficiente daño (siete) para que el combatiente cayera ([01:37:21](?tab=t.wlmnvpsiquh8#heading=h.1kv1t0f69u80)). Eduardo Vaquerizo confirmó que no podía disparar dos veces a un objetivo que ya había eliminado, aunque Ludo Bermejo aclaró que sí podía disparar dos veces ([01:37:59](?tab=t.wlmnvpsiquh8#heading=h.aq9uakplgha1)).
-
-* **Ataque por Sorpresa de Sugus Blanco** Un enemigo se puso a cubierto, buscando la fuente de los disparos. Sugus Blanco aprovechó su habilidad y la de asesino para atacar al enemigo que se acercaba, logrando un 15 en la tirada ([01:38:42](?tab=t.wlmnvpsiquh8#heading=h.u5xtexso6sub)). A pesar de que Sugus Blanco seleccionó accidentalmente a sí mismo en una tirada de daño, el combatiente cayó, ya que Sugus Blanco indicó que no buscaba ser letal a menos que lo dijera ([01:40:51](?tab=t.wlmnvpsiquh8#heading=h.z2rrgtlacjiu)).
-
-* **Retraso en la Apertura de la Puerta y Plan de Diana** Los combatientes enemigos restantes avanzaron y retuvieron su acción. Sugus Blanco alertó a Diana (Ernesto Diezhandino) sobre cuatro tiros delante ([01:41:44](?tab=t.wlmnvpsiquh8#heading=h.4s8j6xvxbf5g)). Ludo Bermejo informó que la puerta tardaría dos turnos más en abrirse lo suficiente para que pudieran sacar a los personajes, lo que se traduce en un total de tres turnos antes de que pudieran sacarlos ([01:43:45](?tab=t.wlmnvpsiquh8#heading=h.619vx2uuchgo)). Diana decidió esperar al que se quedara de último para atacarlo ([01:44:27](?tab=t.wlmnvpsiquh8#heading=h.wdt16ghvbjs7)).
-
-* **Maniobra Sigilosa de Sugus Blanco** Los enemigos que vieron a un compañero caído colocaron para contener la acción, apuntando a cualquier cosa que se acercara. Sugus Blanco, aprovechando su habilidad de "steels a ocho," decidió moverse sigilosamente para intentar flanquear a los enemigos por la espalda en el siguiente turno ([01:45:10](?tab=t.wlmnvpsiquh8#heading=h.gwgrtdbpvxd5)).
-
-* **Ataque Aéreo contra Diana** Un enemigo situado en un lugar alto divisó y disparó contra Diana (Ernesto Diezhandino), quien se encontraba agachada ([01:47:11](?tab=t.wlmnvpsiquh8#heading=h.p82bcut8mc7u)). El disparo impactó, causando dos heridas que Diana logró absorber parcialmente con un Benny, resultando en que ella quedara atontada y herida ([01:47:55](?tab=t.wlmnvpsiquh8#heading=h.shuk27c0jv9p)). Ludo Bermejo aclaró que los jugadores pueden absorber daño usando un Benny, a diferencia de los enemigos ([01:49:02](?tab=t.wlmnvpsiquh8#heading=h.75rj8y56lny2)).
-
-* **Ataque Mental de Kauneda Arashi y Comunicación por Radio** Kauneda Arashi (Sique) sintió el dolor de Diana y lanzó un ataque mental al tirador, aunque con un \-2 debido a que estaba controlando todo el mapa ([01:49:49](?tab=t.wlmnvpsiquh8#heading=h.o857ccnuecze)). El ataque de Kauneda Arashi falló. Posteriormente, Kauneda Arashi usó la radio para comunicar a los otros la posición de los enemigos, indicando que iba a desconectar el control telepático para poder centrar su acción en el futuro ([01:51:36](?tab=t.wlmnvpsiquh8#heading=h.g3dxrk6xnd4s)).
-
-* **Pantomima Mantiene la Ilusión y Sugerencia de No Sonido** Xavi Gracia (Pantomima) observó que la mayoría de los enemigos a su vista estaban muertos, a excepción del de la torreta, y decidió mantener su ilusión ([01:52:25](?tab=t.wlmnvpsiquh8#heading=h.bp87xmr9lsih)). Pantomima sugirió a Justa que no hiciera ruido con las pistolas, aunque Ludo Bermejo indicó que las ilusiones de Pantomima eran visuales, no auditivas, y que hacer efectos de sonido cuesta más trabajo ([01:53:29](?tab=t.wlmnvpsiquh8#heading=h.35hiniryl048)).
-
-* **Nueva Tirada de Iniciativa y Hostman Queda Aturdido** La iniciativa se volvió a tirar, y Pantomima notó que un enemigo había sacado su carta ([01:53:29](?tab=t.wlmnvpsiquh8#heading=h.35hiniryl048)). Los enemigos volvieron a disparar contra Diana, que tuvo suerte de que el ataque no le diera ([01:54:24](?tab=t.wlmnvpsiquh8#heading=h.rb8kszvfx1fi)). El grupo de combatientes detrás disparó a Hotman, el cual quedó aturdido ([02:10:38](?tab=t.wlmnvpsiquh8#heading=h.yyst22gpgmhy)).
-
-* **Sugus Blanco Usa un Enemigo Como Escudo** Un enemigo avanzó, y Sugus Blanco lo atacó, enganchándolo con su cola ([01:55:38](?tab=t.wlmnvpsiquh8#heading=h.g8i1b5e32wn8)). Sugus Blanco falló la tirada inicial para "enganchar", pero usó un Benny para sacar un nueve y lograr el aferramiento ([01:57:47](?tab=t.wlmnvpsiquh8#heading=h.s7v7r26fwl9x)). Sugus Blanco luego usó al enemigo, que quedó aturdido e inmovilizado, como escudo, llevándolo hacia sí ([01:58:53](?tab=t.wlmnvpsiquh8#heading=h.6zj8ob7mr1kf)).
-
-* **Diana se Recupera y Considera Opciones Defensivas** Diana logró recuperarse del aturdimiento ([01:59:34](?tab=t.wlmnvpsiquh8#heading=h.s6x39plymbjk)). Se confirmó que la puerta todavía tardaría más en abrirse completamente ([02:00:25](?tab=t.wlmnvpsiquh8#heading=h.4wy32yl10531)). Diana evaluó sus opciones defensivas ante el peligroso tirador en lo alto y los enemigos que habían tomado posiciones ([02:01:13](?tab=t.wlmnvpsiquh8#heading=h.1u8e9o8j6kna)). Diana consideró moverse al otro lado para estar cubierta de los tipos del frente ([02:03:25](?tab=t.wlmnvpsiquh8#heading=h.bqkuut2r9pf3)).
-
-* **Estrategia Defensiva y Cobertura de Diana** Ludo Bermejo confirmó que Diana tenía un tipo de habilidad que le permitía reaccionar ante el movimiento de los enemigos sin necesidad de retener su acción. Diana se puso en "modo defensa absoluta" para tener peor objetivo y cobertura ([02:03:58](?tab=t.wlmnvpsiquh8#heading=h.eb3cd7ivqx2j)).
-
-* **Evaluación de Distancia para la Ilusión de Pantomima** Pantomima evaluó si podía crear una ilusión para distraer al tirador en lo alto ([02:04:39](?tab=t.wlmnvpsiquh8#heading=h.r5e19vdot4bj)). Tras la confusión sobre las unidades de distancia (pulgadas vs. metros), se concluyó que el tirador estaba fuera del alcance de 24 metros del poder de ilusión de Pantomima ([02:05:44](?tab=t.wlmnvpsiquh8#heading=h.is4hysncm448)).
-
-* **Pantomima Crea un Efecto de Multiplicación en Diana** Pantomima decidió crear un efecto de multiplicación en Diana para ocultarla, ya que estaba a distancia ([02:07:46](?tab=t.wlmnvpsiquh8#heading=h.bxyoafinyj8g)). Pantomima tuvo éxito en la tirada con un menos dos ([02:08:35](?tab=t.wlmnvpsiquh8#heading=h.t1cwn3r2ibby)).
-
-* **Acción de Hotman y Distracción de Enemigos** Hotman se desaturdió con éxito y lanzó un poder de control de energía, causando una distracción en el enemigo más cercano ([02:12:27](?tab=t.wlmnvpsiquh8#heading=h.dg3nkqheq4hu)). Sugus Blanco aprovechó la distracción para tirar el cuerpo del enemigo que utilizaba como escudo, impactando contra otro y distrayendo también al segundo, antes de correr para flanquearlos ([02:15:41](?tab=t.wlmnvpsiquh8#heading=h.uxonem4fvdgz)).
-
-* **Justa Elimina al Tirador de la Torreta** Justa (Eduardo Vaquerizo) observó al tirador que estaba en la torreta. A pesar de la alta cobertura que ofrecía la altura (-4), Justa lanzó un ataque ([02:17:31](?tab=t.wlmnvpsiquh8#heading=h.trqw4suq8t7i)). Después de fallar un tiro y usar un Benny para el segundo, Justa impactó y eliminó al tirador ([02:18:15](?tab=t.wlmnvpsiquh8#heading=h.l6kr50u50vxa)).
-
-* **Reacción de Diana y Eliminación de Enemigo Cercano** Kauneda Arashi decidió retener su acción para atacar al primer enemigo que viera ([02:19:27](?tab=t.wlmnvpsiquh8#heading=h.br41npnhktms)). Un enemigo avanzó hacia Diana, lo que activó su reacción de ataque ([02:20:17](?tab=t.wlmnvpsiquh8#heading=h.5dqoqz5h7tox)). Diana impactó con su ataque, rompiéndole el cráneo al combatiente ([02:21:22](?tab=t.wlmnvpsiquh8#heading=h.mbr0enq4jg30)).
-
-* **Encuentro con un Enemigo y Tiradas de Control** Los participantes se enfrentaron a un atacante que apareció repentinamente. Kauneda Arashi intentó un ataque pero falló en la tirada de control, a pesar de tener muy mala suerte con sus tiradas según Ludo Bermejo. Ludo Bermejo señaló que el atacante disparó a múltiples objetivos, con una penalización de menos cuatro por la protección de las dianas, y luego se retiró, aunque ahora se conoce su ubicación ([02:22:45](?tab=t.wlmnvpsiquh8#heading=h.ltk8jzjhtwwe)).
-
-* **Turnos de Personaje y Movimiento** Ludo Bermejo mencionó que se habían lanzado las cartas de turno de nuevo, y Ernesto Diezhandino actuó primero después de que le saliera su carta. Inicialmente, Ernesto Diezhandino no pudo moverse porque no era su turno, a pesar de la indicación de Ludo Bermejo ([02:25:23](?tab=t.wlmnvpsiquh8#heading=h.uttbb8ckkxk3)). Ernesto Diezhandino preguntó si le era posible asomar, atacar y volver a esconderse, a lo que Ludo Bermejo respondió afirmativamente porque los enemigos habían perdido su turno y aún no habían actuado ([02:26:11](?tab=t.wlmnvpsiquh8#heading=h.yafe6qjhijdo)).
-
-* **Combate de Diana y Daño Infligido** Ernesto Diezhandino, controlando al personaje Diana, atacó a un enemigo, seleccionándolo para golpear. Diana usó una tirada con un más dos, resultando en 30 por muchos dados que explotaron, e infligió seis heridas al enemigo ([02:26:11](?tab=t.wlmnvpsiquh8#heading=h.yafe6qjhijdo)). Ernesto Diezhandino describió el ataque como Diana asomando, golpeando el codo del enemigo en dirección contraria, seguido de dos codazos a las costillas, dos al flanco y el último a la cara ([02:27:00](?tab=t.wlmnvpsiquh8#heading=h.bmeapmep3st4)).
-
-* **Rescate de Niños y Fin de Sesión** Después del ataque, Diana se volvió a esconder para empezar a sacar a los niños. Ludo Bermejo confirmó que Diana podía moverse y cargar a los cuatro niños, quienes estaban aturdidos y gruñendo ([02:28:01](?tab=t.wlmnvpsiquh8#heading=h.gntkjfya0mfa)). Los participantes se mostraron encantados con las criaturas que estaban rescatando, que Ludo Bermejo identificó como un "caimací murcielagueto, perrete y la ratilla" y que además iban vestidos ([02:28:39](?tab=t.wlmnvpsiquh8#heading=h.68qizb4dt8yh)) ([02:29:44](?tab=t.wlmnvpsiquh8#heading=h.7tv4mqg4fi6q)). La sesión terminó en este punto, ya que era la hora y Ludo Bermejo tenía que hablar con su madre ([02:28:01](?tab=t.wlmnvpsiquh8#heading=h.gntkjfya0mfa)) ([02:30:13](?tab=t.wlmnvpsiquh8#heading=h.t1qr9mwso83p)).
-
-* **Reglas de Recuperación de Benis** Ludo Bermejo felicitó al grupo por haberse cargado a más de la mitad de los enemigos y solo haber recibido una herida. No obstante, les recordó que no recuperaban *Benis* en este combate y que solo podían hacerlo si realizaban "cosas superheroicas" o si las acciones iban a favor de sus desventajas ([02:30:13](?tab=t.wlmnvpsiquh8#heading=h.t1qr9mwso83p)). Ernesto Diezhandino preguntó si rescatar niños no era superheroico, a lo que Ludo Bermejo aclaró que es la misión, pero una acción superheroica sería interponerse para proteger a alguien de un disparo ([02:30:53](?tab=t.wlmnvpsiquh8#heading=h.rwcdscne7m4w)).
-
-* **Obtención de Benis por Desventaja** Ernesto Diezhandino confirmó que el ataque anterior de Diana fue absolutamente por el rebote y la frustración, utilizando al enemigo como un "punching ball". Ludo Bermejo concluyó que esto le otorgaba a Diana un *Benis* porque su acción de matar se debía a un berrinche o frustración, lo cual iba a favor de su desventaja de inmadurez emocional. Ludo Bermejo se despidió de los participantes hasta la próxima sesión ([02:30:53](?tab=t.wlmnvpsiquh8#heading=h.rwcdscne7m4w)).
-
-### Pasos siguientes recomendados
-
-- [ ] Sugus Blanco puede pasar el enlace de las botas de Decathlon que usó en Siberia a Xavi Gracia.  
-- [ ] Ernesto Diezhandino intentará interferir en las radios de los mercenarios usando la señal 'Dame veneno' en todos los canales a lo bestia.  
-- [ ] Eduardo Vaquerizo encargará silenciadores a espectro.  
-- [ ] Xavi Gracia puede pasarle flamenco a Ludo Bermejo para variar la música.  
-- [ ] Eduardo Vaquerizo puede bajarse la versión completa de la canción de Spotify.  
-- [ ] Sugus Blanco compartirá la captura de pantalla y Ernesto Diezhandino pasará el primer movimiento de Diana por WhatsApp.
-
-*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
-
-*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=5XtQ4BnQ4h2KktB2MdqSDxIROAIIigIgABgDCA&detailid=standard)*
+**Duración aproximada**: ~2.5 horas

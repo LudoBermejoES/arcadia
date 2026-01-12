@@ -150,7 +150,7 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 
 ### **Operación Rescate de Crías Bestiales (Diciembre 2025 - Enero 2026)**
 
-**Sesiones 44-45:**
+**Sesiones 44-46:**
 
 - Investigación del edificio abandonado de Padre Bestia
 - Combate con mercenarios de **Constellis** (grupo paramilitar estadounidense)
@@ -160,6 +160,17 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - **Operación Desguace**: Asalto coordinado con Protocolo Dame Veneno
 - **Rescate exitoso** de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
 - Fortalecimiento de la alianza con La Cacería Salvaje
+
+### **Escape y Crisis Mediática (Enero 2026)**
+
+**Sesión 46:**
+
+- **Helicóptero derribado**: Cía/Psique derriba helicóptero hostil con ataque mental
+- Descubrimiento de capacidades ocultas de la furgoneta (300 km/h, 12 botones de vuelo)
+- Las crías emiten **ondas mentales** detectables (posible llamada a sus padres)
+- **Crisis de imagen de Diana**: Vídeo filtrado la muestra matando a un mercenario
+- Filtración **selectiva** - operación de desprestigio orquestada contra Diana
+- **Mulcifer** (padrino de Diana, Fatum) ofrece ayuda y los invita al casino familiar
 
 ---
 
@@ -235,7 +246,7 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 </div>
 
 <div class="stat-card">
-<span class="stat-number">45+</span>
+<span class="stat-number">46+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -254,15 +265,16 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 
 ## 🔮 **Estado Actual (Enero 2026)**
 
-La Fuerza Oculta ha completado exitosamente la Operación Desguace, rescatando a las 4 crías bestiales secuestradas por mercenarios de Constellis. Tras sobrevivir a múltiples ataques coordinados (Cazacapas en Isla Sal) y resolver la crisis personal de Hotman con su padre, el equipo ha demostrado capacidad táctica excepcional en operaciones complejas.
+La Fuerza Oculta ha completado exitosamente la Operación Desguace, rescatando a las 4 crías bestiales y derribando un helicóptero hostil durante el escape (Cía con ataque mental). Sin embargo, enfrentan una nueva crisis: un vídeo filtrado selectivamente muestra a Diana matando a un mercenario, desatando una campaña de desprestigio mediático contra ella. Mulcifer (padrino de Diana, de Fatum) los ha invitado al casino familiar para gestionar la situación.
 
 ### **Desafíos Actuales**
 
-- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales
+- **Crisis mediática de Diana**: Vídeo filtrado selectivamente la muestra matando - operación de desprestigio orquestada
+- **Reunión con Mulcifer**: Invitación al casino familiar de Fatum para gestionar la crisis de imagen
+- **Amenaza Constellis**: Mercenarios estadounidenses derrotados pero no eliminados
+- **Funciones ocultas de la furgoneta**: 12 botones de vuelo por descubrir, velocidad de 300 km/h
 - **Conexión Pantomima-Caos**: Cacharrero confirma que Caos (padre de Pantomima) encargó el monopatín
-- **Nuevo poder de Hotman**: Descubrió capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
-- **Integración del linaje de Pantomima**: Pantomima busca comunicación con Caos a través de Cacharrero
-- **Búsqueda de mentores**: Cada miembro busca guía en veteranos (Mésmero, Eneiros, Espectro, etc.)
+- **Nuevo poder de Hotman**: Capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
 
 ### **Alianzas Recientes**
 - **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Alianza formal para investigar amenazas en el Barrio Gótico

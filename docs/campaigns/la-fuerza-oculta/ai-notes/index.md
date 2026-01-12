@@ -375,10 +375,27 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-01-11 - Escape del Desguace y Llamada de Mulcifer](../ai-notes-summary/2026-01-11-gemini-notes.md)
+
+**"Explosión del Helicóptero y Crisis Mediática"**
+
+- 🚁 **Ataque del Helicóptero**: Mercenarios atacan con ametralladoras y lanzamisiles
+- 🧠 **Ataque Mental de Cía**: Derriba al tirador del misil, helicóptero explota
+- 🚐 **Furgoneta Especial**: Descubrimiento de velocidad 300 km/h y 12 botones de vuelo
+- 🍕 **Planet Pizza**: El grupo lleva a las crías a Pisajot en Distrito Iovis
+- 📡 **Ondas Mentales**: Las crías emiten señales detectables (posible llamada a padres)
+- 📺 **Crisis Mediática**: Vídeo filtrado de Diana matando a mercenario
+- 🎰 **Llamada de Mulcifer**: Padrino de Diana invita al casino familiar de Fatum
+- 🎯 **Operación de Desprestigio**: Filtración selectiva dirigida contra Diana
+
+**Duración**: ~2.5 horas | **Palabras**: ~17,000 | **Páginas**: ~44
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 24 sesiones completas
+- **Total de Transcripciones**: 25 sesiones completas
 - **Período Cubierto**: Junio 2025 - Enero 2026 (8 meses intensivos)
 - **Palabras Totales**: ~418,500 palabras transcritas
 - **Páginas Equivalentes**: ~1,070 páginas de contenido

@@ -127,6 +127,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 ### 🐾 **Fase XI: Rescate de las Crías Bestiales (Enero 2026)**
 
 - **[4 Enero](ai-notes-summary/2026-01-04-gemini-notes.md)** / **[Manual](manual-notes/session-45-2026-01-04.md)**: Operación de asalto al desguace, Protocolo Dame Veneno para interferencia de comunicaciones, combate coordinado contra mercenarios, rescate exitoso de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
+- **[11 Enero](ai-notes-summary/2026-01-11-gemini-notes.md)** / **[Manual](manual-notes/session-46-2026-01-11.md)**: Escape del desguace bajo ataque de helicóptero, Cía derriba el helicóptero con ataque mental, descubrimiento de capacidades ocultas de la furgoneta (300 km/h, botones de vuelo), crías llevadas a Planet Pizza, crisis mediática por vídeo filtrado de Diana, llamada de Mulcifer invitando al casino familiar de Fatum
 
 ---
 
@@ -186,7 +187,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">45+</span>
+<span class="stat-number">46+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -243,15 +244,16 @@ Mezcla elementos de:
 
 ## 🔮 Estado Actual (Enero 2026)
 
-**La Fuerza Oculta** ha completado exitosamente el rescate de las crías bestiales secuestradas por mercenarios de Constellis. Tras sobrevivir a ataques coordinados de Cazacapas y una crisis personal de Hotman con su padre, el equipo ha demostrado su capacidad táctica en operaciones complejas. Mantienen alianzas formales con La Cacería Salvaje y cuentan con el apoyo técnico de El Cacharrero. Cada sesión añade nuevas capas a un universo que ha crecido orgánicamente durante 15 años.
+**La Fuerza Oculta** ha completado exitosamente el rescate de las crías bestiales y escapado de un helicóptero hostil que Cía derribó con un ataque mental. Sin embargo, enfrentan una nueva crisis: un vídeo filtrado muestra a Diana matando a un mercenario, desatando una campaña de desprestigio mediático contra ella. Su padrino Mulcifer (de la familia Fatum) los ha invitado al casino familiar para discutir la situación. El equipo también ha descubierto capacidades ocultas de su furgoneta, incluyendo velocidad extrema y posibles controles de vuelo.
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Investigación "Padre Bestia"**: Misión completada - crías rescatadas, pero quedan preguntas sobre Constellis
-- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales
+- **Crisis mediática de Diana**: Vídeo filtrado selectivamente la muestra matando - operación de desprestigio
+- **Reunión con Mulcifer**: Invitación al casino familiar de Fatum para gestionar la crisis
+- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales - derrotados pero no eliminados
 - **Crisis familiar de Hotman**: Su padre lo ha repudiado y parece tener conexiones peligrosas
 - **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
-- **Visita al padrino de Diana**: Encuentro programado con Mulciber (Fatum)
+- **Funciones ocultas de la furgoneta**: 12 botones de vuelo por descubrir, velocidad de 300 km/h
 
 ---
 

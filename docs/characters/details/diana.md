@@ -164,6 +164,25 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Equipo la protegió durante vulnerabilidad
 - Profundización de empatía con Pantomima (también afectada)
 
+### Fase VI: Rescate y Crisis Mediática (Enero 2026)
+
+**Operación Desguace** (4-11 Enero):
+- Recibe disparo y queda atontada temporalmente
+- **Furia desatada**: Mata a dos enemigos en combate cuerpo a cuerpo
+- Protagoniza el rescate físico de las 4 crías bestiales del compactador
+- Muestra cuidado instintivo hacia las crías rescatadas
+
+**Escape del Desguace** (11 Enero):
+- Psique se echa instintivamente sobre ella para protegerla de las balas del helicóptero
+- Participa en la huida a Planet Pizza con las crías
+
+**Crisis Mediática** (11 Enero):
+- **Vídeo filtrado**: Grabación la muestra matando a un mercenario
+- La filtración es **selectiva**: Solo aparece ella, no los ataques previos de los mercenarios
+- Operación de desprestigio orquestada contra su imagen pública
+- **Mulcifer** (su padrino de Fatum) llama para ofrecerle ayuda
+- Invitación al **casino familiar** de Fatum para gestionar la crisis
+
 ---
 
 ## 🔗 Relaciones
@@ -239,7 +258,7 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ---
 
-## 📊 Estado Actual (Noviembre 2025)
+## 📊 Estado Actual (Enero 2026)
 
 ### Capacidades Tácticas
 
@@ -247,6 +266,7 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Detección de puntos débiles estructurales
 - Combate directo devastador
 - Coordinación sin comunicación verbal
+- **Capacidad letal demostrada**: Mata enemigos sin remordimiento aparente en combate
 
 ### Situación Emocional
 
@@ -260,6 +280,14 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Furia "Saiyan" sin control completo
 - Duelo de Apolo sin cierre posible
 - ¿Buscar a su hermano o aceptar la distancia?
+
+### Crisis de Imagen Pública (Enero 2026)
+
+- **Vídeo filtrado** la muestra matando a un mercenario
+- **Operación de desprestigio** selectiva dirigida contra ella
+- Autoridades buscan contactarla
+- **Mulcifer** ofrece ayuda desde Fatum
+- Próximo paso: Reunión en el casino familiar de Fatum
 
 ### Situación Financiera
 

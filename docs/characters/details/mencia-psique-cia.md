@@ -184,6 +184,25 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - Teme convertirse en alguien que daña mentes casualmente
 - Debate con equipo sobre límites del poder mental
 
+### Fase VI: Rescate de las Crías Bestiales (Enero 2026)
+
+**Operación Desguace** (4-11 Enero):
+- Proporciona inteligencia táctica durante asalto coordinado
+- Coordina comunicaciones del equipo por radio y enlace mental
+- Sus ataques mentales fallan contra mercenarios profesionales
+
+**Helicóptero Derribado** (11 Enero):
+- **Hazaña heroica**: Derriba helicóptero hostil con ataque mental
+- Objetivo: Tirador de lanzamisiles que amenazaba al grupo
+- El ataque mental desestabiliza al tirador, causando explosión del helicóptero
+- Uso de Benny para asegurar éxito crítico
+- Se echa instintivamente sobre Diana para protegerla de las balas
+
+**Crías Bestiales**:
+- Detecta **ondas mentales** emanando de las crías rescatadas
+- Sugiere que las ondas podrían ser llamada a sus padres
+- Sondea mentalmente las preferencias de los cachorros (carne, ratones, cucarachas)
+
 ---
 
 ## 🔗 Relaciones
@@ -263,7 +282,7 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ---
 
-## 📊 Estado Actual (Noviembre 2025)
+## 📊 Estado Actual (Enero 2026)
 
 ### Capacidades Telepáticas
 
@@ -272,6 +291,7 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - Infligir daño psíquico severo
 - Geolocalización de mentes conocidas
 - Gestión mejorada de fatiga (entrenamiento con Mésmero)
+- **Nuevo**: Capacidad de derribar vehículos a distancia atacando pilotos
 
 ### Situación Profesional
 

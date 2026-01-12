@@ -300,12 +300,22 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - **Rescate exitoso de las 4 crías bestiales** del compactador de basura
   - Las crías son adorables: caimancito, murciélago, perrito y ratilla (vestidos)
 
+- **[Sesión 46 - 11 Enero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-46-2026-01-11/)** - *"Escape del Desguace y la Llamada de Mulcifer"*
+  - Escape del desguace mientras helicóptero hostil ataca
+  - **Cía derriba el helicóptero** con ataque mental exitoso (explota a 50m)
+  - Huida en furgoneta: descubrimiento de **velocidad 300 km/h** y **12 botones de vuelo**
+  - Las crías llevadas a Planet Pizza (Pisajot) en Distrito Iovis
+  - Las crías emiten **ondas mentales** detectables (posible llamada a sus padres)
+  - **Crisis mediática**: Vídeo filtrado de Diana matando a mercenario
+  - **Mulcifer** (padrino de Diana) llama invitándolos al **casino familiar** de Fatum
+  - La filtración es selectiva: operación de desprestigio contra Diana
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 41 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 42 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Enero 2026 (23 meses)
 - **Páginas Estimadas**: ~600 páginas de notas detalladas
 - **Horas de Juego**: ~120 horas registradas

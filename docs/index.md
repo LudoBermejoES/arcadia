@@ -11,6 +11,61 @@ description: "Archivo histórico completo de cuatro campañas épicas de superh�
 
 ---
 
+<div class="intro-video-hero">
+  <div class="video-wrapper">
+    <iframe width="560" height="315"
+            src="https://www.youtube.com/embed/-2aGHBFTfco"
+            title="Intro de Arcadia - Bienvenido al Universo"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen>
+    </iframe>
+  </div>
+  <p class="video-caption">Descubre el universo de Arcadia en nuestra intro oficial</p>
+</div>
+
+<style>
+.intro-video-hero {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 1.5rem 0 2rem 0;
+  text-align: center;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.3);
+  border: 1px solid rgba(230, 0, 38, 0.3);
+}
+
+.intro-video-hero .video-wrapper {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 800px;
+  margin: 0 auto;
+  border-radius: 12px;
+  box-shadow: 0 8px 32px rgba(230, 0, 38, 0.2);
+}
+
+.intro-video-hero .video-wrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 12px;
+}
+
+.intro-video-hero .video-caption {
+  color: #e0e0e0;
+  font-size: 0.95rem;
+  margin-top: 1rem;
+  margin-bottom: 0;
+  font-style: italic;
+}
+</style>
+
+---
+
 ## 🌟 **Bienvenido a Arcadia**
 
 Sumérgete en **15 años ininterrumpidos** de narrativa superheroica colaborativa. Desde 2010 hasta 2025, este archivo viviente documenta la evolución de un universo compartido donde cada decisión, cada personaje y cada historia han sido forjados por años de juego de rol colaborativo.

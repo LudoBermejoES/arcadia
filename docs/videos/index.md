@@ -14,11 +14,11 @@ permalink: /videos/
 Esta introducción se reproduce al comienzo de cada sesión de juego, estableciendo el tono y la atmósfera del universo de Arcadia.
 
 <div class="video-container">
-  <iframe width="560" height="315" 
-          src="https://www.youtube.com/embed/p_cvT8b7brs" 
+  <iframe width="560" height="315"
+          src="https://www.youtube.com/embed/-2aGHBFTfco"
           title="Intro de Arcadia"
-          frameborder="0" 
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen>
   </iframe>
 </div>

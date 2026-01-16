@@ -187,16 +187,20 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 ### Fase VI: Rescate de las Crías Bestiales (Enero 2026)
 
 **Operación Desguace** (4-11 Enero):
-- Proporciona inteligencia táctica durante asalto coordinado
-- Coordina comunicaciones del equipo por radio y enlace mental
-- Sus ataques mentales fallan contra mercenarios profesionales
+- Proporciona inteligencia táctica durante asalto coordinado (escaneo de 12 enemigos, 4 crías)
+- Coordina comunicaciones del equipo por radio y enlace mental durante toda la operación
+- **4 enemigos noqueados** con ataques mentales durante el combate en el desguace:
+  - Primer enemigo: Dejado "conmocionado" y de rodillas (posteriormente rematado por Sentencia)
+  - Segundo enemigo: Dejado "conmocionado" y de rodillas
+  - Tercer enemigo: Dejado "en defeat" (casi muerte)
+  - Cuarto enemigo: Muerto directamente por ataque mental
 
 **Helicóptero Derribado** (11 Enero):
-- **Hazaña heroica**: Derriba helicóptero hostil con ataque mental
-- Objetivo: Tirador de lanzamisiles que amenazaba al grupo
-- El ataque mental desestabiliza al tirador, causando explosión del helicóptero
-- Uso de Benny para asegurar éxito crítico
-- Se echa instintivamente sobre Diana para protegerla de las balas
+- **Hazaña heroica**: Derriba helicóptero hostil con ataque mental al tirador de lanzamisiles
+- Objetivo: Tirador que apuntaba con misil antitanque al grupo
+- El ataque mental desestabiliza al tirador, causando explosión del helicóptero a 50 metros
+- Uso de Benny para asegurar éxito crítico en momento crucial
+- Se echa instintivamente sobre Diana para protegerla de las balas del helicóptero
 
 **Crías Bestiales**:
 - Detecta **ondas mentales** emanando de las crías rescatadas

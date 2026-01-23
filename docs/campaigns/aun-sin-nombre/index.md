@@ -27,14 +27,14 @@ permalink: /campaigns/aun-sin-nombre/
 
 ### ⚡ El Equipo
 
-#### 🦎 **[Sergei]({{ site.baseurl }}/characters/details/sergei/)** *(PJ)*
+#### 🦎 **[Sergei]({{ site.baseurl }}/characters/details/sergei/)** *(David Pérez Jiménez)*
 - **Poderes**: Metamorfo sin órganos internos, cuerpo moldeable
 - **Habilidades**: Puede pasar por sitios pequeños, extender brazos, mejorar atributos físicos, separar partes de su cuerpo que se regeneran
 - **Historia**: Veterano del reformatorio (desde los 12-13 años, ahora tiene 16-17), posiblemente sin otro lugar adonde ir
 - **Apariencia**: Joven moreno, alto y delgado, pelo corto alborotado, piel "rara" sin vello corporal
 - **Personalidad**: Bromista, líder social del grupo
 
-#### 💪 **[Tiritas]({{ site.baseurl }}/characters/details/tiritas/)** *(Júlia Gasull)*
+#### 💪 **[Tiritas]({{ site.baseurl }}/characters/details/tiritas/)** *(Juls/Júlia Gasull)*
 - **Poderes**: Absorción de energía cinética, se vuelve más grande y fuerte al recibir golpes
 - **Habilidades**: Sentido de curación mejorado, resistencia extrema
 - **Historia**: Lleva dos años en el reformatorio, acusado de matar a su padre durante una paliza en defensa propia
@@ -49,7 +49,7 @@ permalink: /campaigns/aun-sin-nombre/
 - **Personalidad**: Retraída, estilo "emo", joven de 13-14 años
 - **Peculiaridad**: No puede ducharse con otras chicas debido a sus poderes eléctricos
 
-#### 🎭 **[Elena]({{ site.baseurl }}/characters/details/elena-exposito/)** *(Perico)*
+#### 🎭 **[Elena]({{ site.baseurl }}/characters/details/elena-exposito/)** *(Perico/Capitán Berberecho)*
 
 - **Poderes**: Ilusionista avanzada, puede crear ilusiones a 24 metros de distancia y transformarse en otras personas/objetos/animales
 - **Habilidades**: Efecto camaleón (transformación visual), creación de engaños realistas

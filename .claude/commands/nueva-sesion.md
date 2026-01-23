@@ -102,24 +102,37 @@ Consulta ejemplos existentes en `ai-notes-summary/` para ver el formato esperado
 
 ### 4. Índices a Actualizar (OBLIGATORIO)
 
+**IMPORTANTE**: Revisa TODOS los archivos index.md de la campaña, estén en la carpeta que estén. Cada campaña puede tener múltiples índices que necesitan mantenerse sincronizados.
+
 Lee y actualiza estos archivos en orden (adapta las rutas a la campaña correspondiente):
 
-1. **`docs/campaigns/[campaña]/manual-notes/index.md`** (si hay notas manuales)
+1. **`docs/campaigns/[campaña]/index.md`** (PRINCIPAL)
+   - Añadir sesión a cronología en la fase correspondiente
+   - Actualizar estadísticas generales (sesiones totales, horas, etc.)
+   - Actualizar "Estado Actual" si hay cambios narrativos importantes
+   - Verificar que los nombres de jugadores/personajes sean correctos
+
+2. **`docs/campaigns/[campaña]/sessions/index.md`** (si existe)
+   - Añadir nueva entrada en la cronología de sesiones
+   - Actualizar estadísticas y métricas
+   - Mantener consistencia con el index principal
+
+3. **`docs/campaigns/[campaña]/manual-notes/index.md`** (si hay notas manuales)
    - Añadir nueva entrada en cronología
    - Actualizar estadísticas (total sesiones, período)
 
-2. **`docs/campaigns/[campaña]/ai-notes/index.md`** (si hay transcripción AI)
+4. **`docs/campaigns/[campaña]/ai-notes/index.md`** (si hay transcripción AI)
    - Añadir nueva entrada con enlace que apunte a `../ai-notes-summary/`
    - Actualizar estadísticas de transcripciones
    - **IMPORTANTE**: Los enlaces deben apuntar a ai-notes-summary/, no a ai-notes/
 
-3. **`docs/campaigns/[campaña]/ai-notes-summary/index.md`** (si existe y hay transcripción)
+5. **`docs/campaigns/[campaña]/ai-notes-summary/index.md`** (si existe y hay transcripción)
    - Añadir entrada del nuevo análisis
 
-4. **`docs/campaigns/[campaña]/index.md`**
-   - Añadir sesión a cronología en la fase correspondiente
-   - Actualizar estadísticas generales
-   - Actualizar "Estado Actual" si hay cambios narrativos
+6. **Otros índices específicos de la campaña** (revisar si existen):
+   - `docs/campaigns/[campaña]/reformatorio/index.md` (para aun-sin-nombre)
+   - `docs/campaigns/[campaña]/summary/summary.md` (para la-fuerza-oculta)
+   - Cualquier otro archivo index.md dentro de la carpeta de la campaña
 
 ### 4. Revisión Contextual
 
@@ -146,16 +159,22 @@ Presenta al usuario este checklist antes de hacer commit:
 ```
 ## Sesión XX (DD Mes YYYY)
 
-### Obligatorio:
+### Obligatorio - Archivos de sesión:
 - [ ] Crear/verificar manual-notes/session-XX-YYYY-MM-DD.md
-- [ ] Crear/verificar ai-notes-summary/YYYY-MM-DD-gemini-notes.md (si aplica)
-- [ ] Actualizar manual-notes/index.md
-- [ ] Actualizar ai-notes/index.md (si aplica)
-- [ ] Actualizar la-fuerza-oculta/index.md
+- [ ] Crear/verificar ai-notes/YYYY-MM-DD-gemini-notes.md (transcripción cruda)
+- [ ] Crear/verificar ai-notes-summary/YYYY-MM-DD-gemini-notes.md (resumen analítico)
+
+### Obligatorio - Índices (revisar TODOS):
+- [ ] Actualizar [campaña]/index.md (principal)
+- [ ] Actualizar [campaña]/sessions/index.md (si existe)
+- [ ] Actualizar [campaña]/manual-notes/index.md (si hay notas manuales)
+- [ ] Actualizar [campaña]/ai-notes/index.md (si hay transcripción)
+- [ ] Actualizar [campaña]/ai-notes-summary/index.md (si hay resumen)
+- [ ] Revisar otros índices específicos de la campaña
 
 ### Contextual (según contenido):
 - [ ] Actualizar fichas de personajes afectados
-- [ ] Actualizar groups/la-fuerza-oculta.md
+- [ ] Actualizar fichas de grupos mencionados
 - [ ] Crear fichas de nuevos NPCs
 - [ ] Actualizar historial.md
 ```

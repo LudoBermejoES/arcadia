@@ -190,9 +190,10 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 - 📈 **Resúmenes Ejecutivos**: [Por implementar]
 
 ### **Por Personaje**
-- 🦎 **Sergei**: Veterano metamorfo, líder social
-- 💪 **Tiritas**: Absorbedor traumatizado, motivado por familia
-- ⚡ **Kira**: Eléctrica recién llegada, procesando culpa
+- 🦎 **Sergei** (David Pérez Jiménez): Veterano metamorfo, líder social
+- 💪 **Tiritas** (Juls/Júlia Gasull): Absorbedor traumatizado, motivado por familia
+- ⚡ **Kira** (Adriana Ferran Gonzalez): Eléctrica recién llegada, procesando culpa
+- 🎭 **Elena** (Perico/Capitán Berberecho): Ilusionista impulsiva, se unió en Sesión 2
 
 ### **Por Tema**
 - 🔒 **Control vs. Libertad**: Dinámica institucional

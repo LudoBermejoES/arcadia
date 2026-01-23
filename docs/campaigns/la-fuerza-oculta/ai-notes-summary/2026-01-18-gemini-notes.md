@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Análisis Sesión 47"
+permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/
+---
+
 18 ene 2026
 
 ## Los domingos al rol

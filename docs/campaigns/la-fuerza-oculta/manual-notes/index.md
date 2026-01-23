@@ -310,15 +310,28 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - **Mulcifer** (padrino de Diana) llama invitándolos al **casino familiar** de Fatum
   - La filtración es selectiva: operación de desprestigio contra Diana
 
+- **[Sesión 47 - 18 Enero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/)** - *"El Casino de Dionisios y la Oferta de Mulcifer"*
+  - **Crisis de imagen total**: Imágenes manipuladas viralizadas contra La Fuerza Oculta
+  - Diana convocada por juez a declarar; responde que irá "cuando le venga bien"
+  - **Comunicado desastroso de Hotman**: Se trabó y exacerbó la situación, ataques a metahumanos
+  - Asalto al Centro por la Concordia Metahumana y antigua sede de Humanitas
+  - Visita al **Casino de Dionisios** (frontal legal de familia de Diana)
+  - Encuentro con **Mulcifer** (padrino de Diana): hombre de obsidiana, 2.40m, ojos de fuego
+  - **Revelación**: Familia de Diana se fusionará con **Telaraña** para sobrevivir como barones
+  - Mulcifer ofrece dinero y armas "manchadas de sangre" para ayudarles
+  - **Dilema moral épico**: Debate intenso entre Justa (rechaza) y Diana (acepta con condiciones)
+  - Speeches memorables sobre ética, justicia y el legado de los padres
+  - Decisión pendiente para próxima sesión
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 42 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 43 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Enero 2026 (23 meses)
-- **Páginas Estimadas**: ~600 páginas de notas detalladas
-- **Horas de Juego**: ~120 horas registradas
+- **Páginas Estimadas**: ~620 páginas de notas detalladas
+- **Horas de Juego**: ~125 horas registradas
 
 ### 📅 **Distribución Temporal**
 - **Fase Reality Show (2024)**: 17 sesiones (41% del total)

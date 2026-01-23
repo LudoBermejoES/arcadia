@@ -392,14 +392,36 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-01-18 - Casino de Dionisios y el Dilema Moral](../ai-notes-summary/2026-01-18-gemini-notes.md)
+
+**"Mulcifer y el Dinero Manchado de Sangre"**
+
+- 📺 **Crisis de Imagen**: Videos manipulados viralizados contra FO, campaña de desprestigio coordinada
+- 📢 **Comunicado Desastroso**: Hotman graba mensaje que empeora la situación mediática
+- 🎰 **Casino de Dionisios**: Visita al casino frontal legal de la familia de Diana
+- 👹 **Mulcifer Revelado**: Padrino de Diana, hombre de obsidiana de 2.40m con ojos de fuego
+- 🔥 **Fabricante de Armas**: Mulcifer crea armas metahumanas semi-mágicas
+- 🕸️ **Fusión con Telaraña**: Familia de Diana se fusionará con la red criminal principal
+- 💰 **Ofrecimiento**: Mulcifer ofrece dinero y material "manchado de sangre"
+- ⚔️ **Armas para Sentencia**: Propuesta especial de armas para Justa
+- ⚖️ **Dilema Moral Épico**: Debate filosófico entre Justa (rechaza) y Diana (pragmatismo)
+- 💬 **Speech de Sentencia**: Discurso sobre la memoria de su padre y los principios
+- 🤝 **Respuesta de Diana**: Propone "poner un pie en el barro sin arrodillarse"
+
+**Duración**: ~3 horas | **Palabras**: ~19,000 | **Páginas**: ~50
+
+**🎯 NOTA ESPECIAL**: Incluye uno de los momentos más filosóficos de la campaña con speeches épicos de Justa y Diana sobre ética y pragmatismo.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 25 sesiones completas
+- **Total de Transcripciones**: 26 sesiones completas
 - **Período Cubierto**: Junio 2025 - Enero 2026 (8 meses intensivos)
-- **Palabras Totales**: ~418,500 palabras transcritas
-- **Páginas Equivalentes**: ~1,070 páginas de contenido
-- **Horas de Audio**: ~68 horas de partidas registradas
+- **Palabras Totales**: ~437,500 palabras transcritas
+- **Páginas Equivalentes**: ~1,120 páginas de contenido
+- **Horas de Audio**: ~71 horas de partidas registradas
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**

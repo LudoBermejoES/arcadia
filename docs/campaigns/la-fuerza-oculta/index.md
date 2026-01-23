@@ -129,6 +129,10 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[4 Enero](ai-notes-summary/2026-01-04-gemini-notes.md)** / **[Manual](manual-notes/session-45-2026-01-04.md)**: Operación de asalto al desguace, Protocolo Dame Veneno para interferencia de comunicaciones, combate coordinado contra mercenarios, rescate exitoso de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
 - **[11 Enero](ai-notes-summary/2026-01-11-gemini-notes.md)** / **[Manual](manual-notes/session-46-2026-01-11.md)**: Escape del desguace bajo ataque de helicóptero, Cía derriba el helicóptero con ataque mental, descubrimiento de capacidades ocultas de la furgoneta (300 km/h, botones de vuelo), crías llevadas a Planet Pizza, crisis mediática por vídeo filtrado de Diana, llamada de Mulcifer invitando al casino familiar de Fatum
 
+### 🎰 **Fase XII: Crisis Mediática y Dilemas Morales (Enero 2026)**
+
+- **[18 Enero](ai-notes-summary/2026-01-18-gemini-notes.md)** / **[Manual](manual-notes/session-47-2026-01-18.md)**: Crisis de imagen con videos manipulados, comunicado desastroso de Hotman, visita al Casino de Dionisios, encuentro con Mulcifer (padrino de Diana, hombre de obsidiana de 2.40m), revelación de fusión de familia de Diana con Telaraña, ofrecimiento de dinero "manchado de sangre", dilema moral épico entre Justa y Diana sobre ética y pragmatismo
+
 ---
 
 ## 🌆 Temas Centrales
@@ -187,7 +191,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">46+</span>
+<span class="stat-number">47+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -244,16 +248,17 @@ Mezcla elementos de:
 
 ## 🔮 Estado Actual (Enero 2026)
 
-**La Fuerza Oculta** ha completado exitosamente el rescate de las crías bestiales y escapado de un helicóptero hostil que Cía derribó con un ataque mental. Sin embargo, enfrentan una nueva crisis: un vídeo filtrado muestra a Diana matando a un mercenario, desatando una campaña de desprestigio mediático contra ella. Su padrino Mulcifer (de la familia Fatum) los ha invitado al casino familiar para discutir la situación. El equipo también ha descubierto capacidades ocultas de su furgoneta, incluyendo velocidad extrema y posibles controles de vuelo.
+**La Fuerza Oculta** enfrenta una crisis existencial. Tras visitar el Casino de Dionisios, han conocido a **Mulcifer** (padrino de Diana), un hombre de obsidiana de 2.40m que fabrica armas metahumanas semi-mágicas. Les ha ofrecido dinero y material "manchado de sangre" para ayudarles, pero este ofrecimiento ha provocado un profundo dilema moral dentro del equipo. **Sentencia** ha rechazado rotundamente la ayuda por principios éticos, mientras **Diana** defiende un pragmatismo que permita usar herramientas manchadas para hacer el bien. La familia de Diana se fusionará con **Telaraña**, convirtiéndolos en barones de facto de la red criminal.
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Crisis mediática de Diana**: Vídeo filtrado selectivamente la muestra matando - operación de desprestigio
-- **Reunión con Mulcifer**: Invitación al casino familiar de Fatum para gestionar la crisis
+- **Dilema moral sobre Mulcifer**: El equipo debe decidir si acepta dinero y armas "manchadas de sangre" - debate filosófico épico entre Justa y Diana
+- **Crisis mediática**: Videos manipulados y comunicado desastroso de Hotman han polarizado la opinión pública contra FO y los metahumanos
+- **Fusión Fatum-Telaraña**: La familia de Diana se integra en la red criminal principal como barones
+- **Armas para Sentencia**: Mulcifer ofrece armas semi-mágicas específicas para Justa
 - **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales - derrotados pero no eliminados
 - **Crisis familiar de Hotman**: Su padre lo ha repudiado y parece tener conexiones peligrosas
 - **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
-- **Funciones ocultas de la furgoneta**: 12 botones de vuelo por descubrir, velocidad de 300 km/h
 
 ---
 

@@ -1,91 +1,162 @@
 ---
 layout: page
-title: "Reformatorio Nueva Esperanza - Sesión 5"
+title: "Reformatorio Nueva Esperanza - Análisis Sesión 5"
 permalink: /campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/
 ---
 
-18 ene 2026
+# Sesión 5 - 18 Enero 2026
+## "El Laboratorio Abandonado y los Tanques Alienígenas"
 
-## Los domingos al rol \- Turno de mañana
+[← Volver al Índice de AI Notes]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes/) | [← Índice Principal]({{ site.baseurl }}/)
 
-Archivos adjuntos [Los domingos al rol - Turno de mañana](https://www.google.com/calendar/event?eid=M2pnNTQ3N2pkYnU0YXBha2hibGh1bzVwOXBfMjAyNjAxMThUMTAwMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - Turno de mañana - 2025/11/02 10:29 CET - Recording](https://drive.google.com/file/d/10v8ik0KJJRo0JdyQGtxJoZJKydlnunxx/view?usp=drive_web) [Notas de Gemini](https://docs.google.com/document/d/1J_WfH6sPk2avzxt6kCj5iXyZFi_a1pQQbUPwsgnycAk/edit?usp=meet_tnfm_calendar) 
+---
 
-Registros de la reunión [Transcripción](?tab=t.s4i9b2wrs0gm) [Grabación](https://drive.google.com/file/d/1sw1H55jHWSPRTnsXL8HBCV7cJArvg5cy/view?usp=drive_web) 
+## Resumen Ejecutivo
 
-### Resumen
+Sesión de exploración y combate en el Upside Down. El grupo descubre que están en lo que parece un **centro de estudio o laboratorio abandonado**. Tras eliminar rápidamente a dos avispas gigantes usando trabajo en equipo, exploran el nivel inferior donde encuentran **tanques con criaturas alienígenas muertas**. La sesión incluye una disección improvisada que revela que las criaturas contienen **huevos** y un **líquido ámbar**. Termina con un nuevo combate contra avispas, dejando dos destruidas y una aturdida.
 
-Ludo Bermejo, Adriana Ferran Gonzalez, David Pérez Jiménez y Capitán Berberecho comenzaron la sesión de juego de rol con una discusión casual sobre el clima y la actualización académica de Capitán Berberecho, quien está aprobado por el momento pero podría necesitar mudarse para un máster en un campo diferente a la arqueología. El grupo procedió al juego, donde se encontraron en un centro de estudio o laboratorio abandonado y lograron abatir a dos avispas gigantes en un combate rápido, utilizando las habilidades de distracción de Capitán Berberecho y los ataques de David Pérez Jiménez y Adriana Ferran Gonzalez. Finalmente, David Pérez Jiménez, Tiritas (personaje de Capitán Berberecho), y Adriana Ferran Gonzalez continuaron la exploración del nivel inferior, descubriendo tanques con criaturas alienígenas muertas, y terminaron la sesión en un nuevo combate contra avispas, dejando dos destruidas y una aturdida.
+**Jugadores presentes**: David Pérez Jiménez (Sergei), Adriana Ferran Gonzalez (Kira), Perico/Capitán Berberecho (Elena)
 
-### Detalles
+**Nota**: Tiritas (Júlia Gasull) no participó en esta sesión.
 
-* **Discusión Introductoria y Clima** Ludo Bermejo inició la reunión comentando sobre el frío y la humedad en su ubicación, contrastando con la lluvia reciente y la subida de temperatura mencionada por Adriana Ferran Gonzalez. Ludo Bermejo comparó la experiencia del frío en Madrid con la humedad de Galicia, y Adriana Ferran Gonzalez y David Pérez Jiménez se hicieron eco de la sensación del frío al salir a la calle ([00:00:00](?tab=t.s4i9b2wrs0gm#heading=h.mz6gr14lgcmy)).
+---
 
-* **Actualización Académica de Capitán Berberecho** Ludo Bermejo preguntó a Capitán Berberecho sobre sus exámenes, a lo que este respondió que, por el momento, todo está aprobado. Se aclaró que este es el tercer año de Capitán Berberecho en la universidad, y Ludo Bermejo preguntó sobre la progresión después del tercer año (máster, doctorado) ([00:00:53](?tab=t.s4i9b2wrs0gm#heading=h.llpseo5i7s9q)).
+## Eventos Principales
 
-* **Planes de Posgrado y Limitaciones de UDL** Capitán Berberecho explicó que su programa es de cuatro años, pero el problema es que la Universidad de Lérida (UDL) solo ofrece un máster en arqueología, lo cual no es de su interés, sugiriendo la necesidad de trasladarse para estudiar otra cosa. Ludo Bermejo ofreció alojamiento si Capitán Berberecho se muda a Galicia e instó a considerar la Universidad de Santiago, especialmente para estudios de letras ([00:01:38](?tab=t.s4i9b2wrs0gm#heading=h.ynhppna4euoz)).
+### 1. Discusión Introductoria
+- Conversación sobre el clima (frío, humedad) en diferentes ubicaciones
+- Actualización académica de Capitán Berberecho: aprobado pero considerando cambio de carrera
+- Discusión sobre arqueología y opciones de máster
+- Referencias a Eslizo como arqueólogo (aunque nunca ejerció)
 
-* **Comentarios sobre Arqueología y Eslizo** Ludo Bermejo señaló que, si Capitán Berberecho no quiere ser arqueólogo, probablemente tendrá que mudarse para estudiar. Mencionó que muchos de sus colegas arqueólogos terminan trabajando en otras cosas, ya que es un campo con pocas plazas. Ludo Bermejo recordó que Eslizo, el cuñado de Manu, es arqueólogo, posiblemente especializado en Roma, aunque nunca ha trabajado en ello ([00:02:29](?tab=t.s4i9b2wrs0gm#heading=h.h5igkra3os7j)).
+### 2. Descubrimiento del Laboratorio
+- El grupo se encuentra en un **centro de estudio o laboratorio abandonado**
+- Estructura industrial con múltiples niveles
+- Ambiente deteriorado consistente con el Upside Down
 
-* **Reconocimiento a David Pérez Jiménez y Publicaciones de Ludo Bermejo** Ludo Bermejo felicitó a David Pérez Jiménez, quien se estaba preparando el desayuno, por una noticia que "medio se sabía" ([00:04:23](?tab=t.s4i9b2wrs0gm#heading=h.9bunih8a8qbl)). Ludo Bermejo compartió que él mismo se había enterado de que había sido publicado en algo que había enviado hacía cinco años, preguntándose qué había enviado exactamente ([00:05:02](?tab=t.s4i9b2wrs0gm#heading=h.uwadp5w6gd9d)).
+### 3. Combate Rápido contra Avispas
+- Dos avispas gigantes atacan al grupo
+- **Victoria rápida** gracias al trabajo en equipo:
+  - Distracciones de Elena
+  - Ataques de Kira y Sergei
+- El grupo ha mejorado su coordinación en combate
 
-* **Preparativos e Inicio del Juego de Rol** David Pérez Jiménez informó que podría tener que irse 30 minutos antes por el cumpleaños de su madre, lo que fue aceptado. Ludo Bermejo confirmó que estaban entrando en Foundry donde se quedaron, y David Pérez Jiménez describió que estaban en una especie de laberinto, habiendo cruzado un charco y enfrentándose previamente a una avispa ([00:05:49](?tab=t.s4i9b2wrs0gm#heading=h.h2amv4tgnaz9)).
+### 4. Exploración del Nivel Inferior
+- El grupo desciende a explorar más profundamente
+- Descubren **tanques de contención**
+- Los tanques contienen **criaturas alienígenas muertas**
+- Evidencia de experimentación o almacenamiento
 
-* **Descripción del Entorno de Juego** Ludo Bermejo describió el lugar como extraño, posiblemente un centro de estudio o laboratorio abandonado, con una escultura de una molécula. Los personajes notaron que el lugar fue evacuado de manera organizada pero rápida, sin electricidad y sin estática, lo que permitía que sus teléfonos funcionaran, aunque no tuvieran cobertura ([00:06:45](?tab=t.s4i9b2wrs0gm#heading=h.godb1ugxid85)). El aire olía a humedad, abandono, polvo y algo nauseabundo que inicialmente se confundió con carne podrida ([00:08:00](?tab=t.s4i9b2wrs0gm#heading=h.bjjap3i7d0xq)).
+### 5. Disección de las Criaturas
+- El grupo decide examinar una de las criaturas muertas
+- **Descubrimientos**:
+  - Las criaturas contienen **huevos**
+  - Hay un **líquido ámbar** en su interior
+- Información crucial sobre la naturaleza de las avispas
 
-* **Presentación de la Partida y Música de Fondo** Ludo Bermejo mencionó que pondría la presentación y advirtió que ya se verían algunas escenas en las que los jugadores participaron indirectamente ([00:09:17](?tab=t.s4i9b2wrs0gm#heading=h.ihwixew8g8br)). Adriana Ferran Gonzalez preguntó por el vídeo de la partida, a lo que Ludo Bermejo respondió que estaba disponible en Arcadialudobremejo, el sitio de la wiki. Ludo Bermejo activó la música de fondo, un zumbido que implicaba la presencia de criaturas gigantes similares a las avispas que los habían atacado antes ([00:11:31](?tab=t.s4i9b2wrs0gm#heading=h.mn25fa4ntmrk)).
+### 6. Combate Final
+- Nuevo encuentro con avispas durante la exploración
+- Resultado:
+  - **Dos avispas destruidas**
+  - **Una avispa aturdida** (no eliminada)
+- Sesión termina con situación parcialmente resuelta
 
-* **Estrategia y Entorno en Profundidad** David Pérez Jiménez propuso que el grupo permaneciera unido, lo que fue secundado por Adriana Ferran Gonzalez ([00:12:15](?tab=t.s4i9b2wrs0gm#heading=h.7dts6vcnon1l)). Adriana Ferran Gonzalez preguntó sobre una barandilla y Ludo Bermejo explicó que abajo, a unos 8 o 10 metros, había consolas de trabajo, cajas desordenadas, y se escuchaban zumbidos de criaturas que no los habían visto ([00:13:28](?tab=t.s4i9b2wrs0gm#heading=h.gsxm10p6gx9n)). Las cajas daban la impresión de ser ataúdes debido a su forma alargada ([00:14:48](?tab=t.s4i9b2wrs0gm#heading=h.s0or4sxhdh30)).
+---
 
-* **Reconocimiento de Amenazas y Maniobra de David Pérez Jiménez** David Pérez Jiménez preguntó si había espacio debajo de las puertas para que pasara una mano, y Ludo Bermejo confirmó que sí, permitiendo al personaje de David Pérez Jiménez, Serge, investigar sin abrirlas ([00:14:48](?tab=t.s4i9b2wrs0gm#heading=h.s0or4sxhdh30)). David Pérez Jiménez movió su mano, la cual Ludo Bermejo tuvo que ajustar en tamaño, al otro lado de la puerta para inspeccionar la habitación, donde se detectó al menos un par de avispas gigantes ([00:16:51](?tab=t.s4i9b2wrs0gm#heading=h.dt2lfo889ug6)) ([00:19:35](?tab=t.s4i9b2wrs0gm#heading=h.fmmwsvkxnaig)).
+## Desarrollo de Personajes
 
-* **Revisión de Comunicaciones de la Partida** Adriana Ferran Gonzalez interrumpió para preguntar si era correcto ver las acciones de otros jugadores en el menú, a lo que Ludo Bermejo aclaró que el chat es compartido con todo el mundo, mostrando eventos pasados como la muerte de 10 personas en la última partida ([00:18:35](?tab=t.s4i9b2wrs0gm#heading=h.aqsxuuqwef3i)). David Pérez Jiménez explicó que podía sentir los temblores y las vibraciones, lo que le permitía "ver" más allá de las paredes ([00:20:34](?tab=t.s4i9b2wrs0gm#heading=h.79zxdvwkesvw)).
+### Elena (Perico/Capitán Berberecho)
+- Usa sus ilusiones efectivamente para distracciones
+- Participa en la exploración del laboratorio
+- Muestra curiosidad por los descubrimientos
 
-* **Exploración de Habitaciones Adyacentes** David Pérez Jiménez usó la mano de su personaje para inspeccionar las habitaciones, encontrando en una de ellas que no había nada y sugiriendo abrirla ([00:21:47](?tab=t.s4i9b2wrs0gm#heading=h.t4xh348a7le1)). Adriana Ferran Gonzalez abrió la puerta e investigó, encontrando cuadernos con anotaciones garabateadas que hablaban de una incursión, un espécimen deteriorado, y la evacuación de las instalaciones, posiblemente por un meta humano ([00:22:47](?tab=t.s4i9b2wrs0gm#heading=h.v3xxvgh96wdf)).
+### Kira (Adriana Ferran Gonzalez)
+- Continúa siendo efectiva en combate a distancia
+- Participa en la disección de criaturas
+- Mantiene rol de investigadora
 
-* **Descubrimientos y Puertas Hidráulicas** David Pérez Jiménez continuó investigando y encontró una habitación que parecía un cuartito para dormir, que daba al pasillo ([00:24:28](?tab=t.s4i9b2wrs0gm#heading=h.4cm1zhf4d8uj)). Las puertas eran hidráulicas manuales, cerrándose completamente y produciendo un sonido distintivo que Adriana Ferran Gonzalez mencionó haber escuchado ([00:25:41](?tab=t.s4i9b2wrs0gm#heading=h.430omuhry5qd)). Ludo Bermejo confirmó que ninguno de los presentes tenía conocimientos avanzados de ciencias que pudieran ser relevantes ([00:26:32](?tab=t.s4i9b2wrs0gm#heading=h.1b3u9by97rdw)).
+### Sergei (David Pérez Jiménez)
+- Protagoniza ataques en combate
+- Ayuda en la exploración del nivel inferior
+- Rol activo en la disección
 
-* **Avance Cauteloso y Riesgo de Visibilidad** David Pérez Jiménez continuó explorando puertas, y Ludo Bermejo advirtió que el ruido de la apertura de las puertas podría requerir una tirada de sigilo para evitar alertar a las avispas cercanas, que a veces se acercaban a la barandilla. David Pérez Jiménez sugirió que sus compañeros se quedaran atrás mientras él continuaba inspeccionando con su mano ([00:28:30](?tab=t.s4i9b2wrs0gm#heading=h.iqq9zouuuztf)).
+### Tiritas (Ausente)
+- Juls/Júlia Gasull no participó en esta sesión
+- El grupo opera con un miembro menos
 
-* **Intento Fallido de Sigilo y Continuación de la Exploración** Adriana Ferran Gonzalez hizo una tirada de sigilo con un mal resultado (cuatro), pero Ludo Bermejo determinó que la criatura había tirado un "Beni," permitiendo al grupo pasar por ahora ([00:29:31](?tab=t.s4i9b2wrs0gm#heading=h.69t29uhrkjel)). David Pérez Jiménez confirmó que una habitación era un pasillo sin salida inmediata, con dos avispas, y dos puertas, una a la izquierda y otra al fondo ([00:31:02](?tab=t.s4i9b2wrs0gm#heading=h.grvwur8rjh7d)) ([00:34:44](?tab=t.s4i9b2wrs0gm#heading=h.5m86w7gztwub)).
+---
 
-* **Plan para Enfrentar a las Avispas** El grupo discutió la estrategia para enfrentar a las dos avispas que Serge había detectado, considerando la idea de entrar, cargárselas y cerrar la puerta para no atraer a otras avispas por el ruido. David Pérez Jiménez propuso usar su mano para distraer a las avispas y ganar una ventaja espacial ([00:35:50](?tab=t.s4i9b2wrs0gm#heading=h.pmhww5mtsc6s)). Capitán Berberecho sugirió usar una ilusión de una alarma para distraerlas ([00:40:11](?tab=t.s4i9b2wrs0gm#heading=h.i3esf8gg7m47)).
+## Revelaciones Importantes
 
-* **Implementación de Estrategia y Descripción de la Cámara** Ludo Bermejo confirmó que la ilusión sonora de Capitán Berberecho era factible y exitosa (sacando un nueve en la tirada de control) ([00:41:09](?tab=t.s4i9b2wrs0gm#heading=h.uun5t3jljkna)). Ludo Bermejo reprodujo un sonido de alarma ([00:42:38](?tab=t.s4i9b2wrs0gm#heading=h.8lxug3rl7hcl)). Ludo Bermejo clarificó a David Pérez Jiménez que el área principal era un centro de mando detrás de un cristal grueso, con una cámara gigantesca debajo (10 metros de profundidad), comparándola con la cámara del colisionador de drones o el laboratorio de *Stranger Things* ([00:37:10](?tab=t.s4i9b2wrs0gm#heading=h.325aydi24x3g)).
+### Sobre el Laboratorio
+- Existe una **instalación de investigación** en el Upside Down
+- Alguien estudió o creó estas criaturas
+- El lugar está abandonado pero preservado
+- Sugiere actividad inteligente previa
 
-* **Inicio del Combate y Ataques Iniciales** Ludo Bermejo estableció que el grupo tenía un turno de ventaja debido a la distracción ([00:40:11](?tab=t.s4i9b2wrs0gm#heading=h.i3esf8gg7m47)) ([00:42:38](?tab=t.s4i9b2wrs0gm#heading=h.8lxug3rl7hcl)). David Pérez Jiménez, con su turno, abrió la puerta y atacó con su mano convertida en espada, decapitando a una de las avispas ([00:46:02](?tab=t.s4i9b2wrs0gm#heading=h.hu9047mi6y37)) ([00:48:02](?tab=t.s4i9b2wrs0gm#heading=h.bxqssjdenhe3)). Elena (personaje de Capitán Berberecho) retrasó su acción para actuar después de que se abriera la puerta ([00:44:03](?tab=t.s4i9b2wrs0gm#heading=h.pkfpyflas826)).
+### Sobre las Criaturas (Avispas)
+- **Contienen huevos**: Son reproductoras
+- **Líquido ámbar**: Sustancia desconocida en su interior
+- Las criaturas muertas en tanques sugieren experimentación
+- Posible origen artificial o modificado
 
-* **Finalización Rápida del Combate** Adriana Ferran Gonzalez atacó a la avispa restante con un "chorro" a distancia ([00:49:46](?tab=t.s4i9b2wrs0gm#heading=h.kr0e6z6o5n0l)). Aunque su tirada inicial fue baja, un Beni le permitió dar en el blanco, finalizando el combate en un turno ([00:50:47](?tab=t.s4i9b2wrs0gm#heading=h.4sb2746o7lro)) ([00:51:56](?tab=t.s4i9b2wrs0gm#heading=h.d8zbprm6knzu)). Ludo Bermejo señaló que el rayo que salió de las manos de Adriana Ferran Gonzalez fue un efecto visual notable ([00:51:16](?tab=t.s4i9b2wrs0gm#heading=h.r4lhapci428q)).
+### Sobre el Upside Down
+- No es solo un mundo hostil natural
+- Hay evidencia de **civilización o experimentación**
+- Las avispas pueden haber sido creadas o modificadas
+- Mayor complejidad del misterio
 
-* **Problema Técnico y Reconfiguración** Capitán Berberecho experimentó un problema técnico donde el sistema indicaba que su personaje seguía en la partida aunque él no podía acceder, lo que requirió que Ludo Bermejo lo expulsara y luego echara a todos los jugadores para restablecer la conexión. Ludo Bermejo mencionó que el ataque de Serge con la espada era menos espectacular visualmente que el rayo de Adriana Ferran Gonzalez ([00:51:56](?tab=t.s4i9b2wrs0gm#heading=h.d8zbprm6knzu)).
+---
 
-* **Reanudación del Juego en Modo Exploración** Los jugadores pudieron volver a entrar, y Ludo Bermejo confirmó que el modo de movimiento se había cambiado a "modo exploración" para ir más rápido, en lugar del "modo táctico" usado para el combate ([00:52:56](?tab=t.s4i9b2wrs0gm#heading=h.w6lmrinm1hax)). El grupo no estaba en combate, ya que las avispas destruidas y la alarma seguían vigentes. David Pérez Jiménez propuso explorar la siguiente habitación con la mano de Serge ([00:55:14](?tab=t.s4i9b2wrs0gm#heading=h.92jffbp03n9e)).
+## Temas Narrativos
 
-* **Inspección de la Sala de Control** Adriana Ferran Gonzalez revisó los paneles de control en la sala actual, confirmando que estaban desactivados y eran para la gestión de energía, temperatura y una función ominosa de "láser" relacionada con el trabajo en la cámara ([00:55:14](?tab=t.s4i9b2wrs0gm#heading=h.92jffbp03n9e)). Serge's hand exploró la siguiente habitación, que era la sala principal que contenía la avispa que Elena había visto previamente ([00:56:23](?tab=t.s4i9b2wrs0gm#heading=h.9gerkj5rk7so)).
+### Ciencia Corrompida
+- El laboratorio sugiere experimentación antiética
+- Las criaturas como resultado de manipulación
+- Horror científico añadido al sobrenatural
 
-* **Exploración Inicial y Detección de Peligros** Adriana Ferran Gonzalez, Ludo Bermejo y David Pérez Jiménez estaban explorando un área con respiradores y notaron que tenían el rol de explorador. David Pérez Jiménez sugirió que podrían abrir una puerta ya que la alarma actual serviría de distracción suficiente ([00:57:20](?tab=t.s4i9b2wrs0gm#heading=h.8gjglbc535tb)). Durante la exploración, David Pérez Jiménez usó su "manita" para investigar, aunque Ludo Bermejo indicó que encontrarían un refrigerador oxidado y, más adelante, una pasarela con escaleras que bajan ([00:59:14](?tab=t.s4i9b2wrs0gm#heading=h.tsdhw4jxvygy)) ([01:01:50](?tab=t.s4i9b2wrs0gm#heading=h.uu95fwvg9325)). David Pérez Jiménez mencionó que un área marcada en rojo podría ser peligrosa ([01:03:07](?tab=t.s4i9b2wrs0gm#heading=h.ehjlv6spuy8n)).
+### Trabajo en Equipo Mejorado
+- El grupo funciona mejor coordinado
+- Victorias más rápidas y eficientes
+- Adaptación al entorno hostil
 
-* **Panel de Control y Falta de Energía** David Pérez Jiménez ingresó a otra habitación donde encontraron lo que parecía ser una versión más pequeña del panel de control de arriba, aunque maneja cosas diferentes. Ludo Bermejo confirmó que este panel no maneja las cosas de arriba. El panel no tenía corriente, lo que impedía la interacción. Adriana Ferran Gonzalez indicó que no tenía suficiente potencia para encenderlo, ya que había utilizado su energía para encender la otra máquina ([01:00:39](?tab=t.s4i9b2wrs0gm#heading=h.o00zkone7jwf)).
+### Misterio Creciente
+- Cada descubrimiento genera más preguntas
+- ¿Quién creó el laboratorio?
+- ¿Qué es el líquido ámbar?
 
-* **Descenso a un Nivel Inferior** David Pérez Jiménez propuso dirigirse a las escaleras que bajan, a pesar de la percepción de peligro, y Capitán Berberecho estuvo de acuerdo en proceder. Adriana Ferran Gonzalez bromeó sobre invitar a Tiritas a comer macarrones si iba primero ([01:04:11](?tab=t.s4i9b2wrs0gm#heading=h.4plekpugoyuw)). Ludo Bermejo reveló que Tiritas se volvía más impulsivo y quizás más violento al crecer ([01:05:19](?tab=t.s4i9b2wrs0gm#heading=h.bcxlgzka8nl)). Adriana Ferran Gonzalez intentó moverse con sigilo, pero rompió una rejilla del suelo que estaba oxidada, haciendo mucho ruido ([01:06:44](?tab=t.s4i9b2wrs0gm#heading=h.spvcdfh93s17)).
+---
 
-* **Descubrimiento de Tanques y Advertencia de Criaturas** David Pérez Jiménez y Ludo Bermejo notaron que el piso de abajo parecía contener tanques u "algo" y se iluminó cuando David Pérez Jiménez utilizó su mano para explorar. Ludo Bermejo envió una imagen por WhatsApp de criaturas extrañas en los tanques ([01:06:04](?tab=t.s4i9b2wrs0gm#heading=h.5y4hlew4fqm0)) ([01:09:11](?tab=t.s4i9b2wrs0gm#heading=h.ot1hpnafd2m5)). David Pérez Jiménez expresó su deseo de romper los tanques para evitar que las criaturas volvieran a la vida si se restauraba la electricidad. Ludo Bermejo aclaró que las criaturas en los tanques parecían estar muertas y preguntó si alguien tenía la habilidad de medicina ([01:10:09](?tab=t.s4i9b2wrs0gm#heading=h.1vv2rye7map7)).
+## Mecánicas de Juego Destacadas
 
-* **Disección de la Criatura** David Pérez Jiménez rompió uno de los tanques con su brazo, lo que provocó la liberación de un líquido apestoso y la criatura se desparramó por el suelo ([01:12:04](?tab=t.s4i9b2wrs0gm#heading=h.o45h6xz7jsld)). David Pérez Jiménez propuso examinar al bicho para entender su composición. Ludo Bermejo sugirió que si deseaba más información, David Pérez Jiménez necesitaría la habilidad de Ciencias o Medicina. Tiritas, que tenía conocimientos de medicina, fue asignado para realizar una disección ([01:13:12](?tab=t.s4i9b2wrs0gm#heading=h.lc1ck09rrgxt)) ([01:15:34](?tab=t.s4i9b2wrs0gm#heading=h.t1q3tofnz7iq)).
+- **Combate coordinado**: Victoria rápida por trabajo en equipo
+- **Exploración**: Mecánicas de descubrimiento en el laboratorio
+- **Investigación**: Disección como forma de obtener información
+- **Estado "aturdido"**: Avispa no eliminada pero neutralizada
 
-* **Resultados de la Autopsia y Reacciones** Tiritas, volviendo a su estado normal, usó un bisturí oxidado y concluyó que la criatura no era humana, sino una "criatura bestia" alienígena ([01:15:34](?tab=t.s4i9b2wrs0gm#heading=h.t1q3tofnz7iq)). Al abrir el abdomen de la criatura, David Pérez Jiménez y Adriana Ferran Gonzalez reaccionaron con asco debido a los huevos del tamaño de pelotas de tenis que emergieron. Ludo Bermejo pidió una tirada de Vigor a los que estaban mirando para resistir las ganas de vomitar ([01:17:14](?tab=t.s4i9b2wrs0gm#heading=h.f1quojtnfxkg)). Tiritas también encontró un líquido ambarino y brillante en las glándulas salivales de la criatura, que no se parecía al charco verdoso y brillante visto anteriormente ([01:20:14](?tab=t.s4i9b2wrs0gm#heading=h.4jqig6jvn2b)).
+---
 
-* **Decisión de Continuar la Exploración y Prisas de David Pérez Jiménez** David Pérez Jiménez sugirió que no había más información útil que obtener de la criatura diseccionada. David Pérez Jiménez, con su mano, continuó explorando, moviéndose hacia el siguiente conjunto de puertas. David Pérez Jiménez mencionó que tendrían que pasar por la pasarela con las avispas de antes ([01:22:30](?tab=t.s4i9b2wrs0gm#heading=h.3mi8yjvflwo4)). Ludo Bermejo preguntó a David Pérez Jiménez sobre el tiempo restante, a lo que este respondió que tenían hasta menos cuarto ([01:19:21](?tab=t.s4i9b2wrs0gm#heading=h.stclez87j81z)).
+## Información para Continuidad
 
-* **Exploración Adicional y Preparación para el Combate** David Pérez Jiménez continuó investigando puertas, encontrando duchas y baños con productos químicos, que no parecían ser áreas de interés ([01:24:37](?tab=t.s4i9b2wrs0gm#heading=h.7ehm4p9zucgp)). Finalmente, David Pérez Jiménez decidió que debían bajar a través de las escaleras que había visto previamente ([01:25:35](?tab=t.s4i9b2wrs0gm#heading=h.q2l6qmqxgxcq)). Al bajar, Ludo Bermejo confirmó que estaban cerca de las avispas y que la alarma seguía sonando con más fuerza. Adriana Ferran Gonzalez sugirió proceder con sigilo para evitar a las avispas ([01:23:46](?tab=t.s4i9b2wrs0gm#heading=h.l8nofdhd06x7)) ([01:27:25](?tab=t.s4i9b2wrs0gm#heading=h.n1em172ldtbo)).
+- **El laboratorio**: ¿Hay más niveles? ¿Más información?
+- **Los tanques**: ¿Cuántas criaturas hay? ¿Hay otras especies?
+- **Los huevos**: ¿Pueden eclosionar? ¿Son una amenaza?
+- **El líquido ámbar**: ¿Qué propiedades tiene?
+- **La avispa aturdida**: ¿Qué hacer con ella?
+- **Tiritas ausente**: ¿Dónde está en la narrativa?
 
-* **Inicio de la Sorpresa y Tácticas de Combate** David Pérez Jiménez pudo avanzar con sigilo a una posición más cercana a las avispas, revelando que había muchas ([01:32:33](?tab=t.s4i9b2wrs0gm#heading=h.cxgol9n989pb)). Adriana Ferran Gonzalez preguntó qué harían los demás y sugirió iniciar el combate, ya que David Pérez Jiménez había expresado el límite de tiempo ([01:34:20](?tab=t.s4i9b2wrs0gm#heading=h.ozgfkkmgpiju)). Adriana Ferran Gonzalez lanzó un rayo de ataque a distancia en el turno de sorpresa, destruyendo una de las criaturas ([01:34:52](?tab=t.s4i9b2wrs0gm#heading=h.eq1mc9zguq6z)).
+---
 
-* **Continuación del Combate** David Pérez Jiménez aprovechó su posición para saltar con su espada larga y atacar a otra criatura, destruyéndola también ([01:36:32](?tab=t.s4i9b2wrs0gm#heading=h.bkifq448pu0i)). Capitán Berberecho se movió para crear una ilusión de un "sapo gigante" para distraer a las avispas restantes ([01:37:28](?tab=t.s4i9b2wrs0gm#heading=h.g0ehwotajloi)). Ludo Bermejo informó que Tiritas, aunque un poco lejos, logró atacar y atontar a otra criatura. El grupo terminó la sesión después del primer turno de sorpresa con dos avispas destruidas y una atontada ([01:39:53](?tab=t.s4i9b2wrs0gm#heading=h.lhit2575g79v)).
+## Citas Destacadas
 
-### Pasos siguientes recomendados
+> *"Un centro de estudio o laboratorio abandonado"* - Descripción del nuevo escenario
 
-*No se encontraron próximos pasos sugeridos para esta reunión.*
+> *"Tanques con criaturas alienígenas muertas"* - El escalofriante descubrimiento
 
-*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
+> *"La disección revela huevos y líquido ámbar"* - Resultados de la investigación
 
-*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=3qBm69MH_CRNgaoQkyrPDxIYOAIIigIgABgDCA&detailid=standard)*
+---
+
+*Sesión que profundiza el misterio del Upside Down revelando evidencia de experimentación. El laboratorio abandonado y las criaturas en tanques sugieren que las avispas no son fenómenos naturales, sino posibles creaciones. El grupo avanza en su comprensión del peligro mientras enfrenta amenazas constantes.*
+
+**Duración aproximada**: ~2 horas

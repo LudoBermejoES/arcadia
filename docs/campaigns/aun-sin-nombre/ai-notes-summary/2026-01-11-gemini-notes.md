@@ -1,106 +1,154 @@
 ---
 layout: page
-title: "Reformatorio Nueva Esperanza - Sesión 4"
+title: "Reformatorio Nueva Esperanza - Análisis Sesión 4"
 permalink: /campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/
 ---
 
-11 ene 2026
+# Sesión 4 - 11 Enero 2026
+## "El Upside Down y la Travesía del Charco"
 
-## Los domingos al rol \- Turno de mañana
+[← Volver al Índice de AI Notes]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes/) | [← Índice Principal]({{ site.baseurl }}/)
 
-Archivos adjuntos [Los domingos al rol - Turno de mañana](https://www.google.com/calendar/event?eid=M2pnNTQ3N2pkYnU0YXBha2hibGh1bzVwOXBfMjAyNjAxMTFUMTAwMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - Turno de mañana - 2025/11/02 10:29 CET - Recording](https://drive.google.com/file/d/10v8ik0KJJRo0JdyQGtxJoZJKydlnunxx/view?usp=drive_web) [Notas de Gemini](https://docs.google.com/document/d/1J_WfH6sPk2avzxt6kCj5iXyZFi_a1pQQbUPwsgnycAk/edit?usp=meet_tnfm_calendar) 
+---
 
-Registros de la reunión [Transcripción](?tab=t.i2k5iwcypori) [Grabación](https://drive.google.com/file/d/1MMckfm4SATN9t3J_Ivpfsloa1j3Bu334/view?usp=drive_web) 
+## Resumen Ejecutivo
 
-### Resumen
+Sesión de combate intenso y exploración del "mundo al revés" (Upside Down). Tras un extenso resumen de las tres partidas anteriores, el grupo se enfrenta a **múltiples combates contra avispas gigantes**, utilizando tácticas creativas como usar el aguijón de una avispa muerta como arma. El momento culminante llega cuando **cruzan físicamente el charco brillante** hacia el Upside Down completo: un lugar sin cobertura telefónica, con óxido por todas partes y una atmósfera opresiva. La sesión termina con otro combate contra una avispa en este nuevo entorno.
 
-Ludo Bermejo, David Pérez Jiménez, Júlia Gasull, Capitán Berberecho y Adriana Ferran Gonzalez comenzaron la sesión con un resumen de las tres partidas anteriores, recordando el encuentro con avispas gigantes, los sucesos anómalos, y el collar de contención de Adriana Ferran Gonzalez. El grupo se involucró en dos combates contra avispas gigantes, logrando matarlas mediante una combinación de ataques a distancia (Adriana Ferran Gonzalez), ilusiones (Capitán Berberecho), y ataques desarmados (Júlia Gasull), lo que resultó en que el personaje de Júlia Gasull creciera al absorber el daño. Finalmente, el grupo cruzó un charco brillante hacia un "Upside Down" sin cobertura telefónica y con óxido, donde encontraron y mataron a otro monstruo avispa en un combate final antes de concluir la sesión.
+**Jugadores presentes**: David Pérez Jiménez (Sergei), Adriana Ferran Gonzalez (Kira), Perico/Capitán Berberecho (Elena), Júlia Gasull (Tiritas)
 
-### Detalles
+---
 
-*Longitud de las notas: Estándar*
+## Eventos Principales
 
-* **Saludos y Agenda** Ludo Bermejo saludó a Capitán Berberecho al inicio de la reunión, preguntando por sus exámenes ([00:00:00](?tab=t.i2k5iwcypori#heading=h.2ewgt3yrx5iz)). Ludo Bermejo, David Pérez Jiménez, y Júlia Gasull intercambiaron saludos y hablaron brevemente sobre el levantamiento temprano y problemas técnicos antes de comenzar el resumen del juego ([00:02:32](?tab=t.i2k5iwcypori#heading=h.shhzz9857kgx)).
+### 1. Resumen Extenso de Sesiones Anteriores
+- Han pasado casi dos meses desde la última sesión (16 noviembre)
+- Los jugadores recuerdan colectivamente los eventos:
+  - Encuentro con avispas gigantes
+  - El collar de contención de Kira
+  - Los sucesos anómalos del reformatorio
 
-* **Problemas de Conexión y WhatsApp** Júlia Gasull mencionó que podría estar experimentando problemas de carga de chats con WhatsApp Web. Ludo Bermejo confirmó que WhatsApp ha quitado la aplicación específica de escritorio, dejando solo una cobertura de la aplicación web que funciona peor ([00:03:09](?tab=t.i2k5iwcypori#heading=h.hvqd87kvi60n)).
+### 2. Primer Combate contra Avispas
+- El grupo retoma donde lo dejaron: enfrentando avispas gigantes
+- **Táctica destacada**: Tiritas usa el aguijón de una avispa muerta para matar a otra
+- Combinación efectiva de poderes:
+  - Ataques a distancia de Kira
+  - Ilusiones de Elena
+  - Ataques cuerpo a cuerpo de Tiritas
 
-* **Resumen del Juego Previo (Contexto)** Después de la llegada de Adriana Ferran Gonzalez, Ludo Bermejo sugirió que los participantes hicieran un resumen de las tres partidas anteriores del juego de rol, ya que había pasado mucho tiempo desde la última sesión, que fue en noviembre. La última sesión tuvo lugar el 16 de noviembre, hace casi dos meses ([00:04:29](?tab=t.i2k5iwcypori#heading=h.g5l9vh39hqb0)) ([00:12:27](?tab=t.i2k5iwcypori#heading=h.g6ugm3j3ts0y)).
+### 3. La Absorción de Tiritas
+- El personaje de Tiritas **crece físicamente** al absorber daño
+- Demostración práctica de su poder de absorción de energía cinética
+- Momento visual impactante durante el combate
 
-* **Encuentro con Avispas Gigantes** El grupo discutió que la última sesión terminó con todos despertándose "al mundo al revés" (upside down) y encontrándose con avispas del tamaño de San Bernardos ([00:05:20](?tab=t.i2k5iwcypori#heading=h.9h8ew49gcpyi)). Júlia Gasull recordó que usó el aguijón de una avispa para matar a otra ([00:06:18](?tab=t.i2k5iwcypori#heading=h.1z9tvqxmezs0)).
+### 4. Travesía del Charco Brillante
+- El grupo decide **cruzar el charco** hacia el otro lado
+- El charco ahora **brilla** de forma más intensa
+- Transición completa al "Upside Down"
 
-* **Eventos en la Enfermería y el Charco** Júlia Gasull recapituló que el personaje Elena bebió de un charco y terminó en la enfermería, y que solo los niños podían ver el charco, lo que llevó a la especulación de que un telépata o superhéroe controlaba la mente de los guardias ([00:07:10](?tab=t.i2k5iwcypori#heading=h.7m1vm03tycp0)). David Pérez Jiménez añadió que el personaje de Elena bebió del charco mientras estaban investigando cerca de la sala de informática, después de que el personaje de David Pérez Jiménez fuera descubierto por la psicóloga ([00:08:15](?tab=t.i2k5iwcypori#heading=h.29w61dl6wv6f)).
+### 5. El Upside Down Completo
+- **Sin cobertura telefónica**: Completamente aislados
+- **Ambiente oxidado**: Todo parece deteriorado y corroído
+- **Atmósfera opresiva**: Sensación de peligro constante
+- Claramente un lugar "otro", no solo una ilusión
 
-* **Desapariciones y Fenómenos Anómalos** Adriana Ferran Gonzalez recordó que la primera noche hubo un tecleo, y Amara y Dimitri desaparecieron ([00:09:02](?tab=t.i2k5iwcypori#heading=h.cvbbp6fnrju8)). Júlia Gasull confirmó que escucharon el tecleo de nuevo la segunda noche ([00:10:05](?tab=t.i2k5iwcypori#heading=h.jvd4dilo8f5g)).
+### 6. Combate Final de Sesión
+- Encuentro con **otro monstruo avispa** en el Upside Down
+- Combate más difícil en territorio hostil
+- Sesión termina en medio de la acción
 
-* **Tiempo Parado y Mundo Sepia** Los participantes recordaron que el tiempo se detuvo, como lo mostraba un contador de segundos en una cámara ([00:10:05](?tab=t.i2k5iwcypori#heading=h.jvd4dilo8f5g)). Adriana Ferran Gonzalez mencionó que su personaje tenía el móvil grabando toda la noche, pero solo grabó una imagen estática, sin movimiento ([00:13:29](?tab=t.i2k5iwcypori#heading=h.zgmd7zt4somj)).
+---
 
-* **Detalles del Combate Anterior** El grupo confirmó que el personaje de Perico sí estuvo en la última batalla, y Adriana Ferran Gonzalez revisó las notas del combate donde se mencionaron ataques devastadores y estrategias exitosas contra las avispas ([00:11:47](?tab=t.i2k5iwcypori#heading=h.s5ctn2cdsqka)).
+## Desarrollo de Personajes
 
-* **Collar de Contención** Ludo Bermejo explicó a Adriana Ferran Gonzalez que le pusieron un collar de contención a su personaje por amenazar con usar sus poderes después de mencionar que iba a tirar un vaso de agua mientras hablaban del charco ([00:13:29](?tab=t.i2k5iwcypori#heading=h.zgmd7zt4somj)).
+### Tiritas (Juls/Júlia Gasull)
+- **Momento destacado**: Usa aguijón de avispa como arma improvisada
+- Su poder de absorción lo hace crecer físicamente
+- Demuestra creatividad táctica en combate
 
-* **Grupo Anarquista** Adriana Ferran Gonzalez mencionó que investigó y encontró un grupo anarquista llamado "Los enfants terribles" ([00:14:14](?tab=t.i2k5iwcypori#heading=h.v76lss6t6owg)).
+### Kira (Adriana Ferran Gonzalez)
+- Ataques eléctricos a distancia efectivos
+- Gestiona su situación del collar inhibidor
+- Rol de artillería del grupo
 
-* **Reinicio del Juego y Fallas Técnicas** Ludo Bermejo tuvo que reiniciar el servicio del juego porque estaba dando un error "muy chungo" con el Foundry, especialmente al intentar mover a los personajes a la planta baja ([00:19:49](?tab=t.i2k5iwcypori#heading=h.u7w32j2q30hp)).
+### Elena (Perico/Capitán Berberecho)
+- Usa ilusiones para distraer a las avispas
+- Se recupera de la enfermedad de la sesión anterior
+- Apoyo táctico valioso
 
-* **Ubicación de los Personajes al Reanudar** Después de resolver los problemas técnicos, Ludo Bermejo confirmó que los personajes estaban en la planta de abajo ([00:27:39](?tab=t.i2k5iwcypori#heading=h.wnnadw9f2cio)). Ludo Bermejo tuvo que insistir en la ubicación, ya que los jugadores estaban confundidos por la simetría del edificio, pero explicó que ahora veían baños y un aula que antes no estaban ([00:28:42](?tab=t.i2k5iwcypori#heading=h.lym4bwufvtyv)).
+### Sergei (David Pérez Jiménez)
+- Participa activamente en los combates
+- Ayuda a coordinar la travesía del charco
+- Rol versátil en el grupo
 
-* **Decisión de la Próxima Acción** Los jugadores debatieron si bajar a pelear contra las avispas o ir al charco para investigar ([00:17:33](?tab=t.i2k5iwcypori#heading=h.2zkqinpol96y)) ([00:31:57](?tab=t.i2k5iwcypori#heading=h.updbsvuec6l3)). David Pérez Jiménez y Capitán Berberecho querían ir al charco, mientras que Adriana Ferran Gonzalez quería "descargar adrenalina" peleando ([00:16:50](?tab=t.i2k5iwcypori#heading=h.na3d7fgerdbp)) ([00:31:57](?tab=t.i2k5iwcypori#heading=h.updbsvuec6l3)).
+---
 
-* **Inicio del Combate Sorpresa** El grupo se movió hacia donde se encontraban las avispas. Adriana Ferran Gonzalez tomó la iniciativa y lanzó un ataque a distancia por sorpresa contra una de las avispas, dejándola aturdida con 7 puntos de daño ([00:34:07](?tab=t.i2k5iwcypori#heading=h.ia28xhpk3p8n)). Ludo Bermejo interrumpió momentáneamente para corregir un error, ya que había agregado accidentalmente al grupo a otro combate ([00:34:52](?tab=t.i2k5iwcypori#heading=h.4nj5fxasydsb)).
+## Revelaciones Importantes
 
-* **Despliegue de Habilidades e Iniciativa** Ludo Bermejo explicó que los jugadores podían pinchar en el ícono de las dos espadas cruzadas para tirar la iniciativa ([00:35:47](?tab=t.i2k5iwcypori#heading=h.1eiccyfjxkb0)). Elena Expósito sacó un Joker, lo que le dio \+2 al ataque y \+2 al daño ([00:36:49](?tab=t.i2k5iwcypori#heading=h.5pj9vrhrl1t8)).
+### Sobre el Upside Down
+- Es un lugar **físicamente real**, no una ilusión
+- **No hay cobertura de móvil**: Están completamente aislados
+- **Todo está oxidado**: El deterioro es una característica del lugar
+- Las avispas gigantes son nativas de este lugar
 
-* **Uso de Ilusión en Combate** Elena (el personaje de Capitán Berberecho) decidió crear una ilusión de un pájaro gigante para asustar a las avispas ([00:38:18](?tab=t.i2k5iwcypori#heading=h.lncl20q5cjvb)). Una avispa, aturdida, atacó al pájaro gigante ilusorio y lo falló ([00:40:59](?tab=t.i2k5iwcypori#heading=h.xr8xsxrcsfki)).
+### Sobre el Charco
+- Funciona como **portal bidireccional**
+- Brilla más intensamente cuando está "activo"
+- Permite el paso físico completo al otro lado
 
-* **Ataque de Serge y Muerte de Avispa** Serge (el personaje de David Pérez Jiménez) intentó estudiar el punto débil de las avispas, fallando su tirada, y luego se acercó por el flanco del pájaro ilusorio para atacar a la avispa ([00:50:15](?tab=t.i2k5iwcypori#heading=h.xh86358jrfbb)) ([00:52:23](?tab=t.i2k5iwcypori#heading=h.c3q57qpq2dg6)). Serge acertó el ataque y causó 11 de daño, matando a la avispa ([00:53:35](?tab=t.i2k5iwcypori#heading=h.rmkt30kjr8l6)).
+### Sobre los Poderes
+- Los poderes **funcionan** en el Upside Down
+- El poder de Tiritas tiene manifestación física visible (crecimiento)
+- Las tácticas de combate deben adaptarse al nuevo entorno
 
-* **Ataque y Herida a Kira** Una de las avispas que se dio cuenta de que el pájaro era una ilusión atacó a Kira (el personaje de Adriana Ferran Gonzalez) ([00:54:42](?tab=t.i2k5iwcypori#heading=h.i665rd1b4k7p)). La avispa hirió a Kira, quien gastó un Beni para absorber la herida y quedó aturdida ([00:55:52](?tab=t.i2k5iwcypori#heading=h.kkewlbgnmi8p)).
+---
 
-* **Retirada Estratégica** Elena se acercó a Kira para apartarla, y el grupo hizo una "retirada estratégica". David Pérez Jiménez bromeó diciendo que deberían golpear a Kira para aturdirla y llevársela la próxima vez que propusiera una idea impulsiva ([00:56:45](?tab=t.i2k5iwcypori#heading=h.sn950wt4q2i2)).
+## Temas Narrativos
 
-* **Avispafobia de PJ** David Pérez Jiménez confirmó que le molesta el zumbido y la existencia de cualquier insecto que pique, incluyendo avispas, abejas, avispones y tábanos, lo que causó risa en el grupo ([00:46:43](?tab=t.i2k5iwcypori#heading=h.ewwa7fkyulas)).
+### Aislamiento Total
+- Sin comunicación con el mundo exterior
+- Dependencia total del grupo
+- Terror de lo desconocido
 
-* **Resolución del Combate y Aumento de Júlia Gasull** El grupo continuó el combate con las avispas, y Júlia Gasull intentó inicialmente una táctica de usar el aguijón de una avispa contra otra, lo cual fue descartado por Ludo Bermejo debido a las reglas de la ilusión y los ataques de oportunidad ([00:57:34](?tab=t.i2k5iwcypori#heading=h.vx37pg7h215c)). Júlia Gasull decide atacar con un puñetazo, utilizando su fuerza y la habilidad "artista marcial", que le da un bono a golpear, incluso después de que Ludo Bermejo notara que le faltaba la habilidad de ataque desarmado en su perfil, lo cual fue corregido ([00:59:25](?tab=t.i2k5iwcypori#heading=h.sbu3tagl0z58)) ([01:01:23](?tab=t.i2k5iwcypori#heading=h.vil4jcmeni61)). Júlia Gasull logró matar a su avispa con un "ataque salvaje" o desarmado ([01:00:24](?tab=t.i2k5iwcypori#heading=h.zbb3ycd7zv7i)) ([01:02:54](?tab=t.i2k5iwcypori#heading=h.6dm2jykkgzf2)).
+### Supervivencia
+- Combates constantes contra criaturas hostiles
+- Necesidad de adaptarse rápidamente
+- Uso creativo de recursos (aguijón como arma)
 
-* **Ataques Fallidos y Éxito de Adriana Ferran Gonzalez** David Pérez Jiménez atacó a otra avispa, pero falló la tirada con un cinco ([01:02:54](?tab=t.i2k5iwcypori#heading=h.6dm2jykkgzf2)). Cuando usó su Benny para repetir la tirada, también falló, resbalando en la sangre verde de la avispa ([01:03:54](?tab=t.i2k5iwcypori#heading=h.q7bt8x6hkliu)). Adriana Ferran Gonzalez, inicialmente aturdida, logró desaturdirse con un dado de espíritu ([01:04:52](?tab=t.i2k5iwcypori#heading=h.ahwvre6p3s5u)) y procedió a atacar a otra avispa, decapitándola con éxito y causando que explotara. Ludo Bermejo recompensó al grupo con un Joker y a Adriana Ferran Gonzalez con un bono de \+2 al ataque y al daño en su siguiente turno, permitiéndole atacar de nuevo inmediatamente ([01:06:30](?tab=t.i2k5iwcypori#heading=h.ots9z7aayjkd)).
+### El Punto de No Retorno
+- Cruzar el charco es una decisión definitiva
+- El grupo se compromete con la investigación
+- No hay vuelta atrás fácil
 
-* **Eliminación de Avispas y Uso de Habilidades de Engaño** Adriana Ferran Gonzalez atacó a una tercera avispa, y el ataque funcionó muy bien, destrozándola con un 11 en la tirada ([01:07:27](?tab=t.i2k5iwcypori#heading=h.tzyn2f77sitt)). David Pérez Jiménez intentó atacar a otra avispa, pero falló con un cuatro. Júlia Gasull decidió no perder su turno arrancando un aguijón de avispa y en su lugar atacó a la avispa restante con un ataque desarmado, resultando en la muerte de la avispa y el fin del combate ([01:08:27](?tab=t.i2k5iwcypori#heading=h.zgz7jfdkcxdw)) ([01:09:56](?tab=t.i2k5iwcypori#heading=h.c0ch0la6s2ka)).
+---
 
-* **Discusión sobre Daño y Combate Desarmado** David Pérez Jiménez preguntó sobre las reglas de daño y notó que su espada larga no estaba funcionando bien ([01:09:56](?tab=t.i2k5iwcypori#heading=h.c0ch0la6s2ka)). Ludo Bermejo explicó que el personaje de David Pérez Jiménez pelea con un D6 porque es lo que aprendió a pelear, a diferencia de Júlia Gasull (Tiritas) que usa un D10 ([01:10:41](?tab=t.i2k5iwcypori#heading=h.vwcz6k69qqs9)). También aclaró la confusión de David Pérez Jiménez con el dado de daño, explicando que tira un dado de cuatro por su fuerza más un dado de ocho como si llevara una espada ([01:11:31](?tab=t.i2k5iwcypori#heading=h.vprxx3647whr)).
+## Mecánicas de Juego Destacadas
 
-* **Acciones Post-Combate y Descubrimiento del Entorno** Con el combate terminado, el grupo quedó libre para actuar. David Pérez Jiménez expresó su intención de ir a ver el charco, mientras que se discutió brevemente si había comida comestible en la cocina ([01:12:18](?tab=t.i2k5iwcypori#heading=h.95cut9l3687e)). Júlia Gasull preguntó por la comida, mencionando macarrones, y Capitán Berberecho buscó un cuchillo ([01:13:19](?tab=t.i2k5iwcypori#heading=h.vnml2kfyp7f4)). David Pérez Jiménez expresó preocupación por el cuchillo debido a su posible relación con su flor. Júlia Gasull decidió coger una sartén como arma improvisada ligera ([01:14:27](?tab=t.i2k5iwcypori#heading=h.j438we5r9d60)).
+- **Armas improvisadas**: Uso del aguijón de avispa
+- **Crecimiento de Tiritas**: Manifestación visual de absorción de energía
+- **Combates múltiples**: Varios encuentros en una sesión
+- **Exploración de dimensión**: Mecánicas para el Upside Down
 
-* **Avance hacia la Avispa Restante y Estrategias de Sigilo** Mientras el grupo avanzaba, David Pérez Jiménez divisó otra avispa ([01:16:01](?tab=t.i2k5iwcypori#heading=h.qtg5orlvy04k)). Júlia Gasull sugirió que David Pérez Jiménez cerrara la puerta para separarse de ella. Ludo Bermejo confirmó que las avispas no pueden abrir puertas. David Pérez Jiménez propuso usar su habilidad de separar parte del cuerpo para que su brazo reptara y cerrara la puerta sigilosamente ([01:16:55](?tab=t.i2k5iwcypori#heading=h.jjjdg298o01j)). David Pérez Jiménez realizó la tirada de sigilo con éxito, usando su brazo como un "gusano" para cerrar la puerta sin ser detectado ([01:21:05](?tab=t.i2k5iwcypori#heading=h.2wbdptsi0oq0)) ([01:24:28](?tab=t.i2k5iwcypori#heading=h.cnp3vwz0ma37)).
+---
 
-* **Exploración del Charco Brillante y el "Upside Down"** El grupo se encontró con un charco brillante que, al mirarlo, mostraba una habitación diferente, como si miraran de abajo hacia arriba ([01:25:25](?tab=t.i2k5iwcypori#heading=h.920mbhv121ji)). Júlia Gasull se lanzó inmediatamente al charco, desapareciendo ([01:26:24](?tab=t.i2k5iwcypori#heading=h.p9pfiwgd0lyz)). Capitán Berberecho y David Pérez Jiménez siguieron a Júlia Gasull al charco, desapareciendo también ([01:27:11](?tab=t.i2k5iwcypori#heading=h.ele4iakcvse)). Ludo Bermejo tuvo que recrear la escena debido a un error al cambiar de escena ([01:27:46](?tab=t.i2k5iwcypori#heading=h.kg1l6l8ww3dl)).
+## Información para Continuidad
 
-* **Nueva Escena: Un Lugar Lleno de Insectos y Polvo** El grupo apareció en una nueva escena, que Júlia Gasull describió como el "Upside Down" ([01:28:49](?tab=t.i2k5iwcypori#heading=h.ko6wt3v1lp)). El nuevo entorno estaba cubierto de polvo y óxido, con muchísimos insectos, incluidas arañas ([01:30:31](?tab=t.i2k5iwcypori#heading=h.hgo9p7g2beju)) ([01:38:52](?tab=t.i2k5iwcypori#heading=h.4pvdqo9wt290)). Ludo Bermejo describió una escultura de metal oxidada de una molécula y la presencia de muchas puertas ([01:39:39](?tab=t.i2k5iwcypori#heading=h.z7rnmdjyp10c)).
+- **Ubicación**: El grupo está atrapado en el Upside Down
+- **Objetivo**: ¿Encontrar a los desaparecidos? ¿Escapar?
+- **Amenazas**: Más avispas y posibles otras criaturas
+- **Recursos**: Limitados, sin comunicación externa
+- **El charco**: ¿Sigue siendo un camino de vuelta?
 
-* **Ausencia de Cobertura y Percepción del Tiempo** Ludo Bermejo explicó que en la nueva área no hay sensación de estática y el tiempo pasa normalmente (deben ser la 1 de la mañana), pero los teléfonos no tienen cobertura. Adriana Ferran Gonzalez intentó usar el GPS sin éxito ([01:40:22](?tab=t.i2k5iwcypori#heading=h.bf67nmxospme)).
+---
 
-* **Investigación de las Puertas y el Respiradero** Júlia Gasull preguntó por un respiradero que el grupo tenía que saltar ([01:41:23](?tab=t.i2k5iwcypori#heading=h.iqsbvf6xhvum)). Júlia Gasull abrió una puerta que daba a una sala con cajas, una silla y un monitor. El monitor no estaba encendido ([01:42:21](?tab=t.i2k5iwcypori#heading=h.weuyiv6ixd12)). David Pérez Jiménez notó zonas anaranjadas en el suelo, que Ludo Bermejo sugirió que podrían ser señales de carga y descarga ([01:42:55](?tab=t.i2k5iwcypori#heading=h.ybkdhqvq9n21)).
+## Citas Destacadas
 
-* **Descubrimiento de un Arcade y Falta de Electricidad** Júlia Gasull encontró un juego de arcade. Adriana Ferran Gonzalez intentó usar su habilidad para darle una descarga suave al arcade, pero Ludo Bermejo confirmó que no había corriente eléctrica, por lo que el juego solo se encendía brevemente antes de apagarse ([01:44:44](?tab=t.i2k5iwcypori#heading=h.6smcbhwhryp)). El grupo siguió abriendo puertas y David Pérez Jiménez vio un cono "totalmente lleno de arañas" ([01:46:23](?tab=t.i2k5iwcypori#heading=h.xgr5y3y4nw3w)).
+> *"Usó el aguijón de una avispa para matar a otra"* - Táctica de Tiritas
 
-* **Interrupción de la Sesión y Conversaciones Personales** Ludo Bermejo tuvo una interrupción de internet, lo que detuvo el juego temporalmente ([01:30:31](?tab=t.i2k5iwcypori#heading=h.hgo9p7g2beju)) ([01:35:43](?tab=t.i2k5iwcypori#heading=h.jg9cjhniikpb)). Durante las pausas por problemas técnicos, los participantes hablaron de temas personales como sus exámenes ([01:37:30](?tab=t.i2k5iwcypori#heading=h.poj7phzcpwb9)), regalos de Reyes ([01:30:31](?tab=t.i2k5iwcypori#heading=h.hgo9p7g2beju)), y la colección de libros de Brandon Sanderson de Capitán Berberecho. David Pérez Jiménez y Adriana Ferran Gonzalez discutieron el orden de lectura de los libros del Cosmere ([01:32:43](?tab=t.i2k5iwcypori#heading=h.2pg899ln9c6y)) ([01:34:05](?tab=t.i2k5iwcypori#heading=h.pb08c2wv2baa)). El grupo también discutió y mostró cajas de puzles ([01:34:57](?tab=t.i2k5iwcypori#heading=h.x9v0t4nba5x1)).
+> *"Un 'Upside Down' sin cobertura telefónica y con óxido"* - Descripción del nuevo entorno
 
-* **Reconexión y Continuación de la Exploración** Después de que Ludo Bermejo se reconectó y el grupo pudo cargar la escena, se reanudó la exploración ([01:36:47](?tab=t.i2k5iwcypori#heading=h.551k8qaccxya)) ([01:38:52](?tab=t.i2k5iwcypori#heading=h.4pvdqo9wt290)). El grupo descubrió unas escaleras selladas y un contenedor que parecía ser de gas ([01:46:23](?tab=t.i2k5iwcypori#heading=h.xgr5y3y4nw3w)). Capitán Berberecho advirtió al grupo que no abrieran una puerta específica ([01:47:08](?tab=t.i2k5iwcypori#heading=h.ouvzf2x7nzua)).
+---
 
-* **Exploración Inicial y Advertencias** Adriana Ferran Gonzalez preguntó si había alguna puerta roja y David Pérez Jiménez consultó cuál puerta se les había dicho que no abrieran, en respuesta a la advertencia del Capitán Berberecho de no abrirla y hacerle caso ([01:47:50](?tab=t.i2k5iwcypori#heading=h.35emvw8ftt05)). David Pérez Jiménez sugirió que deberían moverse en grupo para evitar que un monstruo les atacara y Adriana Ferran Gonzalez le pidió a Júlia Gasull que fuera primero ([01:48:31](?tab=t.i2k5iwcypori#heading=h.az0secu34r7c)).
+*Sesión de acción intensa que marca la transición completa al Upside Down. El grupo ha cruzado el umbral y ahora debe sobrevivir en un mundo hostil mientras busca respuestas sobre las desapariciones.*
 
-* **Primer Encuentro y Ataque del Monstruo** El grupo se encontró con un monstruo, y Ludo Bermejo anunció un "ataque gratuito del bicho" contra Júlia Gasull ([01:49:15](?tab=t.i2k5iwcypori#heading=h.oxqnlb2xi9qh)). Discutieron las tiradas de ataque, donde David Pérez Jiménez y Adriana Ferran Gonzalez confirmaron un *fighting* de ocho y un *bite* de dos, aunque la tirada de *bite* no fue exitosa. Ludo Bermejo aclaró que el ataque no logró herir a Júlia Gasull porque esta hizo una parada de siete ([01:49:49](?tab=t.i2k5iwcypori#heading=h.89mo7a4fi5mx)).
-
-* **Mecánicas de Iniciativa y el Aguijonazo** Ludo Bermejo inició las tiradas de iniciativa, y el monstruo, identificado como una avispa, atacó de nuevo a Júlia Gasull con un "aguijonazo" ([01:50:51](?tab=t.i2k5iwcypori#heading=h.cwiijgau4y8v)). Ludo Bermejo instruyó a Júlia Gasull a realizar una tirada de absorción de la energía cinética del ataque, lo que resultó en que, aunque recibió una herida, esta le hizo más "tocho" ([01:51:30](?tab=t.i2k5iwcypori#heading=h.55ppbxoksu7d)). El resultado de la absorción fue que el personaje de Júlia Gasull, Tiritas, aumentó su tamaño y ahora es más grande que el resto ([01:52:37](?tab=t.i2k5iwcypori#heading=h.gbl9lajzugd)).
-
-* **Movimiento y Estrategia de Combate** El Capitán Berberecho se movió y se limitó a animar al grupo ([01:53:37](?tab=t.i2k5iwcypori#heading=h.2dros27ndr8r)). Adriana Ferran Gonzalez intentó moverse para posicionarse, logrando pasar por el estrecho pasillo con una tirada exitosa de atletismo, aunque esta acción consumió su turno de movimiento ([01:55:00](?tab=t.i2k5iwcypori#heading=h.loettqcri0fs)). Ella consideró intentar "conmocionar" al bicho para dejarlo "tonto" y que Júlia Gasull pudiera matarlo, y decidió intentar el ataque con una tirada múltiple que implicaba una penalización de menos dos ([01:55:43](?tab=t.i2k5iwcypori#heading=h.js40ehknciic)). A pesar de los esfuerzos de Adriana Ferran Gonzalez por conmocionar a la avispa, la tirada no tuvo éxito, por lo que ella se quedó igual y no pudo aplicar el efecto deseado ([01:57:14](?tab=t.i2k5iwcypori#heading=h.226eb3xg5rgk)).
-
-* **Derrota del Monstruo y Fin de la Sesión** Júlia Gasull, actuando como Tiritas, atacó a la avispa tomándola de las antenas, utilizando una tirada de pelear exitosa ([01:57:51](?tab=t.i2k5iwcypori#heading=h.ds6288jm685k)). Ludo Bermejo le indicó a Júlia Gasull que hiciera una tirada de daño desarmado, y con una tirada con dado explosivo, lograron matar al monstruo ([01:58:42](?tab=t.i2k5iwcypori#heading=h.afmxwpmiiupj)). Ludo Bermejo confirmó que el combate había terminado, y acordaron finalizar la sesión allí, ya que era tarde ([01:59:45](?tab=t.i2k5iwcypori#heading=h.lyapa4ku3rbb)). Júlia Gasull agradeció al Capitán Berberecho por sus ánimos, pero le recriminó a Adriana Ferran Gonzalez por no haber dicho nada y casi haber causado un accidente ([02:00:44](?tab=t.i2k5iwcypori#heading=h.jtsi0u76vz0f)).
-
-### Pasos siguientes recomendados
-
-- [ ] David Pérez Jiménez enviará páginas a Capitán Berberecho si necesita ayuda con el orden de lectura de los libros de Sanderson.  
-- [ ] Ludo Bermejo continuará el juego el día siguiente.
-
-*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
-
-*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=Z57bA1dlNfsBmZ2kpsBVDxIYOAIIigIgABgDCA&detailid=standard)*
+**Duración aproximada**: ~2 horas

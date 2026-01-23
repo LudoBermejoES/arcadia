@@ -72,7 +72,7 @@ Los 13 internos están ordenados del más joven al mayor:
 <div class="protagonistas-grid" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 15px; margin: 20px 0;">
 
 <div class="character-card" style="background-color: #efe; padding: 20px; border-left: 6px solid #0a0; font-weight: bold;">
-  <strong>🦎 SERGEI</strong> <em>(PJ)</em><br>
+  <strong>🦎 SERGEI</strong> <em>(David Pérez Jiménez)</em><br>
   Metamorfo veterano<br>
   16-17 años<br>
   ⏱️ En reformatorio desde 12-13 años<br>
@@ -81,7 +81,7 @@ Los 13 internos están ordenados del más joven al mayor:
 </div>
 
 <div class="character-card" style="background-color: #efe; padding: 20px; border-left: 6px solid #0a0; font-weight: bold;">
-  <strong>💪 TIRITAS</strong> <em>(Júlia Gasull)</em><br>
+  <strong>💪 TIRITAS</strong> <em>(Juls/Júlia Gasull)</em><br>
   Absorbe energía cinética<br>
   ⏱️ 2 años en reformatorio<br>
   Mató padre en defensa propia<br>
@@ -90,7 +90,7 @@ Los 13 internos están ordenados del más joven al mayor:
 </div>
 
 <div class="character-card" style="background-color: #efe; padding: 20px; border-left: 6px solid #0a0; font-weight: bold;">
-  <strong>⚡ KIRA</strong> <em>(Adriana F. Gonzalez)</em><br>
+  <strong>⚡ KIRA</strong> <em>(Adriana Ferran Gonzalez)</em><br>
   Manipuladora eléctrica<br>
   13-14 años (la más joven)<br>
   Recién llegada<br>
@@ -99,7 +99,7 @@ Los 13 internos están ordenados del más joven al mayor:
 </div>
 
 <div class="character-card" style="background-color: #efe; padding: 20px; border-left: 6px solid #0a0; font-weight: bold;">
-  <strong>🎭 ELENA EXPÓSITO</strong> <em>(Perico)</em><br>
+  <strong>🎭 ELENA EXPÓSITO</strong> <em>(Perico/Capitán Berberecho)</em><br>
   Ilusionista avanzada<br>
   Recién llegada (02/11/2025)<br>
   Impulsiva, teatral<br>
@@ -194,9 +194,13 @@ Los 13 internos están ordenados del más joven al mayor:
 <div class="mystery-box" style="background-color: #fee; padding: 20px; margin: 20px 0; border-left: 6px solid #f00;">
   <h3 style="margin-top: 0;">🔍 MISTERIOS DEL REFORMATORIO</h3>
   <ul>
-    <li>⚠️ Tecleo misterioso nocturno</li>
-    <li>⚠️ Desaparición de Amara y Dimitri</li>
-    <li>⚠️ ¿Qué sucede realmente en Isla Albedo?</li>
+    <li>⚠️ <strong>Tecleo misterioso nocturno</strong> - "ticli, ticli, ticli"</li>
+    <li>⚠️ <strong>Desaparición de Amara y Dimitri</strong> - ¿Están en el Upside Down?</li>
+    <li>⚠️ <strong>El Charco</strong> - Portal visible solo para los jóvenes, los adultos no lo ven</li>
+    <li>⚠️ <strong>El Upside Down</strong> - Dimensión alternativa con tiempo alterado, óxido y avispas gigantes</li>
+    <li>⚠️ <strong>Laboratorio abandonado</strong> - Tanques con criaturas alienígenas, evidencia de experimentación</li>
+    <li>⚠️ <strong>Las Avispas Gigantes</strong> - Criaturas del tamaño de San Bernardos con huevos y líquido ámbar</li>
+    <li>⚠️ <strong>Control mental de adultos</strong> - ¿Por qué no pueden ver el charco?</li>
   </ul>
 </div>
 
@@ -207,7 +211,7 @@ Los 13 internos están ordenados del más joven al mayor:
 <div class="info-box" style="background-color: #f5f5f5; padding: 20px; margin: 20px 0; border-left: 6px solid #888;">
   <ul style="list-style: none; padding-left: 0;">
     <li>📍 <strong>Ubicación:</strong> Isla Albedo (volcánica)</li>
-    <li>👥 <strong>Población:</strong> 13 internos jóvenes + 3 protagonistas</li>
+    <li>👥 <strong>Población:</strong> 13 internos jóvenes + 4 protagonistas</li>
     <li>🏛️ <strong>Tipo:</strong> Institución de "rehabilitación"</li>
     <li>🔒 <strong>Tema central:</strong> Control vs. Libertad</li>
   </ul>
@@ -224,4 +228,4 @@ Los 13 internos están ordenados del más joven al mayor:
 
 ---
 
-*Última actualización: 1 de noviembre de 2025*
+*Última actualización: Enero 2026*

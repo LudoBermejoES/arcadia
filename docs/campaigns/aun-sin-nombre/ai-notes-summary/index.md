@@ -209,6 +209,51 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+#### [📈 Análisis 18/01/2026 - El Laboratorio Abandonado]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)
+**"Descubrimientos Alienígenas"**
+
+**🎯 Temas Centrales Identificados:**
+- **Exploración de Instalación**: Centro de estudio/laboratorio abandonado
+- **Combate Eficiente**: Eliminación rápida de avispas con trabajo en equipo
+- **Descubrimiento Científico**: Tanques con criaturas alienígenas muertas
+- **Horror Corporal**: Autopsia revela huevos y sustancia ambar
+
+**👥 Desarrollo de Personajes:**
+- **Sergei (PJ)**: Uso táctico de mano separada para reconocimiento
+- **Kira**: Rayos devastadores, mantiene rol ofensivo
+- **Elena**: Ilusiones sonoras (alarma) y visuales (sapo gigante) para distracción
+- **Tiritas**: Realiza autopsia, se vuelve más impulsivo al crecer
+
+**🔮 Arcos Narrativos Avanzados:**
+- Descripción del entorno: laboratorio evacuado de forma organizada pero rápida
+- Panel de control con funciones de energía, temperatura y "láser"
+- Cámara gigantesca de 10 metros de profundidad (similar a Stranger Things)
+- Tanques con criaturas alienígenas muertas en líquido
+- Autopsia: criatura no humana con huevos tamaño pelota de tenis
+- Líquido ambarino brillante en glándulas salivales (diferente del charco)
+- Descubrimiento de duchas, baños y productos químicos
+
+**⚡ Momentos Clave:**
+- Sergei usa mano para explorar bajo puertas hidráulicas
+- Elena crea ilusión de alarma para distraer avispas (tirada 9)
+- Sergei decapita avispa con espada corporal
+- Kira destruye avispa con rayo a distancia
+- Grupo encuentra cuadernos: "incursión", "espécimen deteriorado", "evacuación"
+- Tiritas disecciona criatura con bisturí oxidado
+- Huevos del tamaño de pelotas de tenis emergen del abdomen
+- Tiradas de Vigor para no vomitar ante la escena
+- Elena crea ilusión de sapo gigante en combate final
+- Sesión termina con dos avispas destruidas y una aturdida
+
+**🧠 Dinámicas Sociales:**
+- Sergei lidera reconocimiento sigiloso
+- Grupo permanece unido por seguridad
+- Tiritas designado para autopsia por habilidad de medicina
+- Humor sobre invitar a Tiritas a macarrones si va primero
+- Tiritas más impulsivo y posiblemente violento al crecer
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

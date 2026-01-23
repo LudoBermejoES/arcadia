@@ -15,6 +15,26 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### ❄️ **Enero 2026 - Cruzando al Otro Lado**
 
+#### [📝 Sesión 18 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)
+
+**"El Laboratorio Abandonado"**
+
+- 🏢 **Laboratorio**: Centro de estudio/laboratorio abandonado con escultura de molécula
+- 🔊 **Alarma Ilusoria**: Elena crea alarma sonora para distraer avispas (tirada 9)
+- ⚔️ **Sergei Eficiente**: Decapita avispa con espada corporal tras reconocimiento sigiloso
+- ⚡ **Kira Devastadora**: Destruye avispa con rayo a distancia
+- 🖥️ **Sala de Control**: Paneles para energía, temperatura y "láser"
+- 🔬 **Cámara Gigante**: 10 metros de profundidad, comparada con Stranger Things
+- 👽 **Tanques Alienígenas**: Criaturas extrañas muertas en líquido
+- 🔪 **Autopsia**: Tiritas disecciona criatura - huevos tamaño pelota de tenis
+- 🟡 **Líquido Ambar**: Sustancia brillante en glándulas salivales (diferente al charco)
+- 🐸 **Sapo Gigante**: Elena crea ilusión para distraer en combate final
+- ⏸️ **Fin de Sesión**: 2 avispas destruidas, 1 aturdida
+
+**Temas Clave**: Exploración científica, descubrimientos alienígenas, horror corporal
+
+---
+
 #### [📝 Sesión 11 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 
 **"El Upside Down"**
@@ -204,7 +224,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### **Sesiones con Transcripción IA**
 
-- **Total**: 4 sesiones
+- **Total**: 5 sesiones
 - **Promedio**: ~1.5 horas por sesión
 - **Formato**: Transcripción automática Gemini + análisis narrativo
 

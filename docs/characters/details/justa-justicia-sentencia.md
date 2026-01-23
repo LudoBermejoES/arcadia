@@ -271,7 +271,38 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 
 ---
 
-## 📊 Estado Actual (Diciembre 2025)
+### Fase VII: El Dilema Moral en el Casino de Dionisios (18 Enero 2026)
+
+**Contexto**:
+
+- El grupo visita el Casino de Dionisios (frontal legal de la familia de Diana)
+- Mulcifer, padrino de Diana, ofrece dinero y armas especiales para Sentencia
+- Advertencia: *"El dinero está manchado de sangre. Yo soy el diablo."*
+
+**Speech Épico de Justa**:
+
+- Invoca la memoria de su padre Anselmo McKomick como guía moral
+- *"¿Cómo se sentiría él si ahora su hija se uniera por conveniencia con delincuentes?"*
+- Declara que prefiere *"morir intentándolo"* antes que traicionar sus principios
+- *"Los destinos lejanos sin considerar el camino seguido no me interesan"*
+- Reconoce que no juzga a sus compañeros por sus orígenes (Diana, Hotman, Astrid)
+
+**Posición Filosófica**:
+
+- El camino importa tanto como el destino (deontología vs consecuencialismo)
+- Rechaza rotundamente el dinero "manchado de sangre"
+- Su padre fue un metacorp que *"creía que su trabajo tenía un sentido: ayudar a los indefensos"*
+- *"No tengo superpoderes maravillosos, todo lo que soy lo he conseguido con trabajo duro"*
+
+**Debate con Diana**:
+
+- Diana propone solución intermedia: usar la ayuda con condiciones estrictas
+- Pide a Justa que defina los límites y escriba las condiciones
+- Decisión pendiente sobre aceptar o rechazar la oferta de Mulcifer
+
+---
+
+## 📊 Estado Actual (Enero 2026)
 
 ### Situación Táctica
 
@@ -328,6 +359,14 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 
 > "Lo voy a matar. No sé cuándo ni cómo, pero está sentenciado."
 
+### Sobre Ética y Principios (Sesión 47)
+
+> "Mi padre fue un metacorp, pero por encima de su uniforme, también era un hombre que creía que su trabajo tenía un sentido: ayudar a los indefensos, protegerlos de delincuentes abrumadoramente superiores al común de los mortales."
+
+> "Los destinos lejanos, los objetivos del bien pero sin considerar el camino seguido no me interesan."
+
+> "¿Cómo se sentiría él si ahora su hija se uniera por conveniencia con delincuentes? ¿Si aceptara dinero y armas de ellos?"
+
 ---
 
 ## 📋 Apariciones Documentadas
@@ -360,6 +399,8 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)
 - [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Isla Sal
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
+- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 
 ---
 

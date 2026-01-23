@@ -26,7 +26,7 @@ slug: diana
 
 ## Resumen
 
-Diana es una metahumana creada por Fatum Corporation como arma potencial, hija de Cloris (fallecida durante su parto) y posiblemente modificada con ADN de Bellona. Preparada por Janus para liderar la siguiente generación de la organización criminal, eligió en cambio unirse a La Fuerza Oculta como heroína. Su relación con [Psique]({{ site.baseurl }}/characters/details/mencia-psique-cia/) es su ancla emocional que le permite desafiar el destino impuesto por su linaje. La revelación de que su hermano gemelo **Apolo está vivo** en algún lugar distante ha transformado completamente su comprensión de sí misma. Introspectiva y de estética gótica asiática, Diana lucha entre la violencia de su herencia y la vulnerabilidad que está aprendiendo a aceptar.
+Diana es una metahumana creada por Fatum Corporation como arma potencial, hija de **Cloris y Janus** (ambos fallecidos), posiblemente modificada con ADN de Bellona. Preparada para liderar la siguiente generación de la organización criminal, eligió en cambio unirse a La Fuerza Oculta como heroína. Diana sospecha que sus padres "integraron su ADN en ella antes de desaparecer" - se describe a sí misma como *"su tumba, lo único que queda de ellos"*. Su relación con [Psique]({{ site.baseurl }}/characters/details/mencia-psique-cia/) es su ancla emocional que le permite desafiar el destino impuesto por su linaje. La revelación de que su hermano gemelo **Apolo está vivo** en algún lugar distante ha transformado completamente su comprensión de sí misma. Introspectiva y de estética gótica asiática, Diana lucha entre la violencia de su herencia y la vulnerabilidad que está aprendiendo a aceptar.
 
 ---
 
@@ -68,10 +68,12 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 ### Conexión con Fatum
 
 **Origen**:
-- Hija de **Cloris** (fallecida durante su parto, "el corazón" de Fatum)
+
+- Hija de **Cloris** (madre, "el corazón" de Fatum) y **Janus** (padre)
+- Ambos padres fallecidos en circunstancias misteriosas
+- Diana sospecha que *"su muerte alimentó su vida"* - posible integración de su ADN antes de desaparecer
 - Posible ADN de **Bellona** utilizado en su creación
-- Preparada por **Janus** para liderar la siguiente generación de Fatum
-- Bajo tutela legal de **Mulciber** (culpa y obligación)
+- Bajo tutela legal de **Mulcifer** (padrino, culpa y obligación)
 
 **Herencia**:
 - Habilidades físicas excepcionales posiblemente genéticamente mejoradas
@@ -183,6 +185,41 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - **Mulcifer** (su padrino de Fatum) llama para ofrecerle ayuda
 - Invitación al **casino familiar** de Fatum para gestionar la crisis
 
+### Fase VII: El Casino de Dionisios y la Oferta de Mulcifer (18 Enero 2026)
+
+**Visita al Casino de Dionisios**:
+
+- El grupo se viste de gala y visita el casino familiar (frontal legal de Fatum)
+- Reencuentro con su padrino **Mulcifer** (hombre de obsidiana de 2.40m, ojos de fuego)
+- Recorrido por las instalaciones: dinero paletizado, guardias armados, operaciones criminales
+
+**La Gran Revelación**:
+
+- La familia Fatum ha decidido **fusionarse con Telaraña** (la red criminal principal)
+- Serán "barones de facto" dentro de la organización
+- Diana podría ser usada como "medio de influencia" contra la familia
+- El fideicomiso de Diana viene de actividades legales; lo que ofrece Mulcifer no
+
+**La Oferta de Mulcifer**:
+
+- Ofrece dinero y material (armas especiales para Sentencia)
+- Advierte: *"El dinero está manchado de sangre. Yo soy el diablo."*
+- Condición: No trabajar para él, solo aceptar ayuda
+
+**Debate Moral con Justa**:
+
+- **Justa rechaza** aceptar dinero "manchado de sangre" por principios
+- Diana defiende el **pragmatismo estratégico**
+- Propone solución intermedia: *"Poner un pie en el barro sin arrodillarse"*
+- Pide a Justa que defina los límites y escriba las condiciones del acuerdo
+
+**Revelación Personal**:
+
+- Revela que sus padres se llamaban **Cloris y Janus**
+- Confiesa: *"Yo soy su tumba. Soy lo único que queda de Cloris y Janus"*
+- Sospecha que *"su muerte alimentó su vida"* - que integraron su ADN en ella
+- Objetivo: *"Reconducir a mi familia, no destruirla"*
+
 ---
 
 ## 🔗 Relaciones
@@ -215,11 +252,11 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ### Familia Biológica
 
-**Cloris** (madre, fallecida): Murió durante su parto, "corazón" de [Fatum]({{ site.baseurl }}/groups/fatum/)
+**Cloris y Janus** (padres, fallecidos): Diana sospecha que integraron su ADN en ella antes de morir. Se describe como *"su tumba, lo único que queda de ellos"*. Cloris era "el corazón" de [Fatum]({{ site.baseurl }}/groups/fatum/).
 
 **Apolo** (hermano gemelo): Vivo en algún lugar distante (revelación Sept 2025)
 
-**[Mulciber]({{ site.baseurl }}/characters/details/mulciber/)** (tutor legal): La cuida con culpa y obligación
+**[Mulcifer]({{ site.baseurl }}/characters/details/mulciber/)** (padrino y tutor legal): Hombre de obsidiana de 2.40m, fabricante de armas metahumanas semi-mágicas. La cuida con cariño genuino desde que era pequeña.
 
 ---
 
@@ -320,6 +357,20 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 > "Hotman no ha atacado a nadie, se ha defendido."
 
+### Sobre sus Padres y su Herencia
+
+> "Yo soy su tumba, Justa. Soy lo único que queda de Cloris y Janus, y me temo que llevo su legado en cada célula."
+
+> "Quiero reconducir a mi familia, no destruirla."
+
+### Sobre Ética y Pragmatismo
+
+> "Mancharse las suelas y hundirse en el fango son cosas distintas."
+
+> "Cuando mueres por tus principios, la pila de muertos se alarga, muere la gente a la que no llegamos."
+
+> "Si no ponemos nosotras las reglas, las pondrán otros que no te tienen a ti como conciencia."
+
 ---
 
 ## 📋 Apariciones Documentadas
@@ -348,6 +399,8 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)
 - [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Isla Sal
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
+- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales

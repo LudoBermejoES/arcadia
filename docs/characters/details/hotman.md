@@ -256,8 +256,27 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - Diana sugiere que debe aprender a controlarlo cuando lo necesite
 
 **Contexto**:
+
 - La sesión confirma que el ataque con el chip fue ordenado por el padre de Hotman (no Caos)
 - Pantomima descubre que Caos (su padre) encargó el monopatín a Cacharrero
+
+### Fase IX: Casino de Dionisios y Crisis Mediática (18 Enero 2026)
+
+**El Comunicado Desastroso**:
+
+- Graba un comunicado público intentando defender la imagen del grupo
+- Sale muy mal: aparece sudando, asustado y furioso a ratos
+- Habla de "persecución contra metahumanos y la policía"
+- El comunicado **exacerba los ánimos** y genera malestar social generalizado
+- Consecuencias: asaltos al Centro por la Concordia Metahumana y antigua sede de Humanitas
+
+**Visita al Casino**:
+
+- Acompaña al grupo al Casino de Dionisios (frontal legal de la familia de Diana)
+- Conoce a Mulcifer, el padrino de Diana
+- Saludo cortés: "Encantado señor Borja, he seguido con mucho interés su entrevista con Eneiros"
+- Durante el debate moral, expresa: *"Yo no quiero que por ser metahumano me chuleen"*
+- Señala que Mulcifer "no es de fiar" pero reconoce que él tampoco lo es siempre
 
 ---
 
@@ -425,6 +444,8 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Sesión 43]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-43-2025-12-21/) - Descubrimiento del vuelo
 - [AI Notes 2025-12-21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-12-21-gemini-notes/)
+- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 
 ---
 

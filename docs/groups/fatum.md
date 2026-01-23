@@ -33,6 +33,19 @@ Fatum Corporation se estableció durante las primeras décadas de Arcadia como u
 
 A diferencia de otros grupos criminales que surgen y desaparecen, Fatum Corporation ha demostrado una resistencia institucional que trasciende líderes individuales, manteniéndose activa a través de las tres eras heroicas de Arcadia.
 
+### Fusión con Telaraña (Enero 2026)
+
+En un movimiento estratégico revelado por [Mulcifer]({{ site.baseurl }}/characters/details/mulciber/) durante la Sesión 47, la familia Fatum ha decidido **fusionarse con Telaraña**, la red criminal principal de Arcadia:
+
+- **Nuevo estatus**: Serán "**barones de facto**" dentro de la organización Telaraña
+- **Motivación**: Evitar una guerra total que les hubiera "barrido"
+- **Autonomía**: Podrán seguir haciendo "lo suyo" sin interferencia
+- **Expansión territorial**: Si quieren invadir algún territorio, tendrán que guerrear con otros barones
+- **Consecuencias**: Algunos barones de Telaraña los ven ahora como enemigos
+- **Riesgo para Diana**: Podría ser usada como "medio de influencia" sobre la familia
+
+Esta fusión representa un cambio fundamental en la estructura criminal de Arcadia, consolidando el poder de las dos organizaciones más importantes.
+
 ## Estructura Organizacional
 
 ### 💼 Fachada Corporativa Legítima
@@ -95,12 +108,14 @@ A diferencia de otros grupos criminales que surgen y desaparecen, Fatum Corporat
 
 ### 👑 **Núcleo Familiar (Los Dioses Etruscos)**
 
-#### **[Janus](../characters/details/janus.md) - El Líder (Fallecido)**
+#### **[Janus](../characters/details/janus.md) - El Líder y Padre de Diana (Fallecido)**
+
 - **Edad al morir**: ~50 años | **Estado**: Fallecido hace unos años
 - **Poderes**: Manipulación temporal, visión de múltiples líneas de tiempo, planificación predictiva
-- **Rol**: Ex-líder y estratega supremo del grupo familiar
+- **Rol**: Ex-líder y estratega supremo del grupo familiar, **padre biológico de Diana** junto con Cloris
 - **Legado**: Responsable de los experimentos con Diana para prepararla como sucesora
-- **Impacto**: Su muerte ha creado tensiones internas y sospechas sobre las causas
+- **Revelación**: Diana sospecha que sus padres "integraron su ADN en ella antes de desaparecer"
+- **Impacto**: Su muerte dejó a Diana bajo la tutela de Mulcifer
 
 #### **[Bellona](../characters/details/bellona.md) - La Fuerza Bruta**
 - **Edad**: ~45 años | **Estado**: Activa
@@ -127,18 +142,22 @@ A diferencia de otros grupos criminales que surgen y desaparecen, Fatum Corporat
 - **Rol**: Especialista en infiltración absoluta y asesinatos indetectables
 - **Especialización**: Operaciones donde la penetración física es imposible
 
-#### **[Mulciber](../characters/details/mulciber.md) - El Armero**
-- **Edad**: ~50 años | **Estado**: Activo
-- **Poderes**: Maestría en creación y modificación de armas y tecnología
-- **Rol**: Proveedor de equipamiento especializado y tutor legal actual de Diana
-- **Importancia**: Guardián y protector de Diana tras la muerte de Janus
-- **Conexión especial**: Única figura paterna positiva para Diana dentro de Fatum
+#### **[Mulcifer](../characters/details/mulciber.md) - El Armero (también conocido como Vulcano)**
+
+- **Apariencia**: Hombre de obsidiana de 2.40m, ojos de fuego, dientes blanquísimos
+- **Poderes**: Fabricación de armas semi-mágicas, forja instantánea, manipulación de metales
+- **Rol**: Proveedor de equipamiento especializado, padrino y tutor legal de Diana
+- **Filosofía**: "Unionista" - no tiene problemas con los normies
+- **Importancia**: Guardián de Diana, anunció la fusión con Telaraña (Enero 2026)
+- **Casino**: Propietario del **Casino de Dionisios** (frontal legal de la familia)
 
 #### **[Cloris](../characters/details/cloris.md) - La Madre (Fallecida)**
+
 - **Estado**: Fallecida | **Era**: Madre biológica de Diana
 - **Poderes**: Regeneración avanzada, control de plantas y naturaleza
 - **Legado**: Diana heredó sus poderes regenerativos y conexión con la naturaleza
-- **Impacto**: Su muerte dejó a Diana bajo la tutela y experimentación de Janus
+- **Relación**: Madre de Diana junto con Janus (ambos padres biológicos)
+- **Impacto**: Su muerte dejó a Diana bajo la tutela de Mulcifer
 
 ### 💎 **Nueva Generación**
 

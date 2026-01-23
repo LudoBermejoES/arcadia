@@ -203,9 +203,30 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - Se echa instintivamente sobre Diana para protegerla de las balas del helicóptero
 
 **Crías Bestiales**:
+
 - Detecta **ondas mentales** emanando de las crías rescatadas
 - Sugiere que las ondas podrían ser llamada a sus padres
 - Sondea mentalmente las preferencias de los cachorros (carne, ratones, cucarachas)
+
+### Fase VII: Casino de Dionisios y el Dilema Moral (18 Enero 2026)
+
+**Visita al Casino**:
+
+- Acompaña al grupo al Casino de Dionisios (frontal legal de la familia de Diana)
+- Conoce a Mulcifer, padrino de Diana (hombre de obsidiana de 2.40m)
+- Establece **enlace mental grupal** para discusión privada durante el debate
+
+**Perspectiva Pragmática**:
+
+- Ofrece visión equilibrada sobre el dilema del "dinero manchado"
+- Argumento central: *"El dinero es solo una herramienta, como nuestros poderes. No son buenos ni malos por sí mismos, lo que importa es cómo los usamos."*
+- *"Rechazar el dinero no lo limpia. Usarlo bien, quizá sí."*
+- Reconoce: *"Nosotros también tenemos las manos manchadas"*
+
+**Rol Mediador**:
+
+- Facilita la comunicación telepática durante el intenso debate entre Justa y Diana
+- Mantiene conexión mental para que la discusión no sea escuchada por Mulcifer
 
 ---
 
@@ -339,6 +360,12 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 > "Tenemos que hablar." — Canal privado tras la "transformación Saiyan"
 
+### Sobre Ética y Pragmatismo (Sesión 47)
+
+> "Todos sabemos que este dinero tiene sombras. Pero es solo una herramienta, como nuestros poderes. No son buenos ni malos por sí mismos, lo que importa es cómo los usamos."
+
+> "Rechazar el dinero no lo limpia. Usarlo bien, quizá sí."
+
 ---
 
 ## 📋 Apariciones Documentadas
@@ -372,6 +399,8 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)
 - [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Isla Sal
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
+- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 
 ---
 

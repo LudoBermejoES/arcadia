@@ -1,16 +1,21 @@
-# Documentar Nueva Sesión de La Fuerza Oculta
+# Documentar Nueva Sesión de Campaña
 
-Este comando te guía para documentar una nueva sesión de la campaña.
+Este comando te guía para documentar una nueva sesión de cualquier campaña del proyecto Arcadia.
 
 ## Instrucciones
 
 Cuando el usuario ejecute este comando, debes seguir estos pasos:
 
-### 1. Identificar la Sesión
+### 1. Identificar la Campaña y Sesión
 
 El usuario proporcionará **uno o dos archivos** de la sesión:
 - **Notas manuales**: Tomadas durante la partida por el DM
 - **Notas AI (Gemini)**: Transcripción automática procesada por Gemini
+
+**Identifica la campaña** por la ubicación del archivo o el contenido:
+- `la-fuerza-oculta/` - Campaña principal actual
+- `aun-sin-nombre/` - Campaña del Reformatorio Nueva Esperanza
+- Otras campañas según estructura del proyecto
 
 **Al menos uno de los dos es obligatorio.** Puede haber:
 - Solo notas manuales (sin grabación)
@@ -34,43 +39,84 @@ Una vez hayas leído y comprendido el contenido de la sesión, eres libre de sug
 
 Estas sugerencias son opcionales y el usuario decidirá si proceder con ellas.
 
-### 2. Archivos a Crear (si no existen)
+### 2. Estructura de Directorios
 
-#### Notas Manuales
-- **Ruta**: `docs/campaigns/la-fuerza-oculta/manual-notes/session-XX-YYYY-MM-DD.md`
+Las campañas tienen tres tipos de contenido relacionado con AI:
+
+```
+docs/campaigns/[campaña]/
+├── ai-notes/              # Transcripciones CRUDAS de Gemini (sin modificar)
+│   └── YYYY-MM-DD-gemini-notes.md
+├── ai-notes-summary/      # Resúmenes ANALÍTICOS (escritos por Claude)
+│   └── YYYY-MM-DD-gemini-notes.md
+└── manual-notes/          # Notas manuales del DM
+    └── session-XX-YYYY-MM-DD.md
+```
+
+**IMPORTANTE: Diferencia entre ai-notes/ y ai-notes-summary/**
+- `ai-notes/`: Contiene las **transcripciones crudas** de Gemini, tal cual las genera la IA. NO SE MODIFICAN excepto para añadir frontmatter opcional.
+- `ai-notes-summary/`: Contiene **resúmenes analíticos** escritos por Claude, siguiendo el formato estructurado de análisis de sesión.
+
+### 3. Archivos a Crear
+
+#### Notas Manuales (si el usuario proporciona)
+- **Ruta**: `docs/campaigns/[campaña]/manual-notes/session-XX-YYYY-MM-DD.md`
+- **Acción**: Añadir frontmatter al contenido proporcionado
 - **Frontmatter obligatorio**:
 ```yaml
 ---
 layout: page
-title: "La Fuerza Oculta - Sesión XX"
-permalink: /campaigns/la-fuerza-oculta/manual-notes/session-XX-YYYY-MM-DD/
+title: "[Campaña] - Sesión XX"
+permalink: /campaigns/[campaña]/manual-notes/session-XX-YYYY-MM-DD/
 ---
 ```
 
-#### Notas AI (si hay transcripción)
-- **Ruta**: `docs/campaigns/la-fuerza-oculta/ai-notes-summary/YYYY-MM-DD-gemini-notes.md`
+#### Transcripción Cruda de AI (si el usuario proporciona)
+- **Ruta**: `docs/campaigns/[campaña]/ai-notes/YYYY-MM-DD-gemini-notes.md`
+- **Acción**: Copiar el contenido TAL CUAL, sin modificar (solo añadir frontmatter si se desea)
+- **Frontmatter opcional** (las transcripciones crudas pueden no tenerlo)
+
+#### Resumen Analítico (OBLIGATORIO si hay transcripción AI)
+- **Ruta**: `docs/campaigns/[campaña]/ai-notes-summary/YYYY-MM-DD-gemini-notes.md`
+- **Acción**: ESCRIBIR un resumen analítico basado en la transcripción y/o notas manuales
 - **Frontmatter obligatorio**:
 ```yaml
 ---
 layout: page
-title: "La Fuerza Oculta - Análisis Sesión XX"
-permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/YYYY-MM-DD-gemini-notes/
+title: "[Campaña] - Análisis Sesión XX"
+permalink: /campaigns/[campaña]/ai-notes-summary/YYYY-MM-DD-gemini-notes/
 ---
 ```
 
-### 3. Índices a Actualizar (OBLIGATORIO)
+**El resumen analítico debe seguir esta estructura:**
+1. **Resumen Ejecutivo**: 2-3 párrafos con lo más importante
+2. **Eventos Principales**: Lista numerada de los eventos clave
+3. **Desarrollo de Personajes**: Cómo evolucionó cada PJ
+4. **Revelaciones Importantes**: Información nueva descubierta
+5. **Temas Narrativos**: Análisis de temas tratados
+6. **Mecánicas de Juego Destacadas**: Tiradas importantes
+7. **Información para Continuidad**: Hilos abiertos para próximas sesiones
+8. **Citas Destacadas**: Frases memorables de la sesión
 
-Lee y actualiza estos archivos en orden:
+Consulta ejemplos existentes en `ai-notes-summary/` para ver el formato esperado.
 
-1. **`docs/campaigns/la-fuerza-oculta/manual-notes/index.md`**
+### 4. Índices a Actualizar (OBLIGATORIO)
+
+Lee y actualiza estos archivos en orden (adapta las rutas a la campaña correspondiente):
+
+1. **`docs/campaigns/[campaña]/manual-notes/index.md`** (si hay notas manuales)
    - Añadir nueva entrada en cronología
    - Actualizar estadísticas (total sesiones, período)
 
-2. **`docs/campaigns/la-fuerza-oculta/ai-notes/index.md`** (si hay transcripción)
-   - Añadir nueva entrada con enlace
+2. **`docs/campaigns/[campaña]/ai-notes/index.md`** (si hay transcripción AI)
+   - Añadir nueva entrada con enlace que apunte a `../ai-notes-summary/`
    - Actualizar estadísticas de transcripciones
+   - **IMPORTANTE**: Los enlaces deben apuntar a ai-notes-summary/, no a ai-notes/
 
-3. **`docs/campaigns/la-fuerza-oculta/index.md`**
+3. **`docs/campaigns/[campaña]/ai-notes-summary/index.md`** (si existe y hay transcripción)
+   - Añadir entrada del nuevo análisis
+
+4. **`docs/campaigns/[campaña]/index.md`**
    - Añadir sesión a cronología en la fase correspondiente
    - Actualizar estadísticas generales
    - Actualizar "Estado Actual" si hay cambios narrativos
@@ -123,7 +169,21 @@ Añadir documentación de Sesión XX (DD Mes YYYY)
 
 ## Notas Importantes
 
-- Las notas AI van en `ai-notes-summary/`, NO en `ai-notes/`
-- El índice de ai-notes apunta a `ai-notes-summary/`
+### Diferencia Crítica: ai-notes/ vs ai-notes-summary/
+
+| Directorio | Contenido | Acción de Claude |
+|------------|-----------|------------------|
+| `ai-notes/` | Transcripciones CRUDAS de Gemini | Copiar sin modificar |
+| `ai-notes-summary/` | Resúmenes ANALÍTICOS | ESCRIBIR análisis estructurado |
+
+- **NUNCA** copies la transcripción cruda a ai-notes-summary/
+- **SIEMPRE** escribe un resumen analítico nuevo basado en el contenido de la sesión
+- El índice de `ai-notes/` enlaza a archivos en `ai-notes-summary/` para los análisis
 - Usar enlaces Jekyll: `{{ site.baseurl }}/ruta/` NO enlaces .md relativos
 - Verificar que las estadísticas coincidan entre todos los índices
+
+### Campañas Soportadas
+
+- **La Fuerza Oculta**: `docs/campaigns/la-fuerza-oculta/`
+- **Reformatorio Nueva Esperanza**: `docs/campaigns/aun-sin-nombre/`
+- Otras campañas siguen la misma estructura

@@ -4,158 +4,204 @@ title: "La Fuerza Oculta - Análisis Sesión 47"
 permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/
 ---
 
-18 ene 2026
+# Sesión 47 - 18 Enero 2026
+## "El Casino de Dionisios y la Oferta de Mulcifer"
+
+[← Volver al Índice de AI Notes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/) | [← Índice Principal]({{ site.baseurl }}/)
+
+---
+
+## Resumen Ejecutivo
 
-## Los domingos al rol
+Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tras la aparición de vídeos manipulados que muestran a La Fuerza Oculta (especialmente a Diana) en acciones violentas, un comunicado desastroso de Hotman empeora la situación. El grupo visita el Casino de Dionisios donde conocen a **Mulcifer**, el padrino de Diana: un hombre de obsidiana de 2.40m que fabrica armas metahumanas. Les revela que la familia de Diana se fusionará con Telaraña y les ofrece ayuda financiera y material "manchada de sangre". Esto desencadena un intenso debate ético entre Justa (que rechaza por principios) y Diana (que defiende usar herramientas manchadas para hacer el bien).
+
+**Jugadores presentes**: Sugus (Eslizón), Conchi (Sique/Psique), Xavi (Pantomima), Edu (Sentencia), Ernesto (Diana), Jandro (Hotman)
+
+---
+
+## Eventos Principales
+
+### 1. Crisis de Imagen Pública
+- Aparecen más imágenes editadas "a mala leche" mostrando actos violentos de FO
+- Los vídeos están diseñados para dañar la imagen pública y polarizar la opinión
+- Diana es la principal afectada: vídeo la muestra matando a una persona (editado sin contexto)
+- Ataques mediáticos contra metahumanos en general, con ataques personales a los miembros
+
+### 2. El Comunicado Desastroso de Hotman
+- Hotman decide grabar un comunicado público para defenderse
+- Sale muy mal: se trabó, habló de "persecución contra metahumanos"
+- El comunicado exacerba los ánimos y genera "malestar social generalizado"
+- Consecuencias: asaltos al Centro por la Concordia Metahumana y antigua sede de Humanitas
+
+### 3. Visita al Casino de Dionisios
+- El grupo se viste de gala y viaja al casino (frontal legal de la familia de Diana)
+- El casino está vacío ese día (cerrado para ellos)
+- Ambiente lujoso pero estridente, "Las Vegas con gusto europeo"
+- Seguridad extrema: puertas automáticas, cámaras, controles de acceso
+
+### 4. Encuentro con Mulcifer
+- **Descripción**: Hombre de obsidiana de 2.40m, ojos que despiden fuego, dientes blanquísimos perfectos
+- **Identidad**: Padrino de Diana, fabricante de armas metahumanas semi-mágicas
+- **Nombre alternativo**: Vulcano (relacionado con la forja)
+- Recorre las instalaciones del casino mostrando el negocio familiar: dinero paletizado, guardias armados, mujeres cortando droga
+
+### 5. La Gran Revelación
+- La familia de Diana ha decidido **fusionarse con Telaraña** (la red criminal principal de Arcadia)
+- Serán "barones de facto" dentro de la organización criminal
+- Algunos barones los ven ahora como enemigos
+- Diana podría ser usada como "medio de influencia" contra la familia
+
+### 6. La Oferta de Mulcifer
+- Ofrece dinero y material para ayudarles
+- Advierte: "El dinero está manchado de sangre"
+- También ofrece **armas especiales para Sentencia** (armas semi-mágicas)
+- Condición: "No me refiero a que trabajen para mí"
+- Amenaza final (medio en broma): "No roben nada o tendré que matarles a ustedes y a su familia"
+
+### 7. El Dilema Moral Épico
+
+#### Posición de Justa/Sentencia
+- Rechaza rotundamente aceptar dinero "manchado de sangre"
+- Invoca la memoria de su padre (un metacorp que murió protegiendo a inocentes)
+- "¿Cómo se sentiría él si ahora su hija se uniera por conveniencia con delincuentes?"
+- Prefiere "morir intentándolo" antes que traicionar sus principios
+- "Los destinos lejanos sin considerar el camino seguido no me interesan"
+
+#### Posición de Diana
+- Defiende un pragmatismo estratégico
+- "Mancharse las suelas y hundirse en el fango son cosas distintas"
+- Propone usar la oferta con condiciones estrictas (límites claros, sin juramentos ni favores futuros)
+- "Cuando mueres por tus principios, muere la gente que no podemos proteger"
+- Pide a Justa que use sus principios "como una estratega"
+
+---
 
-Archivos adjuntos [Los domingos al rol](https://www.google.com/calendar/event?eid=MjhiZThraXA5NnNzcDNtMmkwODl2aTEzMjZfMjAyNjAxMThUMTczMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - 2025/06/15 19:03 CEST - Notas de Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) 
+## Desarrollo de Personajes
 
-Registros de la reunión [Transcripción](?tab=t.hqols372tl60) [Grabación](https://drive.google.com/file/d/1ifFBatYZMU6d-eq81QzJuf1SGWJE18BS/view?usp=drive_web) 
+### Justa/Sentencia (Edu)
+- **Momento clave**: Speech épico sobre la justicia y la memoria de su padre
+- Evolución moral profunda: no rechaza por legalismo sino por convicción personal
+- "Mi padre fue un metacorp, pero también era un hombre que creía que su trabajo tenía un sentido"
+- Clarifica que no juzga a los demás por sus orígenes (Diana, Hotman, Astrid)
 
-### Resumen
+### Diana (Ernesto)
+- **Momento clave**: Respuesta filosófica elaborada a Justa
+- Revela inseguridades sobre su propia familia: "Yo soy su tumba"
+- Propone solución pragmática: "Poner un pie en el barro sin arrodillarse"
+- Muestra liderazgo intentando mediar entre principios y supervivencia
 
-La reunión comenzó con Ludo Bermejo resolviendo un problema de eco y dando la bienvenida a Conchín y Kauneda Arashi, cuyo audio fue confirmado por Eduardo Vaquerizo y Alejandro Salamanca. Los participantes, incluyendo Ludo Bermejo, Eduardo Vaquerizo, Alejandro Salamanca, Ernesto Diezhandino, Kauneda Arashi y Xavi Gracia, discutieron la situación personal de Alejandro Salamanca y bromearon sobre el entorno "acogedor" de Ernesto Diezhandino. Ludo Bermejo introdujo temas como la Vitamina D y los riesgos del Nolotil en los países nórdicos, lo que llevó a comparaciones políticas sobre el uso de anfetaminas por figuras como Trump y las prácticas nazis, con Eduardo Vaquerizo señalando paralelos y compartiendo una foto del jefe de ICE con posible simbolismo nazi.
+### Hotman (Jandro)
+- Causa crisis adicional con comunicado mal ejecutado
+- Posición ética: "Yo no quiero que por ser metahumano me chuleen"
+- Señala que Mulcifer "no es de fiar" pero tampoco él mismo lo es siempre
 
-Eduardo Vaquerizo recapituló la partida anterior, donde los personajes lograron escapar en un camión tras un incidente con un helicóptero. El grupo analizó la difusión de imágenes "manipuladas" de Diana y las acciones del grupo, diseñadas para dañar su "imagen pública" y provocar ataques mediáticos contra los metahumanos. Alejandro Salamanca propuso hacer una declaración pública, aunque con la advertencia del "fenómeno Strazan", pero el comunicado, en el que Hotman se "trabó" y lo "lió gordísima", exacerbó los ánimos, lo cual fue seguido por informes de asaltos a organizaciones como el Centro por la Concordia Metahumana.
+### Sique/Psique (Conchi)
+- Establece enlace mental grupal para la discusión privada
+- Posición: acepta que el dinero manchado puede convertirse en "herramienta del bien"
+- "Nosotros también tenemos las manos manchadas"
 
-Finalmente, el grupo se dirigió al casino del padrino de Diana, Mulcifer, un hombre de gran estatura con piel de obsidiana, quien les reveló que la familia se fusionaría con "La Telaraña," el grupo delictivo más grande de Arcadia, y les ofreció dinero y material "manchado de sangre" para ayudarlos a evitar ser "barridos". Se generó un tenso debate moral entre Justa (Eduardo Vaquerizo) y Hotman (Alejandro Salamanca), quienes se negaron a aceptar el dinero por motivos éticos, y Diana (Ernesto Diezhandino) y Cía (Kauneda Arashi), quienes argumentaron que el dinero podría usarse para el bien y que la negativa sería hipócrita. Ludo Bermejo dejó la decisión sobre aceptar la ayuda de Mulcifer pendiente para la semana siguiente.
+### Pantomima (Xavi)
+- Advierte sobre las consecuencias de asociarse financieramente con criminales
+- Menos protagonismo en el debate moral
 
-### Detalles
+### Eslizón (Sugus)
+- Presente pero con menos intervención directa
+- Observa el debate moral desde una perspectiva más neutral
 
-* **Problemas técnicos y saludos iniciales** La reunión comenzó con problemas de eco, que Ludo Bermejo resolvió al darse cuenta de que el sonido salía por dos dispositivos ([00:00:00](?tab=t.hqols372tl60#heading=h.j33v01ho4z25)). Después de los saludos a nuevos participantes, incluyendo Conchín y Kauneda Arashi, Alejandro Salamanca bromeó sobre la Asociación Española de Procrastinadores y la Navidad. Kauneda Arashi preguntó sobre la calidad de su audio, que fue confirmado como "alto y claro" por Eduardo Vaquerizo y Alejandro Salamanca ([00:00:30](?tab=t.hqols372tl60#heading=h.k5i15h5xyqjc)).
+---
 
-* **Asignación de ubicación y situación personal** Ludo Bermejo preguntó a dónde querían colocar a "los chavales", y Eduardo Vaquerizo sugirió "la guarida" para que "no se escapen". En respuesta a la pregunta de Ludo Bermejo sobre la semana, Alejandro Salamanca compartió que su padre está empeorando en movilidad, y los padres de Ana, su pareja, están "cada vez peor" ([00:01:30](?tab=t.hqols372tl60#heading=h.p7g9y9g7w3vj)).
+## Revelaciones Importantes
 
-* **Comentarios sobre el entorno de Ernesto Diezhandino** Eduardo Vaquerizo y Alejandro Salamanca elogiaron el entorno de Ernesto Diezhandino, que describieron como "acogedor" e "invernal" con "la bruma fuera, la chimeneita". Ernesto Diezhandino reveló que el entorno, incluida la chimenea, es una ilusión, pero Eduardo Vaquerizo y Alejandro Salamanca comentaron que estaba "muy logrado" ([00:02:16](?tab=t.hqols372tl60#heading=h.72xi856hmgir)).
+### Sobre Mulcifer
+- Nombre real: Borja (mencionado por Diana)
+- Es el fabricante de armas metahumanas más importante
+- Sus armas son "semi-mágicas" o especiales
+- Tiene una relación cercana con Diana desde que era pequeña
+- Es "unionista": no tiene problemas con los normies a diferencia de otros metas
 
-* **Discusión sobre la Vitamina D y el sol** Ludo Bermejo comentó que no había llovido y bromeó sobre sacar a la gente para que tomara el sol y la "Vitamina D". Alejandro Salamanca corrigió la referencia, señalando que la vitamina es la D, no la B12, y que en su familia la toman ([00:02:45](?tab=t.hqols372tl60#heading=h.x8eon2nklcod)). La conversación se extendió sobre la falta de sol y cómo en el norte de Europa se usan gafas con luz para simular la claridad, debido a que "son muy blanquitos".
+### Sobre la Familia de Diana
+- Se fusionarán con Telaraña como "barones de facto"
+- Esto les convierte en objetivos de otros barones rivales
+- Diana podría ser usada como "medio de influencia" sobre la familia
+- El fideicomiso de Diana proviene de "actividades legales", lo que ofrece Mulcifer no
 
-* **Riesgos del Nolotil en Países Nórdicos** Ernesto Diezhandino mencionó que en el Reino Unido, los países nórdicos, el norte de Alemania y los países bálticos del norte no pueden tomar Nolotil porque "se mueren" de "fallo hepático" ([00:03:24](?tab=t.hqols372tl60#heading=h.8yhx3ogcq9u9)). Alejandro Salamanca hizo una broma al respecto, sugiriendo que la prohibición podría ser la razón por la que Trump había mandado un lote de Nolotil a Islandia, lo que Kauneda Arashi consideró un acto de guerra biológica o química.
+### Sobre la Crisis Mediática
+- La campaña de desprestigio es selectiva y coordinada
+- Las imágenes están editadas "a mala leche" omitiendo contexto
+- Un comentarista en silla de ruedas (presidente de RTA) tiene "especial inquina" hacia ellos
+- Grupos de teóricos de la conspiración de derecha los apoyan irónicamente
 
-* **Comparaciones políticas y referencias nazis** Eduardo Vaquerizo mencionó noticias sobre Trump, a lo que Ludo Bermejo y Alejandro Salamanca respondieron con comentarios sobre el uso de anfetaminas por parte de Trump, comparando sus acciones y el uso de drogas para mantenerse despierto con las prácticas de los nazis, como Hitler y Elon Musk con la quetamina ([00:04:06](?tab=t.hqols372tl60#heading=h.91rn7m98bdi9)). Eduardo Vaquerizo señaló que existen muchos paralelismos entre las situaciones.
+---
 
-* **Discusión sobre el jefe de ICE y el simbolismo nazi** Eduardo Vaquerizo compartió una foto del jefe de ICE en Minneapolis/Minnesota, notando que el hombre parecía estar exhibiendo simbolismo nazi y que "ni se ocultan" ([00:05:15](?tab=t.hqols372tl60#heading=h.k3dxuotpqzp4)). Ludo Bermejo y Eduardo Vaquerizo coincidieron en que se avecina un cambio de ciclo, similar a "en los años 30 inicios", pero "con nucleares" ([00:05:56](?tab=t.hqols372tl60#heading=h.7pg4zlofjqny)).
+## Temas Narrativos
 
-* **Recomendación de series y preparación para el juego** Eduardo Vaquerizo mencionó que estaba viendo la nueva serie de Star Trek, Starfleet Academy, y que los valores de Star Trek "no están nada de moda". Ludo Bermejo comentó que iba a buscar algo de beber antes de empezar el juego, y Eduardo Vaquerizo se ofreció a hacer una "recapitulación" de la partida anterior ([00:06:29](?tab=t.hqols372tl60#heading=h.wvn9daneygwx)).
+### Ética y Pragmatismo
+- El debate central: ¿Es aceptable usar "herramientas manchadas" para hacer el bien?
+- Justa representa la deontología: el camino importa tanto como el destino
+- Diana representa el consecuencialismo: los resultados justifican medios cuestionables
 
-* **Discusión sobre la responsabilidad de los personajes** Ludo Bermejo informó a Kauneda Arashi que la IA le había corregido, considerando que era responsable de la muerte de las personas en un helicóptero que explotó después de atontar a un militar con un rayo psíquico, y Kauneda Arashi estuvo de acuerdo, aunque la responsabilidad era "solidaria" más que "subsidiaria" ([00:07:12](?tab=t.hqols372tl60#heading=h.dfy8dxplludw)). La conversación viró a debatir si Puniser era un superhéroe, un "antihéroe" o un "antagonista" ([00:07:44](?tab=t.hqols372tl60#heading=h.dlvo4sm6jnxk)).
+### Legado Familiar
+- Justa invoca a su padre metacorp como guía moral
+- Diana confronta su herencia criminal como algo que debe reconducir, no destruir
+- Mulcifer representa el "diablo" que ofrece poder a cambio de compromisos éticos
 
-* **Resumen de la partida anterior** Eduardo Vaquerizo leyó un resumen de la última partida ([00:09:54](?tab=t.hqols372tl60#heading=h.6lxd45zhuy0n)). Los personajes consiguieron salir del lugar y escapar en un camión, mientras un helicóptero que los atacaba fue desestabilizado por Homan, lo que provocó que el militar a bordo disparara dentro y el helicóptero explotara. Después de la huida, fueron a comer pizza a Pizza Hut, pero tuvieron que irse rápidamente porque la gente se puso nerviosa y los estaba grabando ([00:10:37](?tab=t.hqols372tl60#heading=h.14h82gw6lx1k)).
+### Guerra de Imagen Pública
+- Los medios son un campo de batalla tan importante como el físico
+- Un comunicado mal hecho puede causar más daño que el silencio
+- La percepción pública puede ser manipulada contra los héroes
 
-* **Difusión de imágenes manipuladas y el arma de Sentencia** A la mañana siguiente, los personajes vieron en las redes imágenes "terribles, horribles, monstruosas" y "desmanipuladas" de Diana matando a una persona. Ludo Bermejo aclaró que las imágenes fueron editadas "a mala leche" para mostrar a Diana acercándose al tipo y reventándole la cabeza, omitiendo lo sucedido antes ([00:11:19](?tab=t.hqols372tl60#heading=h.uxh8xzdmg5pg)). También se encontraron siete casquillos de una Desert Eagle 50, que se sugiere podría ser el arma de Sentencia ([00:12:01](?tab=t.hqols372tl60#heading=h.p6jdqdxdr7im)).
+### Familia Criminal vs Familia Elegida
+- Diana debe equilibrar lealtad a su familia biológica y a La Fuerza Oculta
+- La fusión con Telaraña complica su posición en el grupo
+- ¿Puede separarse de su herencia criminal mientras la usa?
 
-* **La convocatoria de Mulcifer** Eduardo Vaquerizo relató que el teléfono sonó al final de la partida, siendo un tal Mulcifer quien habló con Diana, invitando a todos a ir al "casino familiar" esa noche. Los personajes se preguntaron quién cuidaría de los niños, y Kauneda Arashi y Ernesto Diezhandino sugirieron que le tocaba a Lizón, ya que Diana y Sique habían estado cuidándolos toda la noche ([00:12:59](?tab=t.hqols372tl60#heading=h.7vzl1p62midr)).
+---
 
-* **Filtración de más imágenes comprometedoras** Ludo Bermejo informó que seguían apareciendo más imágenes "con una regularidad sospechosa" a lo largo del día. Ernesto Diezhandino afirmó que la intención de las filtraciones era muy clara ([00:13:36](?tab=t.hqols372tl60#heading=h.yxa2sx6q41kq)). Ludo Bermejo confirmó que no solo eran imágenes de Diana, sino que estaban apareciendo más vídeos de las acciones del grupo, incluida la de Esizón, buscando dañar su "imagen pública".
+## Mecánicas de Juego Destacadas
 
-* **Ataques en los medios de comunicación** La publicación de los vídeos provocó debates en los que se atacaba a los metahumanos y, específicamente, a Diana, a su familia, a Sique, y a Pantomima por ser transexual, además de acusaciones de ser "homosexuales y unos drogaditos" ([00:14:38](?tab=t.hqols372tl60#heading=h.73g2pssp7kp1)). Ludo Bermejo aclaró que la identidad de los personajes no era secreta y que se conocía.
+- **Tirada de interpretación de Hotman**: Falla espectacularmente, exacerbando la crisis
+- **Enlace mental de Sique**: Permite debate privado sin ser escuchados
+- **Tirada para identificar juego de cartas**: Pantomima intenta identificar juego en el casino
 
-* **Sospechas sobre el origen de los ataques** Eduardo Vaquerizo preguntó a Hotman si su padre estaba involucrado en la edición de las imágenes ([00:16:17](?tab=t.hqols372tl60#heading=h.8kttmkdt8fg9)). Hotman reconoció que el material había sido editado "a muy mala leche" para polarizar la opinión pública en contra de ellos, pero que podría ser su padre o cualquier otro enemigo que quisiese "putearlos" ([00:16:55](?tab=t.hqols372tl60#heading=h.9q9ytxcjwvee)). Hotman señaló que no había imágenes de él haciendo algo agresivo, ya que estuvo cubierto ([00:17:40](?tab=t.hqols372tl60#heading=h.fo3ilpsa7438)).
+---
 
-* **Debate sobre hacer una declaración pública** Eduardo Vaquerizo sugirió que se debería hacer una declaración. Alejandro Salamanca advirtió sobre el "fenómeno Strazan", donde disculparse solo aumenta la percepción de culpabilidad. Ludo Bermejo agregó que las autoridades se excusan diciendo que están investigando y que muchos vídeos eran generados por IA, como el de la pizza y los chavales ([00:18:10](?tab=t.hqols372tl60#heading=h.rai5hnho437k)).
+## Información Relevante para Continuidad
 
-* **Aparición de un comentarista con animadversión** Ludo Bermejo mencionó la aparición de un comentarista experto en silla de ruedas, que es el presidente de Radio Televisión de Arcadia, y que tiene "especial inquina" hacia ellos ([00:19:18](?tab=t.hqols372tl60#heading=h.uj4m33bwwqx8)). Este experto critica que los metahumanos no están controlados, señalando cómo lo dejaron a él ([00:20:10](?tab=t.hqols372tl60#heading=h.39rcbeo5ucyo)).
+- **Decisión pendiente**: El grupo debe decidir si acepta la oferta de Mulcifer
+- **Armas para Sentencia**: Mulcifer tiene armas especiales preparadas para ella
+- **Fusión Fatum-Telaraña**: La familia de Diana ahora es parte de la red criminal
+- **Crisis mediática activa**: La opinión pública sigue polarizada contra FO
+- **Asaltos a sedes**: Se atacaron el Centro por la Concordia Metahumana y la antigua sede de Humanitas
 
-* **Sentencia minimiza la situación y Hotman es corregido** Sentencia (Eduardo Vaquerizo) se desentendió de la polémica en redes y se fue a hacer ejercicio ([00:20:59](?tab=t.hqols372tl60#heading=h.y2z71o6vqaig)). Hotman interrumpió a Sique con un comentario que casi implicó que Sique no cumplía la regla de no matar ([00:20:10](?tab=t.hqols372tl60#heading=h.39rcbeo5ucyo)). Ludo Bermejo observó que la percepción pública del grupo estaba cambiando negativamente, aunque un grupo de teóricos de la conspiración de derecha los apoyaba, cuestionando la identidad y las intenciones de sus atacantes ([00:20:59](?tab=t.hqols372tl60#heading=h.y2z71o6vqaig)).
+---
 
-* **Planes para la declaración y el equipamiento** Alejandro Salamanca, después de consultar, decidió hacer la declaración él, pero mencionó el efecto Strisan ([00:29:37](?tab=t.hqols372tl60#heading=h.vn823j9mhrci)). Propuso decir que fueron a rescatar a metahumanos en peligro rodeados por un grupo paramilitar ([00:30:59](?tab=t.hqols372tl60#heading=h.6w3ydriidwe)). También sugirió incorporar una cámara GoPro a su traje de superhéroe para grabar futuras acciones, imitando una "estética estudiada para parecer serio, preocupado, cercano" ([00:32:12](?tab=t.hqols372tl60#heading=h.azuykqrzoous)).
+## Citas Destacadas
 
-* **La metida de pata de Hotman en la declaración** Alejandro Salamanca hizo una tirada de interpretación, aunque sin entrenamiento, y Ludo Bermejo advirtió que podría salir con una pifia ([00:34:20](?tab=t.hqols372tl60#heading=h.if628vwjgyqf)). El comunicado no salió como esperaban; Hotman se trabó y lo lió "gordísima", mezclando el tema de la policía y diciendo que había una persecución contra los metahumanos. El comunicado solo logró exacerbar los ánimos y generar "malestar social generalizado" ([00:35:25](?tab=t.hqols372tl60#heading=h.efpwu1o6ctuo)) ([00:38:05](?tab=t.hqols372tl60#heading=h.l93563nt26jf)).
+> *"El dinero que puedo ofrecer está manchado de sangre. Yo soy el diablo."* - Mulcifer
 
-* **Preparativos para el casino de Dionisios** Ludo Bermejo indicó que el lugar al que se dirigían, "la casa de Dionisios," era un casino controlado por el tío de Diana, conocido por operar en la legalidad y la ilegalidad ([00:24:57](?tab=t.hqols372tl60#heading=h.wztagzh3w7td)). Los participantes discutieron si ir de gala, ya que la vestimenta depende del tipo de casino ([00:26:13](?tab=t.hqols372tl60#heading=h.55bj434q8f59)). Ludo Bermejo recordó que Diana y Lizón estaban bajo "búsqueda y captura" para ser interrogados, por lo que no era el mejor momento para usar sus disfraces ([00:27:26](?tab=t.hqols372tl60#heading=h.tsqf5k9g3but)).
+> *"¿Cómo se sentiría tu padre si ahora su hija se uniera por conveniencia con delincuentes?"* - Justa
 
-* **Decisiones sobre la vestimenta y últimos acontecimientos** Ludo Bermejo sugirió que podían crear ropa elegante con ayuda de la IA ([00:28:13](?tab=t.hqols372tl60#heading=h.vrqpchhc0pqk)). Los jugadores se dedicaron a generar imágenes para la vestimenta de gala, mientras Ludo Bermejo relataba que había anochecido ([00:38:05](?tab=t.hqols372tl60#heading=h.l93563nt26jf)). Las noticias informaban de un asalto al Centro por la Concordia Metahumana, seguido de un asalto a la antigua sede de Humanitas (un partido político terrorista anti-metahumano), ahora ocupada por PETA ([00:38:58](?tab=t.hqols372tl60#heading=h.g9sej4imowox)).
+> *"Mancharse las suelas y hundirse en el fango son cosas distintas."* - Diana
 
-* **Comentarios sobre la moda y el espionaje** Hubo una discusión sobre el atuendo que elegirían, incluyendo una referencia al chándal Nike que se agotó después de que sacaran fotos de un detenido. Xavi Gracia y Ernesto Diezhandino compartieron imágenes de vestimenta generadas por IA para sus personajes ([00:40:53](?tab=t.hqols372tl60#heading=h.d6dp9wd8zsm3)) ([00:43:27](?tab=t.hqols372tl60#heading=h.7cca5qedvv0t)). Ludo Bermejo bromeó sobre el nivel de tecnología de espionaje que las agencias deben tener actualmente ([00:24:20](?tab=t.hqols372tl60#heading=h.purc9rsayctw)).
+> *"Cuando mueres por tus principios, la pila de muertos se alarga."* - Diana
 
-* **Problemas de Conexión y Navegador de Kauneda Arashi** Ludo Bermejo y los demás ayudaron a Kauneda Arashi a solucionar problemas de conexión, ya que seguía viendo una pantalla negra en el juego Foundry ([00:44:10](?tab=t.hqols372tl60#heading=h.9k85hmmmsz79)). Kauneda Arashi inicialmente estaba usando el navegador Explorer, lo que sorprendió a Ludo Bermejo, y finalmente probaron con Chrome, a pesar de que a Kauneda Arashi se le suele colgar, y Ernesto Diezhandino sugirió Firefox ([00:44:51](?tab=t.hqols372tl60#heading=h.g1yitvo6sose)). Ludo Bermejo intentó reiniciar Foundry para resolver el problema de Kauneda Arashi, quien todavía tenía dificultades para cargar incluso el formulario para ingresar su nombre ([00:47:12](?tab=t.hqols372tl60#heading=h.qtkibunvhcfv)) ([00:49:25](?tab=t.hqols372tl60#heading=h.ok7l0wvk4qni)).
+> *"Los destinos lejanos sin considerar el camino seguido no me interesan."* - Justa
 
-* **Diseño y Apariencia de Personajes** Ludo Bermejo comentó que estaba intentando crear personajes alternativos, pero la herramienta le estaba costando ([00:44:10](?tab=t.hqols372tl60#heading=h.9k85hmmmsz79)). Hubo un debate sobre la apariencia del personaje "Hotman", creado por Eduardo Vaquerizo, debido a un agujero en sus pantalones, que revelaba que no llevaba ropa interior, lo cual preocupó a Ernesto Diezhandino. Más tarde, Eduardo Vaquerizo intentó arreglar la apariencia de Hotman para que no se le viera la raja por delante ([00:45:28](?tab=t.hqols372tl60#heading=h.36qtwliybq29)) ([00:46:27](?tab=t.hqols372tl60#heading=h.kuq70dlhjpfb)).
+> *"Mi padre fue un metacorp, pero por encima de su uniforme, también era un hombre que creía que su trabajo tenía un sentido."* - Justa
 
-* **Vídeo de Introducción de la Partida** Ludo Bermejo se percató de que no había puesto el vídeo de inicio o la introducción de la serie de la partida. Ludo Bermejo mencionó que se lo había puesto a los de la partida de Arcadia por la mañana, y que ellos no aparecían con tanta prominencia porque "todavía son unos mierdas" hasta que tienen su traje. Ernesto Diezhandino se dio cuenta de que tampoco lo había pasado por alto y que se lo enviaría a Xavi Gracia porque le parecía muy bonito ([00:45:54](?tab=t.hqols372tl60#heading=h.ntf4mo73dyv7)).
+---
 
-* **Personajes del Vídeo de Introducción y su Estado** Ludo Bermejo explicó que los jugadores de la partida matutina se estaban buscando a sí mismos en el vídeo de introducción ([00:46:27](?tab=t.hqols372tl60#heading=h.kuq70dlhjpfb)). Alejandro Salamanca y Ernesto Diezhandino estuvieron viendo el vídeo, y Alejandro Salamanca comentó que pensaba que el agujero de Hotman era su ombligo ([00:47:12](?tab=t.hqols372tl60#heading=h.qtkibunvhcfv)). Ludo Bermejo mencionó que llevaba dos meses haciendo el vídeo, y que todas las 130 imágenes en él son cosas que han pasado en alguna partida ([00:56:26](?tab=t.hqols372tl60#heading=h.qom1g88jaiw9)).
+## Elementos Meta y Fuera de Juego
 
-* **Identidad de Bad Bunny y King Gutiérrez** Ludo Bermejo mencionó que no le pondría a Hotman "de gala" sino Hotman "de Macarra" o "de pena," preguntando por un calvo famoso ([00:47:48](?tab=t.hqols372tl60#heading=h.9j78qz45ubo9)). Después de varios intentos y errores, se confirmó que se referían al cantante y actor Bad Bunny, de quien Ernesto Diezhandino comentó que hacía un muy buen trabajo en la película *Bullet Train* ([00:48:59](?tab=t.hqols372tl60#heading=h.3ttq259r6f9l)). Ernesto Diezhandino sugirió que se imaginaba a Hotman con la voz de King Gutiérrez, a quien Eduardo Vaquerizo y Alejandro Salamanca no conocían, pero Kauneda Arashi y Ernesto Diezhandino sí, señalando que era actor de comedia y que tomó el papel de Anacleto Agente Secreto ([00:50:05](?tab=t.hqols372tl60#heading=h.edcwv519zgz7)).
+La sesión incluyó:
+- Discusión sobre política actual (Trump, ICE, simbolismo nazi)
+- Problemas técnicos de Foundry con Kauneda Arashi
+- Generación de imágenes de vestimenta de gala con IA
+- Referencias a dibujantes de cómics (John Byrne, Rob Liefeld)
+- Vídeo de introducción de la campaña (130 imágenes de eventos pasados)
 
-* **Problemas Persistentes de Foundry y Reinicio de Ludo** Ludo Bermejo comentó que el Foundry iba lento, lo cual le hacía creer que estaban llegando a un límite, y reinició Foundry para intentar solucionar los problemas de Kauneda Arashi, quien seguía con la pantalla en negro ([00:49:25](?tab=t.hqols372tl60#heading=h.ok7l0wvk4qni)) ([00:51:21](?tab=t.hqols372tl60#heading=h.ch7rts8mru7s)). Kauneda Arashi, a pesar de los intentos de Ludo Bermejo por ayudar, seguía sin poder cargar el juego ni siquiera después de pasar la selección de personaje ([00:56:26](?tab=t.hqols372tl60#heading=h.qom1g88jaiw9)). Ludo Bermejo expresó su frustración ante el continuo fracaso de la carga, sugiriendo que el problema no era la red sino la computadora de Kauneda Arashi ([00:54:42](?tab=t.hqols372tl60#heading=h.om7a0ifth12)) ([01:00:15](?tab=t.hqols372tl60#heading=h.l2mx3pz9l6mo)).
+---
 
-* **Personajes de la Introducción y sus Trajes** Ernesto Diezhandino describió el traje del personaje Titán Rojo como muy chulo, mencionando una anécdota sobre cómo el personaje obtuvo su nombre al recibir el traje por casualidad ([00:52:34](?tab=t.hqols372tl60#heading=h.emzupx7dl3yz)). Ernesto Diezhandino también preguntó si la foto de los infantes terribles en el vídeo implicaba un grupo de adolescentes con un símbolo de anarquía, pero Eduardo Vaquerizo lo corrigió diciendo que eran amigos de Sentencia ([00:57:48](?tab=t.hqols372tl60#heading=h.ti9spty83tyu)). Ludo Bermejo aclaró que estos eran los infantes terribles y que no estaban en sillas de ruedas, sino que tenían prótesis que les permitían moverse bien ([00:58:44](?tab=t.hqols372tl60#heading=h.9i5arlonfir9)).
+*La sesión marca un punto de inflexión ético para el grupo. La oferta de Mulcifer fuerza a cada personaje a definir sus límites morales. El debate entre Justa y Diana es uno de los momentos más filosóficos de toda la campaña, enfrentando dos visiones válidas sobre cómo hacer el bien en un mundo corrupto.*
 
-* **Consejos para Mejorar la Carga del Juego** Ludo Bermejo aconsejó a Kauneda Arashi que no cambiara la pestaña del mapa de Foundry, ya que algunos navegadores dejan de cargar las páginas en segundo plano ([00:59:27](?tab=t.hqols372tl60#heading=h.o057q79xulo)). Ludo Bermejo expresó su convencimiento de que el problema persistente de la pantalla negra era la computadora de Kauneda Arashi. Kauneda Arashi, sin embargo, pidió a Ludo Bermejo y a los demás que avanzaran con la partida mientras su pantalla cargaba, y que la movieran si era necesario ([01:00:15](?tab=t.hqols372tl60#heading=h.l2mx3pz9l6mo)) ([01:07:23](?tab=t.hqols372tl60#heading=h.hhg6jqt2i0cd)).
-
-* **Nombres de Personajes y Humor del Grupo** El grupo hizo bromas sobre los nombres, y Ernesto Diezhandino mencionó que Hotman estaba arruinando el nombre del grupo al llamarse "Diana y las Cazadoras" ([01:05:33](?tab=t.hqols372tl60#heading=h.4bv114v1z3f6)). Ludo Bermejo comentó que a él no le gustaban los nombres en inglés para Arcadia, pero hacían una excepción con Hotman. Se discutió que Hotman no era el superhéroe más respetado de Arcadia, especialmente por su propio grupo ([01:06:10](?tab=t.hqols372tl60#heading=h.4shhyh571flo)).
-
-* **Llegada y Descripción del Casino** Ludo Bermejo describió el lugar al que se dirigían, que era un casino lujoso y estridente que parecía haber sido preparado para varios perfiles, con una estética de imitación de Las Vegas ([01:07:23](?tab=t.hqols372tl60#heading=h.hhg6jqt2i0cd)). Ernesto Diezhandino, sin embargo, compartió una experiencia negativa con Las Vegas, donde dijo que no había pasado un momento tan malo en su vida debido al constante ruido. El casino estaba curiosamente vacío, y Diana sabía que debía estar cerrado ese día ([01:08:17](?tab=t.hqols372tl60#heading=h.84mmrb9ru2sa)).
-
-* **Ingreso y Seguridad del Casino** Ludo Bermejo explicó que las puertas del casino estaban cerradas y solo se abrieron cuando los personajes llegaron ([01:10:16](?tab=t.hqols372tl60#heading=h.vbt5phln3wo4)). Después de que Pantomima cruzó la puerta, esta se cerró de golpe y una voz computadorizada le pidió que no se alejara de sus compañeros ([01:10:46](?tab=t.hqols372tl60#heading=h.kugbubol4vgj)). Xavi Gracia preguntó si las medidas de seguridad del casino estaban activas, a lo que Ludo Bermejo confirmó que estaba "todo absolutamente plagado de seguridad" ([01:12:10](?tab=t.hqols372tl60#heading=h.7fjwocddbe6l)).
-
-* **Problemas Técnicos Persistentes de Kauneda Arashi** Kauneda Arashi seguía experimentando problemas, ya que fue expulsado de la aplicación e intentaba volver a cargar ([01:06:52](?tab=t.hqols372tl60#heading=h.15kb0hh8wydv)). Tras los problemas con el F12, Kauneda Arashi decidió cerrar y reiniciar su computadora, pidiendo que no esperaran ([01:12:10](?tab=t.hqols372tl60#heading=h.7fjwocddbe6l)). Ludo Bermejo indicó que esperarían un momento por Kauneda Arashi, ya que una cosa era que no pudiera ver el mapa y otra que no pudiera jugar ([01:12:10](?tab=t.hqols372tl60#heading=h.7fjwocddbe6l)).
-
-* **Encuentro con el Padrino de Diana y el Dibujo de Personajes** Dentro del casino, vieron a un "súper" todo de negro, que Ernesto Diezhandino identificó como su padrino, con piel de obsidiana ([01:12:10](?tab=t.hqols372tl60#heading=h.7fjwocddbe6l)). Ludo Bermejo y los demás identificaron el estilo de dibujo de ese personaje como el de John Byrne, comentando la cuatricomía antigua ([01:13:19](?tab=t.hqols372tl60#heading=h.kcbil5loix9a)). Se debatió sobre otros dibujantes de cómics con proporciones extrañas como Rob Liefeld, conocido por dibujar mal las proporciones y la perspectiva ([01:14:03](?tab=t.hqols372tl60#heading=h.hpine7mny30i)) ([01:16:36](?tab=t.hqols372tl60#heading=h.xjzv7aikik0t)).
-
-* **Intento de Kauneda Arashi por Jugar y Avance del Grupo** Kauneda Arashi dijo que seguiría a Diana, preguntando cuáles eran los protocolos a seguir con su familia ([01:25:15](?tab=t.hqols372tl60#heading=h.cpylyfp3q3fl)). Ludo Bermejo logró compartir la pantalla con Kauneda Arashi, al menos parcialmente ([01:26:24](?tab=t.hqols372tl60#heading=h.do3xh2pf8lse)). El padrino de Diana se fue hacia arriba, y el grupo siguió a Diana, que quería ir a hablar con su padrino ([01:25:15](?tab=t.hqols372tl60#heading=h.cpylyfp3q3fl)) ([01:27:22](?tab=t.hqols372tl60#heading=h.pjslsfkmwbrj)).
-
-* **Descripción Adicional y Hambre de Justa** Ludo Bermejo describió el casino, señalando una división en zonas: de maquinitas en la parte baja y mesas con mayor lujo y mejores materiales en la parte alta ([01:18:08](?tab=t.hqols372tl60#heading=h.k6xlmt9nkgmm)). Ludo Bermejo notó que había poca gente, incluyendo a dos hombres con bata de laboratorio jugando a las cartas. Justa, sintiendo hambre, recibió un rugido de tripas que llamó la atención de la gente, quienes se quedaron mirándola con asombro, como a una supermodelo ([01:18:45](?tab=t.hqols372tl60#heading=h.pnqbx898feol)). Eduardo Vaquerizo preguntó si había un buffet en el comedor, a lo que Ludo Bermejo le indicó que no ([01:27:22](?tab=t.hqols372tl60#heading=h.pjslsfkmwbrj)).
-
-* **Intento de Identificación de Juego de Cartas** Xavi Gracia intentó tirar un dado para identificar el juego de cartas, que parecía ser un juego de contar y se jugaba con más de una baraja. El juego era algo que no lograba identificar con ningún juego que hubiera visto antes, y los jugadores tenían fichas ([01:19:49](?tab=t.hqols372tl60#heading=h.m1tgvvq7es0q)) ([01:23:38](?tab=t.hqols372tl60#heading=h.ujfz30qilnsp)).
-
-* **Sugerencias de Caracterización de Hotman** Alejandro Salamanca bromeó sobre la idea de que los personajes se colocaran como los cinco puntos de un dado de seis. Kauneda Arashi y Ernesto Diezhandino se opusieron a la idea de Alejandro Salamanca de colocarse en el centro como líder, señalando que Hotman no era el líder del grupo ([01:05:02](?tab=t.hqols372tl60#heading=h.tr8mam8xn2gk)). Eduardo Vaquerizo defendió la sonrisa psicópata de Sentencia en el vídeo de introducción, que Ludo Bermejo confirmó que estaba hecha a propósito para reflejar la indiferencia de matar ([01:03:39](?tab=t.hqols372tl60#heading=h.ii4hu2v467y6)).
-
-* **Discusión inicial sobre el movimiento y ubicación** Ludo Bermejo y Ernesto Diezhandino tienen una breve discusión sobre el movimiento del cursor en la pantalla, con Ernesto Diezhandino pidiendo que Ludo Bermejo deje de dibujar líneas ([01:28:34](?tab=t.hqols372tl60#heading=h.p3lv7znm64zd)). Luego, el grupo nota que están en "Sou Park" y Ludo Bermejo identifica a un señor de aspecto serio observándoles, con una placa que no lo identifica como Metacor o policía ([01:29:14](?tab=t.hqols372tl60#heading=h.foa3qsiskd6t)).
-
-* **Identificación del personaje y símbolos familiares** El señor los está mirando y aparentemente reconoce a Diana, que no está oculta y lleva los colores y símbolos familiares ([01:29:53](?tab=t.hqols372tl60#heading=h.xcwtzyrv07b8)). Ernesto Diezhandino identifica el símbolo familiar como el dios Hano (Janus) y lo comparte en el chat, aclarando que Vulcano es solo su padrino en particular, pero el símbolo familiar es Hano ([01:30:42](?tab=t.hqols372tl60#heading=h.4airxrjejv51)).
-
-* **Encuentro con el padrino de Diana** Diana (Ernesto Diezhandino) se acerca al hombre, a quien llama "Tomás", aunque Ludo Bermejo aclara que su nombre es Francisco "Paco" Torres ([01:31:33](?tab=t.hqols372tl60#heading=h.ig5mujsgjiv8)). El hombre, que luego se revela es Mulcifer, indica que el padrino de Diana (Vulcano) está en una partida privada. Mulcifer, con una voz "atronadora", saluda a Diana con un abrazo, lo cual sorprende a ella porque él no suele tocar a la gente ([01:33:36](?tab=t.hqols372tl60#heading=h.mqh53td3qlua)).
-
-* **Descripción del padrino de Diana (Mulcifer)** Mulcifer es descrito como un hombre de 2,20 a 2,30 metros de altura, con pasos pesados a pesar de la moqueta, y su piel parece ser de piedra o metal. Ludo Bermejo nota que no es la primera vez que conocen a un metahumano con piel metálica ([01:32:14](?tab=t.hqols372tl60#heading=h.wo7bkwscv018)) ([01:34:25](?tab=t.hqols372tl60#heading=h.fuglnbvmfnx9)).
-
-* **Presentaciones y reacciones a Mulcifer** Diana presenta a Borja (Alejandro Salamanca) a su padrino, y Mulcifer lo saluda llamándolo "Señor Goja" y mencionando su entrevista con Eneiros, un enemigo encarnizado ([01:35:19](?tab=t.hqols372tl60#heading=h.k0phvjbc70uf)). Mulcifer le da la mano con un apretón firme. Luego, Mulcifer saluda a Justa (Eduardo Vaquerizo), a quien llama "señorita sentencia," expresando que le gusta más ese nombre que "justicia," y le insinúa una proposición ([01:36:11](?tab=t.hqols372tl60#heading=h.t04p3hlkg2vj)).
-
-* **Interacciones y contexto familiar** Mulcifer comenta sobre las relaciones familiares y el panteón de dioses al que pertenecen, donde Mulcifer es el equivalente etrusco griego de Vulcano ([01:37:28](?tab=t.hqols372tl60#heading=h.auiyogld8f3c)). Justa (Eduardo Vaquerizo) le da la mano con firmeza y Mulcifer sonríe con dientes "blanquísimos" y perfectamente simétricos, que resaltan en su piel de ébano ([01:38:38](?tab=t.hqols372tl60#heading=h.s4vir9qxd4fj)).
-
-* **Presentación de Astrid y Cía** Al presentarse Astrid (Xavi Gracia), Mulcifer se agacha para besarle la mano, un gesto muy elegante y estudiado ([01:41:07](?tab=t.hqols372tl60#heading=h.307skn1w2z12)). Mulcifer comenta que ve "el parecido" con su familia ([01:41:50](?tab=t.hqols372tl60#heading=h.ou6cl6z91718)). Luego, al conocer a Cía (Kauneda Arashi), la pareja de Diana, Mulcifer expresa sorpresa por la "cabeza hueca" de Diana al encontrar a una mujer tan "espléndida" ([01:42:47](?tab=t.hqols372tl60#heading=h.hf9wjl6oaiux)).
-
-* **Comentarios sobre el pasado de Diana y Cía** Mulcifer menciona que no veía a su ahijada desde que entró al reality show y hace un comentario sobre que la última vez que la vio "no era todavía una mujer" ([01:43:45](?tab=t.hqols372tl60#heading=h.b9hpsqc89sgu)). Alejandro Salamanca y Eduardo Vaquerizo tienen una breve discusión sobre si esto se refería a Cía o Diana, concluyendo que se refería a Diana siendo una niña o adolescente ([01:45:46](?tab=t.hqols372tl60#heading=h.l2slc8um1aug)).
-
-* **Problemas técnicos de Kauneda Arashi** Durante un breve receso para ir al baño, Ludo Bermejo y Kauneda Arashi discuten los problemas de conexión de esta última, cuyo ordenador es lento y a veces solo se ve "a saltos". Kauneda Arashi menciona que ha solicitado un cambio de ordenador, pero hay una lista de espera y le darán uno de segunda mano ([01:49:09](?tab=t.hqols372tl60#heading=h.j64hx9h13a80)).
-
-* **Avance a un área privada de seguridad extrema** Mulcifer los guía por una zona con seguridad todavía mayor, donde se usa una tarjeta de acceso. Diana (Ernesto Diezhandino) advierte a Pantomima (Xavi Gracia) que tenga cuidado con la seguridad ([01:53:23](?tab=t.hqols372tl60#heading=h.3knvz7zprgg)). Al bajar las escaleras, llegan a un área donde un hombre armado, que es un pariente de Diana, está sentado, y le saluda como "jefe" ([01:54:15](?tab=t.hqols372tl60#heading=h.3aceyvjbiuuu)).
-
-* **El entorno privado de Mulcifer** Cruzan unas puertas y ven estatuas muy similares a las que ya habían visto en otro lugar ([01:55:15](?tab=t.hqols372tl60#heading=h.p3kldimw455g)). El lugar está lleno de fardos de billetes y un contable con máquinas de contar billetes ([01:55:58](?tab=t.hqols372tl60#heading=h.362zvv2bk6nu)). También ven a tres mujeres, que parecen ser abuela, madre e hija, haciendo "química" y cuentas ([01:59:16](?tab=t.hqols372tl60#heading=h.un8ybz9ds4f7)).
-
-* **La reja de seguridad y el aura de Mulcifer** Siguen a Mulcifer a otra área a través de una puerta y una reja tupida que se cierra con barras de seguridad, y notan que el sistema de seguridad lo reconoce a él y a Diana ([01:58:29](?tab=t.hqols372tl60#heading=h.3r8rahx02m2b)). Al avanzar, Mulcifer levanta la mano y la reja emite un aura de energía, haciendo que se les taponen los oídos ([02:01:15](?tab=t.hqols372tl60#heading=h.qceb0fghn9ks)).
-
-* **Contexto de la situación y la oferta de Mulcifer** Mulcifer, en una sala con cajas de seguridad, comenta sobre los vídeos de los personajes, señalando que sus movimientos no pueden ser simulados por IA. Luego les explica que la sociedad ha decidido por ellos lo que sucederá y que los metahumanos siempre serán considerados peligrosos ([02:02:09](?tab=t.hqols372tl60#heading=h.x0dkznc2v6l9)) ([02:04:08](?tab=t.hqols372tl60#heading=h.9eips975i3z4)).
-
-* **Alianza con "La Telaraña" y advertencia sobre el dinero** Mulcifer revela que la familia ha decidido fusionarse con "La Telaraña," el grupo delictivo más grande de Arcadia, para evitar ser barridos ([02:09:10](?tab=t.hqols372tl60#heading=h.a3lgqw4bxbvd)). Esto significa que ahora son vistos como una amenaza por otros "barones". Mulcifer les ofrece ayuda por el cariño a Diana, que incluye dinero y material, pero advierte que este dinero está "manchado de sangre" ([02:10:03](?tab=t.hqols372tl60#heading=h.auw833i51et4)).
-
-* **Identidad y reputación de Mulcifer** Mulcifer se identifica a sí mismo como "el diablo," y su aura se vuelve rojiza y ardiente al decirlo. También se le conoce como Vulcano, un fabricante de armas metahumanas, algunas incluso consideradas "mágicas" ([02:11:26](?tab=t.hqols372tl60#heading=h.oe6z2nj9d52l)).
-
-* **Bruno Castellano y su regeneración** Ludo Bermejo menciona a Bruno Castellano, la mano derecha de Mulcifer, un metahumano que es muy difícil de vencer y puede regenerarse "de incluso de un pelo de su pubis" ([02:08:14](?tab=t.hqols372tl60#heading=h.m1iuv5xi86qk)).
-
-* **Condiciones de la reunión y la decisión del grupo** Mulcifer les asegura que la sala no será escuchada mientras deliberan. Les dice que no roben nada porque lo sabrá y, si lo hacen, matará a "toda su familia" ([02:15:17](?tab=t.hqols372tl60#heading=h.8vv2f29mc561)). Les da tiempo para hablar y les recuerda que Sentencia (Justa) le ha caído bien ([02:14:35](?tab=t.hqols372tl60#heading=h.otd8r39xt48w)).
-
-* **Debate interno sobre el dinero de sangre** Justa (Eduardo Vaquerizo) declara que no tocará el dinero ni las armas ofrecidas, alegando que todo tiene un coste, aunque solo sea moral ([02:16:59](?tab=t.hqols372tl60#heading=h.toeerkswcd86)) ([02:21:30](?tab=t.hqols372tl60#heading=h.kwc445ehcx2u)). Hotman (Alejandro Salamanca) está de acuerdo, poniendo el límite en el daño a "los chavales". Diana (Ernesto Diezhandino) defiende a su familia, diciendo que no le dará la espalda y que sus propias manos "no están literalmente limpias de sangre tampoco" ([02:17:33](?tab=t.hqols372tl60#heading=h.atvrkbrj08fx)).
-
-* **Cuestionamiento de aliados y moralidad** Diana acusa a Justa de tener una "increíble capacidad para cerrar los ojos" ante las cosas que hacen sus aliados y mirar con mucha atención a su familia ([02:19:03](?tab=t.hqols372tl60#heading=h.cpr20xv0cnlv)). Justa argumenta que sus aliados no son delincuentes y que los cadáveres que deja son de personas que intentaron matarlos ([02:20:26](?tab=t.hqols372tl60#heading=h.9xyrz02gfykb)). Justa mantiene que no está dispuesta a asumir el coste moral del dinero ([02:21:30](?tab=t.hqols372tl60#heading=h.kwc445ehcx2u)).
-
-* **Consideraciones Morales sobre el Dinero y la Violencia** Eduardo Vaquerizo enfatizó que sus costes morales y personales son únicos para elle y no cambian su relación con elles compañeres de lucha ([02:22:33](?tab=t.hqols372tl60#heading=h.vf2tv764yrk9)). Kauneda Arashi expresó que todes son "asesines," incluyéndose, y que la diferencia está en la atenuante, como matar para defender a los suyes ([02:23:23](?tab=t.hqols372tl60#heading=h.m09x45c2ntwu)) ([02:25:23](?tab=t.hqols372tl60#heading=h.p1ar1ehxs0lw)). Elles argumentó que el dinero del ofrecimiento puede usarse para cosas buenas, de manera similar a cómo sus poderes pueden usarse para sanar traumas o causar daño, decidiendo elles cómo usar la "herramienta" ([02:24:08](?tab=t.hqols372tl60#heading=h.nnecccylcobb)).
-
-* **Debate sobre la Ética y la Intención al Aceptar Dinero "Manchado de Sangre"** Alejandro Salamanca debatió con Kauneda Arashi sobre la definición de asesinato, indicando que matar en defensa propia es diferente ([02:25:23](?tab=t.hqols372tl60#heading=h.p1ar1ehxs0lw)). Ernesto Diezhandino sugirió que aceptar el dinero podría convertir recursos manchados de sangre en algo utilizado para el bien, mencionando que todo el dinero está manchado de sangre debido al capitalismo. Eduardo Vaquerizo reiteró que están tomando una elección moral y que cada une tiene una consideración personal, mientras que Alejandro Salamanca mencionó que intenta seguir los criterios de su cerebro en lugar de los de su corazón ([02:27:13](?tab=t.hqols372tl60#heading=h.karcbvl9it56)).
-
-* **Coherencia y Hipocresía en la Aceptación de Fondos** Kauneda Arashi comparó la situación actual con un acuerdo previo del grupo de tomar dinero de traficantes, y señaló que sería hipócrita rechazar la oferta lícita del familiar de Diana, argumentando que el dinero sigue manchado de sangre en ambos casos ([02:28:13](?tab=t.hqols372tl60#heading=h.sgp351vz57)). Alejandro Salamanca distinguió entre quitar dinero ilícito (como a traficantes) y recibir dinero ilícito como parte de un negocio ([02:29:48](?tab=t.hqols372tl60#heading=h.vatabif3038)). Ernesto Diezhandino y Alejandro Salamanca estuvieron de acuerdo en que la intención con la que se usa el dinero es lo que cuenta ([02:31:13](?tab=t.hqols372tl60#heading=h.pk1t99l3ihtv)).
-
-* **Riesgos y Dependencia del Ofrecimiento Financiero** Xavi Gracia argumentó que aceptar la financiación podría acarrearles muchos problemas, especialmente si un superhéroe se entera o si la financiación los relaciona con dinero manchado ([02:34:07](?tab=t.hqols372tl60#heading=h.4zememnfmerf)). Eduardo Vaquerizo mantuvo su posición de no aceptar el dinero personalmente debido a sus principios morales, incluso si Diana decidía aceptarlo. Kauneda Arashi expresó preocupación sobre si la oferta tiene como objetivo hacerles dependientes o si es solo una suma única, a lo que Ernesto Diezhandino aclaró que era para esta ocasión con la posibilidad de más ofrecimientos en el futuro ([02:33:08](?tab=t.hqols372tl60#heading=h.avy1l0nrzofr)).
-
-* **Financiación Actual de la Guarida** Ludo Bermejo recordó al grupo que su guarida actual está financiada con el dinero de Diana, proveniente de negocios legales, aunque el subsuelo se use para ilegalidades ([02:35:16](?tab=t.hqols372tl60#heading=h.9uzqm0akx4b1)). Elles decidieron dejar el debate sobre la aceptación del dinero del familiar de Diana para que tuvieran una semana para pensarlo ([02:36:39](?tab=t.hqols372tl60#heading=h.p3qesest8x3z)).
-
-* **Experiencia Personal Post-Reunión** Ernesto Diezhandino compartió una experiencia positiva que tuvo en una clase, donde un chico de Israel les felicitó por su talento y les instó a conseguir un representante pronto ([02:37:48](?tab=t.hqols372tl60#heading=h.g17zhs62luqo)). Elles también discutió sus planes de esperar por material de videobook de una clase específica para luego enviarlo a representantes ([02:45:52](?tab=t.hqols372tl60#heading=h.uvititdflyhs)).
-
-### Pasos siguientes recomendados
-
-- [ ] Ludo Bermejo dará a The group una semana para pensar en diferentes posibilidades sobre la disyuntiva planteada.
-
-*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
-
-*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=iMrq1qv5fIPngb2rD8qYDxIROAIIigIgABgDCA&detailid=standard)*
+**Duración aproximada**: ~3 horas

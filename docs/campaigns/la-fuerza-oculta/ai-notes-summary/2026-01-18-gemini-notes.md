@@ -125,6 +125,14 @@ Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tr
 - Diana podría ser usada como "medio de influencia" sobre la familia
 - El fideicomiso de Diana proviene de "actividades legales", lo que ofrece Mulcifer no
 
+### Sobre los Padres Biológicos de Diana (Revelación en conversación posterior)
+
+- Se llamaban **Cloris y Janus**
+- Diana sospecha que "su muerte alimentó su vida" - integraron su ADN en ella antes de desaparecer
+- Se describe a sí misma como "su tumba, lo único que queda de ellos"
+- Lleva "su legado en cada célula"
+- Quiere "reconducir a su familia, no destruirla"
+
 ### Sobre la Crisis Mediática
 - La campaña de desprestigio es selectiva y coordinada
 - Las imágenes están editadas "a mala leche" omitiendo contexto
@@ -191,17 +199,52 @@ Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tr
 
 ---
 
+## Conversación Posterior a la Sesión
+
+El debate filosófico continuó fuera de la sesión, profundizando en los argumentos de cada personaje:
+
+### Preguntas de Diana
+
+Diana plantea dos preguntas directas que enmarcan el dilema:
+1. ¿Qué perdemos nosotros si aceptamos?
+2. ¿Qué pasa si decimos que no?
+
+Su conclusión: *"Si una de las respuestas a la segunda es 'podemos salvar a menos inocentes', para mí no hay más discusión."*
+
+### Intervención de Psique
+
+Psique ofrece una perspectiva pragmática sobre el dinero como herramienta neutral:
+> "Todos sabemos que este dinero tiene sombras. Pero es solo una herramienta, como nuestros poderes. No son buenos ni malos por sí mismos, lo que importa es cómo los usamos. Rechazar el dinero no lo limpia. Usarlo bien, quizá sí."
+
+### Propuesta Concreta de Diana
+
+Diana ofrece una solución intermedia con condiciones claras:
+
+- **Principio**: "Poner un pie en el barro sin arrodillarse"
+- **Diferencia clave**: Pactar te ata, pero utilizar a alguien y después "tirarlo a la basura" te libera
+- **Condiciones**: Justa debe definir los límites y escribir las condiciones
+- **Restricciones**: Sin juramentos, sin favores futuros, sin "ya me lo devolveréis"
+- **Resultado**: Si Mulcifer acepta, hay intercambio; si no, no hay trato
+
+### Petición Final
+
+Diana pide a Justa que use sus principios como estratega: *"Si no ponemos nosotras las reglas, las pondrán otros que no te tienen a ti como conciencia."*
+
+---
+
 ## Elementos Meta y Fuera de Juego
 
 La sesión incluyó:
+
 - Discusión sobre política actual (Trump, ICE, simbolismo nazi)
 - Problemas técnicos de Foundry con Kauneda Arashi
 - Generación de imágenes de vestimenta de gala con IA
 - Referencias a dibujantes de cómics (John Byrne, Rob Liefeld)
 - Vídeo de introducción de la campaña (130 imágenes de eventos pasados)
+- **Conversación posterior**: El debate filosófico continuó fuera de sesión por chat
 
 ---
 
-*La sesión marca un punto de inflexión ético para el grupo. La oferta de Mulcifer fuerza a cada personaje a definir sus límites morales. El debate entre Justa y Diana es uno de los momentos más filosóficos de toda la campaña, enfrentando dos visiones válidas sobre cómo hacer el bien en un mundo corrupto.*
+*La sesión marca un punto de inflexión ético para el grupo. La oferta de Mulcifer fuerza a cada personaje a definir sus límites morales. El debate entre Justa y Diana es uno de los momentos más filosóficos de toda la campaña, enfrentando dos visiones válidas sobre cómo hacer el bien en un mundo corrupto. La conversación posterior profundiza aún más en estos temas, con Diana revelando información sobre sus padres biológicos (Cloris y Janus) y proponiendo una solución intermedia que requiere que Justa defina las condiciones del acuerdo.*
 
-**Duración aproximada**: ~3 horas
+**Duración aproximada**: ~3 horas (+ conversación posterior)

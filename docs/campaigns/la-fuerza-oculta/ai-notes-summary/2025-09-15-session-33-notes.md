@@ -8,7 +8,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-15-session-33-no
 ## Análisis AI: "La Primera Cita"
 
 **Duración**: ~2 horas
-**Participantes**: Solo Hotman (Jandro) y Justa/Sentencia (Edu)
+**Personajes**: Solo Hotman y Justa/Sentencia
 **Modalidad**: Sesión íntima de dos personajes
 
 ---

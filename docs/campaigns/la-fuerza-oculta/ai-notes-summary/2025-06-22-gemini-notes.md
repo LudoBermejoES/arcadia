@@ -12,10 +12,10 @@ permalink: /campaigns/la-fuerza-oculta/2025-06-22-gemini-notes/
 La sesión inicia con una profunda discusión filosófica sobre la moralidad del grupo y sus métodos operativos. Los personajes enfrentan dilemas éticos cruciales:
 
 **Perspectivas en Conflicto:**
-- **Kauneda Arashi (Sique)**: Defiende seguir la ley aunque sea injusta, rechaza tomar la justicia por cuenta propia
-- **Eduardo Vaquerizo (Justa/Sentencia)**: Ha perdido fe en el sistema judicial de Arcadia, favorece métodos más directos
-- **Sugus Blanco**: Cuestiona la moralidad de robar incluso para financiar actividades heroicas
-- **Alejandro Salamanca**: Plantea dilemas morales extremos sobre sacrificar criminales para salvar inocentes
+- **Sique**: Defiende seguir la ley aunque sea injusta, rechaza tomar la justicia por cuenta propia
+- **Justa/Sentencia**: Ha perdido fe en el sistema judicial de Arcadia, favorece métodos más directos
+- **Eslizón**: Cuestiona la moralidad de robar incluso para financiar actividades heroicas
+- **Hotman**: Plantea dilemas morales extremos sobre sacrificar criminales para salvar inocentes
 
 ### **Límites Morales Establecidos**
 El grupo alcanza consensos importantes sobre su código ético:
@@ -103,12 +103,12 @@ Del combate y sus consecuencias, obtienen:
 
 ### **Desarrollo de Personajes**
 
-**Sentencia (Eduardo):**
+**Sentencia:**
 - Reafirma su transformación ideológica
 - Demuestra liderazgo táctico en combate
 - Mantiene código ético pero con flexibilidad pragmática
 
-**Sique (Kauneda):**
+**Sique:**
 - Proporciona apoyo telepático crucial
 - Mantiene postura ética rígida pero efectiva
 - Desarrolla confianza en uso de poderes
@@ -118,7 +118,7 @@ Del combate y sus consecuencias, obtienen:
 - Muestra disposición a eliminar amenazas
 - Equilibra nobleza familiar con pragmatismo
 
-**Eslizón (Sugus):**
+**Eslizón:**
 - Efectivo en combate cuerpo a cuerpo
 - Cuestionamiento ético sobre métodos
 - Adaptación efectiva a trabajo en equipo

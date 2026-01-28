@@ -300,9 +300,51 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - Pide a Justa que defina los límites y escriba las condiciones
 - Decisión pendiente sobre aceptar o rechazar la oferta de Mulcifer
 
+### Fase VIII: La Emboscada y el Heroísmo Bajo Fuego (25 Enero 2026)
+
+**Resolución del Dilema Moral**:
+
+- Justa **rechaza definitivamente** aceptar el dinero de Mulcifer
+- Declara: *"No tocaré nada manchado de sangre, como dice Mulcifer, ni de coña"*
+- Acepta que Diana y Sique lo acepten a título personal sin juzgarlas
+- Mantiene su posición filosófica: *"Cada persona tiene su propia guía, y el mío es mi criterio personal de no colaborar con delincuentes"*
+
+**Emboscada de Metacorps**:
+
+- Al salir del Casino de Dionisios, el grupo es emboscado en el parking
+- Justa neutraliza a un atacante con **balas de goma** (arma no letal)
+- Combate intenso con rifles de pulsos de Metacorps
+
+**Heroísmo Bajo Fuego**:
+
+- **Herida de gravedad** por disparo mientras intentaba rescatar a Hotman
+- A pesar de las heridas, **sube a Hotman inconsciente** a la furgoneta
+- Arranca la furgoneta y maniobra para recoger a Pantomima
+- **Atropella involuntariamente a dos Metacorps** (pifia en tirada de conducir + efecto de las heridas)
+- Los Metacorps sufren fracturas pero sobreviven
+
+**Final de la Sesión**:
+
+- Diana se entrega voluntariamente a los Metacorps
+- Justa intenta volver a rescatarla pero Diana ya se está rindiendo
+- **Huye en la furgoneta** con Hotman (incapacitado), Pantomima (incapacitada) y Cía (herida)
+- El grupo queda físicamente dividido por primera vez
+
 ---
 
 ## 📊 Estado Actual (Enero 2026)
+
+### ⚠️ SITUACIÓN CRÍTICA: HERIDA GRAVE EN FUGA
+
+**Estado**: Herida de gravedad, huyendo en furgoneta con compañeros incapacitados (25 Enero 2026)
+
+Justa resultó herida de gravedad durante la emboscada de Metacorps pero demostró heroísmo extraordinario rescatando a Hotman y Pantomima a pesar de sus heridas. Atropelló involuntariamente a dos Metacorps debido a una combinación de pifia en la tirada de conducir y el efecto de sus heridas.
+
+**Situación del grupo bajo su cargo**:
+- **Hotman**: Incapacitado (múltiples disparos de rifle de pulsos)
+- **Pantomima**: Incapacitada (dos impactos de rifle de pulsos)
+- **Cía/Psique**: Herida y conmocionada
+- **Diana**: Arrestada (se entregó voluntariamente)
 
 ### Situación Táctica
 
@@ -325,12 +367,14 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - Conflicto con filosofía de perdón de Hotman
 - Determinación absoluta respecto al padre de Hotman
 - Vulnerabilidad reconocida pero controlada
+- **Posible culpa** por no haber podido rescatar a Diana
 
 **Relación con Hotman**:
 - Declaración de seriedad - ya no es un juego
 - Protección activa aunque él no la haya pedido
 - Intimidad profundizada tras crisis del chip
 - Consciente del conflicto latente sobre métodos
+- **Lo rescató personalmente** a pesar de estar herida
 
 ### Sentencias Pendientes
 
@@ -401,6 +445,8 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Heroísmo
+- [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ---
 

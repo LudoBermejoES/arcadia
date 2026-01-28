@@ -278,6 +278,29 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - Durante el debate moral, expresa: *"Yo no quiero que por ser metahumano me chuleen"*
 - Señala que Mulcifer "no es de fiar" pero reconoce que él tampoco lo es siempre
 
+### Fase X: La Emboscada de Metacorps (25 Enero 2026)
+
+**Resolución del Dilema Moral**:
+
+- Hotman **rechaza** aceptar el dinero de Mulcifer
+- Posición: *"No tengo inconveniente en robarle el dinero a los delincuentes pero no aceptaré colaborar con delincuentes"*
+- **Le da un "morreo intenso" a Justa** como gesto romántico
+
+**Combate en el Parking**:
+
+- Al salir del casino, el grupo es emboscado por Metacorps
+- Hotman **"fríe"** a uno de los atacantes iniciales
+- Intenta afectar a un Metacorp con poderes térmicos pero **falla**
+- Es disparado **por la espalda** con rifle de pulsos
+- Gasta un Benny para absorber el daño pero queda aturdido
+- **Segundo disparo lo deja completamente incapacitado**
+
+**Rescate por Justa**:
+
+- Justa, a pesar de estar herida de gravedad, lo sube a la furgoneta
+- Es evacuado inconsciente mientras Diana se entrega a los Metacorps
+- Actualmente en la furgoneta en fuga con el resto del grupo herido
+
 ---
 
 ## 🔗 Relaciones
@@ -361,7 +384,15 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ---
 
-## 📊 Estado Actual (Diciembre 2025)
+## 📊 Estado Actual (Enero 2026)
+
+### ⚠️ SITUACIÓN CRÍTICA: INCAPACITADO
+
+**Estado**: Incapacitado por múltiples disparos de rifle de pulsos (25 Enero 2026)
+
+Hotman fue disparado por la espalda durante la emboscada de Metacorps al salir del Casino de Dionisios. A pesar de usar un Benny para absorber el primer impacto, un segundo disparo lo dejó completamente incapacitado. Justa lo rescató a pesar de sus propias heridas graves.
+
+**Ubicación actual**: En la furgoneta en fuga, inconsciente
 
 ### Situación Legal
 
@@ -376,6 +407,7 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - Relación seria con Justa (ya no es "juego")
 - Consciente del conflicto sobre el destino de su padre
 - Gratitud profunda hacia Eslizón y el equipo
+- **Justa lo rescató arriesgando su vida** - deuda emocional reforzada
 
 ### Carrera como Influencer
 
@@ -383,6 +415,7 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - Canal transformado en platform de comunicación heroica
 - Monetización de actividad metahumana
 - [Nacho Smück]({{ site.baseurl }}/characters/details/nacho-smuck/) como ejemplo de fan convertido en aliado
+- **Comunicado desastroso** (18 Enero) empeoró la crisis mediática
 
 ### Amenazas Activas
 
@@ -390,6 +423,7 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - **[Cazacapas]({{ site.baseurl }}/groups/caza-capas/)**: Grupo mercenario especializado en captura metahumana
 - **Tecnología de control**: Existen dispositivos diseñados específicamente para él
 - **Exposición pública**: Su fama lo hace objetivo identificable
+- **Metacorps**: Ahora activamente persiguiendo al grupo
 
 ---
 
@@ -446,6 +480,8 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 - [AI Notes 2025-12-21]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-12-21-gemini-notes/)
 - [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada e Incapacitación
+- [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ---
 

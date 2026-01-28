@@ -46,7 +46,7 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 - **Comunicación Misteriosa**: Introducción de benefactor/manipulador desconocido
 
 **👥 Desarrollo de Personajes:**
-- **Eduardo/Sentencia**: Abandono completo de legalismo, adopción de justicia natural
+- **Justa/Sentencia**: Abandono completo de legalismo, adopción de justicia natural
 - **Diana**: Asunción de rol de anfitriona y protectora familiar
 - **Psique**: Consolidación como enlace emocional y coordinadora telepática
 - **Eslizón**: Adaptación al liderazgo táctico en nuevo ambiente
@@ -590,19 +590,19 @@ El nombre **"Pantomima"** es perfectamente apropiado:
 
 ### 🎭 **Análisis de Arcos de Personajes**
 
-#### **Eduardo/Sentencia**
+#### **Justa/Sentencia**
 - **Junio**: Rechazo total del sistema legal, adopción de justicia natural
 - **Julio**: Aplicación práctica de nueva filosofía moral
 - **Agosto**: Liderazgo en decisiones pragmáticas extremas
 - **Trayectoria**: Legalista → Justiciero → Líder Pragmático
 
-#### **Sugus/Eslizón Esmeralda**
+#### **Eslizón Esmeralda**
 - **Junio**: Adaptación a rol de estratega táctico
 - **Julio**: Desarrollo de capacidades de liderazgo operacional
 - **Agosto**: Demostración de competencia como coordinador de combate
 - **Trayectoria**: Criatura Simple → Estratega → Líder Táctico
 
-#### **Conchi/Psique**
+#### **Psique/Cía**
 - **Junio**: Consolidación como enlace emocional grupal
 - **Julio**: Reconocimiento de límites de poderes telepáticos
 - **Agosto**: Equilibrio entre capacidades y sostenibilidad personal

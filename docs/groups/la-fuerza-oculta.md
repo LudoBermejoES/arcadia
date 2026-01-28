@@ -172,6 +172,22 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - Filtración **selectiva** - operación de desprestigio orquestada contra Diana
 - **Mulcifer** (padrino de Diana, Fatum) ofrece ayuda y los invita al casino familiar
 
+### **El Dilema Moral y la Emboscada (Enero 2026)**
+
+**Sesiones 47-48:**
+
+- **Casino de Dionisios**: Visita al casino familiar de Diana para reunirse con Mulcifer
+- **Mulcifer** (padrino de Diana): Hombre de obsidiana de 2.40m, fabricante de armas metahumanas
+- **Revelación**: Familia de Diana se fusionará con Telaraña como "barones de facto"
+- **Oferta de Mulcifer**: Dinero y armas "manchadas de sangre" para ayudarles
+- **Dilema moral épico**: Debate filosófico intenso entre los miembros del grupo
+- **División del grupo**: Diana y Sique aceptan a título personal; Justa, Hotman y Pantomima rechazan
+- **Emboscada de Metacorps**: Ataque sorpresa al salir del casino
+- **Bajas severas**: Hotman y Pantomima incapacitados, Justa y Cía heridas graves
+- **Diana arrestada**: Se entrega voluntariamente a los Metacorps
+- **Justa heroica**: Rescata a compañeros a pesar de estar herida, atropella involuntariamente a dos Metacorps
+- **Primera división física del grupo**: Diana bajo custodia, resto huyendo en furgoneta
+
 ---
 
 ## 🌟 **Logros Destacados**
@@ -246,7 +262,7 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 </div>
 
 <div class="stat-card">
-<span class="stat-number">46+</span>
+<span class="stat-number">48+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -265,21 +281,45 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 
 ## 🔮 **Estado Actual (Enero 2026)**
 
-La Fuerza Oculta ha completado exitosamente la Operación Desguace, rescatando a las 4 crías bestiales y derribando un helicóptero hostil durante el escape (Cía con ataque mental). Sin embargo, enfrentan una nueva crisis: un vídeo filtrado selectivamente muestra a Diana matando a un mercenario, desatando una campaña de desprestigio mediático contra ella. Mulcifer (padrino de Diana, de Fatum) los ha invitado al casino familiar para gestionar la situación.
+### ⚠️ **CRISIS ACTIVA: GRUPO DIVIDIDO Y MALHERIDO**
 
-### **Desafíos Actuales**
+La Fuerza Oculta se encuentra en su momento más vulnerable. Tras resolver el dilema moral sobre la oferta de Mulcifer y sufrir una emboscada de Metacorps al salir del Casino de Dionisios (25 Enero 2026), el grupo ha quedado **físicamente dividido por primera vez**.
 
-- **Crisis mediática de Diana**: Vídeo filtrado selectivamente la muestra matando - operación de desprestigio orquestada
-- **Reunión con Mulcifer**: Invitación al casino familiar de Fatum para gestionar la crisis de imagen
-- **Amenaza Constellis**: Mercenarios estadounidenses derrotados pero no eliminados
-- **Funciones ocultas de la furgoneta**: 12 botones de vuelo por descubrir, velocidad de 300 km/h
-- **Conexión Pantomima-Caos**: Cacharrero confirma que Caos (padre de Pantomima) encargó el monopatín
-- **Nuevo poder de Hotman**: Capacidad de vuelo/flotación mediante ondas de calor, requiere entrenamiento
+### **Estado de los Miembros**
+
+| Miembro | Estado | Ubicación |
+|---------|--------|-----------|
+| **Diana** | ⚠️ Arrestada | Bajo custodia de Metacorps (se entregó voluntariamente) |
+| **Hotman** | 🔴 Incapacitado | En la furgoneta en fuga |
+| **Pantomima** | 🔴 Incapacitada | En la furgoneta en fuga |
+| **Justa/Sentencia** | 🟡 Herida grave | Conduciendo la furgoneta |
+| **Cía/Psique** | 🟡 Herida y conmocionada | En la furgoneta en fuga |
+| **Eslizón** | ❓ Desconocido | Ausente de la sesión |
+
+### **Resolución del Dilema Moral**
+
+El grupo se dividió ideológicamente sobre aceptar la ayuda de Mulcifer:
+- **Aceptaron** (a título personal): Diana y Sique - recibieron llaves de mansión segura
+- **Rechazaron**: Justa, Hotman, Pantomima
+
+### **Desafíos Inmediatos**
+
+- **Diana bajo arresto**: Primera vez que un miembro está en custodia de las autoridades
+- **Heridos críticos**: Hotman y Pantomima incapacitados, Justa y Cía heridas
+- **Persecución activa**: Metacorps buscando al grupo
+- **Ubicación desconocida**: La furgoneta está "yendo a la aventura"
+
+### **Recursos Disponibles**
+
+- **Mansión de Mulcifer**: Llaves disponibles para Diana y Sique (refugio seguro)
+- **Furgoneta especial**: Capacidad de 300 km/h y funciones de vuelo
+- **Tarjeta de Fatum**: Contacto con Mulcifer ("miembro del grupo Fatum")
 
 ### **Alianzas Recientes**
 - **[La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Alianza formal para investigar amenazas en el Barrio Gótico
 - **[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Apoyo tecnológico y refugio, aunque rechazó el patronazgo formal
 - **[El Cacharrero]({{ site.baseurl }}/characters/details/cacharrero/)**: Servicio de extracción del chip, posible contacto técnico futuro
+- **[Mulcifer]({{ site.baseurl }}/characters/details/mulciber/)**: Oferta de recursos a Diana y Sique (no al grupo completo)
 
 ---
 

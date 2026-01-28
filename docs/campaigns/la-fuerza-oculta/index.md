@@ -132,6 +132,7 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 ### 🎰 **Fase XII: Crisis Mediática y Dilemas Morales (Enero 2026)**
 
 - **[18 Enero](ai-notes-summary/2026-01-18-gemini-notes.md)** / **[Manual](manual-notes/session-47-2026-01-18.md)**: Crisis de imagen con videos manipulados, comunicado desastroso de Hotman, visita al Casino de Dionisios, encuentro con Mulcifer (padrino de Diana, hombre de obsidiana de 2.40m), revelación de fusión de familia de Diana con Telaraña, ofrecimiento de dinero "manchado de sangre", dilema moral épico entre Justa y Diana sobre ética y pragmatismo
+- **[25 Enero](ai-notes-summary/2026-01-25-gemini-notes.md)** / **[Manual](manual-notes/session-48-2026-01-25.md)**: Resolución del dilema moral (Diana y Sique aceptan a título personal, resto rechaza), Mulcifer entrega llaves de mansión y tarjeta de "Fatum", **emboscada de Metacorps** al salir del casino, Hotman y Pantomima incapacitados, Justa herida grave rescata a compañeros, **Diana se entrega voluntariamente**, Justa huye en furgoneta con heridos
 
 ---
 
@@ -191,7 +192,7 @@ Mezcla elementos de:
 </div>
 
 <div class="stat-card">
-<span class="stat-number">47+</span>
+<span class="stat-number">48+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -248,16 +249,27 @@ Mezcla elementos de:
 
 ## 🔮 Estado Actual (Enero 2026)
 
-**La Fuerza Oculta** enfrenta una crisis existencial. Tras visitar el Casino de Dionisios, han conocido a **Mulcifer** (padrino de Diana), un hombre de obsidiana de 2.40m que fabrica armas metahumanas semi-mágicas. Les ha ofrecido dinero y material "manchado de sangre" para ayudarles, pero este ofrecimiento ha provocado un profundo dilema moral dentro del equipo. **Sentencia** ha rechazado rotundamente la ayuda por principios éticos, mientras **Diana** defiende un pragmatismo que permita usar herramientas manchadas para hacer el bien. La familia de Diana se fusionará con **Telaraña**, convirtiéndolos en barones de facto de la red criminal.
+**La Fuerza Oculta** está en su momento más vulnerable. Tras resolver el dilema moral sobre la oferta de Mulcifer (**Diana y Sique aceptaron a título personal**; **Justa, Hotman y Pantomima rechazaron**), fueron emboscados por **Metacorps** al salir del Casino de Dionisios.
+
+**Estado crítico del grupo:**
+- **Diana**: Bajo arresto de Metacorps (se entregó voluntariamente)
+- **Hotman**: Incapacitado por múltiples disparos de rifle de pulsos
+- **Pantomima**: Incapacitada por disparos de rifle de pulsos
+- **Justa**: Herida grave pero huyó en la furgoneta con los heridos
+- **Cía/Psique**: Herida y conmocionada, rescatada por Justa
+- **Eslizón**: Ausente de la sesión
+
+El grupo queda **físicamente dividido por primera vez**: Diana arrestada, el resto huyendo con múltiples bajas.
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Dilema moral sobre Mulcifer**: El equipo debe decidir si acepta dinero y armas "manchadas de sangre" - debate filosófico épico entre Justa y Diana
-- **Crisis mediática**: Videos manipulados y comunicado desastroso de Hotman han polarizado la opinión pública contra FO y los metahumanos
-- **Fusión Fatum-Telaraña**: La familia de Diana se integra en la red criminal principal como barones
-- **Armas para Sentencia**: Mulcifer ofrece armas semi-mágicas específicas para Justa
-- **Amenaza Constellis**: Mercenarios estadounidenses interesados en crear/controlar humanos bestiales - derrotados pero no eliminados
-- **Crisis familiar de Hotman**: Su padre lo ha repudiado y parece tener conexiones peligrosas
+- **Diana bajo arresto**: Primera vez que un miembro del grupo está en custodia de las autoridades
+- **Grupo dividido y malherido**: Hotman, Pantomima incapacitados; Justa, Cía heridas graves
+- **Recursos de Mulcifer**: Diana y Sique tienen acceso a mansión segura y conexión con Fatum
+- **Crisis mediática continua**: La opinión pública sigue polarizada contra FO
+- **Fusión Fatum-Telaraña**: La familia de Diana ahora es parte de la red criminal principal
+- **Amenaza Constellis**: Mercenarios estadounidenses derrotados pero no eliminados
+- **Crisis familiar de Hotman**: Su padre lo ha repudiado y tiene conexiones peligrosas
 - **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
 
 ---

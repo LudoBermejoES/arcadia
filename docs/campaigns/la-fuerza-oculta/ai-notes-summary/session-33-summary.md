@@ -6,8 +6,8 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/session-33-summary/
 
 # Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia
 **Fecha**: 21 de Septiembre 2025
-**Jugadores**: Jandro (Hotman), Conchi (Psique), Xavi (Astrid/Kayface), Edu (Justa/Sentencia)
-**Ausentes**: Sugus (Eslizón Esmeralda), Eslizo (Diana)
+**Personajes presentes**: Hotman, Psique, Astrid/Kayface, Justa/Sentencia
+**Ausentes**: Eslizón Esmeralda, Diana
 
 [← Volver a La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 

@@ -15,6 +15,26 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### ❄️ **Enero 2026 - Cruzando al Otro Lado**
 
+#### [📝 Sesión 25 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+
+**"Escape del Upside Down y Supervivencia en el Desierto"**
+
+- ⚡ **Pifia de Kira**: Doble uno hiere gravemente a Tiritas con ataque eléctrico accidental
+- ⚔️ **Combate Final**: Eliminación de las últimas avispas
+- 💀 **Descubrimiento Macabro**: Cadáver de la chica desaparecida entre los huevos
+- 💥 **Colapso**: Los huevos eclosionan, la instalación se derrumba
+- 🔧 **Escape**: Kira y Sergei usan poderes para despejar escombros (5 niveles subterráneos)
+- 🏜️ **Travesía**: Cruce del desierto de Isla Albedo sin agua ni calzado
+- 📱 **Supervivencia**: Kira recarga móvil, activación de modo SOS
+- 🏖️ **Cala**: Pesca de cangrejitos, noche de recuperación
+- ⛵ **Escape en Lancha**: Huida al amanecer bordeando la costa
+- 🚢 **Rescate**: Avistados por el pescador Matías Wang
+- ❓ **Cliffhanger**: ¿El pescador llamará al reformatorio?
+
+**Temas Clave**: Consecuencias del fuego amigo, supervivencia extrema, escape e incertidumbre
+
+---
+
 #### [📝 Sesión 18 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)
 
 **"El Laboratorio Abandonado"**
@@ -225,7 +245,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### **Sesiones con Transcripción IA**
 
-- **Total**: 5 sesiones
+- **Total**: 6 sesiones
 - **Promedio**: ~1.5 horas por sesión
 - **Formato**: Transcripción automática Gemini + análisis narrativo
 

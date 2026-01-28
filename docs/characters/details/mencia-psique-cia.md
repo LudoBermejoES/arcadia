@@ -309,6 +309,21 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ## 📊 Estado Actual (Enero 2026)
 
+### ⚠️ SITUACIÓN CRÍTICA: HERIDA Y CONMOCIONADA
+
+**Estado**: Herida y conmocionada por granada aturdidora (25 Enero 2026)
+
+Sique fue afectada por una **granada aturdidora** de los Metacorps durante la emboscada al salir del Casino de Dionisios. El "zumbido atronador" la dejó conmocionada. Fue rescatada por Justa y actualmente está en la furgoneta en fuga.
+
+**Ubicación actual**: En la furgoneta con el resto del grupo herido
+
+### Resolución del Dilema Moral (25 Enero 2026)
+
+- **Aceptó la ayuda de Mulcifer** a título personal (junto con Diana)
+- Recibió **llaves de una mansión segura** de Mulcifer
+- Posición filosófica: *"El dinero no tiene memoria. Es una herramienta."*
+- Argumentó que rechazar el dinero no lo limpia, pero usarlo bien podría hacerlo
+
 ### Capacidades Telepáticas
 
 - Enlace grupal selectivo con control de participantes
@@ -331,6 +346,7 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - Jeringuilla de Mentallo sin usar (decisión pendiente)
 - Necesidad de establecer código ético personal
 - Procesando con Diana el trauma de su nuevo poder
+- **Diana bajo arresto**: Su pareja está en custodia de Metacorps
 
 ### Rol en el Equipo
 
@@ -401,6 +417,8 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Decisión
+- [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ---
 

@@ -12,7 +12,7 @@ permalink: /campaigns/la-fuerza-oculta/2025-07-06-gemini-notes/
 La sesión marca un regreso completo al tono superheroico original, abandonando los elementos apocalípticos/supervivencia de la sesión anterior. Los personajes ahora enfrentan el desafío práctico de moverse discretamente por **Arcadia** mientras son buscados por las autoridades.
 
 ### **La Genial Estrategia de Camuflaje**
-**Alejandro Salamanca (Hotman)** propone una solución brillante y meta-narrativa:
+**Hotman** propone una solución brillante y meta-narrativa:
 
 **Concepto Central:**
 - **Disfrazarse de fans de sí mismos** usando caretas de sus propias caras
@@ -45,7 +45,7 @@ La sesión explora conceptos meta-ficticios profundos:
 - **Jugadores veteranos** jugando "Héroes o Villanos"
 - **Uso de audio real** de partidas anteriores del grupo
 - **Personajes del grupo como PCs** de otros jugadores
-- **Reacciones mixtas**: paranoia (Eduardo), fascinación (otros)
+- **Reacciones mixtas**: paranoia, fascinación (otros)
 
 **Implicaciones Narrativas:**
 - **Fama pública** del grupo en el mundo metahumano
@@ -78,7 +78,7 @@ Acceso al laboratorio subterráneo de Charada:
 
 **Especificaciones por Personaje:**
 
-**Sentencia/Justa (Eduardo):**
+**Sentencia/Justa:**
 - **Colores corporativos**: Rojo sugerido para resaltar físico
 - **Material**: Spandex/licra para movilidad
 - **Equipamiento**: Doble pistolera y cananas
@@ -89,18 +89,18 @@ Acceso al laboratorio subterráneo de Charada:
 - **Filosofía**: No ocultar identidad (tradición familiar)
 - **Diseño**: Elegancia noble combinada con funcionalidad
 
-**Hotman (Alejandro):**
+**Hotman:**
 - **Elemento distintivo**: Capa (requiere entrenamiento especial)
 - **Consideración táctica**: Arma potencial que requiere habilidad
 - **Estilo de combate**: Adaptado a ataques a distancia
 
-**Astrid (Xavi):**
+**Astrid:**
 - **Elementos**: Capa por poderes "clásicos"
 - **Concepto**: "Gran titiritera" controlando desde lejos
 - **Accesorios**: Diadema para realzar cabello
 - **Equipamiento**: Monopatines voladores en mochila
 
-**Eslizón (Sugus):**
+**Eslizón:**
 - **Desafío único**: Cubrir anatomía no-humana discretamente
 - **Solución**: Neopreno de 0.01mm que permite movilidad
 - **Objetivo**: Aparecer en televisión infantil sin problemas

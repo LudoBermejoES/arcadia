@@ -15,8 +15,8 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-04-gemini-notes/
 
 La sesión continúa la misión de rescate de las crías bestiales secuestradas por mercenarios de Constellis. El grupo ejecuta un asalto coordinado a un desguace fuertemente vigilado, utilizando la ilusión de Pantomima como cobertura y el "Protocolo Dame Veneno" para interferir las comunicaciones enemigas. Tras un intenso combate táctico, consiguen rescatar a las 4 crías del compactador de basura.
 
-**Jugadores presentes**: Sugus (Eslizón), Conchi (Sique/Psique), Xavi (Pantomima), Edu (Sentencia), Eslizo (Diana)
-**Ausente**: Jandro (Hotman)
+**Personajes presentes**: Eslizón Esmeralda, Sique/Psique, Pantomima, Justa/Sentencia, Diana
+**Ausente**: Hotman
 
 ---
 
@@ -62,27 +62,27 @@ La sesión continúa la misión de rescate de las crías bestiales secuestradas 
 
 ## Desarrollo de Personajes
 
-### Sentencia (Edu)
+### Sentencia
 - Eficiencia letal: elimina múltiples objetivos con precisión
 - Se ofrece a cubrir la retirada del grupo
 - Continúa su evolución como ejecutor táctico del equipo
 
-### Diana (Eslizo)
+### Diana
 - Recibe herida en combate pero se recupera
 - Usa la rabia como combustible (obtiene Benny por desventaja de inmadurez)
 - Protagoniza el rescate físico de las crías
 
-### Eslizón (Sugus)
+### Eslizón
 - Lidera la planificación táctica
 - Usa creativamente a un enemigo como escudo humano
 - Demuestra habilidades de infiltración y combate sigiloso
 
-### Sique/Psique (Conchi)
+### Sique/Psique
 - Proporciona inteligencia táctica por enlace mental
 - Sus ataques mentales fallan esta sesión
 - Coordina comunicaciones del equipo por radio
 
-### Pantomima (Xavi)
+### Pantomima
 - Mantiene ilusión de cobertura durante toda la operación
 - Crea efecto multiplicador para proteger a Diana
 - Se agota por el esfuerzo continuado

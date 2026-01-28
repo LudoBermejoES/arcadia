@@ -82,6 +82,7 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 
 - **[11 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)**: Combates victoriosos contra avispas gigantes, cruce a través del charco brillante hacia el "Upside Down", exploración de zona oxidada sin cobertura telefónica, Tiritas crece al absorber daño
 - **[18 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)**: Exploración del laboratorio abandonado, combates rápidos contra avispas con ilusión de alarma, descubrimiento de tanques con criaturas alienígenas muertas, autopsia revela huevos y líquido ambar
+- **[25 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)**: Combate final contra avispas (pifia de Kira hiere gravemente a Tiritas), descubrimiento del cadáver de la chica desaparecida entre los huevos, colapso de la instalación subterránea, escape a la superficie, travesía por el desierto de Isla Albedo, rescate por el pescador Matías Wang
 
 ---
 
@@ -163,7 +164,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">5</span>
+<span class="stat-number">6</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -173,7 +174,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~7.5</span>
+<span class="stat-number">~9.5</span>
 <span class="stat-label">Horas de Audio</span>
 </div>
 </div>

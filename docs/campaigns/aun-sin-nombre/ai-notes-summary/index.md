@@ -254,6 +254,46 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+#### [📈 Análisis 25/01/2026 - Escape del Upside Down]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+**"Supervivencia en el Desierto"**
+
+**🎯 Temas Centrales Identificados:**
+- **Consecuencias del Fuego Amigo**: Pifia de Kira hiere gravemente a Tiritas
+- **Descubrimiento Macabro**: Cadáver de la chica desaparecida entre los huevos
+- **Colapso y Escape**: Huida de la instalación subterránea que se derrumba
+- **Supervivencia Extrema**: Travesía por el desierto sin recursos
+
+**👥 Desarrollo de Personajes:**
+- **Tiritas**: Gravemente herido por fuego amigo, demuestra resiliencia
+- **Kira**: Asume responsabilidad tras pifia, usa poderes creativamente para supervivencia
+- **Sergei**: Transformación en herramientas para excavar, lidera escape en lancha
+- **Elena**: Fatiga afecta control de ilusiones, prueba comida para el grupo
+
+**🔮 Arcos Narrativos Avanzados:**
+- Final del arco del Upside Down con descubrimiento del cadáver
+- Confirmación de que las desapariciones terminan en muerte
+- Revelación de 5 niveles subterráneos y demolición intencionada
+- Introducción de zona desértica de Isla Albedo ("mal país")
+- Aparición del pescador Matías Wang como posible salvador o amenaza
+
+**⚡ Momentos Clave:**
+- Pifia de Kira (doble uno) hiere a Tiritas con 4 heridas
+- Descubrimiento de falange humana entre los huevos
+- Sergei arranca brazo del cadáver, desencadenando colapso
+- Kira y Sergei gastan Bennies para despejar escombros
+- Travesía descalzos por terreno volcánico cortante
+- Pesca de cangrejitos cocinados con poderes de Kira
+- Escape al amanecer en lancha destartalada
+- Cliffhanger: Matías Wang grita pidiendo llamar a autoridades
+
+**🧠 Dinámicas Sociales:**
+- Tensión tras el incidente de fuego amigo
+- Humor como mecanismo de defensa ("me debe muchos macarrones")
+- Trabajo en equipo para supervivencia
+- Incertidumbre sobre el destino del grupo
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

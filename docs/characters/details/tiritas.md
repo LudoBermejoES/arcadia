@@ -155,34 +155,58 @@ Tiritas demostró su valor como tanque del grupo en múltiples combates:
 - **Líder de Vanguardia**: En el Upside Down, fue enviado primero ante posibles amenazas
 - **Sartén Improvisada**: Cogió una sartén de la cocina como arma improvisada ligera
 
+### **Fuego Amigo y Escape del Upside Down (25/01/2026)**
+
+La sesión más traumática para Tiritas hasta la fecha:
+
+**Herido por Fuego Amigo:**
+- Kira cometió una **pifia crítica (doble uno)** al atacar a una avispa
+- Su ataque eléctrico impactó accidentalmente a Tiritas causando **4 heridas**
+- Quedó al borde de la muerte: aturdido, distraído, vulnerable, inmovilizado, aferrado y conmocionado
+- Kira lo estabilizó con primeros auxilios, evitando que muriera
+- Permaneció inconsciente durante gran parte de la sesión
+
+**Escape de la Instalación:**
+- Recuperó consciencia tras inyección de adrenalina encontrada en un botiquín
+- Participó en la travesía por el desierto de Isla Albedo
+- Caminó descalzo por el "mal país" (terreno volcánico cortante)
+- Mejoró una herida durante el viaje en lancha (tirada de 9)
+
+**Supervivencia:**
+- Usó a Sergei desmayado como sombra durante el escape en lancha
+- Al ser rescatado por el pescador Matías Wang, solo pudo pedir: "Agua..."
+- Demostró su característica resiliencia a pesar del trauma
+
+**Línea Memorable:**
+> *"Me debe muchos macarrones"* - Tiritas sobre Kira, tras el incidente
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ## Situación Actual (Enero 2026)
 
-Tiritas ha cruzado al "Upside Down" siendo el primero en saltar al charco brillante, demostrando su valentía característica. En este nuevo entorno oxidado y lleno de insectos, su rol como tanque del grupo se ha consolidado completamente.
+Tiritas ha escapado del Upside Down tras una experiencia traumática: ser gravemente herido por fuego amigo de Kira y descubrir el cadáver de una de las desaparecidas. Ahora está en manos del pescador Matías Wang, exhausto, deshidratado y con heridas aún sin curar.
 
 ### **Evolución Reciente**
 
-- **Tanque Consolidado**: Su absorción de energía cinética lo hace ideal para enfrentar amenazas primero
-- **Crecimiento Físico**: Tras absorber el aguijonazo, es ahora **más grande que el resto del grupo**
-- **Combatiente Efectivo**: Su d10 en pelea y dados explosivos lo convierten en el principal eliminador de avispas
-- **Líder de Vanguardia**: El grupo confía en él para ir primero ante peligros desconocidos
+- **Superviviente**: A pesar de casi morir por el ataque de Kira, se recuperó lo suficiente para escapar
+- **Resiliencia Demostrada**: Caminó descalzo por terreno volcánico y navegó hasta ser rescatado
+- **Relación con Kira**: El incidente del fuego amigo no parece haber destruido su amistad (humor: "me debe macarrones")
+- **Estado Físico**: Aún tiene 2 heridas, exhausto y deshidratado
 
 ### **Preguntas Abiertas**
 
 - ¿Qué edad tiene realmente? (no especificada en notas)
 - ¿Dónde está su hermana y cómo está?
-- ¿Qué secretos guarda el Upside Down?
-- ¿Cuál es el límite de su absorción de energía cinética?
-- ¿Puede aprender a activar sus poderes sin necesitar ser golpeado?
-- ¿Qué conexión tiene este lugar con las desapariciones de Amara y Dimitri?
-- ¿Por qué no hay electricidad ni cobertura en esta dimensión?
-- ¿Encontrarán una salida o quedarán atrapados?
+- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
+- ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación)?
+- ¿Cómo afectará a largo plazo el trauma del fuego amigo?
+- ¿Se recuperará completamente de sus heridas?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

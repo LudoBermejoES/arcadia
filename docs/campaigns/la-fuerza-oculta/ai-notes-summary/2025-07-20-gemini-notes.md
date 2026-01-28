@@ -27,7 +27,7 @@ Los personajes inician exploración táctica sistemática:
 - **Preparación**: Grupo no equipado para enfrentar armas de fuego directamente
 
 ### **Coordinación Telepática: Ventaja Táctica**
-**Sique (Kauneda)** proporciona reconocimiento telepático avanzado:
+**Sique** proporciona reconocimiento telepático avanzado:
 
 **Capacidades Demostradas:**
 - **Visualización 4K** del objetivo a través de telepatía
@@ -72,7 +72,7 @@ El equipo desarrolla aproximación sigilosa coordinada:
 - **Múltiples salidas** potencialmente vigiladas
 
 ### **Ejecución de Tácticas de Distracción**
-**Astrid (Xavi)** emplea ilusiones para manipular enemigos:
+**Astrid** emplea ilusiones para manipular enemigos:
 
 **Primera Ilusión Exitosa:**
 - **Recreación perfecta** de guardia capturado
@@ -163,17 +163,17 @@ El equipo debe reorganizar estrategia sin ventaja de comunicación mental:
 
 ### **Desarrollo de Personajes Durante Crisis**
 
-**Sentencia (Eduardo):**
+**Sentencia:**
 - **Liderazgo táctico** en coordinación de ataques múltiples
 - **Adaptabilidad** ante pérdida de comunicación telepática
 - **Evaluación realista** de capacidades del equipo
 
-**Eslizón (Sugus):**
+**Eslizón:**
 - **Efectividad en combate** desde posiciones de ventaja
 - **Coordinación exitosa** con otros miembros del equipo
 - **Contribución científica** en preparación de operación
 
-**Astrid (Xavi):**
+**Astrid:**
 - **Versatilidad técnica** en desactivación de trampas
 - **Habilidades de ilusión** cruciales para táctica de distracción
 - **Conocimientos generales** útiles para identificación de amenazas

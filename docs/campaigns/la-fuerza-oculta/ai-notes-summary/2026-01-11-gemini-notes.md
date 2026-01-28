@@ -15,7 +15,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-11-gemini-notes/
 
 Continuación directa de la sesión anterior. Tras rescatar a las crías bestiales, el grupo debe escapar del desguace mientras un helicóptero hostil los ataca. Un ataque psíquico de Cía provoca la explosión del helicóptero. Posteriormente, el grupo lleva a las crías a Planet Pizza donde intentan relajarse, pero la cobertura mediática negativa de Diana (vídeo filtrado mostrándola matando a un mercenario) provoca una llamada de su padrino Mulcifer invitándolos al casino familiar.
 
-**Jugadores presentes**: Sugus (Eslizón), Conchi (Sique/Psique), Xavi (Pantomima), Edu (Sentencia), Eslizo (Diana), Jandro (Hotman)
+**Personajes presentes**: Eslizón Esmeralda, Sique/Psique, Pantomima, Justa/Sentencia, Diana, Hotman
 
 ---
 
@@ -68,31 +68,31 @@ Continuación directa de la sesión anterior. Tras rescatar a las crías bestial
 
 ## Desarrollo de Personajes
 
-### Cía/Psique (Conchi)
+### Cía/Psique
 - **Momento heroico**: Derriba el helicóptero con ataque mental
 - Se echa sobre Diana instintivamente para protegerla
 - Detecta las ondas mentales de las crías
 
-### Diana (Eslizo)
+### Diana
 - Objetivo de campaña de desprestigio mediático
 - Cuida de las crías con aparente instinto maternal
 - Recibe llamada de su padrino Mulcifer por la crisis
 
-### Sentencia (Edu)
+### Sentencia
 - Conduce la furgoneta durante el escape
 - Descubre capacidades ocultas del vehículo (velocidad extrema, botones de vuelo)
 - Convence a civil de no publicar grabación del grupo
 
-### Hotman (Jandro)
+### Hotman
 - Propone tácticas creativas contra el helicóptero
 - Se hace selfie imprudente en Planet Pizza
 - Hace comentario sobre "instinto maternal" que provoca que le golpeen
 
-### Eslizón (Sugus)
+### Eslizón
 - Presente pero con menos protagonismo esta sesión
-- Importante para la entrega de las crías a La Cacería Salvaje (próxima sesión)
+- Importante para la entrega de las crías a La Cacería Salvaje
 
-### Pantomima (Xavi)
+### Pantomima
 - Detecta ondas mentales de las crías junto a Hotman
 - Pregunta si deberían llevar las crías a su base
 
@@ -168,17 +168,6 @@ Continuación directa de la sesión anterior. Tras rescatar a las crías bestial
 > *"Veneno que quiero morir"* - Los Chunguitos sonando en la furgoneta
 
 > *"¿El instinto maternal de las mujeres?"* - Hotman, justo antes de recibir golpes
-
----
-
-## Conversaciones Fuera de Juego Destacadas
-
-La sesión incluyó conversaciones sobre:
-- Estado de salud de Ana (Jandro informa que está tocada por dolor de espalda)
-- Dificultades editoriales de Eduardo con Apache
-- Trabajos académicos sobre "Danza de Tinieblas"
-- Discusión sobre series (Pluribus, Stranger Things, García)
-- Impresoras 3D (Ernesto muestra primera impresión de barquito)
 
 ---
 

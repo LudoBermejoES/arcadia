@@ -134,34 +134,34 @@ La sesión comienza con **Pantomima** preguntando a **Cacharrero** por **Caos** 
 
 ## Desarrollo de Personajes
 
-### Hotman (Alejandro Salamanca)
+### Hotman
 - **Nuevo Poder**: Descubre capacidad de vuelo/flotación mediante calor
 - **Ventaja Elegida**: "Muy Atractivo" (Nivel 2), +2 a persuadir
 - **Evolución**: De control térmico a propulsión corporal
 - **Aspecto Cómico**: La activación involuntaria durante intimidad
 
-### Sique/Psique (Kauneda Arashi)
+### Sique/Psique
 - **Nuevo Poder**: Ataque mental que aturde oponentes
 - **Mejoras**: Sube Pelea y Control (coherente con entrenamiento reciente)
 - **Combate**: Primera demostración efectiva de poder ofensivo mental
 
-### Pantomima (Xavi Gracia)
+### Pantomima
 - **Conexión con Caos**: Pide a Cacharrero que transmita mensaje a su padre
 - **Monopatín**: Cacharrero demuestra control total, lo devuelve
 - **Habilidad**: Usa latrocinio para abrir cerradura profesional
 - **Disfraz**: Se transforma en mujer bestial canina durante infiltración
 
-### Diana (Ernesto Diezhandino)
+### Diana
 - **Ventaja Elegida**: "Pies Ligeros" (mejora carrera y paso)
 - **Combate**: Embiste efectivamente al hombre del machete
 - **Táctica**: Nota que el líder enemigo golpea tubería enviando señales
 
-### Eslizón Esmeralda (Sugus Blanco)
+### Eslizón Esmeralda
 - **Ventaja Elegida**: "Asesino" (daño extra contra desprevenidos)
 - **Combate**: Desarma pistolero, noquea a enemigo caído
 - **Rol**: Entra primero mostrando forma no humana
 
-### Justa/Sentencia (Eduardo Vaquerizo)
+### Justa/Sentencia
 - **EMP Accidental**: Activa pulso electromagnético por error
 - **Combate**: Dispara con balas de goma, noquea a dos oponentes
 - **Reacción**: Se ríe de Hotman flotando desnudo

@@ -175,32 +175,49 @@ Elena demostró el valor táctico de sus ilusiones en combate:
 - **Cruce del Charco**: Saltó al charco brillante siguiendo a Tiritas y Sergei
 - **Advertencia Crucial**: Advirtió al grupo que **no abrieran una puerta específica** en el Upside Down
 
+### **Escape del Upside Down (25/01/2026)**
+
+Elena participó en el escape de la instalación:
+
+**Combate:**
+- Lanzó un cuchillo que aturdió a una avispa (tirada de Atletismo exitosa)
+- Sus ilusiones continúan siendo efectivas para distracciones
+
+**Supervivencia:**
+- Primera en probar el pescado capturado para verificar que era comestible
+- La **fatiga afectó su control de ilusiones**, creando imágenes desagradables sin querer
+- Sugirió usar una bengala para atraer al barco pesquero
+
+**Estado:**
+- Exhaustada pero funcional
+- Su impulsividad se mantuvo bajo control durante la crisis
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ## Situación Actual (Enero 2026)
 
-Elena ha cruzado al "Upside Down" junto con sus compañeros, demostrando que sus ilusiones son una herramienta táctica valiosa. Su rol como especialista en distracción y apoyo se ha consolidado.
+Elena ha escapado del Upside Down junto con sus compañeros. Su rol como apoyo y probadora de comida (primera en probar el pescado) demostró pragmatismo. La fatiga extrema afectó su control de poderes, creando ilusiones involuntarias.
 
 ### **Evolución Reciente**
 
-- **Valor Táctico**: Sus ilusiones (pájaro gigante) son efectivas para distraer enemigos
-- **Rol de Apoyo**: Prefiere animar y apoyar desde la retaguardia
-- **Intuición**: Su advertencia sobre la puerta sugiere percepción especial
-- **Parte del Equipo**: Ha dejado de ser "la nueva" para ser miembro pleno del grupo
+- **Valor Táctico**: Aturdió una avispa con lanzamiento de cuchillo
+- **Madurez en Crisis**: Mantuvo la impulsividad bajo control durante la emergencia
+- **Vulnerabilidad Revelada**: La fatiga hace que pierda control de sus ilusiones
+- **Parte del Equipo**: Contribuyó de manera práctica durante la supervivencia
 
 ### **Preguntas Abiertas**
 
 - ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
 - ¿Tiene familia en el exterior?
 - ¿Cuál es su edad exacta?
-- ¿Por qué advirtió que no abrieran esa puerta específica?
-- ¿Qué secretos guarda el Upside Down?
-- ¿Sus ilusiones serán clave para sobrevivir en esta dimensión?
-- ¿Encontrarán a Amara y Dimitri?
+- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
+- ¿Cómo afectará la fatiga extrema a su control de poderes a largo plazo?
+- ¿Encontrarán a Amara? (Dimitri parece confirmado como cadáver)
 
 ## Desarrollo Potencial
 El arco de Elena podría explorar:

@@ -454,7 +454,29 @@ Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó 
 
 ---
 
-## 🎯 Estado Actual (Noviembre 2025)
+## 🎯 Estado Actual (Enero 2026)
+
+### ⚠️ SITUACIÓN CRÍTICA: INCAPACITADA
+
+**Estado**: Incapacitada por dos impactos de rifle de pulsos (25 Enero 2026)
+
+Pantomima fue alcanzada por dos disparos de rifle de pulsos durante la emboscada de Metacorps al salir del Casino de Dionisios. Quedó completamente incapacitada y fue rescatada por Justa, quien la subió a la furgoneta a pesar de estar ella misma herida de gravedad.
+
+**Ubicación actual**: En la furgoneta en fuga, inconsciente
+
+### Resolución del Dilema Moral (25 Enero 2026)
+
+- **Rechazó** aceptar el dinero de Mulcifer
+- Posición: *"No quiero que me asocien con actividades ilícitas de ningún tipo"*
+- Expresó preocupación: *"No quiero arriesgarse a que nos pidan algo"*
+- Aceptó que el dinero se limite a Diana y Sique exclusivamente
+
+### Combate en la Emboscada
+
+- Creó **ilusiones duplicando a todos los compañeros** moviéndose hacia la furgoneta
+- Las ilusiones confundieron brevemente a los Metacorps
+- Un Metacorp lanzó una **granada aturdidora** en el grupo de ilusiones
+- **Dos impactos de rifle de pulsos** la dejaron completamente incapacitada
 
 ### Identidad
 
@@ -578,6 +600,12 @@ Durante la crisis en **Isla Sal** (7 de diciembre de 2025), Pantomima enfrentó 
 - [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/) - Fiesta de Eneiros
 - [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) - Ataque mercenario y pérdida de poderes
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
+
+**Fase Crisis (Enero 2026)**:
+- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada e Incapacitación
+- [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ---
 

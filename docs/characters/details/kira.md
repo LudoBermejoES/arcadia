@@ -173,40 +173,71 @@ Kira demostró tanto poder devastador como vulnerabilidad en combate:
 - **GPS Fallido**: Intentó usar el GPS sin éxito - no hay cobertura en el Upside Down
 - **Cruce del Charco**: Saltó al charco brillante siguiendo a Tiritas
 
+### **Pifia Traumática y Escape del Upside Down (25/01/2026)**
+
+La sesión más difícil emocionalmente para Kira:
+
+**El Incidente del Fuego Amigo:**
+- Intentó atacar a una avispa aturdida con su poder eléctrico
+- **Pifia crítica (doble uno)**: El ataque falló catastróficamente
+- Dado de 6 para determinar víctima: el resultado fue **Tiritas**
+- Su ataque eléctrico hirió gravemente a su compañero con **4 heridas**
+- Dejó a Tiritas al borde de la muerte
+
+**Redención Inmediata:**
+- Usó su ventaja de "curandero" para **estabilizar a Tiritas** con primeros auxilios
+- Tirada exitosa a pesar de -2 por falta de entrenamiento en medicina
+- Evitó que Tiritas muriera, aunque quedó inconsciente
+- Más tarde lo estabilizó definitivamente con inyección de adrenalina
+
+**Uso Creativo de Poderes:**
+- **Destruyó huevos** de las avispas a petición de Sergei
+- **Desató explosión de rayos** para destruir la zona de huevos tras encontrar el cadáver
+- **Concentró energía** (gastando Benny) para volar escombros y abrir la salida
+- **Recargó un móvil** con su electricidad para usar GPS
+- **Cocinó cangrejitos y pescado** para el grupo durante la supervivencia
+
+**Escape y Supervivencia:**
+- Lideró el escape con explosión de energía para despejar escombros
+- Se elevó 25 metros para divisar la cala desde altura
+- Participó en la travesía por el desierto y escape en lancha
+- Mostró paranoia sobre el reformatorio durante el viaje
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ## Situación Actual (Enero 2026)
 
-Kira ha cruzado al "Upside Down" junto con sus compañeros, adentrándose en un territorio sin electricidad ni cobertura telefónica. A pesar de su corta estancia en el reformatorio, se ha convertido en una de las principales fuerzas ofensivas del grupo.
+Kira ha escapado del Upside Down, pero carga con un nuevo trauma: casi matar a su compañero Tiritas con un ataque eléctrico accidental. Este incidente resuena poderosamente con su historia personal - ya había dejado a un compañero en coma por falta de control.
 
 ### **Evolución Reciente**
 
-- **Poder Ofensivo Clave**: Sus ataques eléctricos a distancia son devastadores contra las avispas
-- **Vulnerabilidad Aprendida**: Fue herida en combate, aprendiendo que no es invulnerable
-- **Resiliencia**: Se recuperó de estar aturdida con una tirada de espíritu exitosa
-- **Limitaciones del Upside Down**: Su electricidad no puede alimentar dispositivos sin corriente
+- **Nuevo Trauma**: La pifia que hirió a Tiritas repite su mayor miedo - lastimar sin querer
+- **Redención**: Salvó la vida de Tiritas estabilizándolo, demostrando crecimiento
+- **Versatilidad de Poderes**: Usó electricidad para destruir, cocinar, recargar y escapar
+- **Liderazgo en Crisis**: Tomó decisiones clave durante el escape
 
-### **Desafíos Actuales**
+### **Impacto Psicológico**
 
-- Sobrevivir en el Upside Down sin cobertura ni electricidad ambiental
-- Protegerse mientras mantiene su rol ofensivo
-- Descubrir qué conexión tiene este lugar con las desapariciones
-- Trabajar en equipo con Sergei, Tiritas y Elena
+El incidente del fuego amigo tiene paralelos directos con el accidente que la llevó al reformatorio:
+- Primera vez: Dejó a un compañero en coma sin saberlo
+- Esta vez: Hirió gravemente a Tiritas por pifia en combate
+- Diferencia crucial: Pudo salvarlo inmediatamente con primeros auxilios
+- Posible crecimiento: Aprendió que puede reparar sus errores
 
 ### **Preguntas Abiertas**
 
-- ¿Se recuperará el compañero que dejó en coma?
-- ¿Podrá regresar a casa pronto como sugirió la Señorita Mora?
-- ¿Qué secretos guarda el Upside Down?
-- ¿Hay un telépata o controlador mental detrás de todo esto?
-- ¿Por qué no hay electricidad en esta dimensión?
-- ¿Encontrarán a Amara y Dimitri en este lugar?
-- ¿Podrán volver al reformatorio?
+- ¿Cómo procesará haber herido a otro compañero?
+- ¿El incidente fortalecerá o debilitará su relación con Tiritas?
+- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
+- ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación)?
+- ¿Su paranoia sobre el reformatorio está justificada?
+- ¿Se recuperará el compañero original que dejó en coma?
 
 ## Desarrollo Potencial
 El arco de Kira podría explorar:

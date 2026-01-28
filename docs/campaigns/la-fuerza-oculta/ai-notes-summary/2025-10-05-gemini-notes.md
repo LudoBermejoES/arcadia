@@ -113,21 +113,21 @@ La Fuerza Oculta continúa su búsqueda de Cacharrero mientras experimentan disc
 
 ## 🎭 Desarrollo de Personajes
 
-### Justa (Eduardo)
+### Justa
 - **Activismo Social**: Profundamente afectada por discriminación a Mambo & Zambo
 - **Solidaridad Práctica**: Paga pizzas como gesto de apoyo
 - **Conexión Personal**: El Bastón del Faraón tiene significado emocional
 - **Crisis de Imagen**: Hotman compromete su cuartada (tiene que cambiar pelo de pelirrojo rizado a original)
 - **Vida Privada Expuesta**: Relación con Hotman se hace pública
 
-### Hotman (Alejandro)
+### Hotman
 - **Activismo Digital**: Crea campaña viral contra brutalidad policial
 - **Éxito Profesional**: Video más visitado de su carrera
 - **Metedura de Pata**: Expone accidentalmente relación con Justa
 - **Investigación Efectiva**: Descubre obsesión de Cacharrero por carreras
 - **Conexión Social**: Establece vínculo con Mambo, Zambo y potencialmente Zanny
 
-### Kayface (Xavi)
+### Kayface
 - **Catalizador de Conflicto**: Su ilusión desencadena discusión social importante
 - **Investigación Meticulosa**: Confirma patrones de comportamiento de Cacharrero
 - **Decisión de Liderazgo**: Elige la opción de las carreras para el grupo

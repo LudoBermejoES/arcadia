@@ -210,37 +210,37 @@ Presentados en la línea de salida:
 
 ## 🎭 Desarrollo de Personajes
 
-### Diana (Eslizo)
+### Diana
 - **Uso Estratégico de Privilegio**: Emplea nombre familiar para obtener acceso
 - **Liderazgo Social**: Toma la iniciativa en negociaciones de alto nivel
 - **Inversión Financiera**: Paga consistentemente por servicios del grupo
 - **Reconocimiento Público**: Su fama como parte de La Fuerza Oculta es conocida
 
-### Justa/Sentencia (Eduardo)
+### Justa/Sentencia
 - **Disfraz Efectivo**: Se infiltra como ejecutiva sin ser reconocida
 - **Adaptabilidad**: Aprende a manejar vehículo tecnológicamente avanzado
 - **Disciplina**: Resiste tentación de experimentar con controles desconocidos
 - **Preparación**: Dedica día y medio a familiarizarse con el Bugatti
 
-### Kayface/Astrid (Xavi)
+### Kayface/Astrid
 - **Piloto Designado**: Elegido para conducir en la carrera oficial
 - **Fenómeno Misterioso**: Experiencia con emanación del Bugatti
 - **Observación Táctica**: Identifica cámaras y medidas de seguridad
 - **Uso de Conexiones**: Aprovecha relación laboral con empresa de Espectro
 
-### Hotman (Jandro)
+### Hotman
 - **Contactos Útiles**: Nacho Smück como fuente de información
 - **Saboteador Impulsivo**: Calienta depósito rival antes de carrera
 - **Reconocimiento Público**: Identificado por Tanaka y Valentina
 - **Documentador**: Graba momentos para contenido posterior
 
-### Eslizón Esmeralda (Sugus)
+### Eslizón Esmeralda
 - **Planificación Avanzada**: Llega al garaje antes que el resto
 - **Investigación Previa**: Consulta con experto en coches
 - **Documentación Estratégica**: Graba competidores para análisis
 - **Coordinación**: Sincronización perfecta con el grupo
 
-### Psique/Cia (Conchi)
+### Psique/Cia
 - **Bajo Perfil**: No mencionada activamente en esta sesión
 - **Coordinación Telepática**: Probablemente manteniendo comunicación grupal
 - **Apoyo Silencioso**: Presente pero sin acciones destacadas documentadas

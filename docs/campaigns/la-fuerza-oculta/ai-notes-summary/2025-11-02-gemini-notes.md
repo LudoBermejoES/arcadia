@@ -120,7 +120,7 @@ Durante la carrera ilegal a través de los puentes de Arcadia, el Bugatti de Som
 
 ## 🎭 Desarrollo de Personajes
 
-### Pantomima/Kayface/Astrid (Xavi)
+### Pantomima/Kayface/Astrid
 - **Transformación de Identidad**: De huérfana superviviente a heredera de legado poderoso
 - **Adopción Oficial del Nombre**: "Pantomima" como identidad definitiva
 - **Revelación Traumática**: Padre es supervillano, abuelo desaparecido

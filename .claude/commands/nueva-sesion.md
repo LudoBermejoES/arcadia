@@ -145,6 +145,11 @@ Después de leer el contenido de la sesión, evalúa si necesitas actualizar:
   - `docs/characters/details/mencia-psique-cia.md`
   - `docs/characters/details/justa-justicia-sentencia.md`
   - `docs/characters/details/hotman.md`
+  - `docs/characters/details/tiritas.md`
+  - `docs/characters/details/kira.md`
+  - `docs/characters/details/elena-exposito.md`
+  - `docs/characters/details/sergei.md`
+
 
 - **Ficha del grupo** (`docs/groups/la-fuerza-oculta.md`) si hay cambios de equipo
 
@@ -162,7 +167,7 @@ Presenta al usuario este checklist antes de hacer commit:
 ### Obligatorio - Archivos de sesión:
 - [ ] Crear/verificar manual-notes/session-XX-YYYY-MM-DD.md
 - [ ] Crear/verificar ai-notes/YYYY-MM-DD-gemini-notes.md (transcripción cruda)
-- [ ] Crear/verificar ai-notes-summary/YYYY-MM-DD-gemini-notes.md (resumen analítico)
+- [ ] Crear/verificar ai-notes-summary/YYYY-MM-DD-gemini-notes.md (resumen analítico pero estrictamente enfocado en la sesión de juego y los personajes, no en los comentarios fuera de la sesión de rol). Para este resumen usa siempre los nombres de los personajes, nunca los del jugador, y trata a Ludo Bermejo como narrador
 
 ### Obligatorio - Índices (revisar TODOS):
 - [ ] Actualizar [campaña]/index.md (principal)

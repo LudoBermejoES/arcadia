@@ -297,6 +297,18 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ## 📊 Estado Actual (Enero 2026)
 
+### ⚠️ SITUACIÓN CRÍTICA: BAJO ARRESTO
+
+**Estado**: Detenida voluntariamente por Metacorps (25 Enero 2026)
+
+Diana se entregó voluntariamente a los Metacorps durante la emboscada al salir del Casino de Dionisios. Su postura siempre había sido "hablar con los que vinieran a buscarlos", y cuando el combate dejó a Hotman y Pantomima incapacitados, eligió rendirse para evitar más violencia.
+
+**Circunstancias de la captura**:
+- Emboscada de Metacorps en el parking del casino
+- Combate intenso dejó al grupo malherido
+- Levantó las manos voluntariamente ante los Metacorps
+- Justa intentó volver a rescatarla pero Diana ya se estaba entregando
+
 ### Capacidades Tácticas
 
 - Atacante principal del equipo
@@ -318,26 +330,26 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Duelo de Apolo sin cierre posible
 - ¿Buscar a su hermano o aceptar la distancia?
 
-### Crisis de Imagen Pública (Enero 2026)
+### Resolución del Dilema Moral (25 Enero 2026)
 
-- **Vídeo filtrado** la muestra matando a un mercenario
-- **Operación de desprestigio** selectiva dirigida contra ella
-- Autoridades buscan contactarla
-- **Mulcifer** ofrece ayuda desde Fatum
-- Próximo paso: Reunión en el casino familiar de Fatum
+- **Aceptó la ayuda de Mulcifer** a título personal (no en nombre de La Fuerza Oculta)
+- Junto con Sique, recibió **llaves de una mansión segura** de Mulcifer
+- Justificación: *"Mi existencia está manchada de sangre. No puedo pretender superioridad moral."*
+- El dinero y recursos quedan limitados a ella y Sique exclusivamente
 
 ### Situación Financiera
 
 - Fideicomiso desbloqueado: **120.000 euros anuales**
 - Financiera principal del grupo
 - Gestión de mansión familiar en Arcadia
-- Mantiene distanciamiento de Fatum
+- **Nuevo recurso**: Acceso a mansión segura de Mulcifer
 
 ### Vulnerabilidades Conocidas
 
 - Supresores químicos anulan poderes completamente
 - Trauma ante vulnerabilidad física desencadena furia descontrolada
 - Revelación de Apolo afecta estabilidad emocional
+- **Actualmente bajo custodia de Metacorps**
 
 ---
 
@@ -401,6 +413,8 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Arresto
+- [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales

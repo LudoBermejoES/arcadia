@@ -13,22 +13,22 @@ La sesión inicia con el proceso mecánico y narrativo de desarrollo de habilida
 
 **Decisiones de Mejora por Personaje:**
 
-**Eslizón Esmeralda (Sugus):**
+**Eslizón Esmeralda:**
 - **Fuerza aumentada** de d8 a d10
 - **Justificación narrativa**: Su especialización en combate cuerpo a cuerpo
 - **Impacto funcional**: Mayor efectividad "metiendo hostias"
 
-**Sentencia/Justa (Eduardo):**
+**Sentencia/Justa:**
 - **Fuerza aumentada** de d6 a d8  
 - **Objetivo**: Incrementar daño en combate melé
 - **Evolución física**: Transformación corporal hacia mayor musculatura
 
-**Astrid (Xavi):**
+**Astrid:**
 - **Pilotar monopatín** y **Common Knowledge** mejoradas a d6
 - **Estrategia**: Ambas habilidades bajo su atributo de Agilidad d8
 - **Enfoque**: Versatilidad en transporte y conocimientos generales
 
-**Sique (Kauneda):**
+**Sique :**
 - **Agilidad aumentada** de d4 a d6
 - **Planificación**: Preparación para mejorar "Fighting" posteriormente
 - **Desarrollo**: Base para futuras mejoras de combate
@@ -69,8 +69,7 @@ El grupo desarrolla estrategias para contactar familias sin comprometer ubicaci�
 
 **Métodos Planificados:**
 - **Cabinas telefónicas** para evitar rastreo del teléfono satelital
-- **Cartas escritas** como alternativa no-rastreable (Sugus)
-- **Mensajes en clave** para comunicación con familiares de confianza
+- **Cartas escritas** como alternativa no-rastreable- **Mensajes en clave** para comunicación con familiares de confianza
 - **Precauciones**: Todos los teléfonos pueden ser rastreados por autoridades
 
 **Motivaciones Emocionales:**
@@ -120,12 +119,12 @@ El grupo desarrolla estrategia de infiltración compleja:
 ### **Coordinación de Equipo Durante Preparación**
 Distribución de responsabilidades mientras esperan:
 
-**Sentencia (Eduardo):**
+**Sentencia:**
 - **Entrenamiento con armas** en sótano durante 3 días
 - **Familiarización** con equipamiento recuperado
 - **Preparación física** para operaciones de combate
 
-**Astrid (Xavi):**
+**Astrid:**
 - **Asistencia con mezcla química** a Eslizón
 - **Práctica con monopatín volador** para dominio de transporte
 - **Desarrollo de habilidades** de apoyo técnico

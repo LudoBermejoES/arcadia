@@ -323,12 +323,25 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Speeches memorables sobre ética, justicia y el legado de los padres
   - Decisión pendiente para próxima sesión
 
+- **[Sesión 48 - 25 Enero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/)** - *"La Decisión Dividida y la Emboscada de Metacorps"*
+  - **Resolución del dilema**: Diana y Sique aceptan el dinero a título personal; Justa, Hotman y Pantomima rechazan
+  - Mulcifer entrega **llaves de mansión segura** a Diana y Sique
+  - Tarjeta de Mulcifer: "**miembro del grupo Fatum**"
+  - **Emboscada de Metacorps** al salir del casino en el parking
+  - Combate intenso: ilusiones de Pantomima, ataques mentales de Sique, rifles de pulsos de Metacorps
+  - **Hotman y Pantomima incapacitados** por disparos de rifles de pulsos
+  - **Justa herida grave** pero sube a Hotman y Pantomima a la furgoneta
+  - **Justa atropella involuntariamente a dos Metacorps** (pifia + heridas)
+  - **Diana se entrega voluntariamente** a los Metacorps
+  - **Justa huye en la furgoneta** con los heridos
+  - Primera división física del grupo
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 43 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 44 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Enero 2026 (23 meses)
 - **Páginas Estimadas**: ~620 páginas de notas detalladas
 - **Horas de Juego**: ~125 horas registradas

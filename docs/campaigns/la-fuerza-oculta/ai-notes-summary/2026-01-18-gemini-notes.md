@@ -15,7 +15,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/
 
 Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tras la aparición de vídeos manipulados que muestran a La Fuerza Oculta (especialmente a Diana) en acciones violentas, un comunicado desastroso de Hotman empeora la situación. El grupo visita el Casino de Dionisios donde conocen a **Mulcifer**, el padrino de Diana: un hombre de obsidiana de 2.40m que fabrica armas metahumanas. Les revela que la familia de Diana se fusionará con Telaraña y les ofrece ayuda financiera y material "manchada de sangre". Esto desencadena un intenso debate ético entre Justa (que rechaza por principios) y Diana (que defiende usar herramientas manchadas para hacer el bien).
 
-**Jugadores presentes**: Sugus (Eslizón), Conchi (Sique/Psique), Xavi (Pantomima), Edu (Sentencia), Ernesto (Diana), Jandro (Hotman)
+**Personajes presentes**: Eslizón Esmeralda, Sique/Psique, Pantomima, Justa/Sentencia, Diana, Hotman
 
 ---
 
@@ -78,33 +78,33 @@ Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tr
 
 ## Desarrollo de Personajes
 
-### Justa/Sentencia (Edu)
+### Justa/Sentencia
 - **Momento clave**: Speech épico sobre la justicia y la memoria de su padre
 - Evolución moral profunda: no rechaza por legalismo sino por convicción personal
 - "Mi padre fue un metacorp, pero también era un hombre que creía que su trabajo tenía un sentido"
 - Clarifica que no juzga a los demás por sus orígenes (Diana, Hotman, Astrid)
 
-### Diana (Ernesto)
+### Diana
 - **Momento clave**: Respuesta filosófica elaborada a Justa
 - Revela inseguridades sobre su propia familia: "Yo soy su tumba"
 - Propone solución pragmática: "Poner un pie en el barro sin arrodillarse"
 - Muestra liderazgo intentando mediar entre principios y supervivencia
 
-### Hotman (Jandro)
+### Hotman
 - Causa crisis adicional con comunicado mal ejecutado
 - Posición ética: "Yo no quiero que por ser metahumano me chuleen"
 - Señala que Mulcifer "no es de fiar" pero tampoco él mismo lo es siempre
 
-### Sique/Psique (Conchi)
+### Sique/Psique
 - Establece enlace mental grupal para la discusión privada
 - Posición: acepta que el dinero manchado puede convertirse en "herramienta del bien"
 - "Nosotros también tenemos las manos manchadas"
 
-### Pantomima (Xavi)
+### Pantomima
 - Advierte sobre las consecuencias de asociarse financieramente con criminales
 - Menos protagonismo en el debate moral
 
-### Eslizón (Sugus)
+### Eslizón
 - Presente pero con menos intervención directa
 - Observa el debate moral desde una perspectiva más neutral
 
@@ -125,7 +125,7 @@ Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tr
 - Diana podría ser usada como "medio de influencia" sobre la familia
 - El fideicomiso de Diana proviene de "actividades legales", lo que ofrece Mulcifer no
 
-### Sobre los Padres Biológicos de Diana (Revelación en conversación posterior)
+### Sobre los Padres Biológicos de Diana
 
 - Se llamaban **Cloris y Janus**
 - Diana sospecha que "su muerte alimentó su vida" - integraron su ADN en ella antes de desaparecer
@@ -199,52 +199,6 @@ Sesión dominada por la crisis de imagen pública y un profundo dilema moral. Tr
 
 ---
 
-## Conversación Posterior a la Sesión
+*La sesión marca un punto de inflexión ético para el grupo. La oferta de Mulcifer fuerza a cada personaje a definir sus límites morales. El debate entre Justa y Diana es uno de los momentos más filosóficos de toda la campaña, enfrentando dos visiones válidas sobre cómo hacer el bien en un mundo corrupto.*
 
-El debate filosófico continuó fuera de la sesión, profundizando en los argumentos de cada personaje:
-
-### Preguntas de Diana
-
-Diana plantea dos preguntas directas que enmarcan el dilema:
-1. ¿Qué perdemos nosotros si aceptamos?
-2. ¿Qué pasa si decimos que no?
-
-Su conclusión: *"Si una de las respuestas a la segunda es 'podemos salvar a menos inocentes', para mí no hay más discusión."*
-
-### Intervención de Psique
-
-Psique ofrece una perspectiva pragmática sobre el dinero como herramienta neutral:
-> "Todos sabemos que este dinero tiene sombras. Pero es solo una herramienta, como nuestros poderes. No son buenos ni malos por sí mismos, lo que importa es cómo los usamos. Rechazar el dinero no lo limpia. Usarlo bien, quizá sí."
-
-### Propuesta Concreta de Diana
-
-Diana ofrece una solución intermedia con condiciones claras:
-
-- **Principio**: "Poner un pie en el barro sin arrodillarse"
-- **Diferencia clave**: Pactar te ata, pero utilizar a alguien y después "tirarlo a la basura" te libera
-- **Condiciones**: Justa debe definir los límites y escribir las condiciones
-- **Restricciones**: Sin juramentos, sin favores futuros, sin "ya me lo devolveréis"
-- **Resultado**: Si Mulcifer acepta, hay intercambio; si no, no hay trato
-
-### Petición Final
-
-Diana pide a Justa que use sus principios como estratega: *"Si no ponemos nosotras las reglas, las pondrán otros que no te tienen a ti como conciencia."*
-
----
-
-## Elementos Meta y Fuera de Juego
-
-La sesión incluyó:
-
-- Discusión sobre política actual (Trump, ICE, simbolismo nazi)
-- Problemas técnicos de Foundry con Kauneda Arashi
-- Generación de imágenes de vestimenta de gala con IA
-- Referencias a dibujantes de cómics (John Byrne, Rob Liefeld)
-- Vídeo de introducción de la campaña (130 imágenes de eventos pasados)
-- **Conversación posterior**: El debate filosófico continuó fuera de sesión por chat
-
----
-
-*La sesión marca un punto de inflexión ético para el grupo. La oferta de Mulcifer fuerza a cada personaje a definir sus límites morales. El debate entre Justa y Diana es uno de los momentos más filosóficos de toda la campaña, enfrentando dos visiones válidas sobre cómo hacer el bien en un mundo corrupto. La conversación posterior profundiza aún más en estos temas, con Diana revelando información sobre sus padres biológicos (Cloris y Janus) y proponiendo una solución intermedia que requiere que Justa defina las condiciones del acuerdo.*
-
-**Duración aproximada**: ~3 horas (+ conversación posterior)
+**Duración aproximada**: ~3 horas

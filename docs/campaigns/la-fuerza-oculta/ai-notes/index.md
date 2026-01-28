@@ -414,10 +414,32 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-01-25 - La Decisión Dividida y la Emboscada de Metacorps](../ai-notes-summary/2026-01-25-gemini-notes.md)
+
+**"División Moral y Captura de Diana"**
+
+- ⚖️ **Resolución del Dilema**: Diana y Sique aceptan el dinero a título personal; Justa, Hotman y Pantomima rechazan
+- 🔑 **Recursos de Mulcifer**: Entrega llaves de mansión segura a Diana y Sique
+- 🃏 **Tarjeta de Fatum**: Mulcifer se identifica como "miembro del grupo Fatum"
+- 💥 **Emboscada de Metacorps**: Ataque sorpresa al salir del casino
+- 🎭 **Ilusiones de Pantomima**: Crea duplicados del grupo para confundir atacantes
+- 🔫 **Rifles de Pulsos**: Metacorps usan armas no letales en modo aturdidor
+- 💔 **Bajas del Grupo**: Hotman y Pantomima incapacitados, Justa y Cía heridas graves
+- 🚐 **Rescate Heroico**: Justa malherida sube a Hotman y Pantomima a la furgoneta
+- 💥 **Atropello Involuntario**: Justa atropella dos Metacorps (pifia + heridas)
+- 🙌 **Rendición de Diana**: Se entrega voluntariamente a los Metacorps
+- 🏃‍♀️ **Huida de Justa**: Escapa en la furgoneta con los heridos
+
+**Duración**: ~3 horas | **Palabras**: ~20,000 | **Páginas**: ~52
+
+**🎯 NOTA ESPECIAL**: Primera vez que el grupo queda físicamente dividido. Diana bajo arresto marca un punto de inflexión dramático en la campaña.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 26 sesiones completas
+- **Total de Transcripciones**: 27 sesiones completas
 - **Período Cubierto**: Junio 2025 - Enero 2026 (8 meses intensivos)
 - **Palabras Totales**: ~437,500 palabras transcritas
 - **Páginas Equivalentes**: ~1,120 páginas de contenido

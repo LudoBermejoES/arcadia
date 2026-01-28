@@ -11,11 +11,11 @@ permalink: /campaigns/la-fuerza-oculta/2025-06-15-gemini-notes/
 ### **Contexto Posterior al Juicio**
 La sesión arranca tras los eventos críticos del juicio donde el grupo de superhéroes adolescentes fue condenado. Los personajes principales incluyen:
 
-- **Justa/Sentencia** (Eduardo) - Una menor que decidió cambiar su nombre tras perder fe en la justicia de Arcadia
-- **Eslizón Esmeralda** (Sugus) - Personaje lagarto con habilidades únicas
-- **Astrid** (Xavi) - Joven con poderes de ilusión
-- **Diana** (Conchi/Sique) - Heredera con conexiones familiares poderosas
-- **Hotman** (Jandro) - Personaje con poderes de calor
+- **Justa/Sentencia** - Una menor que decidió cambiar su nombre tras perder fe en la justicia de Arcadia
+- **Eslizón Esmeralda** - Personaje lagarto con habilidades únicas
+- **Astrid** - Joven con poderes de ilusión
+- **Diana** - Heredera con conexiones familiares poderosas
+- **Hotman** - Personaje con poderes de calor
 
 ### **La Gran Evasión Organizada**
 Los personajes rechazaron las condiciones impuestas por el tribunal que incluían:

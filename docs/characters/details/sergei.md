@@ -125,22 +125,44 @@ La exploración del misterio del charco alcanzó un nuevo nivel:
 - **Exploración**: Descubrió salas con cajas, monitores apagados, y un cono lleno de arañas
 - **Combate Final**: Participó en el enfrentamiento contra la última avispa antes de terminar la sesión
 
+### **Escape del Upside Down (25/01/2026)**
+
+Sergei jugó un papel crucial en el escape de la instalación:
+
+**Combate y Descubrimientos:**
+- Eliminó la última avispa con su brazo-espada
+- Experimentó destruyendo un huevo con ayuda de Kira ("un buen experimento")
+- **Descubrió el cadáver**: Encontró la mano con anillos de la chica desaparecida entre los huevos
+- **Desencadenó el colapso**: Al arrancar el brazo del cadáver, los huevos comenzaron a eclosionar
+
+**Escape de la Instalación:**
+- **Transformación en herramientas**: Licuó su cuerpo para convertirse en pico y taladro
+- Ayudó a despejar los escombros que bloqueaban la salida
+- Descubrió que había **5 niveles subterráneos** y que la demolición fue **intencionada**
+
+**Supervivencia:**
+- Gastó su **último Benny** para asegurar el escape en la lancha
+- Se desmayó de agotamiento durante el viaje
+- Tiritas lo usó como sombra mientras navegaban
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 
 ## Situación Actual (Enero 2026)
 
-Sergei ha cruzado al "Upside Down" junto con sus compañeros, adentrándose en territorio completamente desconocido. Su veteranía en el reformatorio no le preparó para lo que encontraron al otro lado del charco: un mundo de óxido, polvo e insectos sin cobertura telefónica.
+Sergei ha escapado del Upside Down junto con sus compañeros, pero está exhausto y sin recursos. Fue él quien descubrió el cadáver de la desaparecida y desencadenó accidentalmente el colapso de la instalación.
 
 ### **Evolución Reciente**
 
-- **Combate Veterano**: Cuatro sesiones de enfrentamientos contra avispas gigantes le han convertido en un luchador experimentado
-- **Uso Creativo de Poderes**: Su brazo reptante demuestra pensamiento táctico avanzado
-- **Líder de Exploración**: Mantiene su rol de veterano guiando al grupo en territorio desconocido
+- **Transformación Avanzada**: Demostró poder convertirse en herramientas complejas (pico, taladro)
+- **Descubridor del Horror**: Encontró el cadáver y confirmó el destino de los desaparecidos
+- **Agotamiento Total**: Gastó su último Benny y se desmayó de agotamiento
+- **Información Crucial**: Sabe que la demolición de las escaleras fue intencionada
 
 ### **Preguntas Abiertas**
 
@@ -148,10 +170,9 @@ Sergei ha cruzado al "Upside Down" junto con sus compañeros, adentrándose en t
 - **¿Qué causó su pérdida de memoria?** (revelado en Sesión 2)
 - **¿Qué significan sus pesadillas recurrentes?** (se despierta alterado sin recordar)
 - ¿Tiene familia fuera o el reformatorio es su único hogar?
-- **¿Los flashbacks eventualmente revelarán su pasado?**
-- ¿Qué encontrarán en el Upside Down?
-- ¿Por qué no hay electricidad ni cobertura en esta dimensión?
-- ¿Su amnesia está relacionada con los misterios del reformatorio y el charco?
+- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
+- ¿Podrán denunciar lo que descubrieron?
+- ¿Su amnesia está relacionada con los misterios del reformatorio?
 
 ---
 

@@ -253,6 +253,101 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+### 🌙 **Noviembre 2025 - Orígenes y Secretos**
+
+#### [📊 Sesión 2 de Noviembre](../ai-notes-summary/2025-11-02-gemini-notes.md)
+**"Puente de Moebius y el Origen de Pantomima"**
+- 🌉 **Puente de Moebius**: Nuevo territorio explorado con anomalías arquitectónicas
+- 🎭 **Revelaciones de Pantomima**: Secretos sobre su pasado descubiertos
+- 🔍 **Investigación Continua**: El grupo profundiza en misterios de Arcadia
+- 🤝 **Alianzas**: Nuevos contactos establecidos
+
+**Temas Clave**: Orígenes de personajes, exploración urbana, secretos revelados
+
+---
+
+### ❄️ **Diciembre 2025 - Crisis Familiar y Rescate**
+
+#### [📊 Sesión 21 de Diciembre](../ai-notes-summary/2025-12-21-gemini-notes.md)
+**"Investigación Padre Bestia y Vuelo de Hotman"**
+- ⬆️ **Nuevos Poderes**: Hotman descubre capacidad de vuelo
+- 🐺 **Misión para La Cacería**: Investigación del Padre Bestia continúa
+- ⚡ **Crisis Tecnológica**: Pulso electromagnético apaga el Distrito Mercury
+
+**Temas Clave**: Evolución de poderes, alianzas con vigilantes, amenazas tecnológicas
+
+---
+
+#### [📊 Sesión 28 de Diciembre](../ai-notes-summary/2025-12-28-gemini-notes.md)
+**"El Cubil de las Bestias"**
+- 🎖️ **Enemigos Profesionales**: Mercenarios de Constellis identificados
+- 💀 **Tortura Psicológica**: Diana interroga brutalmente a mercenario capturado
+- 📍 **Localización del Objetivo**: Las crías bestiales están en un desguace
+- 🌍 **Conspiración Internacional**: USA interesado en crear humanos bestiales controlados
+
+**Temas Clave**: Métodos cuestionables, enemigos corporativos, conspiraciones internacionales
+
+---
+
+### 🎄 **Enero 2026 - Rescate, Crisis y División**
+
+#### [📊 Sesión 4 de Enero](../ai-notes-summary/2026-01-04-gemini-notes.md)
+**"Operación Desguace - Asalto Coordinado"**
+- 🎯 **Táctica Coordinada**: Protocolo Dame Veneno para interferir comunicaciones
+- ⚔️ **Combate Profesional**: El grupo opera con eficiencia militar
+- 🐺 **Rescate Parcial**: 4 de 6 crías bestiales rescatadas con éxito
+- 💀 **Consecuencias**: Diana mata a dos mercenarios enemigos
+
+**Temas Clave**: Operaciones coordinadas, rescate, costes morales de la violencia
+
+---
+
+#### [📊 Sesión 11 de Enero](../ai-notes-summary/2026-01-11-gemini-notes.md)
+**"Explosión del Helicóptero y Crisis Mediática"**
+- 💥 **Poder Devastador**: Cía derriba helicóptero con ataque mental
+- 🚐 **Descubrimientos Tecnológicos**: Furgoneta con capacidades de 300 km/h y vuelo
+- 📺 **Crisis de Imagen**: Vídeo filtrado de Diana matando a mercenario
+- 📞 **Contacto Familiar**: Mulcifer (padrino de Diana) invita al casino de Fatum
+
+**Temas Clave**: Poder destructivo, consecuencias mediáticas, conexiones familiares villanas
+
+---
+
+#### [📊 Sesión 18 de Enero](../ai-notes-summary/2026-01-18-gemini-notes.md)
+**"Casino de Dionisios y Dilema Moral"**
+- 🎰 **Revelación de Fatum**: Mulcifer es miembro del grupo villano, ofrece recursos
+- ⚖️ **Dilema Moral Épico**: Debate filosófico entre Justa (principios) y Diana (pragmatismo)
+- 🕸️ **Fusión con Telaraña**: Familia de Diana se fusiona con la red criminal principal
+- 💬 **Discursos Memorables**: Justa sobre la memoria de su padre; Diana sobre pragmatismo
+
+**Temas Clave**: Dinero manchado de sangre, principios vs supervivencia, familia villana
+
+---
+
+#### [📊 Sesión 25 de Enero (Sesión 48)](../ai-notes-summary/2026-01-25-gemini-notes.md)
+**"La Decisión Dividida y la Emboscada de Metacorps"**
+- ⚖️ **División Ideológica**: Diana/Sique aceptan dinero de Mulcifer; Justa/Hotman/Pantomima rechazan
+- 💥 **Emboscada de Metacorps**: Al salir del casino, el grupo es atacado
+- 🔥 **Bajas del Combate**: Hotman mata a un Metacorp; Justa atropella a dos
+- 🚨 **Diana Arrestada**: Se entrega voluntariamente a los Metacorps
+- 🚐 **Justa Escapa**: Huye con los heridos en la furgoneta
+- 💔 **Primera División Física**: El grupo queda separado por primera vez
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Diana | Arrestada | Bajo custodia Metacorps |
+| Justa | Herida grave | Huyendo en furgoneta |
+| Hotman | Incapacitado | En la furgoneta |
+| Pantomima | Incapacitado | En la furgoneta |
+| Cía/Psique | Herida, conmocionada | En la furgoneta |
+| Eslizón | Ausente | Estado desconocido |
+
+**Temas Clave**: Fragmentación del grupo, consecuencias de decisiones morales, supervivencia vs principios
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -280,6 +375,13 @@ Transcripciones automáticas con análisis:
 - **[2025-09-14-gemini-notes](../ai-notes/2025-09-14-gemini-notes.md)**
 - **[2025-09-21-gemini-notes](../ai-notes/2025-09-21-gemini-notes.md)**
 - **[2025-10-12-gemini-notes](../ai-notes/2025-10-12-gemini-notes.md)**
+- **[2025-11-02-gemini-notes](../ai-notes/2025-11-02-gemini-notes.md)**
+- **[2025-12-21-gemini-notes](../ai-notes/2025-12-21-gemini-notes.md)**
+- **[2025-12-28-gemini-notes](../ai-notes/2025-12-28-gemini-notes.md)**
+- **[2026-01-04-gemini-notes](../ai-notes/2026-01-04-gemini-notes.md)**
+- **[2026-01-11-gemini-notes](../ai-notes/2026-01-11-gemini-notes.md)**
+- **[2026-01-18-gemini-notes](../ai-notes/2026-01-18-gemini-notes.md)**
+- **[2026-01-25-gemini-notes](../ai-notes/2026-01-25-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -300,6 +402,12 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 05/10](../ai-notes-summary/2025-10-05-gemini-notes.md)** - Discriminación, investigación y decisión de carreras ilegales
 - **[Resumen 12/10](../ai-notes-summary/2025-10-12-gemini-notes.md)** - Robo del Sombrío y carrera ilegal
 - **[Resumen 02/11](../ai-notes-summary/2025-11-02-gemini-notes.md)** - Puente de Moebius y origen de Pantomima
+- **[Resumen 21/12](../ai-notes-summary/2025-12-21-gemini-notes.md)** - Investigación Padre Bestia y vuelo de Hotman
+- **[Resumen 28/12](../ai-notes-summary/2025-12-28-gemini-notes.md)** - El Cubil de las Bestias
+- **[Resumen 04/01](../ai-notes-summary/2026-01-04-gemini-notes.md)** - Operación Desguace
+- **[Resumen 11/01](../ai-notes-summary/2026-01-11-gemini-notes.md)** - Explosión del Helicóptero y crisis mediática
+- **[Resumen 18/01](../ai-notes-summary/2026-01-18-gemini-notes.md)** - Casino de Dionisios y dilema moral
+- **[Resumen 25/01](../ai-notes-summary/2026-01-25-gemini-notes.md)** - División del grupo y emboscada Metacorps
 
 ---
 
@@ -348,28 +456,50 @@ El juego dentro del juego:
 - **Enfoque**: Establecimiento de operaciones independientes
 - **Crecimiento**: Base operativa propia y red de contactos diversificada
 
+#### **Fase IV: Alianzas y Rescate (Diciembre 2025 - Enero 2026)**
+- **Tono**: Operaciones de alto riesgo con costes morales
+- **Enfoque**: Misión de rescate para La Cacería Salvaje
+- **Crecimiento**: Desarrollo de tácticas militares, Diana mata por primera vez
+
+#### **Fase V: División y Crisis (Enero 2026)**
+- **Tono**: Tragedia y fragmentación
+- **Enfoque**: Dilema moral sobre aceptar ayuda de Fatum
+- **Crisis**: El grupo se divide ideológica y físicamente por primera vez
+
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 17 sesiones con transcripción IA documentadas en detalle (Junio-Noviembre 2025)
-- **Páginas de Notas**: ~270 páginas de contenido
-- **Horas de Juego**: ~53 horas registradas
+- **Sesiones Totales**: 25 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Enero 2026)
+- **Páginas de Notas**: ~400 páginas de contenido
+- **Horas de Juego**: ~75 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
-- **Conexiones Narrativas**: 25+ referencias a campañas anteriores
+- **Conexiones Narrativas**: 30+ referencias a campañas anteriores
 
 ---
 
 ## 🔮 Estado Actual y Futuro
 
-### 🎯 **Arcos Narrativos Pendientes**
-- **Resolución de La Farándula**: Confrontación final con supervillanos históricos
-- **Identidad de la Entidad Misteriosa**: Revelación del benefactor/manipulador
-- **Desarrollo Romántico**: Evolución de relaciones internas del grupo
-- **Conexión con El Legado**: Encuentros con héroes de campañas anteriores
+### ⚠️ **Estado Crítico del Grupo (Enero 2026)**
 
-### 🎲 **Próximas Sesiones Anticipadas**
-- **Finalización de Operación Metro**: Enfrentamiento con enemigos restantes
-- **Consecuencias de Acciones**: Reacciones de Arcadia a sus métodos
-- **Desarrollo de Base**: Establecimiento de cuartel general permanente
-- **Primer Arco Completo**: Resolución de la amenaza inicial
+El grupo se encuentra en su momento más vulnerable:
+
+| Aspecto | Situación |
+|---------|-----------|
+| **Unidad** | DIVIDIDOS - Diana arrestada, resto huyendo |
+| **Ideología** | Fracturados sobre aceptar ayuda de Fatum |
+| **Físico** | 2 incapacitados, 2 heridas graves |
+| **Legal** | Todos buscados, Diana bajo custodia |
+
+### 🎯 **Arcos Narrativos Pendientes**
+- **Rescate de Diana**: ¿Cómo liberarla de Metacorps?
+- **Reconciliación Ideológica**: ¿Pueden superar la división sobre Fatum?
+- **Consecuencias Legales**: Un Metacorp muerto, dos atropellados
+- **Refugio**: ¿Usarán la mansión de Mulcifer?
+- **Eslizón**: ¿Cómo reaccionará a la fragmentación?
+
+### 🎲 **Preguntas Abiertas**
+- ¿Qué pasará con Diana bajo custodia de Metacorps?
+- ¿Puede el grupo reunirse y sanar sus diferencias?
+- ¿Qué consecuencias tendrá la muerte del Metacorp?
+- ¿Cómo afectará la división filosófica a largo plazo?
 
 ---
 

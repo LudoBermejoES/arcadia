@@ -128,14 +128,20 @@ Lee y actualiza estos archivos en orden (adapta las rutas a la campaña correspo
    - Añadir nueva entrada en cronología
    - Actualizar estadísticas (total sesiones, período)
 
+5. **`docs/campaigns/[campaña]/sessions/index.md`** ⭐ SI EXISTE (La Fuerza Oculta lo tiene)
+   - Añadir nueva entrada en la cronología de sesiones
+   - Actualizar sección de AI notes y resúmenes analíticos
+   - Actualizar estadísticas y métricas
+   - **IMPORTANTE para La Fuerza Oculta**: Este índice EXISTE y debe actualizarse
+
+6. **`docs/campaigns/[campaña]/summary/summary.md`** ⭐ SI EXISTE (La Fuerza Oculta lo tiene)
+   - **La Fuerza Oculta**: Actualizar con eventos de la nueva sesión
+   - Añadir nueva sesión con descripción detallada
+   - Actualizar "Conclusión" y estado actual del grupo
+
 #### Índices Secundarios (verificar si existen):
 
-5. **`docs/campaigns/[campaña]/sessions/index.md`** (si existe)
-   - Añadir nueva entrada en la cronología de sesiones
-   - Actualizar estadísticas y métricas
-
-6. **Índices específicos por campaña**:
-   - **La Fuerza Oculta**: `summary/summary.md` - Actualizar con eventos de la nueva sesión
+7. **Índices específicos por campaña**:
    - **Reformatorio**: `reformatorio/index.md` - Si existe
    - Cualquier otro archivo index.md dentro de la carpeta de la campaña
 
@@ -186,8 +192,8 @@ Presenta al usuario este checklist antes de hacer commit:
 - [ ] Actualizar [campaña]/ai-notes/index.md (si hay transcripción)
 - [ ] Actualizar [campaña]/ai-notes-summary/index.md ⭐ (SI HAY RESUMEN - NO OLVIDAR)
 - [ ] Actualizar [campaña]/manual-notes/index.md (si hay notas manuales)
-- [ ] Actualizar [campaña]/sessions/index.md (si existe)
-- [ ] Actualizar [campaña]/summary/summary.md (para La Fuerza Oculta)
+- [ ] Actualizar [campaña]/sessions/index.md ⭐ (La Fuerza Oculta - EXISTE Y ES OBLIGATORIO)
+- [ ] Actualizar [campaña]/summary/summary.md ⭐ (La Fuerza Oculta - EXISTE Y ES OBLIGATORIO)
 - [ ] Revisar otros índices específicos de la campaña
 
 ### Contextual (según contenido):

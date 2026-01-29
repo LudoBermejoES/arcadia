@@ -60,7 +60,7 @@ Al salir del casino y acercarse a la furgoneta:
 
 #### Escalada del Combate
 - Aparece un segundo atacante - Sentencia lo neutraliza con balas de goma
-- Un tercer atacante es "frito" por Hotman
+- Un Metacorp es **matado por Hotman** (convulsiones, olor a "cerdo asado")
 - **Aparecen Metacorps oficiales** (unidades especiales)
 
 ### 4. Combate contra Metacorps
@@ -91,7 +91,8 @@ Con Hotman y Pantomima caídos:
 - Lo sube a la furgoneta **a pesar de sus propias heridas graves**
 - Intenta acercarse a Pantomima para rescatarlo
 - **Atropella involuntariamente a dos Metacorps** (pifia en tirada de conducir + heridas)
-- Se escucha "el crujido de huesos" (ambos Metacorps quedan con fracturas)
+- Se escucha "el crujido de huesos" - uno sale volando
+- **Estado de los atropellados incierto** - probablemente malheridos (armadura + baja velocidad podrían haberlos salvado)
 - Consigue subir a Pantomima y Cía a la furgoneta
 
 ### 6. La Rendición de Diana
@@ -105,7 +106,7 @@ Con Hotman y Pantomima caídos:
 
 - **Diana bajo arresto** - Se entrega a los Metacorps
 - **Justa huye en la furgoneta** - Con Hotman, Pantomima y Cía heridos/incapacitados
-- **Metacorps heridos** - Dos atropellados (fracturas de muñeca), ninguno muerto
+- **Bajas enemigas**: Un Metacorp muerto por Hotman, un Metacorp con muñeca fracturada por Diana, dos Metacorps atropellados (estado incierto, probablemente malheridos)
 - **El grupo queda dividido físicamente** por primera vez
 
 ---
@@ -159,7 +160,9 @@ Con Hotman y Pantomima caídos:
 ### Sobre el Grupo
 - **Primera división física**: Diana queda separada del resto
 - **Legitimidad cuestionada**: Los Metacorps los consideran criminales para arrestar
-- **Daño colateral**: Justa atropella Metacorps (fracturas, no muertes)
+- **Hotman mata**: Un Metacorp muere quemado (olor a "cerdo asado")
+- **Diana fractura muñeca**: A un Metacorp durante el combate
+- **Daño colateral**: Justa atropella dos Metacorps (estado incierto - crujido de huesos, uno sale volando)
 
 ---
 
@@ -224,8 +227,10 @@ Con Hotman y Pantomima caídos:
 
 ### Consecuencias Legales
 - Diana arrestada por Metacorps
-- Dos Metacorps heridos (fracturas) por atropello
-- Posibles cargos por resistencia al arresto
+- **Un Metacorp muerto** por Hotman (quemado)
+- Un Metacorp con muñeca fracturada por Diana
+- Dos Metacorps atropellados por Justa (estado incierto, posiblemente graves)
+- Posibles cargos por resistencia al arresto y homicidio
 
 ### Preguntas Abiertas
 - ¿Qué pasará con Diana bajo custodia?

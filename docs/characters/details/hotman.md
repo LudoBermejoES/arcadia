@@ -288,8 +288,8 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 
 **Combate en el Parking**:
 
-- Al salir del casino, el grupo es emboscado por Metacorps
-- Hotman **"fríe"** a uno de los atacantes iniciales
+- Al salir del casino, el grupo es emboscado primero por atacantes armados, luego por Metacorps
+- Hotman **mata a un Metacorp** con sus poderes térmicos (convulsiones, olor a "cerdo asado")
 - Intenta afectar a un Metacorp con poderes térmicos pero **falla**
 - Es disparado **por la espalda** con rifle de pulsos
 - Gasta un Benny para absorber el daño pero queda aturdido

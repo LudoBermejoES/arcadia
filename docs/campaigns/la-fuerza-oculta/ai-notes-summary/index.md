@@ -564,6 +564,97 @@ El nombre **"Pantomima"** es perfectamente apropiado:
 
 ---
 
+### ❄️ **Diciembre 2025 - Crisis Familiar y Rescate**
+
+#### [📈 Análisis 21/12/2025 - Investigación Padre Bestia y Vuelo de Hotman](2025-12-21-gemini-notes.md)
+**"Nuevos Poderes y Blackout Tecnológico"**
+
+**🎯 Temas Centrales Identificados:**
+- **Evolución de Poderes**: Hotman descubre capacidad de vuelo
+- **Misión para La Cacería**: Investigación del Padre Bestia continúa
+- **Crisis Tecnológica**: Pulso electromagnético apaga el Distrito Mercury
+
+---
+
+#### [📈 Análisis 28/12/2025 - El Cubil de las Bestias](2025-12-28-gemini-notes.md)
+**"Mercenarios de Constellis y el Secuestro de las Crías"**
+
+**🎯 Temas Centrales Identificados:**
+- **Enemigos Profesionales**: Mercenarios de Constellis identificados
+- **Tortura Psicológica**: Diana interroga brutalmente a mercenario capturado
+- **Localización del Objetivo**: Las crías bestiales están en un desguace
+- **Conspiración Internacional**: USA interesado en crear humanos bestiales controlados
+
+---
+
+### 🎄 **Enero 2026 - Rescate, Crisis y División**
+
+#### [📈 Análisis 04/01/2026 - Operación Desguace](2026-01-04-gemini-notes.md)
+**"Asalto Coordinado y Rescate Exitoso"**
+
+**🎯 Temas Centrales Identificados:**
+- **Táctica Coordinada**: Protocolo Dame Veneno para interferir comunicaciones
+- **Combate Profesional**: El grupo opera con eficiencia militar
+- **Rescate Parcial**: 4 de 6 crías bestiales rescatadas con éxito
+- **Consecuencias**: Mercenarios neutralizados, Diana mata a dos enemigos
+
+---
+
+#### [📈 Análisis 11/01/2026 - Escape y Llamada de Mulcifer](2026-01-11-gemini-notes.md)
+**"Explosión del Helicóptero y Crisis Mediática"**
+
+**🎯 Temas Centrales Identificados:**
+- **Poder Devastador**: Cía derriba helicóptero con ataque mental
+- **Descubrimientos Tecnológicos**: Furgoneta con capacidades de 300 km/h y vuelo
+- **Crisis de Imagen**: Vídeo filtrado de Diana matando a mercenario
+- **Contacto Familiar**: Mulcifer (padrino de Diana) invita al casino de Fatum
+
+---
+
+#### [📈 Análisis 18/01/2026 - Casino de Dionisios y Dilema Moral](2026-01-18-gemini-notes.md)
+**"Mulcifer y el Dinero Manchado de Sangre"**
+
+**🎯 Temas Centrales Identificados:**
+- **Revelación de Fatum**: Mulcifer es miembro del grupo villano, ofrece recursos
+- **Dilema Moral Épico**: Debate filosófico entre Justa (principios) y Diana (pragmatismo)
+- **Fusión con Telaraña**: Familia de Diana se fusiona con la red criminal principal
+- **Discursos Memorables**: Justa sobre la memoria de su padre; Diana sobre pragmatismo
+
+**Duración**: ~3 horas | **Palabras**: ~19,000 | **Páginas**: ~50
+
+---
+
+#### [📈 Análisis 25/01/2026 - La Decisión Dividida y la Emboscada de Metacorps](2026-01-25-gemini-notes.md)
+**"División Moral y Captura de Diana"**
+
+**🎯 Temas Centrales Identificados:**
+- **División Ideológica**: El grupo se fragmenta sobre aceptar dinero "manchado de sangre"
+- **Pragmatismo vs. Principios**: Diana/Sique aceptan; Justa/Hotman/Pantomima rechazan
+- **Primera Separación Física**: El grupo queda dividido por primera vez
+- **Consecuencias Inmediatas**: Emboscada de Metacorps al salir del casino
+
+**⚖️ Resolución del Dilema Moral:**
+
+| Personaje | Decisión | Razonamiento |
+|-----------|----------|--------------|
+| **Diana** | ✅ Acepta | "Mi existencia está manchada de sangre." |
+| **Sique/Psique** | ✅ Acepta | "El dinero no tiene memoria." |
+| **Justa/Sentencia** | ❌ Rechaza | "No tocaré nada manchado de sangre." |
+| **Hotman** | ❌ Rechaza | "No aceptaré colaborar con delincuentes." |
+| **Pantomima** | ❌ Rechaza | "No quiero que me asocien con actividades ilícitas." |
+
+**💥 La Emboscada de Metacorps:**
+- **Bajas del Combate**: Hotman mata a un Metacorp, Diana fractura muñeca a otro Metacorp, Justa atropella dos Metacorps
+- **Estado del Grupo**: Hotman y Pantomima incapacitados, Justa y Cía heridas graves
+- **Diana Se Entrega**: Se rinde voluntariamente a los Metacorps
+- **Justa Escapa**: Huye en la furgoneta con los heridos
+
+**Duración**: ~3 horas | **Palabras**: ~20,000 | **Páginas**: ~52
+
+**🎯 NOTA ESPECIAL**: Primera vez que el grupo queda físicamente dividido. Diana bajo arresto marca un punto de inflexión dramático en la campaña.
+
+---
+
 ## 🧠 Análisis Transversal de Patrones
 
 ### 📈 **Evolución Narrativa por Fases**

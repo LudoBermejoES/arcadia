@@ -1511,29 +1511,275 @@ Al día siguiente, cita en **Metalurgia Rashid** (siderúrgica abandonada en dis
 - 23/11: Contacto con La Cacería Salvaje, misión para investigar "padre bestia", viaje al Barrio Gótico
 - 30/11: *[Continuación de eventos, planificación de reunión presencial en Madrid]*
 
+**Diciembre:**
+- 21/12: Investigación del padre bestia, primer vuelo de Hotman, blackout por EMP
+- 28/12: Encuentro con mercenarios Constellis, Diana torturada psicológicamente, localización de cachorros en El Desguace
+
+### 2026: Año de Crisis
+
+**Enero:**
+- 04/01: Asalto al Desguace, rescate de 4 de los 6 cachorros bestiales, escape bajo fuego
+- 11/01: Explosión del helicóptero (Cía lo destruye mentalmente), Planet Pizza, crisis mediática, llamada de Mulcifer
+- 18/01: Casino de Dionisios, Mulcifer revelado como miembro de Fatum, debate épico sobre dilema moral
+- 25/01: División del grupo sobre oferta de Mulcifer, emboscada de Metacorps, Diana arrestada, Justa huye con heridos
+
 ---
 
-## Conclusión: De Reality Show a Leyenda
+### Sesión 43: Investigación del Padre Bestia y Primer Vuelo de Hotman (21 diciembre 2025)
 
-La campaña "La Fuerza Oculta" representa una evolución narrativa completa desde la inocencia de participantes de reality show hasta la madurez de héroes independientes que han elegido su propio código moral por encima de las expectativas sociales.
+**La misión de La Cacería Salvaje comienza:**
 
-**Logros del grupo:**
+El grupo inicia la investigación solicitada por La Cacería Salvaje sobre actividad sospechosa del "padre bestia" en el Distrito Mercury.
+
+**Descubrimiento del vuelo de Hotman:**
+
+En un momento crucial de la investigación, **Hotman descubre accidentalmente que puede volar**:
+- Durante una persecución, salta desde altura considerable
+- En lugar de caer, comienza a flotar
+- Descubre que el vuelo está conectado a su control térmico
+- Primera manifestación de poder de vuelo en el grupo
+
+**El Blackout por EMP:**
+
+La sesión culmina con un evento dramático:
+- Un **pulso electromagnético** afecta una amplia zona de Arcadia
+- Tecnología moderna deja de funcionar temporalmente
+- El grupo queda incomunicado durante un período crítico
+- Posible conexión con tecnología de anulación metahumana
+
+**Implicaciones:**
+- Hotman evoluciona significativamente en capacidades
+- La investigación sobre padre bestia avanza
+- El blackout sugiere presencia de actores con tecnología avanzada
+
+---
+
+### Sesión 44: Mercenarios Constellis y el Desguace (28 diciembre 2025)
+
+**Encuentro hostil con mercenarios profesionales:**
+
+El grupo se cruza con operativos de **Constellis**, empresa mercenaria de alto nivel:
+- Mercenarios mejor equipados que los Cazacapas anteriores
+- Operan con autorización aparentemente legal
+- Conexión con operaciones corporativas de control metahumano
+
+**Diana torturada psicológicamente:**
+
+En un momento devastador de la sesión:
+- Diana es capturada brevemente por los mercenarios
+- Sometida a **interrogatorio psicológico intenso**
+- No sufre daño físico pero el trauma es significativo
+- El grupo logra rescatarla pero el daño está hecho
+
+**Localización de los cachorros:**
+
+La investigación del padre bestia rinde frutos:
+- Los cachorros robados están en **"El Desguace"**
+- Instalación industrial usada como centro de operaciones
+- Guardada por mercenarios y tecnología de seguridad
+- Se confirma que hay **6 cachorros** cautivos
+
+**Planificación del rescate:**
+- El grupo desarrolla plan de asalto al Desguace
+- Coordinación con información de La Cacería Salvaje
+- Preparación para combate contra fuerzas superiores
+
+---
+
+### Sesión 45: Asalto al Desguace (4 enero 2026)
+
+**Ejecución del plan de rescate:**
+
+La Fuerza Oculta ejecuta el asalto a El Desguace para rescatar a los cachorros bestiales.
+
+**El combate:**
+- Infiltración coordinada del equipo completo
+- Enfrentamiento con guardias y sistemas de seguridad
+- Uso combinado de poderes del grupo
+- Combate prolongado con múltiples oleadas de oposición
+
+**Resultado parcialmente exitoso:**
+- **4 de 6 cachorros rescatados** con éxito
+- 2 cachorros no pudieron ser localizados o rescatados
+- El grupo escapa bajo fuego enemigo
+- Varios miembros terminan con heridas moderadas
+
+**Consecuencias:**
+- La Cacería Salvaje recibe a los cachorros rescatados
+- Deuda moral parcialmente saldada
+- El fracaso parcial pesa sobre el grupo
+- Los responsables del cautiverio siguen activos
+
+---
+
+### Sesión 46: Explosión del Helicóptero y Crisis Mediática (11 enero 2026)
+
+**El momento más público de La Fuerza Oculta:**
+
+**Destrucción del helicóptero:**
+
+Durante una persecución o enfrentamiento:
+- Un helicóptero (posiblemente de Metacorps o mercenarios) persigue al grupo
+- **Cía/Psique destruye el helicóptero mentalmente**
+- La explosión es captada por múltiples testigos
+- Momento de poder devastador con consecuencias masivas
+
+**Planet Pizza - Refugio improvisado:**
+
+Tras el incidente:
+- El grupo busca refugio en el restaurante **Planet Pizza**
+- Lugar aparentemente seguro para reagruparse
+- Discusión sobre las implicaciones de lo ocurrido
+
+**Crisis mediática:**
+
+El evento del helicóptero desata una tormenta:
+- Cobertura mediática intensa del incidente
+- Debate público sobre La Fuerza Oculta: ¿héroes o amenazas?
+- Presión legal aumenta dramáticamente
+- El grupo pasa de buscados a infames
+
+**La llamada de Mulcifer:**
+
+En medio de la crisis:
+- **Mulcifer** (padrino de Diana) contacta al grupo
+- Ofrece una reunión para discutir "opciones"
+- Primera indicación de que tiene recursos para ayudarles
+- Diana debe decidir si confiar en su familia villana
+
+---
+
+### Sesión 47: Casino de Dionisios y el Dilema de Mulcifer (18 enero 2026)
+
+**La oferta que divide al grupo:**
+
+**Reunión en el Casino de Dionisios:**
+
+El grupo acude a encontrarse con Mulcifer:
+- **Casino de Dionisios**: establecimiento de lujo con clientela de élite
+- Mulcifer los recibe en privado
+- Ambiente de opulencia que contrasta con su vida de fugitivos
+
+**Revelación sobre Mulcifer:**
+- Se confirma que es **miembro del grupo Fatum**
+- Organización criminal de supervillanos de alto nivel
+- Tiene recursos prácticamente ilimitados
+- Su interés en Diana es genuinamente protector (es su padrino)
+
+**La oferta:**
+
+Mulcifer propone:
+- **Apoyo financiero sustancial** para el grupo
+- **Protección legal** a través de sus contactos
+- **Refugios seguros** (mansiones, propiedades)
+- **A cambio**: nada explícito, pero asociación implícita con Fatum
+
+**El debate épico:**
+
+La sesión se centra en una discusión moral intensa:
+- **Diana**: inclinada a aceptar, es familia y necesitan ayuda
+- **Sique/Psique**: pragmática, el dinero es herramienta sin moral
+- **Justa/Sentencia**: rechaza tajantemente "dinero manchado de sangre"
+- **Hotman**: distingue entre robar a criminales y asociarse con ellos
+- **Pantomima**: preocupada por las implicaciones futuras
+
+**Cliffhanger:**
+La sesión termina sin resolución del dilema, dejando la tensión para la siguiente sesión.
+
+---
+
+### Sesión 48: División del Grupo y Emboscada de Metacorps (25 enero 2026)
+
+**Resolución del dilema y catástrofe inmediata:**
+
+**La decisión dividida:**
+
+El grupo finalmente vota sobre la oferta de Mulcifer:
+
+| Personaje | Decisión | Argumento |
+|-----------|----------|-----------|
+| **Diana** | ✅ Acepta | "Mi existencia está manchada de sangre. No puedo pretender superioridad moral." |
+| **Sique/Psique** | ✅ Acepta | "El dinero no tiene memoria, es una herramienta." |
+| **Justa/Sentencia** | ❌ Rechaza | "No tocaré nada manchado de sangre." |
+| **Hotman** | ❌ Rechaza | "No aceptaré colaborar con delincuentes." |
+| **Pantomima** | ❌ Rechaza | "No quiero que me asocien con actividades ilícitas." |
+
+**Compromiso alcanzado:**
+- Diana y Sique aceptan **a título personal**
+- Los recursos no se usarán para La Fuerza Oculta como grupo
+- Mulcifer entrega llaves de mansión y su tarjeta de contacto
+
+**La emboscada de Metacorps:**
+
+Al salir del casino:
+- **Metacorps embosca al grupo** en el parking
+- Combate caótico con rifles de pulsos y granadas aturdidoras
+- **Hotman y Pantomima quedan incapacitados**
+- **Justa herida grave** pero sigue luchando
+- **Cía conmocionada** por granada aturdidora
+
+**Bajas del combate:**
+- **Hotman mata a un Metacorp** (quemado, olor a "cerdo asado")
+- **Diana fractura la muñeca** a otro Metacorp durante el combate
+- **Justa atropella involuntariamente** a dos Metacorps (crujido de huesos, estado incierto)
+
+**Decisiones críticas:**
+- **Diana se entrega voluntariamente** a los Metacorps
+- **Justa huye en la furgoneta** con los heridos
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Diana | Arrestada | Bajo custodia de Metacorps |
+| Justa | Herida grave | Huyendo en furgoneta |
+| Hotman | Incapacitado | En la furgoneta |
+| Pantomima | Incapacitado | En la furgoneta |
+| Cía/Psique | Herida, conmocionada | En la furgoneta |
+| Eslizón | Ausente | Estado desconocido |
+
+**El grupo queda físicamente dividido por primera vez en la campaña.**
+
+---
+
+## Conclusión: De Reality Show a Crisis Existencial
+
+La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participantes de reality show hasta una crisis existencial donde el grupo enfrenta su momento más oscuro: **divididos filosóficamente, fragmentados físicamente, y con una de sus miembros bajo arresto**.
+
+**Logros del grupo hasta la fecha:**
 - Supervivencia a múltiples intentos de eliminación
 - Desarrollo de vínculos familiares más fuertes que sangre
-- Establecimiento de código ético independiente
-- Rechazo exitoso de manipulación institucional
+- Establecimiento de código ético independiente (aunque ahora dividido)
+- Rescate exitoso de los cachorros de La Cacería Salvaje
 - Evolución de poderes bajo presión extrema
 
 **Transformaciones clave:**
-- **Justa→Sentencia**: De defensora del sistema a aplicadora de justicia natural
-- **Grupo→Familia**: De participantes individuales a unidad cohesionada
-- **Víctimas→Agentes**: De reactivos a proactivos en su destino
-- **Adolescentes→Héroes**: De inmaduros a responsables de sus acciones
+- **Justa→Sentencia**: De defensora del sistema a aplicadora de justicia natural, ahora huyendo con heridos
+- **Diana**: De heredera reluctante de villanos a prisionera que se entregó voluntariamente
+- **El Grupo→Fragmentado**: De unidad cohesionada a división ideológica y física
+- **Víctimas→Supervivientes**: De adolescentes a fugitivos experimentados
 
-**Legado establecido:**
-La Fuerza Oculta se establece como ejemplo de que los jóvenes metahumanos pueden rechazar tanto el camino heroico tradicional como el villano, creando una tercera vía basada en justicia personal, lealtad familiar elegida y responsabilidad hacia los vulnerables por encima de la obediencia institucional.
+**Estado actual crítico (Enero 2026):**
 
-Su historia sirve como advertencia sobre los peligros de la comercialización del heroísmo y como inspiración para futuros metahumanos que busquen definir su propio camino en un mundo que intenta constantemente categorizarlos, controlarlos o utilizarlos.
+| Aspecto | Situación |
+|---------|-----------|
+| **Unidad** | Divididos - Diana arrestada, resto huyendo |
+| **Ideología** | Fracturados - 3 rechazan a Fatum, 2 aceptan ayuda |
+| **Recursos** | Limitados - Llaves de mansión Mulcifer disponibles solo para Diana/Sique |
+| **Legal** | Crítico - Todos buscados, Diana bajo custodia |
+| **Físico** | Devastado - 2 incapacitados, 2 heridas graves |
+
+**Preguntas abiertas:**
+- ¿Qué pasará con Diana bajo custodia de Metacorps?
+- ¿Usarán la mansión de Mulcifer como refugio?
+- ¿Puede el grupo reunirse y reconciliar sus diferencias filosóficas?
+- ¿Cómo reaccionará Eslizón a la fragmentación del grupo?
+- ¿Qué consecuencias tendrá el atropello de los Metacorps?
+
+**Legado en construcción:**
+La Fuerza Oculta representa la complejidad de elegir un camino propio cuando todas las opciones tienen costes morales. Su división sobre aceptar ayuda de Fatum refleja el dilema central de la campaña: **¿hasta dónde se puede comprometer la pureza moral para sobrevivir y proteger a los que amas?**
+
+Diana eligió entregarse en lugar de seguir luchando. Justa eligió huir con los heridos en lugar de abandonarlos. Ambas decisiones son heroicas a su manera, pero dejan al grupo más vulnerable que nunca.
 
 ---
 

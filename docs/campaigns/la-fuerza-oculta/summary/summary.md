@@ -25,6 +25,51 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 
 ---
 
+## Índice de Sesiones
+
+### Fase I: El Reality Show (Marzo - Junio 2024)
+- [Sesión 1: La Selección](#sesión-1-la-selección-24-marzo-2024)
+- [Sesión 2: Rutina y Primeras Revelaciones](#sesión-2-rutina-y-primeras-revelaciones-24-marzo-2024)
+- [Sesión 3: La Primera Prueba y la Baronesa](#sesión-3-la-primera-prueba-y-la-baronesa-31-marzo-2024)
+- [Sesión 4: Cambios en la Administración](#sesión-4-cambios-en-la-administración-14-abril-2024)
+- [Sesiones 5-6: Incursiones Nocturnas y Nuevos Mentores](#sesiones-5-6-incursiones-nocturnas-y-nuevos-mentores-14-21-abril-2024)
+- [Sesiones 7-9: Escalada de Tensiones](#sesiones-7-9-escalada-de-tensiones-28-abril---26-mayo-2024)
+- [Sesión 10: La Noche de las Confesiones](#sesión-10-la-noche-de-las-confesiones-26-mayo-2024)
+
+### Fase II: Crisis y Escape (Junio - Agosto 2024)
+- [Sesión 11: El Ataque a la Mansión](#sesión-11-el-ataque-a-la-mansión-16-junio-2024)
+- [Sesión 12: Hospital Subterráneo y Primer Contacto](#sesión-12-hospital-subterráneo-y-primer-contacto-7-julio-2024)
+
+### Fase III: Vida Clandestina (Julio - Agosto 2024)
+- [Sesiones 13-15: Fuga y Refugio en el Gótico](#sesiones-13-15-fuga-y-refugio-en-el-gótico-14-julio---28-julio-2024)
+- [Sesiones 16-17: El Juicio y la Sentencia](#sesiones-16-17-el-juicio-y-la-sentencia-18-agosto---25-agosto-2024)
+
+### Fase IV: Exilio y Transformación (2025)
+- [Sesión 20: Arcadia, Refugio de Metahumanos](#sesión-20-arcadia-refugio-de-metahumanos-15-junio-2025)
+- [Sesiones 21-24: Búsqueda de Independencia](#sesión-21-24-búsqueda-de-independencia-22-junio---20-julio-2025)
+- [Sesión 25: Enfrentamiento con La Farándula](#sesión-25-enfrentamiento-con-la-farándula-27-julio-2025)
+- [Sesión 26: Entrega de Justicia y Establecimiento de Base](#sesión-26-entrega-de-justicia-y-establecimiento-de-base-3-agosto-2025)
+- [Sesión 27: Compras y Ataque de Les Enfant Terribles](#sesión-27-compras-en-almacenes-hêvî-y-ataque-de-les-enfant-terribles-10-agosto-2025)
+- [Sesión 28: Les Enfant Terribles y el Retorno de los Monos Dorados](#sesión-28-les-enfant-terribles-y-el-retorno-de-los-monos-dorados-17-agosto-2025)
+- [Sesión 29: Gorilas Dorados y los Siete Abominables](#sesión-29-gorilas-dorados-y-los-siete-abominables-24-agosto-2025)
+- [Sesión 30: Repercusiones y Búsqueda de Orientación](#sesión-30-repercusiones-y-búsqueda-de-orientación-30-agosto-2025)
+- [Sesión 31: Mentores y Decisiones en el Barrio Gótico](#sesión-31-mentores-y-decisiones-en-el-barrio-gótico-14-septiembre-2025)
+- [Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia](#sesión-33-el-entrenamiento-de-psique-y-el-secreto-de-sentencia-21-septiembre-2025)
+- [Sesión 33: Pizza, Discriminación y Carreras Ilegales](#sesión-33-pizza-discriminación-y-carreras-ilegales-5-octubre-2025)
+- [Sesión 34: Robo del Sombrío y Carrera Ilegal](#sesión-34-robo-del-sombrío-y-carrera-ilegal-12-octubre-2025)
+- [Sesión 37: El Puente de Moebius y el Origen de Pantomima](#sesión-37-el-puente-de-moebius-y-el-origen-de-pantomima-2-noviembre-2025)
+- [Sesión Intercalada: La Cacería Salvaje del Barrio Gótico](#sesión-intercalada-la-cacería-salvaje-del-barrio-gótico-23-noviembre-2025)
+- [Sesión 42: Resolución del Ataque y el Chip de Control](#sesión-42-resolución-del-ataque-y-el-chip-de-control-7-diciembre-2025)
+- [Sesión 43: Investigación del Padre Bestia y Primer Vuelo de Hotman](#sesión-43-investigación-del-padre-bestia-y-primer-vuelo-de-hotman-21-diciembre-2025)
+- [Sesión 44: Mercenarios Constellis y el Desguace](#sesión-44-mercenarios-constellis-y-el-desguace-28-diciembre-2025)
+- [Sesión 45: Asalto al Desguace](#sesión-45-asalto-al-desguace-4-enero-2026)
+- [Sesión 46: Explosión del Helicóptero y Crisis Mediática](#sesión-46-explosión-del-helicóptero-y-crisis-mediática-11-enero-2026)
+- [Sesión 47: Casino de Dionisios y el Dilema de Mulcifer](#sesión-47-casino-de-dionisios-y-el-dilema-de-mulcifer-18-enero-2026)
+- [Sesión 48: División del Grupo y Emboscada de Metacorps](#sesión-48-división-del-grupo-y-emboscada-de-metacorps-25-enero-2026)
+- [Sesión 49: El Refugio de Mésmero y el Encuentro con los Muertos](#sesión-49-el-refugio-de-mésmero-y-el-encuentro-con-los-muertos-1-febrero-2026)
+
+---
+
 ## Fase I: El Reality Show "Héroes o Villanos" (Marzo - Junio 2024)
 
 ### Sesión 1: La Selección (24 marzo 2024)

@@ -25,8 +25,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 
 ---
 
-<details>
-<summary><strong>Fase I: El Reality Show "Héroes o Villanos" (Marzo - Junio 2024)</strong></summary>
+## Fase I: El Reality Show "Héroes o Villanos" (Marzo - Junio 2024)
 
 ### Sesión 1: La Selección (24 marzo 2024)
 
@@ -193,12 +192,9 @@ A las 12:00 de la noche, en el onsen, los participantes comparten sus secretos m
 
 Esta sesión marca un punto de inflexión donde el grupo evoluciona de participantes individuales a familia elegida.
 
-</details>
-
 ---
 
-<details>
-<summary><strong>Fase II: Crisis y Escape (Junio - Agosto 2024)</strong></summary>
+## Fase II: Crisis y Escape (Junio - Agosto 2024)
 
 ### Sesión 11: El Ataque a la Mansión (16 junio 2024)
 
@@ -266,12 +262,9 @@ A través de pantallas del hospital, **Cacharrina** (Sara Nº 9) establece comun
 - Apoyo externo para salida del edificio
 - **Eslizón** identifica complejidad técnica pero factibilidad
 
-</details>
-
 ---
 
-<details>
-<summary><strong>Fase III: Vida Clandestina (Julio - Agosto 2024)</strong></summary>
+## Fase III: Vida Clandestina (Julio - Agosto 2024)
 
 ### Sesiones 13-15: Fuga y Refugio en el Gótico (14 julio - 28 julio 2024)
 
@@ -350,12 +343,9 @@ Durante traslado a comisaría:
 
 **Relámpago**, metahumana con poderes eléctricos, ejecuta rescate durante tormenta artificial, liberando al grupo definitivamente del sistema judicial.
 
-</details>
-
 ---
 
-<details open>
-<summary><strong>Fase IV: Exilio y Transformación (2025-2026)</strong></summary>
+## Fase IV: Exilio y Transformación (2025)
 
 ### Sesión 20: Arcadia, Refugio de Metahumanos (15 junio 2025)
 
@@ -1352,8 +1342,6 @@ Al día siguiente, cita en **Metalurgia Rashid** (siderúrgica abandonada en dis
 - Los chips de control representan la respuesta corporativa a los metahumanos
 - El dinero puede comprar formas de neutralizar superpoderes
 - Cacharrero representa el equilibrio: tecnología al servicio de quienes la necesitan
-
-</details>
 
 ---
 

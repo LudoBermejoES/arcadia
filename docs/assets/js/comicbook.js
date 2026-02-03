@@ -200,11 +200,11 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     }
     
-    // Animate main content on page load
-    const mainElements = document.querySelectorAll('main > *, .comic, .campaign-card, .stat-card');
-    if (mainElements.length > 0) {
-        addPageTransition(mainElements);
-    }
+    // Animate main content on page load - DESACTIVADO
+    // const mainElements = document.querySelectorAll('main > *, .comic, .campaign-card, .stat-card');
+    // if (mainElements.length > 0) {
+    //     addPageTransition(mainElements);
+    // }
     
     // Console easter egg for Arcadia
     console.log(`

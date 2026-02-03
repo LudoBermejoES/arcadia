@@ -11,6 +11,32 @@ permalink: /campaigns/la-fuerza-oculta/
 
 ---
 
+## 📊 Estadísticas de la Campaña
+
+<div class="stats-grid">
+<div class="stat-card">
+<span class="stat-number">~2</span>
+<span class="stat-label">Años Activos</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">48+</span>
+<span class="stat-label">Sesiones Documentadas</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">6</span>
+<span class="stat-label">Jugadores Principales</span>
+</div>
+
+<div class="stat-card">
+<span class="stat-number">68+</span>
+<span class="stat-label">Horas de Audio</span>
+</div>
+</div>
+
+---
+
 ## 🌟 La Nueva Generación
 
 **La Fuerza Oculta** representa la evolución natural del universo de Arcadia. Comenzada en febrero de 2024 tras **10 años de pausa**, esta campaña sigue a un grupo de **jóvenes superhéroes** que deben navegar un mundo más complejo y moralmente ambiguo que sus predecesores.
@@ -61,33 +87,10 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ---
 
-## 📊 Estadísticas de la Campaña
-
-<div class="stats-grid">
-<div class="stat-card">
-<span class="stat-number">~2</span>
-<span class="stat-label">Años Activos</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">48+</span>
-<span class="stat-label">Sesiones Documentadas</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">6</span>
-<span class="stat-label">Jugadores Principales</span>
-</div>
-
-<div class="stat-card">
-<span class="stat-number">68+</span>
-<span class="stat-label">Horas de Audio</span>
-</div>
-</div>
-
----
-
 ## 🔍 Explorar Contenido
+
+### 📋 **Por sesiones**
+- **[🚀 Explora las Sesiones →](sessions/)**
 
 ### 📋 **Por Tipo de Contenido**
 - **[📚 Notas Manuales](manual-notes/)** - Registros detallados de cada sesión
@@ -130,4 +133,3 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 *La Fuerza Oculta representa la maduración tanto de los jugadores como del universo de Arcadia. Donde La Familia estableció las bases y Génesis expandió las posibilidades, La Fuerza Oculta explora las consecuencias morales y emocionales de ser un héroe en un mundo complejo.*
 
-**[🚀 Explora las Sesiones →](sessions/)**

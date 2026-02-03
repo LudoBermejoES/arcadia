@@ -368,3 +368,14 @@ dist/
 
 manuales/tldraw-app/node_modules
 tldraw-app/dist
+
+# ===========================
+# Python Virtual Environment
+# ===========================
+.venv/
+venv/
+ENV/
+env/
+__pycache__/
+*.py[cod]
+*$py.class

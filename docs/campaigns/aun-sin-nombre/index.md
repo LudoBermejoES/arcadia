@@ -84,6 +84,10 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 - **[18 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)**: Exploración del laboratorio abandonado, combates rápidos contra avispas con ilusión de alarma, descubrimiento de tanques con criaturas alienígenas muertas, autopsia revela huevos y líquido ambar
 - **[25 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)**: Combate final contra avispas (pifia de Kira hiere gravemente a Tiritas), descubrimiento del cadáver de la chica desaparecida entre los huevos, colapso de la instalación subterránea, escape a la superficie, travesía por el desierto de Isla Albedo, rescate por el pescador Matías Wang
 
+### 🌆 **Fase IV: Fugitivos en Arcadia (Febrero 2026)**
+
+- **[01 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)**: Escape completo de Isla Albedo, Kira sabotea el teléfono del pescador, huida de la marina antes de que lleguen Metacorps, robo de coche y dinero, adquisición de suministros en Centro Comercial Levi, viaje en metro submarino, primera noche de libertad en Motel Locaso (Distrito Lunae)
+
 ---
 
 ## 🌆 Temas Centrales
@@ -164,7 +168,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">6</span>
+<span class="stat-number">7</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

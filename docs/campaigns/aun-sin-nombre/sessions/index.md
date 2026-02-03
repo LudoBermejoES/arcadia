@@ -13,6 +13,28 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ## 📅 Cronología de Sesiones
 
+### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
+
+#### [📝 Sesión 1 de Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+
+**"Escape de Isla Albedo y Primera Noche de Libertad"**
+
+- 🚢 **Rescate**: Pescador Matías Wang y su hijo Jaime rescatan al grupo del mar
+- 📱 **Sabotaje**: Kira sobrecarga la batería del Nokia del pescador
+- 🏃 **Fuga de Marina**: Escape antes de que lleguen Metacorps (5 minutos de margen)
+- 🖐️ **Distracción**: Sergei golpea puerta con mano separada, Elena crea ilusión
+- 🚗 **Robo de Coche**: Sergei abre con latrocinio, Kira arranca con poderes
+- 👁️ **"Ojos GPS"**: Sergei usa ojos separados para dar indicaciones a Kira
+- 🏬 **Centro Comercial Levi**: Compra de ropa, comida, medicinas con dinero robado
+- 💰 **Robos**: ~400 pesetas de anciana + 2000 pesetas de hombre de negocios
+- 🎭 **Camuflaje**: Elena mantiene ilusión de grupo "normal" durante compras
+- 🚇 **Metro Submarino**: Viaje bajo cúpulas de cristal hasta Distrito Lunae
+- 🏨 **Motel Locaso**: Primera noche fuera del reformatorio
+
+**Temas Clave**: Supervivencia urbana, moralidad en crisis, primer contacto con libertad
+
+---
+
 ### ❄️ **Enero 2026 - Cruzando al Otro Lado**
 
 #### [📝 Sesión 25 de Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
@@ -245,7 +267,7 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### **Sesiones con Transcripción IA**
 
-- **Total**: 6 sesiones
+- **Total**: 7 sesiones
 - **Promedio**: ~1.5 horas por sesión
 - **Formato**: Transcripción automática Gemini + análisis narrativo
 

@@ -294,6 +294,45 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
+
+#### [📈 Análisis 01/02/2026 - Escape de Isla Albedo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+**"Primera Noche de Libertad"**
+
+**🎯 Temas Centrales Identificados:**
+- **Huida y Supervivencia**: Escape completo de Isla Albedo y primera noche libre
+- **Moralidad en Crisis**: Robos y engaños justificados por la supervivencia
+- **Identidad y Ocultamiento**: Ilusiones de Elena para pasar desapercibidos
+- **Primer Contacto con el Mundo Real**: Centro comercial, metro, motel
+
+**👥 Desarrollo de Personajes:**
+- **Kira**: Sabotea teléfono del pescador, conduce el coche robado, iniciativa táctica
+- **Sergei**: Líder táctico, roba carteras (~2400 pesetas total), conoce el Motel Locaso
+- **Tiritas**: Gravemente herido, obsesión con macarrones, dilema sobre rendirse
+- **Elena**: Ilusiones esenciales para camuflaje grupal, fatiga por uso continuo
+
+**🔮 Arcos Narrativos Avanzados:**
+- Arco completado: Escape de Isla Albedo
+- Nuevo arco iniciado: Fugitivos en Arcadia
+- Contexto social: Tensión creciente entre pro-metahumanos y pro-control
+- Elemento pendiente: DNI robado puede ser reportado
+
+**⚡ Momentos Clave:**
+- Kira sabotea el Nokia del pescador sobrecargando la batería
+- Ilusión de macarrones de Elena se desbarata en sardina cruda
+- Sergei golpea puerta con mano separada para distraer
+- "Ojos GPS" de Sergei ayudan a Kira a conducir
+- Robo de 2000 pesetas a hombre de negocios en el metro
+- Llegada al Motel Locaso: primera noche fuera del reformatorio
+
+**🧠 Dinámicas Sociales:**
+- Sergei como líder táctico de facto
+- Kira como ejecutora principal (sabotaje, conducción)
+- Elena agotada pero esencial con sus ilusiones
+- Tiritas como carga logística pero mantiene la moral
+
+---
+
 ## 📈 Análisis Estadístico
 
 ### **Temas Recurrentes Identificados:**

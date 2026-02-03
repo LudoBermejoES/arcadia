@@ -203,6 +203,33 @@ La sesión más difícil emocionalmente para Kira:
 - Participó en la travesía por el desierto y escape en lancha
 - Mostró paranoia sobre el reformatorio durante el viaje
 
+### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
+
+Kira demostró **iniciativa táctica y uso versátil de poderes** durante el escape:
+
+**Sabotaje del Pescador:**
+- Mientras el pescador Matías Wang los llevaba hacia la marina, Kira saboteó discretamente su teléfono
+- Usando sus poderes eléctricos, **sobrecargó la batería del Nokia** haciéndolo apagarse
+- Esto evitó que el pescador llamara a las autoridades durante el viaje
+
+**Fuga de la Marina:**
+- Pidió sopa caliente y preguntó por el baño como **distracción** mientras Sergei escapaba con Tiritas
+- Ayudó a coordinar la huida del grupo
+
+**Conducción del Coche Robado:**
+- Se ofreció a conducir siendo "la única que ha jugado videojuegos"
+- Kira **arrancó el coche con sus poderes** eléctricos (gastó Benny)
+- Condujo con ayuda de los **"ojos GPS"** de Sergei (tirada de conducción con Benny)
+- **Aparcamiento accidentado**: Aparcó parcialmente sobre arbustos
+
+**En el Centro Comercial:**
+- Se benefició del camuflaje de ilusión de Elena
+- Expresó **incomodidad con el metro submarino** (posible fobia a estar bajo el agua)
+
+**Primera Noche de Libertad:**
+- Llegó al Motel Locaso con el grupo
+- Primera noche fuera del reformatorio desde su internamiento
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -210,34 +237,43 @@ La sesión más difícil emocionalmente para Kira:
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 
-## Situación Actual (Enero 2026)
+## Situación Actual (Febrero 2026)
 
-Kira ha escapado del Upside Down, pero carga con un nuevo trauma: casi matar a su compañero Tiritas con un ataque eléctrico accidental. Este incidente resuena poderosamente con su historia personal - ya había dejado a un compañero en coma por falta de control.
+Kira ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. Su rol como **ejecutora principal** (sabotaje, conducción) demostró crecimiento táctico significativo.
 
 ### **Evolución Reciente**
 
-- **Nuevo Trauma**: La pifia que hirió a Tiritas repite su mayor miedo - lastimar sin querer
-- **Redención**: Salvó la vida de Tiritas estabilizándolo, demostrando crecimiento
-- **Versatilidad de Poderes**: Usó electricidad para destruir, cocinar, recargar y escapar
-- **Liderazgo en Crisis**: Tomó decisiones clave durante el escape
+- **Iniciativa Táctica**: Saboteó el teléfono del pescador sin que se lo pidieran
+- **Versatilidad de Poderes**: Electricidad para sabotaje, arranque de coche, y más
+- **Conductora del Grupo**: A pesar de no saber conducir, llevó al grupo a salvo
+- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
+- **Superación del Trauma**: No dejó que el incidente con Tiritas la paralizara
+
+### **Estado Actual**
+
+- **Ubicación**: Motel Locaso, Distrito Lunae
+- **Estado Físico**: Recuperada de la fatiga anterior
+- **Estado Emocional**: Procesando la libertad, posible fobia al agua (metro submarino)
+- **Estado Legal**: Fugitiva buscada por Metacorps
 
 ### **Impacto Psicológico**
 
-El incidente del fuego amigo tiene paralelos directos con el accidente que la llevó al reformatorio:
-- Primera vez: Dejó a un compañero en coma sin saberlo
-- Esta vez: Hirió gravemente a Tiritas por pifia en combate
-- Diferencia crucial: Pudo salvarlo inmediatamente con primeros auxilios
-- Posible crecimiento: Aprendió que puede reparar sus errores
+El escape representa un cambio significativo para Kira:
+- **Del reformatorio a la libertad**: Primera vez que puede tomar decisiones propias
+- **Moralidad en crisis**: Participó en robos y engaños por supervivencia
+- **Relación con Tiritas**: El incidente del fuego amigo no destruyó la amistad (él bromea: "me debe macarrones")
+- **Nuevo rol**: De la recién llegada retraída a ejecutora táctica del grupo
 
 ### **Preguntas Abiertas**
 
-- ¿Cómo procesará haber herido a otro compañero?
-- ¿El incidente fortalecerá o debilitará su relación con Tiritas?
-- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
+- ¿Cómo afectará la libertad a su desarrollo?
 - ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación)?
-- ¿Su paranoia sobre el reformatorio está justificada?
 - ¿Se recuperará el compañero original que dejó en coma?
+- ¿Qué harán ahora que son libres pero fugitivos?
+- ¿Su incomodidad con el metro submarino indica una fobia más profunda?
+- ¿Buscará a su familia ahora que es libre?
 
 ## Desarrollo Potencial
 El arco de Kira podría explorar:

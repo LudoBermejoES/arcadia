@@ -192,32 +192,69 @@ Elena participó en el escape de la instalación:
 - Exhaustada pero funcional
 - Su impulsividad se mantuvo bajo control durante la crisis
 
+### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
+
+Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusiones:
+
+**En el Barco del Pescador:**
+- Creó una **ilusión de plato de macarrones** para Tiritas (que se desbarató en sardina cruda cuando falló la tirada de Astucia)
+- Ofreció **disfrazarse de Tiritas** para la fuga, pero la idea fue descartada
+
+**Fuga de la Marina:**
+- Creó **ilusión de los fugitivos** que salían por la puerta para confundir al pescador
+- La ilusión **falló parcialmente** (gastó Benny), pero dio tiempo suficiente para escapar
+
+**Camuflaje en el Centro Comercial:**
+- Poder esencial: hizo que el grupo pareciera **"gente normal"** en lugar de internos en pijama
+- **Limitación crítica**: Todos debían permanecer **muy cerca de ella** para que la ilusión funcionara
+- Mantuvo la ilusión durante toda la estancia en el centro comercial
+- **Fatiga significativa**: El uso prolongado la dejó agotada
+
+**Primera Noche de Libertad:**
+- Llegó exhausta al Motel Locaso
+- Primera noche fuera del reformatorio desde su internamiento
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 
-## Situación Actual (Enero 2026)
+## Situación Actual (Febrero 2026)
 
-Elena ha escapado del Upside Down junto con sus compañeros. Su rol como apoyo y probadora de comida (primera en probar el pescado) demostró pragmatismo. La fatiga extrema afectó su control de poderes, creando ilusiones involuntarias.
+Elena ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. Sus ilusiones demostraron ser **absolutamente esenciales** para la supervivencia del grupo en el mundo exterior.
 
 ### **Evolución Reciente**
 
-- **Valor Táctico**: Aturdió una avispa con lanzamiento de cuchillo
-- **Madurez en Crisis**: Mantuvo la impulsividad bajo control durante la emergencia
-- **Vulnerabilidad Revelada**: La fatiga hace que pierda control de sus ilusiones
-- **Parte del Equipo**: Contribuyó de manera práctica durante la supervivencia
+- **Poder Esencial**: Sus ilusiones permitieron al grupo pasar desapercibido en público
+- **Madurez en Crisis**: Mantuvo la concentración a pesar de la fatiga extrema
+- **Limitaciones Claras**: Demostró que sus ilusiones requieren proximidad y consumen energía
+- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
+
+### **Estado Actual**
+
+- **Ubicación**: Motel Locaso, Distrito Lunae
+- **Estado Físico**: Exhausta por uso prolongado de poderes
+- **Rol en el Grupo**: Apoyo táctico esencial para ocultación
+- **Estado Legal**: Fugitiva buscada por Metacorps
+
+### **Importancia Estratégica**
+
+El escape demostró que Elena es **crítica para operaciones en público**:
+- Sin sus ilusiones, el grupo no podría haber comprado suministros
+- La limitación de proximidad obliga al grupo a permanecer unido
+- Su fatiga es un factor limitante para operaciones prolongadas
 
 ### **Preguntas Abiertas**
 
 - ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
 - ¿Tiene familia en el exterior?
 - ¿Cuál es su edad exacta?
-- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
 - ¿Cómo afectará la fatiga extrema a su control de poderes a largo plazo?
-- ¿Encontrarán a Amara? (Dimitri parece confirmado como cadáver)
+- ¿Podrán depender de sus ilusiones para sobrevivir como fugitivos?
+- ¿Qué harán ahora que son libres pero fugitivos?
 
 ## Desarrollo Potencial
 El arco de Elena podría explorar:

@@ -180,6 +180,36 @@ La sesión más traumática para Tiritas hasta la fecha:
 **Línea Memorable:**
 > *"Me debe muchos macarrones"* - Tiritas sobre Kira, tras el incidente
 
+### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
+
+Tiritas atravesó el escape en **estado vulnerable pero con su espíritu intacto**:
+
+**En el Barco del Pescador:**
+- Aún gravemente herido de la sesión anterior (4 heridas)
+- Pidió macarrones al hijo del pescador (Jaime, ~12 años), solo tenían pescado
+- Elena creó una **ilusión de macarrones** que se desbarató en sardina cruda (Tiritas falló tirada de Astucia)
+- Al llegar a la marina, **pidió ser cargado** por el pescador
+
+**Dilema Moral:**
+- Cuando el pescador comenzó a preparar macarrones con queso, Tiritas consideró:
+> *"¿Sería tan malo volver al centro si los llevaban al hospital?"*
+- Este momento reveló cuánto afecta la supervivencia básica a su determinación
+
+**Fuga de la Marina:**
+- Tuvo que ser **cargado por Sergei** durante toda la huida
+- Junto con Kira, **robó queso y verduras** del pescador antes de escapar
+- Permaneció como carga logística del grupo pero mantuvo la moral
+
+**En el Centro Comercial:**
+- Se benefició del camuflaje de ilusión de Elena
+- **Compró 4 cajas de macarrones** para llevar (3 para él, 1 para el grupo)
+- Su obsesión con los macarrones continúa como rasgo distintivo
+
+**Primera Noche de Libertad:**
+- Llegó al Motel Locaso con el grupo
+- Primera noche fuera del reformatorio desde su internamiento
+- Aún con heridas pendientes de curar (regeneración al día siguiente)
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -187,26 +217,42 @@ La sesión más traumática para Tiritas hasta la fecha:
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 
-## Situación Actual (Enero 2026)
+## Situación Actual (Febrero 2026)
 
-Tiritas ha escapado del Upside Down tras una experiencia traumática: ser gravemente herido por fuego amigo de Kira y descubrir el cadáver de una de las desaparecidas. Ahora está en manos del pescador Matías Wang, exhausto, deshidratado y con heridas aún sin curar.
+Tiritas ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. A pesar de estar gravemente herido y ser una carga logística, mantuvo la moral del grupo y su espíritu intacto.
 
 ### **Evolución Reciente**
 
-- **Superviviente**: A pesar de casi morir por el ataque de Kira, se recuperó lo suficiente para escapar
-- **Resiliencia Demostrada**: Caminó descalzo por terreno volcánico y navegó hasta ser rescatado
-- **Relación con Kira**: El incidente del fuego amigo no parece haber destruido su amistad (humor: "me debe macarrones")
-- **Estado Físico**: Aún tiene 2 heridas, exhausto y deshidratado
+- **Superviviente**: A pesar de casi morir por el ataque de Kira, completó el escape
+- **Dilema Moral**: Por un momento consideró rendirse cuando le ofrecieron comida
+- **Relación con Kira**: El incidente del fuego amigo no destruyó la amistad (humor: "me debe macarrones")
+- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
+- **Obsesión Intacta**: Compró 4 cajas de macarrones incluso como fugitivo
+
+### **Estado Actual**
+
+- **Ubicación**: Motel Locaso, Distrito Lunae
+- **Estado Físico**: Aún herido, regeneración pendiente (puede curar 1 herida al día)
+- **Estado Emocional**: Aliviado pero vulnerable, necesita comida y descanso
+- **Estado Legal**: Fugitivo buscado por Metacorps
+
+### **Momento Revelador**
+
+Su dilema sobre rendirse cuando el pescador ofreció macarrones con queso revela:
+- El peso de las necesidades básicas sobre la determinación
+- Cuánto afecta el hambre y el agotamiento a las decisiones morales
+- Que incluso escapar tiene un costo emocional
 
 ### **Preguntas Abiertas**
 
 - ¿Qué edad tiene realmente? (no especificada en notas)
 - ¿Dónde está su hermana y cómo está?
-- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
 - ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación)?
-- ¿Cómo afectará a largo plazo el trauma del fuego amigo?
 - ¿Se recuperará completamente de sus heridas?
+- ¿Intentará buscar a su hermana ahora que es libre?
+- ¿Qué harán ahora que son libres pero fugitivos?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

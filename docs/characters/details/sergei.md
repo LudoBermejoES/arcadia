@@ -145,6 +145,35 @@ Sergei jugó un papel crucial en el escape de la instalación:
 - Se desmayó de agotamiento durante el viaje
 - Tiritas lo usó como sombra mientras navegaban
 
+### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
+
+Sergei emergió como **líder táctico de facto** durante el escape completo del grupo:
+
+**Fuga de la Marina:**
+- Planificó la huida mientras los pescadores llamaban a las autoridades (5 minutos de margen)
+- **Golpeó la puerta con su mano separada** para distraer al pescador mientras los demás escapaban
+- Coordinó la fuga del grupo por puerta lateral
+
+**Robo del Coche:**
+- Abrió el coche automático con **latrocinio exitoso**
+- Creó una forma innovadora de ayudar a Kira a conducir: **"Ojos GPS"**
+- Usó sus **ojos separados** para crear puntos ciegos y dar indicaciones de conducción
+- Tirada de Notar exitosa otorgó bonificador a la conducción de Kira
+
+**Robos y Supervivencia:**
+- Robó cartera a anciana en entrada del centro comercial (~300-400 pesetas)
+- Robó cartera a hombre trajeado en el metro (~2000 pesetas)
+- **Total obtenido**: ~2400 pesetas para supervivencia del grupo
+
+**Conocimiento del Mundo:**
+- Reveló conocer el **Motel Locaso** en Distrito Lunae por "historia personal" y "algún negocio"
+- Describió el motel como lugar que "no es especialmente sórdido pero no hacen preguntas"
+- Sugirió viajar en metro como forma más fácil de conseguir dinero
+
+**Primera Noche de Libertad:**
+- Guió al grupo hasta el Motel Locaso
+- El grupo pasó su primera noche fuera del reformatorio
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -152,17 +181,26 @@ Sergei jugó un papel crucial en el escape de la instalación:
 - [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 
-## Situación Actual (Enero 2026)
+## Situación Actual (Febrero 2026)
 
-Sergei ha escapado del Upside Down junto con sus compañeros, pero está exhausto y sin recursos. Fue él quien descubrió el cadáver de la desaparecida y desencadenó accidentalmente el colapso de la instalación.
+Sergei ha liderado el **escape completo de Isla Albedo** y guiado al grupo hasta su primera noche de libertad en el Motel Locaso. Se ha establecido como el **líder táctico de facto** del grupo fugitivo.
 
 ### **Evolución Reciente**
 
-- **Transformación Avanzada**: Demostró poder convertirse en herramientas complejas (pico, taladro)
-- **Descubridor del Horror**: Encontró el cadáver y confirmó el destino de los desaparecidos
-- **Agotamiento Total**: Gastó su último Benny y se desmayó de agotamiento
-- **Información Crucial**: Sabe que la demolición de las escaleras fue intencionada
+- **Líder Táctico**: Emergió como coordinador y tomador de decisiones del grupo
+- **Uso Innovador de Poderes**: "Ojos GPS" separados para ayudar a Kira a conducir
+- **Conocimiento del Mundo**: Reveló experiencia previa con el submundo (conoce moteles, sabe robar)
+- **Habilidades de Supervivencia**: Latrocinio exitoso, ~2400 pesetas robadas para el grupo
+- **Primera Libertad**: Pasó su primera noche fuera del reformatorio en años
+
+### **Estado Actual**
+
+- **Ubicación**: Motel Locaso, Distrito Lunae
+- **Recursos**: Aproximadamente 2000 pesetas restantes
+- **Estado Físico**: Recuperado del agotamiento anterior
+- **Estado Legal**: Fugitivo buscado por Metacorps
 
 ### **Preguntas Abiertas**
 
@@ -170,9 +208,10 @@ Sergei ha escapado del Upside Down junto con sus compañeros, pero está exhaust
 - **¿Qué causó su pérdida de memoria?** (revelado en Sesión 2)
 - **¿Qué significan sus pesadillas recurrentes?** (se despierta alterado sin recordar)
 - ¿Tiene familia fuera o el reformatorio es su único hogar?
-- ¿Qué hará Matías Wang? ¿Los devolverá al reformatorio?
-- ¿Podrán denunciar lo que descubrieron?
+- ¿Cómo conoce el Motel Locaso y el submundo de Arcadia?
+- ¿Podrán denunciar lo que descubrieron en el Upside Down?
 - ¿Su amnesia está relacionada con los misterios del reformatorio?
+- ¿Qué harán ahora que son libres pero fugitivos?
 
 ---
 

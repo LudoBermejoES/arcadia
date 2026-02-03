@@ -90,8 +90,20 @@ class ArcadiaSearch {
   }
 
   bindEvents() {
+    console.log('bindEvents - toggleBtn:', this.toggleBtn);
+    console.log('bindEvents - modal:', this.modal);
+
     // Abrir modal
-    this.toggleBtn?.addEventListener('click', () => this.open());
+    if (this.toggleBtn) {
+      this.toggleBtn.addEventListener('click', (e) => {
+        console.log('Click en botón de búsqueda');
+        e.preventDefault();
+        e.stopPropagation();
+        this.open();
+      });
+    } else {
+      console.warn('No se encontró el botón .search-toggle');
+    }
 
     // Cerrar modal
     this.closeBtn?.addEventListener('click', () => this.close());
@@ -157,7 +169,11 @@ class ArcadiaSearch {
   }
 
   open() {
-    this.modal?.classList.add('active');
+    console.log('open() llamado, modal:', this.modal);
+    if (this.modal) {
+      this.modal.classList.add('active');
+      console.log('Clase active añadida, classList:', this.modal.classList);
+    }
     this.input?.focus();
     document.body.style.overflow = 'hidden';
   }
@@ -438,5 +454,11 @@ class ArcadiaSearch {
 
 // Inicializar búsqueda cuando DOM esté listo
 document.addEventListener('DOMContentLoaded', () => {
-  window.arcadiaSearch = new ArcadiaSearch();
+  // Pequeño delay para asegurar que todos los elementos estén renderizados
+  setTimeout(() => {
+    window.arcadiaSearch = new ArcadiaSearch();
+    console.log('ArcadiaSearch inicializado');
+    console.log('Toggle button encontrado:', !!document.querySelector('.search-toggle'));
+    console.log('Modal encontrado:', !!document.getElementById('searchModal'));
+  }, 0);
 });

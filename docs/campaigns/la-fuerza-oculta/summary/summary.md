@@ -61,7 +61,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 
 ### Fase VII: Encuentros con el Pasado (Septiembre 2025)
 - [Sesión 31: Mentores y Decisiones en el Barrio Gótico](#sesión-31-mentores-y-decisiones-en-el-barrio-gótico-14-septiembre-2025)
-- [Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia](#sesión-33-el-entrenamiento-de-psique-y-el-secreto-de-sentencia-21-septiembre-2025)
+- [Sesión 32: El Entrenamiento de Psique y el Secreto de Sentencia](#sesión-32-el-entrenamiento-de-psique-y-el-secreto-de-sentencia-21-septiembre-2025)
 - [Sesión 35: Fuga del Hospital y Mambo y Zambo](#sesión-35-fuga-del-hospital-28-septiembre-2025)
 
 ### Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)
@@ -96,6 +96,8 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 
 ### Sesión 1: La Selección (24 marzo 2024)
 
+📎 [Manual](../manual-notes/session-01-2024-03-24.md)
+
 La historia comienza cuando seis jóvenes metahumanos son convocados individualmente para participar en la fase final del polémico reality show "Héroes o Villanos" de la Radio Televisión de Arcadia (RTA). El programa se desarrolla en las instalaciones de la Plaza de España, lugar conocido por albergar una "bomba paralizada".
 
 **Participantes seleccionados:**
@@ -118,6 +120,8 @@ Los jóvenes firman papeles y son trasladados a través de un portal a una miste
 
 ### Sesión 2: Rutina y Primeras Revelaciones (24 marzo 2024)
 
+📎 [Manual](../manual-notes/session-02-2024-03-24.md)
+
 La segunda sesión establece la rutina diaria del programa:
 
 **Horario estructurado:**
@@ -137,6 +141,8 @@ La segunda sesión establece la rutina diaria del programa:
 - 2:00 AM - Primera prueba nocturna: descenso en ascensor de caída libre a niveles subterráneos
 
 ### Sesión 3: La Primera Prueba y la Baronesa (31 marzo 2024)
+
+📎 [Manual](../manual-notes/session-03-2024-03-31.md)
 
 **La Prueba de Combate:**
 En los niveles subterráneos metálicos de la instalación, los participantes enfrentan su primera prueba oficial. **La Baronesa**, una supervillana metamorfa colaborando para reducir su condena, supervisa un combate contra robots de entrenamiento.
@@ -161,6 +167,8 @@ Este incidente marca el primer momento donde el grupo experimenta peligro real y
 
 ### Sesión 4: Cambios en la Administración (14 abril 2024)
 
+📎 [Manual](../manual-notes/session-04-2024-04-14.md)
+
 **Consecuencias del incidente:**
 - La Baronesa es removida del programa tras el "accidente"
 - **Waldo Gutiérrez**, ex-jefe de Metacorps, asume control directo
@@ -174,6 +182,8 @@ Este incidente marca el primer momento donde el grupo experimenta peligro real y
 - Restructuración del programa educativo con profesores especializados
 
 ### Sesiones 5-6: Incursiones Nocturnas y Nuevos Mentores (14-21 abril 2024)
+
+📎 [Manual S5](../manual-notes/session-05-2024-04-14.md) | [Manual S6](../manual-notes/session-06-2024-04-21.md)
 
 **Introducción de Espectro:**
 **Espectro**, veterano metahumano que fundó organización paramilitar hace 5-6 años, reemplaza a Comadreja como instructor de combate. Su enfoque es más civilizado y técnico:
@@ -204,6 +214,8 @@ Este incidente marca el primer momento donde el grupo experimenta peligro real y
 
 ### Sesiones 7-9: Escalada de Tensiones (28 abril - 26 mayo 2024)
 
+📎 [Manual S7](../manual-notes/session-07-2024-04-28.md) | [Manual S8](../manual-notes/session-08-2024-05-19.md) | [Manual S9](../manual-notes/session-09-2024-05-26.md)
+
 **Deterioro de la situación:**
 - Incremento en ataques telepáticos nocturnos
 - Aparición de **Metalo**, mercenario metálico que ataca repetidamente
@@ -218,6 +230,8 @@ Este incidente marca el primer momento donde el grupo experimenta peligro real y
 - Eslizón desarrolla habilidades de camuflaje avanzado
 
 ### Sesión 10: La Noche de las Confesiones (26 mayo 2024)
+
+📎 [Manual](../manual-notes/session-10-2024-05-26.md)
 
 **La sesión de terapia grupal más importante de la campaña:**
 
@@ -273,6 +287,8 @@ Esta sesión marca un punto de inflexión donde el grupo evoluciona de participa
 
 ### Sesión 11: El Ataque a la Mansión (16 junio 2024)
 
+📎 [Manual](../manual-notes/session-11-2024-06-16.md)
+
 **El momento que cambia todo:**
 
 Justa, dirigiéndose al onsen con un batido de multifrutas, descubre un equipo de asalto armado en el jardín. El enlace telepático de Psique transmite el terror: *"¡Nos atacan!"*
@@ -304,6 +320,8 @@ Justa, dirigiéndose al onsen con un batido de multifrutas, descubre un equipo d
 - Primera muerte causada directamente por el grupo
 
 ### Sesión 12: Hospital Subterráneo y Primer Contacto (7 julio 2024)
+
+📎 [Manual](../manual-notes/session-12-2024-07-07.md)
 
 **En las instalaciones subterráneas de Metacorps:**
 
@@ -343,6 +361,8 @@ A través de pantallas del hospital, **Cacharrina** (Sara Nº 9) establece comun
 
 ### Sesiones 13-15: Fuga y Refugio en el Gótico (14 julio - 28 julio 2024)
 
+📎 [Manual S13](../manual-notes/session-13-2024-07-14.md) | [Manual S14](../manual-notes/session-14-2024-07-21.md) | [Manual S15](../manual-notes/session-15-2024-07-28.md)
+
 **La Gran Fuga:**
 El grupo ejecuta el plan de escape usando los planos proporcionados por Cacharrina. **Eslizón** logra desactivar los collares inhibidores mientras **Diana** y **Astrid** crean distracciones. La fuga es exitosa gracias a coordinación telepática residual de **Psique**, quien despierta en momento crucial.
 
@@ -376,6 +396,8 @@ Esta intervención libera permanentemente a **Bate** de las "bombas mentales" y 
 - **Hotman** lidia con culpa por primera muerte causada
 
 ### Sesiones 16-17: El Juicio y la Sentencia (18 agosto - 25 agosto 2024)
+
+📎 [Manual S16](../manual-notes/session-16-2024-08-18.md) | [Manual S17](../manual-notes/session-17-2024-08-25.md)
 
 **Decisión de entregarse (18 agosto):**
 
@@ -424,6 +446,8 @@ Durante traslado a comisaría:
 
 ### Sesión 20: Arcadia, Refugio de Metahumanos (15 junio 2025)
 
+📎 [Manual](../manual-notes/session-20-2025-06-15.md) | [AI](../ai-notes/2025-06-15-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-06-15-gemini-notes.md)
+
 **Después de 10 meses como fugitivos:**
 
 El grupo es trasladado a **Arcadia**, isla volcánica artificial en el Atlántico:
@@ -449,6 +473,11 @@ El grupo es trasladado a **Arcadia**, isla volcánica artificial en el Atlántic
 - *"Aplicar justicia por encima de la ley"*
 
 ### Sesión 21-24: Búsqueda de Independencia (22 junio - 20 julio 2025)
+
+📎 **S21**: [Manual](../manual-notes/session-21-2025-06-22.md) | [AI](../ai-notes/2025-06-22-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-06-22-gemini-notes.md)
+📎 **S22**: [Manual](../manual-notes/session-22-2025-07-06.md) | [AI](../ai-notes/2025-07-06-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-07-06-gemini-notes.md)
+📎 **S23**: [Manual](../manual-notes/session-23-2025-07-13.md) | [AI](../ai-notes/2025-07-13-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-07-13-gemini-notes.md)
+📎 **S24**: [Manual](../manual-notes/session-24-2025-07-20.md) | [AI](../ai-notes/2025-07-20-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-07-20-gemini-notes.md)
 
 **Dinámicas de grupo evolucionadas:**
 - **Hotman** muestra signos de exclusión, busca validación
@@ -487,6 +516,8 @@ Una entidad robótica establece comunicación a través de:
 
 ### Sesión 25: Enfrentamiento con La Farándula (27 julio 2025)
 
+📎 [Manual](../manual-notes/session-25-2025-07-27.md) | [AI](../ai-notes/2025-07-28-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-07-28-gemini-notes.md)
+
 **Primera misión oficial como héroes independientes:**
 
 La sesión del 27 de julio marca un momento crucial en la evolución del grupo como equipo superheroico profesional. Durante su primera misión oficial tras obtener trajes y establecer base operativa, se infiltran en una operación subterránea de tráfico de drogas.
@@ -521,6 +552,8 @@ El grupo se enfrenta por primera vez a un miembro de **La Farándula**:
 Esta sesión demuestra la transformación definitiva del grupo de adolescentes impulsivos a héroes responsables, mostrando disciplina táctica, trabajo en equipo coordinado y resistencia a tentaciones que antes los habrían dominado.
 
 ### Sesión 26: Entrega de Justicia y Establecimiento de Base (3 agosto 2025)
+
+📎 [Manual](../manual-notes/session-26-2025-08-03.md) | [AI](../ai-notes/2025-08-03-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-08-03-gemini-notes.md)
 
 **Consolidación de la independencia heroica:**
 
@@ -584,6 +617,8 @@ Esta sesión marca la transición completa de adolescentes fugitivos a héroes i
 
 ### Sesión 27: Compras en [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/) y Ataque de Les Enfant Terribles (10 agosto 2025)
 
+📎 [Manual](../manual-notes/session-27-2025-08-10.md) | [AI](../ai-notes/2025-08-10-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-08-10-gemini-notes.md)
+
 **De compras cotidianas a crisis emergente:**
 
 La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia mundana de equipar su base con electrodomésticos en el centro comercial [Almacenes Hêvî]({{ site.baseurl }}/locations/almacenes-hevi/), en el **Distrito Martis**. La rutina se ve dramáticamente interrumpida por el primer ataque organizado que enfrentan como héroes independientes.
@@ -616,6 +651,8 @@ La sesión del 10 de agosto presenta a La Fuerza Oculta navegando la experiencia
 Esta sesión marca el equilibrio entre aspiraciones de normalidad adolescente (compras, moda, diversión) y la realidad constante de vida heroica pública, culminando en la introducción de **Les Enfant Terribles** como nueva amenaza organizacional que requiere respuesta inmediata.
 
 ### Sesión 28: Les Enfant Terribles y el Retorno de los Monos Dorados (17 agosto 2025)
+
+📎 [Manual](../manual-notes/session-28-2025-08-17.md) | [AI](../ai-notes/2025-08-17-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-08-17-gemini-notes.md)
 
 **Crisis de comunicación y amenaza histórica:**
 
@@ -675,6 +712,8 @@ Esta sesión marca la primera confrontación mayor de La Fuerza Oculta con amena
 
 ### Sesión 29: Gorilas Dorados y los Siete Abominables (24 agosto 2025)
 
+📎 [Manual](../manual-notes/session-29-2024-08-24.md) | [AI](../ai-notes/2025-08-24-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-08-24-gemini-notes.md)
+
 **Combate épico y alianzas pragmáticas:**
 
 La sesión del 24 de agosto presenta el enfrentamiento más grande y complejo de La Fuerza Oculta hasta la fecha, donde múltiples gorilas dorados emergen simultáneamente y el grupo debe enfrentar tanto amenazas históricas como leyendas vivientes del pasado villano de Arcadia.
@@ -705,6 +744,8 @@ La sesión del 24 de agosto presenta el enfrentamiento más grande y complejo de
 - **Supervivencia pragmática**: Priorización de resultados sobre ideología
 
 ### Sesión 30: Repercusiones y Búsqueda de Orientación (30 agosto 2025)
+
+📎 [Manual](../manual-notes/session-30-2024-08-30.md) | [AI](../ai-notes/2025-08-30-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-08-30-gemini-notes.md)
 
 **Consecuencias mediáticas y trauma heroico:**
 
@@ -753,6 +794,8 @@ Esta sesión establece la transición hacia mentoria veterana y desarrollo perso
 ## Fase VII: Encuentros con el Pasado (Septiembre 2025)
 
 ### Sesión 31: Mentores y Decisiones en el Barrio Gótico (14 septiembre 2025)
+
+📎 [Manual](../manual-notes/session-31-2024-09-08.md) | [AI](../ai-notes/2025-09-14-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-09-14-gemini-notes.md)
 
 **La elección que define el poder:**
 
@@ -810,7 +853,9 @@ La sesión del 14 de septiembre marca un momento definitorio en el desarrollo mo
 
 Esta sesión representa el momento donde La Fuerza Oculta elige conscientemente el camino difícil del desarrollo gradual sobre el atajo del poder instantáneo, estableciendo que el verdadero heroísmo no radica en el poder que se posee, sino en la sabiduría para saber cuándo no adquirirlo.
 
-### Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia (21 septiembre 2025)
+### Sesión 32: El Entrenamiento de Psique y el Secreto de Sentencia (21 septiembre 2025)
+
+📎 [Manual](../manual-notes/session-32-2024-09-14.md) | [Resumen](../ai-notes-summary/2025-09-15-session-33-notes.md)
 
 **Redención a través del sacrificio:**
 
@@ -862,6 +907,8 @@ Esta sesión demuestra que el verdadero heroísmo a veces requiere tanto el sacr
 ## Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)
 
 ### Sesión 33: Pizza, Discriminación y Carreras Ilegales (5 octubre 2025)
+
+📎 [Manual](../manual-notes/session-33-2024-10-05.md) | [AI](../ai-notes/2025-10-05-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-10-05-gemini-notes.md)
 
 **Incidente de discriminación metahumana:**
 
@@ -939,6 +986,8 @@ Tres opciones sopesadas:
 Esta sesión expone las complejidades de la discriminación metahumana en Arcadia, mostrando cómo incluso una broma puede revelar realidades sociales dolorosas. La elección de perseguir a Cacharrero a través de carreras ilegales establece una vía narrativa que combina acción, crimen organizado y desarrollo de personajes.
 
 ### Sesión 34: Robo del Sombrío y Carrera Ilegal (12 octubre 2025)
+
+📎 [Manual](../manual-notes/session-36-2024-10-12.md) | [AI](../ai-notes/2025-10-12-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-10-12-gemini-notes.md)
 
 **Ejecución del plan más audaz:**
 
@@ -1093,6 +1142,8 @@ Esta sesión representa la escalada máxima de audacia del grupo, donde traicion
 
 ### Sesión 37: El Puente de Moebius y el Origen de Pantomima (2 noviembre 2025)
 
+📎 [Manual](../manual-notes/session-37-2025-11-02.md) | [AI](../ai-notes/2025-11-02-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-11-02-gemini-notes.md)
+
 **El descubrimiento dimensional más importante de la campaña:**
 
 Durante la carrera ilegal por los puentes de Arcadia, el Bugatti del Sombrío transporta al grupo a través de un fenómeno interdimensional: **el Puente de Moebius**, una dimensión de bolsillo accesible únicamente a través del vehículo legendario.
@@ -1238,6 +1289,8 @@ Tras el combate, **Diana y Pantomima** descubren que han **perdido sus poderes t
 
 ### Sesión Intercalada: La Cacería Salvaje del Barrio Gótico (23 noviembre 2025)
 
+📎 [AI](../ai-notes/2025-11-23-gemini-motes.md)
+
 **Contacto oficial vía @metas.com:**
 
 **La Cacería Salvaje**, grupo de cinco meta-humanos felinos que patrullan el Barrio Gótico, contactan a La Fuerza Oculta solicitando ayuda urgente.
@@ -1307,6 +1360,8 @@ Tras la bendición y protección, el grupo regresa con Nacho descubriendo que ca
 ---
 
 ### Sesión 42: Resolución del Ataque y el Chip de Control (7 diciembre 2025)
+
+📎 [Manual](../manual-notes/session-42-2025-12-07.md) | [AI](../ai-notes/2025-12-07-gemini-notes.md)
 
 **Culminación del asalto mercenario:**
 
@@ -1434,6 +1489,8 @@ Al día siguiente, cita en **Metalurgia Rashid** (siderúrgica abandonada en dis
 
 ### Sesión 43: Investigación del Padre Bestia y Primer Vuelo de Hotman (21 diciembre 2025)
 
+📎 [Manual](../manual-notes/session-43-2025-12-21.md) | [AI](../ai-notes/2025-12-21-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-12-21-gemini-notes.md)
+
 **La misión de La Cacería Salvaje comienza:**
 
 El grupo inicia la investigación solicitada por La Cacería Salvaje sobre actividad sospechosa del "padre bestia" en el Distrito Mercury.
@@ -1462,6 +1519,8 @@ La sesión culmina con un evento dramático:
 ---
 
 ### Sesión 44: Mercenarios Constellis y el Desguace (28 diciembre 2025)
+
+📎 [Manual](../manual-notes/session-44-2025-12-28.md) | [Resumen](../ai-notes-summary/2025-12-28-gemini-notes.md)
 
 **Encuentro hostil con mercenarios profesionales:**
 
@@ -1497,6 +1556,8 @@ La investigación del padre bestia rinde frutos:
 
 ### Sesión 45: Asalto al Desguace (4 enero 2026)
 
+📎 [Manual](../manual-notes/session-45-2026-01-04.md) | [AI](../ai-notes/2026-01-04-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-01-04-gemini-notes.md)
+
 **Ejecución del plan de rescate:**
 
 La Fuerza Oculta ejecuta el asalto a El Desguace para rescatar a los cachorros bestiales.
@@ -1522,6 +1583,8 @@ La Fuerza Oculta ejecuta el asalto a El Desguace para rescatar a los cachorros b
 ---
 
 ### Sesión 46: Explosión del Helicóptero y Crisis Mediática (11 enero 2026)
+
+📎 [Manual](../manual-notes/session-46-2026-01-11.md) | [AI](../ai-notes/2026-01-11-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-01-11-gemini-notes.md)
 
 **El momento más público de La Fuerza Oculta:**
 
@@ -1562,6 +1625,8 @@ En medio de la crisis:
 
 ### Sesión 47: Casino de Dionisios y el Dilema de Mulcifer (18 enero 2026)
 
+📎 [Manual](../manual-notes/session-47-2026-01-18.md) | [AI](../ai-notes/2026-01-18-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-01-18-gemini-notes.md)
+
 **La oferta que divide al grupo:**
 
 **Reunión en el Casino de Dionisios:**
@@ -1600,6 +1665,8 @@ La sesión termina sin resolución del dilema, dejando la tensión para la sigui
 ---
 
 ### Sesión 48: División del Grupo y Emboscada de Metacorps (25 enero 2026)
+
+📎 [Manual](../manual-notes/session-48-2026-01-25.md) | [AI](../ai-notes/2026-01-25-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-01-25-gemini-notes.md)
 
 **Resolución del dilema y catástrofe inmediata:**
 
@@ -1656,6 +1723,8 @@ Al salir del casino:
 ## Fase XIII: Refugio y Revelaciones (Febrero 2026)
 
 ### Sesión 49: El Refugio de Mésmero y el Encuentro con los Muertos (1 febrero 2026)
+
+📎 [Manual](../manual-notes/session-49-2026-02-01.md) | [AI](../ai-notes/2026-02-01-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-01-gemini-notes.md)
 
 **Escape milagroso y transformación fundamental:**
 

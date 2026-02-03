@@ -61,85 +61,6 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ---
 
-## 📖 Cronología de Aventuras
-
-### 🎬 **Fase I: Formación y Selección (Marzo 2024)**
-- **[24 Marzo](manual-notes/session-01-2024-03-24.md)**: Selección para "Héroes o Villanos" de RTA, llegada a la isla misteriosa
-- **[24 Marzo](manual-notes/session-02-2024-03-24.md)**: Instalación en la mansión, primera crisis con la Baronesa
-- **[31 Marzo](manual-notes/session-03-2024-03-31.md)**: Eslizón herido, revelación sobre la Baronesa (200 muertes), intervención de Comadreja
-
-### 🏋️ **Fase II: Entrenamiento y Desarrollo (Abril 2024)**
-- **[14 Abril](manual-notes/session-04-2024-04-14.md)**: Día libre post-crisis, encuentro mental hostil con "los vecinos"
-- **[14 Abril](manual-notes/session-05-2024-04-14.md)**: Cambio de instructor - llega Espectro sustituyendo a Comadreja
-- **[21 Abril](manual-notes/session-06-2024-04-21.md)**: Contramedidas anti-psíquicas, introducción al mundo metahumano
-- **[28 Abril](manual-notes/session-07-2024-04-28.md)**: Correo familiar, Astrid recibe hoverpatinete misterioso
-
-### 🎯 **Fase III: Pruebas y Revelaciones (Mayo 2024)**
-- **[19 Mayo](manual-notes/session-08-2024-05-19.md)**: Segunda prueba contra robots, mejora del trabajo en equipo
-- **[26 Mayo](manual-notes/session-09-2024-05-26.md)**: Aparición de Mésmero, sesión de revelaciones personales
-- **[26 Mayo](manual-notes/session-10-2024-05-26.md)**: Cia se revela transgénero, Diana conectada a Fatum, formación de parejas
-
-### ⚔️ **Fase IV: Primera Crisis Mayor (Junio-Julio 2024)**
-- **[16 Junio](manual-notes/session-11-2024-06-16.md)**: Ataque de Cromado buscando a Diana, escape con ayuda de Garra
-- **[7 Julio](manual-notes/session-12-2024-07-07.md)**: Refugio en Distrito Gótico, encuentro con Mésmero en trance
-- **[14 Julio](manual-notes/session-13-2024-07-14.md)**: Viaje por la mente de Mésmero, recuperación de Bate de La Familia
-- **[21 Julio](manual-notes/session-14-2024-07-21.md)**: Trauma de Justa, reencuentro con la muerte de su padre
-- **[28 Julio](manual-notes/session-15-2024-07-28.md)**: Mésmero como "voz de los muertos", reunión final
-
-### ⚖️ **Fase V: Transición a Fugitivos (Agosto 2024)**
-- **[18 Agosto](manual-notes/session-16-2024-08-18.md)**: Entrega voluntaria, proceso con Ana Montenegro, adopción del nombre "Fuerza Oculta"
-- **[25 Agosto](manual-notes/session-17-2024-08-25.md)**: Juicio público, sentencia con collares inhibidores, escape por intervención misteriosa
-
-### 🦸‍♂️ **Fase VI: Consolidación Heroica (Junio-Agosto 2025)**
-- **[15 Junio](manual-notes/session-20-2025-06-15.md)**: Reunión en mansión Fatum tras meses separados, decisión de ser superhéroes independientes
-- **[22 Junio](manual-notes/session-21-2025-06-22.md)**: Ataque a la mansión, huida, llegada al gimnasio de Comadreja
-- **[6 Julio](manual-notes/session-22-2025-07-06.md)**: Visita a Charada el sastre, diseño de trajes oficiales
-- **[13 Julio](manual-notes/session-23-2025-07-13.md)**: Recepción de trajes, contacto con voz misteriosa, oferta de base en metro
-- **[20 Julio](manual-notes/session-24-2025-07-20.md)**: Primera misión oficial, infiltración subterránea, descubrimiento de La Farándula
-- **[27 Julio](manual-notes/session-25-2025-07-27.md)**: Enfrentamiento con Dulcinea/Aldonza Lorenzo, revelación del Puño Gris y sustancias potenciadoras
-- **[3 Agosto](manual-notes/session-26-2025-08-03.md)**: Entrega de mercenarios, establecimiento de base e ingresos independientes
-- **[10 Agosto](manual-notes/session-27-2025-08-10.md)**: Compras en Almacenes Hêvî, ataque de Les Enfant Terribles
-- **[17 Agosto](manual-notes/session-28-2025-08-17.md)**: Les Enfant Terribles, monos dorados
-- **[24 Agosto](manual-notes/session-29-2024-08-24.md)**: Combate contra gorilas dorados, Emperatriz de Jade, alianza con 7 Abominables
-- **[30 Agosto](manual-notes/session-30-2024-08-30.md)**: Repercusiones mediáticas, trauma postraumático, búsqueda de mentores
-
-### 🧙 **Fase VII: Encuentros con el Pasado (Septiembre 2025)**
-- **[14 Septiembre](manual-notes/session-32-2024-09-14.md)**: Barrio Gótico, encuentro con Espectro y Mentallo, rechazo de jeringuilla
-- **[23 Septiembre](manual-notes/session-34-2024-09-23.md)**: Entrenamiento con Mésmero, Sentencia entrega prótesis a Les Enfant
-- **[28 Septiembre](manual-notes/session-35-2024-09-28.md)**: Fuga de hospital, encuentro con Mambo y Zambo
-
-### 🕵️ **Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)**
-- **[5 Octubre](ai-notes-summary/2025-10-05-gemini-notes.md)**: Incidente de discriminación en pizzería, video viral de Hotman con Mambo y Zambo, investigación para contactar a Cacharrero, decisión de participar en carreras ilegales
-- **[12 Octubre](manual-notes/session-36-2024-10-12.md)** / **[AI](ai-notes/2025-10-12-gemini-notes.md)**: Feria de coches clásicos, descubrimiento del Bugatti Sombrío de titanio, robo audaz, carrera ilegal por los puentes de Arcadia
-
-### 🌀 **Fase IX: Dimensiones, Revelaciones y Fiesta en Isla Sal (Noviembre 2025)**
-- **[2 Noviembre](ai-notes/2025-11-02-gemini-notes.md)** / **[Manual](manual-notes/session-37-2025-11-02.md)**: Durante carrera ilegal, Bugatti accede al Puente de Moebius (bolsillo dimensional), revelación del linaje de Pantomima (hija de Caos, nieta de Sombrío), Pinky revelado como proyección mental, adopción del nombre "Pantomima"
-- **[2 Noviembre](manual-notes/session-38-2025-11-02.md)**: Fiesta de Eneiros en Isla Sal, ofrecimiento de pupilaje a Hotman
-
-### ⚔️ **Fase X: Ataques Coordinados y Crisis Personal (Noviembre-Diciembre 2025)**
-- **[16 Noviembre](ai-notes/2025-11-16-gemini-notes.md)** / **[Manual](manual-notes/session-40-2025-11-16.md)**: Ataque de Cazacapas en Isla Sal, Diana y Pantomima pierden poderes por dardos supresores, defensa coordinada del equipo
-- **[23 Noviembre](ai-notes/2025-11-23-gemini-motes.md)**: Contacto con La Cacería Salvaje, misión encargada para investigar "Padre Bestia" en el Barrio Gótico
-- **[30 Noviembre](ai-notes/2025-11-30-gemini-notes.md)**: Combate con mercenarios, negociación de Sentencia
-- **[7 Diciembre](ai-notes/2025-12-07-gemini-notes.md)** / **[Manual](manual-notes/session-42-2025-12-07.md)**: Chip implantado en Hotman por atacante invisible, mensaje holográfico del padre repudiándolo, Eneiros crea collar de oro bloqueador, El Cacharrero extrae el chip en Metalurgia Rashid, Eneiros rechaza ser padrino de Hotman
-- **[21 Diciembre](ai-notes/2025-12-21-gemini-notes.md)** / **[Manual](manual-notes/session-43-2025-12-21.md)**: Pantomima pregunta a Cacharrero por Caos (quien encargó el monopatín), Hotman descubre poder de vuelo durante momento íntimo con Justa, pulso electromagnético apaga Distrito Mercury, investigación de Padre Bestia en edificio abandonado, combate con hombres bestiales
-- **[28 Diciembre](ai-notes-summary/2025-12-28-gemini-notes.md)** / **[Manual](manual-notes/session-44-2025-12-28.md)**: Combate con mercenarios de Constellis, descubrimiento de secuestro de crías bestiales, interrogatorio brutal de Diana, localización del desguace donde tienen a las crías
-
-### 🐾 **Fase XI: Rescate de las Crías Bestiales (Enero 2026)**
-
-- **[4 Enero](ai-notes-summary/2026-01-04-gemini-notes.md)** / **[Manual](manual-notes/session-45-2026-01-04.md)**: Operación de asalto al desguace, Protocolo Dame Veneno para interferencia de comunicaciones, combate coordinado contra mercenarios, rescate exitoso de las 4 crías bestiales (caimancito, murciélago, perrito, ratilla)
-- **[11 Enero](ai-notes-summary/2026-01-11-gemini-notes.md)** / **[Manual](manual-notes/session-46-2026-01-11.md)**: Escape del desguace bajo ataque de helicóptero, Cía derriba el helicóptero con ataque mental, descubrimiento de capacidades ocultas de la furgoneta (300 km/h, botones de vuelo), crías llevadas a Planet Pizza, crisis mediática por vídeo filtrado de Diana, llamada de Mulcifer invitando al casino familiar de Fatum
-
-### 🎰 **Fase XII: Crisis Mediática y Dilemas Morales (Enero 2026)**
-
-- **[18 Enero](ai-notes-summary/2026-01-18-gemini-notes.md)** / **[Manual](manual-notes/session-47-2026-01-18.md)**: Crisis de imagen con videos manipulados, comunicado desastroso de Hotman, visita al Casino de Dionisios, encuentro con Mulcifer (padrino de Diana, hombre de obsidiana de 2.40m), revelación de fusión de familia de Diana con Telaraña, ofrecimiento de dinero "manchado de sangre", dilema moral épico entre Justa y Diana sobre ética y pragmatismo
-- **[25 Enero](ai-notes-summary/2026-01-25-gemini-notes.md)** / **[Manual](manual-notes/session-48-2026-01-25.md)**: Resolución del dilema moral (Diana y Sique aceptan a título personal, resto rechaza), Mulcifer entrega llaves de mansión y tarjeta de "Fatum", **emboscada de Metacorps** al salir del casino, Hotman y Pantomima incapacitados, Justa herida grave rescata a compañeros, **Diana se entrega voluntariamente**, Justa huye en furgoneta con heridos
-
-### 🏚️ **Fase XIII: Refugio y Revelaciones (Febrero 2026)**
-
-- **[1 Febrero](ai-notes-summary/2026-02-01-gemini-notes.md)** / **[Manual](manual-notes/session-49-2026-02-01.md)**: Sentencia dispara y Diana desarma al último Metacorp - **todos escapan**, crisis mediática total (un Metacorp muerto, dos en pronóstico reservado), comunicado fallido de Hotman, **refugio en parque de bomberos de Mésmero**, confrontación terapéutica brutal, Mésmero consume droga meta y **Sentencia habla con el espíritu de su padre**, revelación de **dos millones de almas egipcias** atrapadas (Ba en Mésmero, Akh en el Faraón, necesitan el Ka), Sentencia emerge transformada con nueva misión: salvar las almas en lugar de vengarse, **Hotman decide entregarse** y queda perdido en el Barrio Gótico
-
----
-
 ## 📊 Estadísticas de la Campaña
 
 <div class="stats-grid">
@@ -175,14 +96,6 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ### 📅 **Por Fecha**
 - **[📁 Sesiones Cronológicas](sessions/)** - Todas las sesiones organizadas por fecha
-- **[📁 Junio 2025](sessions/#junio-2025---los-fugitivos)** - Los orígenes como fugitivos  
-- **[📁 Julio 2025](sessions/#julio-2025---profesionalización-heroica)** - Profesionalización del equipo
-- **[📁 Agosto 2025](sessions/#agosto-2025---independencia-heroica)** - Establecimiento de independencia
-
-### 🎯 **Por Tema**
-- **[⚖️ Navegación Temática](sessions/#navegación-temática)** - Análisis por temas narrativos
-- **[👥 Evolución de la Campaña](sessions/#evolución-de-la-campaña)** - Fases y desarrollo
-- **[🌃 Análisis de Contenido](sessions/#análisis-por-contenido)** - Por tipo de registro
 
 ---
 

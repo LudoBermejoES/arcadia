@@ -23,39 +23,43 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  gap: 8px;
-  padding: 8px 12px;
-  background: var(--search-bg);
-  border: 2px solid var(--search-accent);
-  border-radius: 8px;
-  color: var(--search-text);
+  gap: 6px;
+  padding: 8px 14px;
+  background: #FABD00;
+  border: 3px solid #333;
+  border-radius: 15px;
+  color: #333;
   cursor: pointer;
-  transition: all 0.2s ease;
-  font-family: 'Bangers', cursive, sans-serif;
+  transition: all 0.3s ease;
+  font-family: 'Bangers', cursive;
+  font-size: 1.1rem;
+  float: right;
+  margin: 6px 10px 6px 0;
 }
 
 .search-toggle:hover {
-  background: var(--search-accent);
-  color: white;
-  transform: scale(1.05);
-  box-shadow: 0 4px 12px rgba(233, 69, 96, 0.4);
+  background: #fff;
+  transform: scale(1.08);
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
 }
 
 .search-toggle svg {
   width: 18px;
   height: 18px;
+  stroke: #333;
 }
 
 .search-shortcut {
-  font-size: 0.7rem;
-  opacity: 0.7;
+  font-size: 0.75rem;
+  opacity: 0.8;
 }
 
 .search-shortcut kbd {
-  background: rgba(255, 255, 255, 0.1);
+  background: rgba(0, 0, 0, 0.15);
   padding: 2px 6px;
   border-radius: 4px;
   font-family: monospace;
+  color: #333;
 }
 
 /* ============================================

@@ -1343,6 +1343,8 @@ Al día siguiente, cita en **Metalurgia Rashid** (siderúrgica abandonada en dis
 - El dinero puede comprar formas de neutralizar superpoderes
 - Cacharrero representa el equilibrio: tecnología al servicio de quienes la necesitan
 
+---
+
 ### Sesión 43: Investigación del Padre Bestia y Primer Vuelo de Hotman (21 diciembre 2025)
 
 **La misión de La Cacería Salvaje comienza:**

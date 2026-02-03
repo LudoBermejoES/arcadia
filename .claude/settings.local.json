@@ -66,7 +66,8 @@
       "Bash(bundle exec jekyll build:*)",
       "Bash(bundle install:*)",
       "WebFetch(domain:arcadia.ludobermejo.es)",
-      "Bash(gh run list:*)"
+      "Bash(gh run list:*)",
+      "Bash(git restore:*)"
     ],
     "deny": [],
     "ask": [],

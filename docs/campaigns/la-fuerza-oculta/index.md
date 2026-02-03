@@ -134,6 +134,10 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 - **[18 Enero](ai-notes-summary/2026-01-18-gemini-notes.md)** / **[Manual](manual-notes/session-47-2026-01-18.md)**: Crisis de imagen con videos manipulados, comunicado desastroso de Hotman, visita al Casino de Dionisios, encuentro con Mulcifer (padrino de Diana, hombre de obsidiana de 2.40m), revelación de fusión de familia de Diana con Telaraña, ofrecimiento de dinero "manchado de sangre", dilema moral épico entre Justa y Diana sobre ética y pragmatismo
 - **[25 Enero](ai-notes-summary/2026-01-25-gemini-notes.md)** / **[Manual](manual-notes/session-48-2026-01-25.md)**: Resolución del dilema moral (Diana y Sique aceptan a título personal, resto rechaza), Mulcifer entrega llaves de mansión y tarjeta de "Fatum", **emboscada de Metacorps** al salir del casino, Hotman y Pantomima incapacitados, Justa herida grave rescata a compañeros, **Diana se entrega voluntariamente**, Justa huye en furgoneta con heridos
 
+### 🏚️ **Fase XIII: Refugio y Revelaciones (Febrero 2026)**
+
+- **[1 Febrero](ai-notes-summary/2026-02-01-gemini-notes.md)** / **[Manual](manual-notes/session-49-2026-02-01.md)**: Sentencia dispara y Diana desarma al último Metacorp - **todos escapan**, crisis mediática total (un Metacorp muerto, dos en pronóstico reservado), comunicado fallido de Hotman, **refugio en parque de bomberos de Mésmero**, confrontación terapéutica brutal, Mésmero consume droga meta y **Sentencia habla con el espíritu de su padre**, revelación de **dos millones de almas egipcias** atrapadas (Ba en Mésmero, Akh en el Faraón, necesitan el Ka), Sentencia emerge transformada con nueva misión: salvar las almas en lugar de vengarse, **Hotman decide entregarse** y queda perdido en el Barrio Gótico
+
 ---
 
 ## 🌆 Temas Centrales
@@ -247,30 +251,32 @@ Mezcla elementos de:
 
 ---
 
-## 🔮 Estado Actual (Enero 2026)
+## 🔮 Estado Actual (Febrero 2026)
 
-**La Fuerza Oculta** está en su momento más vulnerable. Tras resolver el dilema moral sobre la oferta de Mulcifer (**Diana y Sique aceptaron a título personal**; **Justa, Hotman y Pantomima rechazaron**), fueron emboscados por **Metacorps** al salir del Casino de Dionisios.
+**La Fuerza Oculta** ha tocado fondo pero emerge con nueva dirección. Tras escapar de Metacorps (Sentencia disparó, Diana desarmó al último agente), la opinión pública los ha hundido completamente: **un Metacorp muerto (por Hotman), dos en pronóstico reservado**. Mésmero los acoge en su parque de bomberos y les ofrece una confrontación terapéutica brutal.
 
-**Estado crítico del grupo:**
-- **Diana**: Bajo arresto de Metacorps (se entregó voluntariamente)
-- **Hotman**: Incapacitado por múltiples disparos de rifle de pulsos
-- **Pantomima**: Incapacitada por disparos de rifle de pulsos
-- **Justa**: Herida grave pero huyó en la furgoneta con los heridos
-- **Cía/Psique**: Herida y conmocionada, rescatada por Justa
-- **Eslizón**: Ausente de la sesión
+**El momento transformador**: Mésmero, consumiendo droga meta, permite a Sentencia hablar con el espíritu de su padre, quien le revela que hay **dos millones de almas egipcias** atrapadas. El Faraón guarda el Akh, Mésmero guarda el Ba, y necesitan encontrar el Ka para liberarlas.
 
-El grupo queda **físicamente dividido por primera vez**: Diana arrestada, el resto huyendo con múltiples bajas.
+**Estado del grupo:**
+- **Sentencia**: Transformada - nueva misión de salvar las almas, no vengarse del Faraón
+- **Hotman**: **Perdido en el Barrio Gótico** tras decidir entregarse (alguien le habla)
+- **Diana**: Libre (no fue arrestada), confrontando duramente a Sentencia
+- **Pantomima**: Recuperándose en casa de Mésmero
+- **Cía/Psique**: Recibió bronca de Mésmero por no controlar al grupo
+- **Eslizón**: Separado del grupo, con los cachorros bestiales
+
+**Ubicación**: Parque de bomberos de Mésmero en el Barrio Gótico
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Diana bajo arresto**: Primera vez que un miembro del grupo está en custodia de las autoridades
-- **Grupo dividido y malherido**: Hotman, Pantomima incapacitados; Justa, Cía heridas graves
-- **Recursos de Mulcifer**: Diana y Sique tienen acceso a mansión segura y conexión con Fatum
-- **Crisis mediática continua**: La opinión pública sigue polarizada contra FO
-- **Fusión Fatum-Telaraña**: La familia de Diana ahora es parte de la red criminal principal
-- **Amenaza Constellis**: Mercenarios estadounidenses derrotados pero no eliminados
-- **Crisis familiar de Hotman**: Su padre lo ha repudiado y tiene conexiones peligrosas
-- **Integración del linaje de Pantomima**: Procesando su herencia como nieta de Sombrío e hija de Caos
+- **Hotman perdido**: Decidió entregarse pero quedó atrapado en el Barrio Gótico - ¿quién le habla?
+- **Liberación de las almas**: Nueva misión de Sentencia - encontrar el Ka para liberar dos millones de almas egipcias
+- **Conexión padre de Hotman**: Mésmero reveló que el chip y todo lo sucedido tiene que ver con su padre
+- **Diana debe encontrar algo**: Su padrino Mulcifer la ha guiado para que encuentre algo específico
+- **Metacorps heridos**: Sique podría ayudarles a recuperar movilidad - ¿lo hará?
+- **Crisis mediática total**: Un muerto, dos heridos graves - el grupo es visto como asesinos
+- **Recursos de Mulcifer**: Diana tiene llaves de mansión y dinero en efectivo
+- **Tío de Sentencia**: El padre sugirió que él sabe cómo liberar las almas
 
 ---
 

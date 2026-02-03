@@ -1742,47 +1742,172 @@ Al salir del casino:
 
 ---
 
-## Conclusión: De Reality Show a Crisis Existencial
+### Sesión 49: El Refugio de Mésmero y el Encuentro con los Muertos (1 febrero 2026)
 
-La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participantes de reality show hasta una crisis existencial donde el grupo enfrenta su momento más oscuro: **divididos filosóficamente, fragmentados físicamente, y con una de sus miembros bajo arresto**.
+**Escape milagroso y transformación fundamental:**
+
+**El rescate de Diana:**
+
+Continuación directa de la sesión anterior:
+- **Sentencia dispara** al arma del último Metacorp, desviándola
+- **Diana desarma** al agente y le parte el rifle
+- Diana dice *"nos están arrestando"* y **se sube a la furgoneta**
+- El grupo escapa completo mientras suena "Dame Veneno"
+- **Nadie es arrestado** - todos escapan juntos
+
+**Crisis mediática devastadora:**
+
+| Aspecto | Situación |
+|---------|-----------|
+| **Bajas Metacorps** | 1 muerto, 2 en pronóstico reservado |
+| **Opinión pública** | Completamente en contra |
+| **Vídeos del incidente** | Suprimidos (probablemente por Mulcifer) |
+| **Comunicado de Hotman** | Fracaso total (solo 1 like de Nacho) |
+
+**Reacciones de aliados y mentores:**
+
+| Contacto | Respuesta |
+|----------|-----------|
+| **Tío de Sentencia** | Mensaje: "Telaraña no revelará vuestra posición" |
+| **Montenegro** | No contesta: "en estos momentos estoy ocupada" |
+| **Comadreja** | "La que habéis liado. No voy a deciros qué hacer" |
+| **Mésmero** | Muy cabreado: "O solucionas esto o no vuelves a trabajar conmigo" |
+| **Oneiros** | Único apoyo público |
+| **Mulcifer** | Mensaje a Diana: "Salid de ahí" |
+
+**Refugio en el Parque de Bomberos de Mésmero:**
+
+El grupo busca asilo con Mésmero en el Barrio Gótico:
+- Edificio estilo *Cazafantasmas*
+- Mésmero los recibe en **bata granate** con las uñas pintadas
+- Mesa puesta con comida caliente
+- Primera orden: *"Cerrad la puerta y comed"*
+
+**Tratamiento y confrontación:**
+
+Mésmero aplica **ungüento del Faraón** a Sentencia y Hotman. Cuando Sentencia se violenta al saber su origen:
+> *"Pues ponte a rescatarle y no a matar Metacorps"*
+
+**Confrontación terapéutica brutal:**
+
+A cada miembro del grupo, Mésmero revela verdades duras:
+- **A Sique**: *"Eres un puto saltamontes aprendiz de mierda. Te queda mucho por aprender"*
+- **A Sentencia**: *"El Faraón era un drogadicto... participaba en el programa de Iker Jiménez. No tenía malas intenciones"*
+- **A Hotman**: *"El chip que te pusieron tiene que ver con tu padre"*
+- **A Diana**: *"Tu padrino te ha guiado a esta situación. Quiere que encuentres algo"*
+
+**El encuentro con el padre de Sentencia:**
+
+Sentencia pide hablar con su padre muerto. Mésmero saca un vial de **droga meta**:
+> *"Nunca dije que te fuera a doler a ti, Sentencia"*
+
+**La experiencia sobrenatural:**
+- Mésmero esnifa el contenido
+- Las mentes del grupo son "diseccionadas, analizadas, comprendidas y vueltas en OTRO lugar"
+- Aparece el padre de Sentencia: un hombre de unos 40 años
+- Sentencia se tira a sus brazos
+
+**Revelaciones del padre:**
+
+> *"Hija, la venganza no hará que vuelva, te quemará por dentro"*
+> *"Yo no soy importante, solo soy uno más"*
+
+Aparecen **dos millones de almas** extendiéndose en todas direcciones - almas egipcias atrapadas desde la llegada de los "nuevos dioses de Egipto".
+
+**Sistema de almas egipcias:**
+
+| Componente | Significado | Custodio |
+|------------|-------------|----------|
+| **Akh** (Espíritu Luminoso) | Estado final glorificado | El Faraón |
+| **Ba** (Personalidad) | Mente que viaja entre mundos | Mésmero |
+| **Ka** (Fuerza Vital) | El "doble", ancla física | Desconocido |
+
+**Transformación de Sentencia:**
+
+Mésmero regresa sangrando por la nariz. Sentencia emerge transformada:
+> *"Hay que salvar a toda esa gente. Mi padre tiene razón. Y Mésmero necesita de nuestra ayuda para librarse de esa carga"*
+
+**De la venganza a la salvación**: Sentencia comprende que matar al Faraón no traerá a su padre, y que quizá él "no hizo más que fallar lamentablemente, igual que ha hecho ella más de una vez".
+
+**Crisis de Hotman:**
+
+Hotman ve en televisión a la familia del Metacorp que mató:
+- Esposa menuda y morena
+- Gemelas de 11 años
+- Niño de 5 años
+
+Escribe mensaje a Sentencia anunciando que va a entregarse:
+> *"No puedo seguir. Todo lo que he hecho ha sido mucho peor que un fracaso. Ha sido una catástrofe... Te amo, sis"*
+
+**Pero queda atrapado en el Barrio Gótico**: Dos horas caminando en línea recta, vuelve a los mismos lugares. Una voz conocida pregunta: *"¿Estás perdido, hijo?"*
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Transformada, nueva misión | Parque bomberos Mésmero |
+| Diana | Libre, confrontando al grupo | Parque bomberos Mésmero |
+| Sique | Regañada, mediadora | Parque bomberos Mésmero |
+| Pantomima | Recuperándose | Parque bomberos Mésmero |
+| Hotman | Perdido, crisis existencial | En algún lugar del Barrio Gótico |
+| Eslizón | Separado | Con los cachorros bestiales |
+
+---
+
+## Conclusión: De Reality Show a Transformación Espiritual
+
+La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participantes de reality show hasta una transformación espiritual profunda. Tras tocar fondo con la crisis de los Metacorps, el grupo ha encontrado refugio con Mésmero y, lo más importante, **Sentencia ha experimentado una transformación fundamental** - abandonando su obsesión de venganza contra el Faraón para asumir una misión de salvación de dos millones de almas.
 
 **Logros del grupo hasta la fecha:**
 - Supervivencia a múltiples intentos de eliminación
 - Desarrollo de vínculos familiares más fuertes que sangre
-- Establecimiento de código ético independiente (aunque ahora dividido)
+- Establecimiento de código ético independiente
 - Rescate exitoso de los cachorros de La Cacería Salvaje
 - Evolución de poderes bajo presión extrema
+- **Descubrimiento del verdadero propósito**: Liberar las almas egipcias atrapadas
 
 **Transformaciones clave:**
-- **Justa→Sentencia**: De defensora del sistema a aplicadora de justicia natural, ahora huyendo con heridos
-- **Diana**: De heredera reluctante de villanos a prisionera que se entregó voluntariamente
-- **El Grupo→Fragmentado**: De unidad cohesionada a división ideológica y física
-- **Víctimas→Supervivientes**: De adolescentes a fugitivos experimentados
+- **Justa→Sentencia**: De vengadora del sistema a **salvadora de almas** - comprende que su padre es "uno más" entre dos millones
+- **Diana**: De heredera reluctante a voz pragmática que confronta al grupo
+- **Hotman**: En crisis existencial tras ver las consecuencias humanas de matar
+- **El Grupo→Disperso**: Refugiados con Mésmero, pero Hotman perdido en el Barrio Gótico
+- **Víctimas→Supervivientes**: De adolescentes a héroes cargando responsabilidades sobrenaturales
 
-**Estado actual crítico (Enero 2026):**
+**Estado actual (Febrero 2026):**
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Divididos - Diana arrestada, resto huyendo |
-| **Ideología** | Fracturados - 3 rechazan a Fatum, 2 aceptan ayuda |
-| **Recursos** | Limitados - Llaves de mansión Mulcifer disponibles solo para Diana/Sique |
-| **Legal** | Crítico - Todos buscados, Diana bajo custodia |
-| **Físico** | Devastado - 2 incapacitados, 2 heridas graves |
+| **Unidad** | Parcialmente reunidos - refugio en casa de Mésmero, Hotman perdido, Eslizón con cachorros |
+| **Ideología** | En transición - Sentencia transformada, grupo buscando nuevo propósito |
+| **Recursos** | Refugio temporal con Mésmero, llaves de mansión Mulcifer disponibles |
+| **Legal** | Crítico - Todos buscados, un Metacorp muerto, dos heridos graves |
+| **Físico** | Recuperándose - ungüento del Faraón aplicado |
+| **Espiritual** | Nueva misión - liberar dos millones de almas egipcias |
+
+**El sistema de almas egipcias:**
+- **Ba** (Personalidad): Custodiado por Mésmero
+- **Akh** (Espíritu Luminoso): Custodiado por el Faraón
+- **Ka** (Fuerza Vital): Ubicación desconocida
 
 **Preguntas abiertas:**
-- ¿Qué pasará con Diana bajo custodia de Metacorps?
-- ¿Usarán la mansión de Mulcifer como refugio?
-- ¿Puede el grupo reunirse y reconciliar sus diferencias filosóficas?
-- ¿Cómo reaccionará Eslizón a la fragmentación del grupo?
-- ¿Qué consecuencias tendrá el atropello de los Metacorps?
+- ¿Quién habla a Hotman en el Barrio Gótico? ("¿Estás perdido, hijo?")
+- ¿Dónde está el Ka de las almas egipcias y quién lo tiene?
+- ¿Qué quiere que Diana "encuentre" su padrino Mulcifer?
+- ¿Cuál es la conexión del padre de Hotman con el chip?
+- ¿Ayudará Sique a los Metacorps heridos a recuperar la movilidad?
+- ¿Qué sabe el tío de Sentencia sobre las almas egipcias?
 
 **Legado en construcción:**
-La Fuerza Oculta representa la complejidad de elegir un camino propio cuando todas las opciones tienen costes morales. Su división sobre aceptar ayuda de Fatum refleja el dilema central de la campaña: **¿hasta dónde se puede comprometer la pureza moral para sobrevivir y proteger a los que amas?**
+La Fuerza Oculta representa la complejidad de elegir un camino propio cuando todas las opciones tienen costes morales. Lo que comenzó como una búsqueda de venganza personal se ha transformado en una misión de salvación cósmica: **dos millones de almas esperan ser liberadas**, y Sentencia ha comprendido que eso es infinitamente más importante que su dolor individual.
 
-Diana eligió entregarse en lugar de seguir luchando. Justa eligió huir con los heridos en lugar de abandonarlos. Ambas decisiones son heroicas a su manera, pero dejan al grupo más vulnerable que nunca.
+Mésmero lleva solo esta carga sobrenatural desde hace años. Ahora, por primera vez, tiene aliados dispuestos a ayudarle - si sobreviven a las consecuencias de la batalla del casino.
 
 ---
 
-*"Los poderes no nacen del entrenamiento, sino de la necesidad. Luego pueden ser entrenados."* - **Mesmero**
+*"Yo no soy importante, solo soy uno más"* - **Padre de Sentencia**
 
-*La verdadera prueba de un héroe no es su poder, sino qué está dispuesto a sacrificar por hacer lo correcto, incluso cuando lo correcto va contra la ley.*
+*"Hay que salvar a toda esa gente. Mi padre tiene razón. Y Mésmero necesita de nuestra ayuda para librarse de esa carga"* - **Sentencia**
+
+*"Los poderes no nacen del entrenamiento, sino de la necesidad. Luego pueden ser entrenados."* - **Mésmero**
+
+*La verdadera prueba de un héroe no es su poder, sino qué está dispuesto a sacrificar por hacer lo correcto - incluso si eso significa abandonar una década de odio para salvar a quienes no conoces.*

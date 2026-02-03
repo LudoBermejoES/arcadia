@@ -301,6 +301,39 @@ Hotman es un metahumano con poderes de manipulación térmica y microondas, hijo
 - Es evacuado inconsciente mientras Diana se entrega a los Metacorps
 - Actualmente en la furgoneta en fuga con el resto del grupo herido
 
+### Fase XI: El Refugio de Mésmero y la Crisis Existencial (1 Febrero 2026)
+
+**Escape y Refugio**:
+
+- **Todo el grupo escapa** del casino - Diana no es arrestada
+- Llegada al parque de bomberos de Mésmero en el Barrio Gótico
+- Mésmero aplica ungüento del Faraón a sus heridas
+- Mésmero revela: *"El chip que te pusieron tiene que ver con tu padre"*
+
+**Crisis por la Familia del Metacorp Muerto**:
+
+Hotman ve en televisión a la familia del Metacorp que mató:
+- Esposa menuda y morena
+- Gemelas de 11 años
+- Niño de 5 años
+- *"La mirada de la niña le recuerda los ojos de Justa"*
+
+**La Decisión de Entregarse**:
+
+Devastado por las consecuencias, escribe mensaje a Sentencia:
+
+> *"No puedo seguir. Todo lo que he hecho ha sido mucho peor que un fracaso. Ha sido una catástrofe... Voy a entregarme"*
+
+> *"Te amo, sis"*
+
+**Perdido en el Barrio Gótico**:
+
+Sale a entregarse pero **queda atrapado**:
+- Dos horas caminando en línea recta
+- Vuelve siempre a los mismos lugares
+- El Barrio Gótico no le deja salir
+- Una voz conocida pregunta: *"¿Estás perdido, hijo?"*
+
 ---
 
 ## 🔗 Relaciones
@@ -384,15 +417,15 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ---
 
-## 📊 Estado Actual (Enero 2026)
+## 📊 Estado Actual (Febrero 2026)
 
-### ⚠️ SITUACIÓN CRÍTICA: INCAPACITADO
+### ⚠️ SITUACIÓN CRÍTICA: PERDIDO EN EL BARRIO GÓTICO
 
-**Estado**: Incapacitado por múltiples disparos de rifle de pulsos (25 Enero 2026)
+**Estado**: Crisis existencial, perdido en el Barrio Gótico (1 Febrero 2026)
 
-Hotman fue disparado por la espalda durante la emboscada de Metacorps al salir del Casino de Dionisios. A pesar de usar un Benny para absorber el primer impacto, un segundo disparo lo dejó completamente incapacitado. Justa lo rescató a pesar de sus propias heridas graves.
+Tras ver en televisión a la familia del Metacorp que mató (esposa y tres hijos), Hotman entró en crisis existencial. Escribió un mensaje de despedida a Sentencia y salió a entregarse, pero el Barrio Gótico no le permite irse - lleva dos horas caminando en línea recta y vuelve a los mismos lugares. Una voz familiar le pregunta: *"¿Estás perdido, hijo?"*
 
-**Ubicación actual**: En la furgoneta en fuga, inconsciente
+**Ubicación actual**: En algún lugar del Barrio Gótico, atrapado
 
 ### Situación Legal
 
@@ -403,11 +436,11 @@ Hotman fue disparado por la espalda durante la emboscada de Metacorps al salir d
 
 ### Situación Emocional
 
-- Paz interior genuina tras destrucción del miedo
-- Relación seria con Justa (ya no es "juego")
-- Consciente del conflicto sobre el destino de su padre
-- Gratitud profunda hacia Eslizón y el equipo
-- **Justa lo rescató arriesgando su vida** - deuda emocional reforzada
+- **Crisis existencial** por matar al Metacorp y ver a su familia
+- Culpa devastadora - considera que todo ha sido "una catástrofe"
+- Decisión de entregarse rechazada por el propio Barrio Gótico
+- **Mensaje de despedida a Sentencia**: *"Te amo, sis"*
+- Justa lo rescató del combate - ahora él la abandona por culpa
 
 ### Carrera como Influencer
 
@@ -482,7 +515,9 @@ Hotman fue disparado por la espalda durante la emboscada de Metacorps al salir d
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 - [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada e Incapacitación
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Crisis Existencial y Pérdida en el Barrio Gótico
+- [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 
 ---
 
-*Hotman representa la evolución más dramática de víctima a liberado en La Fuerza Oculta. De niño aterrorizado que golpeaba paredes hasta sangrar a héroe que quemó literalmente su conexión con el miedo. Su padre quiso controlarlo con chips y dinero, pero descubrió que el amor de una compañera y la camaradería de un equipo son más poderosos que cualquier herencia corporativa. Bibau nunca tendrá su nombre en una lápida - pero el niño que lloró por ese cachorro ya no existe. En su lugar hay alguien que elige amor sobre miedo, familia elegida sobre sangre, y libertad sobre seguridad material.*
+*Hotman representa la evolución más dramática de víctima a liberado... y ahora a crisis existencial. De niño aterrorizado a héroe que quemó su conexión con el miedo, pero el peso de matar a un hombre con familia lo ha llevado al límite. Las gemelas de 11 años del Metacorp muerto le recuerdan los ojos de Justa - y esa imagen lo persigue. Quiso entregarse pero el Barrio Gótico no le deja salir, como si Arcadia misma supiera que su historia no ha terminado. Una voz le pregunta si está perdido. La pregunta es más profunda de lo que parece.*

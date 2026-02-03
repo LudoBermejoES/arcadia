@@ -330,21 +330,74 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - **Huye en la furgoneta** con Hotman (incapacitado), Pantomima (incapacitada) y Cía (herida)
 - El grupo queda físicamente dividido por primera vez
 
+### Fase IX: El Refugio de Mésmero y la Transformación (1 Febrero 2026)
+
+**Escape Final del Casino**:
+
+- **Sentencia dispara** al arma del último Metacorp, desviándola
+- Diana desarma al agente y **todo el grupo escapa** en la furgoneta
+- Nadie es arrestado - el grupo huye completo mientras suena "Dame Veneno"
+
+**Crisis Mediática Total**:
+
+- Un Metacorp muerto, dos en pronóstico reservado
+- Opinión pública completamente en contra del grupo
+- Comunicado fallido de Hotman (solo 1 like de Nacho)
+- Los Metacorps atropellados sobrevivirán (información de Mésmero)
+
+**Refugio en el Parque de Bomberos de Mésmero**:
+
+- Mésmero los recibe en bata granate con comida caliente
+- Aplica **ungüento del Faraón** a sus heridas (en el pecho)
+- **Confrontación brutal**: *"Pues ponte a rescatarle y no a matar Metacorps"*
+- Comparación devastadora con el Faraón: ambos "hicieron daño de forma no intencionada"
+
+**El Encuentro con su Padre Muerto**:
+
+Mésmero consume **droga meta** para permitirle hablar con el espíritu de su padre:
+
+- **Revelación del padre**: *"Yo no soy importante, solo soy uno más"*
+- Aparecen **dos millones de almas egipcias** atrapadas
+- Sistema de almas: **Akh** (Faraón), **Ba** (Mésmero), **Ka** (desconocido)
+- Mensaje final: *"La venganza no hará que vuelva, te quemará por dentro"*
+- Sugiere contactar al tío de Sentencia para saber más
+
+**TRANSFORMACIÓN FUNDAMENTAL**:
+
+Sentencia emerge del encuentro completamente transformada:
+
+> *"Hay que salvar a toda esa gente. Mi padre tiene razón. Y Mésmero necesita de nuestra ayuda para librarse de esa carga"*
+
+**Cambio de misión**: De vengar a su padre matando al Faraón → **Salvar dos millones de almas**
+
+**Monólogo interno revelador**:
+> *"Entiende por fin que matar al Faraón no le traerá a su padre, que ese hombre, por despreciable que sea, quizá no hizo más que fallar lamentablemente... igual que ha hecho ella más de una vez"*
+
+**Confrontación con Diana**:
+
+Diana la confronta duramente sobre el pragmatismo:
+- *"No vamos a prometer imposibles"*
+- *"Estoy cansada de que cada crisis se convierta en tu confesionario"*
+- Sentencia acepta la crítica y acuerda: primero sobrevivir, luego planificar
+
 ---
 
-## 📊 Estado Actual (Enero 2026)
+## 📊 Estado Actual (Febrero 2026)
 
-### ⚠️ SITUACIÓN CRÍTICA: HERIDA GRAVE EN FUGA
+### 🦋 TRANSFORMACIÓN COMPLETADA
 
-**Estado**: Herida de gravedad, huyendo en furgoneta con compañeros incapacitados (25 Enero 2026)
+**Estado**: Transformada, nueva misión de salvación (1 Febrero 2026)
 
-Justa resultó herida de gravedad durante la emboscada de Metacorps pero demostró heroísmo extraordinario rescatando a Hotman y Pantomima a pesar de sus heridas. Atropelló involuntariamente a dos Metacorps debido a una combinación de pifia en la tirada de conducir y el efecto de sus heridas.
+Tras el escape del casino y el refugio en casa de Mésmero, Sentencia experimentó una **transformación fundamental**. El encuentro con el espíritu de su padre le reveló que él es "solo uno más" entre dos millones de almas egipcias atrapadas. Esta revelación cambió completamente su propósito: de buscar venganza contra el Faraón a **salvar a todas esas almas**.
 
-**Situación del grupo bajo su cargo**:
-- **Hotman**: Incapacitado (múltiples disparos de rifle de pulsos)
-- **Pantomima**: Incapacitada (dos impactos de rifle de pulsos)
-- **Cía/Psique**: Herida y conmocionada
-- **Diana**: Arrestada (se entregó voluntariamente)
+**Ubicación actual**: Parque de bomberos de Mésmero (Barrio Gótico)
+
+**Situación del grupo**:
+- **Hotman**: En crisis, perdido en el Barrio Gótico (decidió entregarse)
+- **Pantomima**: Recuperándose en el refugio
+- **Sique/Psique**: En el refugio, regañada por Mésmero
+- **Diana**: Libre, en el refugio (no fue arrestada)
+- **Eslizón**: Separado, con los cachorros bestiales
 
 ### Situación Táctica
 
@@ -363,25 +416,29 @@ Justa resultó herida de gravedad durante la emboscada de Metacorps pero demostr
 ### Situación Emocional
 
 **Estado Mental**:
-- Rabia transformada en resolución fría
-- Conflicto con filosofía de perdón de Hotman
-- Determinación absoluta respecto al padre de Hotman
-- Vulnerabilidad reconocida pero controlada
-- **Posible culpa** por no haber podido rescatar a Diana
+- **Transformada**: Abandona la venganza, abraza la salvación
+- Paz interior tras aceptar que su padre es "uno más"
+- Comprende que el Faraón "quizá solo falló, igual que ella"
+- Nueva claridad de propósito: salvar dos millones de almas
+- Preocupación por Hotman (perdido en el Barrio Gótico)
 
 **Relación con Hotman**:
 - Declaración de seriedad - ya no es un juego
-- Protección activa aunque él no la haya pedido
-- Intimidad profundizada tras crisis del chip
-- Consciente del conflicto latente sobre métodos
-- **Lo rescató personalmente** a pesar de estar herida
+- **Hotman le envió mensaje de despedida** antes de perderse: *"Te amo, sis"*
+- Debe encontrarlo y traerlo de vuelta
+- Lo rescató del combate a pesar de sus heridas
 
-### Sentencias Pendientes
+### Nueva Misión: Las Almas Egipcias
 
-**Archivo Activo**:
-- **Padre de Hotman**: "Está sentenciado"
-- Método: Recopilación de inteligencia en curso
-- Plazo: Indefinido pero inevitable
+**Objetivo**:
+- Liberar a los **dos millones de almas** atrapadas
+- Encontrar el **Ka** (fuerza vital) - ubicación desconocida
+- Ayudar a Mésmero a liberarse de la carga del **Ba**
+- Contactar al **tío** para más información
+
+**Archivo "Sentencias" - Estado**:
+- **Padre de Hotman**: Sentencia pendiente (pero prioridad ha bajado)
+- Nueva prioridad: Salvación sobre venganza
 
 ---
 
@@ -447,7 +504,9 @@ Justa resultó herida de gravedad durante la emboscada de Metacorps pero demostr
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 - [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Heroísmo
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Refugio de Mésmero y Transformación
+- [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 
 ---
 
-*Sentencia representa la evolución más dramática de justicia en La Fuerza Oculta: de hija disciplinada que creía en el sistema a ejecutora de justicia personal que ha comprendido que las leyes pueden ser manipuladas, pero los principios no. Su archivo "Sentencias" no es venganza - es la manifestación de una filosofía que dice que si el sistema no puede proporcionar justicia, ella la creará con sus propias manos.*
+*Sentencia representa la evolución más dramática en La Fuerza Oculta: de hija que juró venganza por su padre a salvadora que comprende que él es "solo uno más" entre dos millones. Diez años preparándose para matar al Faraón se transformaron en un instante cuando vio las almas egipcias extendiéndose en todas direcciones. Su archivo "Sentencias" ya no define su identidad - ahora su propósito es mayor que cualquier venganza personal. Como dijo su padre: "La venganza no hará que vuelva, te quemará por dentro". Sentencia finalmente escuchó.*

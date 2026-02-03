@@ -336,15 +336,36 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - **Justa huye en la furgoneta** con los heridos
   - Primera división física del grupo
 
+#### **Febrero 2026 - Refugio y Transformación**
+
+- **[Sesión 49 - 1 Febrero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/)** - *"El Refugio de Mésmero y el Encuentro con los Muertos"*
+  - **Escape completo**: Sentencia dispara al Metacorp, Diana lo desarma, todo el grupo escapa
+  - **Crisis mediática total**: Un Metacorp muerto, dos en pronóstico reservado
+  - **Comunicado fallido de Hotman**: Solo recibe un like de Nacho
+  - Eslizón escapa con los cachorros bestiales
+  - **Refugio en el parque de bomberos de Mésmero** en el Barrio Gótico
+  - Mésmero les recibe en bata granate con mesa de comida caliente
+  - **Ungüento del Faraón**: Emplaste curativo aplicado a Sentencia y Hotman
+  - **Confrontación brutal de Mésmero** al grupo: bronca épica a Sique, comparación Sentencia-Faraón
+  - Mésmero revela: "El chip de Hotman tiene que ver con su padre", "Diana debe encontrar algo"
+  - Sentencia pide hablar con su padre muerto
+  - **Mésmero consume droga meta** y transporta al grupo a espacio onírico
+  - **Encuentro con el padre de Sentencia**: Revelación de **dos millones de almas egipcias** atrapadas
+  - Sistema de almas: **Ba** (Mésmero), **Akh** (Faraón), **Ka** (desconocido)
+  - **Transformación de Sentencia**: Nueva misión de salvar las almas, abandona la venganza
+  - **Hotman decide entregarse**: Escribe mensaje de despedida a Sentencia
+  - **Hotman queda perdido** en el Barrio Gótico; una voz le pregunta "¿Estás perdido, hijo?"
+  - **Relatos post-sesión**: Monólogos internos y confrontación Diana-Sentencia
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 44 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Enero 2026 (23 meses)
-- **Páginas Estimadas**: ~620 páginas de notas detalladas
-- **Horas de Juego**: ~125 horas registradas
+- **Total de Sesiones**: 45 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Febrero 2026 (24 meses)
+- **Páginas Estimadas**: ~635 páginas de notas detalladas
+- **Horas de Juego**: ~128 horas registradas
 
 ### 📅 **Distribución Temporal**
 - **Fase Reality Show (2024)**: 17 sesiones (41% del total)

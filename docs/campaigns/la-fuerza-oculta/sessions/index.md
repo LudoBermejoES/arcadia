@@ -348,6 +348,41 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+### 🏚️ **Febrero 2026 - Refugio y Transformación**
+
+#### [📊 Sesión 1 de Febrero (Sesión 49)](../ai-notes-summary/2026-02-01-gemini-notes.md)
+**"El Refugio de Mésmero y el Encuentro con los Muertos"**
+- 🚐 **Escape Completo**: Sentencia dispara, Diana desarma, todo el grupo escapa
+- 📺 **Crisis Mediática Total**: Un Metacorp muerto, dos en pronóstico reservado
+- 🏠 **Refugio en Mésmero**: Parque de bomberos del Barrio Gótico
+- 💊 **Droga Meta**: Mésmero permite a Sentencia hablar con su padre muerto
+- 👻 **Revelación**: Dos millones de almas egipcias atrapadas (Ba/Akh/Ka)
+- 🦋 **Transformación de Sentencia**: Nueva misión de salvar las almas
+- 💔 **Crisis de Hotman**: Decide entregarse, queda perdido en el Barrio Gótico
+
+**Sistema de Almas Egipcias:**
+
+| Componente | Significado | Custodio |
+|------------|-------------|----------|
+| **Ba** (Personalidad) | Mente | Mésmero |
+| **Akh** (Espíritu) | Estado glorificado | El Faraón |
+| **Ka** (Fuerza Vital) | Ancla física | Desconocido |
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Transformada, nueva misión | Parque bomberos Mésmero |
+| Diana | Libre, confrontando al grupo | Parque bomberos Mésmero |
+| Sique | Herida, regañada por Mésmero | Parque bomberos Mésmero |
+| Pantomima | Recuperándose | Parque bomberos Mésmero |
+| Hotman | En crisis, perdido | Barrio Gótico |
+| Eslizón | Separado | Con cachorros bestiales |
+
+**Temas Clave**: Transformación personal, abandono de la venganza, revelaciones sobrenaturales, crisis existencial
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -377,6 +412,12 @@ Transcripciones automáticas con análisis:
 - **[2025-10-12-gemini-notes](../ai-notes/2025-10-12-gemini-notes.md)**
 - **[2025-11-02-gemini-notes](../ai-notes/2025-11-02-gemini-notes.md)**
 - **[2025-12-21-gemini-notes](../ai-notes/2025-12-21-gemini-notes.md)**
+- **[2025-12-28-gemini-notes](../ai-notes/2025-12-28-gemini-notes.md)**
+- **[2026-01-04-gemini-notes](../ai-notes/2026-01-04-gemini-notes.md)**
+- **[2026-01-11-gemini-notes](../ai-notes/2026-01-11-gemini-notes.md)**
+- **[2026-01-18-gemini-notes](../ai-notes/2026-01-18-gemini-notes.md)**
+- **[2026-01-25-gemini-notes](../ai-notes/2026-01-25-gemini-notes.md)**
+- **[2026-02-01-gemini-notes](../ai-notes/2026-02-01-gemini-notes.md)**
 - **[2025-12-28-gemini-notes](../ai-notes/2025-12-28-gemini-notes.md)**
 - **[2026-01-04-gemini-notes](../ai-notes/2026-01-04-gemini-notes.md)**
 - **[2026-01-11-gemini-notes](../ai-notes/2026-01-11-gemini-notes.md)**

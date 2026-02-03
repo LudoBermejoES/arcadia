@@ -124,6 +124,58 @@ Como el único miembro que experimentó viajes temporales directos, Mésmero ten
 - **Responsabilidad temporal**: Se sentía obligado a guiar al grupo hacia mejores resultados
 - **Sabiduría acumulada**: Sus versiones futuras le habían proporcionado conocimiento invaluable
 
+## La Carga de las Almas Egipcias (Revelado Febrero 2026)
+
+En la Sesión 49 de La Fuerza Oculta, Mésmero revela una carga sobrenatural que lleva solo desde hace años:
+
+### El Sistema de Almas Egipcias
+
+| Componente | Significado | Custodio |
+|------------|-------------|----------|
+| **Akh** (Espíritu Luminoso) | Estado final glorificado | El Faraón |
+| **Ba** (Personalidad) | Mente que viaja entre mundos | **Mésmero** |
+| **Ka** (Fuerza Vital) | Ancla física | Desconocido |
+
+### La Revelación
+
+- Mésmero guarda las mentes (**Ba**) de **dos millones de almas egipcias**
+- Estas almas murieron con la llegada de los "nuevos dioses de Egipto"
+- El esfuerzo de mantenerlas lo describe como vivir "entre una marica mala y el psíco más poderoso debido a la situación mental terrible"
+- Consume **droga meta** regularmente para mantener esta tarea
+
+### El Encuentro con el Padre de Sentencia
+
+Para permitir a Sentencia hablar con su padre muerto:
+- Esnifa droga meta de un vial brillante
+- *"Nunca dije que te fuera a doler a ti, Sentencia"*
+- Transporta las mentes del grupo a un espacio onírico
+- Regresa sangrando por la nariz, ojos inyectados en sangre
+- El coste físico es enorme
+
+### Confrontación Terapéutica con La Fuerza Oculta
+
+Mésmero recibe al grupo fugitivo en su parque de bomberos (estilo *Cazafantasmas*) y les confronta brutalmente:
+
+**A Sique/Psique** (su discípula):
+> *"Eres un puto saltamontes aprendiz de mierda. Te queda mucho por aprender"*
+
+**A Sentencia**:
+> *"El Faraón era un drogadicto... participaba en el programa de Iker Jiménez (cosa que es imperdonable) pero no tenía malas intenciones"*
+> *"Tienes odio en tus entrañas, que te ha invadido"*
+
+**A Hotman**:
+> *"El chip que te pusieron tiene que ver con tu padre"*
+
+**A Diana**:
+> *"Tu padrino te ha guiado a esta situación. Quiere que encuentres algo"*
+
+### Apariciones en La Fuerza Oculta
+
+- [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Refugio y revelación de las almas egipcias
+- [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
+
+---
+
 ## Legado e Impacto - El Corazón del Grupo
 Mésmero demostró que **la verdadera fuerza no siempre es física o mística, sino emocional**:
 

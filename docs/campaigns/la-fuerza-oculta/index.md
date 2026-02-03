@@ -140,53 +140,6 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ---
 
-## 🌆 Temas Centrales
-
-### 🤔 **Evolución Moral Compleja**
-A diferencia de sus predecesores, La Fuerza Oculta enfrenta dilemas éticos sin respuestas claras:
-- ¿Cuándo es aceptable romper la ley por el bien mayor?
-- ¿Cómo mantener principios en un mundo corrompido?
-- ¿Qué significa realmente la "justicia"?
-
-### 👥 **Dinámicas de Grupo Adolescente**
-- Relaciones románticas complicadas
-- Búsqueda de identidad individual vs grupal  
-- Presión de vivir a la altura del legado heroico
-- Conflicto entre independencia y necesidad de mentores
-
-### 🌍 **Arcadia Más Oscura**
-La ciudad ha evolucionado en 10 años:
-- Política metahumana más compleja
-- Corrupción sistémica
-- Amenazas que trascienden el crimen simple
-- Meta-narrativa: fama pública involuntaria
-
----
-
-## 🎭 Elementos Únicos de la Campaña
-
-### 📺 **Meta-Juego Extremo**
-Los personajes descubren que sus aventuras son entretenimiento público:
-- Encuentran gente jugando rol con sus personajes
-- Audio de sus partidas reales usado en el juego
-- Pérdida total de privacidad
-- Comercialización de su imagen heroica
-
-### 🔄 **Conexiones con Campañas Anteriores** 
-- **La Farándula**: Villanos de "La Familia" regresan
-- **Comadreja**: Mentor conectado a campañas previas
-- **Ana Montenegro**: Abogada con historia en el universo
-- **Referencias continuas** a eventos de 15 años atrás
-
-### 🎪 **Tono Narrativo Único**
-Mezcla elementos de:
-- **Coming-of-age** superheroico
-- **Thriller político** con metahumanos
-- **Horror apocalíptico** (episodios específicos)
-- **Slice-of-life** con superpoderes
-
----
-
 ## 📊 Estadísticas de la Campaña
 
 <div class="stats-grid">
@@ -230,24 +183,6 @@ Mezcla elementos de:
 - **[⚖️ Navegación Temática](sessions/#navegación-temática)** - Análisis por temas narrativos
 - **[👥 Evolución de la Campaña](sessions/#evolución-de-la-campaña)** - Fases y desarrollo
 - **[🌃 Análisis de Contenido](sessions/#análisis-por-contenido)** - Por tipo de registro
-
----
-
-## 🎨 Galería de Momentos Épicos
-
-### 🔥 **Momentos Icónicos**
-- **La Transformación de Justa**: El nacimiento de Sentencia
-- **El Juicio Heroico**: Cuando rechazaron las condiciones legales
-- **La Voz Misteriosa**: Primera comunicación de la entidad desconocida
-- **El Descubrimiento Meta**: Encontrándose como personajes de juego
-- **La Operación Subterránea**: Enfrentando a La Farándula
-
-### 💎 **Citas Memorables**
-> *"Ya no creo en la justicia de Arcadia... ahora soy Sentencia"* - Eduardo/Justa
-
-> *"¿Y si somos solo personajes en el juego de alguien más?"* - Reacción al meta-juego
-
-> *"No podemos salvar el mundo si no podemos salvarnos a nosotros mismos"* - Filosofía del equipo
 
 ---
 

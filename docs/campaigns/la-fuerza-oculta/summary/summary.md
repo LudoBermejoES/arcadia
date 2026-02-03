@@ -44,11 +44,13 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 - [Sesiones 13-15: Fuga y Refugio en el Gótico](#sesiones-13-15-fuga-y-refugio-en-el-gótico-14-julio---28-julio-2024)
 - [Sesiones 16-17: El Juicio y la Sentencia](#sesiones-16-17-el-juicio-y-la-sentencia-18-agosto---25-agosto-2024)
 
-### Fase IV: Exilio y Transformación (2025)
+### Fase IV: Llegada a Arcadia (Junio - Agosto 2025)
 - [Sesión 20: Arcadia, Refugio de Metahumanos](#sesión-20-arcadia-refugio-de-metahumanos-15-junio-2025)
 - [Sesiones 21-24: Búsqueda de Independencia](#sesión-21-24-búsqueda-de-independencia-22-junio---20-julio-2025)
 - [Sesión 25: Enfrentamiento con La Farándula](#sesión-25-enfrentamiento-con-la-farándula-27-julio-2025)
 - [Sesión 26: Entrega de Justicia y Establecimiento de Base](#sesión-26-entrega-de-justicia-y-establecimiento-de-base-3-agosto-2025)
+
+### Fase V: Enemigos Emergentes y Mentores (Agosto - Octubre 2025)
 - [Sesión 27: Compras y Ataque de Les Enfant Terribles](#sesión-27-compras-en-almacenes-hêvî-y-ataque-de-les-enfant-terribles-10-agosto-2025)
 - [Sesión 28: Les Enfant Terribles y el Retorno de los Monos Dorados](#sesión-28-les-enfant-terribles-y-el-retorno-de-los-monos-dorados-17-agosto-2025)
 - [Sesión 29: Gorilas Dorados y los Siete Abominables](#sesión-29-gorilas-dorados-y-los-siete-abominables-24-agosto-2025)
@@ -57,9 +59,14 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 - [Sesión 33: El Entrenamiento de Psique y el Secreto de Sentencia](#sesión-33-el-entrenamiento-de-psique-y-el-secreto-de-sentencia-21-septiembre-2025)
 - [Sesión 33: Pizza, Discriminación y Carreras Ilegales](#sesión-33-pizza-discriminación-y-carreras-ilegales-5-octubre-2025)
 - [Sesión 34: Robo del Sombrío y Carrera Ilegal](#sesión-34-robo-del-sombrío-y-carrera-ilegal-12-octubre-2025)
+
+### Fase VI: El Puente de Moebius y la Alta Sociedad (Noviembre - Diciembre 2025)
 - [Sesión 37: El Puente de Moebius y el Origen de Pantomima](#sesión-37-el-puente-de-moebius-y-el-origen-de-pantomima-2-noviembre-2025)
+- [Sesiones 38-40: La Fiesta de Eneiros y el Asalto Mercenario](#sesiones-38-40-la-fiesta-de-eneiros-y-el-asalto-mercenario-2-16-noviembre-2025)
 - [Sesión Intercalada: La Cacería Salvaje del Barrio Gótico](#sesión-intercalada-la-cacería-salvaje-del-barrio-gótico-23-noviembre-2025)
 - [Sesión 42: Resolución del Ataque y el Chip de Control](#sesión-42-resolución-del-ataque-y-el-chip-de-control-7-diciembre-2025)
+
+### Fase VII: La Cacería y Crisis Final (Diciembre 2025 - Febrero 2026)
 - [Sesión 43: Investigación del Padre Bestia y Primer Vuelo de Hotman](#sesión-43-investigación-del-padre-bestia-y-primer-vuelo-de-hotman-21-diciembre-2025)
 - [Sesión 44: Mercenarios Constellis y el Desguace](#sesión-44-mercenarios-constellis-y-el-desguace-28-diciembre-2025)
 - [Sesión 45: Asalto al Desguace](#sesión-45-asalto-al-desguace-4-enero-2026)

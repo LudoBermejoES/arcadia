@@ -62,6 +62,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 ### Fase VII: Encuentros con el Pasado (Septiembre 2025)
 - [Sesión 31: Mentores y Decisiones en el Barrio Gótico](#sesión-31-mentores-y-decisiones-en-el-barrio-gótico-14-septiembre-2025)
 - [Sesión 32: El Entrenamiento de Psique y el Secreto de Sentencia](#sesión-32-el-entrenamiento-de-psique-y-el-secreto-de-sentencia-21-septiembre-2025)
+- [Sesión Especial: La Cita de Hotman y Justa](#sesión-especial-la-cita-de-hotman-y-justa-15-septiembre-2025)
 - [Sesión 35: Fuga del Hospital y Mambo y Zambo](#sesión-35-fuga-del-hospital-28-septiembre-2025)
 
 ### Fase VIII: Investigación y Carreras Ilegales (Octubre 2025)
@@ -795,7 +796,7 @@ Esta sesión establece la transición hacia mentoria veterana y desarrollo perso
 
 ### Sesión 31: Mentores y Decisiones en el Barrio Gótico (14 septiembre 2025)
 
-📎 [Manual](../manual-notes/session-31-2024-09-08.md) | [AI](../ai-notes/2025-09-14-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-09-14-gemini-notes.md)
+📎 [Manual](../manual-notes/session-31-2024-09-08.md) | [AI 7-Sep](../ai-notes/2025-09-08-gemini-notes.md) | [AI 14-Sep](../ai-notes/2025-09-14-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-09-08-gemini-notes.md)
 
 **La elección que define el poder:**
 
@@ -855,7 +856,7 @@ Esta sesión representa el momento donde La Fuerza Oculta elige conscientemente 
 
 ### Sesión 32: El Entrenamiento de Psique y el Secreto de Sentencia (21 septiembre 2025)
 
-📎 [Manual](../manual-notes/session-32-2024-09-14.md) | [Resumen](../ai-notes-summary/2025-09-15-session-33-notes.md)
+📎 [Manual](../manual-notes/session-32-2024-09-14.md) | [AI](../ai-notes/2025-09-21-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-09-15-session-33-notes.md)
 
 **Redención a través del sacrificio:**
 
@@ -901,6 +902,60 @@ La sesión del 21 de septiembre revela las profundidades ocultas del heroísmo a
 - **Conflicto de privacidad**: Justa le quita el móvil al intentar grabarla yendo a la ducha
 
 Esta sesión demuestra que el verdadero heroísmo a veces requiere tanto el sacrificio público del entrenamiento brutal como la redención privada por acciones pasadas, estableciendo que las consecuencias de la violencia, incluso justificada, deben ser enfrentadas con responsabilidad personal.
+
+### Sesión Especial: La Cita de Hotman y Justa (15 septiembre 2025)
+
+📎 [Manual](../manual-notes/session-33-2024-09-15.md)
+
+**Un momento de normalidad entre el caos:**
+
+Una sesión íntima centrada únicamente en Hotman y Justa, explorando su relación personal lejos de las responsabilidades heroicas.
+
+**La cena en MetaFresh Salads:**
+- **Incógnito fallido**: A pesar de los disfraces (cazadora, gorra, gafas), Justa atrae miradas inevitables
+- **Nerviosismo de Hotman**: Sudores fríos cada vez que pasan policías
+- **Ambiente romántico**: Restaurante cerca de Almacenes Hêvî con vistas al atardecer
+- **Incidente del pretendiente**: Justa neutraliza a un hombre atrevido retorciéndole los dedos
+
+**Revelaciones emocionales:**
+- **Hotman paralizado**: Los nervios le impiden comer ante la presencia de Justa
+- **Brindis y vino**: Primer momento de relajación compartida
+- **La declaración**: Justa toma la iniciativa con *"No te habías dado cuenta de que me gustas"*
+- **El primer beso**: Justa le atrae hacia ella y le besa
+
+**El paseo nocturno:**
+- **Felicidad absoluta**: Hotman olvida grabar y postear por primera vez
+- **Despreocupación peligrosa**: Caminan sin rumbo por calles que se vacían
+- **Momento íntimo interrumpido**: En un callejón, una voz les interrumpe con *"¡Eh, listilla!"*
+
+**Significado narrativo:**
+Esta sesión especial muestra el lado humano de los héroes, donde las responsabilidades y el peligro quedan temporalmente olvidados. Es el momento en que la relación entre Hotman y Justa pasa de tensión no resuelta a romance declarado, estableciendo una de las dinámicas emocionales centrales del grupo.
+
+### Sesión 35: Fuga del Hospital y Mambo y Zambo (28 septiembre 2025)
+
+📎 [Manual](../manual-notes/session-35-2024-09-28.md) | [AI](../ai-notes/2025-09-28-gemini-notes.md) | [Resumen](../ai-notes-summary/2025-09-28-gemini-notes.md)
+
+**La entrega de prótesis y sus consecuencias:**
+
+Sentencia intenta entregar prótesis a los menores heridos de Les Enfant Terribles hospitalizados:
+- **Infiltración fallida**: Justa es identificada por usar placa de "Yasmín Williams"
+- **Fuga caótica**: Huida del hospital empujando metacorps
+- **Distracción de Kayface**: Crea ilusión de embarazada terminal
+- **Escape exitoso**: El grupo huye en la furgoneta
+
+**Repercusiones mediáticas:**
+- Popularidad del grupo sube por acto de empatía
+- Justa pierde apoyo de grupos de derechas radicales
+- Hotman recibe nuevo cargo por atacar metacorp
+- Von Staffen Morales (mayordomo de Eneiros) pide discreción sobre la fiesta
+
+**Encuentro con Mambo y Zambo:**
+
+El grupo va a cenar pizza con Smück y conocen a dos ex-concursantes de "Héroes o Villanos":
+- **Mambo y Zambo**: Gemelos metahumanos de piel azulada con reflejos metálicos
+- **Expulsados temprano** del concurso
+- **Comportamiento ruidoso** pero correcto
+- **Primera conexión** con personajes que reaparecerán en la siguiente sesión
 
 ---
 
@@ -1192,6 +1247,8 @@ Durante la carrera ilegal por los puentes de Arcadia, el Bugatti del Sombrío tr
 
 ### Sesiones 38-40: La Fiesta de Eneiros y el Asalto Mercenario (2-16 noviembre 2025)
 
+📎 **S38**: [Manual](../manual-notes/session-38-2025-11-02.md) | **S39**: [Manual](../manual-notes/session-39-2025-11-02.md) | **S40**: [Manual](../manual-notes/session-40-2025-11-16.md) | [AI 16-Nov](../ai-notes/2025-11-16-gemini-notes.md)
+
 **Devolución del Bugatti y voces misteriosas:**
 
 Tras la carrera interdimensional, el grupo devuelve el Bugatti a la exposición. Durante el regreso en la furgoneta, escuchan voces distorsionadas en la radio: *"Faraón, ¿dónde vas?"* - posible referencia al villano histórico El Faraón.
@@ -1356,6 +1413,37 @@ Tras el encuentro con La Cacería, Kauneda necesita antihistamínicos por alergi
 
 **Salida:**
 Tras la bendición y protección, el grupo regresa con Nacho descubriendo que casi no ha pasado tiempo, lo que genera confusión sobre la naturaleza temporal de la experiencia.
+
+---
+
+### Sesión 41: Combate con Mercenarios (30 noviembre 2025)
+
+📎 [AI](../ai-notes/2025-11-30-gemini-notes.md)
+
+**Continuación del asalto a la mansión de Eneiros:**
+
+La sesión resuelve el ataque iniciado en la fiesta de Eneiros:
+
+**Ataque con gas lacrimógeno:**
+- Cristal roto y nube de gas en el salón
+- **Hotman neutraliza el gas** con sus poderes térmicos (olor a chile resultante)
+- Profesionalismo militar de los atacantes confirmado
+
+**Triangulación telepática:**
+- **Sique localiza** cinco a seis mentes coordinadas por radio
+- Objetivo confirmado: **Hotman**
+- Atacantes con escudos mentales de nivel 4
+
+**Combate táctico:**
+- Eslizón se descuelga del techo
+- Diana retiene acción buscando refugio
+- Pantomima se oculta con sigilo
+- Sentencia usa mesa como escudo
+- Diana usa Tácticas para analizar enemigos
+
+**Pérdida de poderes:**
+- Diana y Pantomima pierden temporalmente sus habilidades tras el combate
+- Origen del efecto desconocido
 
 ---
 

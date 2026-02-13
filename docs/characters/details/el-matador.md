@@ -118,7 +118,7 @@ A pesar de múltiples encuentros documentados, El Matador mantiene su estatus de
 ## Comportamiento Inusual - Septiembre 2025
 
 ### **Encuentro con La Fuerza Oculta**
-Durante la expedición nocturna de La Fuerza Oculta al Barrio Gótico, El Matador fue avistado en una azotea, agazapado y observando al grupo mientras eran guiados por la misteriosa anciana conocida como "Samaritana" o "Señora de la Sonrisa".
+Durante la expedición nocturna de La Fuerza Oculta al Barrio Gótico, El Matador fue avistado en una azotea, agazapado y observando al grupo mientras eran guiados por la misteriosa anciana conocida como [La Samaritana]({{ site.baseurl }}/characters/details/la-samaritana/).
 
 #### **Avistamiento en Azotea**
 - **Ubicación**: Agazapado en azotea vigilando las calles nocturnas
@@ -130,8 +130,8 @@ Cuando Hotman le gritó manifestando ser "fan suyo", El Matador reaccionó de ma
 - **Acción**: Desapareció inmediatamente en las sombras
 - **Significado**: Primera vez documentada que huye en lugar de confrontar o ignorar
 
-#### **Comentario de la Señora de la Sonrisa**
-La entidad misteriosa que acompañaba al grupo hizo una observación crucial: *"Es la primera vez que lo veo huir"*, seguida de una risa demencial, sugiriendo que:
+#### **Comentario de La Samaritana**
+La entidad fantasmal que acompañaba al grupo hizo una observación crucial: *"Es la primera vez que lo veo huir"*, seguida de una risa demencial, sugiriendo que:
 - Su comportamiento era genuinamente anómalo
 - Incluso entidades sobrenaturales del Barrio Gótico reconocen el cambio
 - Algo sobre la presencia del grupo o las circunstancias lo perturbó
@@ -139,7 +139,7 @@ La entidad misteriosa que acompañaba al grupo hizo una observación crucial: *"
 ### **Implicaciones del Comportamiento**
 
 #### **Posibles Causas del Cambio**
-- **Presencia de Samaritana**: La entidad misteriosa puede representar una amenaza o autoridad superior
+- **Presencia de La Samaritana**: El fantasma protector del Barrio Gótico puede representar una amenaza o autoridad superior
 - **Naturaleza de La Fuerza Oculta**: Algo sobre el grupo joven lo hace reticente al contacto
 - **Reconocimiento problemático**: Ser reconocido públicamente como "fan" compromete su anonimato operativo
 - **Precognición o instinto**: Detección de peligro futuro asociado con el grupo
@@ -152,7 +152,7 @@ La entidad misteriosa que acompañaba al grupo hizo una observación crucial: *"
 ### **Impacto en la Mitología Local**
 Este incidente marca la primera documentación de El Matador mostrando lo que podría interpretarse como "vulnerabilidad" o "cautela extrema", alterando potencialmente su estatus de figura implacable en el folclore del Barrio Gótico.
 
-La observación de la Señora de la Sonrisa sugiere que incluso las entidades sobrenaturales del distrito consideran este comportamiento digno de nota, posiblemente indicando un cambio fundamental en la dinámica de poder o percepción dentro del Barrio Gótico.
+La observación de La Samaritana sugiere que incluso las entidades sobrenaturales del distrito consideran este comportamiento digno de nota, posiblemente indicando un cambio fundamental en la dinámica de poder o percepción dentro del Barrio Gótico.
 
 ---
 

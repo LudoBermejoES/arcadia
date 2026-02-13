@@ -54,7 +54,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-08-gemini-notes/
 
 ## 👻 **Encuentros Sobrenaturales**
 
-### **La Señora de la Sonrisa - "Samaritana"**
+### **La Samaritana (antes "Señora de la Sonrisa")**
 - **Aparición**: Anciana de ~56 años que ofrece ayuda navegacional
 - **Características**: 
   - Abrigo lleno de amuletos religiosos

@@ -136,7 +136,7 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 **Encuentro con Mentallo**:
 - Detección de "emanación mental" en el Barrio Gótico
-- Bloqueo mental por la "Señora de la Sonrisa" (Samaritana)
+- Bloqueo mental por [La Samaritana]({{ site.baseurl }}/characters/details/la-samaritana/)
 - Contacto con Mentallo: "No buscas un mentor, buscas poder"
 
 **La Jeringuilla del Poder**:

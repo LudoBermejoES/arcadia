@@ -539,7 +539,7 @@ document.addEventListener('DOMContentLoaded', function() {
       { slug: 'el-emperador-oscuro', name: 'El Emperador Oscuro', image: 'El Emperador Oscuro.png' },
       { slug: 'hermanas-magdalena', name: 'Hermanas Magdalena', image: 'hermanas-magdalena.png' },
       { slug: 'bastet', name: 'Bastet', image: 'bastet.png' },
-      { slug: 'senora-de-la-sonrisa', name: 'Señora de la Sonrisa', image: 'senora-sonrisa.png' }
+      { slug: 'la-samaritana', name: 'La Samaritana', image: 'senora-sonrisa.png' }
     ].sort((a, b) => a.name.localeCompare(b.name)),
 
   };

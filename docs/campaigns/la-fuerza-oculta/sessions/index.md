@@ -162,7 +162,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 - 📺 **Análisis Mediático**: Críticas públicas post-ataque de monos dorados
 - 🛡️ **Arsenal No Letal**: Espectro proporciona equipamiento especializado
 - 👻 **Teatro Abandonado**: Base secreta de Génesis revelada como guarida de Espectro
-- 🧙‍♀️ **Señora de la Sonrisa**: Encuentro con entidad misteriosa del Barrio Gótico
+- 🧙‍♀️ **La Samaritana**: Encuentro con el fantasma protector del Barrio Gótico
 - 💈 **Barbería de Mentallo**: Descubrimiento del psíquico más poderoso de la historia
 - 💉 **La Jeringuilla del Poder**: Psique enfrenta tentación de droga potenciadora
 - 📸 **Fotografía Analógica**: Momento histórico capturado con Polaroid

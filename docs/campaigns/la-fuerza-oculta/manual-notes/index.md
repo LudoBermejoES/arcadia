@@ -357,12 +357,26 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - **Hotman queda perdido** en el Barrio Gótico; una voz le pregunta "¿Estás perdido, hijo?"
   - **Relatos post-sesión**: Monólogos internos y confrontación Diana-Sentencia
 
+- **[Sesión 50 - 8 Febrero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-50-2026-02-08/)** - *"La Rayuela de las Sombras y la Casa de la Samaritana"*
+  - **Hotman se escabulle** del parque de bomberos de Mésmero
+  - Mésmero avisa: "Traedlo antes de que se lo coman"
+  - Sentencia golpea paredes con los puños; Sique intenta localizar a Hotman (fracaso, sangrado nasal)
+  - **Hotman acosado por sombras** en el Barrio Gótico nocturno
+  - **Niñas fantasmales** lo invitan a jugar a la rayuela — portal dimensional de oscuridad
+  - **Grupo se pierde** en la furgoneta: calles cambiantes, estación de bomberos desaparecida
+  - **La Samaritana** (fantasma) guía al grupo hasta Hotman
+  - **Rescate de tentáculos**: Sentencia arranca a Hotman, Diana golpea, Sique falla (no hay mente)
+  - **Hotman**: "No puedes pasar" — éxito crítico (11/12) calentando el aire
+  - **Casa de Nicolás**: Banquero en casa encantada, ungüento curativo de La Samaritana
+  - Sentencia le echa bronca a Hotman, golpe cariñoso y **beso apasionado**; él dice "Ahora no, Jus"
+  - **Diana propone estrategia "grass roots"** para rehabilitar imagen del grupo
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 45 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 46 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Febrero 2026 (24 meses)
 - **Páginas Estimadas**: ~635 páginas de notas detalladas
 - **Horas de Juego**: ~128 horas registradas

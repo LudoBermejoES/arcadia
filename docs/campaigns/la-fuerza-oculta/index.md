@@ -20,7 +20,7 @@ permalink: /campaigns/la-fuerza-oculta/
 </div>
 
 <div class="stat-card">
-<span class="stat-number">48+</span>
+<span class="stat-number">50+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -104,30 +104,28 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ## 🔮 Estado Actual (Febrero 2026)
 
-**La Fuerza Oculta** ha tocado fondo pero emerge con nueva dirección. Tras escapar de Metacorps (Sentencia disparó, Diana desarmó al último agente), la opinión pública los ha hundido completamente: **un Metacorp muerto (por Hotman), dos en pronóstico reservado**. Mésmero los acoge en su parque de bomberos y les ofrece una confrontación terapéutica brutal.
-
-**El momento transformador**: Mésmero, consumiendo droga meta, permite a Sentencia hablar con el espíritu de su padre, quien le revela que hay **dos millones de almas egipcias** atrapadas. El Faraón guarda el Akh, Mésmero guarda el Ba, y necesitan encontrar el Ka para liberarlas.
+**La Fuerza Oculta** ha sobrevivido al terror sobrenatural del Barrio Gótico nocturno. Tras la confrontación terapéutica de Mésmero y la transformación espiritual de Sentencia (Sesión 49), Hotman se escabulló solo al Barrio Gótico y fue atrapado en un **juego de rayuela dimensional** con niñas fantasmales. El grupo lo rescató con la ayuda de **La Samaritana**, el fantasma protector del distrito, y se curaron con su ungüento en la casa encantada de **Nicolás**.
 
 **Estado del grupo:**
-- **Sentencia**: Transformada - nueva misión de salvar las almas, no vengarse del Faraón
-- **Hotman**: **Perdido en el Barrio Gótico** tras decidir entregarse (alguien le habla)
-- **Diana**: Libre (no fue arrestada), confrontando duramente a Sentencia
-- **Pantomima**: Recuperándose en casa de Mésmero
-- **Cía/Psique**: Recibió bronca de Mésmero por no controlar al grupo
+- **Sentencia**: Curada, emocionalmente agotada tras rescate desesperado de Hotman
+- **Hotman**: Curado físicamente, pero bloqueado emocionalmente — rechaza conexión con el grupo
+- **Diana**: Planificando estrategia "grass roots" para rehabilitar la imagen del grupo
+- **Sique/Psique**: Agotada telepáticamente (sangrado nasal por distorsión del Barrio Gótico)
+- **Pantomima**: Ausente (recuperándose en casa de Mésmero)
 - **Eslizón**: Separado del grupo, con los cachorros bestiales
 
-**Ubicación**: Parque de bomberos de Mésmero en el Barrio Gótico
+**Ubicación**: Casa de Nicolás en el Barrio Gótico (amanecer)
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Hotman perdido**: Decidió entregarse pero quedó atrapado en el Barrio Gótico - ¿quién le habla?
+- **Estrategia "grass roots"**: Diana propone movimiento de base para rehabilitar imagen pública
 - **Liberación de las almas**: Nueva misión de Sentencia - encontrar el Ka para liberar dos millones de almas egipcias
 - **Conexión padre de Hotman**: Mésmero reveló que el chip y todo lo sucedido tiene que ver con su padre
 - **Diana debe encontrar algo**: Su padrino Mulcifer la ha guiado para que encuentre algo específico
-- **Metacorps heridos**: Sique podría ayudarles a recuperar movilidad - ¿lo hará?
 - **Crisis mediática total**: Un muerto, dos heridos graves - el grupo es visto como asesinos
-- **Recursos de Mulcifer**: Diana tiene llaves de mansión y dinero en efectivo
-- **Tío de Sentencia**: El padre sugirió que él sabe cómo liberar las almas
+- **Manual de la furgoneta**: Sentencia quiere pedirle a Cacharrero las instrucciones
+- **Nicolás como aliado**: Banquero simpático del Barrio Gótico con amuletos protectores
+- **Las niñas fantasmales**: ¿Quiénes eran? ¿Volverán como amenaza?
 
 ---
 

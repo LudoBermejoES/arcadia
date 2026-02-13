@@ -436,7 +436,7 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
-### 🏚️ **Febrero 2026 - Refugio y Transformación**
+### 🏚️ **Febrero 2026 - Refugio, Transformación y Terror Sobrenatural**
 
 #### [📼 2026-02-01 - El Refugio de Mésmero y el Encuentro con los Muertos](../ai-notes-summary/2026-02-01-gemini-notes.md)
 
@@ -461,10 +461,30 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-02-08 - La Rayuela de las Sombras y la Casa de la Samaritana](../ai-notes-summary/2026-02-08-gemini-notes.md)
+
+**"Terror Sobrenatural en el Barrio Gótico y Rescate Desesperado"**
+
+- 🏃 **Desaparición de Hotman**: Se escabulle solo del parque de bomberos al Barrio Gótico
+- 👻 **Niñas Fantasmales**: Juego de rayuela sobrenatural que abre portal dimensional de oscuridad
+- 🌫️ **Barrio Gótico como Laberinto**: Calles cambiantes, tecnología inútil, grupo se pierde en furgoneta
+- 👵 **La Samaritana**: Fantasma protector guía al grupo hasta Hotman
+- 🐙 **Tentáculos de Oscuridad**: Entidad de esencia espiritual sin mente, inmune a telepatía
+- 🔥 **Éxito Crítico de Hotman**: "No puedes pasar" — calienta aire para crear succión (11/12)
+- 🏠 **Casa de Nicolás**: Banquero en casa encantada, ungüento curativo de La Samaritana
+- 💏 **Sentencia y Hotman**: Bronca, golpe cariñoso, beso apasionado; él dice "Ahora no, Jus"
+- 📢 **Estrategia Diana**: Propone movimiento "grass roots" para rehabilitar imagen
+
+**Duración**: ~3 horas | **Palabras**: ~15,000 | **Páginas**: ~40
+
+**🎯 NOTA ESPECIAL**: El Barrio Gótico queda establecido como territorio de horror sobrenatural donde los poderes metahumanos son insuficientes. Solo la combinación de esfuerzo grupal con intervención de La Samaritana resuelve la crisis.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 28 sesiones completas
+- **Total de Transcripciones**: 29 sesiones completas
 - **Período Cubierto**: Junio 2025 - Febrero 2026 (9 meses intensivos)
 - **Palabras Totales**: ~457,000 palabras transcritas
 - **Páginas Equivalentes**: ~1,170 páginas de contenido

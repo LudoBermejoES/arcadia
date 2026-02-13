@@ -655,7 +655,7 @@ El nombre **"Pantomima"** es perfectamente apropiado:
 
 ---
 
-### 🏚️ **Febrero 2026 - Refugio y Transformación**
+### 🏚️ **Febrero 2026 - Refugio, Transformación y Terror Sobrenatural**
 
 #### [📈 Análisis 01/02/2026 - El Refugio de Mésmero y el Encuentro con los Muertos](2026-02-01-gemini-notes.md)
 **"Transformación de Sentencia y los Dos Millones de Almas"**
@@ -687,6 +687,43 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 **Duración**: ~2.5 horas | **Palabras**: ~19,500 | **Páginas**: ~51
 
 **🎯 NOTA ESPECIAL**: Momento transformador para Sentencia - de justiciera vengativa a salvadora de almas. Hotman en crisis existencial tras ver a la familia del Metacorp que mató.
+
+---
+
+#### [📈 Análisis 08/02/2026 - La Rayuela de las Sombras y la Casa de la Samaritana](2026-02-08-gemini-notes.md)
+**"Terror Sobrenatural en el Barrio Gótico y Rescate Desesperado"**
+
+**🎯 Temas Centrales Identificados:**
+- **Desaparición de Hotman**: Se escabulle solo del parque de bomberos al Barrio Gótico nocturno
+- **Niñas Fantasmales**: Juego de rayuela sobrenatural que abre portal dimensional de oscuridad
+- **Barrio Gótico como Laberinto Vivo**: Calles cambiantes, tecnología inútil, el grupo se pierde
+- **La Samaritana**: Fantasma protector que guía al grupo hasta Hotman
+- **Rescate de Tentáculos**: Combate contra entidad de esencia espiritual sin mente
+- **Casa de Nicolás**: Banquero en casa encantada con ungüento curativo
+
+**🐙 Combate contra la Oscuridad:**
+
+| Personaje | Acción | Resultado |
+|-----------|--------|-----------|
+| **Sentencia** | Salta y arranca a Hotman del agujero | Éxito |
+| **Diana** | Golpea tentáculos | Se reforman |
+| **Sique** | Ataque mental | Fallo - no hay mente |
+| **Hotman** | Calienta aire para crear succión | Éxito crítico (11/12) |
+
+**🦋 Desarrollo de Personajes:**
+- **Sentencia**: Desesperación protectora — arriesga su vida sin dudar por Hotman
+- **Hotman**: Bloqueo emocional profundo — rechaza conexión telepática y afectiva
+- **Diana**: Estratega pragmática — propone movimiento "grass roots"
+- **Sique**: Limitaciones telepáticas en el Barrio Gótico — sangrado nasal por distorsión
+
+**🏠 Nuevos Personajes y Revelaciones:**
+- **Nicolás**: Banquero que vive en casa encantada, colecciona amuletos protectores
+- **Las Niñas Fantasmales**: Llaman "yaya" a La Samaritana, sus juegos abren portales
+- **La Samaritana confirmada como fantasma**: Desaparece de la cocina dejando té servido
+
+**Duración**: ~3 horas | **Palabras**: ~15,000 | **Páginas**: ~40
+
+**🎯 NOTA ESPECIAL**: El Barrio Gótico queda definitivamente establecido como territorio de horror sobrenatural donde las reglas metahumanas no aplican. La mayor fortaleza del grupo no son sus poderes, sino los vínculos familiares.
 
 ---
 

@@ -348,7 +348,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-### 🏚️ **Febrero 2026 - Refugio y Transformación**
+### 🏚️ **Febrero 2026 - Refugio, Transformación y Terror Sobrenatural**
 
 #### [📊 Sesión 1 de Febrero (Sesión 49)](../ai-notes-summary/2026-02-01-gemini-notes.md)
 **"El Refugio de Mésmero y el Encuentro con los Muertos"**
@@ -380,6 +380,30 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 | Eslizón | Separado | Con cachorros bestiales |
 
 **Temas Clave**: Transformación personal, abandono de la venganza, revelaciones sobrenaturales, crisis existencial
+
+#### [📊 Sesión 2 de Febrero (Sesión 50)](../ai-notes-summary/2026-02-08-gemini-notes.md)
+**"La Rayuela de las Sombras y la Casa de la Samaritana"**
+- 🏃 **Desaparición de Hotman**: Se escabulle solo al Barrio Gótico nocturno
+- 👻 **Niñas Fantasmales**: Juego de rayuela sobrenatural que abre portal dimensional
+- 🌫️ **Barrio Gótico Vivo**: Calles cambiantes, tecnología inútil, grupo se pierde
+- 👵 **La Samaritana**: Fantasma protector guía al grupo hasta Hotman
+- 🐙 **Tentáculos de Oscuridad**: Entidad sin mente, inmune a telepatía y ataques energéticos
+- 🔥 **Hotman**: "No puedes pasar" - éxito crítico (11/12) calentando el aire
+- 🏠 **Casa de Nicolás**: Banquero que vive en casa encantada, ungüento curativo de La Samaritana
+- 📢 **Estrategia Diana**: Propone movimiento "grass roots" para rehabilitar imagen
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Curada, agotada | Casa de Nicolás, Barrio Gótico |
+| Hotman | Curado, bloqueado | Casa de Nicolás, Barrio Gótico |
+| Diana | Planificando estrategia | Casa de Nicolás, Barrio Gótico |
+| Sique | Agotada telepáticamente | Casa de Nicolás, Barrio Gótico |
+| Eslizón | Separado | Con cachorros bestiales |
+| Pantomima | Ausente | Casa de Mésmero |
+
+**Temas Clave**: El Barrio Gótico como laberinto vivo, los límites del heroísmo ante lo sobrenatural, familia elegida en crisis
 
 ---
 
@@ -418,6 +442,7 @@ Transcripciones automáticas con análisis:
 - **[2026-01-18-gemini-notes](../ai-notes/2026-01-18-gemini-notes.md)**
 - **[2026-01-25-gemini-notes](../ai-notes/2026-01-25-gemini-notes.md)**
 - **[2026-02-01-gemini-notes](../ai-notes/2026-02-01-gemini-notes.md)**
+- **[2026-02-08-gemini-notes](../ai-notes/2026-02-08-gemini-notes.md)**
 - **[2025-12-28-gemini-notes](../ai-notes/2025-12-28-gemini-notes.md)**
 - **[2026-01-04-gemini-notes](../ai-notes/2026-01-04-gemini-notes.md)**
 - **[2026-01-11-gemini-notes](../ai-notes/2026-01-11-gemini-notes.md)**
@@ -449,6 +474,8 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 11/01](../ai-notes-summary/2026-01-11-gemini-notes.md)** - Explosión del Helicóptero y crisis mediática
 - **[Resumen 18/01](../ai-notes-summary/2026-01-18-gemini-notes.md)** - Casino de Dionisios y dilema moral
 - **[Resumen 25/01](../ai-notes-summary/2026-01-25-gemini-notes.md)** - División del grupo y emboscada Metacorps
+- **[Resumen 01/02](../ai-notes-summary/2026-02-01-gemini-notes.md)** - Refugio de Mésmero y encuentro con los muertos
+- **[Resumen 08/02](../ai-notes-summary/2026-02-08-gemini-notes.md)** - Rayuela de las sombras y casa de la Samaritana
 
 ---
 
@@ -508,7 +535,7 @@ El juego dentro del juego:
 - **Crisis**: El grupo se divide ideológica y físicamente por primera vez
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 25 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Enero 2026)
+- **Sesiones Totales**: 26 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Febrero 2026)
 - **Páginas de Notas**: ~400 páginas de contenido
 - **Horas de Juego**: ~75 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
@@ -518,29 +545,30 @@ El juego dentro del juego:
 
 ## 🔮 Estado Actual y Futuro
 
-### ⚠️ **Estado Crítico del Grupo (Enero 2026)**
+### ⚠️ **Estado del Grupo (Febrero 2026)**
 
-El grupo se encuentra en su momento más vulnerable:
+El grupo ha sobrevivido al terror sobrenatural del Barrio Gótico nocturno:
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | DIVIDIDOS - Diana arrestada, resto huyendo |
-| **Ideología** | Fracturados sobre aceptar ayuda de Fatum |
-| **Físico** | 2 incapacitados, 2 heridas graves |
-| **Legal** | Todos buscados, Diana bajo custodia |
+| **Unidad** | Parcialmente reunidos - cuatro en casa de Nicolás, Eslizón con cachorros |
+| **Físico** | Curados con ungüento de La Samaritana |
+| **Emocional** | Hotman bloqueado, Sentencia agotada, Sique exhausta |
+| **Legal** | Todos buscados, un Metacorp muerto, dos heridos graves |
 
 ### 🎯 **Arcos Narrativos Pendientes**
-- **Rescate de Diana**: ¿Cómo liberarla de Metacorps?
-- **Reconciliación Ideológica**: ¿Pueden superar la división sobre Fatum?
-- **Consecuencias Legales**: Un Metacorp muerto, dos atropellados
-- **Refugio**: ¿Usarán la mansión de Mulcifer?
-- **Eslizón**: ¿Cómo reaccionará a la fragmentación?
+- **Estrategia "grass roots"**: ¿Funcionará el movimiento de base de Diana?
+- **Liberación de almas**: Encontrar el Ka para liberar dos millones de almas egipcias
+- **Padre de Hotman**: Conexión con el chip revelada por Mésmero
+- **Diana debe encontrar algo**: Guiada por Mulcifer
+- **Manual de la furgoneta**: Pedir instrucciones a Cacharrero
+- **Nicolás**: ¿Será aliado recurrente en el Barrio Gótico?
 
 ### 🎲 **Preguntas Abiertas**
-- ¿Qué pasará con Diana bajo custodia de Metacorps?
-- ¿Puede el grupo reunirse y sanar sus diferencias?
-- ¿Qué consecuencias tendrá la muerte del Metacorp?
-- ¿Cómo afectará la división filosófica a largo plazo?
+- ¿Quiénes eran las niñas fantasmales? ¿Volverán?
+- ¿Funcionará la estrategia de Diana para rehabilitar la imagen?
+- ¿Dónde está el Ka de las almas egipcias?
+- ¿Superará Hotman su bloqueo emocional?
 
 ---
 

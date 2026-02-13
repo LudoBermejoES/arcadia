@@ -90,6 +90,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 
 ### Fase XIII: Refugio y Revelaciones (Febrero 2026)
 - [Sesión 49: El Refugio de Mésmero y el Encuentro con los Muertos](#sesión-49-el-refugio-de-mésmero-y-el-encuentro-con-los-muertos-1-febrero-2026)
+- [Sesión 50: La Rayuela de las Sombras y la Casa de la Samaritana](#sesión-50-la-rayuela-de-las-sombras-y-la-casa-de-la-samaritana-8-febrero-2026)
 
 ---
 
@@ -1921,6 +1922,87 @@ Escribe mensaje a Sentencia anunciando que va a entregarse:
 | Pantomima | Recuperándose | Parque bomberos Mésmero |
 | Hotman | Perdido, crisis existencial | En algún lugar del Barrio Gótico |
 | Eslizón | Separado | Con los cachorros bestiales |
+
+### Sesión 50: La Rayuela de las Sombras y la Casa de la Samaritana (8 febrero 2026)
+
+📎 [Manual](../manual-notes/session-50-2026-02-08.md) | [AI](../ai-notes/2026-02-08-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-08-gemini-notes.md)
+
+**Terror sobrenatural en el Barrio Gótico y rescate desesperado:**
+
+**Personajes presentes**: Sentencia, Hotman, Diana, Sique/Psique
+**Ausentes**: Eslizón Esmeralda (Sugus), Pantomima (Xavi)
+
+**La desaparición de Hotman:**
+
+Continuación directa de la sesión anterior. Hotman se escabulle del parque de bomberos de Mésmero para "estar solo". Mésmero avisa al grupo: *"Traedlo antes de que se lo coman"*. Sentencia golpea las paredes con los puños al enterarse. Sique intenta localizarlo telepáticamente pero fracasa — mucha distorsión, voces, gritos y súplicas; le sangra la nariz.
+
+**Hotman perdido en el Barrio Gótico nocturno:**
+
+- Camina bajo lluvia y niebla densa, rodeado de presencias
+- Levita para orientarse pero solo ve tejados; los ruidos persisten
+- Siente contactos progresivos: primero toques leves ("como peces"), luego agarres
+- Algo le agarra el pie y lo tira al suelo
+- Sombras se contornean en los límites de su visión, siempre en el rabillo del ojo
+- Confronta a las sombras: *"¿Qué quieres de mí?"*
+
+**Las niñas fantasmales y el juego de la rayuela:**
+
+Aparecen **dos niñas vestidas con ropa anticuada**, transparentes y brillantes. Las sombras se retiran ante su presencia. Invitan a Hotman a jugar a la rayuela: *"Solo tienes que saltar, si te equivocas puedes terminar mal"*. Hotman acepta y dibuja la rayuela. Al saltar, la calle se difumina y una **oscuridad densa y terrible** lo rodea — un agujero dimensional se abre bajo sus pies.
+
+**La búsqueda desesperada del grupo:**
+
+- Sentencia carga balas no letales por consejo de Sique
+- Toman la furgoneta; en la segunda vuelta **ya no encuentran la estación de bomberos** — el Barrio Gótico los ha desorientado
+- La niebla crece, Sentencia grita el nombre de Hotman por la ventanilla
+- Sentencia descubre función oculta de la furgoneta: el chasis se eleva
+
+**La Samaritana guía al grupo:**
+
+- Sentencia casi atropella a **La Samaritana** en un paso de peatones
+- La anciana fantasmal les dice que aparquen y la acompañen
+- Sique logra localizar a Hotman: está cerca, muy tenso, pero **bloquea la conexión telepática**
+- La Samaritana advierte: *"No le queda mucho tiempo"*
+
+**El rescate de los tentáculos:**
+
+| Personaje | Acción | Resultado |
+|-----------|--------|-----------|
+| **Sentencia** | Salta contra pared, agarra a Hotman | Éxito - lo arranca del agujero |
+| **Diana** | Golpea tentáculos | Se rompen pero se reforman |
+| **Sique** | Ataque mental | Fallo - no hay mente, es esencia espiritual |
+| **Hotman** | *"No puedes pasar"* - calienta aire para crear succión | **Éxito crítico** (11/12) - tentáculos succionados |
+| **Samaritana + niñas** | Intervención simultánea | Todo desaparece |
+
+El grupo queda empapado, helado, con **marcas negras necróticas** donde tocaron los tentáculos.
+
+**La casa encantada de Nicolás:**
+
+- La Samaritana los guía a una casa acogedora con chimenea
+- La anciana desaparece en la cocina, dejando solo una bandeja de té servida
+- Aparece **Nicolás**, el verdadero dueño: banquero que entra en pánico al verlos
+- Diana lo calma: *"No queremos hacerle daño, nos ha traído la Samaritana a tomar el té"*
+- Casa abandonada **40 años** antes de que Nicolás la comprara barata
+- Nicolás tiene **colección de amuletos protectores** distribuidos entre vecinos
+- Sique encuentra **ungüento curativo** dejado por la Samaritana que elimina las marcas necróticas
+- Nicolás se toma una selfie con el grupo
+
+**Cierre emocional y estratégico:**
+
+- Sentencia le echa la bronca a Hotman, le da un golpe cariñoso y luego **un beso apasionado**
+- Hotman responde: *"Ahora no, Jus"*
+- Diana propone estrategia **"grass roots"**: movimiento de base para rehabilitar imagen
+- Hotman quiere hacer otro comunicado pero Diana se lo prohíbe
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Curada con ungüento, emocionalmente agotada | Casa de Nicolás, Barrio Gótico |
+| Hotman | Curado, bloqueado emocionalmente | Casa de Nicolás, Barrio Gótico |
+| Diana | Curada, planificando estrategia | Casa de Nicolás, Barrio Gótico |
+| Sique | Agotada telepáticamente | Casa de Nicolás, Barrio Gótico |
+| Eslizón | Ausente (con cachorros bestiales) | Desconocida |
+| Pantomima | Ausente | Desconocida |
 
 ---
 

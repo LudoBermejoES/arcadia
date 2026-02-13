@@ -123,14 +123,18 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 ## Organizaciones Oficiales y Fuerzas del Orden
 
 ### MetaCorp
-**Tipo**: Organización gubernamental metahumana  
+**Tipo**: Organización gubernamental metahumana
 **Concepto**: Fuerzas del orden oficiales para metahumanos
 
-**Miembros**:
+**Para información completa, ver la [página dedicada de MetaCorp]({{ site.baseurl }}/groups/metacorps/)**.
+
+**Miembros destacados**:
+- [Francis Egin]({{ site.baseurl }}/characters/details/francisco-egin/) (Fundador, 1940-1993, fallecido 2005)
 - [Oneill]({{ site.baseurl }}/characters/details/oneill/) (Consultor Senior de MetaCorp)
-- [Relámpago]({{ site.baseurl }}/characters/details/relampago/)
-- [Trueno]({{ site.baseurl }}/characters/details/trueno/)
-- [Francis Egin]({{ site.baseurl }}/characters/details/francisco-egin/)
+- [Relámpago]({{ site.baseurl }}/characters/details/relampago/) (Retirada)
+- [Trueno]({{ site.baseurl }}/characters/details/trueno/) (Desaparecido desde 2015)
+- [Waldo Gutiérrez]({{ site.baseurl }}/characters/details/waldo-gutierrez/) (Supervisor Académico)
+- **División Ultracorps**: Ver [Ultracorps]({{ site.baseurl }}/groups/ultracorps/)
 
 ### Los Rayos
 **Tipo**: Fuerza militar/policial  

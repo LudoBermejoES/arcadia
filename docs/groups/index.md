@@ -560,7 +560,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **🏛️ Instituciones Públicas**
 - **🏛️ Gobierno de Arcadia** - Administración especializada
 - **⚖️ Tribunales Meta** - Justicia adaptada
-- **🚨 MetaCorp** - Policía metahumana oficial (ver [character-groups.md](character-groups.md#metacorp))
+- **[🚨 MetaCorp](metacorps.md)** - Policía metahumana oficial fundada en 1940 por Francis Egin
 - **[🤖 Ultracorps](ultracorps.md)** - División especial de MetaCorp con humanos mejorados
 - **🎓 Sistema Educativo** - Academias de entrenamiento
 

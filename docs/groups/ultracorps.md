@@ -12,16 +12,17 @@ permalink: /groups/ultracorps/
 </div>
 
 
-**Nombre del Grupo**: Ultracorps  
-**Tipo**: División Especial de MetaCorp  
-**Ubicación**: Arcadia (Base de operaciones oficial)  
-**Estado**: Activo (tras reorganización post-atentado)  
-**Número de Miembros**: 5 operativos especializados  
+**Nombre del Grupo**: Ultracorps
+**Tipo**: División Especial de [MetaCorp]({{ site.baseurl }}/groups/metacorps/)
+**Ubicación**: Arcadia (Base de operaciones oficial)
+**Estado**: Activo (tras reorganización post-atentado)
+**Número de Miembros**: 5 operativos especializados
 **Clasificación**: Humanos Artificialmente Mejorados
+**Organización Matriz**: [MetaCorp]({{ site.baseurl }}/groups/metacorps/)
 
 ## Descripción
 
-Los Ultracorps representan una evolución revolucionaria dentro de MetaCorp: la primera generación de **"La Nueva Guardia Metarcorp"** compuesta por humanos que **"nacieron sin poderes"** pero fueron artificialmente mejorados para **"enfrentarse a metahumanos con sus mismas armas"**. Esta división especial marca un cambio paradigmático en la filosofía de MetaCorp, pasando de reclutar metahumanos naturales a crear sus propios agentes mejorados.
+Los Ultracorps representan una evolución revolucionaria dentro de [MetaCorp]({{ site.baseurl }}/groups/metacorps/): la primera generación de **"La Nueva Guardia Metarcorp"** compuesta por humanos que **"nacieron sin poderes"** pero fueron artificialmente mejorados para **"enfrentarse a metahumanos con sus mismas armas"**. Esta división especial marca un cambio paradigmático en la filosofía de [MetaCorp]({{ site.baseurl }}/groups/metacorps/), pasando de reclutar metahumanos naturales a crear sus propios agentes mejorados.
 
 ## Historia del Grupo
 
@@ -214,14 +215,14 @@ Los Ultracorps representan un avance tecnológico significativo:
 
 ### Integración con MetaCorp
 #### **Estructura Organizacional**
-- **División especializada**: Operan como unidad élite dentro de MetaCorp
+- **División especializada**: Operan como unidad élite dentro de [MetaCorp]({{ site.baseurl }}/groups/metacorps/)
 - **Coordinación con liderazgo**: Operan con autonomía, consultando a Neill O'Hara según necesidad
 - **Complemento operativo**: Trabajan junto con metahumanos naturales como Relámpago
-- **Recursos compartidos**: Acceso a infraestructura y apoyo de MetaCorp
+- **Recursos compartidos**: Acceso a infraestructura y apoyo de [MetaCorp]({{ site.baseurl }}/groups/metacorps/)
 
 #### **Relaciones Internas**
-- **Colaboración con veteranos**: Trabajo coordinado con miembros tradicionales
-- **Legado de Francis Egin**: Inspiración del fundador de MetaCorp (1940-1993, fallecido 2005)
+- **Colaboración con veteranos**: Trabajo coordinado con miembros tradicionales de [MetaCorp]({{ site.baseurl }}/groups/metacorps/)
+- **Legado de Francis Egin**: Inspiración del fundador de [MetaCorp]({{ site.baseurl }}/groups/metacorps/) (1940-1993, fallecido 2005)
 - **Protocolo de emergencia**: Capacidad de coordinación en crisis mayores
 
 ### Interacción con La Familia
@@ -306,12 +307,13 @@ Los Ultracorps han evolucionado hasta convertirse en la división más respetada
 ### Referencias Principales
 - [La Familia - Sesión 41](../../campaigns/la-familia/session-41/) - Presentación pública y atentado Freiglasung
 - [Freiglasung]({{ site.baseurl }}/groups/freiglasung/) - Contexto del atentado durante su presentación
-- [MetaCorp](character-groups.md#metacorp) - Organización matriz y estructura operativa
+- [MetaCorp]({{ site.baseurl }}/groups/metacorps/) - Organización matriz y estructura operativa completa
 
 ### Contexto Histórico
+- [MetaCorp]({{ site.baseurl }}/groups/metacorps/) - Historia completa de la organización matriz
 - [Ambientación - Los MetaCorp]({{ site.baseurl }}/world-building/ambientacion/#los-metacorp) - Evolución de la organización
 - [Historia - Maturity Arrives]({{ site.baseurl }}/world-building/06-maturity-arrives/) - Desarrollo institucional
 
 ---
 
-**Los Ultracorps representan la evolución natural de MetaCorp hacia una fuerza de seguridad que combina lo mejor de ambos mundos: la disciplina y lealtad institucional de agentes humanos con capacidades equiparables a las de metahumanos naturales. Su existencia marca un hito en la historia de Arcadia como la primera generación de "superhéroes artificiales" exitosos.**
+**Los Ultracorps representan la evolución natural de [MetaCorp]({{ site.baseurl }}/groups/metacorps/) hacia una fuerza de seguridad que combina lo mejor de ambos mundos: la disciplina y lealtad institucional de agentes humanos con capacidades equiparables a las de metahumanos naturales. Su existencia marca un hito en la historia de Arcadia como la primera generación de "superhéroes artificiales" exitosos.**

@@ -371,12 +371,23 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Sentencia le echa bronca a Hotman, golpe cariñoso y **beso apasionado**; él dice "Ahora no, Jus"
   - **Diana propone estrategia "grass roots"** para rehabilitar imagen del grupo
 
+- **[Sesión 51 - 15 Febrero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-51-2026-02-15/)** - *"El Tío Traidor"*
+  - **Amanecer tranquilo**: El Barrio Gótico pierde su aspecto siniestro de noche
+  - Sentencia confiesa que su destino **no tiene por qué arrastrar al resto**
+  - **SMS cifrado del tío**: coordenadas GPS al distrito portuario flotante; cita a las 22h
+  - Conversación privada Sentencia-Hotman: él quiere entregarse, ella no se rinde
+  - **Pantomima curiosea** en casa de Mésmero: descubre pasado carcelario (El Faraón y Egipto)
+  - Sique tiene **clase telepática** con Mésmero — vuelve sangrando por la nariz
+  - Mésmero da a Sentencia capacidad de **localizar el punto de cita** (círculo guía visual)
+  - En el almacén portuario: **Roberto McKomick** les echa la bronca y activa luz verde antimeta
+  - **Torretas automáticas abren fuego** — grupo sin poderes en combate
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 46 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 47 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Febrero 2026 (24 meses)
 - **Páginas Estimadas**: ~635 páginas de notas detalladas
 - **Horas de Juego**: ~128 horas registradas

@@ -727,4 +727,27 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 15/02/2026 - El Tío Traidor](2026-02-15-gemini-notes.md)
+**"Traición Familiar y Trampa en el Almacén Portuario"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Confesión de Sentencia**: Su destino no tiene por qué arrastrar al resto
+- **Acuerdo Hotman-Sentencia**: No rendirse, pero esperar y observar antes de actuar
+- **Pasado de Mésmero**: Pantomima descubre su estancia en la cárcel (El Faraón y Egipto)
+- **El SMS Cifrado**: El tío convoca a Sentencia al distrito portuario
+- **La Trampa**: Roberto McKomick activa neutralizador de poderes y torretas automáticas
+
+**🔍 Revelaciones Clave:**
+- **Roberto McKomick es antimeta** y entrenó a Sentencia para una misión oculta
+- **Mésmero estuvo en la cárcel** por un asunto relacionado con El Faraón y Egipto
+- **Ana Montenegro** aparece en fotos en casa de Mésmero con un señor trajeado y dos niños
+- **El padre de Sentencia podría estar vivo** — Roberto lo niega como "truco metahumano"
+- **Manipulación externa confirmada**: alguien desde EE.UU. orquesta los eventos contra el grupo
+
+**Duración**: ~3 horas | **Palabras**: ~15,000 | **Páginas**: ~40
+
+**🎯 NOTA ESPECIAL**: La traición de Roberto McKomick redefine el pasado de Sentencia: su entrenamiento no era amor familiar sino instrumentalización para una misión desconocida. El grupo termina la sesión sin poderes y bajo fuego, ante quien debería haber sido un aliado.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

@@ -405,6 +405,30 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 **Temas Clave**: El Barrio Gótico como laberinto vivo, los límites del heroísmo ante lo sobrenatural, familia elegida en crisis
 
+#### [📊 Sesión 3 de Febrero (Sesión 51)](../ai-notes-summary/2026-02-15-gemini-notes.md)
+**"El Tío Traidor"**
+- 🌅 **Amanecer Tranquilo**: El Barrio Gótico pierde su aspecto siniestro a la luz del día
+- 💬 **Sentencia Confiesa**: Su destino no tiene por qué arrastrar al resto
+- 🤝 **Acuerdo Hotman-Sentencia**: No rendirse, pero esperar y observar antes de actuar
+- 📱 **SMS Cifrado**: El tío de Sentencia convoca una cita en el distrito portuario
+- 🔍 **Pantomima Curiosea**: Descubre el pasado carcelario de Mésmero (El Faraón y Egipto)
+- 🧠 **Clase Telepática**: Sique entrena con Mésmero hasta sangrar por la nariz
+- 🏭 **La Trampa del Tío**: Roberto McKomick los recibe con torretas y neutralizador de poderes
+- ⚡ **Luz Verde Antimeta**: El grupo queda sin poderes y bajo fuego enemigo
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Sin poderes, en combate | Almacén portuario |
+| Hotman | Sin poderes, en combate | Almacén portuario |
+| Sique | Sin poderes, en combate | Almacén portuario |
+| Pantomima | Sin poderes, herida (pierna) | Almacén portuario |
+| Eslizón | Ausente | Con los cachorros |
+| Diana | Incomunicada | Subciudad |
+
+**Temas Clave**: Traición familiar, el peso moral de la violencia, manipulación política externa, el pasado oculto de los mentores
+
 ---
 
 ## 📊 Análisis por Contenido
@@ -443,11 +467,7 @@ Transcripciones automáticas con análisis:
 - **[2026-01-25-gemini-notes](../ai-notes/2026-01-25-gemini-notes.md)**
 - **[2026-02-01-gemini-notes](../ai-notes/2026-02-01-gemini-notes.md)**
 - **[2026-02-08-gemini-notes](../ai-notes/2026-02-08-gemini-notes.md)**
-- **[2025-12-28-gemini-notes](../ai-notes/2025-12-28-gemini-notes.md)**
-- **[2026-01-04-gemini-notes](../ai-notes/2026-01-04-gemini-notes.md)**
-- **[2026-01-11-gemini-notes](../ai-notes/2026-01-11-gemini-notes.md)**
-- **[2026-01-18-gemini-notes](../ai-notes/2026-01-18-gemini-notes.md)**
-- **[2026-01-25-gemini-notes](../ai-notes/2026-01-25-gemini-notes.md)**
+- **[2026-02-15-gemini-notes](../ai-notes/2026-02-15-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -476,6 +496,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 25/01](../ai-notes-summary/2026-01-25-gemini-notes.md)** - División del grupo y emboscada Metacorps
 - **[Resumen 01/02](../ai-notes-summary/2026-02-01-gemini-notes.md)** - Refugio de Mésmero y encuentro con los muertos
 - **[Resumen 08/02](../ai-notes-summary/2026-02-08-gemini-notes.md)** - Rayuela de las sombras y casa de la Samaritana
+- **[Resumen 15/02](../ai-notes-summary/2026-02-15-gemini-notes.md)** - El tío traidor y la trampa del almacén portuario
 
 ---
 
@@ -535,7 +556,7 @@ El juego dentro del juego:
 - **Crisis**: El grupo se divide ideológica y físicamente por primera vez
 
 ### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 26 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Febrero 2026)
+- **Sesiones Totales**: 27 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Febrero 2026)
 - **Páginas de Notas**: ~400 páginas de contenido
 - **Horas de Juego**: ~75 horas registradas
 - **Personajes Desarrollados**: 6 protagonistas principales
@@ -547,28 +568,31 @@ El juego dentro del juego:
 
 ### ⚠️ **Estado del Grupo (Febrero 2026)**
 
-El grupo ha sobrevivido al terror sobrenatural del Barrio Gótico nocturno:
+El grupo está atrapado sin poderes en un almacén bajo fuego de torretas, traicionado por el tío de Sentencia:
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Parcialmente reunidos - cuatro en casa de Nicolás, Eslizón con cachorros |
-| **Físico** | Curados con ungüento de La Samaritana |
-| **Emocional** | Hotman bloqueado, Sentencia agotada, Sique exhausta |
-| **Legal** | Todos buscados, un Metacorp muerto, dos heridos graves |
+| **Unidad** | Cuatro en combate, Diana incomunicada en la subciudad, Eslizón con cachorros |
+| **Físico** | Sin poderes (luz verde antimeta), Pantomima herida en la pierna |
+| **Emocional** | Sentencia traicionada por su tío, Hotman en proceso de aceptar la lucha |
+| **Legal** | Todos buscados, un Metacorp muerto, Diana en la subciudad |
 
 ### 🎯 **Arcos Narrativos Pendientes**
-- **Estrategia "grass roots"**: ¿Funcionará el movimiento de base de Diana?
+- **La trampa del tío**: ¿Cómo escapan del almacén sin poderes? ¿Qué misión tenía Sentencia?
+- **Roberto McKomick**: ¿Es recuperable? ¿Qué sabe sobre el padre de Sentencia?
+- **Mésmero en la cárcel**: Relación con El Faraón y Egipto — ¿qué ocurrió exactamente?
+- **Ana Montenegro**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
 - **Liberación de almas**: Encontrar el Ka para liberar dos millones de almas egipcias
 - **Padre de Hotman**: Conexión con el chip revelada por Mésmero
-- **Diana debe encontrar algo**: Guiada por Mulcifer
-- **Manual de la furgoneta**: Pedir instrucciones a Cacharrero
-- **Nicolás**: ¿Será aliado recurrente en el Barrio Gótico?
+- **Diana en la subciudad**: ¿Qué está haciendo? ¿Cuándo vuelve?
+- **Manipulación externa**: Alguien desde EE.UU. (¿Blackwater?) orquesta los eventos
 
 ### 🎲 **Preguntas Abiertas**
-- ¿Quiénes eran las niñas fantasmales? ¿Volverán?
-- ¿Funcionará la estrategia de Diana para rehabilitar la imagen?
+- ¿Cuál era la misión única para la que Roberto entrenó a Sentencia?
+- ¿Está realmente vivo el padre de Sentencia? ¿Por qué Roberto lo niega?
+- ¿Cómo escapa el grupo del almacén sin poderes?
+- ¿Quiénes eran las niñas fantasmales del Barrio Gótico?
 - ¿Dónde está el Ka de las almas egipcias?
-- ¿Superará Hotman su bloqueo emocional?
 
 ---
 

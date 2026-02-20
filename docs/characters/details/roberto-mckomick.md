@@ -12,7 +12,7 @@ slug: roberto-mckomick
 </div>
 
 ## Presentación
-Roberto McKomick es el tío de Justa McKomick (Justicia/Sentencia) y hermano del fallecido Anselmo McKomick. Tras la muerte de su hermano durante el ataque de MetaCorps a La Familia, Roberto se convirtió en el guardián del legado armamentístico familiar y en una figura de apoyo crucial para su sobrina. Mantiene una extensa red de arsenales y refugios seguros distribuidos por toda Arcadia.
+Roberto McKomick es el tío de [Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y hermano del fallecido Anselmo McKomick. Guardián del legado armamentístico familiar y figura de entrenamiento para su sobrina, su lealtad real resultó ser muy diferente a la que aparentaba: es un **antimeta declarado** que entrenó a Sentencia en secreto para una misión que nunca le reveló, y que en febrero de 2026 le tendió una trampa, activando un neutralizador de poderes y torretas automáticas contra ella y su grupo.
 
 ## Rol y Actividades
 Roberto actúa como el gestor logístico y proveedor de armamento para Justa, manteniendo el acceso a la colección de armas que heredó de su hermano fallecido. Su papel incluye la gestión de múltiples ubicaciones seguras, el mantenimiento de arsenales, y proporcionar lugares seguros para entrenamiento con armas de fuego. Es la conexión de Justa con el legado militar y armamentístico de la familia McKomick.
@@ -30,24 +30,48 @@ Roberto actúa como el gestor logístico y proveedor de armamento para Justa, ma
 - **Seguridad operacional**: Mantenimiento de ubicaciones ocultas y protegidas
 - **Diversidad de arsenal**: Acceso a diferentes tipos de armamento según necesidades
 
+## Verdadera Naturaleza: El Antimeta
+
+### La Traición (Sesión 51, Febrero 2026)
+Lo que parecía una relación de apoyo familiar resultó ser instrumentalización calculada. Cuando Sentencia acudió a la cita convocada por Roberto en el distrito portuario, él:
+- **Reprochó duramente** haber matado a agentes de MetaCorp
+- **Comparó a Sentencia con el asesino de su propio padre** — el insulto más calculado posible
+- **Reveló ser antimeta declarado**: su odio a los metahumanos es ideológico, no situacional
+- **Activó una luz verde neutralizadora de poderes** que dejó al grupo completamente indefenso
+- **Lanzó las torretas automáticas** del almacén contra Sentencia y su grupo
+- **Negó que el padre de Sentencia pudiera estar vivo**, calificándolo de "truco metahumano"
+
+### La Misión Oculta
+Roberto declaró que entrenó a Sentencia **para una única misión específica que no está cumpliendo**. No reveló cuál es esa misión, lo que abre preguntas fundamentales:
+- ¿Cuál era esa misión?
+- ¿Estaba Anselmo (el padre) al tanto?
+- ¿Es el entrenamiento armamentístico parte del plan o simplemente la herramienta?
+
+### Ideología Antimeta
+Roberto no es un aliado decepcionado — es un oponente ideológico que usó el vínculo familiar como cobertura:
+- Considera que los metahumanos son una amenaza para los humanos normales
+- Su arsenal y red de refugios podrían estar al servicio de esta ideología
+- La muerte de Anselmo (a manos de MetaCorp, según los registros) puede haber radicalizdo su antimeta-ismo
+
 ## Relación Familiar
-### Conexión con Justa
-Roberto representa la continuidad familiar tras la muerte de Anselmo. Su relación con Justa va más allá del simple suministro de armas; actúa como:
-- **Preservador del legado**: Mantiene viva la conexión con su padre fallecido
-- **Mentor logístico**: Enseña sobre gestión y acceso a recursos armamentísticos
-- **Figura de apoyo**: Proporciona estabilidad familiar en ausencia de los padres
-- **Facilitador de independencia**: Permite que Justa acceda a recursos sin depender completamente de él
+### Conexión con Sentencia
+La relación con Sentencia es más compleja de lo que aparentaba:
+- **Instrumentalización**: La entrenó para un propósito oculto, no por amor familiar
+- **Cobertura de apoyo**: El suministro de armas y arsenales servía como tapadera
+- **Conocimiento del padre**: Sabe más sobre Anselmo McKomick de lo que ha admitido
+- **Línea roja**: La muerte de agentes MetaCorp fue el detonante que lo hizo actuar abiertamente
 
 ### Diferencias con el Legado Paterno
-Mientras que Anselmo tenía preferencia por armas de precisión como la Desert Eagle que usa Justa, Roberto se especializa en:
+Mientras que Anselmo tenía preferencia por armas de precisión, Roberto se especializa en:
 - **Armamento automático**: Subfusiles y armas de fuego rápido
-- **Enfoque militar**: Estilo más agresivo y de supresión
+- **Sistemas defensivos**: Torretas automáticas, neutralizadores de poderes
 - **Logística de campo**: Gestión de múltiples ubicaciones y recursos
-- **Operaciones encubiertas**: Mantenimiento de refugios seguros
+- **Tecnología antimeta**: Acceso a equipamiento para neutralizar metahumanos
 
 ## Apariciones Documentadas
-- [La Fuerza Oculta AI Notes 2025-07-13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/) - Recuperación de armas y recursos
-- [La Fuerza Oculta AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) - Ubicaciones de entrenamiento
+- [La Fuerza Oculta AI Notes 2025-07-13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes/) - Recuperación de armas y recursos
+- [La Fuerza Oculta AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes/) - Ubicaciones de entrenamiento
+- [La Fuerza Oculta - Sesión 51 (15 Febrero 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-15-gemini-notes/) - La trampa del almacén portuario: revela su naturaleza antimeta y ataca al grupo
 
 ## Infraestructura Operacional
 

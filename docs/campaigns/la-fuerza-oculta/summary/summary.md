@@ -2006,3 +2006,65 @@ El grupo queda empapado, helado, con **marcas negras necróticas** donde tocaron
 
 ---
 
+### Sesión 51: El Tío Traidor (15 febrero 2026)
+
+📎 [Manual](../manual-notes/session-51-2026-02-15.md) | [AI](../ai-notes/2026-02-15-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-15-gemini-notes.md)
+
+**El amanecer en el Barrio Gótico:**
+
+- El grupo despierta en casa de Nicolás; el barrio ha perdido su aspecto siniestro a la luz del día
+- Sique intenta averiguar el nombre real de La Samaritana sin éxito — Nicolás no lo sabe
+- Nicolás acompaña al grupo hasta la furgoneta y se despide vestido de banquero
+
+**En casa de Mésmero:**
+
+- Mésmero los recibe con bata púrpura y mascarilla facial: *"¿Qué tal ha ido la noche?"*
+- Sentencia confiesa al grupo que **su destino no tiene por qué arrastrar al resto**
+- Debate sobre el autocontrol de Sentencia y Hotman
+
+**La conversación de Sentencia y Hotman:**
+
+- **Hotman**: quiere entregarse porque sus acciones han causado daño real
+- **Sentencia**: aunque las posibilidades sean remotas, no se rinde; esto es una guerra
+- **Acuerdo**: esperar, observar, no actuar impulsivamente hasta saber quién los manipula
+
+**El SMS cifrado del tío:**
+
+- Sentencia recibe el protocolo de emergencia cifrado de su tío con coordenadas GPS
+- Las descifran en el Windows 8 de Mésmero (larga espera de actualizaciones)
+- La cita: **distrito flotante portuario**, zona de almacenes, poca vigilancia; a las **diez de la noche**
+
+**Pantomima curiosea sola:**
+
+- Encuentra **fotos de Ana Montenegro** con un señor trajeado y dos niños, y fotos de Garra
+- Descubre **transcripciones de juicios contra Julián Montenegro**: Mésmero estuvo en la cárcel por un asunto relacionado con El Faraón y Egipto
+
+**Clase con Mésmero y el don de navegación:**
+
+- Sique tiene entrenamiento telepático intensivo con Mésmero — vuelve **sangrando por la nariz**
+- Hotman articula su análisis: **alguien los usa para alimentar la animadversión contra los metahumanos**
+- Mésmero otorga a Sentencia la capacidad de **localizar el punto de cita** (círculo guía visual)
+- Mésmero: *"Primero sacaros el culo de vuestra cabeza y cometed errores, que para eso sois jóvenes."*
+
+**La trampa del tío:**
+
+- 40 minutos de viaje, almacén en ruinas con vallas oxidadas; Sique detecta **una mente entrenada** dentro
+- Roberto McKomick **no los recibe bien**: bronca por matar a MetaCorp, compara a Sentencia con el asesino de su padre
+- Declara que la entrenó para **una única misión que no está cumpliendo** y que es **antimeta declarado**
+- Sentencia revela que **su padre podría estar vivo** — Roberto lo descarta como truco metahumano
+- Roberto activa una **luz verde que neutraliza todos los poderes**
+- Las **torretas automáticas** del almacén abren fuego
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Sin poderes, en combate | Almacén portuario |
+| Hotman | Sin poderes, en combate | Almacén portuario |
+| Sique | Sin poderes, en combate | Almacén portuario |
+| Pantomima | Sin poderes, herida (pierna), shaken | Almacén portuario |
+| Eslizón | Ausente | Con los cachorros |
+| Diana | Incomunicada | Subciudad |
+
+---
+

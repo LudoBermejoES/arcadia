@@ -481,10 +481,26 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-02-15 - El Tío Traidor](../ai-notes-summary/2026-02-15-gemini-notes.md)
+
+**"Traición Familiar y Trampa en el Almacén Portuario"**
+
+- 🌅 **Amanecer Tranquilo**: El Barrio Gótico sin su aspecto nocturno siniestro
+- 💬 **Sentencia Confiesa**: Su destino no tiene por qué arrastrar al resto
+- 📱 **SMS Cifrado**: Protocolo de emergencia del tío, coordenadas al distrito portuario
+- 🔍 **Pantomima Curiosea**: Descubre el pasado carcelario de Mésmero (El Faraón y Egipto)
+- 🧠 **Clase Telepática**: Sique entrena con Mésmero hasta sangrar por la nariz
+- 🏭 **La Trampa**: Roberto McKomick, antimeta, activa luz verde neutralizadora y torretas
+- ⚡ **Sin Poderes**: El grupo queda incapacitado bajo fuego en el almacén
+
+**Duración**: ~3 horas | **Palabras**: ~15,000 | **Páginas**: ~40
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 29 sesiones completas
+- **Total de Transcripciones**: 30 sesiones completas
 - **Período Cubierto**: Junio 2025 - Febrero 2026 (9 meses intensivos)
 - **Palabras Totales**: ~457,000 palabras transcritas
 - **Páginas Equivalentes**: ~1,170 páginas de contenido

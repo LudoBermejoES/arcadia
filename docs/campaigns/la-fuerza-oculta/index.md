@@ -104,28 +104,28 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ## 🔮 Estado Actual (Febrero 2026)
 
-**La Fuerza Oculta** ha sobrevivido al terror sobrenatural del Barrio Gótico nocturno. Tras la confrontación terapéutica de Mésmero y la transformación espiritual de Sentencia (Sesión 49), Hotman se escabulló solo al Barrio Gótico y fue atrapado en un **juego de rayuela dimensional** con niñas fantasmales. El grupo lo rescató con la ayuda de **La Samaritana**, el fantasma protector del distrito, y se curaron con su ungüento en la casa encantada de **Nicolás**.
+**La Fuerza Oculta** se encuentra atrapada sin poderes en un almacén portuario bajo fuego de torretas automáticas, traicionada por el tío de Sentencia. Tras el amanecer tranquilo en casa de Nicolás (Sesión 51), el grupo llegó a una cita convocada por Roberto McKomick —que resultó ser una trampa: antimeta declarado, activó una luz verde neutralizadora de poderes y abrió fuego con torretas automáticas.
 
 **Estado del grupo:**
-- **Sentencia**: Curada, emocionalmente agotada tras rescate desesperado de Hotman
-- **Hotman**: Curado físicamente, pero bloqueado emocionalmente — rechaza conexión con el grupo
-- **Diana**: Planificando estrategia "grass roots" para rehabilitar la imagen del grupo
-- **Sique/Psique**: Agotada telepáticamente (sangrado nasal por distorsión del Barrio Gótico)
-- **Pantomima**: Ausente (recuperándose en casa de Mésmero)
+- **Sentencia**: Sin poderes, en combate — traicionada por su tío
+- **Hotman**: Sin poderes, en combate — ha aceptado seguir luchando tras conversación con Sentencia
+- **Sique/Psique**: Sin poderes, en combate — entrenamiento telepático intensivo con Mésmero
+- **Pantomima**: Sin poderes, herida (pierna, shaken) — en combate
+- **Diana**: Incomunicada (en la subciudad)
 - **Eslizón**: Separado del grupo, con los cachorros bestiales
 
-**Ubicación**: Casa de Nicolás en el Barrio Gótico (amanecer)
+**Ubicación**: Almacén abandonado en el distrito portuario flotante
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Estrategia "grass roots"**: Diana propone movimiento de base para rehabilitar imagen pública
-- **Liberación de las almas**: Nueva misión de Sentencia - encontrar el Ka para liberar dos millones de almas egipcias
-- **Conexión padre de Hotman**: Mésmero reveló que el chip y todo lo sucedido tiene que ver con su padre
-- **Diana debe encontrar algo**: Su padrino Mulcifer la ha guiado para que encuentre algo específico
-- **Crisis mediática total**: Un muerto, dos heridos graves - el grupo es visto como asesinos
-- **Manual de la furgoneta**: Sentencia quiere pedirle a Cacharrero las instrucciones
-- **Nicolás como aliado**: Banquero simpático del Barrio Gótico con amuletos protectores
-- **Las niñas fantasmales**: ¿Quiénes eran? ¿Volverán como amenaza?
+- **La trampa del tío**: Escapar del almacén sin poderes — ¿cuál es la misión oculta para la que entrenó a Sentencia?
+- **Roberto McKomick**: Antimeta que conoce más secretos de la familia McKomick de lo que admite
+- **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto
+- **Ana Montenegro en casa de Mésmero**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
+- **Liberación de las almas**: Encontrar el Ka para liberar dos millones de almas egipcias
+- **Conexión padre de Hotman**: El chip y todo lo sucedido está relacionado con su padre
+- **Diana en la subciudad**: Incomunicada — ¿qué está buscando?
+- **Manipulación externa**: Alguien desde EE.UU. (¿Blackwater?) orquesta los eventos contra el grupo
 
 ---
 

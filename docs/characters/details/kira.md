@@ -203,6 +203,23 @@ La sesión más difícil emocionalmente para Kira:
 - Participó en la travesía por el desierto y escape en lancha
 - Mostró paranoia sobre el reformatorio durante el viaje
 
+### **La Noche del Motel de lo Ocaso - Combate Efectivo (22/02/2026)**
+
+Kira demostró control creciente de sus poderes en un combate inesperado:
+
+**El Combate en el Motel:**
+- La irrupción de Tiritas (furioso por sus macarrones desaparecidos) precipitó un enfrentamiento con moteros armados
+- Kira respondió tácticamente desde el primer momento
+
+**Ataques Efectivos:**
+- **Flash cegador**: Cegó a un atacante con un destello eléctrico — tirada alta, el enemigo perdió el turno con -2 al ataque
+- **Conmoción eléctrica**: Aturdió a un segundo atacante con descarga eléctrica de conmoción
+- Mantuvo posición táctica, sin sobrecargarse
+
+**Resultado:**
+- Contribución sólida al combate sin incidentes de fuego amigo
+- El grupo huyó en furgoneta robada, camino a una clínica clandestina que Sergei conocía
+
 ### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
 
 Kira demostró **iniciativa táctica y uso versátil de poderes** durante el escape:
@@ -238,6 +255,7 @@ Kira demostró **iniciativa táctica y uso versátil de poderes** durante el esc
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 
@@ -253,9 +271,9 @@ Kira ha **escapado completamente de Isla Albedo** y pasado su primera noche de l
 
 ### **Estado Actual**
 
-- **Ubicación**: Motel Locaso, Distrito Lunae
-- **Estado Físico**: Recuperada de la fatiga anterior
-- **Estado Emocional**: Procesando la libertad, posible fobia al agua (metro submarino)
+- **Ubicación**: Furgoneta robada, camino a clínica clandestina
+- **Estado Físico**: En buen estado, sin heridas tras el combate del motel
+- **Estado Emocional**: Estable, control de poderes mejorando (sin fuego amigo esta vez)
 - **Estado Legal**: Fugitiva buscada por Metacorps
 
 ### **Impacto Psicológico**

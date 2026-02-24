@@ -180,6 +180,30 @@ La sesión más traumática para Tiritas hasta la fecha:
 **Línea Memorable:**
 > *"Me debe muchos macarrones"* - Tiritas sobre Kira, tras el incidente
 
+### **La Noche del Motel de lo Ocaso - Macarrones y Super Saiyan (22/02/2026)**
+
+La segunda noche de libertad estuvo marcada por la pérdida y recuperación de lo más preciado para Tiritas:
+
+**El Detonante:**
+- Descubrió que sus macarrones habían desaparecido — Sergei los había dado a Mishka (una joven que les acompañaba) sin consultarle
+- La reacción fue inmediata y explosiva: **irrumpió gritando** en la habitación, precipitando un enfrentamiento con los moteros que occupaban el motel
+- Su irrupción desencadenó el combate antes de que hubiera tiempo para evitarlo
+
+**Super Saiyan - Primera Transformación Completa:**
+- Un motero le golpeó con una porra
+- Tiritas **absorbió el golpe** y experimentó una transformación intensa: pelo encrespado y brillante, aura de energía
+- Los presentes lo describieron como un **Super Saiyan nivel 1**
+- Atacó con fuerza aumentada derivada de la absorción
+- **Sigue herido**: solo curó 1 herida desde la sesión anterior; aún con daño pendiente
+
+**Estabilización del Motero Herido:**
+- Tiritas estabilizó a un motero malherido durante la refriega
+- El motero fue llevado con ellos en la furgoneta (bala aún dentro)
+
+**Macarrones Recuperados:**
+- Tras el combate, recuperó sus macarrones de Mishka
+- El mundo volvió a su eje
+
 ### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
 
 Tiritas atravesó el escape en **estado vulnerable pero con su espíritu intacto**:
@@ -218,6 +242,7 @@ Tiritas atravesó el escape en **estado vulnerable pero con su espíritu intacto
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 
@@ -233,9 +258,9 @@ Tiritas ha **escapado completamente de Isla Albedo** y pasado su primera noche d
 
 ### **Estado Actual**
 
-- **Ubicación**: Motel Locaso, Distrito Lunae
-- **Estado Físico**: Aún herido, regeneración pendiente (puede curar 1 herida al día)
-- **Estado Emocional**: Aliviado pero vulnerable, necesita comida y descanso
+- **Ubicación**: Furgoneta robada, camino a clínica clandestina
+- **Estado Físico**: Aún herido (curó 1 herida, pero sigue con daño), activó Super Saiyan en combate
+- **Estado Emocional**: Irritable por el incidente de los macarrones, pero macarrones recuperados
 - **Estado Legal**: Fugitivo buscado por Metacorps
 
 ### **Momento Revelador**

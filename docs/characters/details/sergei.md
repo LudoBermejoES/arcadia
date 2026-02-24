@@ -145,6 +145,29 @@ Sergei jugó un papel crucial en el escape de la instalación:
 - Se desmayó de agotamiento durante el viaje
 - Tiritas lo usó como sombra mientras navegaban
 
+### **La Noche del Motel de lo Ocaso - El Fallo Crítico y el Rescate (22/02/2026)**
+
+Sergei protagonizó el momento más bochornoso y también el más práctico de la sesión:
+
+**El Detonante Involuntario:**
+- Sergei había dado los macarrones de Tiritas a Mishka (la joven que les acompañaba) como gesto de hospitalidad
+- Cuando Tiritas descubrió la ausencia de sus macarrones, irrumpió furioso — desencadenando el combate con los moteros del motel
+
+**Doble Uno - Fallo Crítico:**
+- Durante el combate, intentó proteger a Mishka atacando a un motero
+- **Pifia crítica (doble uno)**: el ataque falló catastróficamente
+- En lugar de golpear al enemigo, **noqueó accidentalmente a Mishka**
+- El fallo fue rotundo y sin paliativos
+
+**Recuperación Práctica:**
+- A pesar del fallo, recordó la existencia de una **clínica clandestina** donde poder llevar a los heridos
+- Robó y arrancó una furgoneta con su dedo transformado para facilitar la huida
+- Coordinó la fuga del grupo con el motero herido (estabilizado por Tiritas) y Mishka inconsciente
+
+**Mishka al Volante:**
+- Una vez recuperada del golpe, Mishka condujo la furgoneta hacia la clínica clandestina
+- El grupo escapó del motel antes de que llegara alguien
+
 ### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
 
 Sergei emergió como **líder táctico de facto** durante el escape completo del grupo:
@@ -182,6 +205,7 @@ Sergei emergió como **líder táctico de facto** durante el escape completo del
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 
@@ -197,9 +221,9 @@ Sergei ha liderado el **escape completo de Isla Albedo** y guiado al grupo hasta
 
 ### **Estado Actual**
 
-- **Ubicación**: Motel Locaso, Distrito Lunae
+- **Ubicación**: Furgoneta robada, camino a clínica clandestina
 - **Recursos**: Aproximadamente 2000 pesetas restantes
-- **Estado Físico**: Recuperado del agotamiento anterior
+- **Estado Físico**: En buen estado, sin heridas tras el combate del motel
 - **Estado Legal**: Fugitivo buscado por Metacorps
 
 ### **Preguntas Abiertas**

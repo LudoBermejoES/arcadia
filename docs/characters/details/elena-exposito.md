@@ -192,6 +192,25 @@ Elena participó en el escape de la instalación:
 - Exhaustada pero funcional
 - Su impulsividad se mantuvo bajo control durante la crisis
 
+### **La Noche del Motel de lo Ocaso - La Ilusión que Terminó la Pelea (22/02/2026)**
+
+Elena llegó tarde al combate pero fue quien lo resolvió:
+
+**Llegada al Caos:**
+- Cuando llegó a la escena, el grupo ya estaba en plena refriega con moteros armados
+- Tiritas en estado Super Saiyan, Kira usando electricidad, Sergei en combate cuerpo a cuerpo
+
+**La Ilusión Decisiva:**
+- Creó una **ilusión de sirena policial** convincente (tirada de 9)
+- Los moteros gritaron *"¡La pasma!"* y huyeron en desbandada
+- Con una sola ilusión, terminó el combate que el resto del grupo no había podido cerrar
+- Su contribución fue la más eficaz narrativamente de la sesión
+
+**Huida:**
+- El grupo escapó en una furgoneta robada por Sergei
+- Mishka (joven que les acompañaba) condujo hacia la clínica clandestina
+- El grupo lleva consigo a un motero herido estabilizado por Tiritas
+
 ### **Escape de Isla Albedo - Primera Noche de Libertad (01/02/2026)**
 
 Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusiones:
@@ -221,6 +240,7 @@ Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusion
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 
@@ -235,9 +255,9 @@ Elena ha **escapado completamente de Isla Albedo** y pasado su primera noche de 
 
 ### **Estado Actual**
 
-- **Ubicación**: Motel Locaso, Distrito Lunae
-- **Estado Físico**: Exhausta por uso prolongado de poderes
-- **Rol en el Grupo**: Apoyo táctico esencial para ocultación
+- **Ubicación**: Furgoneta robada, camino a clínica clandestina
+- **Estado Físico**: En buen estado tras el combate del motel
+- **Rol en el Grupo**: Apoyo táctico esencial para ocultación e ilusiones de combate
 - **Estado Legal**: Fugitiva buscada por Metacorps
 
 ### **Importancia Estratégica**

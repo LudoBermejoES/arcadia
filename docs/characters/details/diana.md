@@ -220,6 +220,19 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Sospecha que *"su muerte alimentó su vida"* - que integraron su ADN en ella
 - Objetivo: *"Reconducir a mi familia, no destruirla"*
 
+### Fase IX: Escape del Almacén y Reubicación (22 Febrero 2026)
+
+**Escape del Almacén**:
+
+- El grupo huye de un almacén vigilado por torretas automáticas
+- Diana **bloquea una torreta físicamente** con su cuerpo para proteger al equipo
+- Sentencia, herida con 3 balas, destruye las torretas restantes desde el suelo
+
+**Reubicación**:
+
+- El grupo se traslada a la **mansión segura de Mulcifer** (Barrio Biónico)
+- Diana acoge al equipo en la propiedad que Mulcifer cedió a ella y a Sique
+
 ---
 
 ## 🔗 Relaciones
@@ -295,19 +308,18 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ---
 
-## 📊 Estado Actual (Enero 2026)
+## 📊 Estado Actual (Febrero 2026)
 
-### ⚠️ SITUACIÓN CRÍTICA: BAJO ARRESTO
+### 🏠 EN LA MANSIÓN SEGURA DE MULCIFER
 
-**Estado**: Detenida voluntariamente por Metacorps (25 Enero 2026)
+**Estado**: Libre, instalada en mansión segura (22 Febrero 2026)
 
-Diana se entregó voluntariamente a los Metacorps durante la emboscada al salir del Casino de Dionisios. Su postura siempre había sido "hablar con los que vinieran a buscarlos", y cuando el combate dejó a Hotman y Pantomima incapacitados, eligió rendirse para evitar más violencia.
+Diana fue rescatada por Sentencia en el último momento durante el combate del casino: Sentencia disparó al arma del último Metacorp y Diana lo desarinó, escapando toda la fuerza en la furgoneta. Después del refugio en casa de Mésmero, el grupo se ha trasladado a la **mansión segura que Mulcifer cedió** a Diana y Sique. En la sesión 53, Diana bloqueó físicamente una torreta para proteger al grupo durante la huída del almacén.
 
-**Circunstancias de la captura**:
-- Emboscada de Metacorps en el parking del casino
-- Combate intenso dejó al grupo malherido
-- Levantó las manos voluntariamente ante los Metacorps
-- Justa intentó volver a rescatarla pero Diana ya se estaba entregando
+**Circunstancias del escape** (Sesión 49):
+- Sentencia disparó al arma del último Metacorp desviándola
+- Diana lo desarmó y se subió a la furgoneta
+- El grupo escapó completo — nadie fue arrestado
 
 ### Capacidades Tácticas
 
@@ -349,7 +361,6 @@ Diana se entregó voluntariamente a los Metacorps durante la emboscada al salir 
 - Supresores químicos anulan poderes completamente
 - Trauma ante vulnerabilidad física desencadena furia descontrolada
 - Revelación de Apolo afecta estabilidad emocional
-- **Actualmente bajo custodia de Metacorps**
 
 ---
 
@@ -413,8 +424,12 @@ Diana se entregó voluntariamente a los Metacorps durante la emboscada al salir 
 - [AI Notes 2025-11-16]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-16-gemini-notes/)
 - [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
-- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Arresto
+- [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Escape del casino y refugio en casa de Mésmero
+- [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Bloquea torreta físicamente en escape del almacén
+- [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales
@@ -423,4 +438,4 @@ Diana se entregó voluntariamente a los Metacorps durante la emboscada al salir 
 
 ---
 
-*Diana representa el conflicto entre herencia y elección en La Fuerza Oculta. Creada como arma por Fatum, eligió ser heroína. Refugiada en la nada para evitar el dolor, descubrió que su hermano gemelo Apolo está vivo en algún lugar distante, destruyendo su último refugio. Su violencia es tanto su poder como su lenguaje: destruye sacos de entrenamiento para meditar, estrella sillas para expresar solidaridad, y desata furia "Saiyan" cuando su vulnerabilidad física queda expuesta. Psique es su ancla, pero incluso ella no puede alcanzar el dolor de saber que Apolo existe lejos, en algún lugar que trasciende la lógica y la distancia. El destello fue "algo terrible y algo maravilloso" - y Diana debe aprender a vivir con esa contradicción.*
+*Diana representa el conflicto entre herencia y elección en La Fuerza Oculta. Creada como arma por Fatum, eligió ser heroína. Refugiada en la nada para evitar el dolor, descubrió que su hermano gemelo Apolo está vivo en algún lugar distante, destruyendo su último refugio. Su violencia es tanto su poder como su lenguaje: destruye sacos de entrenamiento para meditar, estrella sillas para expresar solidaridad, bloquea torretas con su cuerpo para proteger a sus compañeros, y desata furia "Saiyan" cuando su vulnerabilidad física queda expuesta. Psique es su ancla, pero incluso ella no puede alcanzar el dolor de saber que Apolo existe lejos, en algún lugar que trasciende la lógica y la distancia. El destello fue "algo terrible y algo maravilloso" - y Diana debe aprender a vivir con esa contradicción.*

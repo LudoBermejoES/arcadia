@@ -334,6 +334,39 @@ Sale a entregarse pero **queda atrapado**:
 - El Barrio Gótico no le deja salir
 - Una voz conocida pregunta: *"¿Estás perdido, hijo?"*
 
+### Fase XII: El Escape del Almacén y la Despedida (22 Febrero 2026)
+
+**Escape del Almacén**:
+
+- El grupo huye de un almacén vigilado por torretas automáticas
+- Diana bloquea una torreta físicamente; Sentencia destruye las demás disparando herida
+- Sique extrae 3 balas de Sentencia con una cirugía excepcional
+- **Hotman guarda las balas** como recuerdo personal
+
+**La Crisis de Sentencia**:
+
+- Escucha desde la habitación contigua cómo Sentencia atraviesa su momento más oscuro
+- Su voz es lo que la detiene antes de apretar el gatillo
+
+**Discurso de Mésmero**:
+
+- Mésmero pronuncia: *"Estáis condenados a la grandeza"*
+- Revela que el **60% de las acciones de su padre** han sido intervenidas por el gobierno de EE.UU.
+- El padre de Hotman ha perdido gran parte de su poder corporativo real
+- Mésmero deja una tarjeta de crédito y se marcha
+
+**La Llegada de Oneiros**:
+
+- Oneiros aparece para evaluar el nivel de control de Hotman
+- Le convierte las manos en oro para medir sus límites
+- Una gota de oro cae al suelo: ese es el límite actual
+- Oneiros propone **dos semanas de entrenamiento intensivo**
+
+**Despedida de Sentencia**:
+
+- Hotman y Sentencia se despiden con un **beso**
+- Parte con Oneiros dejando al grupo en la mansión de Mulcifer
+
 ---
 
 ## 🔗 Relaciones
@@ -419,13 +452,13 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ## 📊 Estado Actual (Febrero 2026)
 
-### ⚠️ SITUACIÓN CRÍTICA: PERDIDO EN EL BARRIO GÓTICO
+### 🔥 ENTRENAMIENTO CON ONEIROS
 
-**Estado**: Crisis existencial, perdido en el Barrio Gótico (1 Febrero 2026)
+**Estado**: En entrenamiento intensivo con Oneiros (22 Febrero 2026)
 
-Tras ver en televisión a la familia del Metacorp que mató (esposa y tres hijos), Hotman entró en crisis existencial. Escribió un mensaje de despedida a Sentencia y salió a entregarse, pero el Barrio Gótico no le permite irse - lleva dos horas caminando en línea recta y vuelve a los mismos lugares. Una voz familiar le pregunta: *"¿Estás perdido, hijo?"*
+Tras superar su crisis existencial en el Barrio Gótico (donde conoció a Oneiros), Hotman ha aceptado dos semanas de entrenamiento intensivo para aprender a controlar su poder de vuelo y sus límites térmicos. Se despidió de Sentencia con un beso antes de partir. La revelación de Mésmero sobre el 60% de las acciones de su padre intervenidas por el gobierno de EE.UU. cambia el panorama familiar — su padre ya no es tan poderoso como parecía.
 
-**Ubicación actual**: En algún lugar del Barrio Gótico, atrapado
+**Ubicación actual**: Con Oneiros, fuera del grupo (2 semanas de entrenamiento)
 
 ### Situación Legal
 
@@ -517,7 +550,9 @@ Tras ver en televisión a la familia del Metacorp que mató (esposa y tres hijos
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Crisis Existencial y Pérdida en el Barrio Gótico
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Escape del almacén, revelación de Mésmero, despedida y partida con Oneiros
+- [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ---
 
-*Hotman representa la evolución más dramática de víctima a liberado... y ahora a crisis existencial. De niño aterrorizado a héroe que quemó su conexión con el miedo, pero el peso de matar a un hombre con familia lo ha llevado al límite. Las gemelas de 11 años del Metacorp muerto le recuerdan los ojos de Justa - y esa imagen lo persigue. Quiso entregarse pero el Barrio Gótico no le deja salir, como si Arcadia misma supiera que su historia no ha terminado. Una voz le pregunta si está perdido. La pregunta es más profunda de lo que parece.*
+*Hotman representa la evolución más dramática de víctima a liberado. De niño aterrorizado a héroe que quemó su conexión con el miedo, pasó por una crisis existencial al matar a un padre de familia y encontró en el Barrio Gótico a Oneiros, que lo devolvió al camino. El 60% de las acciones de su padre están intervenidas por el gobierno de EE.UU. — la montaña que lo aplastó durante años resulta ser más frágil de lo que parecía. Ahora entrena con Oneiros durante dos semanas. Se fue con un beso de Sentencia y la promesa implícita de volver más fuerte.*

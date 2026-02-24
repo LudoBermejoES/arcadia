@@ -225,10 +225,11 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 
 ### Mentores
 
-**Espectro** (Jorge Muro):
+**Espectro** (Jorge Moreau):
 - Proveedor de munición no letal
 - Mentor de filosofía heroica
 - Conexión generacional con veteranos
+- **Futuro mentor anunciado**: Táctica avanzada, explosivos, sistemas anti-poderes (pendiente de inicio)
 
 **[Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/)**:
 - Entrenador de combate
@@ -380,24 +381,67 @@ Diana la confronta duramente sobre el pragmatismo:
 - *"Estoy cansada de que cada crisis se convierta en tu confesionario"*
 - Sentencia acepta la crítica y acuerda: primero sobrevivir, luego planificar
 
+### Fase X: El Escape del Almacén y la Crisis de la Pistola (22 Febrero 2026)
+
+**Escape del Almacén**:
+
+- El grupo huye de un almacén vigilado por torretas automáticas
+- Diana bloquea una torreta físicamente con su cuerpo
+- Sentencia, **herida con 3 balas en el cuerpo**, destruye las torretas restantes disparando desde el suelo
+- Sique realiza cirugía de campo excepcional (tirada 16): extrae las 3 balas y se desmaya al terminar
+- Hotman guarda las balas como recuerdo
+
+**El Tío en Televisión**:
+
+- Roberto McKomick aparece en televisión acusando a Sentencia de ser una asesina de MetaCorps
+- Lo llama por su nombre real y la responsabiliza públicamente de crímenes
+
+**Crisis de la Pistola**:
+
+- Sentencia se encierra sola en una habitación con su Desert Eagle
+- Se lleva el arma a la sien
+- La voz de Hotman desde la habitación contigua la detiene
+- Sale completamente diferente: **ultrafría**, sin rastro de lágrimas
+- Declara que va a matar a su tío Roberto
+
+**Decisión Estratégica**:
+
+- Acepta la oferta de Diana de refugiarse en la mansión de Mulcifer
+- Se instala en la mansión segura con el resto del grupo
+
+**Discurso de Mésmero**:
+
+- Mésmero pronuncia su discurso: *"Estáis condenados a la grandeza"*
+- Revela que el 60% de las acciones del padre de Hotman han sido intervenidas por el gobierno de EE.UU.
+- Deja una tarjeta de crédito para el grupo y se marcha
+
+**Despedida de Hotman**:
+
+- Sentencia y Hotman se despiden con un **beso** cuando él parte con Oneiros para 2 semanas de entrenamiento intensivo
+
+**Mentoría Anunciada**:
+
+- El narrador anuncia que Sentencia será asignada a **Espectro** para un periodo de entrenamiento
+- Área prevista: táctica avanzada, explosivos, sistemas anti-poderes
+- El entrenamiento aún no ha comenzado
+
 ---
 
 ## 📊 Estado Actual (Febrero 2026)
 
-### 🦋 TRANSFORMACIÓN COMPLETADA
+### 🔱 NUEVA FASE: FRÍA Y DETERMINADA
 
-**Estado**: Transformada, nueva misión de salvación (1 Febrero 2026)
+**Estado**: Transformada radicalmente, misión de eliminar al tío (22 Febrero 2026)
 
-Tras el escape del casino y el refugio en casa de Mésmero, Sentencia experimentó una **transformación fundamental**. El encuentro con el espíritu de su padre le reveló que él es "solo uno más" entre dos millones de almas egipcias atrapadas. Esta revelación cambió completamente su propósito: de buscar venganza contra el Faraón a **salvar a todas esas almas**.
+Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa habitación completamente diferente: sin rastro de la angustia anterior, con una frialdad que preocupa más que la rabia. Ha declarado que matará a su tío Roberto McKomick — el hombre que le proporcionaba arsenales y le encargó que "continuara su legado" — y lo dice sin pasión, como quien anuncia un plan de trabajo.
 
-**Ubicación actual**: Parque de bomberos de Mésmero (Barrio Gótico)
+**Ubicación actual**: Mansión segura de Mulcifer (Barrio Biónico)
 
 **Situación del grupo**:
-- **Hotman**: En crisis, perdido en el Barrio Gótico (decidió entregarse)
-- **Pantomima**: Recuperándose en el refugio
-- **Sique/Psique**: En el refugio, regañada por Mésmero
-- **Diana**: Libre, en el refugio (no fue arrestada)
-- **Eslizón**: Separado, con los cachorros bestiales
+- **Hotman**: Con Oneiros para entrenamiento intensivo de 2 semanas
+- **Psique/Sique**: Recuperándose tras el esfuerzo de la cirugía
+- **Diana**: En la mansión de Mulcifer
+- **Eslizón**: Ausente
 
 ### Situación Táctica
 
@@ -430,15 +474,15 @@ Tras el escape del casino y el refugio en casa de Mésmero, Sentencia experiment
 
 ### Nueva Misión: Las Almas Egipcias
 
-**Objetivo**:
+**Objetivo vigente**:
 - Liberar a los **dos millones de almas** atrapadas
 - Encontrar el **Ka** (fuerza vital) - ubicación desconocida
 - Ayudar a Mésmero a liberarse de la carga del **Ba**
-- Contactar al **tío** para más información
 
 **Archivo "Sentencias" - Estado**:
-- **Padre de Hotman**: Sentencia pendiente (pero prioridad ha bajado)
-- Nueva prioridad: Salvación sobre venganza
+- **Padre de Hotman**: Sentencia pendiente (prioridad secundaria)
+- **Roberto McKomick** (tío): Nueva entrada — *"Está sentenciado"*
+- La rabia no desapareció; se convirtió en planificación fría
 
 ---
 
@@ -506,6 +550,8 @@ Tras el escape del casino y el refugio en casa de Mésmero, Sentencia experiment
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Refugio de Mésmero y Transformación
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Escape del almacén, crisis de la pistola y decisión sobre el tío
+- [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ---
 

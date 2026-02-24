@@ -208,6 +208,27 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 - Sugiere que las ondas podrían ser llamada a sus padres
 - Sondea mentalmente las preferencias de los cachorros (carne, ratones, cucarachas)
 
+### Fase VIII: Cirugía de Campo Excepcional (22 Febrero 2026)
+
+**Escape del Almacén**:
+
+- El grupo huye de un almacén vigilado por torretas automáticas
+- Sentencia resulta herida con **3 balas** en el cuerpo durante el escape
+
+**La Cirugía**:
+
+- Sique realiza una **cirugía de campo** para extraer las 3 balas de Sentencia
+- Tirada de **16** — resultado excepcional
+- La operación es un éxito completo
+- Sique **se desmaya** al terminar por el esfuerzo
+
+**Reubicación**:
+
+- El grupo se traslada a la **mansión segura de Mulcifer** (Barrio Biónico)
+- Mejora significativa respecto al parque de bomberos de Mésmero
+
+---
+
 ### Fase VII: Casino de Dionisios y el Dilema Moral (18 Enero 2026)
 
 **Visita al Casino**:
@@ -307,15 +328,15 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ---
 
-## 📊 Estado Actual (Enero 2026)
+## 📊 Estado Actual (Febrero 2026)
 
-### ⚠️ SITUACIÓN CRÍTICA: HERIDA Y CONMOCIONADA
+### ✅ RECUPERADA — MANSIÓN SEGURA
 
-**Estado**: Herida y conmocionada por granada aturdidora (25 Enero 2026)
+**Estado**: Recuperada, en mansión de Mulcifer (22 Febrero 2026)
 
-Sique fue afectada por una **granada aturdidora** de los Metacorps durante la emboscada al salir del Casino de Dionisios. El "zumbido atronador" la dejó conmocionada. Fue rescatada por Justa y actualmente está en la furgoneta en fuga.
+Tras la conmoción de la granada aturdidora, Sique se recuperó y demostró sus habilidades médicas realizando una cirugía de campo excepcional (tirada 16) para extraer 3 balas del cuerpo de Sentencia. El esfuerzo la dejó desvanecida, pero el resultado fue perfecto. El grupo se ha reubicado en la mansión segura que Mulcifer cedió a Diana y Sique.
 
-**Ubicación actual**: En la furgoneta con el resto del grupo herido
+**Ubicación actual**: Mansión segura de Mulcifer (Barrio Biónico)
 
 ### Resolución del Dilema Moral (25 Enero 2026)
 
@@ -419,6 +440,8 @@ Sique fue afectada por una **granada aturdidora** de los Metacorps durante la em
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 - [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada y Decisión
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Cirugía de campo excepcional (3 balas extraídas, tirada 16)
+- [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ---
 

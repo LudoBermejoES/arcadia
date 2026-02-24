@@ -169,10 +169,25 @@ Mésmero recibe al grupo fugitivo en su parque de bomberos (estilo *Cazafantasma
 **A Diana**:
 > *"Tu padrino te ha guiado a esta situación. Quiere que encuentres algo"*
 
+### El Discurso "Condenados a la Grandeza" (Sesión 53 - 22 Febrero 2026)
+
+Mésmero reaparece ante el grupo después del escape del almacén y pronuncia su discurso más recordado:
+
+**Discurso completo**:
+> *"Estáis condenados a la grandeza"*
+
+- Reconoce los errores del grupo sin minimizarlos
+- Les recuerda que nadie más podría cargar con lo que ellos cargan
+- **Revelación sobre el padre de Hotman**: El 60% de sus acciones han sido intervenidas por el gobierno de EE.UU. — su poder real es mucho menor de lo que aparenta
+- Deja una **tarjeta de crédito** para que el grupo pueda operar
+- Se despide y se marcha, dejando al grupo en pie
+
 ### Apariciones en La Fuerza Oculta
 
 - [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/) - Refugio y revelación de las almas egipcias
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Discurso "Condenados a la grandeza" y revelación sobre el padre de Hotman
+- [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ---
 

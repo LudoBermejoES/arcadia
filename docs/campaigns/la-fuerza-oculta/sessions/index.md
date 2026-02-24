@@ -431,6 +431,33 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 21 de Febrero (Sesión 52)](../ai-notes-summary/2026-02-21-gemini-notes.md)
+**"El Espejo Roto"**
+- 🕵️ **Diana Espía**: Escucha desde la habitación la conversación entre Sique y Mésmero
+- 🧠 **Mésmero Cambiado**: Más humano, necesita drogas para usar la telepatía
+- 💬 **Confrontación Grupal**: Mésmero acusa al grupo de excusarse y creer que el mundo está en su contra
+- 🔮 **Sistema de Almas**: Ba (Mésmero), Akh (Faraón), Ka (desconocido — golem maker)
+- 💔 **Diana Desvela Secretos**: Hermano mellizo desaparecido y lagunas de memoria propias
+- 🏝️ **Plataforma Marítima**: Mésmero tiene un clon degenerativo a 40-100 km de la costa
+- 🇺🇸 **Amenaza Oculta**: EEUU lleva años atacando Arcadia sin que el gobierno lo sepa
+
+**⚠️ Nota**: Esta sesión ocurre cronológicamente ANTES de la Sesión 51, aunque fue jugada después.
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | En posición muy comprometida | Con el grupo |
+| Diana | Con secretos recién revelados | Con el grupo |
+| Sique | Entrenando con Mésmero | Parque de bomberos |
+| Hotman | En crisis | Con el grupo |
+| Eslizón | Ausente | Con los cachorros |
+| Pantomima | Investigando el pasado de Mésmero | Parque de bomberos |
+
+**Temas Clave**: Responsabilidad grupal, transformación de mentores, identidad y origen de Diana, el coste del heroísmo
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -468,6 +495,7 @@ Transcripciones automáticas con análisis:
 - **[2026-02-01-gemini-notes](../ai-notes/2026-02-01-gemini-notes.md)**
 - **[2026-02-08-gemini-notes](../ai-notes/2026-02-08-gemini-notes.md)**
 - **[2026-02-15-gemini-notes](../ai-notes/2026-02-15-gemini-notes.md)**
+- **[2026-02-21-gemini-notes](../ai-notes/2026-02-21-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -497,6 +525,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 01/02](../ai-notes-summary/2026-02-01-gemini-notes.md)** - Refugio de Mésmero y encuentro con los muertos
 - **[Resumen 08/02](../ai-notes-summary/2026-02-08-gemini-notes.md)** - Rayuela de las sombras y casa de la Samaritana
 - **[Resumen 15/02](../ai-notes-summary/2026-02-15-gemini-notes.md)** - El tío traidor y la trampa del almacén portuario
+- **[Resumen 21/02](../ai-notes-summary/2026-02-21-gemini-notes.md)** - El espejo roto: confrontación de Mésmero y secretos de Diana
 
 ---
 

@@ -750,4 +750,27 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 21/02/2026 - El Espejo Roto](2026-02-21-gemini-notes.md)
+**"La Confrontación de Mésmero y los Secretos de Diana"**
+
+**🎯 Temas Centrales Identificados:**
+- **El Peso de la Responsabilidad**: Mésmero confronta al grupo sobre su tendencia a excusarse
+- **Mésmero Transformado**: El telépata veterano ha cambiado — más humano, necesita drogas para su poder
+- **Secretos de Diana**: Hermano mellizo desaparecido, lagunas de memoria propias
+- **El Camino de la Resurrección**: Tres componentes necesarios — Ba, Akh, Ka (cada uno un custodio diferente)
+- **Amenaza Internacional Oculta**: EEUU lleva años atacando Arcadia sin que el gobierno local lo sepa
+
+**🔍 Revelaciones Clave:**
+- **Diana espía la conversación** Sique-Mésmero desde la habitación contigua
+- **Mésmero necesita drogas** para seguir usando sus poderes telepáticos
+- **El Ka (fuerza vital)** del padre de Sentencia requiere un "golem maker" desconocido
+- **Mésmero tiene un clon degenerativo** en su plataforma marítima (40-100 km de la costa)
+- **Diana confirmada como experimento de clonación** — solo revelado fuera de la ficción
+
+**Duración**: ~2.5 horas | **Palabras**: ~14,000 | **Páginas**: ~36
+
+**🎯 NOTA ESPECIAL**: Esta sesión ocurre cronológicamente ANTES de la Sesión 51 (la trampa del tío), aunque fue jugada después. El grupo está en "posición muy mala" al terminar.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

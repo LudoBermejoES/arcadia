@@ -2068,3 +2068,64 @@ El grupo queda empapado, helado, con **marcas negras necróticas** donde tocaron
 
 ---
 
+### Sesión 52: El Espejo Roto (21 febrero 2026)
+
+📎 [AI](../ai-notes/2026-02-21-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-21-gemini-notes.md)
+
+**⚠️ Nota cronológica**: Esta sesión ocurre narrativamente ANTES de la Sesión 51 (la trampa del tío), aunque fue jugada después.
+
+**Diana espía la conversación:**
+
+- Diana escucha desde la habitación contigua la conversación entre Sique y Mésmero
+- Mésmero muestra indicios de haber cambiado: más humano, más vulnerable
+- Confronta a Sique sobre su incapacidad para controlar al grupo
+- **Mésmero necesita drogas** para seguir usando sus poderes telepáticos — algo ha cambiado en él
+
+**La confrontación grupal de Mésmero:**
+
+Mésmero reúne al grupo y les lanza una acusación directa:
+> *"Se están excusando y creyendo que todo el mundo está en su contra"*
+
+Cada miembro recibe una verdad difícil sobre su tendencia a eludir responsabilidades.
+
+**Revelaciones de Diana:**
+
+En un momento de vulnerabilidad inusual, Diana revela dos secretos que ha guardado:
+- **Hermano mellizo desaparecido**: Diana tuvo un hermano gemelo del que no sabe nada
+- **Lagunas de memoria**: Hay períodos de su vida que no recuerda; no sabe si fueron borrados o si nunca existieron
+
+**Confirmación fuera de juego**: Diana es un experimento de clonación. Esta información solo es conocida por los jugadores, no por los personajes.
+
+**El sistema de resurrección y el Ka:**
+
+El grupo discute los tres componentes necesarios para la resurrección del padre de Sentencia:
+
+| Componente | Significado | Custodio |
+|------------|-------------|----------|
+| **Ba** (Personalidad) | Mente que viaja entre mundos | Mésmero |
+| **Akh** (Espíritu Luminoso) | Estado final glorificado | El Faraón |
+| **Ka** (Fuerza Vital) | El "doble", ancla física | Desconocido — necesita un "golem maker" |
+
+La identidad del custodio del Ka permanece como el gran misterio abierto de este arco.
+
+**La plataforma marítima de Mésmero:**
+
+Mésmero revela que tiene una plataforma en el mar, a entre 40 y 100 kilómetros de la costa. En ella guarda un **clon degenerativo** propio — parte de su historia con el Faraón y con los experimentos de los que fue objeto.
+
+**La amenaza internacional oculta:**
+
+Una revelación mayor: **EEUU lleva años atacando Arcadia** de formas indirectas. El gobierno arcadiano no ha sido informado. Alguien, desde dentro o desde fuera, está suprimiendo esta información.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Procesando nueva misión, posición muy comprometida | Parque de bomberos Mésmero |
+| Diana | Con secretos recién revelados, vulnerabilidad inusual | Parque de bomberos Mésmero |
+| Sique | Confrontada por Mésmero, entrenando | Parque de bomberos Mésmero |
+| Hotman | En crisis, bloqueado | Parque de bomberos Mésmero |
+| Pantomima | Investigando el pasado de Mésmero | Parque de bomberos Mésmero |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+---
+

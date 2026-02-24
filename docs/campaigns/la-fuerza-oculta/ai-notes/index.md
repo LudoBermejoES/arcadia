@@ -497,10 +497,29 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-02-21 - El Espejo Roto](../ai-notes-summary/2026-02-21-gemini-notes.md)
+
+**"La Confrontación de Mésmero y los Secretos de Diana"**
+
+- 🕵️ **Diana Espía**: Escucha la conversación entre Sique y Mésmero desde la habitación
+- 🧠 **Mésmero Cambiado**: Más humano, necesita drogas para usar la telepatía
+- 💬 **Confrontación Grupal**: Mésmero acusa al grupo de excusarse y creer que el mundo está en su contra
+- 🔮 **Sistema de Almas Revelado**: Ba (Mésmero), Akh (Faraón), Ka (desconocido - golem maker)
+- 💔 **Diana Desvela Secretos**: Hermano mellizo desaparecido y lagunas de memoria propias
+- 🧬 **Confirmación Fuera de Juego**: Diana es un experimento de clonación (solo los jugadores lo saben)
+- 🏝️ **Plataforma de Mésmero**: A 40-100 km de la costa, tiene un clon degenerativo
+- 🇺🇸 **Revelación Internacional**: EEUU lleva años atacando, Arcadia no está informada
+
+**Duración**: ~2.5 horas | **Palabras**: ~14,000 | **Páginas**: ~36
+
+**🎯 NOTA ESPECIAL**: Esta sesión ocurre cronológicamente ANTES de la Sesión 51 (la trampa del tío), aunque fue jugada después.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 30 sesiones completas
+- **Total de Transcripciones**: 31 sesiones completas
 - **Período Cubierto**: Junio 2025 - Febrero 2026 (9 meses intensivos)
 - **Palabras Totales**: ~457,000 palabras transcritas
 - **Páginas Equivalentes**: ~1,170 páginas de contenido

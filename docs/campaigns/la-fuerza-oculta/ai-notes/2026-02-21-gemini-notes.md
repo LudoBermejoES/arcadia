@@ -1,0 +1,120 @@
+---
+layout: page
+title: "La Fuerza Oculta - Transcripción Sesión 52"
+permalink: /campaigns/la-fuerza-oculta/ai-notes/2026-02-21-gemini-notes/
+---
+
+21 feb 2026
+
+## Los domingos al rol
+
+Archivos adjuntos [Los domingos al rol](https://www.google.com/calendar/event?eid=MjhiZThraXA5NnNzcDNtMmkwODl2aTEzMjZfMjAyNjAyMjJUMTczMDAwWiBsdWRvLmJlcm1lam9AdGVpbWFzLmNvbQ) [Los domingos al rol - 2025/06/15 19:03 CEST - Notas de Gemini](https://docs.google.com/document/d/1fR7kh7wQ2klXh3GOERQTGBvz4SiqpX2C9OXhczr63gM/edit?usp=meet_tnfm_calendar) 
+
+Registros de la reunión [Transcripción](?tab=t.mz6z1n90a8k0) [Grabación](https://drive.google.com/file/d/1F4Fiy6qTmBF-h7cX3IeQCD8fMbq2qJtq/view?usp=drive_web) 
+
+### Resumen
+
+**Discusión Bar y Preparación Partida**  
+La reunión comenzó con una discusión sobre el bar 'Medio Club', destacando sus cócteles elaborados con presentaciones impresionantes y su precio de 12 € como razonable. El grupo sugirió usar el local para futuros encuentros y luego procedió a iniciar la sesión de juego de rol, cargando el entorno virtual.
+
+**Revelaciones del Mesmero Cambiado**  
+Durante el juego, Mesmero y Sique discutieron la identidad cambiada de Mesmero, quien parecía más humano y menos confiable, lo que llevó a Diana a revelar su espionaje para proteger a Sique. Mesmero insistió en que el grupo debe aceptar sus actos, establecer límites y buscar responsabilidad para evitar un camino destructivo, especialmente con miembros problemáticos como Justa y Hoan.
+
+**Fragilidad Grupal y Clonación**  
+El grupo analizó la situación de Justa y Hotman, identificando sus puntos débiles y concluyendo que la inestabilidad de los miembros podría llevar a la disolución de Fuerza Oculta. La sesión cerró con una revelación sobre la existencia de un clon degenerativo de Ludo Bermejo en la plataforma Mesmero y la confirmación de la muy mala situación del grupo en el juego de rol
+
+### Detalles
+
+* **Puesta en contexto de la partida y situación de espionaje**: Ludo Bermejo puso en contexto la partida, explicando que Diana estaba espiando la conversación privada entre Sique y Mesmero ([00:08:58](?tab=t.mz6z1n90a8k0#heading=h.kjxhdvkdanj1)). Diana había decidido ir a "cotillear" lo que Mesmero y Sique estaban discutiendo, ya que Mesmero había pedido hablar con Sique en privado. Ernesto Diezhandino (como Diana) indicó que Mesmero no les parecía alguien fiable ([00:10:17](?tab=t.mz6z1n90a8k0#heading=h.envjzvx0n072)).
+
+* **Incidente con el perro de Ernesto Diezhandino**: La conversación se desvió brevemente cuando Ernesto Diezhandino relató que su perro había escapado corriendo escaleras abajo desde el séptimo piso, un evento por el que recibió una "bronca de pánico completamente merecida" ([00:11:14](?tab=t.mz6z1n90a8k0#heading=h.rn3ff8q00d1s)).
+
+* **Incidente con el perro de Ludo Bermejo y plataforma Cling**: Ludo Bermejo compartió que su perro había escapado por un agujero en una tapia, generado por una placa de metal arrancada por el viento ([00:12:25](?tab=t.mz6z1n90a8k0#heading=h.q6hza4v6wqx)). Ludo Bermejo tuvo que atraer al perro de vuelta con atún y construir algo para bloquear el paso ([00:13:31](?tab=t.mz6z1n90a8k0#heading=h.4oo0jlz63ogj)). Ernesto Diezhandino sugirió que Ludo Bermejo revisara *Cling.com*, una plataforma que Ludo Bermejo ya conocía, y que mencionó que había otra más reciente llamada *Severance* o *Sidans* ([00:14:29](?tab=t.mz6z1n90a8k0#heading=h.q7vtjx7outx)).
+
+* **Cuestionamiento de Sique sobre la identidad de Mesmero**: La escena de rol comenzó con Sique preguntando directamente a Mesmero quién era, alegando que no era la misma entidad o persona que conocieron, sino alguien más humano y simpático, aunque seguía siendo "una arpía mala" ([00:16:08](?tab=t.mz6z1n90a8k0#heading=h.rki7ljgjexgg)). Sique señaló que el Mesmero anterior usaba sus poderes telepáticos fácilmente, mientras que el actual necesitaba drogas para realizar actos que antes no requerían ([00:19:49](?tab=t.mz6z1n90a8k0#heading=h.5tb9nws8ywg2)).
+
+* **Diana revela su espionaje y la tensión en la escena**: Diana interrumpió, en voz alta, desde el otro lado de la puerta, revelando su presencia, a lo que Mesmero abrió la puerta y dijo que Sique debería afilar sus sentidos, ya que Diana les había estado siguiendo desde que subieron las escaleras ([00:17:32](?tab=t.mz6z1n90a8k0#heading=h.fu8b5j2sucbo)). Diana explicó que les daba mala espina Mesmero y querían proteger a Sique. Sique argumentó que si bien Diana era una "víbora mala," el Mesmero actual parecía haber cambiado su registro de comunicación ([00:18:44](?tab=t.mz6z1n90a8k0#heading=h.ecibizt9wr1g)).
+
+* **El debate sobre la responsabilidad por las acciones y los instintos**: Mesmero, refiriéndose a las acciones del grupo, indicó que tienen que decidir de qué lado de la balanza están y que las decisiones que tomen determinarán su camino. Mesmero afirmó que el grupo se estaba excusando y creyendo que todo el mundo estaba en su contra ([00:22:43](?tab=t.mz6z1n90a8k0#heading=h.kfhyqn7eld8r)). Sique y Diana discutieron que sus acciones de matar fueron en defensa propia y no parte de una conspiración, aunque Diana admitió que a veces actuó por enfado ([00:25:14](?tab=t.mz6z1n90a8k0#heading=h.78c7cdo3yorp)).
+
+* **Diferencias dentro del grupo y el control de instintos**: El grupo reconoció tener un problema con las tendencias del equipo a resolver problemas de forma permanente, como el uso de la fuerza letal por parte de Justa. Sique y Diana señalaron que no todos en el grupo opinan igual y que hay personas, como Justa y Hoan, que tienen problemas de control y potencial peligroso. Mesmero insistió en que el grupo debe aceptar lo que son y establecer límites, o se dirigirán a "otro lugar" ([00:27:28](?tab=t.mz6z1n90a8k0#heading=h.yj70zoposksu)).
+
+* **Búsqueda de consejo por parte de Sique y la filosofía de Mesmero**: Sique le pidió a Mesmero que les diera un consejo sobre cómo actuar, ya que Mesmero había perdido su propio grupo por una situación similar ([00:32:48](?tab=t.mz6z1n90a8k0#heading=h.utniz1k8kgtz)). Mesmero respondió que no podía decirles qué hacer, pero sí les podía decir lo que hizo: se responsabilizó de sus actos y pagó por ellos, lo que implicaba dolor ([00:33:36](?tab=t.mz6z1n90a8k0#heading=h.qeuxer43bnzp)) ([00:57:01](?tab=t.mz6z1n90a8k0#heading=h.s4dvqleyka1c)). Mesmero sugirió que el muchacho (Hoan) necesita un mentor para controlar sus instintos, pero que Hoan había rechazado la oferta en su momento o esta había sido retirada ([00:35:08](?tab=t.mz6z1n90a8k0#heading=h.8wta3c6lijop)) ([00:37:24](?tab=t.mz6z1n90a8k0#heading=h.t98x6xxkk5pc)).
+
+* **Diana explora el rastro de su padrino Mulcifer y sus sospechas**: Diana preguntó sobre la conveniencia de seguir las "miguitas de pan" que su padrino Mulcifer le estaba dejando, ya que sentía que le estaba guiando hacia un objetivo claro. Diana admitió que Mulcifer tiene un aprecio por ella y la protegería, pero sospechaba que estaba más interesado en proteger su propio legado que en un "cariño genuino" ([00:49:01](?tab=t.mz6z1n90a8k0#heading=h.n02m3h3w8fw)). Mesmero aconsejó seguir el rastro, ya que el padrino de Diana no le deseaba el mal ([00:51:06](?tab=t.mz6z1n90a8k0#heading=h.6uzk0b5ankxw)).
+
+* **Preocupaciones de Sique sobre el rastro y el hermano mellizo de Diana**: Sique expresó que el rastro le parecía "psicológicamente muy preocupante," como si estuvieran preparando a Diana con "papel de burbujas" para un trauma final ([00:51:06](?tab=t.mz6z1n90a8k0#heading=h.6uzk0b5ankxw)). Diana reveló que tenía un hermano mellizo desaparecido y lagunas en su memoria, que podrían estar relacionadas con el contenido del refugio ofrecido por su padrino ([00:43:55](?tab=t.mz6z1n90a8k0#heading=h.t2n1gf1ck5e)). Sique temía que el padrino de Diana estuviera manipulando la situación, posiblemente involucrando la dualidad o la genética ([00:53:02](?tab=t.mz6z1n90a8k0#heading=h.n5eq12rpoftr)).
+
+* **El papel del mentor y la búsqueda de guía por parte de Sique**: Sique le pidió a Mesmero un rol más activo como guía, no solo en la toma de decisiones, sino en la presentación de opciones (puertas A, B, C). Mesmero mantuvo una postura de no intervención, diciendo que no pueden saber lo que hay al otro lado de la puerta, y que descubrirán si se equivocaron solo al tomar la decisión, lo cual es el "mundo de los adultos" ([00:56:09](?tab=t.mz6z1n90a8k0#heading=h.2qxe41dcaauu)). Sique bromeó diciendo que Mesmero se había tomado muy en serio el rol de "pequeño saltamontes" ([00:57:01](?tab=t.mz6z1n90a8k0#heading=h.s4dvqleyka1c)).
+
+* **Reflexión sobre las decisiones del grupo y la negación de la realidad**: Ludo Bermejo indica que el grupo debe aceptar que las decisiones que tomen podrían no ser favorables y que deben ser adultos al tomar estas determinaciones ([00:58:14](?tab=t.mz6z1n90a8k0#heading=h.rqzgj7bqbzmw)). Ludo Bermejo también afirma que la realidad de los actos cometidos no puede negarse, y deben ser conscientes de que algunas de las cosas que les han sucedido son el resultado de la manipulación, mientras que otras son actos propios ([00:59:37](?tab=t.mz6z1n90a8k0#heading=h.732l66b5jf4m)).
+
+* **Preocupación por la fragilidad de Justa**: Kauneda Arashi expresa temor de que Justa, a pesar de considerarse fuerte, pueda romperse si se le obliga a aprender con su fragilidad actual, ya que ha perdido el rumbo desde que se separó de su tío. También teme que, si el grupo se rompe, Justa podría terminar en un centro psicológico para ayudarla a aceptar la pérdida de su padre ([01:00:49](?tab=t.mz6z1n90a8k0#heading=h.tlmdxohq3kdg)).
+
+* **Análisis de los deseos internos de Justa y Hotman**: Ludo Bermejo pregunta qué es lo que más desea Justa, a lo que Kauneda Arashi responde que es recuperar a su padre. En cuanto a Hotman, Ernesto Diezhandino sugiere que lo que pide no es lo mismo que lo que desea internamente, y Kauneda Arashi agrega que Hotman desea ser querido ([01:02:06](?tab=t.mz6z1n90a8k0#heading=h.whjoqns6rtuv)).
+
+* **Identificación de los puntos débiles de Justa y Hotman**: Ernesto Diezhandino señala que el punto débil de Justa es su incapacidad para concebir un mundo en el que no tiene la razón. El punto débil de Hotman es su incapacidad para aceptar que no necesita la aprobación de nadie para ser quien es ([01:03:29](?tab=t.mz6z1n90a8k0#heading=h.tdbe9lqk30t3)).
+
+* **Discusión sobre la "guerra" en curso**: Ludo Bermejo afirma que el grupo ha provocado una guerra a su alrededor, cumpliendo así el deseo de Justa, y que ahora están en guerra ([01:03:29](?tab=t.mz6z1n90a8k0#heading=h.tdbe9lqk30t3)). Ernesto Diezhandino argumenta que solo conoce una forma de acabar una guerra, mientras que Kauneda Arashi teme que la situación empeore y cause más víctimas inocentes ([01:05:19](?tab=t.mz6z1n90a8k0#heading=h.scuhhod479i3)).
+
+* **Alternativa de Hotman a la cárcel**: Ludo Bermejo sugiere que Hotman necesita controlar sus poderes y debe querer aprender a hacerlo, confiando en alguien que le permita lograrlo ([01:05:19](?tab=t.mz6z1n90a8k0#heading=h.scuhhod479i3)). Kauneda Arashi pregunta si la plataforma fuera de Arcavia, Mesmero, podría ser una alternativa para Hotman en lugar de la cárcel, ya que fue mencionada anteriormente como un lugar para gente como ellos ([01:06:48](?tab=t.mz6z1n90a8k0#heading=h.d7k6q06qtc60)).
+
+* **Riesgo de una guerra mediática y el martirio de Hotman**: Kauneda Arashi teme que la situación actual se convierta en una guerra mediática que exacerbe el conflicto entre metahumanos y humanos ([01:06:48](?tab=t.mz6z1n90a8k0#heading=h.d7k6q06qtc60)). Ernesto Diezhandino y Ludo Bermejo confirman que esto ya está sucediendo y que convertir a Hotman en un mártir podría ser algo que a él le gustaría, aunque Kauneda Arashi se opone a la idea de crear un mártir ([01:09:03](?tab=t.mz6z1n90a8k0#heading=h.uebz28msv23x)).
+
+* **Detalles sobre la plataforma de Mesmero (Mesmero)**: Kauneda Arashi pregunta si Mesmero es una plataforma fuera de Arcavia. Ludo Bermejo confirma que es un lugar conocido por pocos, que se encuentra a unos 40 o 100 kilómetros de la costa, y que se asemeja a una plataforma petrolífera abandonada, comparándola con una "isla genosa" ([01:10:09](?tab=t.mz6z1n90a8k0#heading=h.oyy9yzptwg61)).
+
+* **El proceso de revivir al padre de Justa**: Ludo Bermejo explica que revivir al padre de Justa requeriría tres pasos: extraer las mentes de Mesmero, recuperar sus almas (que el faraón ha ido a buscar) y encontrarles un cuerpo para luego unificarlo todo. Kauneda Arashi sugiere que un metahumano en Arcavia con la habilidad de hacer Golems podría crear cuerpos, mencionando que se vieron estatuas angélicas en el casino ([01:14:23](?tab=t.mz6z1n90a8k0#heading=h.tu7j75w39wm0)) ([01:17:32](?tab=t.mz6z1n90a8k0#heading=h.gwj0wgwkz8r)).
+
+* **Unificación de las partes para la resurrección**: Ludo Bermejo explica que nadie podrá unir las tres partes (mente, alma y cuerpo) por sí solo, lo cual implica que necesitarían a las tres personas que manejan las mentes, la magia y la creación de cuerpos ([01:17:32](?tab=t.mz6z1n90a8k0#heading=h.gwj0wgwkz8r)). Kauneda Arashi propone que un solo cuerpo para el padre de Justa sería suficiente, lo que reduciría la necesidad de crear 2 millones de cuerpos ([01:19:05](?tab=t.mz6z1n90a8k0#heading=h.ibt0wzjpnzta)).
+
+* **Potencial telepático y control de la mente de Kauneda Arashi**: Kauneda Arashi pregunta si con el tiempo tendrá que controlar mentes, como hace Ludo Bermejo ([01:19:05](?tab=t.mz6z1n90a8k0#heading=h.ibt0wzjpnzta)). Ludo Bermejo aclara que no le ha obligado a controlar mentes, y que Kauneda Arashi puede seguir siendo un telépata menor si lo desea, lo cual Kauneda Arashi acepta como algo que puede elegir ([01:20:29](?tab=t.mz6z1n90a8k0#heading=h.jfurchtw5n0p)).
+
+* **Disputa sobre las habilidades y el potencial telepático**: Kauneda Arashi afirma que es potencialmente mejor telépata que Ludo Bermejo, ya que ha volado, algo que Ludo Bermejo no ha logrado, aunque Ludo Bermejo argumenta que volar está sobrevalorado ([01:21:44](?tab=t.mz6z1n90a8k0#heading=h.nym98lvjvabn)). Ludo Bermejo también reconoce que Kauneda Arashi es mejor que ellos porque logró liberar a un amigo que ellos intentaron ayudar sin éxito durante 10 años ([01:25:58](?tab=t.mz6z1n90a8k0#heading=h.ug55x7udj51u)).
+
+* **Reflexión sobre la libertad y la responsabilidad**: Ludo Bermejo sugiere que lo que el grupo llama libertad es en realidad no tomar responsabilidad sobre sus actos, y que culpan a otros por las decisiones tomadas. Además, indica que el grupo sigue actuando como si el mundo estuviera en su contra, lo cual consideran una opinión válida, aunque esto haya llevado a consecuencias negativas ([01:27:38](?tab=t.mz6z1n90a8k0#heading=h.a3cusaoh1e34)).
+
+* **El ataque de Estados Unidos y la falta de información**: Kauneda Arashi pregunta si los Estados Unidos les están atacando, a lo que Ludo Bermejo responde que llevan haciéndolo durante años, pero que Arcavia no está informada porque el comunicado del grupo solo mencionó que fueron atacados por ser metahumanos, sin especificar que se trataba de militares de Estados Unidos ([01:30:45](?tab=t.mz6z1n90a8k0#heading=h.dfllio823xjo)). Kauneda Arashi pregunta si el padrino de Ernesto Diezhandino, un hombre de negocios, podría tener contactos en el ayuntamiento para transmitir información ([01:32:17](?tab=t.mz6z1n90a8k0#heading=h.q9vr6le77yjg)).
+
+* **Necesidad de comunicar las cosas directamente y el problema de Hotman**: Ernesto Diezhandino sostiene que deberían ir a dar explicaciones directamente, en lugar de utilizar videos de Hotman en redes sociales, que no funcionan. Kauneda Arashi coincide en que Hotman actúa con buena intención, pero no es carismático ni convincente ([01:35:05](?tab=t.mz6z1n90a8k0#heading=h.858zcij243r5)).
+
+* **Conclusiones de la conversación**: Kauneda Arashi resume que su mentor (Ludo Bermejo) es terrible, pero no lo cambiaría, y que necesitan solucionar los problemas psicológicos de Hotman y Justa. Kauneda Arashi también concluye que posiblemente lo mejor sea romper Fuerza Oculta ([01:36:26](?tab=t.mz6z1n90a8k0#heading=h.oq3op0so9rex)).
+
+* **Definición del futuro de Fuerza Oculta**: Kauneda Arashi cree que Fuerza Oculta no puede seguir adelante con la situación actual ni con sus miembros en estas condiciones, mientras que Ernesto Diezhandino insiste en que primero deben sobrevivir la semana ([01:37:56](?tab=t.mz6z1n90a8k0#heading=h.5vt6l034a1pn)). Ernesto Diezhandino propone que si sobreviven a la crisis, podrían definir qué es Fuerza Oculta, ya que hasta ahora solo son un grupo de amigos que han pasado por tribulaciones juntos ([01:45:36](?tab=t.mz6z1n90a8k0#heading=h.238t70lask4d)).
+
+* **La situación de Fuerza Oculta y sus aliados**: Kauneda Arashi reconoce que la ayuda que han recibido, incluida la oferta de la casa de Ludo Bermejo, es porque Ernesto Diezhandino es parte del grupo. Ludo Bermejo dice que no serán capaces de avanzar sin aliados ([01:49:41](?tab=t.mz6z1n90a8k0#heading=h.r6o1awy4jax2)).
+
+* **Relación del grupo con la telaraña y el Puño Gris**: Ernesto Diezhandino comenta que oficialmente, la telaraña les considera los herederos del Puño Gris. Ludo Bermejo aclara que la telaraña les tiene cierto respeto porque el grupo les quitó una base, pero no les mató ni los denunció, lo cual se considera parte de los negocios ([01:43:31](?tab=t.mz6z1n90a8k0#heading=h.ljn74joaunc6)).
+
+* **Revelación sobre el clon de Ludo Bermejo**: Ludo Bermejo revela que tiene un clon que se parece a él y es una "copia inferior". Este clon se encuentra en la plataforma petrolífera y no sale de allí ([01:54:52](?tab=t.mz6z1n90a8k0#heading=h.8tg7uditclrj)).
+
+* **Mecanismo de seguridad de clonación**: La conversación comenzó con una discusión sobre un clon que degeneraba debido a un mecanismo de seguridad implementado por sus creadores para evitar el descontrol y asegurar su fallecimiento si esto ocurría. Kauneda Arashi cuestionó la ética de crear una vida con una fecha de caducidad incorporada, mientras que Ludo Bermejo y Ernesto Diezhandino confirmaron la existencia teórica de la clonación humana ([01:56:14](?tab=t.mz6z1n90a8k0#heading=h.fbwiz7tso58j)).
+
+* **Viabilidad de la clonación humana**: Se debatió la existencia real de clones humanos, con Ludo Bermejo y Ernesto Diezhandino convencidos de que, aunque estuviese prohibida, los ricos habrían invertido en la tecnología desde el caso de la oveja Dolly hace más de 25 años ([01:57:55](?tab=t.mz6z1n90a8k0#heading=h.i1ccs25yb0zg)) ([02:00:46](?tab=t.mz6z1n90a8k0#heading=h.wfstpp668abs)). Se mencionó que en lugares con leyes laxas, como Brasil, podría haber laboratorios realizando investigaciones o manteniendo clones. Se destacó que en el mundo de Arcadia alguien probablemente podría clonar, aunque no fuese la especialidad de Mulcifer ([01:58:44](?tab=t.mz6z1n90a8k0#heading=h.ed1c07ys8vlg)).
+
+* **Experimentación en Arcadia**: Se discutió el conocimiento en Arcadia sobre la existencia de la clonación, aunque Ludo Bermejo aclaró que no se conocía a nadie que la realizara específicamente ([02:01:40](?tab=t.mz6z1n90a8k0#heading=h.27vbeucrpipw)). Ernesto Diezhandino compartió fuera del conocimiento del personaje que Diana era un experimento de clonación recombinada. El grupo también sospechaba que el "Padre Bestia" estaba involucrado en algo similar a la clonación o experimentación extraña debido a la cantidad de "bestias" que tenía y a que se veían "mini mini bestias" ([01:59:39](?tab=t.mz6z1n90a8k0#heading=h.kyy9gsan91ou)).
+
+* **Golems y autómatas en Arcadia**: Kauneda Arashi propuso el uso de "golems" para albergar las almas de dos millones de personas, sugiriendo que podrían ser de tecnología robótica, barro orgánico, o autómatas. Ernesto Diezhandino, sin embargo, se refirió a esto como un ejército de "Playmobil" que podría causar disforia corporal debido a un posible tamaño pequeño, considerando que la muerte sería preferible en esas circunstancias ([02:02:33](?tab=t.mz6z1n90a8k0#heading=h.jtjpcgm3my15)).
+
+* **Consecuencias de la reunión y la posición del grupo**: Se estableció que la reunión ocurrió cronológicamente antes de la visita al tío de Justa ([02:04:28](?tab=t.mz6z1n90a8k0#heading=h.h6kw7sccqgk2)). Kauneda Arashi expresó que la conversación con la figura que consultaron empeoró su situación emocional, ya que ahora tenían más dudas sobre la situación ([02:03:22](?tab=t.mz6z1n90a8k0#heading=h.u4wukn8xzxko)). Ludo Bermejo señaló que el grupo se encontraba en una "muy mala posición" antes de la próxima partida ([02:04:28](?tab=t.mz6z1n90a8k0#heading=h.h6kw7sccqgk2)).
+
+* **Estatus de Diana y la divinidad**: Se discutió el estatus de Diana como una "suerte de divinidad," aunque Ernesto Diezhandino señaló que este aspecto se había dejado intencionadamente vago para no interferir con el trasfondo de Ludo Bermejo. Se reafirmó que la idea de la divinidad etrusca de la familia de Diana se creía dentro de la narrativa del personaje, pero no estaba confirmada explícitamente ([02:05:22](?tab=t.mz6z1n90a8k0#heading=h.9gx2w4qbq1o6)).
+
+* **Discusión sobre los panteones de cómics**: La conversación se desvió hacia la subutilización del panteón etrusco en los cómics en comparación con los panteones griegos y romanos. Kauneda Arashi y Ernesto Diezhandino discutieron la fusión de deidades en Marvel y DC y la representación de superhéroes como dioses ([02:06:30](?tab=t.mz6z1n90a8k0#heading=h.xbfur2oksfy1)). Se criticó el enfoque de Zack Snyder sobre la idea de que los dioses griegos eran en realidad kryptonianos ([02:07:37](?tab=t.mz6z1n90a8k0#heading=h.36l3a0pwwi4r)).
+
+* **Esencia de los superhéroes y la violencia**: El grupo debatió la regla fundamental de que superhéroes como Superman y Batman no matan, siendo esto parte inherente de su esencia. Ludo Bermejo y Kauneda Arashi afirmaron que si Batman mata, se convierte en otro personaje, como el Punisher ([02:08:45](?tab=t.mz6z1n90a8k0#heading=h.6r1kxc6yder3)). También se mencionó una historia de cómics donde Supergirl, la hija de Superman y Wonder Woman, sí mata a Brainiac, justificándose en su herencia amazona ([02:09:37](?tab=t.mz6z1n90a8k0#heading=h.j2z9jhy098y2)).
+
+* **Situación actual del grupo de juego**: Ludo Bermejo concluyó la sesión recordando al grupo su "bastante mala" situación actual, ya que el tío de Justa, enfurecido porque el grupo mató a un Metacor, les había quitado los poderes y los había expuesto a ametralladoras automáticas ([02:11:14](?tab=t.mz6z1n90a8k0#heading=h.wodl2zgm61b3)). El grupo ahora no tiene sus habilidades superpoderosas y son solo personas normales, aunque entrenadas, lo que los deja en una situación precaria ([02:14:04](?tab=t.mz6z1n90a8k0#heading=h.2977azqv4vs2)).
+
+* **Presentación del personaje de Miss Arcadia**: Ernesto Diezhandino mostró un diseño de "Miss Arcadia" a Kauneda Arashi, describiéndolo como un diseño "muy chulo" y actualizado de lo que sería Arcadio en la época actual ([02:15:52](?tab=t.mz6z1n90a8k0#heading=h.ts9xy7nh00n)). Se discutió si podría ser un relevo generacional para el personaje original de Arcadio, que data de los años 40 ([02:16:49](?tab=t.mz6z1n90a8k0#heading=h.s89lqpcqomng)).
+
+### Pasos siguientes recomendados
+
+- [ ] Ernesto Diezhandino enviará una foto de Garra al grupo por WhatsApp.
+
+- [ ] Kauneda Arashi intentará tratar los problemas psicológicos de Hotman y Justa usando sus conocimientos telepáticos junto con los libros de psicología de su madre.
+
+- [ ] Ernesto Diezhandino will look up the comic where Supergirl is the daughter of Superman and Wonder Woman.
+
+*Revisa las notas de Gemini para asegurarte de que sean correctas. [Obtén consejos y descubre cómo toma notas Gemini](https://support.google.com/meet/answer/14754931)*
+
+*Danos tu opinión sobre el uso de Gemini para tomar notas en una [breve encuesta.](https://google.qualtrics.com/jfe/form/SV_9vK3UZEaIQKKE7A?confid=8N0Omqs8FmapRhl7EXfxDxIROAIIigIgABgDCA&detailid=standard)*

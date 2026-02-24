@@ -296,6 +296,41 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
 
+#### [📈 Análisis 22/02/2026 - La Noche en el Motel de lo Ocaso]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
+**"Moteros, Macarrones y un Fallo Crítico"**
+
+**🎯 Temas Centrales Identificados:**
+- **El Caos como Modo de Operación**: Nada sale según el plan — la improvisación define al grupo
+- **El Coste de Ayudar**: Serge intenta proteger a Mishka y acaba noqueándola por accidente (doble uno)
+- **Los Macarrones como Ancla**: La primera reacción de Tiritas al despertar revela su necesidad de rutina en el caos
+- **Huir Siempre Hacia Adelante**: Los problemas no se resuelven, se abandonan con la furgoneta en marcha
+
+**👥 Desarrollo de Personajes:**
+- **Serge**: Iniciativa genuina de ayudar, seguida del mayor error del combate
+- **Tiritas**: Motor cómico involuntario, versión Super Saiyan emergente, obsesión estabilizadora con los macarrones
+- **Kira**: Destello inicial decisivo, posición defensiva táctica, confianza creciente
+- **Elena**: Ilusión de sirenas policiales que termina lo que el combate no podía resolver
+
+**🔮 Arcos Narrativos Avanzados:**
+- Nuevo personaje: **Mishka Novicova** — chica del aparcamiento, motivos desconocidos, conduce la furgoneta de escape
+- Moteros armados con parches — organización criminal no identificada
+- Exposición metahumana comprometida: alguien en el motel los identificó por teléfono
+- Rumbo: clínica clandestina que conoce Serge
+
+**⚡ Momentos Clave:**
+- Tiritas interrumpe el enfrentamiento gritando por sus macarrones
+- Mishka da una patada en la entrepierna que deja KO al motero de la cadena
+- Serge: doble uno — noquea a Mishka por accidente
+- Elena crea sirenas policiales — "¡La pasma!" — los moteros huyen
+- Escape en furgoneta robada, sirenas reales ya se escuchan
+
+**🧠 Dinámicas Sociales:**
+- El grupo sigue siendo fugitivos sin plan claro
+- Primera persona externa (Mishka) que se une temporalmente al grupo
+- Tensión entre querer ayudar y las consecuencias de hacerlo
+
+---
+
 #### [📈 Análisis 01/02/2026 - Escape de Isla Albedo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 **"Primera Noche de Libertad"**
 

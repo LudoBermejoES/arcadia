@@ -87,6 +87,7 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 ### 🌆 **Fase IV: Fugitivos en Arcadia (Febrero 2026)**
 
 - **[01 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)**: Escape completo de Isla Albedo, Kira sabotea el teléfono del pescador, huida de la marina antes de que lleguen Metacorps, robo de coche y dinero, adquisición de suministros en Centro Comercial Levi, viaje en metro submarino, primera noche de libertad en Motel Locaso (Distrito Lunae)
+- **[22 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)**: Motel de lo Ocaso, Tiritas despierta gritando por sus macarrones, confrontación con moteros armados, Serge noquea accidentalmente a Mishka Novicova (doble uno), ilusión de sirenas policiales de Elena pone en fuga a los atacantes, escape en furgoneta robada hacia clínica clandestina
 
 ---
 
@@ -168,7 +169,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 </div>
 
 <div class="stat-card">
-<span class="stat-number">7</span>
+<span class="stat-number">8</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

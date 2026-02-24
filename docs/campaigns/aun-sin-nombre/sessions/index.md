@@ -15,6 +15,25 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
 
+#### [📝 Sesión 22 de Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
+
+**"La Noche en el Motel de lo Ocaso"**
+
+- 🏨 **Motel Sórdido**: Dos habitaciones sin documentación en el Motel de lo Ocaso, 40 pesetas por noche
+- 🍝 **El Detonante**: Tiritas despierta y grita *"Serge, me cago en tu puta madre, me has robado los macarrones"* — precipitando el caos
+- 🏍️ **Moteros Armados**: Grupo con parches identificativos llega buscando a alguien
+- ⚡ **Kira**: Destello de Control de Energía ciega a los atacantes
+- 👊 **Mishka**: La chica del aparcamiento da una patada en la entrepierna que KO al motero de la cadena
+- 💪 **Tiritas Super Saiyan**: Absorbe golpe de bastón y se transforma
+- 🎯 **Doble uno de Serge**: Intenta golpear al tercer motero — noquea accidentalmente a Mishka
+- 🚔 **Elena**: Ilusión de sirenas policiales — los moteros huyen gritando "¡La pasma!"
+- 🚐 **Escape**: Furgoneta robada, Mishka al volante, rumbo a clínica clandestina
+- 👤 **Nuevo NPC**: Mishka Novicova — motivos desconocidos, encaja inesperadamente en el grupo
+
+**Temas Clave**: Caos como modo de operación, coste de ayudar, macarrones como ancla emocional
+
+---
+
 #### [📝 Sesión 1 de Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 
 **"Escape de Isla Albedo y Primera Noche de Libertad"**

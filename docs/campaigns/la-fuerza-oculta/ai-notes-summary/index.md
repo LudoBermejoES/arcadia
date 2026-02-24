@@ -773,4 +773,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 22/02/2026 - Condenados a la Grandeza](2026-02-22-gemini-notes.md)
+**"Escape del Almacén, Crisis de Sentencia y Entrenamiento con Oneiros"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Ruptura que Forja**: Sentencia toca fondo con pistola en la sien — no dispara; emerge más fría y lúcida
+- **Grandeza Obligatoria**: El discurso de Mésmero como carga, no como elogio
+- **Control como Condición del Heroísmo**: La prueba de Oneiros (manos de oro, gota al recibir impacto) confirma el problema de Hotman
+- **La Traición que Libera**: Descubrir que fue una herramienta de su tío libera a Sentencia para elegir sus propios objetivos
+
+**🔍 Revelaciones Clave:**
+- **Roberto McKomick en TV**: Acusa públicamente a Sentencia de asesina, invierte la narrativa mediática
+- **60% de acciones del padre de Hotman** intervenidas por el gobierno de EEUU — la vía es atacar su dinero
+- **Espectro confirmado como padrino de Sentencia** — entrenamiento en táctica, explosivos y armamento
+- **Belona (tía de Diana)** mencionada como mentora para Diana durante el período de entrenamiento
+- **Hotman parte con Oneiros** para dos semanas de entrenamiento intensivo de control
+
+**Duración**: ~3 horas | **Palabras**: ~18,000 | **Páginas**: ~46
+
+**🎯 NOTA ESPECIAL**: La sesión más intensa del arco de Sentencia. Hotman y Sentencia se despiden con un beso. La próxima sesión se centrará en la trama del Faraón (dos jugadores ausentes).
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

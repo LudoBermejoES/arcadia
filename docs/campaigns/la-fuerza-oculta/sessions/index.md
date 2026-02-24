@@ -458,6 +458,32 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 22 de Febrero (Sesión 53)](../ai-notes-summary/2026-02-22-gemini-notes.md)
+**"Condenados a la Grandeza"**
+- 💥 **Escape del Almacén**: Diana bloquea una torreta; Sentencia destruye las demás disparando herida desde el suelo
+- 🩹 **Cirugía de Campo**: Sique extrae 3 balas de Sentencia (tirada 16 — excepcional), se desmaya al terminar
+- 📺 **El Tío en TV**: Roberto McKomick acusa públicamente a Sentencia de asesina de Metacorps
+- 🔫 **Crisis de Sentencia**: Pistola en la sien — no dispara; la voz de Hotman la detiene
+- ❄️ **Sentencia Transformada**: Baja "ultrafría", declara que va a matar a su tío
+- 🎤 **Discurso de Mésmero**: *"Estáis condenados a la grandeza"* — deja tarjeta de crédito y se marcha
+- 🏆 **Oneiros Llega**: Convierte manos de Hotman en oro para medir su nivel de descontrol
+- 🧑‍🏫 **Asignación de Mentores**: Hotman con Oneiros (2 semanas); Sentencia asignada a Espectro
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Curada, transformada emocionalmente | Casa de Mésmero |
+| Hotman | Con Oneiros para entrenamiento | Saliendo del Barrio Gótico |
+| Sique | Recuperándose del desmayo post-curación | Casa de Mésmero |
+| Diana | En buen estado, planificando | Casa de Mésmero |
+| Pantomima | En buen estado | Casa de Mésmero |
+| Eslizón | Ausente (no asistió) | Con los cachorros bestiales |
+
+**Temas Clave**: Transformación personal bajo presión extrema, grandeza como carga no como elogio, el control como condición del heroísmo
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**
@@ -496,6 +522,7 @@ Transcripciones automáticas con análisis:
 - **[2026-02-08-gemini-notes](../ai-notes/2026-02-08-gemini-notes.md)**
 - **[2026-02-15-gemini-notes](../ai-notes/2026-02-15-gemini-notes.md)**
 - **[2026-02-21-gemini-notes](../ai-notes/2026-02-21-gemini-notes.md)**
+- **[2026-02-22-gemini-notes](../ai-notes/2026-02-22-gemini-notes.md)**
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -526,6 +553,7 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 08/02](../ai-notes-summary/2026-02-08-gemini-notes.md)** - Rayuela de las sombras y casa de la Samaritana
 - **[Resumen 15/02](../ai-notes-summary/2026-02-15-gemini-notes.md)** - El tío traidor y la trampa del almacén portuario
 - **[Resumen 21/02](../ai-notes-summary/2026-02-21-gemini-notes.md)** - El espejo roto: confrontación de Mésmero y secretos de Diana
+- **[Resumen 22/02](../ai-notes-summary/2026-02-22-gemini-notes.md)** - Condenados a la grandeza: escape del almacén, crisis de Sentencia y Oneiros
 
 ---
 

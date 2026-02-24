@@ -2129,3 +2129,83 @@ Una revelación mayor: **EEUU lleva años atacando Arcadia** de formas indirecta
 
 ---
 
+### Sesión 53: Condenados a la Grandeza (22 febrero 2026)
+
+📎 [Manual](../manual-notes/session-53-2026-02-15.md) | [AI](../ai-notes/2026-02-22-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-22-gemini-notes.md)
+
+**El escape del almacén, la crisis de Sentencia y la llegada de Oneiros:**
+
+**Personajes presentes**: Sentencia, Hotman, Sique/Psique, Diana, Pantomima
+**Ausentes**: Eslizón Esmeralda (Sugus)
+
+**El escape del almacén:**
+
+La sesión retoma el clímax de la Sesión 51 — el grupo atrapado sin poderes bajo fuego de torretas automáticas.
+
+- **Diana** bloquea físicamente el cañón de una torreta desviándolo hacia el techo
+- **Sentencia**, herida con tres balas, dispara desde el suelo destruyendo torreta tras torreta mientras el megáfono de su tío la insulta: *"Mata a ese asesino de Metacorps y te dejaré vivir"*
+- Respuesta de Sentencia: *"Hijo de puta, si quieres matarme ven a hacerlo tú mismo"*
+- **Hotman** se arrastra bajo fuego hacia Sentencia; **Sique** y **Diana** arrastran a los caídos hacia la salida
+- **Pantomima** llega con la furgoneta en el momento crítico; el grupo escapa
+
+**Cirugía de campo en la furgoneta:**
+
+- Sique realiza cirugía de emergencia sobre Sentencia: extrae las tres balas con una tirada de medicina de 16 (resultado excepcional) y se desmaya al terminar por el esfuerzo
+- Hotman guarda las balas
+- Sentencia, con el poder que le dio Mésmero, guía a Pantomima de vuelta por el Barrio Gótico hasta la casa de Mésmero
+
+**El tío en televisión:**
+
+De vuelta en casa de Mésmero, aparece en televisión **Roberto McKomick** declarando que su sobrina es una asesina que debe ser capturada. La presentadora informa que La Fuerza Oculta fue quien le atacó a él — la narrativa mediática ha quedado completamente invertida.
+
+**La crisis de Sentencia:**
+
+Sentencia pide retirarse a su habitación. Sola con su Desert Eagle:
+
+> *"Insiste. ¿Para qué?"* — monólogo interior de Sentencia
+
+Apoya el cañón de la pistola en su sien. No dispara. Lo que la detiene es la voz de Hotman preguntando por ella desde la habitación contigua.
+
+Lo que baja por las escaleras no es la misma persona que subió: una versión más fría, más clara. Con rastros de lágrimas. Coloca una pistola grande sobre la mesa. Declara que va a matar a su tío, que ha llegado el momento de dejar de ser una herramienta. Acepta el ofrecimiento de Diana de refugiarse en la mansión protegida de Mulcifer.
+
+**El discurso de Mésmero:**
+
+Mésmero aparece vestido de gala. Se dirige a cada miembro:
+
+- A **Hotman**: *"Deja de ser niño, madura y sé consciente de lo que hiciste y cómo hacer para que no se repita."* Revela que el padre de Hotman tiene el 60% de sus acciones intervenidas por el gobierno de EEUU — la forma de combatirle es atacar su dinero, no a él directamente.
+- A **Diana**: No todos los villanos son perfectamente malvados ni todos los héroes perfectamente puros. Su padrino la adora.
+- A **Pantomima**: Es nieta del primer héroe de Arcadia. La herencia es suya y puede decidir qué hacer con ella.
+- Al **grupo**: *"Recordad, no sois normales, estáis condenados a la grandeza."*
+- *"Somos los indicados para salvar a dos millones de personas, y si tengo que machacarnos para salvarlos lo voy a hacer."*
+
+Pone una tarjeta de crédito encima de la mesa para pedir comida. Se marcha.
+
+**La llegada de Oneiros:**
+
+El grupo llama a Oneiros desde el teléfono fijo analógico de Mésmero (tardaron diez minutos en aprender a usarlo). Mésmero aparece visiblemente emocionado cuando llega.
+
+Oneiros evalúa a Hotman: le convierte las manos en oro para medir su nivel de control. Diana le da una patada en el pecho — una gota de oro cae sobre la mesa. Ese es el límite.
+
+Decisión: Oneiros se lleva a Hotman durante **dos semanas** para entrenamiento intensivo de control. El entrenamiento de los demás (con Mésmero y con la tía Belona de Diana) ocurrirá fuera de partida, permitiendo el avance de semanas en la narrativa.
+
+Sentencia y Hotman se despiden con un beso.
+
+**Revelaciones de la sesión:**
+
+- **Espectro confirmado como padrino de Sentencia**: Planea ofrecerse a trabajar para él a cambio de entrenamiento en táctica, explosivos, sistemas antipoderes y armamento avanzado
+- **Belona (tía de Diana)**: Primera mención directa; asignada como mentora de Diana durante el entrenamiento fuera de partida
+- **Próxima sesión**: El narrador anuncia que se centrará en la trama del Faraón, aprovechando la ausencia de dos jugadores
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Curada físicamente, transformada emocionalmente | Casa de Mésmero |
+| Hotman | Con Oneiros para entrenamiento | Saliendo del Barrio Gótico |
+| Sique | Recuperándose del desmayo post-curación | Casa de Mésmero |
+| Diana | En buen estado, planificando | Casa de Mésmero |
+| Pantomima | En buen estado | Casa de Mésmero |
+| Eslizón | Ausente (no asistió a la sesión) | Con los cachorros bestiales |
+
+---
+

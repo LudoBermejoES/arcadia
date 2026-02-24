@@ -516,10 +516,29 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-02-22 - Condenados a la Grandeza](../ai-notes-summary/2026-02-22-gemini-notes.md)
+
+**"Escape del Almacén, Crisis de Sentencia y la Llegada de Oneiros"**
+
+- 💥 **Escape Caótico**: Diana bloquea una torreta físicamente; Sentencia destruye las restantes disparando herida desde el suelo
+- 🩹 **Cirugía de Campo**: Sique extrae 3 balas de Sentencia con tirada excepcional (16), se desmaya al terminar
+- 📺 **El Tío en Televisión**: Roberto McKomick acusa públicamente a Sentencia de asesina de Metacorps
+- 🔫 **Crisis de Sentencia**: Sola en la habitación, cañón de su Desert Eagle en la sien — no dispara; la voz de Hotman la detiene
+- ❄️ **Transformación**: Baja "ultrafría" y declara que va a matar a su tío
+- 🎤 **Discurso de Mésmero**: "Estáis condenados a la grandeza" / "Somos los indicados para salvar dos millones de almas"
+- 🏆 **Llegada de Oneiros**: Toma a Hotman bajo tutela para dos semanas de entrenamiento de control
+- ⚔️ **Espectro como Mentor**: Sentencia asignada a Espectro para entrenamiento táctico
+
+**Duración**: ~3 horas | **Palabras**: ~18,000 | **Páginas**: ~46
+
+**🎯 NOTA ESPECIAL**: La sesión más intensa del arco de Sentencia — toca fondo y emerge transformada. Hotman parte con Oneiros; el grupo se prepara para entrenar fuera de partida mientras la narrativa avanza semanas.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 31 sesiones completas
+- **Total de Transcripciones**: 32 sesiones completas
 - **Período Cubierto**: Junio 2025 - Febrero 2026 (9 meses intensivos)
 - **Palabras Totales**: ~457,000 palabras transcritas
 - **Páginas Equivalentes**: ~1,170 páginas de contenido

@@ -1,3 +1,9 @@
+---
+layout: page
+title: "La Fuerza Oculta - Transcripción Sesión 53"
+permalink: /campaigns/la-fuerza-oculta/ai-notes/2026-02-22-gemini-notes/
+---
+
 22 feb 2026
 
 ## Los domingos al rol

@@ -382,12 +382,23 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - En el almacén portuario: **Roberto McKomick** les echa la bronca y activa luz verde antimeta
   - **Torretas automáticas abren fuego** — grupo sin poderes en combate
 
+- **[Sesión 53 - 22 Febrero 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/)** - *"Condenados a la Grandeza"*
+  - **Escape del almacén**: Diana bloquea una torreta físicamente; Sentencia destruye las demás disparando herida desde el suelo
+  - Sique extrae 3 balas de Sentencia (tirada 16 — excepcional), se desmaya al terminar; Hotman guarda las balas
+  - **El tío en televisión**: Roberto McKomick acusa públicamente a Sentencia de asesina de Metacorps
+  - **Crisis de Sentencia**: Sola en su habitación con la Desert Eagle, apoya el cañón en la sien; la voz de Hotman la detiene
+  - Baja transformada: "ultrafría", declara que va a matar a su tío; acepta refugiarse en la mansión de Mulcifer
+  - **Discurso de Mésmero**: *"Estáis condenados a la grandeza"* / tarjeta de crédito sobre la mesa y se marcha
+  - **Llegada de Oneiros**: Prueba a Hotman (manos de oro, gota al recibir impacto = límite de control)
+  - Hotman parte con Oneiros para 2 semanas de entrenamiento; Sentencia y Hotman se despiden con un beso
+  - Eslizón ausente esta sesión
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 47 sesiones documentadas (1 sin notas)
+- **Total de Sesiones**: 48 sesiones documentadas (1 sin notas)
 - **Período Cubierto**: Marzo 2024 - Febrero 2026 (24 meses)
 - **Páginas Estimadas**: ~635 páginas de notas detalladas
 - **Horas de Juego**: ~128 horas registradas

@@ -84,10 +84,11 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 - **[18 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-18-gemini-notes/)**: Exploración del laboratorio abandonado, combates rápidos contra avispas con ilusión de alarma, descubrimiento de tanques con criaturas alienígenas muertas, autopsia revela huevos y líquido ambar
 - **[25 Enero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)**: Combate final contra avispas (pifia de Kira hiere gravemente a Tiritas), descubrimiento del cadáver de la chica desaparecida entre los huevos, colapso de la instalación subterránea, escape a la superficie, travesía por el desierto de Isla Albedo, rescate por el pescador Matías Wang
 
-### 🌆 **Fase IV: Fugitivos en Arcadia (Febrero 2026)**
+### 🌆 **Fase IV: Fugitivos en Arcadia (Febrero-Marzo 2026)**
 
 - **[01 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)**: Escape completo de Isla Albedo, Kira sabotea el teléfono del pescador, huida de la marina antes de que lleguen Metacorps, robo de coche y dinero, adquisición de suministros en Centro Comercial Levi, viaje en metro submarino, primera noche de libertad en Motel Locaso (Distrito Lunae)
 - **[22 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)**: Motel de lo Ocaso, Tiritas despierta gritando por sus macarrones, confrontación con moteros armados, Serge noquea accidentalmente a Mishka Novicova (doble uno), ilusión de sirenas policiales de Elena pone en fuga a los atacantes, escape en furgoneta robada hacia clínica clandestina
+- **[01 Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)**: Clínica clandestina — doctora Jailé extrae la bala, Mishka paralizada por Kira y finalmente liberada, motero herido regala anillo de oro a Tiritas, refugio en Distrito Veneris con Malik Ferrán, revelación sobre familia de Tiritas (padre asesinado por Tiritas en defensa propia — confirmado por Noemi, madre en cárcel, hermana en acogida), revelación sobre biología y vulnerabilidades Strigoi, pista de Mésmero en el Barrio Gótico
 
 ---
 

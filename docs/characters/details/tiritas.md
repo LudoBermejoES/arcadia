@@ -210,6 +210,29 @@ Tiritas atravesó el escape en **estado vulnerable pero con su espíritu intacto
 - Primera noche fuera del reformatorio desde su internamiento
 - Aún con heridas pendientes de curar (regeneración al día siguiente)
 
+### **El Anillo de Oro y la Verdad Familiar (01/03/2026)**
+
+La sesión más emocionalmente intensa para Tiritas hasta la fecha:
+
+**El Anillo:**
+
+- El motero herido al que el grupo ayudó en la clínica le entregó un **anillo de oro con alas grabadas**
+- "No tenía nada más" — primer acto de gratitud genuina recibido por Tiritas desde que se recuerda
+- El anillo representa algo más allá de su valor material: ser visto como alguien que merece recompensa
+
+**Revelación Familiar a través de Noemi Besta:**
+
+- La anciana metahumana (protección del refugio de Malik) se comunicó por gestos con Tiritas
+- Confirmó que su padre está muerto — asesinado por Tiritas en defensa propia, lo que él ya sabía
+- Pero también reveló: **la madre está en la cárcel** y **la hermana en acogida**
+- Malik Ferrán ofreció investigar la ubicación de la hermana en los próximos dos días
+
+**Impacto Emocional:**
+
+- Tiritas lleva dos años sin saber nada de su familia
+- Saber que su madre está encarcelada y su hermana en el sistema de acogida es devastador
+- Al mismo tiempo, hay una pista concreta: Malik puede encontrar a la hermana
+
 ## Apariciones Documentadas
 
 - [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -218,41 +241,35 @@ Tiritas atravesó el escape en **estado vulnerable pero con su espíritu intacto
 - [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
 
-## Situación Actual (Febrero 2026)
+## Situación Actual (Marzo 2026)
 
-Tiritas ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. A pesar de estar gravemente herido y ser una carga logística, mantuvo la moral del grupo y su espíritu intacto.
+Tiritas se encuentra en el **Distrito Veneris**, refugiado con Malik Ferrán y su red de contactos del mundo marginal. Físicamente recuperado, pero cargando con la verdad sobre su familia.
 
 ### **Evolución Reciente**
 
 - **Superviviente**: A pesar de casi morir por el ataque de Kira, completó el escape
-- **Dilema Moral**: Por un momento consideró rendirse cuando le ofrecieron comida
-- **Relación con Kira**: El incidente del fuego amigo no destruyó la amistad (humor: "me debe macarrones")
-- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
-- **Obsesión Intacta**: Compró 4 cajas de macarrones incluso como fugitivo
+- **Primer Acto de Gratitud**: El anillo de oro del motero — ser reconocido como alguien que ayuda
+- **Verdad Familiar**: Confirmación de que el padre murió (lo sabía), pero madre en cárcel y hermana en acogida son nueva información devastadora
+- **Pista Concreta**: Malik investigará la ubicación de la hermana en 2 días — la primera esperanza real
+- **Amenaza Latente**: Los Strigoi, los telépatas y la advertencia sobre salir de Arcadia complican los planes
 
 ### **Estado Actual**
 
-- **Ubicación**: Motel Locaso, Distrito Lunae
-- **Estado Físico**: Aún herido, regeneración pendiente (puede curar 1 herida al día)
-- **Estado Emocional**: Aliviado pero vulnerable, necesita comida y descanso
+- **Ubicación**: Refugio de Malik Ferrán, Distrito Veneris
+- **Estado Físico**: Recuperado (heridas curadas durante los días transcurridos)
+- **Estado Emocional**: Impacto por la revelación familiar, pero con una dirección clara — encontrar a la hermana
 - **Estado Legal**: Fugitivo buscado por Metacorps
-
-### **Momento Revelador**
-
-Su dilema sobre rendirse cuando el pescador ofreció macarrones con queso revela:
-- El peso de las necesidades básicas sobre la determinación
-- Cuánto afecta el hambre y el agotamiento a las decisiones morales
-- Que incluso escapar tiene un costo emocional
 
 ### **Preguntas Abiertas**
 
-- ¿Qué edad tiene realmente? (no especificada en notas)
-- ¿Dónde está su hermana y cómo está?
-- ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación)?
-- ¿Se recuperará completamente de sus heridas?
-- ¿Intentará buscar a su hermana ahora que es libre?
-- ¿Qué harán ahora que son libres pero fugitivos?
+- ¿Dónde está exactamente la hermana y en qué condiciones vive en acogida?
+- ¿Qué pasó realmente con la madre? ¿Fue encarcelada por los mismos hechos?
+- ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación del Upside Down)?
+- ¿Cómo reaccionará al reencontrarse con la hermana después de dos años?
+- ¿Qué hará con el anillo de oro — ¿guardarlo o usarlo?
+- ¿Buscará a Mésmero en el Barrio Gótico junto al resto del grupo?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

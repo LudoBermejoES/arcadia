@@ -104,27 +104,28 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ## 🔮 Estado Actual (Febrero 2026)
 
-**La Fuerza Oculta** se encuentra atrapada sin poderes en un almacén portuario bajo fuego de torretas automáticas, traicionada por el tío de Sentencia. Tras el amanecer tranquilo en casa de Nicolás (Sesión 51), el grupo llegó a una cita convocada por Roberto McKomick —que resultó ser una trampa: antimeta declarado, activó una luz verde neutralizadora de poderes y abrió fuego con torretas automáticas.
+**La Fuerza Oculta** está dispersa en distintos procesos de entrenamiento. Tras las sesiones 51-53 (batalla en el almacén portuario, transformación de Sentencia, planificación en casa de Mésmero), el grupo sube de nivel a veteranos antes de la siguiente sesión. La sesión 54 centró exclusivamente en Diana y Cía, con el viaje de Diana a la isla de su tía Belona para iniciar entrenamiento marcial avanzado.
 
-**Estado del grupo:**
-- **Sentencia**: Sin poderes, en combate — traicionada por su tío
-- **Hotman**: Sin poderes, en combate — ha aceptado seguir luchando tras conversación con Sentencia
-- **Sique/Psique**: Sin poderes, en combate — entrenamiento telepático intensivo con Mésmero
-- **Pantomima**: Sin poderes, herida (pierna, shaken) — en combate
-- **Diana**: Incomunicada (en la subciudad)
-- **Eslizón**: Separado del grupo, con los cachorros bestiales
+**Estado del grupo (tras Sesión 54):**
 
-**Ubicación**: Almacén abandonado en el distrito portuario flotante
+- **Diana**: En entrenamiento con Belona — isla privada (~10 km de Arcadia), separada de Cía durante el período formativo
+- **Cía/Psique**: En casa de Mésmero, escribiendo diario; entrenamiento telepático con Mésmero
+- **Sentencia**: Transformada, entrenando con Espectro
+- **Hotman**: En entrenamiento con Oneiros (fuera de Arcadia)
+- **Pantomima**: En buen estado, en casa de Mésmero
+- **Eslizón**: Ausente, con los cachorros bestiales
+
+**Próxima sesión**: Todos los PJ suben a rango veterano — aumento significativo de poder
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **La trampa del tío**: Escapar del almacén sin poderes — ¿cuál es la misión oculta para la que entrenó a Sentencia?
-- **Roberto McKomick**: Antimeta que conoce más secretos de la familia McKomick de lo que admite
-- **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto
-- **Ana Montenegro en casa de Mésmero**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
+- **Entrenamiento de Diana con Belona**: Separación de Cía como precio del crecimiento — ¿cuánto dura? ¿qué aprende?
+- **Cía escribiendo el diario**: Período de separación y reflexión — ¿qué revela sobre su identidad?
+- **Subida de nivel a veteranos**: Todos los PJ mejoran — Diana tiene 5 puntos de rigor por decidir (armadura/ventaja marcial)
 - **Liberación de las almas**: Encontrar el Ka para liberar dos millones de almas egipcias
 - **Conexión padre de Hotman**: El chip y todo lo sucedido está relacionado con su padre
-- **Diana en la subciudad**: Incomunicada — ¿qué está buscando?
+- **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto
+- **Ana Montenegro en casa de Mésmero**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
 - **Manipulación externa**: Alguien desde EE.UU. (¿Blackwater?) orquesta los eventos contra el grupo
 
 ---

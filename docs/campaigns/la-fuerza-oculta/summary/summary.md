@@ -92,6 +92,10 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 - [Sesión 49: El Refugio de Mésmero y el Encuentro con los Muertos](#sesión-49-el-refugio-de-mésmero-y-el-encuentro-con-los-muertos-1-febrero-2026)
 - [Sesión 50: La Rayuela de las Sombras y la Casa de la Samaritana](#sesión-50-la-rayuela-de-las-sombras-y-la-casa-de-la-samaritana-8-febrero-2026)
 
+### Fase XIV: El Precio del Crecimiento (Febrero 2026)
+
+- [Sesión 54: La Prueba de Belona](#sesión-54-la-prueba-de-belona-28-febrero-2026)
+
 ---
 
 ## Fase I: Formación y Selección (Marzo 2024)
@@ -2206,6 +2210,78 @@ Sentencia y Hotman se despiden con un beso.
 | Diana | En buen estado, planificando | Casa de Mésmero |
 | Pantomima | En buen estado | Casa de Mésmero |
 | Eslizón | Ausente (no asistió a la sesión) | Con los cachorros bestiales |
+
+---
+
+## Fase XIV: El Precio del Crecimiento (Febrero 2026)
+
+### Sesión 54: La Prueba de Belona (28 febrero 2026)
+
+📎 [AI](../ai-notes/2026-02-28-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-28-gemini-notes.md)
+
+**Sesión íntima de solo Diana y Cía — viaje a la isla de Belona y el precio del entrenamiento:**
+
+**Personajes presentes**: Diana, Cía/Psique
+**Ausentes**: Sentencia, Hotman, Eslizón, Pantomima
+
+**La noche previa — conversación filosófica:**
+
+La sesión comienza en casa de Mésmero, la noche antes del viaje. Cía lee en la cama; Diana le explica su plan: visitar a su tía Belona para que les enseñe a desarrollar sus poderes. El debate toma forma filosófica:
+
+- Diana plantea la metáfora de la mascarilla de oxígeno en el avión: primero fortalecerse para llegar con más fuerza a ayudar a otros
+- Cía contraargumenta: ponerse el traje fue una decisión de ayudar a los demás, y la mejora personal no excluye el cuidado colectivo
+- Diana habla de la intensidad con que experimentan las emociones por sus poderes — y el riesgo de adicción
+
+**El viaje — el mar obedece:**
+
+A la mañana siguiente, Diana y Cía parten en barca hacia la isla privada de Belona, a unos 10 km de la isla principal de Arcadia. A medio camino, las corrientes detienen el barco un instante y luego lo empujan en una dirección determinada — sin que nadie lo dirija. El barco esquiva arrecifes por su cuenta. Diana reconoce que el fenómeno está relacionado con su tía.
+
+La isla tiene un coste elevado en Fatum; el Cacharrero la tiene camuflada tecnológicamente. Condición fundamental: cualquier cosa con motor o eléctrica deja de funcionar al acercarse — solo barcos de vela o remo pueden llegar.
+
+**La llegada — el templo y las Belonari:**
+
+Al acercarse distinguen un templo de estética clásica romana. Dos mujeres con vestimenta antigua las reciben y las conducen al interior, donde otras dos mujeres se baten en combate brutal — Belona entrena sin contenerse. En el fondo hay una estatua de Júpiter con cetro y cuenco vacío.
+
+El séquito de Belona recibe el nombre informal de "Belonari" — referencia a los sacerdotes de la antigua Truria encargados de declarar la guerra. Son guerreras entrenadas al nivel de Amazonas sin poderes, que actúan como guardias, entrenadoras y personal médico.
+
+**El saludo ritual:**
+
+Belona agarra la lanza de su contrincante y la lanza, terminando el combate. Saluda a Diana: *"Bienvenida, sobrina. Hacía tiempo que no nos veíamos."*
+
+Diana da dos pasos adelante, se hace un pequeño corte en el brazo con la uña y deja caer la sangre al suelo — gesto ritual que Belona acepta con una inclinación de cabeza. Belona "lee la sangre": sabe que Diana ya ha quitado vidas. Esto tensa a Cía.
+
+Descripción de Belona: mujer muy alta, construida a escala superior, como una estatua romana que se mueve; olor a margaritas y tomillo.
+
+**La prueba de combate:**
+
+Diana declara que necesita que su tía le enseñe — el sistema de Arcadia exige que los héroes jóvenes tengan un mentor. Belona decide que Diana debe demostrarle lo que sabe. Tres guerreras de las Belonari sacan armas (lanza y Gladius) y se preparan.
+
+Diana esquiva los primeros ataques con facilidad. Una oponente ataca por la espalda y logra herir a Diana con un corte profundo de Gladius. Cía intenta intervenir gritando "¡Parad esto!" — Diana niega con la cabeza. Diana se concentra en la que la hirió, la empuja a una esquina; golpea a la siguiente y la estrella contra la armadura de Belona. El combate termina en unos 10-12 segundos.
+
+Belona golpea a Cía en la cabeza — un golpe que rompe la armadura de Keplar en ese punto y la aturde brevemente. No es hostilidad: es evaluación.
+
+**La condición:**
+
+Belona acepta entrenar a Diana — con un precio: durante el período de entrenamiento, Diana no podrá ver a Cía. Cía, manteniendo el autocontrol, comunica mentalmente a Diana que tiene la opción de rechazar. Diana asiente y acepta.
+
+**La despedida:**
+
+Diana se despide de Cía con un abrazo largo y emotivo. Le da un último consejo: *"No dejes de ser tú misma por miedo a lo que yo pueda pensar."* Cía sube al barco, que zarpa de manera "poco natural" de vuelta a Arcadia, llevándola sola. El entrenamiento de Diana comienza ese mismo día.
+
+**Planes para la siguiente sesión — transición temporal:**
+
+El narrador anuncia que el grupo sube de nivel a veteranos antes de la siguiente partida — un salto significativo de poder. Diana tiene cinco puntos de rigor pendientes; puede elegir entre armadura con dureza excepcional o ventajas como Artista Marcial Experimentado. Nuevo diseño visual de Diana: traje escita en lugar del griego clásico. Los períodos de entrenamiento del resto del grupo (Cía con Mésmero, Hotman con Oneiros, Sentencia con Espectro) ocurren fuera de partida.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Diana | En entrenamiento con Belona | Isla privada de Belona, ~10 km de Arcadia |
+| Cía/Psique | Sola, escribiendo diario; entrenando con Mésmero | Casa de Mésmero / Barrio Gótico |
+| Sentencia | Transformada, entrenando con Espectro | Pendiente confirmación ubicación |
+| Hotman | En entrenamiento con Oneiros | Fuera de Arcadia con Oneiros |
+| Pantomima | En buen estado | Casa de Mésmero |
+| Eslizón | Ausente | Con los cachorros bestiales |
 
 ---
 

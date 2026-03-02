@@ -48,12 +48,18 @@ Para análisis estructurados y resúmenes narrativos, consulta los [Resúmenes A
 | 01/02/2026 | Sesión 7 | [Transcripción]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes/2026-02-01-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/) |
 | 22/02/2026 | Sesión 8 | [Transcripción]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes/2026-02-22-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/) |
 
+### Marzo 2026
+
+| Fecha | Sesión | Transcripción | Análisis |
+|-------|--------|---------------|----------|
+| 01/03/2026 | Sesión 9 | [Transcripción]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes/2026-03-01-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/) |
+
 ---
 
 ## Estadísticas
 
-- **Total de transcripciones**: 8
-- **Período cubierto**: Octubre 2025 - Febrero 2026
+- **Total de transcripciones**: 9
+- **Período cubierto**: Octubre 2025 - Marzo 2026
 - **Jugadores documentados**: David Pérez Jiménez (Sergei), Júlia Gasull (Tiritas), Adriana Ferran Gonzalez (Kira), Perico/Capitán Berberecho (Elena)
 
 ---

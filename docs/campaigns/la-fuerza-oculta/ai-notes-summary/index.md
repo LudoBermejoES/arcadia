@@ -795,4 +795,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 28/02/2026 - La Prueba de Belona](2026-02-28-gemini-notes.md)
+**"El Precio del Entrenamiento y la Despedida en el Muelle"**
+
+**🎯 Temas Centrales Identificados:**
+- **El Precio del Crecimiento**: Belona acepta entrenar a Diana pero impone separación total de Cía
+- **Dos Mundos dentro de Diana**: Ritual de sangre y templo romano conviven con la joven metahumana moderna
+- **La Agencia de Cía**: Sesión centrada en cómo Cía acompaña, se contiene y finalmente se despide sola
+- **Lo Arcaico como Poder Real**: La isla sin tecnología alberga a la figura más poderosa como maestra potencial
+
+**🔍 Revelaciones Clave:**
+- **Isla de Belona**: Camuflada, sin electricidad, accesible solo en barca — las corrientes obedecen a Belona
+- **Ritual de sangre familiar**: Diana se corta el brazo y deja caer la sangre; protocolo reconocido por Belona
+- **Los Belonari**: Guerreras del séquito de Belona, entrenadas al nivel de Amazonas sin poderes
+- **Subida a veteranos**: El grupo asciende de nivel antes de la siguiente sesión — aumento significativo de poder
+- **Traje escita de Diana**: Diseño basado en Escitia (no en Grecia clásica), coherente con el origen de las Amazonas
+
+**Duración**: ~2 horas | **Jugadoras**: Diana y Cía/Psique únicamente
+
+**🎯 NOTA ESPECIAL**: Sesión íntima de solo dos jugadoras. Primera aparición de Belona — tía de Diana, figura casi mítica. El entrenamiento comienza ese mismo día; Cía regresa sola en el barco.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

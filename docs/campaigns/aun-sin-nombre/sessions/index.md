@@ -13,6 +13,27 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ## 📅 Cronología de Sesiones
 
+### 🌷 **Marzo 2026 - El Mundo Subterráneo**
+
+#### [📝 Sesión 1 de Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
+
+**"La Clínica Clandestina y el Rey de los Mendigos"**
+
+- 💉 **Clínica Clandestina**: Jailé extrae la bala del motero por 200 pesetas — sin preguntas
+- ⚡ **El Problema de Mishka**: Kira la paraliza con electricidad; Serge la libera cuando empieza a gritar
+- 🪙 **El Anillo**: El motero rescatado le da a Tiritas un anillo de oro con alas grabadas — "no tenía nada más"
+- 📱 **Vídeo Viral**: El incidente del motel se ha hecho viral; un comentario reconoce a alguien del grupo
+- 🏘️ **Malik Ferrán**: El "rey de los mendigos" acoge al grupo gratis en el Distrito Veneris a cambio de info sobre el reformatorio
+- 👵 **Noemi Besta**: Protección metahumana del refugio; comunica por gestos la muerte del padre de Tiritas (asesinado por ella en defensa propia)
+- 💔 **Revelación Familiar**: Madre en la cárcel, hermana en acogida — Malik investigará la ubicación en 2 días
+- 🐝 **Los Strigoi Explicados**: Producen melaza que da poderes temporales; huevos en metahumanos; mente colmena; vulnerables a telépatas
+- 🧠 **Pista de Mésmero**: Malik ofrece cómo contactar al telépata más poderoso de Arcadia en el Barrio Gótico
+- ⚠️ **Advertencia**: Los metahumanos que abandonan Arcadia pierden poderes; los "cambiados" se convierten en piedra
+
+**Temas Clave**: Verdades tardías, el mundo subterráneo como recurso, conexión con el universo más amplio de Arcadia
+
+---
+
 ### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
 
 #### [📝 Sesión 22 de Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)

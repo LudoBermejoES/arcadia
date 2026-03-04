@@ -484,6 +484,32 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 28 de Febrero (Sesión 54)](../ai-notes-summary/2026-02-28-gemini-notes.md)
+**"La Prueba de Belona"**
+- 🏝️ **Isla de Belona**: Viaje en barca a la isla privada de la tía de Diana, 10 km de Arcadia, sin tecnología eléctrica
+- ⛵ **El Mar Obedece**: Las corrientes guían el barco solas, esquivando arrecifes — la isla y el mar responden a Belona
+- 🩸 **Ritual de Sangre**: Diana saluda a Belona con un corte ritual en el brazo — protocolo familiar reconocido
+- ⚔️ **Prueba de Combate**: Diana se enfrenta a tres guerreras Belonari simultáneamente; resulta herida pero vence en 10-12 segundos
+- 💢 **Belona Evalúa a Cía**: Golpe que rompe la armadura de Keplar — evaluación, no castigo
+- 🎓 **Mentoría Aceptada**: Belona acepta entrenar a Diana, pero el precio es la separación de Cía durante el entrenamiento
+- 💔 **La Despedida**: Diana acepta la condición; abrazo en el muelle; Cía vuelve sola en el barco
+- ⬆️ **Subida de Nivel**: El grupo asciende a veteranos antes de la siguiente sesión — aumento significativo de poder
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Diana | En entrenamiento con Belona | Isla privada de Belona |
+| Cía/Psique | Sola, escribiendo diario; entrenando con Mésmero | Casa de Mésmero |
+| Sentencia | Entrenando con Espectro | Pendiente |
+| Hotman | En entrenamiento con Oneiros | Con Oneiros |
+| Pantomima | En buen estado | Casa de Mésmero |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+**Temas Clave**: El precio del crecimiento, dos mundos dentro de Diana, la agencia de Cía, lo arcaico como poder real
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

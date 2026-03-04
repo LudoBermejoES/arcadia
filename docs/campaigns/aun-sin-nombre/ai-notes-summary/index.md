@@ -296,6 +296,38 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
 
+#### [📈 Análisis 01/03/2026 - La Clínica Clandestina y el Rey de los Mendigos]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
+**"Mishka se va, los Strigoi se revelan, Mésmero aparece en el horizonte"**
+
+**🎯 Temas Centrales Identificados:**
+- **El Precio de Saber Demasiado**: Mishka paralizada y finalmente liberada — la violencia como gestión de riesgos
+- **Verdades Tardías**: Noemi Besta confirma lo ocurrido — el padre murió a manos de Tiritas en defensa propia; el exterior sabe la verdad
+- **El Mundo Subterráneo como Recurso**: Malik Ferrán y su red de mendigos como capital social irreemplazable
+- **Conexión con Mundos Más Grandes**: La Fuerza Oculta, Mésmero, la advertencia sobre salir de Arcadia
+
+**👥 Desarrollo de Personajes:**
+- **Serge**: Gestión pragmática del riesgo — deja ir a Mishka cuando retenerla ya no tiene sentido; guía al grupo al mundo que conoce
+- **Tiritas**: Revelación familiar devastadora — padre muerto (confirmado por Noemi), madre en cárcel, hermana en acogida; recibe anillo de oro como primera compensación real por ayudar
+- **Kira**: Usa la electricidad para paralizar a Mishka (no combate) — escalón moral cuestionable; búsqueda eficaz en redes sociales
+- **Elena**: Sesión de perfil bajo — primer episodio sin momento definitivo desde que escaparon del reformatorio
+
+**🔮 Arcos Narrativos Avanzados:**
+- Mishka liberada — libre en Arcadia con información sobre el grupo
+- Malik Ferrán y Noemi Besta como nuevos contactos en el mundo marginal
+- Revelación completa sobre biología Strigoi: melaza potenciadora, infección con huevos, mente colmena
+- Pista de Mésmero en el Barrio Gótico — objetivo de la próxima sesión
+- Familia de Tiritas: padre muerto, madre en cárcel, hermana en acogida — Malik busca ubicación en 2 días
+
+**⚡ Momentos Clave:**
+- Jailé extrae bala del motero por 200 pesetas en clínica clandestina
+- Kira paraliza a Mishka con electricidad; Serge la libera cuando empieza a gritar
+- El motero da un anillo de oro con alas a Tiritas al amanecer ("no tenía nada más")
+- Noemi Besta confirma por gestos: el padre de Tiritas murió a sus manos (defensa propia)
+- La Fuerza Oculta mencionada: mató a un Metacorp, hospitalizó a otros dos
+- Advertencia: metahumanos que salen de Arcadia pierden poderes; los "cambiados" se convierten en piedra
+
+---
+
 #### [📈 Análisis 22/02/2026 - La Noche en el Motel de lo Ocaso]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 **"Moteros, Macarrones y un Fallo Crítico"**
 

@@ -535,6 +535,25 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-02-28 - La Prueba de Belona](../ai-notes-summary/2026-02-28-gemini-notes.md)
+
+**"Sesión íntima de Diana y Cía en la isla de la tía Belona"**
+
+- 🏝️ **Isla de Belona**: Pequeña isla privada a 10 km de Arcadia, sin electricidad, camuflada por tecnología del Cacharrero
+- ⛵ **Corrientes Obedientes**: El barco es guiado por las corrientes de Belona; esquiva arrecifes solo
+- 🩸 **Ritual de Sangre**: Diana se corta el brazo y deja caer la sangre al suelo — saludo ritual familiar que Belona acepta con reverencia
+- ⚔️ **Prueba de Combate**: Diana se enfrenta a tres Belonari (guerreras de la isla) simultáneamente; resulta herida pero vence
+- 💢 **Golpe a Cía**: Belona evalúa a Cía golpeándola en la cabeza — rompe la armadura de Keplar en ese punto
+- 🎓 **Mentoría Aceptada**: Belona acepta entrenar a Diana con una condición: no podrá ver a Cía durante el entrenamiento
+- 💔 **La Despedida**: Diana acepta; abrazo emotivo en el muelle; Cía regresa sola en el barco
+- ⬆️ **Subida de Nivel**: El grupo asciende a veteranos antes de la siguiente sesión
+
+**Duración**: ~2 horas | **Jugadoras**: Diana (Eslizo), Cía/Psique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Sesión de solo dos jugadoras. Primera aparición de Belona, tía de Diana — figura de escala casi mítica que vive en un templo isleño con rituales romanos y un séquito de guerreras (Belonari). El entrenamiento de Diana comienza ese mismo día.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

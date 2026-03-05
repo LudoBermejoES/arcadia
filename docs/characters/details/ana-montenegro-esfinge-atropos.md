@@ -84,6 +84,7 @@ Su dominio sobre el tiempo evolucionó dramáticamente a lo largo de su arco nar
 - [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
 - [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/) - Reunión 10 años después
 - [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Transformada en armadura de oro, lidera exploración dimensional y negocia con Esfinge
+- [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Interactúa con la Esfinge, gestiona la travesía por el Mar de los Muertos con efecto relativista, combate dos gólems de piedra y participa en la negociación con Anubis
 - [La Fuerza Oculta AI Notes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/) - Como abogada Ana Montenegro
 
 ## La Transformación Cósmica - Embarazo Temporal

@@ -81,6 +81,7 @@ Bate fue programado con **órdenes automáticas** que podían activarse:
 - [Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 - [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/)
 - [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Destruye faraones zombis y aturde a la Esfinge con bate de arcanita
+- [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Travesía por el Mar de los Muertos; combate contra gólems de piedra; testigo del encuentro con Anubis y la resurrección de Garra
 
 ## El Reconocimiento de la Verdad
 Gradualmente, Bate fue aceptando la realidad devastadora:

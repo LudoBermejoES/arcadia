@@ -74,6 +74,7 @@ Conforme avanzaba su arco narrativo, las manifestaciones se volvían más pertur
 - [Session 32]({{ site.baseurl }}/campaigns/la-familia/session-32/)
 - [Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
 - [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
+- [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Recuperado del Mar de los Muertos; completa el ritual de las 2 millones de almas; pacta servicio eterno a Anubis para salvar a Garra; revela que el pacto liberó al Faraón Oscuro
 
 ## El Sancta Sanctorum - El Refugio Mágico Prohibido
 En el sótano de la casa de La Familia, El Faraón descubrió su **sancta sanctorum**: una cámara mágica que respondía exclusivamente a él, donde todo aquel que entrara debía obedecerle absolutamente.
@@ -113,3 +114,14 @@ El Faraón demostró que **el poder verdadero tiene un precio cósmico**. Su his
 **Su sacrificio final - desapareciendo cuando Bastet completó su plan - restauró un equilibrio universal, pero al costo de su propia existencia y libre albedrío.**
 
 El Faraón permanece como el ejemplo más claro en La Familia de que **algunos poderes vienen con cadenas invisibles, y el verdadero heroísmo a veces significa aceptar un destino que no se puede cambiar.**
+
+## El Regreso y el Nuevo Pacto (1 Marzo 2026)
+
+En la Sesión 44, el Faraón es recuperado del dominio de Anubis por sus compañeros. Durante la travesía por el Mar de los Muertos, cuando Garra muere accidentalmente al intentar servir de guía, él actúa de forma decisiva y selfless:
+
+- **Completó el ritual**: Acumuló las 2 millones de almas prometidas a Anubis, emergiendo con el cuerpo plagado de caras
+- **Pacto con Anubis**: Ofreció su **servicio eterno al dios al morir** a cambio de que Anubis devolviera la vida a Garra (que iba a ser devorada por Ammit)
+- **Consecuencia catastrófica revelada**: Su alma era el sello que contenía al Faraón Oscuro — al comprometerse con Anubis, liberó al Faraón Oscuro en el mundo
+- **Estado actual**: Refugiado en casa de Mésmero, meditando, evitando a la hija de un MetaCorp que él mató y que busca venganza
+
+**El bastón cargado con la esencia de Bastet** (que perteneció al Emperador Oscuro) está en paradero desconocido. Las 2 millones de almas que lleva en su cuerpo necesitan encontrar cuerpos físicos — tarea que coordina un equipo de jóvenes (los "discípulos").

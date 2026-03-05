@@ -87,6 +87,7 @@ Como **experto tecnológico** y **estratega práctico** del grupo, Garra aporta 
 - [Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 - [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/)
 - [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Portal dimensional, abismo estelar y encuentro con la Esfinge
+- [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Muere temporalmente (de forma accidental) en el Mar de los Muertos; su corazón sirve de guía hacia la isla de Anubis; Anubis la pesa y su corazón se equilibra con la pluma; revive gracias al pacto del Faraón con Anubis
 - [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
 
 ## Relaciones Clave
@@ -158,3 +159,15 @@ Garra ha evolucionado de "adolescente eterno" a **mentor experimentado** y **fac
 - **Continuidad heroica**: Mantiene vivo el espíritu de La Familia a través de acciones prácticas
 
 **Garra demostró que retroceder en el tiempo puede ser la única forma de avanzar hacia el futuro, y ahora ayuda a otros a encontrar sus propios caminos hacia adelante.**
+
+## Muerte y Resurrección en el Mar de los Muertos (1 Marzo 2026)
+
+En la Sesión 44, Garra experimenta la muerte por primera vez de forma real e involuntaria. La idea era detener su corazón temporalmente para que, como muerta, conociera el camino en el Mar de la Muerte (solo los muertos saben navegar ese mar). El Faraón falló la tirada para reanimarla, y Garra murió de verdad.
+
+Sin embargo, su muerte accidental tuvo un efecto imprevisto: una luz emergió de su pecho y señaló la dirección correcta. El grupo la siguió hasta la isla de Anubis.
+
+Ante el dios de los muertos, el corazón de Garra fue pesado contra la pluma de Maat: se equilibró, confirmando su pureza moral. Al estar muerta no podía ofrecer nada a cambio de su liberación, y Anubis la enviaba al más allá. El Faraón intervino, ofreciendo su servicio eterno a Anubis al morir, a cambio de la vida de Garra.
+
+Anubis aceptó. Garra regresó a la vida con su corazón devuelto.
+
+**Estado actual**: De vuelta en el mundo de los vivos, con una deuda de vida que nunca podrá saldar con el Faraón.

@@ -85,6 +85,7 @@ Mésmero funcionaba como el **mediador, consejero y ancla emocional** de La Fami
 - [Session 40]({{ site.baseurl }}/campaigns/la-familia/session-40/)
 - [Session 41]({{ site.baseurl }}/campaigns/la-familia/session-41/)
 - [Session 42]({{ site.baseurl }}/campaigns/la-familia/session-42/)
+- [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Recibe al grupo a su regreso; despierta al Faraón; extrae la información sobre el Faraón Oscuro y coordina los pasos siguientes
 
 ## El Retroclón - Encuentro con su Futuro
 Uno de los momentos más impactantes de Mésmero llegó cuando se encontró con **el Retroclón**, una versión anciana de sí mismo que había viajado desde el futuro:

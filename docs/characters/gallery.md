@@ -492,6 +492,7 @@ document.addEventListener('DOMContentLoaded', function() {
     independientes: [
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
+      { slug: 'hope-m', name: 'Hope M.', image: 'Hope M..png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },
       { slug: 'noemi-pesna', name: 'Noemí Pesna', image: 'noemi-vesna.jpg' },
       { slug: 'roberto-mckomick', name: 'Roberto McKomick', image: 'roberto-mckomick.png' },

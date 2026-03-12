@@ -305,6 +305,7 @@ permalink: /characters/character-list/
 ### Artesanos y Profesionales
 - [Charada]({{ site.baseurl }}/characters/details/charada/) (sastre, famoso en los 90s, diseñó el traje de Arcadio)
 - [Federico López ("El Sastre")]({{ site.baseurl }}/characters/details/federico-lopez/) (sastre tradicional, mentor y rival de Charada)
+- [Hope M.]({{ site.baseurl }}/characters/details/hope-m/) (científica clandestina, especialista en recombinación genética, perseguida por la ley, recibe donaciones de héroes y villanos)
 - [Lambert]({{ site.baseurl }}/characters/details/lambert/) (diseñador de trajes arácnido, creador de armaduras orgánicas, fallecido en ataques de Freiglasung 2015)
 
 ### Periodistas y Medios

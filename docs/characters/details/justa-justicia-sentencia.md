@@ -225,11 +225,12 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 
 ### Mentores
 
-**Espectro** (Jorge Moreau):
+**[Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/)** (Jorge Moreau):
 - Proveedor de munición no letal
 - Mentor de filosofía heroica
 - Conexión generacional con veteranos
 - **Futuro mentor anunciado**: Táctica avanzada, explosivos, sistemas anti-poderes (pendiente de inicio)
+- **Enlace con Hope M.**: Coordinó el contacto con la científica clandestina para el procedimiento de microdiamantes
 
 **[Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/)**:
 - Entrenador de combate
@@ -456,6 +457,10 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - Cargadores de balas de silicona
 - Acceso a red de arsenales (tío Roberto)
 - Chaleco de kevlar (objetivo pendiente)
+
+**Modificaciones Físicas**:
+
+- **Microdiamantes subdérmicos**: [Hope M.]({{ site.baseurl }}/characters/details/hope-m/) le ha injertado microdiamantes bajo la piel, aumentando su resistencia física. El procedimiento, con coste y riesgo real, fue coordinado a través de [Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/). Compensa parcialmente su ausencia de poderes metahumanos.
 
 ### Situación Emocional
 

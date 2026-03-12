@@ -107,7 +107,8 @@ Jorge cita al grupo tras el incidente con monos dorados para abordar problemas d
 - **Enfoque práctico**: Uso inteligente del espacio y circunstancias
 
 #### **Mentorías Específicas**
-- **Sentencia**: Provisión de munición no letal y consejos sobre control de daño
+
+- **Sentencia**: Provisión de munición no letal, consejos sobre control de daño y coordinación del procedimiento de microdiamantes subdérmicos con [Hope M.]({{ site.baseurl }}/characters/details/hope-m/)
 - **Hotman**: Armadura discreta pese a impacto en imagen pública
 - **Psique**: Equipamiento básico no letal (táser, spray, granadas)
 - **Kayface**: Entrenamiento en combate cuerpo a cuerpo con porra

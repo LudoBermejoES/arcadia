@@ -52,7 +52,11 @@ Esta posición la convierte en una figura **moralmente ambigua** pero pragmátic
 
 ### **Con [Espectro (Jorge Moreau)]({{ site.baseurl }}/characters/details/jorge-espectro/)**
 
-Hope M. es conocida de Espectro. La conexión entre una científica genética clandestina y el director de Fuerzas de Seguridad Wraith sugiere que sus caminos se han cruzado en múltiples ocasiones, ya sea por necesidad profesional o por circunstancias de las operaciones de Génesis y sus secuelas.
+Hope M. es conocida de Espectro. La conexión entre una científica genética clandestina y el director de Fuerzas de Seguridad Wraith sugiere que sus caminos se han cruzado en múltiples ocasiones, ya sea por necesidad profesional o por circunstancias de las operaciones de Génesis y sus secuelas. Fue él quien coordinó el contacto con [Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) para uno de los procedimientos más delicados de Hope M.
+
+### **Con [Sentencia (Justa McKomick)]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/)**
+
+Procedimiento documentado: **inyección de microdiamantes subdérmicos**. Hope M. le injertó microdiamantes bajo la piel para aumentar su resistencia física — un procedimiento de alto riesgo que compensa la ausencia de poderes metahumanos de Sentencia. Como en todos sus trabajos, el procedimiento conllevó un coste real y resultados no garantizados.
 
 ## Apariencia
 

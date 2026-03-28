@@ -404,6 +404,17 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 
 **Temas Clave**: Mentoría, responsabilidad colectiva, transformación física, el espejo oscuro Sentencia-Espectro
 
+- **[Sesión 56 - 15 Marzo 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/)** - *"El Reencuentro y la Misión del Consulado"*
+  - ⏭️ **Salto temporal de 3 meses**: Reencuentro del grupo en casa de Mésmero tras entrenamiento
+  - 🧊 **Sentencia congela a Hotman**: Frialdad total, piel brillante impenetrable
+  - 👻 **"Banshee"**: Sentencia operó como sidekick de Espectro durante 3 meses
+  - 🎭 **Hotman transformado**: Oratoria clásica, compostura, articulación
+  - 🍽️ **Cena con Eneiros**: Restaurante El Cogollo, planta 40, Distrito Lunar
+  - 🇺🇸 **Padre de Hotman = agente de EEUU**: Trabaja para minar la soberanía de Arcadia
+  - 🏛️ **Misión aceptada**: Infiltrar consulado de EEUU para recuperar documentos
+
+**Temas Clave**: Metamorfosis, paternidad y traición, clandestinidad, injerencia extranjera
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual

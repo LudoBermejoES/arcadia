@@ -457,6 +457,38 @@ Diana la confronta duramente sobre el pragmatismo:
 - **Pistolas Laser Eagle** (modo letal requiere autorización explícita de Espectro)
 - **Micrófono craneal incrustado** para comunicación directa con Espectro
 
+### Fase XII: El Reencuentro y la Identidad Banshee (Marzo 2026)
+
+**Tres Meses Después — Reunión en Casa de Mésmero**:
+
+- Tras 3 meses de separación, el grupo se reúne en casa de [Mésmero]({{ site.baseurl }}/characters/details/mesmero/)
+- Sentencia ha pasado ese tiempo trabajando como **sidekick de Espectro** bajo el alias **"Banshee"**
+- Se ha corrido el rumor público de que Espectro tiene una nueva asistente llamada Banshee
+- Lleva un **traje al estilo de Espectro**, aunque no le queda bien (no está adaptado a su pecho)
+
+**Demostración de los Microdiamantes**:
+
+- Sentencia demuestra su **piel impenetrable** intentando clavarse un cuchillo a sí misma — la piel rechaza el filo
+- Los microdiamantes subdérmicos de [Hope M.]({{ site.baseurl }}/characters/details/hope-m/) han cumplido su función
+
+**Reencuentro con Hotman**:
+
+- Cuando [Hotman]({{ site.baseurl }}/characters/details/hotman/) intenta abrazarla, Sentencia lo **congela con una mirada**
+- Declaración directa: *"Tú y yo tenemos que hablar"*
+- La tensión entre ambos queda patente tras meses de separación
+
+**Observación del Grupo**:
+
+- Los compañeros perciben que ya no queda nada de "Justa" — es **el arma Sentencia**
+- Describe su entrenamiento con Espectro como *"varios infiernos, uno físico y otro mental"*
+- La transformación de 3 meses bajo la mentoría de un sociópata reconvertido es evidente
+
+**Nueva Misión Aceptada**:
+
+- El grupo acepta una misión para **infiltrarse en el consulado de Estados Unidos** en Arcadia
+- Objetivo: investigar al padre de Hotman y sus conexiones
+- Sentencia se prepara para su primera operación de campo como veterana
+
 ---
 
 ## 📊 Estado Actual (Febrero 2026)
@@ -593,6 +625,8 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría con Espectro y subida a veterana
 - [AI Notes 2026-03-08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-08-gemini-notes/)
+- [Sesión 56]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/) - El Reencuentro y la Identidad Banshee
+- [AI Notes 2026-03-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ---
 

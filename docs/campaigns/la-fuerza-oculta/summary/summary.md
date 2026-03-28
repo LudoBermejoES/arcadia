@@ -2338,3 +2338,56 @@ Se presentan los nuevos diseños. Hotman con gafas que graban y transmiten en ti
 
 ---
 
+### Sesión 56: El Reencuentro y la Misión del Consulado (15 marzo 2026)
+
+📎 [Manual](../manual-notes/session-56-2026-03-15.md) | [AI](../ai-notes/2026-03-15-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-03-15-gemini-notes.md)
+
+**Reencuentro tras 3 meses de entrenamiento y misión de infiltración del consulado de EEUU:**
+
+**Personajes presentes**: Hotman, Sentencia, Diana, Sique/Cía
+**Ausentes**: Pantomima (Xavi en Uruguay), Eslizón (Sugus no asiste)
+
+**Salto temporal — 3 meses después:**
+
+Han pasado 3 meses desde que el grupo se separó para entrenar. La situación pública se ha normalizado: FO ya no es la comidilla, aunque siguen buscados. Se reúnen en casa de Mésmero.
+
+**El reencuentro:**
+
+Diana y Hotman llegan con trajes nuevos. Sentencia y Sique esperan sentadas. Sique se tira a los brazos de Diana. Sentencia **congela a Hotman con la mirada** cuando intenta abrazarla: *"Tú y yo tenemos que hablar."* Diana le da una palmada en el hombro a Hotman y se sienta.
+
+**Resultados del entrenamiento:**
+
+- **Sentencia**: Piel brillante impenetrable — se intenta clavar un cuchillo y la piel lo rechaza. Ha trabajado 3 meses como **sidekick de Espectro** bajo el alias **"Banshee"**. Describe el proceso como *"varios infiernos, uno físico y otro mental"*. Frialdad extrema — ya no es "Justa", sino *"el arma Sentencia"*.
+- **Hotman**: Oratoria clásica, declamación y filosofía. Estuvo en un barco en alta mar. Habla de forma muy articulada — se le prohibió decir "bro". Ha aprendido a *"aplacar su ímpetu"*.
+- **Diana**: Comer carne de caza y recibir hostias en la isla de Belona. Se mantuvo casta para con Sique.
+- **Sique**: Entrenamiento mental inmisericorde con Mésmero, más educación cultural: vinos, etiqueta, cine.
+
+**Discusión de objetivos:**
+
+Diana propone que encontrar su origen unifica los objetivos: descubrir cómo fue fabricada (mente, cuerpo y alma de diferentes fuentes) podría ayudar a crear cuerpos para las 2 millones de personas.
+
+**Cena con Eneiros en El Cogollo:**
+
+Eneiros reserva un restaurante entero en la planta 40 de un rascacielos del Distrito Lunar. 10 platos y vino caro. Acceso discreto por parking subterráneo.
+
+**La revelación:**
+
+Eneiros revela que el **padre de Hotman trabaja como agente del gobierno de EEUU**, buscando minar la soberanía de Arcadia. EEUU creó el campo antimeta y capturó a Arcadio hace ~15 años.
+
+**La misión:**
+
+Eneiros ofrece al grupo infiltrar el **consulado de EEUU** para recuperar documentos. Si no la aceptan, enviará sus propias tropas. La información tiene días — urgencia máxima. El grupo acepta.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee, piel impenetrable | En ruta al consulado de EEUU |
+| Hotman | Veterano, orador clásico | En ruta al consulado de EEUU |
+| Diana | Veterana, curtida en combate | En ruta al consulado de EEUU |
+| Sique/Cía | Veterana, madurada | En ruta al consulado de EEUU |
+| Pantomima | Ausente | Desconocida |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+---
+

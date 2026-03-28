@@ -387,6 +387,36 @@ Sale a entregarse pero **queda atrapado**:
 - Hotman se compromete a **entregarse a la justicia** tras completar la misión del grupo
 - Sentencia pide a Eneiros que cuide de Hotman
 
+### Fase XIV: El Reencuentro y la Verdad sobre el Padre (15 Marzo 2026)
+
+**3 Meses de Entrenamiento Completados**:
+
+- Entrenamiento en un barco en aguas internacionales
+- Estudió oratoria clásica, retórica y filosofía
+- Participó en debates online con máscara para practicar argumentación
+- Ahora habla de forma muy articulada — tenía **prohibido usar la palabra "bro"**
+- Ha aprendido a **aplacar su ímpetu**: controla su impulsividad de forma consciente
+- Eneiros también investigó las finanzas de su padre durante este período
+
+**El Reencuentro con La Fuerza Oculta**:
+
+- Llega a casa de Mésmero con un **nuevo uniforme dorado**
+- Sentencia lo congela con una sola mirada
+- Cena en **El Cogollo** (planta 40, Distrito Lunar) con Eneiros y el grupo
+
+**La Revelación**:
+
+- Eneiros revela que el padre de Hotman **trabaja como agente del gobierno de EE.UU.**
+- Su objetivo: **socavar la soberanía de Arcadia** desde dentro
+- EE.UU. creó el campo antimeta y capturó a **Arcadio** hace ~15 años
+- El padre no es solo un empresario abusivo — es un traidor activo contra la isla
+
+**Misión Aceptada: Consulado de EE.UU.**:
+
+- Objetivo: infiltrarse en el consulado estadounidense para recuperar documentos que prueban la traición del padre
+- Hotman acepta la misión — quiere que su padre pague
+- **Conflicto interno**: se debate sobre si debe arrastrar al grupo a un asunto personal
+
 ---
 
 ## 🔗 Relaciones
@@ -472,13 +502,13 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ## 📊 Estado Actual (Marzo 2026)
 
-### 🔥 ENTRENAMIENTO CON ENEIROS
+### 🔥 MISIÓN: INFILTRACIÓN DEL CONSULADO DE EE.UU.
 
-**Estado**: En entrenamiento intensivo con Eneiros (8 Marzo 2026)
+**Estado**: Reunido con La Fuerza Oculta, preparando infiltración del consulado (15 Marzo 2026)
 
-Tras las dos semanas iniciales con Oneiros, Eneiros ha asumido la mentoría formal de Hotman. Le confrontó directamente sobre la muerte del Metacorp y acordaron un programa de **2 meses de entrenamiento** centrado en comunicación y control emocional. Hotman está **incomunicado** — sin teléfono, solo una línea fija para hablar con Sentencia. Ha ganado nuevas habilidades: Performance (d4) y Persuadir mejorado. Lleva un **nuevo uniforme**: gafas que graban y emiten en tiempo real, y una chaqueta dorada de torero (comparada con Booster Gold). Se ha comprometido a **entregarse a la justicia** tras completar la misión del grupo. Sentencia pidió a Eneiros que cuidara de él.
+Hotman ha completado 3 meses de entrenamiento con Eneiros — en un barco en aguas internacionales, estudiando oratoria clásica, retórica y filosofía. Ha regresado transformado: habla con elocuencia, controla su impulsividad y lleva un nuevo uniforme dorado. La revelación de que su padre es un **agente del gobierno de EE.UU.** que trabaja activamente para socavar la soberanía de Arcadia ha cambiado completamente la naturaleza de su conflicto familiar. Ya no es solo un padre abusivo — es un traidor a la isla. La misión inmediata es infiltrarse en el consulado estadounidense para obtener documentos que prueben la traición. Hotman se debate entre hacer justicia y no involucrar al grupo en un asunto que siente como personal.
 
-**Ubicación actual**: Con Eneiros, fuera de Arcadia (2 meses de entrenamiento)
+**Ubicación actual**: De vuelta en Arcadia, reunido con La Fuerza Oculta
 
 ### Situación Legal
 
@@ -573,7 +603,9 @@ Tras las dos semanas iniciales con Oneiros, Eneiros ha asumido la mentoría form
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Escape del almacén, revelación de Mésmero, despedida y partida con Oneiros
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría de Eneiros, compromiso de entregarse a la justicia
+- [Sesión 56]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/) - Reencuentro, revelación sobre el padre y misión del consulado
+- [AI Notes 2026-03-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ---
 
-*Hotman representa la evolución más dramática de víctima a liberado. De niño aterrorizado a héroe que quemó su conexión con el miedo, pasó por una crisis existencial al matar a un padre de familia y encontró en el Barrio Gótico a Oneiros, que lo devolvió al camino. El 60% de las acciones de su padre están intervenidas por el gobierno de EE.UU. — la montaña que lo aplastó durante años resulta ser más frágil de lo que parecía. Ahora entrena con Eneiros durante dos meses, incomunicado del mundo salvo una línea fija para hablar con Sentencia. Se comprometió a entregarse a la justicia tras completar la misión del grupo. Su nuevo uniforme — gafas de grabación y chaqueta dorada de torero — marca el comienzo de una nueva fase: la de un héroe que asume las consecuencias de sus actos.*
+*Hotman representa la evolución más dramática de víctima a liberado. De niño aterrorizado a héroe que quemó su conexión con el miedo, pasó por una crisis existencial al matar a un padre de familia y encontró en el Barrio Gótico a Oneiros, que lo devolvió al camino. Tras 3 meses de entrenamiento con Eneiros en aguas internacionales, ha regresado transformado: elocuente, controlado y con uniforme dorado. La revelación de que su padre es un agente del gobierno de EE.UU. que trabaja para socavar la soberanía de Arcadia — y que EE.UU. creó el campo antimeta y capturó a Arcadio hace 15 años — ha convertido su conflicto familiar en una cuestión de traición nacional. Ahora se prepara para infiltrar el consulado estadounidense y obtener las pruebas, debatiéndose entre hacer justicia y no arrastrar a su equipo a un asunto que siente como personal.*

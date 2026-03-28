@@ -538,6 +538,45 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📝 Sesión 15 de Marzo (Sesión 56)](../manual-notes/session-56-2026-03-15/)
+**"El Reencuentro y la Misión del Consulado"**
+- ⏭️ **Salto temporal**: 3 meses de entrenamiento — el grupo se reúne por primera vez en casa de Mésmero
+- 🧊 **Sentencia transformada**: Piel brillante impenetrable, frialdad total, congela a Hotman con la mirada
+- 👻 **"Banshee"**: Sentencia operó 3 meses como sidekick de Espectro — rumor público sobre nueva ayudante
+- 🎭 **Hotman orador**: Oratoria clásica, compostura, prohibido decir "bro"
+- 🍽️ **Cena con Eneiros**: Restaurante El Cogollo, planta 40, Distrito Lunar, reservado entero
+- 🇺🇸 **Revelación**: Padre de Hotman trabaja como agente de EEUU para minar Arcadia
+- 🏛️ **Misión aceptada**: Infiltrar consulado de EEUU — documentos urgentes sobre la traición
+- 🔗 **Diana = clave**: Su origen podría ser la solución para los 2M de cuerpos
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee | En ruta al consulado |
+| Hotman | Veterano, orador clásico | En ruta al consulado |
+| Diana | Veterana, curtida en combate | En ruta al consulado |
+| Sique/Cía | Veterana, madurada | En ruta al consulado |
+| Pantomima | Ausente | Desconocida |
+| Eslizón | Ausente | Con cachorros bestiales |
+
+**Temas Clave**: Metamorfosis, paternidad y traición, clandestinidad total, injerencia extranjera, misión de infiltración
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación | Mentor |
+|-----------|--------|-----------|--------|
+| Hotman | Entrenamiento (2 meses) | Con Eneiros, fuera de Arcadia | Eneiros |
+| Sentencia | Entrenamiento | Cine del Barrio Gótico | Espectro |
+| Diana | Entrenamiento | Isla de Belona | Belona |
+| Sique/Cía | Entrenamiento | Casa de Mésmero | Mésmero |
+| Pantomima | En espera | Casa de Mésmero | Pendiente |
+| Eslizón | Ausente | Con los cachorros bestiales | — |
+
+**Temas Clave**: Mentoría y crecimiento, responsabilidad colectiva, el espejo oscuro Sentencia-Espectro, transformación física como metáfora
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

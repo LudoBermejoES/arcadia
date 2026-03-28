@@ -573,6 +573,25 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-03-15 - El Reencuentro y la Misión del Consulado](../ai-notes-summary/2026-03-15-gemini-notes.md)
+
+**"Reencuentro tras 3 meses de entrenamiento y misión de infiltración del consulado de EEUU"**
+
+- ⏭️ **Salto temporal de 3 meses**: El grupo se reúne por primera vez tras entrenar con sus mentores
+- 🧊 **Sentencia congela a Hotman**: Lo detiene con la mirada cuando intenta abrazarla — "Tú y yo tenemos que hablar"
+- 👻 **"Banshee"**: Sentencia operó 3 meses como sidekick de Espectro; rumor público sobre nueva ayudante
+- 🎭 **Hotman transformado**: Oratoria clásica, compostura, articulación — se le prohibió decir "bro"
+- 🍽️ **Cena con Eneiros**: Restaurante El Cogollo, planta 40 del Distrito Lunar, reservado entero
+- 🇺🇸 **Revelación**: El padre de Hotman trabaja como agente de EEUU para minar la soberanía de Arcadia
+- 🏛️ **Misión**: Infiltrar el consulado de EEUU para recuperar documentos — urgente, información tiene días
+- ✅ **Grupo acepta**: Prioriza misión del consulado sobre búsqueda del origen de Diana
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Mayor salto temporal de la campaña (3 meses). Pantomima y Eslizón ausentes. Primera misión de infiltración de una instalación gubernamental extranjera.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

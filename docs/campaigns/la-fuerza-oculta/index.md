@@ -104,27 +104,27 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ## 🔮 Estado Actual (Marzo 2026)
 
-**La Fuerza Oculta** ha ascendido a **veteranos experimentados** y se ha dispersado completamente para entrenarse con mentores individuales. La Sesión 55 formalizó las asignaciones de mentoría y la subida de nivel del grupo, con cambios significativos en poderes y equipamiento.
+**La Fuerza Oculta** se ha reunido tras **3 meses de entrenamiento** con sus mentores, transformados en veteranos experimentados. La Sesión 56 marca el reencuentro del grupo y la aceptación de una misión de infiltración del consulado de EEUU para investigar la traición del padre de Hotman.
 
-**Estado del grupo (tras Sesión 55):**
+**Estado del grupo (tras Sesión 56):**
 
-- **Diana**: En entrenamiento con Belona — isla privada (~10 km de Arcadia), dureza 14, golpe por cavitación
-- **Cía/Psique**: Entrenando con Mésmero — Fuerza subida (d4→d6), Control mejorado
-- **Sentencia**: Entrenando con Espectro — microdiamantes subdérmicos, armadura Metacorp +8, pistolas Laser Eagle con control letal
-- **Hotman**: En entrenamiento con Eneiros (2 meses, incomunicado) — Performance y Persuadir mejorados
-- **Pantomima**: En casa de Mésmero — pendiente de subida de nivel
+- **Sentencia**: Veterana, alias "Banshee" (sidekick de Espectro), piel impenetrable — en ruta al consulado
+- **Hotman**: Veterano, orador clásico articulado, gafas con streaming — en ruta al consulado
+- **Diana**: Veterana, curtida en combate con Belona, bronceada — en ruta al consulado
+- **Cía/Psique**: Veterana, educación cultural con Mésmero, madurada — en ruta al consulado
+- **Pantomima**: Ausente (Xavi en Uruguay) — pendiente de subida de nivel
 - **Eslizón**: Ausente, con los cachorros bestiales
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Entrenamiento con mentores**: Cada PJ con su mentor — Hotman/Eneiros, Sentencia/Espectro, Diana/Belona, Sique/Mésmero
+- **Misión del consulado de EEUU**: Infiltración urgente para obtener documentos sobre la traición del padre de Hotman
+- **Padre de Hotman = agente de EEUU**: Trabaja para minar la soberanía de Arcadia; EEUU creó el campo antimeta
 - **Entrega de Hotman**: Comprometido a entregarse a la justicia tras completar la misión del grupo
-- **Carpeta "Sentencias"**: Espectro conoce su existencia — canalizará los impulsos de Sentencia sin matar
+- **"Banshee"**: Identidad secreta de Sentencia como sidekick de Espectro — rumor público
+- **Origen de Diana**: Información en mansión Fatum; su origen podría ser clave para crear 2M de cuerpos
 - **Liberación de las almas**: Encontrar el Ka para liberar dos millones de almas egipcias
-- **Conexión padre de Hotman**: El chip y todo lo sucedido está relacionado con su padre
 - **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto
-- **Ana Montenegro en casa de Mésmero**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
-- **Manipulación externa**: Alguien desde EE.UU. (¿Blackwater?) orquesta los eventos contra el grupo
+- **Manipulación externa**: EEUU confirmado como orquestador de los eventos contra Arcadia
 
 ---
 

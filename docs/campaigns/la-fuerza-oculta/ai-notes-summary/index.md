@@ -839,4 +839,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 15/03/2026 - El Reencuentro y la Misión del Consulado](2026-03-15-gemini-notes.md)
+**"Reencuentro tras 3 Meses y Misión de Infiltración del Consulado de EEUU"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Metamorfosis**: Cada personaje regresa transformado del entrenamiento — identidad, no solo habilidades
+- **El Peso de la Paternidad**: El padre de Hotman no solo es villano personal — es traidor nacional
+- **Fuerza Oculta Literal**: Por primera vez operan como su nombre indica — clandestinidad total
+- **Injerencia Extranjera**: EEUU como antagonista eleva las stakes a nivel geopolítico
+
+**🔍 Revelaciones Clave:**
+- **Padre de Hotman = agente de EEUU**: Trabaja para minar la soberanía de Arcadia, posible vendedor de metahumanos
+- **EEUU creó el campo antimeta**: Y capturó a Arcadio hace ~15 años
+- **Sentencia operó como "Banshee"**: 3 meses de sidekick de Espectro, rumor público existente
+- **Diana = clave para los 2M de cuerpos**: Su origen (fabricada) podría ser la solución
+- **Eneiros tiene ~90 años**: Enormemente influyente y conectado pese a su estilo de vida
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Mayor salto temporal de la campaña (3 meses). Primera misión de infiltración de instalación gubernamental extranjera. Tensión no resuelta Sentencia-Hotman.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

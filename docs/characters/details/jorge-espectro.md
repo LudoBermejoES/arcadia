@@ -52,6 +52,8 @@ Jorge es propietario y director de **"Fuerzas de Seguridad Wraith"**, una compa�
 - [Genesis Session 02]({{ site.baseurl }}/campaigns/genesis/session-02/)
 - [Genesis Session 03]({{ site.baseurl }}/campaigns/genesis/session-03/)
 - [Genesis Session 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
+- [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría con Sentencia, revelación como sociópata reconvertido
+- [AI Notes 2026-03-08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-08-gemini-notes/)
 
 ## Vida Familiar
 
@@ -108,7 +110,7 @@ Jorge cita al grupo tras el incidente con monos dorados para abordar problemas d
 
 #### **Mentorías Específicas**
 
-- **Sentencia**: Provisión de munición no letal, consejos sobre control de daño y coordinación del procedimiento de microdiamantes subdérmicos con [Hope M.]({{ site.baseurl }}/characters/details/hope-m/)
+- **Sentencia**: Provisión de munición no letal, consejos sobre control de daño y coordinación del procedimiento de microdiamantes subdérmicos con [Hope M.]({{ site.baseurl }}/characters/details/hope-m/). **Mentoría iniciada (Marzo 2026)**: Sentencia le reveló su carpeta de "Sentencias" y Espectro no desaprobó, pero advirtió que *"hay cosas peores que la muerte"*. Controla la autorización de sus armas letales (pistolas Laser Eagle) y mantiene comunicación directa mediante micrófono craneal incrustado
 - **Hotman**: Armadura discreta pese a impacto en imagen pública
 - **Psique**: Equipamiento básico no letal (táser, spray, granadas)
 - **Kayface**: Entrenamiento en combate cuerpo a cuerpo con porra
@@ -125,10 +127,19 @@ Jorge mantiene una postura crítica hacia la independencia total de La Fuerza Oc
 - **Fotografía analógica**: Proporciona Polaroid cuando tecnología digital falla en Barrio Gótico
 - **Legado de Génesis**: Mantiene conexión con el pasado mientras sirve al presente
 
+### **Sociópata Reconvertido (Revelación Marzo 2026)**
+
+En la Sesión 55, se revela que Espectro es un **sociópata reconvertido**: un individuo que ha canalizado sus impulsos destructivos naturales en una filosofía de **"castigar sin matar"**. Esta revelación recontextualiza toda su trayectoria:
+
+- **Naturaleza oculta**: Su frialdad característica y su capacidad para operar sin remordimientos aparentes tienen raíz en una sociopatía controlada
+- **Canalización constructiva**: En lugar de dejarse llevar por impulsos destructivos, los ha redirigido hacia la justicia — castigando criminales sin cruzar la línea de la muerte
+- **Conexión con Sentencia**: La frialdad de ambos sincroniza de forma natural, lo que horroriza a Sique. Espectro ve en Sentencia a alguien con una frialdad similar que necesita guía para no cruzar líneas irreversibles
+- **Filosofía profunda**: Su advertencia *"hay cosas peores que la muerte"* cobra un significado personal — él conoce esas cosas peores porque las ha sentido como impulsos propios
+
 ## Evolución del Personaje
 
 Jorge ha evolucionado de miembro de equipo a mentor independiente, manteniendo su naturaleza observadora mientras asume responsabilidades de guía. Su base en el Barrio Gótico sugiere comodidad con elementos sobrenaturales y místicos, apropiado para alguien cuya naturaleza espectral lo conecta con lo intangible.
 
-Su enfoque en equipamiento no letal y entrenamiento especializado refleja una maduración en su comprensión del heroísmo: no se trata solo de derrotar enemigos, sino de preservar vida mientras se protege la sociedad. Esta filosofía lo posiciona como puente entre el pragmatismo de La Familia y los ideales evolucionados de las nuevas generaciones.
+Su enfoque en equipamiento no letal y entrenamiento especializado refleja una maduración en su comprensión del heroísmo: no se trata solo de derrotar enemigos, sino de preservar vida mientras se protege la sociedad. Esta filosofía lo posiciona como puente entre el pragmatismo de La Familia y los ideales evolucionados de las nuevas generaciones. La revelación de su sociopatía reconvertida añade una capa de profundidad: su insistencia en métodos no letales no es solo filosofía heroica, sino un mecanismo personal de control sobre su propia naturaleza.
 
 **Su relación con Francisco añade una dimensión profundamente humana a su personaje**, mostrando cómo los héroes mantienen conexiones familiares significativas que influyen en su identidad heroica.

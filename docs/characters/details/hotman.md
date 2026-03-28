@@ -367,6 +367,26 @@ Sale a entregarse pero **queda atrapado**:
 - Hotman y Sentencia se despiden con un **beso**
 - Parte con Oneiros dejando al grupo en la mansión de Mulcifer
 
+### Fase XIII: Mentoría de Eneiros (8 Marzo 2026)
+
+**Confrontación Directa**:
+
+- Eneiros confronta a Hotman: *"¿Quisiste matar a esa metacorp?"*
+- Hotman admite que actuó impulsivamente por miedo a lo que le pasara a Justa
+- Eneiros declara que **todos son culpables** — la diferencia es que Hotman fue la mano ejecutora
+
+**Acuerdo de Entrenamiento**:
+
+- **2 meses de entrenamiento** con Eneiros en comunicación y control emocional
+- Hotman estará **incomunicado**: sin teléfono, solo línea fija para hablar con Sentencia
+- Nuevas habilidades adquiridas: Performance (d4), Persuadir mejorado
+- **Nuevo uniforme**: gafas que graban/emiten en tiempo real, chaqueta dorada de torero (comparada con Booster Gold)
+
+**Compromiso con la Justicia**:
+
+- Hotman se compromete a **entregarse a la justicia** tras completar la misión del grupo
+- Sentencia pide a Eneiros que cuide de Hotman
+
 ---
 
 ## 🔗 Relaciones
@@ -396,7 +416,7 @@ Sale a entregarse pero **queda atrapado**:
 
 **Espectro**: Proveedor de equipamiento protector, mentor ocasional
 
-**[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Rechazó ser su mentor/patrón, pero lo rescató en Isla Sal
+**[Eneiros]({{ site.baseurl }}/characters/details/eneiros/)**: Rechazó ser su mentor/patrón inicialmente, pero lo rescató en Isla Sal. Actualmente su **mentor oficial** — 2 meses de entrenamiento en comunicación y control emocional. Le confrontó directamente sobre la muerte del Metacorp y le exige responsabilidad
 
 ### Familia
 
@@ -450,15 +470,15 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ---
 
-## 📊 Estado Actual (Febrero 2026)
+## 📊 Estado Actual (Marzo 2026)
 
-### 🔥 ENTRENAMIENTO CON ONEIROS
+### 🔥 ENTRENAMIENTO CON ENEIROS
 
-**Estado**: En entrenamiento intensivo con Oneiros (22 Febrero 2026)
+**Estado**: En entrenamiento intensivo con Eneiros (8 Marzo 2026)
 
-Tras superar su crisis existencial en el Barrio Gótico (donde conoció a Oneiros), Hotman ha aceptado dos semanas de entrenamiento intensivo para aprender a controlar su poder de vuelo y sus límites térmicos. Se despidió de Sentencia con un beso antes de partir. La revelación de Mésmero sobre el 60% de las acciones de su padre intervenidas por el gobierno de EE.UU. cambia el panorama familiar — su padre ya no es tan poderoso como parecía.
+Tras las dos semanas iniciales con Oneiros, Eneiros ha asumido la mentoría formal de Hotman. Le confrontó directamente sobre la muerte del Metacorp y acordaron un programa de **2 meses de entrenamiento** centrado en comunicación y control emocional. Hotman está **incomunicado** — sin teléfono, solo una línea fija para hablar con Sentencia. Ha ganado nuevas habilidades: Performance (d4) y Persuadir mejorado. Lleva un **nuevo uniforme**: gafas que graban y emiten en tiempo real, y una chaqueta dorada de torero (comparada con Booster Gold). Se ha comprometido a **entregarse a la justicia** tras completar la misión del grupo. Sentencia pidió a Eneiros que cuidara de él.
 
-**Ubicación actual**: Con Oneiros, fuera del grupo (2 semanas de entrenamiento)
+**Ubicación actual**: Con Eneiros, fuera de Arcadia (2 meses de entrenamiento)
 
 ### Situación Legal
 
@@ -552,7 +572,8 @@ Tras superar su crisis existencial en el Barrio Gótico (donde conoció a Oneiro
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Escape del almacén, revelación de Mésmero, despedida y partida con Oneiros
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría de Eneiros, compromiso de entregarse a la justicia
 
 ---
 
-*Hotman representa la evolución más dramática de víctima a liberado. De niño aterrorizado a héroe que quemó su conexión con el miedo, pasó por una crisis existencial al matar a un padre de familia y encontró en el Barrio Gótico a Oneiros, que lo devolvió al camino. El 60% de las acciones de su padre están intervenidas por el gobierno de EE.UU. — la montaña que lo aplastó durante años resulta ser más frágil de lo que parecía. Ahora entrena con Oneiros durante dos semanas. Se fue con un beso de Sentencia y la promesa implícita de volver más fuerte.*
+*Hotman representa la evolución más dramática de víctima a liberado. De niño aterrorizado a héroe que quemó su conexión con el miedo, pasó por una crisis existencial al matar a un padre de familia y encontró en el Barrio Gótico a Oneiros, que lo devolvió al camino. El 60% de las acciones de su padre están intervenidas por el gobierno de EE.UU. — la montaña que lo aplastó durante años resulta ser más frágil de lo que parecía. Ahora entrena con Eneiros durante dos meses, incomunicado del mundo salvo una línea fija para hablar con Sentencia. Se comprometió a entregarse a la justicia tras completar la misión del grupo. Su nuevo uniforme — gafas de grabación y chaqueta dorada de torero — marca el comienzo de una nueva fase: la de un héroe que asume las consecuencias de sus actos.*

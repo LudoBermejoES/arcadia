@@ -554,6 +554,25 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-03-08 - Veteranos Experimentados](../ai-notes-summary/2026-03-08-gemini-notes.md)
+
+**"Mentores, subida de nivel y nuevos uniformes para La Fuerza Oculta"**
+
+- 🎓 **Eneiros acepta entrenar a Hotman**: 2 meses incomunicado, control emocional y comunicación pública
+- 🗡️ **Sentencia busca a Espectro**: Visita al cine del Barrio Gótico; Espectro acepta entrenarla con condiciones de munición no letal
+- 🧊 **Sintonía de frialdad**: La frialdad de Espectro (sociópata reconvertido) sintoniza con la nueva Sentencia — Sique queda espantada
+- 📂 **Carpeta "Sentencias" revelada**: Sentencia confiesa su lista de objetivos; Espectro no la desaprueba
+- ⬆️ **Subida a veteranos**: Todo el grupo asciende — stats, poderes y equipamiento nuevos
+- 💎 **Microdiamantes subdérmicos**: Sentencia obtiene dureza sobrehumana con efecto opalino + armadura Metacorp +8
+- 🦐 **Golpe por cavitación**: Diana adquiere ataque a distancia tipo camarón mantis; dureza total 14
+- 👔 **Nuevos uniformes**: Hotman con gafas de streaming y chaquetilla torera dorada
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Sesión de transición — todo el grupo asciende a veteranos experimentados. Pantomima (Xavi) ausente. El grupo se separa para entrenar con mentores individuales.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

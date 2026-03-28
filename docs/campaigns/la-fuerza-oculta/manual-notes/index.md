@@ -393,13 +393,24 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
   - Hotman parte con Oneiros para 2 semanas de entrenamiento; Sentencia y Hotman se despiden con un beso
   - Eslizón ausente esta sesión
 
+- **[Sesión 55 - 8 Marzo 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/)** - *"Veteranos Experimentados"*
+  - 🎓 **Eneiros acepta entrenar a Hotman**: 2 meses incomunicado, control emocional y comunicación pública
+  - 🗡️ **Sentencia busca a Espectro**: Visita al cine; Espectro acepta con condición de munición no letal
+  - 🧊 **Carpeta "Sentencias" revelada**: Sentencia confiesa su lista; Espectro no la desaprueba
+  - ⬆️ **Subida a veteranos**: Todo el grupo asciende — stats, poderes y equipamiento nuevos
+  - 💎 **Microdiamantes subdérmicos**: Sentencia obtiene dureza sobrehumana con efecto opalino
+  - 🦐 **Golpe por cavitación**: Diana adquiere ataque a distancia; dureza total 14
+  - 👔 **Nuevos uniformes** presentados para todo el grupo
+
+**Temas Clave**: Mentoría, responsabilidad colectiva, transformación física, el espejo oscuro Sentencia-Espectro
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 48 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Febrero 2026 (24 meses)
+- **Total de Sesiones**: 49 sesiones documentadas (1 sin notas)
+- **Período Cubierto**: Marzo 2024 - Marzo 2026 (25 meses)
 - **Páginas Estimadas**: ~635 páginas de notas detalladas
 - **Horas de Juego**: ~128 horas registradas
 

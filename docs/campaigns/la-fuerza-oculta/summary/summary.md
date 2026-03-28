@@ -2285,3 +2285,56 @@ El narrador anuncia que el grupo sube de nivel a veteranos antes de la siguiente
 
 ---
 
+## Fase XV: Veteranos Experimentados (Marzo 2026)
+
+### Sesión 55: Veteranos Experimentados (8 marzo 2026)
+
+📎 [Manual](../manual-notes/session-55-2026-03-08.md) | [AI](../ai-notes/2026-03-08-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-03-08-gemini-notes.md)
+
+**Sesión de transición: mentores asignados, subida de nivel y nuevos uniformes para La Fuerza Oculta:**
+
+**Personajes presentes**: Hotman, Sentencia, Diana, Sique/Cía
+**Ausentes**: Pantomima (Xavi en Uruguay), Eslizón
+
+**La conversación entre Eneiros y Hotman:**
+
+Eneiros acude a casa de Mésmero para hablar con Hotman. La pregunta clave: *"¿Quisiste matar a esa metacorp?"*. Hotman responde que actuó impulsivamente al sentirse atacado por gente no identificada. El grupo relata el incidente con el tío de Sentencia como evidencia de ataques antimetahumanos, pero Eneiros los confronta: *"No sois tan importantes"*.
+
+Eneiros declara que **todos son culpables y responsables** — la diferencia es que Hotman fue la mano ejecutora. Compara la situación con la de Mésmero (cinco años preso por muerte indirecta de un metacorp). Acuerdo final: Eneiros entrenará a Hotman durante **dos meses** en comunicación pública y control emocional. Hotman permanecerá incomunicado, con acceso solo a teléfono fijo para hablar con Sentencia. Condición: se compromete a entregarse a la justicia tras completar la misión del grupo.
+
+Sentencia pide a Eneiros que cuide a Hotman. Eneiros responde: *"Soy muy serio con eso."*
+
+**El pacto entre Sentencia y Espectro:**
+
+Sentencia llama a Espectro, su antiguo profesor de tecnología. Mésmero contacta a Espectro por teléfono rotatorio y les autoriza a visitarlo en el cine abandonado del Barrio Gótico.
+
+Espectro los recibe con traje y máscara (nunca se los quita), haciendo dominadas. Sentencia le pide directamente que la entrene. Espectro establece condiciones: **munición no letal obligatoria** y permiso expreso para armas letales. Le pide que revele su "agenda oculta". Sentencia, tras dudas, confiesa la existencia de su **carpeta "Sentencias"**.
+
+Espectro no la desaprueba — pero advierte: *"Hay cosas peores que la muerte, y ya te lo enseñaré."* Se revela como un **sociópata reconvertido** que ha canalizado sus impulsos en castigar sin matar. La frialdad de Espectro sintoniza perfectamente con la nueva frialdad de Sentencia. Sique observa espantada.
+
+**Subida de nivel — veteranos experimentados:**
+
+Todo el grupo asciende a rango de **veterano experimentado**, desbloqueando ventajas con prerequisito "E".
+
+- **Hotman**: Performance (d4) y Persuadir — orientado a comunicación pública
+- **Sique**: Fuerza (d4 → d6) y Control
+- **Sentencia**: Espíritu subido; **microdiamantes subdérmicos** (efecto opalino), **armadura Metacorp +8**, **pistolas Laser Eagle** con control letal de Espectro, **micrófono craneal**
+- **Diana**: Espíritu (d6 → d8); **dureza total 14**, **golpe por cavitación** (camarón mantis), esquiva nivel C, parada nivel 5, zancada, trepamuros
+
+**Nuevos uniformes:**
+
+Se presentan los nuevos diseños. Hotman con gafas que graban y transmiten en tiempo real y chaquetilla torera dorada (comparaciones con Booster Gold). Debate sobre la madurez visual de los personajes. Se bromea con cambiar el nombre a "Las Furias y el Tonto".
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Hotman | Iniciando entrenamiento (2 meses) con Eneiros | Fuera de Arcadia |
+| Sentencia | Iniciando entrenamiento con Espectro | Cine del Barrio Gótico |
+| Diana | En entrenamiento con Belona | Isla privada de Belona |
+| Sique/Cía | En entrenamiento con Mésmero | Casa de Mésmero |
+| Pantomima | En espera (pendiente subida de nivel) | Casa de Mésmero |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+---
+

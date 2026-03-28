@@ -817,4 +817,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 08/03/2026 - Veteranos Experimentados](2026-03-08-gemini-notes.md)
+**"Mentores, Subida de Nivel y Nuevos Uniformes"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Búsqueda de Mentores**: Cada miembro encuentra un guía que refleja sus necesidades — Eneiros/Hotman, Espectro/Sentencia
+- **El Espejo Oscuro**: La sintonía entre Espectro (sociópata reconvertido) y la nueva frialdad de Sentencia — camino sin matar
+- **Responsabilidad Colectiva**: Eneiros rompe la narrativa de "Hotman como problema" — todos son culpables
+- **Transformación Física como Metáfora**: Nuevos uniformes y poderes reflejan quién se están convirtiendo
+
+**🔍 Revelaciones Clave:**
+- **Espectro es sociópata reconvertido**: Ha canalizado impulsos destructivos en "castigar sin matar"
+- **Sentencia revela carpeta "Sentencias"** a Espectro — él no la desaprueba pero canalizará sus impulsos
+- **Microdiamantes subdérmicos**: Biotecnología que otorga dureza sobrehumana a Sentencia — efecto opalino
+- **Laser Eagle**: Nuevas pistolas de Sentencia requieren autorización de Espectro para modo letal
+- **Hotman se compromete a entregarse** a la justicia tras completar la misión del grupo
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Sesión de transición mecánica — todo el grupo asciende a veteranos experimentados. Pantomima (Xavi) ausente; pendiente de subida de nivel. El grupo se separa completamente para entrenar con mentores individuales.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

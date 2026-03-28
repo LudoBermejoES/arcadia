@@ -229,7 +229,7 @@ Justa McKomick es una metahumana sin superpoderes convencionales que compensa co
 - Proveedor de munición no letal
 - Mentor de filosofía heroica
 - Conexión generacional con veteranos
-- **Futuro mentor anunciado**: Táctica avanzada, explosivos, sistemas anti-poderes (pendiente de inicio)
+- **Mentor activo (desde Marzo 2026)**: Táctica avanzada, explosivos, sistemas anti-poderes. Controla autorización de armas letales de Sentencia
 - **Enlace con Hope M.**: Coordinó el contacto con la científica clandestina para el procedimiento de microdiamantes
 
 **[Comadreja]({{ site.baseurl }}/characters/details/comadreja-negra/)**:
@@ -426,6 +426,37 @@ Diana la confronta duramente sobre el pragmatismo:
 - Área prevista: táctica avanzada, explosivos, sistemas anti-poderes
 - El entrenamiento aún no ha comenzado
 
+### Fase XI: Mentoría con Espectro y Transformación a Veterana (Marzo 2026)
+
+**Contacto con Espectro**:
+
+- Sentencia decide llamar a Espectro, su antiguo profesor de tecnología, para pedirle entrenamiento
+- Mésmero contacta a Espectro a través de un teléfono de disco; acuerdan una visita al cine (la antigua base de Génesis)
+- Espectro acepta entrenarla bajo condiciones estrictas: **munición no letal obligatoria** y **autorización requerida para armas letales**
+
+**Revelación del Archivo "Sentencias"**:
+
+- Sentencia muestra a Espectro su carpeta de "Sentencias" — el registro de personas que ha sentenciado
+- Espectro no desaprueba, pero advierte: *"Hay cosas peores que la muerte"*
+- La frialdad de ambos sincroniza perfectamente — Sique queda horrorizada al presenciarlo
+
+**Espectro: Sociópata Reconvertido**:
+
+- Se revela que Espectro es un **sociópata reconvertido** que ha canalizado sus impulsos destructivos
+- Su filosofía de "castigar sin matar" cobra nuevo significado a la luz de esta revelación
+- La conexión entre mentor y aprendiz se basa en una frialdad compartida que resulta inquietante para los demás
+
+**Subida a Veterana**:
+
+- Sentencia sube de nivel a **veterana**
+- **Espíritu** mejorado como parte de la evolución del personaje
+
+**Nuevo Equipamiento**:
+
+- **Armadura Metacorp +8** (no cubre el rostro)
+- **Pistolas Laser Eagle** (modo letal requiere autorización explícita de Espectro)
+- **Micrófono craneal incrustado** para comunicación directa con Espectro
+
 ---
 
 ## 📊 Estado Actual (Febrero 2026)
@@ -457,6 +488,9 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - Cargadores de balas de silicona
 - Acceso a red de arsenales (tío Roberto)
 - Chaleco de kevlar (objetivo pendiente)
+- Armadura Metacorp +8 (no cubre rostro)
+- Pistolas Laser Eagle (requieren autorización de Espectro para modo letal)
+- Micrófono craneal incrustado (comunicación directa con Espectro)
 
 **Modificaciones Físicas**:
 
@@ -557,6 +591,8 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Escape del almacén, crisis de la pistola y decisión sobre el tío
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría con Espectro y subida a veterana
+- [AI Notes 2026-03-08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-08-gemini-notes/)
 
 ---
 

@@ -510,6 +510,34 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+### Marzo 2026
+
+#### [📝 Sesión 8 de Marzo (Sesión 55)](../manual-notes/session-55-2026-03-08/)
+**"Veteranos Experimentados"**
+- 🎓 **Mentores**: Eneiros acepta entrenar a Hotman (2 meses, incomunicado); Sentencia busca a Espectro en el cine del Barrio Gótico
+- 🗡️ **Pacto con Espectro**: Sentencia acepta munición no letal; revela su carpeta "Sentencias"; Espectro (sociópata reconvertido) sintoniza con su frialdad
+- ⬆️ **Subida de Nivel**: Todo el grupo asciende a veteranos experimentados — nuevos stats, poderes y equipamiento
+- 💎 **Sentencia**: Microdiamantes subdérmicos (efecto opalino), armadura Metacorp +8, pistolas Laser Eagle con control letal de Espectro
+- 🦐 **Diana**: Dureza 14, golpe por cavitación (camarón mantis), trepamuros, zancada mejorada
+- 🧠 **Sique**: Fuerza d4→d6, Control mejorado
+- 🔥 **Hotman**: Performance (d4), Persuadir mejorado — orientado a comunicación pública
+- 👔 **Nuevos uniformes**: Hotman con gafas de streaming y chaquetilla torera dorada
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación | Mentor |
+|-----------|--------|-----------|--------|
+| Hotman | Entrenamiento (2 meses) | Con Eneiros, fuera de Arcadia | Eneiros |
+| Sentencia | Entrenamiento | Cine del Barrio Gótico | Espectro |
+| Diana | Entrenamiento | Isla de Belona | Belona |
+| Sique/Cía | Entrenamiento | Casa de Mésmero | Mésmero |
+| Pantomima | En espera | Casa de Mésmero | Pendiente |
+| Eslizón | Ausente | Con los cachorros bestiales | — |
+
+**Temas Clave**: Mentoría y crecimiento, responsabilidad colectiva, el espejo oscuro Sentencia-Espectro, transformación física como metáfora
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

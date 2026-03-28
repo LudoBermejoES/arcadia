@@ -102,26 +102,24 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ---
 
-## 🔮 Estado Actual (Febrero 2026)
+## 🔮 Estado Actual (Marzo 2026)
 
-**La Fuerza Oculta** está dispersa en distintos procesos de entrenamiento. Tras las sesiones 51-53 (batalla en el almacén portuario, transformación de Sentencia, planificación en casa de Mésmero), el grupo sube de nivel a veteranos antes de la siguiente sesión. La sesión 54 centró exclusivamente en Diana y Cía, con el viaje de Diana a la isla de su tía Belona para iniciar entrenamiento marcial avanzado.
+**La Fuerza Oculta** ha ascendido a **veteranos experimentados** y se ha dispersado completamente para entrenarse con mentores individuales. La Sesión 55 formalizó las asignaciones de mentoría y la subida de nivel del grupo, con cambios significativos en poderes y equipamiento.
 
-**Estado del grupo (tras Sesión 54):**
+**Estado del grupo (tras Sesión 55):**
 
-- **Diana**: En entrenamiento con Belona — isla privada (~10 km de Arcadia), separada de Cía durante el período formativo
-- **Cía/Psique**: En casa de Mésmero, escribiendo diario; entrenamiento telepático con Mésmero
-- **Sentencia**: Transformada, entrenando con Espectro
-- **Hotman**: En entrenamiento con Oneiros (fuera de Arcadia)
-- **Pantomima**: En buen estado, en casa de Mésmero
+- **Diana**: En entrenamiento con Belona — isla privada (~10 km de Arcadia), dureza 14, golpe por cavitación
+- **Cía/Psique**: Entrenando con Mésmero — Fuerza subida (d4→d6), Control mejorado
+- **Sentencia**: Entrenando con Espectro — microdiamantes subdérmicos, armadura Metacorp +8, pistolas Laser Eagle con control letal
+- **Hotman**: En entrenamiento con Eneiros (2 meses, incomunicado) — Performance y Persuadir mejorados
+- **Pantomima**: En casa de Mésmero — pendiente de subida de nivel
 - **Eslizón**: Ausente, con los cachorros bestiales
-
-**Próxima sesión**: Todos los PJ suben a rango veterano — aumento significativo de poder
 
 ### 🎯 **Arcos Narrativos Activos**
 
-- **Entrenamiento de Diana con Belona**: Separación de Cía como precio del crecimiento — ¿cuánto dura? ¿qué aprende?
-- **Cía escribiendo el diario**: Período de separación y reflexión — ¿qué revela sobre su identidad?
-- **Subida de nivel a veteranos**: Todos los PJ mejoran — Diana tiene 5 puntos de rigor por decidir (armadura/ventaja marcial)
+- **Entrenamiento con mentores**: Cada PJ con su mentor — Hotman/Eneiros, Sentencia/Espectro, Diana/Belona, Sique/Mésmero
+- **Entrega de Hotman**: Comprometido a entregarse a la justicia tras completar la misión del grupo
+- **Carpeta "Sentencias"**: Espectro conoce su existencia — canalizará los impulsos de Sentencia sin matar
 - **Liberación de las almas**: Encontrar el Ka para liberar dos millones de almas egipcias
 - **Conexión padre de Hotman**: El chip y todo lo sucedido está relacionado con su padre
 - **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto

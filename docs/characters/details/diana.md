@@ -54,6 +54,23 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 - Destrucción descontrolada de enemigos
 - Posible manifestación de herencia genética de Fatum
 
+### Mejora de Poderes (Sesión 55 - 8 Marzo 2026)
+
+**Inversión**: 5 puntos de poder gastados
+
+**Mejoras Defensivas y de Movilidad**:
+- **Dureza total: 14** - Resistencia física excepcional
+- **Esquiva nivel C** (+2 puntos) - Capacidad evasiva mejorada
+- **Parada nivel 5** (+1 punto) - Bloqueo elevado
+- **Zancada** (+2 puntos) - Velocidad de movimiento aumentada
+- **Trepamuros** (+1 punto) - Movilidad vertical
+
+**Nueva Capacidad Ofensiva**:
+- **Alcance nivel 2: "Golpe por cavitación"** - Puñetazo que rompe la barrera del sonido, similar al mecanismo de la gamba mantis (*mantis shrimp*)
+
+**Mejora de Atributo**:
+- **Espíritu**: Elevado de d6 a d8 - Mayor fortaleza mental y espiritual
+
 ### Limitaciones
 
 **Vulnerabilidades Conocidas**:
@@ -308,11 +325,11 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ---
 
-## 📊 Estado Actual (Febrero 2026)
+## 📊 Estado Actual (Marzo 2026)
 
 ### 🏠 EN LA MANSIÓN SEGURA DE MULCIFER
 
-**Estado**: Libre, instalada en mansión segura (22 Febrero 2026)
+**Estado**: Activa, veterana consolidada con poderes mejorados (Marzo 2026)
 
 Diana fue rescatada por Sentencia en el último momento durante el combate del casino: Sentencia disparó al arma del último Metacorp y Diana lo desarinó, escapando toda la fuerza en la furgoneta. Después del refugio en casa de Mésmero, el grupo se ha trasladado a la **mansión segura que Mulcifer cedió** a Diana y Sique. En la sesión 53, Diana bloqueó físicamente una torreta para proteger al grupo durante la huída del almacén.
 
@@ -328,6 +345,9 @@ Diana fue rescatada por Sentencia en el último momento durante el combate del c
 - Combate directo devastador
 - Coordinación sin comunicación verbal
 - **Capacidad letal demostrada**: Mata enemigos sin remordimiento aparente en combate
+- **Golpe por cavitación**: Ataque a distancia que rompe la barrera del sonido (Sesión 55)
+- **Dureza 14**: Resistencia física de nivel veterano
+- **Movilidad mejorada**: Zancada y trepamuros para combate tridimensional
 
 ### Situación Emocional
 
@@ -430,6 +450,7 @@ Diana fue rescatada por Sentencia en el último momento durante el combate del c
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Bloquea torreta físicamente en escape del almacén
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mejora de poderes (5 puntos)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales

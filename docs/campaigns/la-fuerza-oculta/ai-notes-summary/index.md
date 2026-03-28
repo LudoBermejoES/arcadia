@@ -861,4 +861,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 22/03/2026 - Vigilancia y el Trato con Sara 10](2026-03-22-gemini-notes.md)
+**"Vigilancia del Consulado, Cambio de Base y Trato con Sara 10 por un PEM"**
+
+**🎯 Temas Centrales Identificados:**
+- **Operación de inteligencia**: El grupo realiza vigilancia profesional del consulado, descubriendo alta seguridad y un café con cámaras sospechosas
+- **Límites de la hospitalidad**: Mésmero expulsa al grupo de su casa porque El Faraón está presente — las alianzas tienen condiciones
+- **Economía de favores**: Sara 10 no regala nada — el PEM tiene un precio: la piedra Arcadita del museo
+- **Escalada de riesgo**: De infiltrar un consulado extranjero a planificar un robo en un museo público
+
+**🔍 Revelaciones Clave:**
+- **Consulado fuertemente vigilado**: Alta seguridad con café lleno de cámaras enfrente — posible punto de observación del propio consulado
+- **Richard Catwall**: Descubierto durante la vigilancia del consulado
+- **Planos obtenidos**: Contactos proporcionan los planos del edificio del consulado
+- **El Faraón en casa de Mésmero**: Razón por la que Mésmero les pide marcharse
+- **Sara 10 exige Arcadita**: La piedra del museo es el precio por el dispositivo PEM necesario para la infiltración
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Sin notas manuales — solo transcripción IA y resumen analítico. Pantomima y Eslizón ausentes. Nuevo arco narrativo: robo de la Arcadita del museo.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

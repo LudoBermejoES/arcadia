@@ -104,19 +104,21 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ## 🔮 Estado Actual (Marzo 2026)
 
-**La Fuerza Oculta** se ha reunido tras **3 meses de entrenamiento** con sus mentores, transformados en veteranos experimentados. La Sesión 56 marca el reencuentro del grupo y la aceptación de una misión de infiltración del consulado de EEUU para investigar la traición del padre de Hotman.
+**La Fuerza Oculta** ha completado la vigilancia del consulado de EEUU y ha contactado con Sara 10 para obtener un dispositivo PEM. La Sesión 57 marca el descubrimiento de las defensas del consulado, la intervención de Mésmero para echarles de su casa, y un trato con Sara 10 que exige el robo de la piedra Arcadita del museo.
 
-**Estado del grupo (tras Sesión 56):**
+**Estado del grupo (tras Sesión 57):**
 
-- **Sentencia**: Veterana, alias "Banshee" (sidekick de Espectro), piel impenetrable — en ruta al consulado
-- **Hotman**: Veterano, orador clásico articulado, gafas con streaming — en ruta al consulado
-- **Diana**: Veterana, curtida en combate con Belona, bronceada — en ruta al consulado
-- **Cía/Psique**: Veterana, educación cultural con Mésmero, madurada — en ruta al consulado
+- **Sentencia**: Veterana, alias "Banshee", piel impenetrable — en el piso de Ana Montenegro
+- **Hotman**: Veterano, orador clásico articulado — en el piso de Ana Montenegro
+- **Diana**: Veterana, curtida en combate — en el piso de Ana Montenegro
+- **Cía/Psique**: Veterana, madurada — en el piso de Ana Montenegro
 - **Pantomima**: Ausente (Xavi en Uruguay) — pendiente de subida de nivel
 - **Eslizón**: Ausente, con los cachorros bestiales
 
 ### 🎯 **Arcos Narrativos Activos**
 
+- **Robo de Arcadita del museo**: Sara 10 exige la piedra Arcadita a cambio del dispositivo PEM
+- **PEM de Sara 10**: Dispositivo electromagnético necesario para la infiltración del consulado
 - **Misión del consulado de EEUU**: Infiltración urgente para obtener documentos sobre la traición del padre de Hotman
 - **Padre de Hotman = agente de EEUU**: Trabaja para minar la soberanía de Arcadia; EEUU creó el campo antimeta
 - **Entrega de Hotman**: Comprometido a entregarse a la justicia tras completar la misión del grupo

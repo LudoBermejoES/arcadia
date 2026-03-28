@@ -562,18 +562,30 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 **Temas Clave**: Metamorfosis, paternidad y traición, clandestinidad total, injerencia extranjera, misión de infiltración
 
+---
+
+#### [📊 Sesión 22 de Marzo (Sesión 57)](../ai-notes-summary/2026-03-22-gemini-notes.md)
+**"Vigilancia y el Trato con Sara 10"**
+- 🔍 **Vigilancia del consulado**: Descubren alta seguridad y café sospechoso con cámaras enfrente
+- 🕵️ **Richard Catwall**: Identificado durante la vigilancia
+- 📐 **Planos obtenidos**: Consiguen los planos del consulado a través de contactos
+- 🚪 **Mésmero les echa**: El Faraón está en su casa — el grupo debe marcharse
+- 🏠 **Nueva base**: Se trasladan al piso de Ana Montenegro
+- 📡 **Sara 10 contactada**: A través de Espectro, piden un dispositivo PEM
+- 💎 **El trato**: Sara 10 exige el robo de la piedra Arcadita del museo a cambio
+
 **Estado Final del Grupo:**
 
-| Personaje | Estado | Ubicación | Mentor |
-|-----------|--------|-----------|--------|
-| Hotman | Entrenamiento (2 meses) | Con Eneiros, fuera de Arcadia | Eneiros |
-| Sentencia | Entrenamiento | Cine del Barrio Gótico | Espectro |
-| Diana | Entrenamiento | Isla de Belona | Belona |
-| Sique/Cía | Entrenamiento | Casa de Mésmero | Mésmero |
-| Pantomima | En espera | Casa de Mésmero | Pendiente |
-| Eslizón | Ausente | Con los cachorros bestiales | — |
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee | Piso de Ana Montenegro |
+| Hotman | Veterano, orador clásico | Piso de Ana Montenegro |
+| Diana | Veterana, curtida en combate | Piso de Ana Montenegro |
+| Sique/Cía | Veterana, madurada | Piso de Ana Montenegro |
+| Pantomima | Ausente | Desconocida |
+| Eslizón | Ausente | Con cachorros bestiales |
 
-**Temas Clave**: Mentoría y crecimiento, responsabilidad colectiva, el espejo oscuro Sentencia-Espectro, transformación física como metáfora
+**Temas Clave**: Inteligencia y vigilancia, límites de las alianzas, economía de favores, escalada de riesgo
 
 ---
 

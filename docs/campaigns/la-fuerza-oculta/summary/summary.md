@@ -2391,3 +2391,43 @@ Eneiros ofrece al grupo infiltrar el **consulado de EEUU** para recuperar docume
 
 ---
 
+### Sesión 57: Vigilancia y el Trato con Sara 10 (22 marzo 2026)
+
+📎 [AI](../ai-notes/2026-03-22-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-03-22-gemini-notes.md)
+
+**Vigilancia del consulado de EEUU y trato con Sara 10 para obtener un dispositivo PEM:**
+
+**Personajes presentes**: Hotman, Sentencia, Diana, Sique/Cía
+**Ausentes**: Pantomima (Xavi en Uruguay), Eslizón (Sugus no asiste)
+
+**⚠️ Sin notas manuales** — solo transcripción IA y resumen analítico.
+
+**Vigilancia del consulado:**
+
+El grupo se dirige al consulado de EEUU para reconocimiento. Descubren un edificio con **alta seguridad** y, enfrente, un **café sospechoso repleto de cámaras** — posiblemente un punto de observación del propio consulado. Durante la vigilancia identifican a **Richard Catwall**. A través de contactos, consiguen obtener los **planos del edificio** del consulado.
+
+**Mésmero les echa:**
+
+Al regresar a casa de Mésmero, este les pide que se marchen. La razón: **El Faraón está allí**. Mésmero no puede tenerlos a todos bajo el mismo techo. El grupo debe buscar otro lugar.
+
+**Nueva base — Piso de Ana Montenegro:**
+
+Se trasladan al **apartamento de Ana Montenegro**, que se convierte en su nueva base de operaciones.
+
+**El trato con Sara 10:**
+
+A través de **Espectro**, contactan con **Sara 10** (Mecánica) para solicitar un **dispositivo PEM** (pulso electromagnético) necesario para la infiltración del consulado. Sara 10 no regala nada: exige a cambio que el grupo **robe la piedra Arcadita del museo de Arcadia**. El grupo acepta el trato, añadiendo una nueva misión antes de poder completar la infiltración del consulado.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee, piel impenetrable | Piso de Ana Montenegro |
+| Hotman | Veterano, orador clásico | Piso de Ana Montenegro |
+| Diana | Veterana, curtida en combate | Piso de Ana Montenegro |
+| Sique/Cía | Veterana, madurada | Piso de Ana Montenegro |
+| Pantomima | Ausente | Desconocida |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+---
+

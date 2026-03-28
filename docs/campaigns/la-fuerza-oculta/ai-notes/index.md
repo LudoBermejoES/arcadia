@@ -592,6 +592,24 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-03-22 - Vigilancia y el Trato con Sara 10](../ai-notes-summary/2026-03-22-gemini-notes.md)
+
+**"Vigilancia del consulado, descubrimiento de defensas y trato con Sara 10 para obtener un PEM"**
+
+- 🔍 **Vigilancia del consulado**: Descubren alta seguridad y un café sospechoso lleno de cámaras frente al edificio
+- 🕵️ **Richard Catwall**: Identificado como contacto clave en la vigilancia del consulado
+- 📐 **Planos del consulado**: Obtienen los planos del edificio a través de contactos
+- 🚪 **Mésmero les echa**: Mésmero pide al grupo que se vaya de su casa — El Faraón está allí
+- 🏠 **Piso de Ana Montenegro**: Se trasladan al apartamento de Ana Montenegro como nueva base
+- 📡 **Contacto con Sara 10**: A través de Espectro, contactan a Sara 10 para obtener un dispositivo PEM
+- 💎 **El trato**: Sara 10 exige a cambio que roben la piedra Arcadita del museo de Arcadia
+
+**Duración**: ~2.5 horas | **Jugadores**: Hotman (Jandro), Sentencia (Edu), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Sin notas manuales — solo transcripción IA y resumen analítico. Pantomima y Eslizón ausentes. Cambio de base operativa y nuevo arco de robo al museo.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

@@ -13,14 +13,14 @@ slug: eneiros
 
 ## Información Básica
 
-**Edad**: Más de 80 años (aparenta cuarenta y tantos)
+**Edad**: Aproximadamente 90 años (aparenta cuarenta y tantos)
 **Residencia**: "El Retiro del Sol" - Mansión exclusiva en el Distrito Biónico, Isla Sal
 **Estatus**: Héroe legendario, filántropo, figura pública
 **Títulos**: "Metahumano más sexy" (sexto año consecutivo)
 
 ## Presentación
 
-Eneiros es una figura legendaria de Arcadia, un héroe inmortal cuya verdadera edad supera los ochenta años, aunque su apariencia no delata más de cuarenta y tantos. Ganador por sexto año consecutivo del título "metahumano más sexy" y reconocido como uno de los metahumanos más deseados y queridos de la ciudad, Eneiros ha trascendido su rol heroico para convertirse en un ícono cultural y una leyenda viviente.
+Eneiros es una figura legendaria de Arcadia, un héroe inmortal cuya verdadera edad ronda los noventa años, aunque su apariencia no delata más de cuarenta y tantos. Ganador por sexto año consecutivo del título "metahumano más sexy" y reconocido como uno de los metahumanos más deseados y queridos de la ciudad, Eneiros ha trascendido su rol heroico para convertirse en un ícono cultural y una leyenda viviente.
 
 ## El Señor de "El Retiro del Sol"
 
@@ -58,8 +58,49 @@ Eneiros es una figura legendaria de Arcadia, un héroe inmortal cuya verdadera e
 
 ## El Enigma de la Longevidad
 
-**Más de Ocho Décadas**: Con más de ochenta años y apariencia de cuarenta y tantos, Eneiros representa uno de los misterios metahumanos más fascinantes de Arcadia. ¿Su longevidad proviene de su conexión con el oro? ¿Es verdaderamente inmortal? ¿Qué secretos guarda su extensa vida?
+**Casi un Siglo de Vida**: Con aproximadamente noventa años y apariencia de cuarenta y tantos, Eneiros representa uno de los misterios metahumanos más fascinantes de Arcadia. ¿Su longevidad proviene de su conexión con el oro? ¿Es verdaderamente inmortal? ¿Qué secretos guarda su extensa vida?
 
 **Testigo de la Historia**: Ha vivido la evolución completa de Arcadia, desde sus primeros días hasta la era actual, convirtiendo su experiencia en un archivo viviente de la historia metahumana.
 
 **El Hombre Detrás del Mito**: Bajo el glamour y los rumores, Eneiros mantiene lealtades profundas con quienes le sirven, sugiriendo que detrás de la figura pública existe una persona con valores sólidos y compromisos genuinos.
+
+## Mentor de Hotman (2026)
+
+Eneiros aceptó ser mentor de Hotman durante un período de 2 meses, centrándose en comunicación y control emocional. El entrenamiento tuvo lugar en un barco en aguas internacionales, donde Hotman estuvo completamente incomunicado: sin teléfono móvil, con acceso únicamente a un teléfono fijo.
+
+### Programa de Entrenamiento
+
+- **Oratoria clásica**: Formación en técnicas retóricas tradicionales
+- **Retórica y filosofía**: Estudio de fundamentos argumentativos y pensamiento crítico
+- **Torneos de debate online**: Participación en competiciones de debate como práctica aplicada
+- **Prohibición absoluta**: Hotman tenía prohibido usar la palabra "bro" durante todo el entrenamiento
+
+### Actividades Paralelas
+
+Durante el período de mentoría, Eneiros también investigó las finanzas del padre de Hotman, revelando conexiones inquietantes con el gobierno de Estados Unidos. A pesar de su reputación como "crápula" -- con amantes cada noche y una vida social desbordante -- Eneiros demostró ser extremadamente serio y riguroso en su labor como mentor.
+
+## Revelaciones sobre EEUU (Sesion 56)
+
+En una cena privada en **El Cogollo**, restaurante ubicado en la planta 40 del Distrito Lunar (reservado íntegramente para la ocasión), Eneiros reveló información crítica sobre la amenaza estadounidense a la soberanía de Arcadia:
+
+- **El padre de Hotman** trabaja como agente del gobierno de Estados Unidos con la misión de socavar la soberanía de Arcadia
+- **El chip** es tecnología americana
+- **Los principales inversores** del padre de Hotman son el propio gobierno de EEUU
+- **Estados Unidos creó el campo antimeta** y capturó a Arcadio hace aproximadamente 15 años
+- Eneiros considera su deber **"limpiar" Arcadia** de injerencias extranjeras
+
+### La Mision del Consulado
+
+Eneiros ofreció a La Fuerza Oculta la misión de infiltrar el consulado como una "deferencia" -- un gesto de respeto hacia el grupo. Dejó claro que si no aceptaban, enviaría a sus propias tropas para completar la operación.
+
+## Conexion con La Fuerza Oculta
+
+- **Hotman**: Su pupilo directo, a quien entrenó durante 2 meses en comunicación y control emocional
+- **Visita a casa de Mésmero** (Sesion 55): Fue convocado para discutir la situación de Hotman tras el incidente de MetaCorp
+- **Responsabilidad colectiva**: Declaró que todos los miembros de La Fuerza Oculta son culpables del incidente de MetaCorp, no solo Hotman
+- **Compromiso legal**: Se comprometió a ayudar con la defensa legal y la rehabilitación de imagen del grupo
+
+## Apariciones
+
+- **La Fuerza Oculta** - Sesion 55
+- **La Fuerza Oculta** - Sesion 56

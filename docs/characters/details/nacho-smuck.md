@@ -20,6 +20,8 @@ Nacho trabaja como conductor profesional en Arcadia, operando tanto como taxista
 ## Apariciones Documentadas
 - [La Fuerza Oculta Session 28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/)
 - [La Fuerza Oculta AI Notes 2025-08-17]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Misión de reconocimiento en el consulado con gafas de grabación
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 
 ## Detalles Adicionales
 

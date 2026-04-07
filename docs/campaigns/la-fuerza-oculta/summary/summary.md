@@ -2431,3 +2431,41 @@ A través de **Espectro**, contactan con **Sara 10** (Mecánica) para solicitar 
 
 ---
 
+### Sesión 58: El Consulado Blindado y el Sacrificio de Psique (29 marzo 2026)
+
+📎 [Notas manuales](../manual-notes/session-58-2026-03-29/) | [AI](../ai-notes/2026-03-29-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-03-29-gemini-notes.md)
+
+**Infiltración fallida en el consulado de EEUU y sacrificio telepático de Psique:**
+
+**Personajes presentes**: Pantomima, Sentencia, Hotman, Diana, Sique/Cía
+**Ausentes**: Eslizón (con los cachorros bestiales)
+
+**Reconocimiento del consulado:**
+
+El grupo analiza las defensas del consulado estadounidense: muros gruesos, persianas metálicas retráctiles, detección de ADN metahumano, lectura de retina, y vigilancia extendida a comercios colindantes. Pantomima intenta entrar disfrazada de estudiante pero descubre el detector de ADN y huye. Nacho Smück es enviado con gafas de grabación para reconocimiento interno, confirmando la seguridad extrema.
+
+**Debate y votación:**
+
+Sentencia plantea tres opciones: intentarlo, echarse atrás, o buscar ayuda. Diana y Sentencia votan por buscar ayuda, Psique vota echarse atrás, Hotman se abstiene, Pantomima no se decide. El grupo reconoce que son "heavy hitters" sin habilidades de infiltración.
+
+**El sacrificio de Psique:**
+
+Psique propone una cuarta opción: inyectarse la droga potenciadora de Mentallo para controlar al cónsul a distancia. A pesar de las objeciones, se encierra y se inyecta. Experimenta un aumento masivo de poder — se siente una con Arcadia. Descubre que Mentallo no era telépata sino un científico que inventó la droga. Controla al cónsul Richard Caswell para que envíe los documentos por mensajero a Hotman y hace olvidar todo al cónsul y al mensajero.
+
+**Crisis de Psique:**
+
+Su cuerpo convulsiona, emite vapor y luz rojiza. Hotman gasta un Benny para absorber la temperatura excesiva, estabilizándola. Psique comparte la experiencia mental con el grupo. Tiene un "segundo turno" de poder sin usar.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee, piel impenetrable | Piso de Ana Montenegro |
+| Hotman | Veterano, orador clásico | Piso de Ana Montenegro |
+| Diana | Veterana, curtida en combate | Piso de Ana Montenegro |
+| Sique/Cía | Estado crítico — convulsiones, poder amplificado | Piso de Ana Montenegro |
+| Pantomima | Veterana, especialista en infiltración | Piso de Ana Montenegro |
+| Eslizón | Ausente | Con los cachorros bestiales |
+
+---
+

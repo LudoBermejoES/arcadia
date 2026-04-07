@@ -442,6 +442,8 @@ Tras la conmoción de la granada aturdidora, Sique se recuperó y demostró sus 
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Cirugía de campo excepcional (3 balas extraídas, tirada 16)
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Se inyecta la droga de Mentallo; control mental del cónsul a distancia; estado crítico
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 
 ---
 

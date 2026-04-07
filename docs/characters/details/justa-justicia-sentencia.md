@@ -627,6 +627,8 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - [AI Notes 2026-03-08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-08-gemini-notes/)
 - [Sesión 56]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/) - El Reencuentro y la Identidad Banshee
 - [AI Notes 2026-03-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Planificación táctica del consulado; idea la misión de Nacho
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 
 ---
 

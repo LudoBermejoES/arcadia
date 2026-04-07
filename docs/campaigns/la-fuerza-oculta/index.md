@@ -251,16 +251,16 @@ La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participant
 - **El Grupo→Disperso**: Refugiados con Mésmero, pero Hotman perdido en el Barrio Gótico
 - **Víctimas→Supervivientes**: De adolescentes a héroes cargando responsabilidades sobrenaturales
 
-**Estado actual (Febrero 2026):**
+**Estado actual (Marzo 2026):**
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Parcialmente reunidos - refugio en casa de Mésmero, Hotman perdido, Eslizón con cachorros |
-| **Ideología** | En transición - Sentencia transformada, grupo buscando nuevo propósito |
-| **Recursos** | Refugio temporal con Mésmero, llaves de mansión Mulcifer disponibles |
-| **Legal** | Crítico - Todos buscados, un Metacorp muerto, dos heridos graves |
-| **Físico** | Recuperándose - ungüento del Faraón aplicado |
-| **Espiritual** | Nueva misión - liberar dos millones de almas egipcias |
+| **Unidad** | Reunidos en piso de Ana Montenegro (excepto Eslizón con cachorros) |
+| **Ideología** | Erosión moral — han pasado de rechazar ayuda criminal a cometer crímenes |
+| **Recursos** | Piso de Ana Montenegro, dispositivo PEM (pendiente pago: robo de Arcadita), documentos del consulado en camino |
+| **Legal** | Crítico - Todos buscados, control mental del cónsul de EEUU añade riesgo diplomático |
+| **Físico** | Psique en estado crítico (convulsiones, droga de Mentallo). Resto estable |
+| **Espiritual** | Nueva misión - liberar dos millones de almas egipcias + documentos del padre de Hotman |
 
 **El sistema de almas egipcias:**
 - **Ba** (Personalidad): Custodiado por Mésmero

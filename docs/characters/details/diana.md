@@ -451,6 +451,8 @@ Diana fue rescatada por Sentencia en el último momento durante el combate del c
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Bloquea torreta físicamente en escape del almacén
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mejora de poderes (5 puntos)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Investigación de capacidades del consulado
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 
 ### Reflexiones Personales

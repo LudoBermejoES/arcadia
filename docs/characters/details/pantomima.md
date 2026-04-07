@@ -606,6 +606,8 @@ Pantomima fue alcanzada por dos disparos de rifle de pulsos durante la emboscada
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
 - [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) - Emboscada e Incapacitación
 - [AI Notes 2026-01-25]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Intento de infiltración del consulado; descubre detector de ADN metahumano
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 
 ---
 

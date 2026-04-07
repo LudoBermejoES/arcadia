@@ -415,6 +415,16 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 
 **Temas Clave**: Metamorfosis, paternidad y traición, clandestinidad, injerencia extranjera
 
+- **[Sesión 58 - 29 Marzo 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/)** - *"El Consulado Blindado y el Sacrificio de Psique"*
+  - 🏛️ **Reconocimiento del consulado**: Pantomima descubre detección de ADN metahumano; Nacho Smück enviado con gafas de grabación
+  - 🗳️ **Debate y votación**: El grupo reconoce que son "heavy hitters" sin habilidades de infiltración
+  - 💉 **Sacrificio de Psique**: Se inyecta la droga de Mentallo — control mental a nivel de toda Arcadia
+  - 🧠 **Mentallo revelado**: No era telépata sino un científico que inventó la droga potenciadora
+  - 🎯 **Control del cónsul Caswell**: Psique controla al cónsul para enviar documentos por mensajero a Hotman
+  - 🔥 **Crisis física de Psique**: Convulsiones, vapor, luz rojiza — Hotman absorbe la temperatura excesiva
+
+**Temas Clave**: Límites propios, sacrificio personal, erosión moral, control mental como violencia
+
 ---
 
 ## 📊 Estadísticas del Archivo Manual
@@ -507,6 +517,9 @@ Evolución de novatos a profesionales:
 
 10. **[Alianza con los 7 Abominables]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-29-2024-08-24/)** - Sesión 29
     > Cooperación inesperada con enemigos históricos contra amenaza común
+
+11. **[El Consulado Blindado y el Sacrificio de Psique]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/)** - Sesión 58
+    > Psique se inyecta la droga de Mentallo y controla al cónsul de EEUU a distancia para obtener los documentos sobre las operaciones ilegales del padre de Hotman
 
 ---
 

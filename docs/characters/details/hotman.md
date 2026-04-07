@@ -605,6 +605,8 @@ Hotman ha completado 3 meses de entrenamiento con Eneiros — en un barco en agu
 - [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) - Mentoría de Eneiros, compromiso de entregarse a la justicia
 - [Sesión 56]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/) - Reencuentro, revelación sobre el padre y misión del consulado
 - [AI Notes 2026-03-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Salva a Psique absorbiendo su temperatura excesiva
+- [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 
 ---
 

@@ -589,6 +589,34 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 29 de Marzo (Sesión 58)](../ai-notes-summary/2026-03-29-gemini-notes.md)
+**"El Consulado Blindado y el Sacrificio de Psique"**
+- 🏛️ **Consulado impenetrable**: Muros gruesos, detección de ADN metahumano, persianas metálicas, vigilancia extendida
+- 🎭 **Pantomima descubre defensa**: Intenta infiltrarse disfrazada pero detectan ADN metahumano
+- 👓 **Nacho Smück de recon**: Enviado con gafas de grabación, confirma seguridad extrema
+- 🗳️ **Debate y votación**: El grupo reconoce que son "heavy hitters", no especialistas en infiltración
+- 💉 **Sacrificio de Psique**: Se inyecta la droga de Mentallo — control telepático a nivel de toda Arcadia
+- 🧠 **Mentallo revelado**: No era telépata sino un científico que inventó la droga potenciadora
+- 🎯 **Control del cónsul**: Psique controla a Richard Caswell para enviar documentos por mensajero
+- 🔥 **Crisis física**: Convulsiones, vapor, luz rojiza — Hotman absorbe la temperatura excesiva
+
+📎 [Notas manuales](../manual-notes/session-58-2026-03-29/) | [AI](../ai-notes/2026-03-29-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-03-29-gemini-notes.md)
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Veterana, alias Banshee | Piso de Ana Montenegro |
+| Hotman | Veterano, orador clásico | Piso de Ana Montenegro |
+| Diana | Veterana, curtida en combate | Piso de Ana Montenegro |
+| Sique/Cía | Estado crítico — poder amplificado, convulsiones | Piso de Ana Montenegro |
+| Pantomima | Veterana, especialista en infiltración | Piso de Ana Montenegro |
+| Eslizón | Ausente | Con cachorros bestiales |
+
+**Temas Clave**: Límites del grupo, sacrificio personal, erosión moral, control mental como violencia
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

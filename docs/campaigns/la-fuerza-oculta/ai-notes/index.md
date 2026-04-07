@@ -610,6 +610,25 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-03-29 - Sesión 58: El Consulado Blindado y el Sacrificio de Psique](../ai-notes-summary/2026-03-29-gemini-notes.md)
+
+**"Infiltración fallida del consulado de EEUU y sacrificio telepático de Psique con droga de Mentallo"**
+
+- 🏛️ **Reconocimiento del consulado**: Muros gruesos, detección de ADN metahumano, lectura de retina, vigilancia extendida
+- 🎭 **Pantomima descubre defensa**: Intenta entrar disfrazada pero detectan su ADN metahumano
+- 👓 **Nacho Smück enviado**: Reconocimiento interno con gafas de grabación confirma seguridad extrema
+- 🗳️ **Debate y votación**: El grupo reconoce que no son especialistas en infiltración
+- 💉 **Sacrificio de Psique**: Se inyecta la droga de Mentallo — control mental a nivel de toda Arcadia
+- 🧠 **Mentallo revelado**: No era telépata sino un científico que inventó la droga potenciadora
+- 🎯 **Control del cónsul**: Psique controla a Richard Caswell para enviar documentos por mensajero
+- 🔥 **Crisis física**: Convulsiones, vapor, luz rojiza — Hotman absorbe la temperatura excesiva
+
+**Duración**: ~2.5 horas | **Jugadores**: Pantomima (Xavi), Sentencia (Edu), Hotman (Jandro), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Psique tiene un "segundo turno" de poder amplificado sin usar — pendiente para próxima sesión. Eslizón ausente.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

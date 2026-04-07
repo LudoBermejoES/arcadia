@@ -883,4 +883,24 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 29/03/2026 - Sesión 58: El Consulado Blindado y el Sacrificio de Psique](2026-03-29-gemini-notes.md)
+**"La Cuarta Opción"**
+
+**🎯 Temas Centrales Identificados:**
+- **Reconocimiento de los propios límites**: El grupo acepta que no son especialistas en infiltración
+- **El precio del heroísmo**: Psique se sacrifica inyectándose la droga de Mentallo
+- **Erosión moral**: El grupo ha pasado de rechazar ayuda criminal a cometer crímenes
+- **Control mental como violencia**: Psique viola la mente del cónsul para evitar una misión suicida
+
+**🔍 Revelaciones Clave:**
+- **Consulado de EEUU es un búnker**: Detección de ADN metahumano, lectura de retina, vigilancia extendida
+- **Mentallo no era telépata**: Era un científico que inventó una droga potenciadora telepática
+- **La droga permite control mental a distancia**: Pero con coste físico devastador
+
+**Duración**: ~2.5 horas | **Jugadores**: Pantomima (Xavi), Sentencia (Edu), Hotman (Jandro), Diana (Eslizo), Sique (Conchi)
+
+**🎯 NOTA ESPECIAL**: Psique tiene un "segundo turno" de poder amplificado sin usar — pendiente para próxima sesión
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

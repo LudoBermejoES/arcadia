@@ -903,4 +903,25 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 05/04/2026 - Sesión 59: La Entrega](2026-04-05-gemini-notes.md)
+**"Traidores, Televisión y Justicia"**
+
+**🎯 Temas Centrales Identificados:**
+- **Rendición como victoria**: La entrega pública transforma a fugitivos en héroes patriotas
+- **El poder del espectáculo**: Irrupción en TV como acto político calculado
+- **Consecuencias del sacrificio**: Psique en coma, proyección astral con límite de 48h
+- **Generaciones unidas**: Eneiros, Atropos, Espectro, Mésmero — toda la red de veteranos se activa
+
+**🔍 Revelaciones Clave:**
+- **Tres traidores identificados**: Político del partido gobernante, padre de Hotman, colaboradores
+- **Red de tráfico**: Media docena de localizaciones de retención de metahumanos en Arcadia
+- **Atropos recupera poderes**: Ana Montenegro aparece con traje de Esfinge
+- **François Chalá es Alcalde**: Ex mano derecha de Abeluengo, pragmático y político astuto
+
+**Duración**: ~2.5 horas | **Jugadores**: Sentencia (Edu), Sique (Conchi), Pantomima (Xavi), Diana (Eslizo)
+
+**🎯 NOTA ESPECIAL**: SESION CLIMATICA — La Fuerza Oculta detenida voluntariamente. Psique tiene 48h para volver a su cuerpo.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

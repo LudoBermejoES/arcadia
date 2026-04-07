@@ -607,6 +607,8 @@ Hotman ha completado 3 meses de entrenamiento con Eneiros — en un barco en agu
 - [AI Notes 2026-03-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Salva a Psique absorbiendo su temperatura excesiva
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
+- [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Padre confirmado como traidor; Eneiros le respalda públicamente; detenido
+- [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
 
 ---
 

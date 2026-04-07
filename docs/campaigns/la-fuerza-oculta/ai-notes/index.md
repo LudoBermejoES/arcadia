@@ -629,6 +629,25 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-04-05 - Sesión 59: La Entrega](../ai-notes-summary/2026-04-05-gemini-notes.md)
+
+**"Entrega voluntaria, exposición de traidores en TV y detención del grupo"**
+
+- 🧠 **Segundo turno de Psique**: Extrae nombres de traidores de la mente del cónsul — entra en coma
+- 😡 **Mésmero furioso**: Se lleva a Psique, silencia a Pantomima 24h
+- 📄 **Documentos confirmados**: Media docena de localizaciones de retención de metahumanos
+- ⚔️ **Asaltos simultáneos**: Eneiros coordina ataques a localizaciones mientras el grupo se entrega
+- 📺 **Irrupción en TeleArcadia**: Tres mensajes en directo ante el Alcalde François Chalá
+- 🏛️ **Eneiros respalda**: Confirma todo en directo, declara confianza en Hotman
+- 👻 **Psique pide disculpas**: Proyección astral se disculpa públicamente por muerte del MetaCorp
+- 🔒 **Detención voluntaria**: Grupo escoltado a comisaría, 48 MetaCorp esperan
+
+**Duración**: ~2.5 horas | **Jugadores**: Sentencia (Edu), Sique (Conchi), Pantomima (Xavi), Diana (Eslizo, tardía)
+
+**🎯 NOTA ESPECIAL**: Sesión climática — La Fuerza Oculta se entrega y expone la red de tráfico de metahumanos. Psique tiene 48h para volver a su cuerpo.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

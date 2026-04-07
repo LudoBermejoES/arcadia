@@ -189,6 +189,7 @@ Mésmero reaparece ante el grupo después del escape del almacén y pronuncia su
 - [AI Notes 2026-02-01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) - Discurso "Condenados a la grandeza" y revelación sobre el padre de Hotman
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Sesión 59 - La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Furioso; se lleva a Psique; silencia a Pantomima; crea proyección astral de Psique
 
 ---
 

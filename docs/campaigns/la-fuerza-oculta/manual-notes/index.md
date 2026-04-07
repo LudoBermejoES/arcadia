@@ -521,6 +521,9 @@ Evolución de novatos a profesionales:
 11. **[El Consulado Blindado y el Sacrificio de Psique]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/)** - Sesión 58
     > Psique se inyecta la droga de Mentallo y controla al cónsul de EEUU a distancia para obtener los documentos sobre las operaciones ilegales del padre de Hotman
 
+12. **[La Entrega — Traidores, Televisión y Justicia]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/)** - Sesión 59
+    > La Fuerza Oculta irrumpe en TeleArcadia, entrega pruebas de traidores al Alcalde en directo y se rinde voluntariamente
+
 ---
 
 ## 🎨 Valor Histórico y Narrativo

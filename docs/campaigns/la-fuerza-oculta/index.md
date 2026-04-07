@@ -251,16 +251,16 @@ La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participant
 - **El Grupo→Disperso**: Refugiados con Mésmero, pero Hotman perdido en el Barrio Gótico
 - **Víctimas→Supervivientes**: De adolescentes a héroes cargando responsabilidades sobrenaturales
 
-**Estado actual (Marzo 2026):**
+**Estado actual (Abril 2026):**
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Reunidos en piso de Ana Montenegro (excepto Eslizón con cachorros) |
-| **Ideología** | Erosión moral — han pasado de rechazar ayuda criminal a cometer crímenes |
-| **Recursos** | Piso de Ana Montenegro, dispositivo PEM (pendiente pago: robo de Arcadita), documentos del consulado en camino |
-| **Legal** | Crítico - Todos buscados, control mental del cónsul de EEUU añade riesgo diplomático |
-| **Físico** | Psique en estado crítico (convulsiones, droga de Mentallo). Resto estable |
-| **Espiritual** | Nueva misión - liberar dos millones de almas egipcias + documentos del padre de Hotman |
+| **Unidad** | Detenidos voluntariamente en comisaría (excepto Eslizón con cachorros y Psique en coma con Mésmero) |
+| **Ideología** | Rendición como victoria — exposición pública de traidores y entrega voluntaria ante el Alcalde |
+| **Recursos** | Documentos del consulado entregados, copias digitales, pruebas en manos del Alcalde François Chalá |
+| **Legal** | Detenidos voluntariamente, 48 MetaCorp presentes sin collares inhibidores. Psique debe presentarse en 48h |
+| **Físico** | Psique en coma (cuerpo con Mésmero), proyección astral activa con límite de 48h. Resto estable en celdas |
+| **Espiritual** | Red de veteranos activada — Eneiros asalta localizaciones de retención de metahumanos simultáneamente |
 
 **El sistema de almas egipcias:**
 - **Ba** (Personalidad): Custodiado por Mésmero

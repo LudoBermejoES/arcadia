@@ -2469,3 +2469,41 @@ Su cuerpo convulsiona, emite vapor y luz rojiza. Hotman gasta un Benny para abso
 
 ---
 
+### Sesión 59: La Entrega — Traidores, Televisión y Justicia (5 abril 2026)
+
+📎 [Notas manuales](../manual-notes/session-59-2026-04-05/) | [AI](../ai-notes/2026-04-05-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-04-05-gemini-notes.md)
+
+**Entrega voluntaria del grupo y exposición de traidores en televisión directa:**
+
+**Personajes presentes**: Sentencia, Sique/Cía (proyección astral), Pantomima, Diana
+**Ausentes**: Hotman (narrativamente presente vía Eneiros), Eslizón (con cachorros)
+
+**El segundo turno de Psique:**
+
+Psique usa el poder residual de la droga de Mentallo para extraer los nombres de los traidores de Arcadia de la mente del cónsul: un político del partido gobernante, el padre de Hotman como industrial que captura metahumanos, y colaboradores. Comparte la información por enlace mental y cae en coma tres días. Mésmero, furioso, se la lleva y silencia a Pantomima 24 horas.
+
+**Los documentos y Eneiros:**
+
+Los papeles del consulado confirman media docena de localizaciones de retención de metahumanos. Sentencia hace copias digitales. Eneiros organiza asaltos simultáneos a las localizaciones mientras el grupo se entregará públicamente.
+
+**La irrupción en TeleArcadia:**
+
+Con Atropos (Ana Montenegro, poderes recuperados) como abogada, el grupo irrumpe en televisión directa. Tres mensajes: hay traidores, nos entregamos, siempre luchamos por la justicia. Sentencia deja las armas sobre la mesa. Eneiros respalda en directo. Psique (proyección astral) pide disculpas por la muerte del MetaCorp. El Alcalde François Chalá acepta investigar.
+
+**Detención voluntaria:**
+
+El Alcalde escolta al grupo a pie hasta la comisaría, seguidos por cámaras. Fuera de micrófono: "Cabrones, me habéis hecho una encerrona." 48 MetaCorp esperan, sin collares inhibidores. Psique debe presentarse en 48h o habrá consecuencias. Ana Montenegro entra: "Ha ido bien, ¿no?"
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Detenida voluntariamente | Celda de comisaría |
+| Diana | Detenida voluntariamente | Celda de comisaría |
+| Pantomima | Detenida voluntariamente | Celda de comisaría |
+| Sique/Cía | En coma (cuerpo con Mésmero), proyección astral activa | Cuerpo: con Mésmero / Astral: comisaría |
+| Hotman | Detenido voluntariamente | Celda de comisaría |
+| Eslizón | Ausente | Con cachorros bestiales |
+
+---
+

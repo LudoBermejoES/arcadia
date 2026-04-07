@@ -104,3 +104,4 @@ Eneiros ofreció a La Fuerza Oculta la misión de infiltrar el consulado como un
 
 - **La Fuerza Oculta** - Sesion 55
 - **La Fuerza Oculta** - Sesion 56
+- [Sesión 59 - La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Orquesta la entrega pública; respalda al grupo en TV; coordina asaltos simultáneos

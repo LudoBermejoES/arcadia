@@ -617,6 +617,34 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 5 de Abril (Sesión 59)](../ai-notes-summary/2026-04-05-gemini-notes.md)
+**"La Entrega — Traidores, Televisión y Justicia"**
+- 🧠 **Segundo turno de Psique**: Extrae nombres de traidores de la mente del cónsul — entra en coma 3 días
+- 😡 **Mésmero furioso**: Se lleva a Psique, silencia a Pantomima 24h
+- 📄 **Documentos confirmados**: Media docena de localizaciones de retención de metahumanos
+- ⚔️ **Asaltos simultáneos**: Eneiros coordina ataques a localizaciones de retención
+- 📺 **Irrupción en TeleArcadia**: Tres mensajes en directo — traidores, rendición, justicia
+- ⚖️ **Atropos como abogada**: Ana Montenegro reaparece con poderes recuperados
+- 👻 **Psique proyección astral**: Se disculpa públicamente por muerte del MetaCorp
+- 🔒 **Detención voluntaria**: Alcalde François Chalá escolta al grupo a comisaría
+
+📎 [Notas manuales](../manual-notes/session-59-2026-04-05/) | [AI](../ai-notes/2026-04-05-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-04-05-gemini-notes.md)
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Ubicación |
+|-----------|--------|-----------|
+| Sentencia | Detenida voluntariamente | Celda de comisaría |
+| Diana | Detenida voluntariamente | Celda de comisaría |
+| Pantomima | Detenida voluntariamente | Celda de comisaría |
+| Sique/Cía | En coma (cuerpo con Mésmero), proyección astral activa | Cuerpo: con Mésmero / Astral: comisaría |
+| Hotman | Detenido voluntariamente | Celda de comisaría |
+| Eslizón | Ausente | Con cachorros bestiales |
+
+**Temas Clave**: Rendición como victoria, espectáculo político, sacrificio telepático, generaciones unidas
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

@@ -54,15 +54,15 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **La Mansión**: Base de operaciones y entrenamiento
 - **Desarrollo de Equipo**: Dinámicas entre Eslizón, Diana, Astrid, Cia, Justa, Hotman
 
-### 2025: Era Actual
-- **Operaciones Activas**: El equipo en plena actividad
-- **Transcripciones AI**: Introducción de Gemini para documentación (16 transcripciones hasta octubre)
+### 2025-2026: Era Actual
+- **Operaciones Activas**: La Fuerza Oculta en plena actividad, 57+ sesiones documentadas
+- **Transcripciones AI**: Documentación con Gemini (20+ transcripciones)
 - **Documentación Avanzada**: Proyecto GitHub Pages completamente funcional
-- **15 Años de Historia**: Compilación completa del universo (84+ sesiones documentadas)
-- **Sesiones Recientes**: Continuidad activa hasta octubre de 2025
+- **100+ Sesiones Totales**: La Familia (43) + Génesis (6) + La Fuerza Oculta (57+) + Los 404 (10)
 - **Octubre 2025: Nueva Campaña**: Inicio de Los 404 en Isla Albedo
-- **Cuatro Campañas Activas**: Expansión del universo con perspectiva marginal
-- **Continuidad Futura**: Preparación para nuevas aventuras
+- **Febrero 2026**: Los 404 escapan de Isla Albedo, fugitivos en Arcadia
+- **Marzo 2026**: Los 404 en el Barrio Gótico, contacto con Mésmero
+- **Cuatro Campañas Activas**: Expansión del universo con perspectivas paralelas
 
 ## Hitos Importantes
 
@@ -107,13 +107,14 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **Justa/Justicia/Sentencia**: Evolución del concepto de justicia
 - **Hotman**: Control elemental y pasión heroica
 
-### Los 404 (Oct 2025)
-- **Sergei**: Metamorfo veterano del reformatorio, moldeable
+### Los 404 (Oct 2025 - Presente)
+- **Sergei**: Metamorfo veterano del reformatorio
 - **Tiritas**: Absorbe energía cinética, traumatizado por su pasado
 - **Kira**: Manipuladora eléctrica, la más joven del grupo
-- **Perspectiva Marginal**: Los olvidados del sistema metahumano
-- **Control vs. Libertad**: Jóvenes bajo vigilancia institucional
-- **Misterios Oscuros**: Desapariciones y secretos en Isla Albedo
+- **Elena Expósito**: Ilusionista, estudiante nueva llegada en noviembre
+- **Fase 1 (Oct-Ene 2026)**: Internos en el Reformatorio Nueva Esperanza, Isla Albedo
+- **Fase 2 (Feb 2026)**: Fuga de la isla, primera noche de libertad en Arcadia
+- **Fase 3 (Feb-Mar 2026)**: Fugitivos en Arcadia — Barrio Gótico, contacto con Mésmero y Comadreja Negra
 
 ## Navegación Temporal
 

@@ -57,17 +57,26 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 
 ### Los 404 (Cuarta Generación)
 
-**Los Marginados:**
-- **Sesión 1 (26 Oct 2025)**: Llegada a Isla Albedo, instalación en el reformatorio, misterios iniciales
-- **Sesión 2 (02 Nov 2025)**: Llegada de Elena con poderes de ilusión, sesiones de terapia, charco misterioso visible solo para algunos
-- Jóvenes metahumanos recluidos en institución de "rehabilitación"
-- Temas de control institucional vs. libertad personal, anomalías perceptivas
-
 **Protagonistas:**
 - **Sergei** (PJ) - Metamorfo veterano del reformatorio
 - **Tiritas** (Júlia Gasull) - Absorbe energía cinética, traumatizado
 - **Kira** (Adriana Ferran Gonzalez) - Manipuladora eléctrica recién llegada
-- **Elena Expósito** (Perico) - Nueva estudiante con poderes de ilusión
+- **Elena Expósito** (Perico) - Ilusionista, estudiante nueva
+
+**Fase 1 — El Reformatorio (Oct-Nov 2025):**
+- **Sesión 1 (26 Oct 2025)**: Llegada a Isla Albedo, instalación en el reformatorio, misterios iniciales. Aparece el charco que solo algunos pueden ver.
+- **Sesión 2 (02 Nov 2025)**: Llegada de Elena Expósito con poderes de ilusión impresionantes. Sesiones de terapia con Elena Mora. El charco sigue siendo un misterio perceptivo.
+- **Sesiones 3-6**: Vida en el reformatorio, descubrimiento de anomalías (el "Upside Down"/Mundo del Revés), desapariciones de internos. Decisión de fugarse.
+
+**Fase 2 — La Fuga (Ene-Feb 2026):**
+- **Sesión 7 (01 Feb 2026)**: Escape de Isla Albedo. Primera noche de libertad en Arcadia. El grupo llega a la ciudad sin recursos ni contactos.
+
+**Fase 3 — Fugitivos en Arcadia (Feb-Mar 2026):**
+- **Sesión 8 (22 Feb 2026)**: Primeros días en Arcadia. Lía desaparece — primera baja del grupo en la ciudad.
+- **Sesión 9 (01 Mar 2026)**: El grupo se mueve por Arcadia buscando aliados y recursos.
+- **Sesión 10 (15 Mar 2026)**: Visita al gimnasio de Comadreja Negra en el Barrio Gótico. Linda (poderes de niebla). Revelación: Malik es un barón de Telaraña. Encuentro con Mésmero, que ya ha leído sus mentes — se queda pálido.
+
+**Temas centrales:** Control institucional vs. libertad, marginación metahumana, supervivencia sin red de apoyo.
 
 ## Resúmenes Especiales
 

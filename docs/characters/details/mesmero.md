@@ -191,6 +191,10 @@ Mésmero reaparece ante el grupo después del escape del almacén y pronuncia su
 - [AI Notes 2026-02-22]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Sesión 59 - La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Furioso; se lleva a Psique; silencia a Pantomima; crea proyección astral de Psique
 
+### Apariciones en Reformatorio Nueva Esperanza
+
+- [Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/) - Primera aparición ante el grupo fugitivo del reformatorio; les recibe en su base del Barrio Gótico, les ofrece comida, y ya ha leído sus mentes antes de que hablen — su cara se queda pálida
+
 ---
 
 ## Legado e Impacto - El Corazón del Grupo

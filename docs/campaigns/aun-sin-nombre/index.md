@@ -89,6 +89,7 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 - **[01 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)**: Escape completo de Isla Albedo, Kira sabotea el teléfono del pescador, huida de la marina antes de que lleguen Metacorps, robo de coche y dinero, adquisición de suministros en Centro Comercial Levi, viaje en metro submarino, primera noche de libertad en Motel Locaso (Distrito Lunae)
 - **[22 Febrero]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)**: Motel de lo Ocaso, Tiritas despierta gritando por sus macarrones, confrontación con moteros armados, Serge noquea accidentalmente a Mishka Novicova (doble uno), ilusión de sirenas policiales de Elena pone en fuga a los atacantes, escape en furgoneta robada hacia clínica clandestina
 - **[01 Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)**: Clínica clandestina — doctora Jailé extrae la bala, Mishka paralizada por Kira y finalmente liberada, motero herido regala anillo de oro a Tiritas, refugio en Distrito Veneris con Malik Ferrán, revelación sobre familia de Tiritas (padre asesinado por Tiritas en defensa propia — confirmado por Noemi, madre en cárcel, hermana en acogida), revelación sobre biología y vulnerabilidades Strigoi, pista de Mésmero en el Barrio Gótico
+- **[15 Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)**: Malik confirma desaparición de Lía (hermana de Tiritas) sin rastro en ningún registro, visita al gimnasio de Comadreja Negra — héroe retirado que prueba los poderes de Tiritas golpeándola, advertencia de que Malik es barón de la Telaraña, propuesta de entrenamiento real para Kira en lugar del collar inhibidor, Linda (secretaria) con poderes de niebla congelante, contacto con el director Nadie sobre los Strigoi, viaje al Barrio Gótico en Volkswagen morado años 60, llegada a la base de Mésmero en antiguo parque de bomberos — ya leyó las mentes del grupo y se quedó pálido
 
 ---
 
@@ -165,12 +166,12 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">4</span>
+<span class="stat-number">6</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">8</span>
+<span class="stat-number">10</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

@@ -13,7 +13,29 @@ permalink: /campaigns/aun-sin-nombre/sessions/
 
 ## 📅 Cronología de Sesiones
 
-### 🌷 **Marzo 2026 - El Mundo Subterráneo**
+### 🌷 **Marzo 2026 - El Mundo Subterráneo y el Barrio Gótico**
+
+#### [📝 Sesión 15 de Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
+
+**"El Gimnasio de Comadreja y la Puerta al Barrio Gótico"**
+
+- 🏠 **Días en el Refugio**: El grupo espera en el refugio de Malik mientras investiga el paradero de Lía
+- 💔 **Lía Desaparecida**: Malik confirma que la hermana de Tiritas no figura en ningún registro — probablemente secuestrada por haber desarrollado poderes
+- 🐝 **Strigoi Detallados**: "Las avispas" — miel que da poderes temporales, infección con huevos, mente colmena, vulnerables a telépatas
+- 📺 **Kira en Televisión**: La madre de Kira la busca públicamente; el resto del grupo no está siendo perseguido activamente
+- 🏋️ **Comadreja Negra**: Héroe retirado de los años 70, lleva antifaz, gestiona un gimnasio de metahumanos
+- 🌫️ **Linda**: Secretaria del gimnasio con poderes de niebla congelante — *"no uses tus poderes, asustas a los que entrenan"*
+- 🥊 **La Prueba**: Comadreja golpea a Tiritas sin aviso → transforma a 2,5 metros; la reconoce como "la chica cuyo padre organizaba peleas"
+- ⚠️ **Malik = Telaraña**: Comadreja identifica a Malik como barón del superconsorcio criminal Telaraña
+- 🔓 **El Collar de Kira**: *"Los collares son como castrar a alguien. La solución es enseñarles a controlarlo"* — Comadreja ofrece entrenamiento real
+- 📞 **Contacto con Nadie**: Comadreja llama al director del reformatorio para reunión urgente sobre los Strigoi
+- 🚐 **Volkswagen Morado**: Viaje al Barrio Gótico en furgoneta de los años 60 "estilo Scooby-Doo"
+- 🏚️ **El Barrio Gótico**: Crece como un hongo, edificios medievales que reemplazan a los modernos, sin señal móvil, la policía no entra de noche
+- 👤 **Mésmero**: Primera aparición — traje morado, capa, calavera en mano, cara pálida tras leer las mentes del grupo antes de que hablen
+
+**Temas Clave**: La red metahumana oculta, control vs. desarrollo de poderes, el pasado que persigue, el Barrio Gótico como umbral sobrenatural
+
+---
 
 #### [📝 Sesión 1 de Marzo]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
 

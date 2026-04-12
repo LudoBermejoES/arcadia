@@ -267,34 +267,36 @@ La sesión más emocionalmente intensa para Tiritas hasta la fecha:
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Situación Actual (Marzo 2026)
 
-Tiritas se encuentra en el **Distrito Veneris**, refugiado con Malik Ferrán y su red de contactos del mundo marginal. Físicamente recuperado, pero cargando con la verdad sobre su familia.
+Tiritas se encuentra en la **base de Mésmero** en el Barrio Gótico — un antiguo parque de bomberos remodelado — tras haber visitado el gimnasio de Comadreja y cruzado a este territorio sobrenatural.
 
-### **Evolución Reciente**
+### **Evolución Reciente (Sesión 10 - 15/03/2026)**
 
-- **Superviviente**: A pesar de casi morir por el ataque de Kira, completó el escape
-- **Primer Acto de Gratitud**: El anillo de oro del motero — ser reconocido como alguien que ayuda
-- **Verdad Familiar**: Confirmación de que el padre murió (lo sabía), pero madre en cárcel y hermana en acogida son nueva información devastadora
-- **Pista Concreta**: Malik investigará la ubicación de la hermana en 2 días — la primera esperanza real
-- **Amenaza Latente**: Los Strigoi, los telépatas y la advertencia sobre salir de Arcadia complican los planes
+- **Lía desaparecida**: Malik confirmó que la hermana de Tiritas (**Lía**) no figura en ningún registro legal. Probablemente fue capturada porque desarrolló poderes — posiblemente para torneos ilegales.
+- **Reconocida por Comadreja**: El veterano héroe la identificó como *"la chica cuyo padre organizaba peleas"* — el pasado violento de Tiritas circula entre ciertos círculos metahumanos.
+- **Prueba de poderes**: Comadreja la golpeó en el estómago sin previo aviso para evaluar sus capacidades. Tiritas se transformó a casi 2,5 metros ante el impacto.
+- **Nuevo contacto clave**: Comadreja se ha comprometido a investigar si Lía está siendo usada en torneos ilegales a través de sus contactos en ese mundo.
+- **Mésmero ya la conoce**: Al llegar a la base de Mésmero, este ya había leído las mentes del grupo. Su reacción (cara pálida) indica que lo que encontró es significativo.
 
 ### **Estado Actual**
 
-- **Ubicación**: Refugio de Malik Ferrán, Distrito Veneris
-- **Estado Físico**: Recuperado (heridas curadas durante los días transcurridos)
-- **Estado Emocional**: Impacto por la revelación familiar, pero con una dirección clara — encontrar a la hermana
-- **Estado Legal**: Fugitivo buscado por Metacorps
+- **Ubicación**: Base de Mésmero, Barrio Gótico (sin señal móvil)
+- **Estado Físico**: En buen estado
+- **Estado Emocional**: Cargando con la confirmación de que Lía ha desaparecido — peor de lo esperado (no en acogida, sino desaparecida)
+- **Estado Legal**: Fugitiva buscada por Metacorps
+- **Nuevos contactos**: Comadreja Negra (investigará a Lía)
 
 ### **Preguntas Abiertas**
 
-- ¿Dónde está exactamente la hermana y en qué condiciones vive en acogida?
+- ¿Dónde está Lía y en qué condiciones está siendo retenida?
+- ¿Comadreja logrará rastrearla a través de los torneos ilegales?
+- ¿Qué vio Mésmero en la mente de Tiritas que lo dejó pálido?
 - ¿Qué pasó realmente con la madre? ¿Fue encarcelada por los mismos hechos?
-- ¿Podrán denunciar lo que descubrieron (el cadáver, la instalación del Upside Down)?
-- ¿Cómo reaccionará al reencontrarse con la hermana después de dos años?
-- ¿Qué hará con el anillo de oro — ¿guardarlo o usarlo?
-- ¿Buscará a Mésmero en el Barrio Gótico junto al resto del grupo?
+- ¿Qué hará con el anillo de oro del motero?
+- ¿Cómo afectará a Tiritas saber que su historia familiar es conocida en el mundo metahumano?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

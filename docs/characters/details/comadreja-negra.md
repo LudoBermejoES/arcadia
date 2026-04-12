@@ -32,12 +32,27 @@ A diferencia de su madre (especializada en robos de alto perfil), Comadreja Negr
 ## Rol y Actividades
 Como figura del submundo especializada en intermediación, Comadreja Negra facilita comunicaciones y transacciones entre diferentes facciones criminales. Opera con la astucia y versatilidad heredadas de su madre, necesarias para navegar los peligrosos territorios del mundo criminal arcadiano manteniendo su neutralidad y supervivencia.
 
+## Rol en Marzo 2026 — Reformatorio Nueva Esperanza
+
+En marzo de 2026, Comadreja Negra es contactado por un grupo de jóvenes fugitivos del Reformatorio Nueva Esperanza de Isla Albedo. La reunión revela facetas de su rol actual que complementan su actividad histórica como intermediario:
+
+- **Gestor de gimnasio**: Opera un gimnasio de entrenamiento para metahumanos. Su secretaria, **Linda**, también es metahumana (poderes de niebla congelante).
+- **Héroe retirado de los años 70**: Se identifica como un veterano superhéroe que se mantiene neutral entre el mundo heroico y el criminal. *"Mantengo buenas relaciones con los buenos y con los malos."*
+- **Su madre era "Comadreja Gris"**: A diferencia del nombre que usó en la era de La Familia, en esta época todo el mundo le llama simplemente "Comadreja".
+- **Antifaz permanente**: Lleva antifaz en todo momento, incluso en su despacho.
+- **Prueba directa**: Evaluó las capacidades de Tiritas golpeándola sin aviso para desencadenar su transformación.
+- **Conexión con el pasado de Tiritas**: La reconoció como *"la chica cuyo padre organizaba peleas"*.
+- **Advierte sobre Malik Ferrán**: Lo identifica como barón de la Telaraña (red criminal) y señala el riesgo de que el grupo le deba favores.
+- **Contacto con Nadie**: Llamó al director del Reformatorio para organizar reunión urgente sobre los Strigoi.
+- **Enlace con Mésmero**: Decidió llevar al grupo al Barrio Gótico para hablar con Mésmero, experto en Strigoi.
+
 ## Apariciones Documentadas
 - [La Familia Session 01]({{ site.baseurl }}/campaigns/la-familia/session-01/)
 - [La Familia Session 28]({{ site.baseurl }}/campaigns/la-familia/session-28/)
 - [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/)
 - [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
 - [La Fuerza Oculta AI Notes 2025-06-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Detalles Adicionales
 

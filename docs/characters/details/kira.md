@@ -256,6 +256,8 @@ Kira demostró **iniciativa táctica y uso versátil de poderes** durante el esc
 - [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 
@@ -269,12 +271,21 @@ Kira ha **escapado completamente de Isla Albedo** y pasado su primera noche de l
 - **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
 - **Superación del Trauma**: No dejó que el incidente con Tiritas la paralizara
 
+### **Evolución Reciente (Sesiones 9-10 - Marzo 2026)**
+
+- **Madre buscándola públicamente**: Su madre ha aparecido en televisión y ha puesto su cara en carteles. El resto del grupo no está siendo perseguido activamente — Kira es la más expuesta mediáticamente.
+- **El collar debatido**: Comadreja Negra se pronunció sobre el collar inhibidor: *"es como castrar a alguien"*. Propuso entrenamiento real como alternativa a la represión — la primera voz de autoridad que cuestiona el sistema del reformatorio en su cara.
+- **Oferta de entrenamiento**: Comadreja ofreció negociar con el Señor Nadie para que Kira pueda entrenarse con él en lugar de estar recluida. Condiciones: vivir donde él diga y seguir sus instrucciones.
+- **Intento fallido con Mésmero**: Kira intentó leer la mente de Mésmero al conocerlo — no obtuvo ninguna respuesta. Primera vez que sus intentos telepáticos básicos fallan completamente. Mésmero tiene su mente blindada.
+- **Advertencia sobre personalidad**: Su carácter difícil fue identificado como riesgo para la cohesión del grupo. Si no lo modera, podría acabar operando en solitario.
+
 ### **Estado Actual**
 
-- **Ubicación**: Furgoneta robada, camino a clínica clandestina
-- **Estado Físico**: En buen estado, sin heridas tras el combate del motel
-- **Estado Emocional**: Estable, control de poderes mejorando (sin fuego amigo esta vez)
-- **Estado Legal**: Fugitiva buscada por Metacorps
+- **Ubicación**: Base de Mésmero, Barrio Gótico (sin señal móvil)
+- **Estado Físico**: En buen estado
+- **Estado Emocional**: Enfrentando la realidad de que su madre la busca y la primera oferta real de entrenamiento legítimo
+- **Estado Legal**: Fugitiva buscada — la más expuesta del grupo mediáticamente
+- **Decisión pendiente**: ¿Acepta el trato de Comadreja para entrenar bajo su supervisión?
 
 ### **Impacto Psicológico**
 

@@ -294,7 +294,37 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
-### 🌆 **Febrero 2026 - Fugitivos en Arcadia**
+### 🌷 **Marzo 2026 - El Gimnasio y el Barrio Gótico**
+
+#### [📈 Análisis 15/03/2026 - El Gimnasio de Comadreja y la Puerta al Barrio Gótico]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
+**"El Gimnasio de Comadreja y Mésmero"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Red Oculta**: Comadreja como puente entre el mundo heroico y criminal metahumano
+- **Control vs. Desarrollo**: El collar de Kira como metáfora del reformatorio — reprimir en lugar de enseñar
+- **El Pasado que Sigue Presente**: Comadreja reconoce a Tiritas por el padre que organizaba peleas
+- **El Umbral del Barrio Gótico**: Transición a un espacio regido por otras reglas
+
+**👥 Desarrollo de Personajes:**
+- **Tiritas**: Confirmación de la desaparición de Lía, reconocida por su pasado familiar, transformación ante Comadreja
+- **Kira**: Madre la busca públicamente, intento fallido de leer a Mésmero, propuesta de entrenamiento con Comadreja
+- **Sergei**: Motivación personal ambigua — escapó por el grupo pero su hogar era el reformatorio
+
+**🔮 Arcos Narrativos Avanzados:**
+- Lía desaparecida de todos los registros — posible secuestro para torneos ilegales
+- Comadreja investigará el paradero de Lía a través de sus contactos
+- Advertencia: Malik es barón de la Telaraña (red criminal)
+- Contacto con Nadie para reunión urgente sobre los Strigoi en el reformatorio
+- Llegada a la base de Mésmero en el Barrio Gótico — ya leyó sus mentes
+
+**⚡ Momentos Clave:**
+- Comadreja golpea a Tiritas sin aviso — transformación a 2,5 metros
+- Linda (secretaria): se convierte en niebla congelante brevemente
+- Viaje en Volkswagen morado años 60 al Barrio Gótico
+- Edificios que cambian: arquitectura medieval fagocitando lo moderno
+- Encuentro con Mésmero: traje morado, calavera, cara que se queda pálida
+
+---
 
 #### [📈 Análisis 01/03/2026 - La Clínica Clandestina y el Rey de los Mendigos]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
 **"Mishka se va, los Strigoi se revelan, Mésmero aparece en el horizonte"**

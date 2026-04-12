@@ -191,6 +191,7 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 ## 🔍 Explorar Contenido
 
 ### 📋 **Por Tipo de Contenido**
+- **[📚 Resumen de Campaña](summary/)** - Historia completa de todas las sesiones
 - **[🎨 Esquema Visual Interactivo](reformatorio/)** - Diagrama organizacional del reformatorio (tldraw)
 - **[🤖 Notas con IA](ai-notes/)** - Transcripciones automáticas con Gemini
 - **[📊 Resúmenes Analíticos](ai-notes-summary/)** - Análisis profundos narrativos

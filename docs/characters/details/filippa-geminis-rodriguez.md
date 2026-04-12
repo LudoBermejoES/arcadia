@@ -32,8 +32,8 @@ Solicitó su traslado a la recién creada **Fiscalía Especializada en Asuntos M
 Su trayectoria ha contribuido a definir cómo se juzga a los metahumanos en Arcadia:
 
 - **El caso Masuda** (2010): Primer precedente fiscal reconociendo que el uso involuntario de poderes no puede tratarse como dolo; Filippa lo impulsó cuando nadie más lo consideraba relevante
-- **Investigación al Reformatorio Nueva Esperanza** (2022): Abrió diligencias sobre el régimen de internamiento de menores metahumanos en Isla Albedo; el expediente quedó archivado
-- **Caso Los Defensores** (2024): Desestimó la acusación formal contra el grupo heroico tras la filtración de sus identidades, argumentando ausencia de tipo penal
+- **Varios casos de menores metahumanos** (2012-2018): Consiguió que el sistema judicial distinguiera entre falta de control y intención criminal en adolescentes con poderes emergentes
+- **Oposición pública a Humanitas** (2015-2016): Fue firme opositora al partido durante su primer auge, denunciando públicamente la base jurídica de sus propuestas antimeta
 - **Dictamen sobre la Ley de Prevención** (2025-presente): Su análisis jurídico más complejo hasta la fecha
 
 ### La Ley de Prevención
@@ -87,13 +87,9 @@ Filippa no busca ni favorecer ni perseguir a los metahumanos — busca aplicar l
 
 Acusa cuando hay causa. Desestima cuando no la hay. Y cuando la ley misma le parece injusta, lo dice por escrito y por los cauces que corresponden.
 
-### Relaciones con La Fuerza Oculta
-
-Ha tenido contacto indirecto con el grupo a través de casos en los que sus acciones generaron expedientes. Su posición sobre ellos es la misma que sobre cualquier otro metahumano: si hay delito tipificado, actúa; si no lo hay, no.
-
 ### Tensiones Institucionales
 
-- **Humanitas**: Considera su dictamen sobre la Ley de Prevención un obstáculo político; han intentado cuestionarlo por vías administrativas
+- **Humanitas**: Filippa fue una firme opositora pública al partido hace una década, cuando nadie más en la fiscalía se atrevía a hablar. Nunca olvidaron quién fue la primera en denunciar su programa antimeta por escrito
 - **Fatum Corporation**: Ha presionado para archivar varias de sus investigaciones mediante contactos en el poder judicial
 - **Presiones internas**: Algunos sectores del gobierno preferirían una fiscal más alineada con la agenda oficial
 
@@ -109,5 +105,4 @@ Ha tenido contacto indirecto con el grupo a través de casos en los que sus acci
 
 ## Apariciones Documentadas
 
-- Expediente abierto sobre el **Reformatorio Nueva Esperanza** (2022, archivado)
-- Dictamen contra la **Ley de Prevención Metahumana** (2025-2026)
+- Dictamen sobre la **Ley de Prevención Metahumana** (2025-2026)

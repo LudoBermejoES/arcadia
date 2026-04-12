@@ -20,7 +20,7 @@ DIRECTORIES = {
     "campaigns/la-fuerza-oculta": "la-fuerza-oculta",
     "campaigns/la-familia": "la-familia",
     "campaigns/genesis": "genesis",
-    "campaigns/aun-sin-nombre": "reformatorio",
+    "campaigns/los-404": "los-404",
     "campaigns/hospital": "hospital",
     "campaigns/crematorio-la-tranquilidad": "crematorio",
     "groups": "grupos",

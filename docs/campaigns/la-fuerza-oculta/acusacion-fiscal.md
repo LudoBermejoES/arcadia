@@ -72,7 +72,6 @@ Durante la evacuación no autorizada de menores tutelados (Kai «Vórtice» Naka
 - Art. 21.3.ª CP: **Arrebato u obcecación** en los hechos de combate (contexto de hostigamiento continuado).
 
 **Agravantes:**
-- Art. 22.2.ª CP: Disfraz y alias.
 - Art. 22.8.ª CP: Reincidencia por pluralidad de acciones.
 
 ---
@@ -85,7 +84,7 @@ El Ministerio Fiscal solicita para la acusada Diana las siguientes **medidas** (
 
 - **Medida principal**: Libertad vigilada durante **18 meses** (art. 7.1.h LORPM), con obligación de seguir el programa terapéutico de control de impulsos metahumanos prescrito por el equipo técnico del Juzgado y de someterse al seguimiento de agente tutor metahumano designado judicialmente.
 - **Medida accesoria**: Prohibición de usar sus poderes metahumanos en espacios públicos sin autorización judicial durante la vigencia de la medida de libertad vigilada.
-- **Prestaciones en beneficio de la comunidad**: 200 horas (art. 7.1.k LORPM), en programa de rescate o emergencias metahumanas bajo supervisión institucional.
+- **Prestaciones en beneficio de la comunidad**: 400 horas (art. 7.1.k LORPM), en programa de rescate o emergencias metahumanas bajo supervisión institucional.
 - **Medida alternativa — Isla Azogue**: El Fiscal solicita al Juzgado que valore la sustitución o complemento de la libertad vigilada por **internamiento en régimen abierto en Isla Azogue** (art. 7.1.c LORPM), dado que la naturaleza letal y de difícil control de sus capacidades físicas sobrehumanas exige un entorno con capacidad real de intervención. El Señor Nadie (Ricardo Vázquez), director del centro, es la única figura en Arcadia con capacidad de nulificación universal de poderes. La acusada podría residir en el centro y participar en el programa de la Escuela Metahumana con plena libertad de movimientos salvo en crisis.
 - El Fiscal reconoce el carácter excepcional de la entrega voluntaria y la aportación de pruebas como factores que el equipo técnico deberá ponderar favorablemente al proponer la medida definitiva.
 
@@ -116,14 +115,6 @@ El acusado, usando sus poderes de ilusionismo, creó una representación falsa d
 - Art. 248 y 249 CP: **Estafa** (engaño bastante para inducir a error a terceros con perjuicio ajeno). Pena: 6 meses a 3 años.
 - Art. 557 CP: **Desórdenes públicos**. Pena: 6 meses a 3 años.
 
-### HECHO 3 — Uso fraudulento de identidad oficial (Sesión 19, octubre 2025)
-
-En el contexto de operaciones de reconocimiento, el acusado creó ilusiones de agentes de policía que indujeran a error a ciudadanos, distorsionando la percepción pública de la presencia y actuación policial. La difusión de imágenes de estas ilusiones en redes sociales causó desinformación pública de alcance masivo.
-
-**Artículos aplicables:**
-- Art. 401 CP: **Usurpación de funciones públicas** (suplantación de agentes de la autoridad). Pena: 1 a 3 años.
-- Art. 510 CP: **Difusión de información falsa** que pone en peligro el orden público.
-
 ---
 
 ## CIRCUNSTANCIAS MODIFICATIVAS DE LA RESPONSABILIDAD — PANTOMIMA
@@ -141,8 +132,8 @@ Todos los hechos imputados a la acusada ocurrieron siendo menor de edad. La comp
 
 El Ministerio Fiscal solicita para la acusada conocida como "Pantomima" las siguientes **medidas** (art. 7 LORPM):
 
-- **Medida principal**: Libertad vigilada durante **9 meses** (art. 7.1.h LORPM), con obligación de no usar poderes de suplantación de identidad policial en espacios públicos sin autorización judicial, y de seguir un programa socioeducativo de responsabilidad cívica y uso ético de capacidades metahumanas.
-- **Prestaciones en beneficio de la comunidad**: 150 horas (art. 7.1.k LORPM), preferiblemente vinculadas al entorno hospitalario o de emergencias donde se produjeron los hechos del HECHO 2.
+- **Medida principal**: Libertad vigilada durante **6 meses** (art. 7.1.h LORPM), con obligación de seguir un programa socioeducativo de responsabilidad cívica y uso ético de capacidades metahumanas, especialmente en lo relativo al empleo de ilusiones en entornos públicos sensibles (centros sanitarios, espacios de emergencia).
+- **Prestaciones en beneficio de la comunidad**: 350 horas (art. 7.1.k LORPM), preferiblemente vinculadas al entorno hospitalario o de emergencias donde se produjeron los hechos del HECHO 2.
 - El Fiscal valora el potencial de la acusada para convertirse en referente positivo dentro del sistema metahumano de Arcadia, lo que abona una medida orientada a la reinserción y no al internamiento.
 
 ---
@@ -218,9 +209,9 @@ Todos los hechos imputados a la acusada ocurrieron siendo menor de edad. La comp
 
 El Ministerio Fiscal solicita para la acusada conocida como "Psique" las siguientes **medidas** (art. 7 LORPM):
 
-- **Medida principal**: Libertad vigilada durante **18 meses** con régimen de supervisión intensificada (art. 7.1.h LORPM). La gravedad objetiva de los hechos —control mental no consentido de un funcionario diplomático extranjero y borrado de memoria de dos personas— justifica la duración máxima de la medida, pero la ausencia de premeditación acreditada y la concurrencia de atenuantes muy cualificadas hacen desproporcionado el internamiento.
+- **Medida principal**: Libertad vigilada durante **18 meses** con régimen de supervisión intensificada (art. 7.1.h LORPM). La gravedad objetiva de los hechos —control mental no consentido de un funcionario diplomático extranjero y borrado de memoria de una persona— justifica la duración máxima de la medida, pero la ausencia de premeditación acreditada y la concurrencia de atenuantes muy cualificadas hacen desproporcionado el internamiento.
 - **Supervisión obligatoria — Isla Azogue**: La libertad vigilada se cumplirá bajo la coordinación técnica de **Ricardo Vázquez («El Señor Nadie»)**, director de Isla Azogue, con presencia periódica en el centro (mínimo quincenal). Su capacidad de nulificación de poderes es la única garantía efectiva en Arcadia de interrupción inmediata de accesos telepáticos no consentidos. Esta condición es irrenunciable mientras dure la medida.
-- **Reparación del daño** (art. 7.1.j LORPM): Indemnización a Richard Caswell y al mensajero por los daños causados a su integridad mental, a fijar por peritos especializados, con plan de pago aplazado compatible con la situación económica de la acusada.
+- **Reparación del daño** (art. 7.1.j LORPM): Indemnización a Richard Caswell por los daños causados a su integridad mental, a fijar por peritos especializados, con plan de pago aplazado compatible con la situación económica de la acusada.
 - La reducción al régimen de libertad vigilada —frente al internamiento semiabierto inicialmente valorado— se justifica por: minoría de edad, entrega voluntaria, sacrificio personal extremo (coma de tres días, riesgo de daño cerebral permanente), resultado de interés público excepcional, y estado de necesidad parcialmente apreciable.
 
 ---
@@ -248,7 +239,7 @@ La acusada fue condenada en juicio previo al inicio de la campaña y fue dotada 
 En el contexto de un enfrentamiento con el grupo juvenil conocido como «Les Enfants Terribles», la acusada disparó deliberadamente a las piernas de dos menores de edad:
 
 - **Kai «Vórtice» Nakamura**, aproximadamente 14 años.
-- **Diego «Cuchilla» Santos**, aproximadamente 14 años.
+- **Diego «Cuchilla» Santos**, aproximadamente 17 años.
 
 El arma utilizada fue una pistola Desert Eagle, de gran calibre, disparada a corta distancia sobre las extremidades inferiores de los menores. Ambas víctimas sufrieron lesiones permanentes que les obligan a utilizar bastón o muletas para el resto de sus vidas. Las víctimas eran menores armados que participaban en actividades delictivas, pero la acusada disponía de alternativas menos lesivas.
 
@@ -265,6 +256,17 @@ La acusada portó de forma continuada armamento de fuego sin licencia vigente du
 **Artículos aplicables:**
 - Art. 563 y 564 CP: **Tenencia ilícita de armas**. Pena: 1 a 3 años.
 
+### HECHO 4 — Lesiones graves por atropello con vehículo a motor (enero 2026)
+
+Durante la huida del grupo tras una emboscada de agentes de MetaCorp en las inmediaciones del Casino de Dionisios, la acusada, al volante de la furgoneta blindada del grupo y transportando a compañeros heridos, atropelló a **dos agentes de MetaCorp** que se encontraban en la vía, causándoles lesiones de gravedad que requirieron hospitalización prolongada. Ambos agentes permanecieron en estado crítico durante varios días. El hecho fue registrado por **cámaras de seguridad** de la zona.
+
+La acusada se encontraba **ella misma herida** y bajo fuego enemigo en el momento de los hechos, conduciendo un vehículo con al menos dos ocupantes heridos de gravedad e incapacitados. El atropello se produjo durante la maniobra de huida.
+
+**Artículos aplicables:**
+
+- Art. 152.2 CP: **Lesiones graves por imprudencia grave cometidas con vehículo a motor**. Pena: 1 a 3 años de prisión, con privación del derecho a conducir de 1 a 4 años.
+- Art. 20.5.ª CP: Posible exención o atenuación por **estado de necesidad** (la acusada transportaba heridos y actuó bajo fuego enemigo, sin alternativa de escape viable).
+
 ---
 
 ## CIRCUNSTANCIAS MODIFICATIVAS DE LA RESPONSABILIDAD — SENTENCIA
@@ -275,6 +277,7 @@ La acusada portó de forma continuada armamento de fuego sin licencia vigente du
 - Art. 21.5.ª CP: Reparación del daño. La acusada subió copias de la documentación probatoria a servidor seguro antes de la entrega, garantizando que la información no pudiera ser suprimida.
 - Compromiso público y expreso de entrega: La acusada manifestó ante su mentor y ante el grupo su intención de entregarse a la justicia tras completar la misión. Esto indica que la entrega voluntaria no fue una decisión de último momento sino una disposición mantenida.
 - En relación con HECHO 2: La acusada actuó dentro de un enfrentamiento real con individuos armados, incluyendo menores con capacidades metahumanas ofensivas. La legítima defensa merece consideración seria del tribunal.
+- En relación con HECHO 4: La acusada conducía **herida ella misma**, bajo fuego enemigo, transportando compañeros heridos e incapacitados, sin alternativa de escape viable. El Art. 20.5.ª CP (**estado de necesidad**) es directamente aplicable; subsidiariamente, la atenuante del Art. 21.1.ª CP en relación con el 20.5.ª.
 - **Art. 21.1.ª CP en relación con art. 20.1.ª CP — Anomalía o alteración psíquica (atenuante incompleta por condicionamiento sistemático)**: La acusada fue sometida desde la infancia a un proceso de instrumentalización por parte de su tutor Roberto McKomick, quien utilizó el trauma de la muerte de su padre para adoctrinarla en el uso de armas letales y orientarla hacia una misión violenta de naturaleza nunca revelada. El acceso normalizado a arsenales, el entrenamiento armamentístico desde edad temprana y la manipulación afectiva sostenida durante años constituyen un condicionamiento sistemático que el Fiscal somete al tribunal como factor que afectó de forma significativa a la formación de la voluntad de la acusada. Esta atenuante no exime de responsabilidad pero justifica la reducción de la pena en su mitad inferior. La defensa podrá solicitar informe pericial psicológico que acredite el alcance de dicho condicionamiento.
 
 **Agravantes:**
@@ -288,11 +291,12 @@ La acusada portó de forma continuada armamento de fuego sin licencia vigente du
 El Ministerio Fiscal solicita para la acusada Justa McKomick "Sentencia":
 
 - **HECHO 2** (lesiones graves, junio 2025) y **HECHO 3** (tenencia ilícita de armas, acumulado desde junio 2025): ocurrieron siendo menor. El Fiscal solicita que estos hechos se juzguen ante el **Juzgado de Menores** (LORPM), solicitando para ellos **internamiento en régimen semiabierto de 12 meses**, dada la gravedad de las lesiones permanentes causadas a dos menores, atenuado por legítima defensa incompleta y condicionamiento sistemático.
-- **HECHO 1** (quebrantamiento de condena, período completo hasta abril 2026): incluye hechos tanto siendo menor como siendo mayor. Para la parte correspondiente a la mayoría de edad, el Fiscal solicita ante el Juzgado ordinario **prisión de 6 meses**, con **suspensión condicionada** a:
+- **HECHO 1** (quebrantamiento de condena, período completo hasta abril 2026) y **HECHO 4** (lesiones graves por atropello, enero 2026): incluyen hechos cometidos siendo mayor de edad. Para la parte correspondiente a la mayoría de edad, el Fiscal solicita ante el Juzgado ordinario **prisión de 9 meses**, con **suspensión condicionada** a:
   - Compromiso formal de no portar armamento sin autorización judicial.
-  - Programa de mediación con las víctimas del HECHO 2 (Vórtice y Cuchilla).
-  - Indemnización a ambas víctimas por las lesiones permanentes causadas.
+  - Programa de mediación con las víctimas del HECHO 2 (Vórtice y Cuchilla) y del HECHO 4 (agentes de MetaCorp atropellados).
+  - Indemnización a todas las víctimas por las lesiones causadas.
   - **Tratamiento psicológico obligatorio** durante 24 meses, orientado a trabajar el condicionamiento sufrido desde la infancia y el uso normalizado de la violencia.
+  - **Privación del derecho a conducir** vehículos a motor durante 12 meses (Art. 152.2 CP).
 - **Inhabilitación** para el ejercicio de cualquier función de seguridad o aplicación de la ley durante 3 años.
 - El Fiscal reconoce que la acusada puede convertirse, bajo supervisión adecuada, en un activo valioso para el sistema de seguridad metahumana de Arcadia.
 
@@ -382,7 +386,8 @@ El Ministerio Fiscal solicita para el acusado Alejandro "Hotman" Delgado:
 | Diego «Cuchilla» Santos | Lesiones permanentes (piernas) | Sentencia (principal) / grupo (subsidiaria) | A fijar por peritos |
 | Richard Caswell, cónsul | Daños a la integridad mental | Psique (principal) | A fijar por peritos especializados en daño mental |
 | Mensajero anónimo | Borrado de memoria no consentido | Psique (principal) | A fijar por peritos especializados |
-| Agente MetaCorp agredido | Lesiones por ataque termogénico | Hotman (principal) | A fijar por peritos |
+| Agente MetaCorp agredido (termogénico) | Lesiones por ataque termogénico | Hotman (principal) | A fijar por peritos |
+| 2 agentes MetaCorp atropellados | Lesiones graves por atropello | Sentencia (principal) | A fijar por peritos |
 
 ## 7.2 Nota sobre la responsabilidad del Estado frente a los acusados
 

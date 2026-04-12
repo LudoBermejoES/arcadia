@@ -78,7 +78,8 @@
       "Bash(sed -i 's/^## Análisis Profundos Narrativos con IA/## Análisis Profundos Narrativos con IA/' docs/campaigns/los-404/ai-notes-summary/index.md)",
       "Bash(sed -i 's/## 🏝️ \\\\*\\\\*\\\\[Reformatorio Nueva Esperanza\\\\]\\(los-404\\\\/\\)\\\\*\\\\*/## 🏝️ **[Los 404]\\(los-404\\\\/\\)** *\\(Reformatorio Nueva Esperanza\\)*/' docs/campaigns/index.md)",
       "Bash(sed -i 's/\\\\*\\\\*\\\\[🚀 Explorar Reformatorio Nueva Esperanza →\\\\]\\(los-404\\\\/\\)\\\\*\\\\*/**[🚀 Explorar Los 404 →]\\(los-404\\\\/\\)** /' docs/campaigns/index.md)",
-      "Bash(sed -i 's/Reformatorio Nueva Esperanza muestra los olvidados/Los 404 — fugitivos del Reformatorio Nueva Esperanza/' docs/campaigns/index.md)"
+      "Bash(sed -i 's/Reformatorio Nueva Esperanza muestra los olvidados/Los 404 — fugitivos del Reformatorio Nueva Esperanza/' docs/campaigns/index.md)",
+      "Bash(aleph:*)"
     ],
     "deny": [],
     "ask": [],

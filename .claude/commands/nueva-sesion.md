@@ -152,30 +152,66 @@ find docs/campaigns/[campaña] -name "index.md" -o -name "summary.md"
 ```
 Asegúrate de haber actualizado TODOS los archivos listados.
 
-### 4. Revisión Contextual
+### 5. Actualizar Fichas de Personajes (OBLIGATORIO)
 
-Después de leer el contenido de la sesión, evalúa si necesitas actualizar:
+**⚠️ CRÍTICO**: Este paso es OBLIGATORIO, no opcional. Siempre que una sesión tenga impacto en los personajes, sus fichas deben actualizarse. No hacerlo deja el proyecto desincronizado.
 
-- **Fichas de personajes** (si hay nuevos poderes, traumas, revelaciones):
-  - `docs/characters/details/eslizon-esmeralda.md`
-  - `docs/characters/details/diana.md`
-  - `docs/characters/details/pantomima.md`
-  - `docs/characters/details/mencia-psique-cia.md`
-  - `docs/characters/details/justa-justicia-sentencia.md`
-  - `docs/characters/details/hotman.md`
-  - `docs/characters/details/tiritas.md`
-  - `docs/characters/details/kira.md`
-  - `docs/characters/details/elena-exposito.md`
-  - `docs/characters/details/sergei.md`
+#### Proceso obligatorio:
 
+1. **Lee las fichas** de todos los personajes que aparecen en la sesión (leer antes de editar)
+2. **Actualiza cada ficha** según lo que ocurrió — en cada ficha:
+   - Añadir nueva **Fase** en la sección de Cronología con los eventos relevantes
+   - Actualizar la sección **Estado Actual** con fecha, ubicación y estado emocional/físico actual
+   - Añadir la sesión a la lista de **Apariciones Documentadas**
+   - Actualizar **Relaciones** si hubo cambios (nuevos aliados, mentores, conflictos)
+   - Actualizar la **nota final** en cursiva si la evolución del personaje lo justifica
 
-- **Ficha del grupo** (`docs/groups/la-fuerza-oculta.md`) si hay cambios de equipo
+#### Qué actualizar en cada ficha (según eventos):
 
+| Evento en sesión | Qué actualizar en la ficha |
+|-----------------|---------------------------|
+| Combate / heridas | Estado físico en Estado Actual |
+| Crisis emocional / trauma | Estado emocional, nueva Fase, nota final |
+| Nueva relación o mentoría | Sección de Relaciones |
+| Nuevo poder o habilidad | Sección de Poderes, nueva Fase |
+| Cambio de ubicación | Estado Actual > Ubicación actual |
+| Decisión moral importante | Filosofía, nueva Fase |
+| Revelación importante | Revelaciones, nueva Fase |
+
+#### Personajes de La Fuerza Oculta (fichas a revisar):
+
+- `docs/characters/details/eslizon-esmeralda.md`
+- `docs/characters/details/diana.md`
+- `docs/characters/details/pantomima.md`
+- `docs/characters/details/mencia-psique-cia.md`
+- `docs/characters/details/justa-justicia-sentencia.md`
+- `docs/characters/details/hotman.md`
+
+#### NPCs con ficha propia que pueden requerir actualización:
+
+- `docs/characters/details/mesmero.md` — si aparece o revela algo
+- `docs/characters/details/jorge-espectro.md` — si interactúa con el grupo
+- `docs/characters/details/roberto-mckomick.md` — si el tío aparece o es mencionado
+- Otros NPCs que aparezcan activamente en la sesión
+
+#### Reglas importantes:
+
+- **SOLO actualiza lo que realmente ocurrió** — no añadas especulaciones o planes futuros que aún no se han ejecutado en juego
+- Si algo se "anuncia" para el futuro pero aún no ha sucedido, márcalo claramente como "anunciado" o "pendiente de inicio"
+- Usa siempre **nombres de personajes**, nunca nombres de jugadores
+- **Leer la ficha antes de editar** para no duplicar información ya existente
+
+#### Otros archivos contextuales:
+
+- **Ficha del grupo** (`docs/groups/la-fuerza-oculta.md`) si hay cambios de equipo o dinámica grupal
 - **Nuevos NPCs** en `docs/characters/details/` + actualizar `character-list.md`
-
 - **Nuevos grupos** en `docs/groups/`
 
-### 5. Checklist Final
+### 6. Revisión Contextual Adicional
+
+Después de actualizar fichas de personajes, evalúa si también necesitas:
+
+### 6b. Checklist Final
 
 Presenta al usuario este checklist antes de hacer commit:
 
@@ -196,14 +232,23 @@ Presenta al usuario este checklist antes de hacer commit:
 - [ ] Actualizar [campaña]/summary/summary.md ⭐ (La Fuerza Oculta - EXISTE Y ES OBLIGATORIO)
 - [ ] Revisar otros índices específicos de la campaña
 
+### ⚠️ Obligatorio - Fichas de personajes (NO OMITIR):
+- [ ] Leer y actualizar ficha de cada PJ que aparece en la sesión
+- [ ] Añadir nueva Fase a la cronología de cada PJ afectado
+- [ ] Actualizar Estado Actual (fecha, ubicación, estado emocional/físico)
+- [ ] Añadir sesión a Apariciones Documentadas de cada PJ
+- [ ] Actualizar Relaciones si hubo cambios (mentores, aliados, conflictos)
+- [ ] Actualizar fichas de NPCs relevantes (Mésmero, Espectro, etc.) si procede
+- [ ] Solo documentar lo que YA ocurrió en juego — no especulaciones ni planes futuros
+
 ### Contextual (según contenido):
-- [ ] Actualizar fichas de personajes afectados
+- [ ] Actualizar ficha del grupo si hay cambios de equipo
+- [ ] Crear fichas de nuevos NPCs + actualizar character-list.md
 - [ ] Actualizar fichas de grupos mencionados
-- [ ] Crear fichas de nuevos NPCs
 - [ ] Actualizar historial.md
 ```
 
-### 6. Commit
+### 7. Commit
 
 Sugerir mensaje de commit en formato:
 ```

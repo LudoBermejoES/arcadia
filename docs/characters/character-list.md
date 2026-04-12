@@ -437,7 +437,7 @@ permalink: /characters/character-list/
 - [Rey Ofobutu]({{ site.baseurl }}/characters/details/rey-ofobutu/) (rey africano metahumano)
 
 ### Figuras Legales y Judiciales
-- [Filippa "Géminis" Rodríguez]({{ site.baseurl }}/characters/details/filippa-geminis-rodriguez/) (50 años, abogada metahumana, dos caras literales, especialista en derechos metahumanos, opositora a la Ley de Prevención)
+- [Filippa "Géminis" Rodríguez]({{ site.baseurl }}/characters/details/filippa-geminis-rodriguez/) (50 años, Fiscal de Arcadia especializada en casos metahumanos, dos caras funcionales, opositora institucional a la Ley de Prevención)
 
 ---
 

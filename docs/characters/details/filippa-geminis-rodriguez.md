@@ -13,32 +13,34 @@ slug: filippa-geminis-rodriguez
 
 ## Presentación
 
-**Filippa "Géminis" Rodríguez** es una abogada metahumana de 50 años, la defensora más temida y respetada en los tribunales especializados de Arcadia. Su peculiaridad física es inmediatamente visible aunque paradójicamente difícil de recordar: tiene **dos caras completamente funcionales**, una en la posición habitual y otra en la nuca, cada una con sus propios ojos, capaces de ver y procesar información de forma independiente. La gente deja de notar el detalle en cuanto ella abre la boca.
+**Filippa "Géminis" Rodríguez** es la **Fiscal de Arcadia** especializada en casos metahumanos, la figura jurídica más temida en los tribunales especializados de la isla. Tiene 50 años y una peculiaridad física inmediatamente visible aunque paradójicamente difícil de recordar: **dos caras completamente funcionales**, una en la posición habitual y otra en la nuca, cada una con sus propios ojos, capaces de ver y procesar información de forma independiente. La gente deja de notar el detalle en cuanto ella abre la boca.
 
-Veinte años defendiendo los casos que nadie más acepta. Actualmente dirige la estrategia legal contra la **Ley de Prevención Metahumana**, la legislación más amenazante para los derechos de los metahumanos en la historia de Arcadia.
+Veinte años como fiscal. Actualmente dirige la oposición institucional a la **Ley de Prevención Metahumana** desde dentro del propio sistema — y eso la convierte en el enemigo más peligroso que Humanitas podría tener.
+
+Conoce todos los ángulos de un argumento antes de que nadie haya abierto la boca.
 
 ## Historia Personal
 
 ### Orígenes
 
-Filippa manifestó sus poderes a los 30 años, en plena carrera como abogada generalista. La aparición de la segunda cara no interrumpió su trabajo — la fascinó. Donde otros habrían visto una tragedia, ella vio una ventaja: ahora podía literalmente ver los argumentos desde todos los ángulos.
+Filippa manifestó sus poderes a los 30 años, cuando ya llevaba cinco años ejerciendo como fiscal junior en los tribunales generales de Arcadia. La aparición de la segunda cara no interrumpió su carrera — la redefinió. Donde otros habrían pedido la baja, ella vio una ventaja procesal: ahora podía literalmente vigilar la sala entera sin moverse.
 
-Abandonó su bufete de corporativo y reorientó su carrera hacia el derecho metahumano, una especialidad entonces inexistente que ella contribuyó a crear. Fundó **Rodríguez & Asociados**, el primer bufete de Arcadia especializado exclusivamente en defensa de derechos metahumanos.
+Solicitó su traslado a la recién creada **Fiscalía Especializada en Asuntos Metahumanos**, una unidad que en aquel momento nadie quería. Los casos eran complejos, la jurisprudencia no existía y los metahumanos imputados resultaban impredecibles. Filippa lleva veinte años construyendo ese derecho desde cero.
 
-### Veinte Años en los Tribunales
+### Veinte Años como Fiscal
 
-Durante dos décadas, Filippa ha defendido casos que ningún otro letrado se atrevía a aceptar:
+Su trayectoria ha definido cómo se juzga a los metahumanos en Arcadia:
 
-- **El caso Masuda** (2010): Primer precedente legal reconociendo que el uso involuntario de poderes no constituye delito penal
-- **Reformatorio Nueva Esperanza v. Derechos Civiles** (2022): Impugnación parcial del régimen de internamiento de menores metahumanos en Isla Albedo
-- **La Defensa de Los Defensores** (2024): Representación del grupo heroico tras la filtración mediática de sus identidades secretas
-- **Oposición a la Ley de Prevención** (2025-presente): Su caso más importante y peligroso
+- **El caso Masuda** (2010): Estableció el primer precedente fiscal reconociendo que el uso involuntario de poderes no puede tratarse como dolo — impulsado por ella misma contra la opinión de sus superiores
+- **Investigación al Reformatorio Nueva Esperanza** (2022): Abrió diligencias contra el régimen de internamiento de menores en Isla Albedo; el expediente quedó archivado por presiones políticas
+- **Caso Los Defensores** (2024): Se negó a acusar formalmente al grupo heroico tras la filtración de sus identidades, argumentando que no existía delito tipificado
+- **Oposición institucional a la Ley de Prevención** (2025-presente): Su posición más arriesgada hasta la fecha
 
 ### La Ley de Prevención
 
-La Ley de Prevención Metahumana, impulsada por el partido **Humanitas** y sectores del gobierno, pretende establecer un registro obligatorio, restricciones de movimiento y "protocolos de contención preventiva" para metahumanos considerados de alto riesgo. Filippa ha convertido su oposición legal a esta ley en su misión personal.
+La Ley de Prevención Metahumana, impulsada por **Humanitas** y sectores del gobierno, pretende establecer un registro obligatorio, restricciones de movimiento y "protocolos de contención preventiva" para metahumanos de alto riesgo. Como fiscal, Filippa no solo se opone a la ley — se niega activamente a aplicarla en los casos bajo su jurisdicción, y ha publicado un dictamen oficial argumentando su inconstitucionalidad.
 
-Conoce todos los ángulos de un argumento antes de que nadie haya abierto la boca.
+Eso la convierte en un problema para el gobierno. Y el gobierno lo sabe.
 
 ## Poderes y Habilidades
 
@@ -46,38 +48,38 @@ Conoce todos los ángulos de un argumento antes de que nadie haya abierto la boc
 
 La segunda cara proporciona un **campo visual de 360 grados** sin punto ciego. Sus dos pares de ojos son completamente funcionales e independientes:
 
-- **Visión de águila**: Alcance visual excepcional, capaz de leer documentos al otro lado de una sala de vistas
-- **Audición aumentada**: Detecta susurros, identifica voces, capta conversaciones en salas adyacentes
-- **Visión de rayos X**: Ignora hasta dos niveles de cobertura; útil para leer documentos dentro de carpetas cerradas o detectar grabadores ocultos
+- **Visión de águila**: Alcance visual excepcional; lee documentos al otro lado de la sala de vistas sin que nadie lo note
+- **Audición aumentada**: Detecta susurros, identifica voces, capta conversaciones en pasillos adyacentes al tribunal
+- **Visión de rayos X**: Ignora hasta dos niveles de cobertura; detecta grabadores ocultos, documentos dentro de carpetas cerradas, armas disimuladas
 - **Visión nocturna**: Opera sin penalización en condiciones de poca luz
 
-Nadie puede acercarse a ella por detrás. En veintiún años de ejercicio profesional, nadie la ha sorprendido.
+Nadie puede acercarse a ella por detrás. En veinte años de carrera, nadie lo ha conseguido.
 
 ### Cognición Bifocal
 
-Su cerebro procesa información desde dos perspectivas simultáneas, lo que le confiere una **capacidad analítica sobrehumana**:
+Su cerebro procesa información desde dos perspectivas simultáneas, confiriéndole una **capacidad analítica sobrehumana**:
 
 - Reroll gratuito en todas las tiradas de Astucia y habilidades derivadas (Genius)
-- Procesa argumentos legales en paralelo, anticipando las líneas de razonamiento contrario
-- Memoria casi eidética para jurisprudencia y precedentes
+- Construye y desmonta argumentos en paralelo, anticipando cualquier línea de defensa antes de que la parte contraria la verbalice
+- Memoria casi eidética para jurisprudencia, precedentes y transcripciones
 
 ### Mente Dual
 
-Su consciencia bifurcada crea una arquitectura mental naturalmente resistente a la intrusión psíquica:
+Su consciencia bifurcada crea una arquitectura mental resistente a la intrusión psíquica:
 
 - Los intentos de lectura y control mental sufren **-4 a sus tiradas**
 - Si resiste con éxito un ataque psíquico, el atacante sufre Fatiga
 - Con una victoria clara en la resistencia, el atacante queda Aturdido
 
-Esta resistencia psíquica es especialmente relevante dado que varios opositores a sus clientes tienen acceso a telépatas.
+Relevante: varios grupos con intereses opuestos a su labor fiscal tienen acceso a telépatas.
 
 ### Anatomía Atípica
 
-Sus órganos vitales no están distribuidos de forma convencional. Los ataques dirigidos no producen el daño adicional esperado porque los atacantes asumen una anatomía que Filippa no tiene.
+Sus órganos vitales no siguen distribución convencional. Los ataques dirigidos no producen el daño adicional esperado porque los atacantes asumen una anatomía que Filippa no tiene.
 
 ### Políglota Instintiva
 
-Tras una breve exposición a un idioma desconocido, es capaz de comprenderlo y hablarlo con fluidez. En sala de vistas, esto significa que **no necesita intérprete** y detecta inmediatamente errores o manipulaciones en traducciones.
+Tras breve exposición a un idioma desconocido, lo comprende y habla con fluidez. En sala de vistas no necesita intérprete y detecta inmediatamente manipulaciones en traducciones o declaraciones de testigos extranjeros.
 
 ## Estadísticas (Sistema Héroes o Villanos / SWADE)
 
@@ -101,41 +103,43 @@ Tras una breve exposición a un idioma desconocido, es capaz de comprenderlo y h
 
 ### Ventajas
 
-- **Investigador** (+2 a Investigación y Notar al buscar información)
+- **Investigadora** (+2 a Investigación y Notar al buscar información)
 - **Erudita** (+2 a Académicos en casos de derecho metahumano)
 - **Superpoderes** (ver sección de poderes)
 
 ### Desventajas
 
-- **Apariencia Distintiva** (dos caras — no pasa desapercibida aunque la gente lo olvide)
-- **Impulsada** (la defensa de los derechos metahumanos es su motor vital)
-- **Obligación Mayor** (sus clientes y los casos en curso exigen 40+ horas semanales)
+- **Apariencia Distintiva** (dos caras — no pasa desapercibida, aunque la gente lo olvide)
+- **Impulsada** (la justicia real para los metahumanos es su motor vital)
+- **Obligación Mayor** (la Fiscalía y los expedientes abiertos exigen 40+ horas semanales)
 
 ## Rol en Arcadia
 
-### La Abogada que Nadie Quería
+### La Fiscal que el Sistema no Esperaba
 
-Filippa opera en el espacio entre mundos: conoce el sistema heroico lo suficiente para defenderlo desde dentro, pero no forma parte de él. Sus clientes incluyen héroes, metahumanos civiles, menores con poderes sin control y familias que buscan justicia tras incidentes con poderes. Raramente cobra lo que debería.
+Filippa es la anomalía del sistema judicial de Arcadia: una fiscal metahumana que usa su cargo para proteger a los metahumanos desde dentro, en lugar de perseguirlos. No defiende a nadie en sala — acusa. Pero elige meticulosamente a quién acusa y a quién no, y sus dictámenes sobre la Ley de Prevención están creando jurisprudencia que Humanitas no puede ignorar.
+
+Su posición es incómoda para todos: demasiado institucional para ser aliada incondicional de los héroes, demasiado independiente para ser una herramienta del gobierno.
 
 ### Relaciones con La Fuerza Oculta
 
-La estrategia legal de Filippa contra la Ley de Prevención converge directamente con los intereses de La Fuerza Oculta. Ha tenido contacto indirecto con el grupo a través de casos relacionados con sus acciones y con la situación de **Los 404**, los fugitivos del Reformatorio Nueva Esperanza cuyo internamiento ilegal podría convertirse en una pieza clave de su demanda.
+La estrategia de Filippa contra la Ley de Prevención converge con los intereses de La Fuerza Oculta. Su expediente abierto sobre el Reformatorio Nueva Esperanza — archivado pero no cerrado — convierte a **Los 404** en testigos potenciales de enorme valor. Si los fugitivos del reformatorio declararan ante ella, el caso se reactivaría con fuerza.
 
 ### Enemigos
 
-- **Humanitas**: El partido que impulsa la Ley de Prevención la considera su principal obstáculo legal
-- **Fatum Corporation**: Ha bloqueado al menos dos de sus casos más prometedores mediante presiones sobre testigos y jueces
-- **El sistema**: Varios sectores del gobierno de Arcadia preferirían que Filippa tuviera un accidente
+- **Humanitas**: La considera su obstáculo institucional más peligroso; han intentado abrirle expediente disciplinario dos veces
+- **Fatum Corporation**: Ha presionado para archivar varios de sus investigaciones mediante contactos en el poder judicial
+- **Sectores del gobierno de Arcadia**: Prefieren una fiscal que siga el guión. Filippa no lo hace.
 
 ## Citas
 
 > *"Nadie me ha sorprendido por detrás en veinte años. Y en sala de vistas, tampoco."*
 
-> *"La ley no distingue entre poderes. Distingue entre personas con poderes y personas sin ellos. Mi trabajo es que esa distinción no cuente."*
+> *"No defiendo a nadie. Acuso. Y precisamente por eso sé cuándo algo no merece ser acusado."*
 
 > *"Conozco todos los ángulos de un argumento antes de que nadie haya abierto la boca. Es literalmente así."*
 
 ## Apariciones Documentadas
 
-- Mencionada en el contexto de la **Ley de Prevención Metahumana** (2025-2026)
-- Conexión con el caso del **Reformatorio Nueva Esperanza** (2022, 2026)
+- Expediente abierto sobre el **Reformatorio Nueva Esperanza** (2022, archivado)
+- Dictamen contra la **Ley de Prevención Metahumana** (2025-2026)

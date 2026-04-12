@@ -491,6 +491,7 @@ document.addEventListener('DOMContentLoaded', function() {
     
     independientes: [
       { slug: 'alfred', name: 'Alfred', image: 'alfred.png' },
+      { slug: 'filippa-geminis-rodriguez', name: 'Filippa "Géminis" Rodríguez', image: 'filippa-geminis-rodriguez.png' },
       { slug: 'el-senor-de-las-ratas', name: 'El Señor de las Ratas', image: 'el-senor-de-las-ratas.png' },
       { slug: 'hope-m', name: 'Hope M.', image: 'Hope M..png' },
       { slug: 'malik', name: 'Malik', image: 'Malik.png' },

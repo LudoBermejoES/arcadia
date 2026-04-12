@@ -436,7 +436,10 @@ permalink: /characters/character-list/
 ### Personajes Internacionales
 - [Rey Ofobutu]({{ site.baseurl }}/characters/details/rey-ofobutu/) (rey africano metahumano)
 
+### Figuras Legales y Judiciales
+- [Filippa "Géminis" Rodríguez]({{ site.baseurl }}/characters/details/filippa-geminis-rodriguez/) (50 años, abogada metahumana, dos caras literales, especialista en derechos metahumanos, opositora a la Ley de Prevención)
+
 ---
 
 *Listado compilado de todos los documentos del mundo de Arcadia*
-*209 personajes documentados - Última actualización: Noviembre de 2025*
+*210 personajes documentados - Última actualización: Abril de 2026*

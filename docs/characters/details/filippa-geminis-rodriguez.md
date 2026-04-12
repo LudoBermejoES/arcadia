@@ -13,9 +13,9 @@ slug: filippa-geminis-rodriguez
 
 ## Presentación
 
-**Filippa "Géminis" Rodríguez** es la **Fiscal de Arcadia** especializada en casos metahumanos, la figura jurídica más temida en los tribunales especializados de la isla. Tiene 50 años y una peculiaridad física inmediatamente visible aunque paradójicamente difícil de recordar: **dos caras completamente funcionales**, una en la posición habitual y otra en la nuca, cada una con sus propios ojos, capaces de ver y procesar información de forma independiente. La gente deja de notar el detalle en cuanto ella abre la boca.
+**Filippa "Géminis" Rodríguez** es la **Fiscal de Arcadia** especializada en casos metahumanos, una de las figuras jurídicas más respetadas en los tribunales especializados de la isla. Tiene 50 años y una peculiaridad física inmediatamente visible aunque paradójicamente difícil de recordar: **dos caras completamente funcionales**, una en la posición habitual y otra en la nuca, cada una con sus propios ojos, capaces de ver y procesar información de forma independiente. La gente deja de notar el detalle en cuanto ella abre la boca.
 
-Veinte años como fiscal. Actualmente dirige la oposición institucional a la **Ley de Prevención Metahumana** desde dentro del propio sistema — y eso la convierte en el enemigo más peligroso que Humanitas podría tener.
+Veinte años como fiscal. Su principio es sencillo: la ley debe aplicarse igual a metahumanos que a cualquier otro ciudadano, ni con más dureza ni con más indulgencia. Actualmente trabaja en un dictamen sobre la **Ley de Prevención Metahumana** que cuestiona su constitucionalidad.
 
 Conoce todos los ángulos de un argumento antes de que nadie haya abierto la boca.
 
@@ -29,18 +29,16 @@ Solicitó su traslado a la recién creada **Fiscalía Especializada en Asuntos M
 
 ### Veinte Años como Fiscal
 
-Su trayectoria ha definido cómo se juzga a los metahumanos en Arcadia:
+Su trayectoria ha contribuido a definir cómo se juzga a los metahumanos en Arcadia:
 
-- **El caso Masuda** (2010): Estableció el primer precedente fiscal reconociendo que el uso involuntario de poderes no puede tratarse como dolo — impulsado por ella misma contra la opinión de sus superiores
-- **Investigación al Reformatorio Nueva Esperanza** (2022): Abrió diligencias contra el régimen de internamiento de menores en Isla Albedo; el expediente quedó archivado por presiones políticas
-- **Caso Los Defensores** (2024): Se negó a acusar formalmente al grupo heroico tras la filtración de sus identidades, argumentando que no existía delito tipificado
-- **Oposición institucional a la Ley de Prevención** (2025-presente): Su posición más arriesgada hasta la fecha
+- **El caso Masuda** (2010): Primer precedente fiscal reconociendo que el uso involuntario de poderes no puede tratarse como dolo; Filippa lo impulsó cuando nadie más lo consideraba relevante
+- **Investigación al Reformatorio Nueva Esperanza** (2022): Abrió diligencias sobre el régimen de internamiento de menores metahumanos en Isla Albedo; el expediente quedó archivado
+- **Caso Los Defensores** (2024): Desestimó la acusación formal contra el grupo heroico tras la filtración de sus identidades, argumentando ausencia de tipo penal
+- **Dictamen sobre la Ley de Prevención** (2025-presente): Su análisis jurídico más complejo hasta la fecha
 
 ### La Ley de Prevención
 
-La Ley de Prevención Metahumana, impulsada por **Humanitas** y sectores del gobierno, pretende establecer un registro obligatorio, restricciones de movimiento y "protocolos de contención preventiva" para metahumanos de alto riesgo. Como fiscal, Filippa no solo se opone a la ley — se niega activamente a aplicarla en los casos bajo su jurisdicción, y ha publicado un dictamen oficial argumentando su inconstitucionalidad.
-
-Eso la convierte en un problema para el gobierno. Y el gobierno lo sabe.
+La Ley de Prevención Metahumana, impulsada por **Humanitas** y sectores del gobierno, pretende establecer un registro obligatorio, restricciones de movimiento y protocolos de contención para metahumanos considerados de alto riesgo. Filippa ha redactado un dictamen técnico cuestionando su constitucionalidad, siguiendo los cauces institucionales habituales. No es una cruzada personal — es su trabajo.
 
 ## Poderes y Habilidades
 
@@ -81,61 +79,31 @@ Sus órganos vitales no siguen distribución convencional. Los ataques dirigidos
 
 Tras breve exposición a un idioma desconocido, lo comprende y habla con fluidez. En sala de vistas no necesita intérprete y detecta inmediatamente manipulaciones en traducciones o declaraciones de testigos extranjeros.
 
-## Estadísticas (Sistema Héroes o Villanos / SWADE)
-
-| Atributo | Dado |
-|----------|------|
-| Agilidad | d4 |
-| Astucia | d12+1 |
-| Espíritu | d8 |
-| Fuerza | d4 |
-| Vigor | d4 |
-
-| Habilidad | Dado |
-|-----------|------|
-| Académicos (Derecho Metahumano) | d10 |
-| Conocimiento Común | d8 |
-| Investigación | d10 |
-| Notar | d10 |
-| Persuasión | d10 |
-
-**Defensa**: 2 | **Resistencia**: 4 | **Puntos de Poder**: 15
-
-### Ventajas
-
-- **Investigadora** (+2 a Investigación y Notar al buscar información)
-- **Erudita** (+2 a Académicos en casos de derecho metahumano)
-- **Superpoderes** (ver sección de poderes)
-
-### Desventajas
-
-- **Apariencia Distintiva** (dos caras — no pasa desapercibida, aunque la gente lo olvide)
-- **Impulsada** (la justicia real para los metahumanos es su motor vital)
-- **Obligación Mayor** (la Fiscalía y los expedientes abiertos exigen 40+ horas semanales)
-
 ## Rol en Arcadia
 
-### La Fiscal que el Sistema no Esperaba
+### Una Fiscal Justa en un Sistema Complejo
 
-Filippa es la anomalía del sistema judicial de Arcadia: una fiscal metahumana que usa su cargo para proteger a los metahumanos desde dentro, en lugar de perseguirlos. No defiende a nadie en sala — acusa. Pero elige meticulosamente a quién acusa y a quién no, y sus dictámenes sobre la Ley de Prevención están creando jurisprudencia que Humanitas no puede ignorar.
+Filippa no busca ni favorecer ni perseguir a los metahumanos — busca aplicar la ley con equidad, algo que en Arcadia resulta más difícil de lo que parece. Los tribunales especializados tienden a oscilar entre el exceso punitivo y la exculpación automática según el viento político. Filippa intenta sostener una línea recta en medio de ese vaivén.
 
-Su posición es incómoda para todos: demasiado institucional para ser aliada incondicional de los héroes, demasiado independiente para ser una herramienta del gobierno.
+Acusa cuando hay causa. Desestima cuando no la hay. Y cuando la ley misma le parece injusta, lo dice por escrito y por los cauces que corresponden.
 
 ### Relaciones con La Fuerza Oculta
 
-La estrategia de Filippa contra la Ley de Prevención converge con los intereses de La Fuerza Oculta. Su expediente abierto sobre el Reformatorio Nueva Esperanza — archivado pero no cerrado — convierte a **Los 404** en testigos potenciales de enorme valor. Si los fugitivos del reformatorio declararan ante ella, el caso se reactivaría con fuerza.
+Ha tenido contacto indirecto con el grupo a través de casos en los que sus acciones generaron expedientes. Su posición sobre ellos es la misma que sobre cualquier otro metahumano: si hay delito tipificado, actúa; si no lo hay, no.
 
-### Enemigos
+### Tensiones Institucionales
 
-- **Humanitas**: La considera su obstáculo institucional más peligroso; han intentado abrirle expediente disciplinario dos veces
-- **Fatum Corporation**: Ha presionado para archivar varios de sus investigaciones mediante contactos en el poder judicial
-- **Sectores del gobierno de Arcadia**: Prefieren una fiscal que siga el guión. Filippa no lo hace.
+- **Humanitas**: Considera su dictamen sobre la Ley de Prevención un obstáculo político; han intentado cuestionarlo por vías administrativas
+- **Fatum Corporation**: Ha presionado para archivar varias de sus investigaciones mediante contactos en el poder judicial
+- **Presiones internas**: Algunos sectores del gobierno preferirían una fiscal más alineada con la agenda oficial
 
 ## Citas
 
 > *"Nadie me ha sorprendido por detrás en veinte años. Y en sala de vistas, tampoco."*
 
 > *"No defiendo a nadie. Acuso. Y precisamente por eso sé cuándo algo no merece ser acusado."*
+
+> *"La ley debe aplicarse igual a todos. Ni más dura por tener poderes. Ni más blanda. Igual."*
 
 > *"Conozco todos los ángulos de un argumento antes de que nadie haya abierto la boca. Es literalmente así."*
 

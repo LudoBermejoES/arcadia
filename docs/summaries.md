@@ -55,7 +55,7 @@ Esta página contiene resúmenes condensados de las sesiones del Proyecto Arcadi
 - **Justa/Justicia/Sentencia** (Edu) - Heroína con poderes de justicia
 - **Hotman** (Jandro) - Controlador de fuego y calor
 
-### Reformatorio Nueva Esperanza (Cuarta Generación)
+### Los 404 (Cuarta Generación)
 
 **Los Marginados:**
 - **Sesión 1 (26 Oct 2025)**: Llegada a Isla Albedo, instalación en el reformatorio, misterios iniciales
@@ -109,7 +109,7 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
 **2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (40 sesiones: 37 manuales + 20 transcripciones AI)
-**Oct-Nov 2025**: Reformatorio Nueva Esperanza - Los marginados del sistema (3 sesiones documentadas)
+**Oct 2025-Presente**: Los 404 - Los marginados del sistema (10 sesiones documentadas)
 
 ## Navegación
 

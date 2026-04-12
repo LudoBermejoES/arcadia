@@ -84,9 +84,9 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 
 ---
 
-## 🏝️ **[Reformatorio Nueva Esperanza](aun-sin-nombre/)**
-**Cuarta Campaña • Desde Oct 2025 (2 Meses Activos)**
-> Los inadaptados de Isla Albedo
+## 🏝️ **[Los 404](los-404/)** *(Reformatorio Nueva Esperanza)*
+**Cuarta Campaña • Desde Oct 2025 (6 Meses Activos)**
+> Fugitivos del Reformatorio Nueva Esperanza de Isla Albedo
 
 ### **Los Jóvenes Recluidos:**
 - 🦎 **Sergei** (PJ) - Metamorfo veterano del reformatorio
@@ -95,12 +95,12 @@ Durante 15 años, cuatro generaciones de metahumanos han definido Arcadia. Cada 
 - 🎭 **Elena Expósito** (Perico) - Nueva estudiante con poderes de ilusión
 
 ### **Nueva Perspectiva:**
-- **2 sesiones documentadas** en isla volcánica
+- **10 sesiones documentadas** — de isla volcánica a fugitivos en Arcadia
 - **Control vs. Libertad** en institución de "rehabilitación"
 - **Jóvenes marginados** sin control de poderes
-- **Misterios oscuros** (desapariciones, charco misterioso, anomalías perceptivas)
+- **Misterios oscuros** (desapariciones, charco misterioso, anomalías perceptivas, Strigoi)
 
-**[🚀 Explorar Reformatorio Nueva Esperanza →](aun-sin-nombre/)**
+**[🚀 Explorar Los 404 →](los-404/)**
 
 ---
 
@@ -194,7 +194,7 @@ Las campañas de Arcadia no son solo juegos de rol - son un **universo intercone
 - **🏛️ Era Fundacional** - La Familia establece las bases
 - **⚡ Era de Transición** - Génesis moderniza el heroísmo
 - **🔮 Era Actual (Héroes)** - La Fuerza Oculta navega complejidad moral
-- **🏝️ Era Actual (Marginados)** - Reformatorio Nueva Esperanza muestra los olvidados
+- **🏝️ Era Actual (Marginados)** - Los 404 — fugitivos del Reformatorio Nueva Esperanza
 
 ### **Por Contenido:**
 - **[👥 Personajes](../characters/)** - Base de datos completa

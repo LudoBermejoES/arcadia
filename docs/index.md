@@ -106,9 +106,9 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🏝️ **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/campaigns/aun-sin-nombre/)** *(Oct-Nov 2025)*
+### 🏝️ **[Los 404]({{ site.baseurl }}/campaigns/los-404/)** *(Oct 2025 - Presente)*
 
-**Los Marginados de Isla Albedo**
+**Los Fugitivos del Reformatorio Nueva Esperanza**
 
 [Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/), [Kira]({{ site.baseurl }}/characters/details/kira/) y [Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
 
@@ -159,7 +159,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
 - **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo
 - **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
-- **[Reformatorio Nueva Esperanza]({{ site.baseurl }}/groups/character-groups/#reformatorio-nueva-esperanza)** - Los marginados del sistema
+- **[Los 404]({{ site.baseurl }}/campaigns/los-404/)** - Fugitivos del Reformatorio Nueva Esperanza
 - **[Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)** - Atrapados en un bucle temporal
 
 

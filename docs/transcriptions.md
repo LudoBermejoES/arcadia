@@ -49,14 +49,14 @@ La campaña más reciente, jugada en el sistema "Héroes o Villanos".
 - [Notas Gemini 2025-08-24]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/)
 - [Notas Gemini 2025-08-30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/)
 
-### Reformatorio Nueva Esperanza
+### Los 404
 La cuarta campaña, ambientada en Isla Albedo, sigue a jóvenes metahumanos marginados.
 
 **Transcripciones AI Disponibles:**
 
-- [Notas Gemini 2025-10-26]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/) - Llegada a Isla Albedo
-- [Notas Gemini 2025-11-02]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/) - Elena y el Charco Misterioso
-- [Ver todas las sesiones del Reformatorio]({{ site.baseurl }}/campaigns/aun-sin-nombre/)
+- [Notas Gemini 2025-10-26]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/) - Llegada a Isla Albedo
+- [Notas Gemini 2025-11-02]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/) - Elena y el Charco Misterioso
+- [Ver todas las sesiones del Reformatorio]({{ site.baseurl }}/campaigns/los-404/)
 
 ## Metodología de Transcripción
 

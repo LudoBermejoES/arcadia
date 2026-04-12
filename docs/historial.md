@@ -14,7 +14,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ### **3 de Febrero de 2026**
 
-#### **🏝️ Documentación de Sesión 7 - Reformatorio Nueva Esperanza (jugada el 1 de febrero)**
+#### **🏝️ Documentación de Sesión 7 - Los 404 (jugada el 1 de febrero)**
 - **Sesión documentada** - Escape de Isla Albedo y Primera Noche de Libertad:
   - **Transcripción AI**: ai-notes/2026-02-01-gemini-notes.md procesada por Gemini
   - **Resumen analítico**: ai-notes-summary/2026-02-01-gemini-notes.md completo
@@ -296,7 +296,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
   - **Elena**: Primera evaluación (contenido no revelado)
 
 #### **📊 Estadísticas Actualizadas**
-- **Reformatorio Nueva Esperanza**: 2 sesiones documentadas
+- **Los 404**: 2 sesiones documentadas
 - **Protagonistas**: 4 jugadores (Sergei, Tiritas, Kira, Elena)
 - **Proyecto total**: 85+ sesiones, 235+ personajes
 
@@ -306,7 +306,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 
 ### **26 de Octubre de 2025**
 
-#### **🏝️ NUEVA CAMPAÑA: Reformatorio Nueva Esperanza**
+#### **🏝️ NUEVA CAMPAÑA: Los 404**
 - **Cuarta campaña principal iniciada**: Primera sesión en Isla Albedo
   - **Concepto**: Jóvenes metahumanos marginados en institución de "rehabilitación"
   - **Tema central**: Control institucional vs. libertad personal
@@ -343,7 +343,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 - **Fichas de personajes**: 3 archivos detallados con poderes, trasfondos, relaciones
 
 #### **🎨 Galería de Personajes Actualizada**
-- **Nueva sección**: "🏝️ Reformatorio Nueva Esperanza"
+- **Nueva sección**: "🏝️ Los 404"
 - **JavaScript array**: Integración con sistema de galería dinámico
 - **Imágenes preparadas**: Estructura lista para fotos de personajes
 
@@ -356,7 +356,7 @@ Registro cronológico de las modificaciones y actualizaciones realizadas en la d
 #### **🔄 Actualizaciones en Archivos Principales**
 - **docs/campaigns/index.md**: Añadida sección "Las Cuatro Campañas Principales"
 - **docs/index.md**: Nueva campaña en cronología, estadísticas actualizadas
-- **docs/summaries.md**: Sección de Reformatorio Nueva Esperanza
+- **docs/summaries.md**: Sección de Los 404
 - **docs/characters/character-list.md**: 3 nuevos personajes añadidos
 
 #### **🌟 Significado Narrativo**

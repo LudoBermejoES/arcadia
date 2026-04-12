@@ -12,7 +12,7 @@ slug: elena-exposito
 </div>
 
 ## Presentación
-Elena Expósito es una estudiante nueva en el Reformatorio Nueva Esperanza en Isla Albedo, con poderes de ilusión extraordinariamente desarrollados. Su llegada el 2 de noviembre de 2025 fue memorable por su demostración imprudente e impactante de habilidades. Es jugada por **Perico** en la campaña "Reformatorio Nueva Esperanza".
+Elena Expósito es una estudiante nueva en el Reformatorio Nueva Esperanza en Isla Albedo, con poderes de ilusión extraordinariamente desarrollados. Su llegada el 2 de noviembre de 2025 fue memorable por su demostración imprudente e impactante de habilidades. Es jugada por **Perico** en la campaña "Los 404".
 
 ## Historia Personal
 Elena llegó al reformatorio en noviembre de 2025 como nueva interna. Las circunstancias exactas que la llevaron allí no han sido reveladas, pero su **comportamiento impulsivo** y su **falta de conciencia sobre las consecuencias** de usar poderes en contextos sensibles sugieren que tuvo problemas controlando sus habilidades en el mundo exterior.
@@ -235,12 +235,12 @@ Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusion
 
 ## Apariciones Documentadas
 
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Los 404 - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Los 404 - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 

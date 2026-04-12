@@ -12,7 +12,7 @@ slug: sergei
 </div>
 
 ## Presentación
-Sergei es un metahumano metamorfo de 16-17 años, veterano del Reformatorio Nueva Esperanza en Isla Albedo. Con origen ruso y una apariencia de joven moreno, alto y delgado de pelo corto y alborotado, Sergei es el líder social informal entre los internos. Es jugado por **PJ** en la campaña "Reformatorio Nueva Esperanza".
+Sergei es un metahumano metamorfo de 16-17 años, veterano del Reformatorio Nueva Esperanza en Isla Albedo. Con origen ruso y una apariencia de joven moreno, alto y delgado de pelo corto y alborotado, Sergei es el líder social informal entre los internos. Es jugado por **PJ** en la campaña "Los 404".
 
 ## Historia Personal
 Sergei lleva en el reformatorio desde los 12-13 años, haciendo de él uno de los veteranos más antiguos. Su presencia prolongada sugiere que posiblemente no tiene otro lugar adonde ir, convirtiéndo al reformatorio en su único hogar conocido durante su adolescencia.
@@ -199,13 +199,13 @@ Sergei emergió como **líder táctico de facto** durante el escape completo del
 
 ## Apariciones Documentadas
 
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Los 404 - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Los 404 - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Los 404 - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 

@@ -32,7 +32,7 @@ A diferencia de su madre (especializada en robos de alto perfil), Comadreja Negr
 ## Rol y Actividades
 Como figura del submundo especializada en intermediación, Comadreja Negra facilita comunicaciones y transacciones entre diferentes facciones criminales. Opera con la astucia y versatilidad heredadas de su madre, necesarias para navegar los peligrosos territorios del mundo criminal arcadiano manteniendo su neutralidad y supervivencia.
 
-## Rol en Marzo 2026 — Reformatorio Nueva Esperanza
+## Rol en Marzo 2026 — Los 404
 
 En marzo de 2026, Comadreja Negra es contactado por un grupo de jóvenes fugitivos del Reformatorio Nueva Esperanza de Isla Albedo. La reunión revela facetas de su rol actual que complementan su actividad histórica como intermediario:
 
@@ -52,7 +52,7 @@ En marzo de 2026, Comadreja Negra es contactado por un grupo de jóvenes fugitiv
 - [La Familia Index]({{ site.baseurl }}/campaigns/la-familia/)
 - [La Familia Summary]({{ site.baseurl }}/campaigns/la-familia/summary/)
 - [La Fuerza Oculta AI Notes 2025-06-15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Detalles Adicionales
 

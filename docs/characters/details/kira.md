@@ -12,7 +12,7 @@ slug: kira
 </div>
 
 ## Presentación
-Kira (también Kiara) es una metahumana de 13-14 años con capacidad de manipulación eléctrica, recién llegada al Reformatorio Nueva Esperanza en Isla Albedo. Con un estilo "emo" y una personalidad retraída, Kira está procesando la culpa de haber dejado a un compañero de clase en coma sin saberlo. Es jugada por **Adriana Ferran Gonzalez** en la campaña "Reformatorio Nueva Esperanza".
+Kira (también Kiara) es una metahumana de 13-14 años con capacidad de manipulación eléctrica, recién llegada al Reformatorio Nueva Esperanza en Isla Albedo. Con un estilo "emo" y una personalidad retraída, Kira está procesando la culpa de haber dejado a un compañero de clase en coma sin saberlo. Es jugada por **Adriana Ferran Gonzalez** en la campaña "Los 404".
 
 ## Historia Personal
 Kira acaba de llegar al reformatorio tras un **accidente traumático** en su instituto. Sin saberlo y sin control sobre sus poderes, dejó a un compañero de clase en coma al usar sus capacidades eléctricas contra él.
@@ -249,15 +249,15 @@ Kira demostró **iniciativa táctica y uso versátil de poderes** durante el esc
 
 ## Apariciones Documentadas
 
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Los 404 - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Los 404 - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Los 404 - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Situación Actual (Febrero 2026)
 

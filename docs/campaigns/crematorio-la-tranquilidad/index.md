@@ -328,8 +328,8 @@ Los protagonistas tendrán nuevas oportunidades de:
 
 ### Con Otras Campañas de Arcadia
 
-**Reformatorio Nueva Esperanza**: Ambas campañas exploran **personas atrapadas**:
-- Reformatorio: Físicamente atrapados en una isla
+**Los 404**: Ambas campañas exploran **personas atrapadas**:
+- Los 404: Físicamente atrapados en una isla
 - Crematorio: Temporalmente atrapados en un bucle
 
 **La Fuerza Oculta**: Mientras los jóvenes héroes salvan Arcadia:

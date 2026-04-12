@@ -12,7 +12,7 @@ slug: tiritas
 </div>
 
 ## Presentación
-Tiritas es un metahumano con capacidad de absorción de energía cinética que lleva dos años en el Reformatorio Nueva Esperanza en Isla Albedo. Su apodo "Tiritas" refleja tanto su conexión con el daño físico (que alimenta sus poderes) como posiblemente la necesidad de "curar" que representa. Es jugado por **Júlia Gasull** en la campaña "Reformatorio Nueva Esperanza".
+Tiritas es un metahumano con capacidad de absorción de energía cinética que lleva dos años en el Reformatorio Nueva Esperanza en Isla Albedo. Su apodo "Tiritas" refleja tanto su conexión con el daño físico (que alimenta sus poderes) como posiblemente la necesidad de "curar" que representa. Es jugado por **Júlia Gasull** en la campaña "Los 404".
 
 ## Historia Personal
 Tiritas llegó al reformatorio hace dos años, acusado de **matar a su padre durante una paliza en defensa propia**. Este trauma fundacional define gran parte de su personalidad y motivaciones.
@@ -259,15 +259,15 @@ La sesión más emocionalmente intensa para Tiritas hasta la fecha:
 
 ## Apariciones Documentadas
 
-- [Reformatorio Nueva Esperanza - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-10-26-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-02-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2025-11-16-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-11-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-01-25-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-02-22-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-01-gemini-notes/)
-- [Reformatorio Nueva Esperanza - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/aun-sin-nombre/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
+- [Los 404 - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/)
+- [Los 404 - Sesión 16/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-16-gemini-notes/)
+- [Los 404 - Sesión 11/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-11-gemini-notes/)
+- [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
+- [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
+- [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 
 ## Situación Actual (Marzo 2026)
 

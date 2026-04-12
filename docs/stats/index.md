@@ -117,8 +117,8 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Período**: Presente en todas las eras como antagonista
 - **Estado**: Organización persistente, documentación continua
 
-#### **🏝️ Reformatorio Nueva Esperanza (2025)**
-- **Sesiones Documentadas**: 1 sesión (inicio de campaña)
+#### **🏝️ Los 404 (2025)**
+- **Sesiones Documentadas**: 10 sesiones documentadas
 - **Período**: Octubre 2025 - Presente
 - **Jugadores**: 3 participantes (Sergei, Tiritas, Kira)
 - **Enfoque**: Jóvenes metahumanos inadaptados en instituto cerrado

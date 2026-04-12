@@ -128,11 +128,11 @@ permalink: /characters/gallery/
   </div>
 </div>
 
-<!-- Reformatorio Nueva Esperanza -->
+<!-- Los 404 -->
 <div class="character-section">
-  <h3 class="character-category-title">🏝️ Reformatorio Nueva Esperanza</h3>
+  <h3 class="character-category-title">🏝️ Los 404</h3>
   <div class="gallery-container" id="reformatorio-gallery">
-    <!-- Reformatorio Nueva Esperanza character cards will be dynamically loaded here -->
+    <!-- Los 404 character cards will be dynamically loaded here -->
   </div>
 </div>
 

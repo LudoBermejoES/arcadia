@@ -55,13 +55,19 @@ Para análisis estructurados y resúmenes narrativos, consulta los [Resúmenes A
 | 01/03/2026 | Sesión 9 | [Transcripción]({{ site.baseurl }}/campaigns/los-404/ai-notes/2026-03-01-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/) |
 | 15/03/2026 | Sesión 10 | [Transcripción]({{ site.baseurl }}/campaigns/los-404/ai-notes/2026-03-15-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/) |
 
+### Abril 2026
+
+| Fecha | Sesión | Transcripción | Análisis |
+|-------|--------|---------------|----------|
+| 12/04/2026 | Sesión 11 | [Transcripción]({{ site.baseurl }}/campaigns/los-404/ai-notes/2026-04-12-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/) |
+
 ---
 
 ## Estadísticas
 
-- **Total de transcripciones**: 10
-- **Período cubierto**: Octubre 2025 - Marzo 2026
-- **Jugadores documentados**: David Pérez Jiménez (Sergei), Júlia Gasull (Tiritas), Adriana Ferran Gonzalez (Kira), Perico/Capitán Berberecho (Elena)
+- **Total de transcripciones**: 11
+- **Período cubierto**: Octubre 2025 - Abril 2026
+- **Jugadores documentados**: David P.J. Martín (Sergei/Morf), Júlia Gasull (Tiritas), Adriana Ferran Gonzalez (Kira), Capitán Berberecho (Elena/Titiritera)
 
 ---
 
@@ -73,4 +79,4 @@ Para análisis estructurados y resúmenes narrativos, consulta los [Resúmenes A
 
 ---
 
-*Última actualización: Marzo 2026*
+*Última actualización: Abril 2026*

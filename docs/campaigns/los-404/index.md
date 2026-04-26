@@ -91,6 +91,10 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 - **[01 Marzo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)**: Clínica clandestina — doctora Jailé extrae la bala, Mishka paralizada por Kira y finalmente liberada, motero herido regala anillo de oro a Tiritas, refugio en Distrito Veneris con Malik Ferrán, revelación sobre familia de Tiritas (padre asesinado por Tiritas en defensa propia — confirmado por Noemi, madre en cárcel, hermana en acogida), revelación sobre biología y vulnerabilidades Strigoi, pista de Mésmero en el Barrio Gótico
 - **[15 Marzo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)**: Malik confirma desaparición de Lía (hermana de Tiritas) sin rastro en ningún registro, visita al gimnasio de Comadreja Negra — héroe retirado que prueba los poderes de Tiritas golpeándola, advertencia de que Malik es barón de la Telaraña, propuesta de entrenamiento real para Kira en lugar del collar inhibidor, Linda (secretaria) con poderes de niebla congelante, contacto con el director Nadie sobre los Strigoi, viaje al Barrio Gótico en Volkswagen morado años 60, llegada a la base de Mésmero en antiguo parque de bomberos — ya leyó las mentes del grupo y se quedó pálido
 
+### 🌸 **Fase V: Unidad 404 (Abril 2026)**
+
+- **[12 Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)**: Q&A con Mésmero — biología completa de los Estrigoy, confirmación de la masacre de mentalistas hace 15 años (solo sobrevivieron 2), aparición fugaz del Faraón (criminal de guerra y familiar de Mésmero), confesión de Mésmero sobre su propia responsabilidad en los 2 millones de muertos, oferta de apartamento de su hija como base permanente, taxi con el fan Nacho que los reconoce por el vídeo viral, elección de nombres heroicos individuales (Kira, Morf/Morfeo, Tiritas el macarrado, Titiritera), adopción del nombre colectivo **Unidad 404** (propuesto por Tiritas, ref. HTTP 404), gancho de Comadreja sobre circuito ilegal de combates juveniles
+
 ---
 
 ## 🌆 Temas Centrales
@@ -166,12 +170,12 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">6</span>
+<span class="stat-number">7</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">10</span>
+<span class="stat-number">11</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

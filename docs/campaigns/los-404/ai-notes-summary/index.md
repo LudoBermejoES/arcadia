@@ -294,6 +294,38 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### 🌸 **Abril 2026 - La Unidad 404 Nace**
+
+#### [📈 Análisis 12/04/2026 - La Confesión de Mésmero y el Nacimiento de la Unidad 404]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
+**"Revelaciones, culpa histórica e identidad colectiva"**
+
+**🎯 Temas Centrales Identificados:**
+- **La Culpa como Condición**: Mésmero revela que comparte responsabilidad por dos millones de muertos — el mentor no es un héroe
+- **Identidad Voluntaria**: El grupo elige sus propios nombres heroicos por primera vez
+- **Biología Estrigoy Completa**: Inserción genómica en metahumanas fértiles, mente colmena, vulnerabilidad telepática
+- **La Fama como Amenaza**: El taxista Nacho los reconoce por el vídeo viral
+
+**👥 Desarrollo de Personajes:**
+- **Tiritas**: Propone *Unidad 404*, adopta *Tiritas el macarrado*, pregunta sobre Lía
+- **Kira**: Rechaza *Chispas*, elige *Kira* (ref. Death Note), planea gestión digital de identidad
+- **Sergei**: Adopta *Morf/Morfeo*, motivación personal sigue ambigua
+- **Elena**: Se incorpora plenamente como **Titiritera** tras reincorporación al grupo
+
+**🔮 Arcos Narrativos Avanzados:**
+- Mésmero ofrece apartamento de su hija como base permanente + resolución legal + formación
+- El Faraón (criminal de guerra, familia de Mésmero) hace aparición fugaz — conexión sin resolver
+- Comadreja llama sobre circuito ilegal de combates juveniles — primera misión activa de la Unidad 404
+- Hermana de Tiritas posiblemente en esos circuitos
+
+**⚡ Momentos Clave:**
+- Mésmero confirma masacre de mentalistas hace 15 años (solo sobrevivieron 2)
+- El Faraón aparece y desaparece del salón de Mésmero — "es familia mía"
+- Mésmero: "No me considero moralmente superior a nadie" — confesión de culpa histórica
+- Nacho el taxista pide autógrafo — primera fan experience del grupo
+- Tiritas propone *Unidad 404* (HTTP 404, "not found") — aprobado unánimemente
+
+---
+
 ### 🌷 **Marzo 2026 - El Gimnasio y el Barrio Gótico**
 
 #### [📈 Análisis 15/03/2026 - El Gimnasio de Comadreja y la Puerta al Barrio Gótico]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)

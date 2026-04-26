@@ -233,6 +233,22 @@ Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusion
 - Llegó exhausta al Motel Locaso
 - Primera noche fuera del reformatorio desde su internamiento
 
+### **Titiritera — El Nombre que da Miedo (12/04/2026)**
+
+Elena se incorporó plenamente al grupo en la sesión en casa de Mésmero tras estar ausente varias sesiones:
+
+**Nombre heroico:**
+- Preguntó si el nombre *Titiritera* estaba disponible. Se confirmó que nadie lo tenía.
+- Lo adoptó de inmediato. La reacción del grupo fue unánime: *"da miedito"*.
+- El nombre es completamente coherente con su poder de ilusión y su teatralidad natural.
+
+**En el apartamento:**
+- Se instaló en el piso de la hija de Mésmero junto al grupo.
+- El baño tiene las tres conchas de *Demolition Man* — detalle que fue celebrado.
+
+**Sobre Mésmero y las revelaciones:**
+- Escuchó las revelaciones sobre los Estrigoy, el Faraón y la confesión de Mésmero sin que se documente una reacción específica. Su incorporación tardía puso el foco en la puesta al día narrativa.
+
 ## Apariciones Documentadas
 
 - [Los 404 - Sesión 02/11/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-11-02-gemini-notes/)
@@ -241,40 +257,28 @@ Elena demostró ser **esencial para la supervivencia del grupo** con sus ilusion
 - [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 
-## Situación Actual (Febrero 2026)
+## Situación Actual (Abril 2026)
 
-Elena ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. Sus ilusiones demostraron ser **absolutamente esenciales** para la supervivencia del grupo en el mundo exterior.
-
-### **Evolución Reciente**
-
-- **Poder Esencial**: Sus ilusiones permitieron al grupo pasar desapercibido en público
-- **Madurez en Crisis**: Mantuvo la concentración a pesar de la fatiga extrema
-- **Limitaciones Claras**: Demostró que sus ilusiones requieren proximidad y consumen energía
-- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
+Elena vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404. Su nombre heroico es **Titiritera**. Está plenamente integrada como miembro del grupo.
 
 ### **Estado Actual**
 
-- **Ubicación**: Furgoneta robada, camino a clínica clandestina
-- **Estado Físico**: En buen estado tras el combate del motel
-- **Rol en el Grupo**: Apoyo táctico esencial para ocultación e ilusiones de combate
-- **Estado Legal**: Fugitiva buscada por Metacorps
-
-### **Importancia Estratégica**
-
-El escape demostró que Elena es **crítica para operaciones en público**:
-- Sin sus ilusiones, el grupo no podría haber comprado suministros
-- La limitación de proximidad obliga al grupo a permanecer unido
-- Su fatiga es un factor limitante para operaciones prolongadas
+- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Nombre heroico**: Titiritera
+- **Estado Físico**: En buen estado
+- **Estado Legal**: Fugitiva; Mésmero gestiona regularización
+- **Rol en el Grupo**: Apoyo táctico esencial para ocultación, ilusiones de combate y distracción
 
 ### **Preguntas Abiertas**
 
 - ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
 - ¿Tiene familia en el exterior?
 - ¿Cuál es su edad exacta?
-- ¿Cómo afectará la fatiga extrema a su control de poderes a largo plazo?
-- ¿Podrán depender de sus ilusiones para sobrevivir como fugitivos?
-- ¿Qué harán ahora que son libres pero fugitivos?
+- ¿Cómo afectará la revelación sobre Mésmero a su relación con el mentor?
 
 ## Desarrollo Potencial
 El arco de Elena podría explorar:

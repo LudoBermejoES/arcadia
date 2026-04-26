@@ -257,6 +257,22 @@ La sesión más emocionalmente intensa para Tiritas hasta la fecha:
 - Saber que su madre está encarcelada y su hermana en el sistema de acogida es devastador
 - Al mismo tiempo, hay una pista concreta: Malik puede encontrar a la hermana
 
+### **La Identidad que se Elige y el Nombre que Perdura (12/04/2026)**
+
+En la sesión con Mésmero y durante el traslado al apartamento de su hija, Tiritas marcó dos hitos decisivos:
+
+**Nombre heroico propio:**
+- Ante la amenaza del narrador de que la llamarían *Corpón* si no elegía ella misma, Tiritas optó por **"Tiritas el macarrado"** — un nombre que sintetiza su historia de heridas, cicatrices y su obsesión alimentaria. Es irónico, autodescriptivo y absolutamente suyo.
+
+**El nombre del grupo:**
+- Tiritas propuso **"Unidad 404"** inspirándose en el código HTTP 404 (*not found*): *"No nos van a encontrar."* El grupo lo aceptó sin objeciones. Por primera vez, algo del grupo lleva la marca de Tiritas.
+
+**Pregunta sobre Lía:**
+- Preguntó directamente a Mésmero si sabía dónde estaba su hermana. Mésmero reconoció sus limitaciones y señaló a Comadreja como mejor recurso — especialmente si está vinculada a combates clandestinos.
+
+**Gancho sobre Lía:**
+- La llamada de Comadreja al cierre de la sesión sobre un circuito ilegal de combates de jóvenes metahumanos conecta directamente con el tipo de torneos en los que el padre de Tiritas participaba. La próxima misión apunta directamente al arco personal más urgente.
+
 ## Apariciones Documentadas
 
 - [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -268,35 +284,35 @@ La sesión más emocionalmente intensa para Tiritas hasta la fecha:
 - [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 
-## Situación Actual (Marzo 2026)
+## Situación Actual (Abril 2026)
 
-Tiritas se encuentra en la **base de Mésmero** en el Barrio Gótico — un antiguo parque de bomberos remodelado — tras haber visitado el gimnasio de Comadreja y cruzado a este territorio sobrenatural.
+Tiritas vive en el **apartamento de la hija de Mésmero**, instalada junto al resto de la Unidad 404. Tiene wifi, provisiones y una base segura por primera vez desde que escapó del reformatorio. Su nombre heroico es **Tiritas el macarrado**. Su nombre de grupo es **Unidad 404**, propuesta suya.
 
-### **Evolución Reciente (Sesión 10 - 15/03/2026)**
+### **Evolución Reciente (Sesión 11 - 12/04/2026)**
 
-- **Lía desaparecida**: Malik confirmó que la hermana de Tiritas (**Lía**) no figura en ningún registro legal. Probablemente fue capturada porque desarrolló poderes — posiblemente para torneos ilegales.
-- **Reconocida por Comadreja**: El veterano héroe la identificó como *"la chica cuyo padre organizaba peleas"* — el pasado violento de Tiritas circula entre ciertos círculos metahumanos.
-- **Prueba de poderes**: Comadreja la golpeó en el estómago sin previo aviso para evaluar sus capacidades. Tiritas se transformó a casi 2,5 metros ante el impacto.
-- **Nuevo contacto clave**: Comadreja se ha comprometido a investigar si Lía está siendo usada en torneos ilegales a través de sus contactos en ese mundo.
-- **Mésmero ya la conoce**: Al llegar a la base de Mésmero, este ya había leído las mentes del grupo. Su reacción (cara pálida) indica que lo que encontró es significativo.
+- **Nombre heroico elegido**: *Tiritas el macarrado* — autoreferencial, irónico y completamente suyo.
+- **Propuso Unidad 404**: El nombre del grupo es suyo. Primera vez que algo colectivo lleva su marca.
+- **Preguntó por Lía**: A Mésmero directamente. La respuesta fue una redirección a Comadreja — quien ya está en ello.
+- **Gancho inminente**: La llamada de Comadreja sobre combates ilegales juveniles es potencialmente la pista más directa a Lía que ha tenido hasta ahora.
 
 ### **Estado Actual**
 
-- **Ubicación**: Base de Mésmero, Barrio Gótico (sin señal móvil)
+- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Nombre heroico**: Tiritas el macarrado
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Cargando con la confirmación de que Lía ha desaparecido — peor de lo esperado (no en acogida, sino desaparecida)
-- **Estado Legal**: Fugitiva buscada por Metacorps
-- **Nuevos contactos**: Comadreja Negra (investigará a Lía)
+- **Estado Emocional**: Más estable que en semanas — tiene base, tiene nombre, tiene una pista sobre Lía
+- **Estado Legal**: Fugitiva; Mésmero gestiona regularización
+- **Próxima misión**: Investigar circuito ilegal de combates juveniles (posible pista sobre Lía)
 
 ### **Preguntas Abiertas**
 
-- ¿Dónde está Lía y en qué condiciones está siendo retenida?
-- ¿Comadreja logrará rastrearla a través de los torneos ilegales?
-- ¿Qué vio Mésmero en la mente de Tiritas que lo dejó pálido?
-- ¿Qué pasó realmente con la madre? ¿Fue encarcelada por los mismos hechos?
+- ¿Está Lía en los torneos ilegales que Comadreja mencionó?
+- ¿Comadreja logrará rastrearla a través de sus contactos?
+- ¿Qué condiciones tiene Lía si está en ese mundo?
+- ¿Cómo afecta a Tiritas que su historia familiar circule entre ciertos círculos metahumanos?
 - ¿Qué hará con el anillo de oro del motero?
-- ¿Cómo afectará a Tiritas saber que su historia familiar es conocida en el mundo metahumano?
 
 ## Desarrollo Potencial
 El arco de Tiritas podría explorar:

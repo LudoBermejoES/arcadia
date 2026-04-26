@@ -247,6 +247,22 @@ Kira demostró **iniciativa táctica y uso versátil de poderes** durante el esc
 - Llegó al Motel Locaso con el grupo
 - Primera noche fuera del reformatorio desde su internamiento
 
+### **Kira vs. Chispas — La Identidad Elegida (12/04/2026)**
+
+En el camino al apartamento de la hija de Mésmero, Kira libró la batalla más importante hasta la fecha: la de su propio nombre.
+
+**Rechazo de "Chispas":**
+- Tiritas seguía llamándola *Chispas* y quería que ese fuera su nombre heroico.
+- Kira se negó con firmeza. Eligió **Kira** — referencia explícita al personaje de *Death Note*, no a Akira.
+- El debate fue real: los nombres en inglés no son habituales en Arcadia (que está "prácticamente en guerra con los Estados Unidos"), pero Kira lo impuso igualmente.
+
+**Estrategia digital:**
+- Al llegar al apartamento, Kira se propuso usar el ordenador para crear un perfil seguro bajo el nombre *Kira* y suprimir el apodo *Chispas* de internet.
+- Es la primera acción táctica del grupo frente a su exposición mediática. Kira entiende que la amenaza más inmediata no es física — es de identidad pública.
+
+**Sobre Mésmero:**
+- Escuchó sin reaccionar ante la confesión de que Mésmero comparte responsabilidad por dos millones de muertos. La revelación no la llevó a huir ni a confrontar — observó.
+
 ## Apariciones Documentadas
 
 - [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -258,33 +274,27 @@ Kira demostró **iniciativa táctica y uso versátil de poderes** durante el esc
 - [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
 - [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 
-## Situación Actual (Febrero 2026)
+## Situación Actual (Abril 2026)
 
-Kira ha **escapado completamente de Isla Albedo** y pasado su primera noche de libertad. Su rol como **ejecutora principal** (sabotaje, conducción) demostró crecimiento táctico significativo.
+Kira vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404. Su nombre heroico es **Kira**. Está trabajando en suprimir el apodo *Chispas* de internet y construir una identidad pública controlada.
 
-### **Evolución Reciente**
+### **Evolución Reciente (Sesión 11 - 12/04/2026)**
 
-- **Iniciativa Táctica**: Saboteó el teléfono del pescador sin que se lo pidieran
-- **Versatilidad de Poderes**: Electricidad para sabotaje, arranque de coche, y más
-- **Conductora del Grupo**: A pesar de no saber conducir, llevó al grupo a salvo
-- **Primera Libertad**: Primera noche fuera del reformatorio desde su internamiento
-- **Superación del Trauma**: No dejó que el incidente con Tiritas la paralizara
-
-### **Evolución Reciente (Sesiones 9-10 - Marzo 2026)**
-
-- **Madre buscándola públicamente**: Su madre ha aparecido en televisión y ha puesto su cara en carteles. El resto del grupo no está siendo perseguido activamente — Kira es la más expuesta mediáticamente.
-- **El collar debatido**: Comadreja Negra se pronunció sobre el collar inhibidor: *"es como castrar a alguien"*. Propuso entrenamiento real como alternativa a la represión — la primera voz de autoridad que cuestiona el sistema del reformatorio en su cara.
-- **Oferta de entrenamiento**: Comadreja ofreció negociar con el Señor Nadie para que Kira pueda entrenarse con él en lugar de estar recluida. Condiciones: vivir donde él diga y seguir sus instrucciones.
-- **Intento fallido con Mésmero**: Kira intentó leer la mente de Mésmero al conocerlo — no obtuvo ninguna respuesta. Primera vez que sus intentos telepáticos básicos fallan completamente. Mésmero tiene su mente blindada.
-- **Advertencia sobre personalidad**: Su carácter difícil fue identificado como riesgo para la cohesión del grupo. Si no lo modera, podría acabar operando en solitario.
+- **Nombre heroico fijado**: *Kira* — elegido y defendido frente a la propuesta de Tiritas de llamarla *Chispas*.
+- **Iniciativa de identidad digital**: Primera del grupo en entender que la amenaza más urgente es la exposición mediática, no la física.
+- **Reacción ante la confesión de Mésmero**: Observó sin huir ni confrontar — procesa la información antes de actuar.
+- **Base segura**: Primera vez con alojamiento estable, wifi y recursos básicos desde el reformatorio.
 
 ### **Estado Actual**
 
-- **Ubicación**: Base de Mésmero, Barrio Gótico (sin señal móvil)
+- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Nombre heroico**: Kira
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Enfrentando la realidad de que su madre la busca y la primera oferta real de entrenamiento legítimo
-- **Estado Legal**: Fugitiva buscada — la más expuesta del grupo mediáticamente
+- **Estado Emocional**: Más estabilizada — tiene base, tiene nombre propio, tiene un plan digital
+- **Estado Legal**: Fugitiva; la más expuesta mediáticamente; Mésmero gestiona regularización
+- **Acción en curso**: Construcción de perfil digital seguro como "Kira"; supresión de "Chispas"
 - **Decisión pendiente**: ¿Acepta el trato de Comadreja para entrenar bajo su supervisión?
 
 ### **Impacto Psicológico**

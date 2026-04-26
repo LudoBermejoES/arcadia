@@ -123,7 +123,7 @@ permalink: /campaigns/la-fuerza-oculta/sumario-penas/
 | Acusado | Internamiento | Prisión (nominal) | Prisión efectiva | Libertad vigilada | Servicio comunitario | Restricciones especiales |
 |---------|:---:|:---:|:---:|:---:|:---:|---|
 | **Diana** | No | 0 | 0 | 18 meses | 400h | Poderes prohibidos en público |
-| **Pantomima** | No | 0 | 0 | 6 meses | 150h | — |
+| **Pantomima** | No | 0 | 0 | 6 meses | 400h | — |
 | **Psique** | No | 0 | 0 | 18 meses | — | Isla Azogue quincenal obligatoria |
 | **Sentencia** | **12 meses** | 9 meses | 0\* | — | — | No armas · No conducir 12m · Inhabilitación 3a · Terapia 24m |
 | **Hotman** | No | 2 años | 0\* | 6 meses | 400h | Isla Azogue o supervisión Eneiros |

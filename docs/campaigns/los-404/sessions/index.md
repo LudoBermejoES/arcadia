@@ -13,6 +13,25 @@ permalink: /campaigns/los-404/sessions/
 
 ## 📅 Cronología de Sesiones
 
+### 🌸 **Abril 2026 - La Unidad 404**
+
+#### [📝 Sesión 12 de Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
+
+**"La Confesión de Mésmero y el Nacimiento de la Unidad 404"**
+
+- 🧠 **Mésmero se abre**: Explica la biología completa de los Estrigoy (inserción genómica en metahumanas fértiles, mente colmena, vulnerabilidad telepática), confirma la masacre de mentalistas hace 15 años
+- 👤 **El Faraón aparece**: Criminal de guerra responsable de 2 millones de muertos hace 15 años —familiar de Mésmero— materializa brevemente en el salón y desaparece
+- ⚖️ **La confesión**: Mésmero admite compartir la responsabilidad de esas muertes. *"No me considero moralmente superior a nadie"*
+- 🏠 **Nueva base**: Mésmero ofrece el apartamento de su hija como residencia permanente + promete resolver su situación legal + clases el lunes
+- 🚕 **Nacho el taxista**: Los reconoce por el vídeo viral en su Seat 127 y pide autógrafo — primera experiencia de fama pública
+- 🏷️ **Nombres heroicos elegidos**: Kira (sobre Chispas), Morf/Morfeo (Sergei), Tiritas el macarrado (sobre Corpón), Titiritera (Elena)
+- 🔢 **Unidad 404**: Tiritas propone el nombre inspirado en el código HTTP 404 (*not found*) — "no nos van a encontrar" — aprobado unánimemente
+- 🥊 **Gancho**: Comadreja llama sobre un circuito ilegal de combates de jóvenes metahumanos — primera misión activa
+
+**Temas Clave**: Culpa histórica como condición del mentor, identidad auto-elegida vs. impuesta, la fama como nueva amenaza
+
+---
+
 ### 🌷 **Marzo 2026 - El Mundo Subterráneo y el Barrio Gótico**
 
 #### [📝 Sesión 15 de Marzo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)

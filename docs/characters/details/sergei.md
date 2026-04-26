@@ -197,6 +197,21 @@ Sergei emergió como **líder táctico de facto** durante el escape completo del
 - Guió al grupo hasta el Motel Locaso
 - El grupo pasó su primera noche fuera del reformatorio
 
+### **Morf — El Nombre Pragmático (12/04/2026)**
+
+En la sesión en casa de Mésmero y durante el traslado al apartamento:
+
+**Nombre heroico:**
+- Aceptó ser llamado **Morf** o **Morfeo** por sus poderes de metamorfosis.
+- La elección fue pragmática — describe lo que hace sin añadir capas de significado que él no eligió conscientemente. Coherente con su perfil de superviviente adaptable.
+
+**Sobre las revelaciones de Mésmero:**
+- Escuchó sin confrontar la confesión sobre los dos millones de muertos y la aparición del Faraón.
+- Mésmero expresó que no juzga a nadie, incluido a Sergei, cuyo robo para sobrevivir fue explícitamente absuelto: *"robar para sobrevivir no es un acto delictivo"*.
+
+**Motivación personal:**
+- Sigue siendo el miembro con la motivación más ambigua. Escapó del reformatorio — su único hogar conocido — por lealtad al grupo, no por una necesidad propia urgente. Tener una base estable en el apartamento puede ser la primera vez que tiene algo que no sea el reformatorio.
+
 ## Apariciones Documentadas
 
 - [Los 404 - Sesión 26/10/2025]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2025-10-26-gemini-notes/)
@@ -206,36 +221,30 @@ Sergei emergió como **líder táctico de facto** durante el escape completo del
 - [Los 404 - Sesión 25/01/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-01-25-gemini-notes/)
 - [Los 404 - Sesión 01/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-01-gemini-notes/)
 - [Los 404 - Sesión 22/02/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-02-22-gemini-notes/)
+- [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
+- [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
+- [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 
-## Situación Actual (Febrero 2026)
+## Situación Actual (Abril 2026)
 
-Sergei ha liderado el **escape completo de Isla Albedo** y guiado al grupo hasta su primera noche de libertad en el Motel Locaso. Se ha establecido como el **líder táctico de facto** del grupo fugitivo.
-
-### **Evolución Reciente**
-
-- **Líder Táctico**: Emergió como coordinador y tomador de decisiones del grupo
-- **Uso Innovador de Poderes**: "Ojos GPS" separados para ayudar a Kira a conducir
-- **Conocimiento del Mundo**: Reveló experiencia previa con el submundo (conoce moteles, sabe robar)
-- **Habilidades de Supervivencia**: Latrocinio exitoso, ~2400 pesetas robadas para el grupo
-- **Primera Libertad**: Pasó su primera noche fuera del reformatorio en años
+Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404. Su nombre heroico es **Morf** (o Morfeo). Por primera vez tiene una base que no es el reformatorio.
 
 ### **Estado Actual**
 
-- **Ubicación**: Furgoneta robada, camino a clínica clandestina
-- **Recursos**: Aproximadamente 2000 pesetas restantes
-- **Estado Físico**: En buen estado, sin heridas tras el combate del motel
-- **Estado Legal**: Fugitivo buscado por Metacorps
+- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Nombre heroico**: Morf / Morfeo
+- **Estado Físico**: En buen estado
+- **Estado Legal**: Fugitivo; Mésmero gestiona regularización
+- **Motivación**: Ambigua — acompaña al grupo más por lealtad que por necesidad propia
 
 ### **Preguntas Abiertas**
 
-- ¿Por qué realmente está Sergei en el reformatorio desde hace tanto tiempo?
-- **¿Qué causó su pérdida de memoria?** (revelado en Sesión 2)
-- **¿Qué significan sus pesadillas recurrentes?** (se despierta alterado sin recordar)
-- ¿Tiene familia fuera o el reformatorio es su único hogar?
-- ¿Cómo conoce el Motel Locaso y el submundo de Arcadia?
-- ¿Podrán denunciar lo que descubrieron en el Upside Down?
-- ¿Su amnesia está relacionada con los misterios del reformatorio?
-- ¿Qué harán ahora que son libres pero fugitivos?
+- ¿Por qué realmente estuvo Sergei en el reformatorio desde los 12-13 años?
+- **¿Qué causó su pérdida de memoria?**
+- **¿Qué significan sus pesadillas recurrentes?**
+- ¿Tiene familia fuera o el reformatorio era su único hogar real?
+- ¿Qué hará con la primera estabilidad que no sea el reformatorio?
+- ¿Su amnesia está relacionada con los misterios Estrigoy?
 
 ---
 

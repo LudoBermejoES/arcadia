@@ -308,7 +308,15 @@ Ningún plan del grupo ha salido exactamente como se diseñó. Y sin embargo, so
 
 ---
 
-*Última actualización: Sesión 10 — 15 Marzo 2026*
+*Última actualización: Sesión 12 — 26 Abril 2026*
+
+### Actualización: Sesiones 11 (12/04/2026) y 12 (26/04/2026)
+
+**Sesión 11 — La Confesión de Mésmero**: El telépata recibe al grupo en su base del Barrio Gótico, explica la biología completa de los Estrigoy y confirma la masacre de mentalistas hace 15 años. El Faraón —familiar de Mésmero y criminal de guerra— aparece fugazmente. Mésmero confiesa compartir la responsabilidad de los 2 millones de muertos: el mentor no es un héroe puro. El grupo se traslada al apartamento de la hija de Mésmero, adopta nombres heroicos individuales (Kira, Morf/Morfeo, Tiritas el macarrado, Titiritera) y, por iniciativa de Tiritas, el nombre colectivo **Unidad 404** (HTTP 404, *not found*). Comadreja llama al final con un gancho: circuito ilegal de combates juveniles.
+
+**Sesión 12 — El Combate Clandestino y el Pacto con Mulcifer**: La Unidad 404 acepta la tutela de Comadreja con tres condiciones (clases, no robar, entrenamiento físico a las 7:00 a.m.). Sergei recibe una revelación inesperada: existe otra metahumana con sus mismos poderes —**Pantomima**— y se introduce el concepto de la **"lotería de poderes" de hace 10 años** que causó un *reset* metahumano global. El grupo se infiltra en un combate clandestino en el Distrito Lunae usando una ilusión colectiva de Titiritera para parecer adultos. En el palco superior se enfrentan a **Mulcifer**, miembro de **Fatum**, que los identifica por el vídeo viral. **Lía, la hermana de Tiritas, es baronesa de la Telaraña**: no víctima, sino dirigente criminal. Tras una negociación en la que Tiritas ofrece macarrones, Titiritera obtiene la localización de Lía manipulando el teléfono de Mulcifer. La sesión se cierra con el grupo subiendo a una limusina blanca con mueble bar puesta a su disposición, en dirección al **distrito marítimo / barrio flotante** de Arcadia.
+
+**Reorientación del arco principal**: La búsqueda de Lía deja de ser un rescate y se convierte en un encuentro con una hermana criminalmente integrada. La pregunta ya no es "¿la encontraremos?", sino "¿qué se le dice a una baronesa de la Telaraña que era tu hermana pequeña?". El grupo está ahora en contacto operativo con Fatum (vía Mulcifer) y bajo la tutela de Comadreja, con cobertura social pero los Metacops aún latentes.
 
 ---
 

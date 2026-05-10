@@ -15,6 +15,25 @@ permalink: /campaigns/los-404/sessions/
 
 ### 🌸 **Abril 2026 - La Unidad 404**
 
+#### [📝 Sesión 26 de Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+
+**"El Combate Clandestino y el Pacto con Mulcifer"**
+
+- 🤝 **Pacto con Comadreja**: Clases obligatorias, prohibición de robar, entrenamiento físico a las 7:00 a.m. en el gimnasio. Tutela acordada con las autoridades; tarjeta de crédito de Comadreja para gastos legítimos
+- 🦎 **Sergei y Pantomima**: Comadreja revela que existe otra metahumana con sus mismos poderes (Pantomima de La Fuerza Oculta) — posible parentesco. Primer cruce explícito entre las dos campañas a nivel de PJ
+- ⚡ **La "lotería de poderes"**: Hace 10 años un evento sistémico causó un *reset* metahumano global —algunos perdieron poderes, otros los ganaron. Posible origen de los poderes de Sergei
+- 🅿️ **Infiltración**: Combate clandestino en estacionamiento subterráneo del Distrito Lunae (Isla Lápiz). Ilusión colectiva de Titiritera convierte al grupo en adultos. Contraseña de *El Señor de los Anillos*
+- 🥊 **El combate como espectáculo**: Tiritas identifica el enfrentamiento como *paripé*. Audiencia adinerada con apuestas, coches diplomáticos europeos (no estadounidenses — eco de las tensiones del consulado)
+- 👁️ **Mulcifer y Fatum**: Metahumano de piel mineral tipo ónice, miembro de **Fatum** (organización criminal). Reconoce a la Unidad 404 por el vídeo viral
+- 🕷️ **Lía es baronesa de la Telaraña**: La hermana de Tiritas no es víctima — es dirigente criminal. El arco personal de Tiritas se reorienta de rescate a encuentro
+- 🍝 **Macarrones como diplomacia**: Tiritas ofrece macarrones a Mulcifer en plena negociación. La autenticidad torpe funciona
+- 📍 **La pista**: Titiritera manipula el teléfono de Mulcifer y obtiene la localización de Lía: distrito marítimo / barrio flotante
+- 🚗 **Salida en limusina**: Mulcifer escolta al grupo y les facilita una limusina blanca con mueble bar interior
+
+**Temas Clave**: La identidad como ilusión funcional, los criminales como red de información alternativa al Estado, la fama metahumana como pasaporte en los márgenes
+
+---
+
 #### [📝 Sesión 12 de Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 
 **"La Confesión de Mésmero y el Nacimiento de la Unidad 404"**

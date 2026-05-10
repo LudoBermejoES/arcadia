@@ -275,27 +275,34 @@ En el camino al apartamento de la hija de Mésmero, Kira libró la batalla más 
 - [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
+- [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
 
 ## Situación Actual (Abril 2026)
 
-Kira vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404. Su nombre heroico es **Kira**. Está trabajando en suprimir el apodo *Chispas* de internet y construir una identidad pública controlada.
+Kira está bajo la tutela formal de Comadreja con la Unidad 404. Su tutela es la más complicada del grupo: a diferencia de Tiritas y Sergei, **sigue teniendo madre**, y la madre la busca públicamente. La regularización legal pasa por una conversación pendiente con su familia.
+
+### **Evolución Reciente (Sesión 12 - 26/04/2026)**
+
+- **Tutela complicada**: Comadreja confirma que la situación de Kira es la más difícil — su madre vive y la reclama. Se anticipa una conversación pendiente.
+- **Aprendizaje observacional**: En el combate clandestino observa con atención técnica al luchador metahumano que usa rayos similares a los suyos. Es la primera vez que ve a alguien usar sus mismos poderes en condiciones de combate real.
+- **Posición discreta**: Junto a Sergei mantiene perfil bajo durante la operación; ambos se cubren con capuchas cuando aparece el hombre del AK-47.
+- **Régimen físico aceptado**: Acepta el entrenamiento obligatorio a las 7:00 a.m. con Comadreja como condición de la tutela.
 
 ### **Evolución Reciente (Sesión 11 - 12/04/2026)**
 
 - **Nombre heroico fijado**: *Kira* — elegido y defendido frente a la propuesta de Tiritas de llamarla *Chispas*.
 - **Iniciativa de identidad digital**: Primera del grupo en entender que la amenaza más urgente es la exposición mediática, no la física.
 - **Reacción ante la confesión de Mésmero**: Observó sin huir ni confrontar — procesa la información antes de actuar.
-- **Base segura**: Primera vez con alojamiento estable, wifi y recursos básicos desde el reformatorio.
 
 ### **Estado Actual**
 
-- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
 - **Nombre heroico**: Kira
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Más estabilizada — tiene base, tiene nombre propio, tiene un plan digital
-- **Estado Legal**: Fugitiva; la más expuesta mediáticamente; Mésmero gestiona regularización
-- **Acción en curso**: Construcción de perfil digital seguro como "Kira"; supresión de "Chispas"
-- **Decisión pendiente**: ¿Acepta el trato de Comadreja para entrenar bajo su supervisión?
+- **Estado Emocional**: Aprendizaje activo; ver poderes similares a los suyos en combate real es información valiosa
+- **Estado Legal**: Bajo tutela de Comadreja, pero pendiente de gestionar la situación con su madre
+- **Acción en curso**: Construcción de perfil digital seguro como "Kira"; supresión de "Chispas"; conversación pendiente con su familia
+- **Régimen**: Entrenamiento físico obligatorio a las 7:00 a.m. con Comadreja
 
 ### **Impacto Psicológico**
 

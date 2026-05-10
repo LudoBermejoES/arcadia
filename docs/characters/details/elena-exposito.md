@@ -260,18 +260,27 @@ Elena se incorporó plenamente al grupo en la sesión en casa de Mésmero tras e
 - [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
+- [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
 
 ## Situación Actual (Abril 2026)
 
-Elena vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404. Su nombre heroico es **Titiritera**. Está plenamente integrada como miembro del grupo.
+Elena (Titiritera) bajo tutela de Comadreja con la Unidad 404. Tras la sesión 12 ha pasado a ser **el activo táctico más versátil del grupo**: la ilusión colectiva que sostuvo toda la operación de infiltración fue suya, y la maniobra que permitió obtener la localización de Lía también.
+
+### **Evolución Reciente (Sesión 12 - 26/04/2026)**
+
+- **Carga la operación**: La ilusión colectiva que disfraza al grupo de adultos durante la infiltración en el combate clandestino es enteramente suya. Tirada inicial casi falla; gasta un *Benis* para repetirla con éxito.
+- **Despiste cómico con riesgo real**: Se sienta accidentalmente cerca de la montaña de cocaína de Mulcifer en el palco. La situación se resuelve sin daño, pero pone en evidencia su dispersión característica.
+- **La maniobra del teléfono**: Cuando Mulcifer no consigue manipular su teléfono por su piel mineral, Titiritera se ofrece a ayudar como gesto inocente. **Se envía a sí misma la localización de Lía al teléfono propio** — una maniobra encubierta exitosa que pasa por torpeza voluntariosa.
+- **Activo táctico consolidado**: La sesión confirma que sus ilusiones son el recurso operativo más utilizable del grupo en escenarios sociales hostiles.
 
 ### **Estado Actual**
 
-- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
 - **Nombre heroico**: Titiritera
 - **Estado Físico**: En buen estado
-- **Estado Legal**: Fugitiva; Mésmero gestiona regularización
-- **Rol en el Grupo**: Apoyo táctico esencial para ocultación, ilusiones de combate y distracción
+- **Estado Emocional**: Confianza creciente en su rol táctico tras una operación exitosa
+- **Estado Legal**: Bajo tutela de Comadreja; Mésmero gestiona regularización
+- **Rol en el Grupo**: Apoyo táctico esencial para ocultación, ilusiones de combate, distracción y manipulación social encubierta
 
 ### **Preguntas Abiertas**
 

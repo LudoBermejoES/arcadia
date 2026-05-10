@@ -296,6 +296,38 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🌸 **Abril 2026 - La Unidad 404 Nace**
 
+#### [📈 Análisis 26/04/2026 - El Combate Clandestino y el Pacto con Mulcifer]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+**"Primera misión activa del grupo: Lía no era víctima"**
+
+**🎯 Temas Centrales Identificados:**
+- **La identidad como ilusión funcional**: Titiritera disfraza al grupo de adultos; Mulcifer rompe la ilusión y abre puertas en lugar de cerrarlas
+- **Los criminales como red de información**: Comadreja, Mulcifer y Mésmero saben más que las instituciones
+- **La hermana como espejo invertido**: Lía no era víctima, es **baronesa de la Telaraña**
+- **Macarrones como diplomacia**: La autenticidad torpe de Tiritas funciona como herramienta de negociación
+
+**👥 Desarrollo de Personajes:**
+- **Tiritas**: Negocia con Mulcifer, ofrece macarrones, recibe el mazazo silencioso sobre Lía
+- **Kira**: Observa al luchador eléctrico como aprendizaje técnico
+- **Sergei**: Revelación sobre **Pantomima** —otra metahumana con sus mismos poderes (posible parentesco)
+- **Titiritera**: Carga la operación con la ilusión colectiva y obtiene la localización manipulando el teléfono de Mulcifer
+
+**🔮 Arcos Narrativos Avanzados:**
+- Pacto formal con Comadreja (clases, no robar, entrenamiento 7:00 a.m.)
+- Diferencia legal entre los miembros: Tiritas sin patria potestad, Kira con madre que la busca, Sergei sin nadie
+- Introducción de **"la lotería de poderes"** de hace 10 años — *reset* metahumano global aún sin explicar
+- **Fatum** confirmada como organización criminal de alto perfil; Mulcifer es interlocutor amistoso pero no aliado
+- Tensiones EE.UU.-Arcadia (eco directo del arco de La Fuerza Oculta): coches diplomáticos europeos en el combate, ningún estadounidense
+
+**⚡ Momentos Clave:**
+- Infiltración con ilusión adulta y contraseña de *El Señor de los Anillos*
+- Tiritas reconoce que el combate es un *paripé*
+- Mulcifer reconoce a la Unidad 404 por el vídeo viral —la fama metahumana funciona como pasaporte
+- Revelación: **Lía es baronesa de la Telaraña**
+- Titiritera obtiene la localización (distrito marítimo / barrio flotante) tocando el teléfono de Mulcifer
+- Salida del estacionamiento subterráneo en limusina blanca con mueble bar
+
+---
+
 #### [📈 Análisis 12/04/2026 - La Confesión de Mésmero y el Nacimiento de la Unidad 404]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 **"Revelaciones, culpa histórica e identidad colectiva"**
 

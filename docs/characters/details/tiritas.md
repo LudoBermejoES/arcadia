@@ -285,33 +285,42 @@ En la sesión con Mésmero y durante el traslado al apartamento de su hija, Tiri
 - [Los 404 - Sesión 01/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
+- [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
 
 ## Situación Actual (Abril 2026)
 
-Tiritas vive en el **apartamento de la hija de Mésmero**, instalada junto al resto de la Unidad 404. Tiene wifi, provisiones y una base segura por primera vez desde que escapó del reformatorio. Su nombre heroico es **Tiritas el macarrado**. Su nombre de grupo es **Unidad 404**, propuesta suya.
+Tiritas vive en el **apartamento de la hija de Mésmero**, bajo la tutela formal de Comadreja, con la Unidad 404. Acepta los términos del pacto: clases, prohibición de robar y entrenamiento físico a las 7:00 a.m. Tras la sesión 12, sabe lo que durante dos años no había podido imaginar: **Lía no era víctima, es baronesa de la Telaraña**. Tiene la localización exacta de su hermana en el barrio flotante.
+
+### **Evolución Reciente (Sesión 12 - 26/04/2026)**
+
+- **Negociadora del grupo**: Da la contraseña al portero del combate, lleva la voz en la confrontación con Mulcifer y le ofrece macarrones en plena negociación. La autenticidad torpe funciona como herramienta diplomática.
+- **Lía no era víctima**: Mulcifer revela que la hermana es **baronesa de la Telaraña** —dirigente criminal, no rehén. El arco personal de Tiritas se reorienta en silencio: pidió hablar con ella, no rescatarla.
+- **Reconoce el *paripé***: Detecta que el combate de metahumanos es escenificado, no real. Su intuición de los círculos paternos sigue activa.
+- **Tutela formal**: Acepta los términos de Comadreja. Sin patria potestad por antecedentes paternos, su tutela es la más limpia legalmente del grupo.
+- **Pacto pendiente con la realidad**: Tiritas no ha procesado emocionalmente lo que significa que Lía dirija un sector de la Telaraña. La sesión cierra antes de la confrontación con la hermana.
 
 ### **Evolución Reciente (Sesión 11 - 12/04/2026)**
 
 - **Nombre heroico elegido**: *Tiritas el macarrado* — autoreferencial, irónico y completamente suyo.
 - **Propuso Unidad 404**: El nombre del grupo es suyo. Primera vez que algo colectivo lleva su marca.
 - **Preguntó por Lía**: A Mésmero directamente. La respuesta fue una redirección a Comadreja — quien ya está en ello.
-- **Gancho inminente**: La llamada de Comadreja sobre combates ilegales juveniles es potencialmente la pista más directa a Lía que ha tenido hasta ahora.
 
 ### **Estado Actual**
 
-- **Ubicación**: Apartamento de la hija de Mésmero (acceso seguro, wifi)
+- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante / distrito marítimo
 - **Nombre heroico**: Tiritas el macarrado
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Más estable que en semanas — tiene base, tiene nombre, tiene una pista sobre Lía
-- **Estado Legal**: Fugitiva; Mésmero gestiona regularización
-- **Próxima misión**: Investigar circuito ilegal de combates juveniles (posible pista sobre Lía)
+- **Estado Emocional**: Tensión silenciosa tras saber lo que es Lía. La búsqueda continúa pero ya no es la que era
+- **Estado Legal**: Bajo tutela de Comadreja; Mésmero gestiona regularización
+- **Próxima misión**: Encuentro directo con Lía en el barrio flotante de Arcadia
 
 ### **Preguntas Abiertas**
 
-- ¿Está Lía en los torneos ilegales que Comadreja mencionó?
-- ¿Comadreja logrará rastrearla a través de sus contactos?
-- ¿Qué condiciones tiene Lía si está en ese mundo?
-- ¿Cómo afecta a Tiritas que su historia familiar circule entre ciertos círculos metahumanos?
+- ¿Cómo recibirá Lía a la hermana que la creyó víctima durante dos años?
+- ¿Lía eligió ese camino o fue empujada a él tras la muerte del padre?
+- ¿Tiritas intentará "rescatarla" igualmente, aunque la hermana no quiera serlo?
+- ¿Qué relación tiene Lía con Mulcifer / Fatum / la Telaraña en términos operativos?
+- ¿El régimen de 7:00 a.m. en el gimnasio de Comadreja es compatible con noches en el barrio flotante?
 - ¿Qué hará con el anillo de oro del motero?
 
 ## Desarrollo Potencial

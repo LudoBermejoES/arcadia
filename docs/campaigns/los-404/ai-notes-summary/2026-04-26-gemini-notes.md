@@ -26,7 +26,7 @@ La identidad ilusoria de Titiritera funciona como elemento estructural de toda l
 
 1. **Pacto con Comadreja**: La sesión arranca con las condiciones de la tutela ya cerradas. Comadreja ha llegado a un acuerdo con las autoridades: el grupo asistirá a clase, no robará, y entrenará a las 7:00 a.m. para controlar sus poderes. A Tiritas le retiraron la patria potestad por los antecedentes paternos; Kira sigue teniendo madre y eso complica su situación; Sergei no tiene a nadie que lo reclame.
 
-2. **Revelación sobre Sergei**: Comadreja informa a Sergei de que existe otra metahumana con sus mismos poderes —**Pantomima**— lo que sugiere posible parentesco. Se introduce además el concepto de **"lotería de poderes"** ocurrida hace diez años: un evento aún sin explicar que causó un *reset* metahumano global —algunos perdieron poderes, otros los ganaron.
+2. **Revelación sobre Titiritera**: Comadreja informa a Titiritera de que existe otra ilusionista con sus mismos poderes —**Pantomima**— lo que sugiere posible parentesco. Se introduce además el concepto de **"lotería de poderes"** ocurrida hace diez años: un evento aún sin explicar que causó un *reset* metahumano global —algunos perdieron poderes, otros los ganaron.
 
 3. **Preparación de la infiltración**: El grupo necesita aparentar ser adultos. Se descartan disfraces. Se decide usar a **Titiritera** como ilusionista colectiva. El sitio del combate está en el **Distrito Lunae**, en **Isla Lápiz**, en un estacionamiento vertical de 20 plantas con niveles subterráneos. Hora: 23:00. Se desplazan en metro.
 
@@ -67,10 +67,10 @@ La sesión confirma a Tiritas como la voz negociadora del grupo en escenarios so
 Kira observa al luchador eléctrico con atención técnica —es la primera vez que ve a alguien usar sus mismos poderes en condiciones de combate real. La sesión la sitúa como aprendiz pasiva por necesidad: aún no es su misión, pero está absorbiendo información para cuando lo sea. Mantiene su posición discreta junto a Sergei, cubriéndose con capucha cuando aparece el hombre del AK-47.
 
 ### Sergei (Morf)
-La revelación sobre **Pantomima** —una metahumana con sus mismos poderes— abre un arco personal completamente nuevo para Sergei, que hasta ahora había sido el personaje con motivación más ambigua. La posibilidad de un parentesco biológico con alguien externo al reformatorio cambia el peso narrativo de su origen. La introducción de la **"lotería de poderes"** sugiere que su capacidad puede tener una explicación sistémica, no solo individual.
+Sergei mantiene su perfil discreto en la sesión, actuando como vigilancia silenciosa junto a Kira. Comadreja confirma que no tiene a nadie que lo reclame —vivía en la calle—, lo que simplifica su tutela: queda bajo Comadreja sin oposición. La sesión no profundiza en su arco individual; sigue siendo el personaje con motivación más ambigua, acompañando al grupo más por lealtad que por necesidad propia.
 
 ### Titiritera (Elena)
-Titiritera carga la sesión: la ilusión colectiva que mantiene a flote toda la operación es suya, y la solución del intercambio de localización con Mulcifer también. Su despiste característico genera el momento de mayor riesgo (sentarse cerca de la cocaína), pero su iniciativa de tocar el teléfono de Mulcifer —presentada como ayuda inocente— es lo que permite al grupo salir con la información clave. La sesión la consolida como el activo táctico más versátil del equipo.
+Titiritera carga la sesión en dos planos simultáneos. **En lo táctico**: la ilusión colectiva que mantiene a flote toda la operación es suya, y la maniobra del teléfono de Mulcifer —presentada como ayuda inocente— es lo que permite al grupo salir con la localización de Lía. La sesión la consolida como el activo táctico más versátil del equipo. **En lo personal**: Comadreja le revela que existe otra ilusionista con sus mismos poderes —**Pantomima**, de La Fuerza Oculta— y sugiere posible parentesco. Es la primera pista concreta sobre su origen biológico, una ancla externa al reformatorio que abre un arco propio.
 
 ---
 
@@ -86,9 +86,9 @@ Titiritera carga la sesión: la ilusión colectiva que mantiene a flote toda la 
 - **Mulcifer** es miembro de Fatum: piel mineral tipo ónice, ojos sin pupila, pelo blanco, 2,20-2,30 m. Su piel le impide usar tecnología táctil sin asistencia.
 - Mulcifer no es enemigo directo del grupo; coopera porque le interesa o por simpatía, no por amenaza.
 
-### La conexión Sergei-Pantomima
-- Existe otra metahumana con los mismos poderes de cuerpo moldeable: **Pantomima**.
-- Comadreja sugiere posible parentesco. Es la primera pista concreta sobre el origen biológico de Sergei.
+### La conexión Titiritera-Pantomima
+- Existe otra ilusionista con los mismos poderes que Titiritera: **Pantomima** (PJ de La Fuerza Oculta).
+- Comadreja sugiere posible parentesco. Es la primera pista concreta sobre el origen biológico de Elena/Titiritera.
 
 ### La "lotería de poderes" de hace 10 años
 - Evento sistémico aún sin explicar que causó un *reset* metahumano global.
@@ -154,7 +154,7 @@ Lo que en la sesión anterior parecía una amenaza —el reconocimiento público
 
 ### Hilos abiertos prioritarios
 1. **Encuentro con Lía**: La próxima sesión apunta directamente al barrio flotante. La pregunta es: ¿cómo recibirá Lía a la hermana que la creyó víctima durante dos años?
-2. **Sergei y Pantomima**: ¿Buscará Sergei a la otra metahumana de su mismo tipo? ¿Es posible parentesco real?
+2. **Titiritera y Pantomima**: ¿Buscará Titiritera a la otra ilusionista? ¿Es posible parentesco real?
 3. **La lotería de poderes de hace 10 años**: ¿Mésmero sabe algo de esto? ¿Es relevante para más miembros del grupo, no solo Sergei?
 4. **El régimen de Comadreja**: 7:00 a.m. en el gimnasio. ¿Cómo gestiona el grupo el entrenamiento físico real con el ritmo de noche que ya llevan?
 5. **La situación legal pendiente**: Mésmero gestionando regularización, Comadreja con cobertura. Pero los Metacops siguen siendo una amenaza dormida.
@@ -162,7 +162,7 @@ Lo que en la sesión anterior parecía una amenaza —el reconocimiento público
 7. **Los combates clandestinos**: Tiritas tiene la sensación de que eran *paripé*. ¿Qué función real cumplen estos combates si no son competiciones reales?
 
 ### Conexiones con La Fuerza Oculta
-- **Pantomima** es PJ de La Fuerza Oculta. La conexión Sergei-Pantomima es el primer cruce explícito entre las dos campañas a nivel de PJ.
+- **Pantomima** es PJ de La Fuerza Oculta. La conexión Titiritera-Pantomima (ambas ilusionistas, posible parentesco) es el primer cruce explícito entre las dos campañas a nivel de PJ.
 - **La Telaraña** apareció previamente como antagonista en La Fuerza Oculta —ahora se confirma que tiene baronesas y que una de ellas es Lía.
 - **Fatum** está documentada como megacorporación criminal en La Fuerza Oculta. La presencia de Mulcifer confirma que Los 404 ya están en su radar.
 - Las **tensiones EE.UU.-Arcadia** referenciadas son consecuencia directa de los hechos del consulado en La Fuerza Oculta (Sesiones 56-59).

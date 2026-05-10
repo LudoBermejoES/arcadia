@@ -228,13 +228,12 @@ En la sesión en casa de Mésmero y durante el traslado al apartamento:
 
 ## Situación Actual (Abril 2026)
 
-Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404, ahora bajo tutela de Comadreja. Su nombre heroico es **Morf** (o Morfeo). Tras la sesión 12 ha recibido la primera pista concreta sobre su origen biológico desde que tiene memoria: Comadreja le ha revelado que existe **otra metahumana con sus mismos poderes —Pantomima— y sugiere posible parentesco**. Es la primera ancla externa que tiene fuera del reformatorio.
+Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404, ahora bajo tutela de Comadreja. Su nombre heroico es **Morf** (o Morfeo).
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
-- **Revelación sobre Pantomima**: Comadreja le informa de que existe otra metahumana de cuerpo moldeable. Posible parentesco. Primera pista real sobre su origen.
-- **La "lotería de poderes"**: Se introduce el concepto del *reset* metahumano de hace 10 años — algunos perdieron poderes, otros los ganaron. Posible explicación sistémica del origen de sus capacidades.
 - **Sin nadie que lo reclame**: Comadreja confirma que Sergei no tiene a nadie en el exterior. Vivía en la calle. Eso simplifica la tutela: Comadreja se hace cargo sin oposición.
+- **La "lotería de poderes"**: Se introduce el concepto del *reset* metahumano de hace 10 años — algunos perdieron poderes, otros los ganaron. Posible explicación sistémica que potencialmente afecta también a su origen.
 - **Posición operativa en el combate**: En el combate clandestino actúa como vigilancia silenciosa junto a Kira, ambos con capucha cuando aparece el hombre del AK-47. Su perfil discreto es activo táctico.
 
 ### **Estado Actual**
@@ -242,18 +241,18 @@ Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Un
 - **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
 - **Nombre heroico**: Morf / Morfeo
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Por primera vez tiene una pista sobre quién es y de dónde viene — la posibilidad de Pantomima abre un arco propio, no solo de lealtad al grupo
 - **Estado Legal**: Bajo tutela de Comadreja sin complicaciones (no hay familia que reclame)
+- **Motivación**: Sigue siendo ambigua — acompaña al grupo más por lealtad que por necesidad propia
 - **Régimen**: Entrenamiento físico obligatorio a las 7:00 a.m. con Comadreja
 
 ### **Preguntas Abiertas**
 
-- ¿Es Pantomima realmente familia suya? ¿Hermana, prima, qué relación?
-- ¿Buscará Sergei a Pantomima en el contexto de La Fuerza Oculta?
+- ¿Por qué realmente estuvo Sergei en el reformatorio desde los 12-13 años?
 - **¿Qué causó su pérdida de memoria?**
 - **¿Qué significan sus pesadillas recurrentes?**
 - ¿La "lotería de poderes" de hace 10 años explica sus capacidades?
 - ¿Sus poderes son congénitos o adquiridos en ese *reset* sistémico?
+- ¿Tiene familia fuera o el reformatorio era su único hogar real?
 - ¿Su amnesia está relacionada con los misterios Estrigoy?
 
 ---

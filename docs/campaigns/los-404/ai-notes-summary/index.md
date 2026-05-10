@@ -308,7 +308,7 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 **👥 Desarrollo de Personajes:**
 - **Tiritas**: Negocia con Mulcifer, ofrece macarrones, recibe el mazazo silencioso sobre Lía
 - **Kira**: Observa al luchador eléctrico como aprendizaje técnico
-- **Sergei**: Revelación sobre **Pantomima** —otra metahumana con sus mismos poderes (posible parentesco)
+- **Titiritera**: Revelación sobre **Pantomima** —otra ilusionista con sus mismos poderes (posible parentesco)
 - **Titiritera**: Carga la operación con la ilusión colectiva y obtiene la localización manipulando el teléfono de Mulcifer
 
 **🔮 Arcos Narrativos Avanzados:**

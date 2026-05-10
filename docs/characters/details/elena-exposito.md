@@ -268,6 +268,8 @@ Elena (Titiritera) bajo tutela de Comadreja con la Unidad 404. Tras la sesión 1
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
+- **Revelación sobre Pantomima**: Comadreja le informa de que existe **otra ilusionista con sus mismos poderes — Pantomima (PJ de La Fuerza Oculta)** — y sugiere posible parentesco. Es la primera pista concreta sobre el origen biológico de Elena, y la primera ancla externa que tiene al margen del reformatorio.
+- **La "lotería de poderes"**: Se introduce el concepto del *reset* metahumano de hace 10 años — algunos perdieron poderes, otros los ganaron. Posible explicación sistémica del origen de sus capacidades de ilusión.
 - **Carga la operación**: La ilusión colectiva que disfraza al grupo de adultos durante la infiltración en el combate clandestino es enteramente suya. Tirada inicial casi falla; gasta un *Benis* para repetirla con éxito.
 - **Despiste cómico con riesgo real**: Se sienta accidentalmente cerca de la montaña de cocaína de Mulcifer en el palco. La situación se resuelve sin daño, pero pone en evidencia su dispersión característica.
 - **La maniobra del teléfono**: Cuando Mulcifer no consigue manipular su teléfono por su piel mineral, Titiritera se ofrece a ayudar como gesto inocente. **Se envía a sí misma la localización de Lía al teléfono propio** — una maniobra encubierta exitosa que pasa por torpeza voluntariosa.
@@ -284,8 +286,11 @@ Elena (Titiritera) bajo tutela de Comadreja con la Unidad 404. Tras la sesión 1
 
 ### **Preguntas Abiertas**
 
+- ¿Es Pantomima realmente familia suya? ¿Hermana, prima, qué relación? ¿Cómo encajaría con su origen como expósita?
+- ¿Buscará Elena a Pantomima en el contexto de La Fuerza Oculta?
+- ¿La "lotería de poderes" de hace 10 años explica que dos ilusionistas con el mismo perfil aparecieran en la misma generación?
 - ¿Qué la trajo al reformatorio? (delito, accidente, falta de control de poderes)
-- ¿Tiene familia en el exterior?
+- ¿Tiene familia biológica en el exterior más allá de la posible conexión con Pantomima?
 - ¿Cuál es su edad exacta?
 - ¿Cómo afectará la revelación sobre Mésmero a su relación con el mentor?
 

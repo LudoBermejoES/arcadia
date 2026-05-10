@@ -20,7 +20,7 @@ permalink: /campaigns/los-404/sessions/
 **"El Combate Clandestino y el Pacto con Mulcifer"**
 
 - 🤝 **Pacto con Comadreja**: Clases obligatorias, prohibición de robar, entrenamiento físico a las 7:00 a.m. en el gimnasio. Tutela acordada con las autoridades; tarjeta de crédito de Comadreja para gastos legítimos
-- 🦎 **Sergei y Pantomima**: Comadreja revela que existe otra metahumana con sus mismos poderes (Pantomima de La Fuerza Oculta) — posible parentesco. Primer cruce explícito entre las dos campañas a nivel de PJ
+- 🎭 **Titiritera y Pantomima**: Comadreja revela que existe otra ilusionista con sus mismos poderes (Pantomima de La Fuerza Oculta) — posible parentesco. Primer cruce explícito entre las dos campañas a nivel de PJ
 - ⚡ **La "lotería de poderes"**: Hace 10 años un evento sistémico causó un *reset* metahumano global —algunos perdieron poderes, otros los ganaron. Posible origen de los poderes de Sergei
 - 🅿️ **Infiltración**: Combate clandestino en estacionamiento subterráneo del Distrito Lunae (Isla Lápiz). Ilusión colectiva de Titiritera convierte al grupo en adultos. Contraseña de *El Señor de los Anillos*
 - 🥊 **El combate como espectáculo**: Tiritas identifica el enfrentamiento como *paripé*. Audiencia adinerada con apuestas, coches diplomáticos europeos (no estadounidenses — eco de las tensiones del consulado)

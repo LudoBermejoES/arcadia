@@ -12,17 +12,61 @@ slug: kira
 </div>
 
 ## Presentación
-Kira (también Kiara) es una metahumana de 13-14 años con capacidad de manipulación eléctrica, recién llegada al Reformatorio Nueva Esperanza en Isla Albedo. Con un estilo "emo" y una personalidad retraída, Kira está procesando la culpa de haber dejado a un compañero de clase en coma sin saberlo. Es jugada por **Adriana Ferran Gonzalez** en la campaña "Los 404".
+**Clara Esteve De Luca**, 13 años. Apodo de colegio: Kiara. Entre los suyos, a secas: **Kira**. Metahumana eléctrica. Recién llegada al Reformatorio Nueva Esperanza en Isla Albedo. Jugada por **Adriana Ferran Gonzalez** en la campaña "Los 404".
 
 ## Historia Personal
-Kira acaba de llegar al reformatorio tras un **accidente traumático** en su instituto. Sin saberlo y sin control sobre sus poderes, dejó a un compañero de clase en coma al usar sus capacidades eléctricas contra él.
 
-### **El Accidente**
-El incidente que llevó a Kira al reformatorio representa el miedo más profundo de cualquier joven metahumano: lastimar gravemente a alguien sin intención. Este evento ha marcado profundamente su psique, generando:
-- **Culpa paralizante**: Por el daño causado involuntariamente
-- **Miedo a sus propios poderes**: Temor a perder el control nuevamente
-- **Retraimiento social**: Evitar contacto para evitar accidentes
-- **Necesidad de control absoluto**: Obsesión por dominar cada aspecto de sus capacidades
+### **Antes**
+
+Hasta los seis años, Clara Esteve De Luca fue una niña completamente ordinaria. Feliz, incluso.
+
+Su padre, Enzo De Luca, tenía algo magnético: una forma de reírse, de contar historias, de hacer que cualquier tarde de domingo pareciera el principio de una aventura. Su madre, Valentina Esteve, era el eje sobre el que giraba todo lo demás: ingeniera de automoción, seria cuando tocaba, capaz de desmontar un motor o una conversación con la misma precisión. Clara los adoraba a los dos por razones distintas.
+
+Luego Enzo desapareció.
+
+Sin aviso, sin explicación que una niña de seis años pudiera entender, sin despedida. Un día estaba y al siguiente no. Valentina cerró el tema con la eficacia con la que cerraba cualquier cosa que no podía reparar: hermetismo total, nombre prohibido, caja sellada. Clara aprendió pronto que preguntar tenía consecuencias. Dejó de preguntar en voz alta.
+
+Pero no dejó de preguntar.
+
+### **El Problema de Ser la Rara**
+
+La familia que quedó era, objetivamente, perfecta. Esther, la hermana mayor (16 años), era exactamente lo que se supone que debe ser una adolescente: guapa, sociable, lista, popular. Todo el mundo la quería. Todo el mundo le decía a Clara lo mucho que se parecía a ella. Clara sabía que era mentira: ella era morena, baja, callada, y tenía un padre desaparecido del que nadie quería hablar. Alberto, el pequeño (10 años), vivía en su propio planeta de cacharros y bromas, inmune al peso de todo lo demás.
+
+Clara encajaba entre ellos como un tornillo en el cajón equivocado.
+
+A los diez empezó a verse desde fuera: una chica con el apellido italiano de un padre ausente, entre una familia de rubias perfectas con apellido catalán. El apellido De Luca era lo único que le quedaba de él. Lo empezó a llevar como una bandera. Exigió que la llamaran **Kiara** — forma italiana del nombre, conexión con sus raíces paternas, declaración de identidad frente a una familia que prefería el silencio.
+
+En el colegio, donde nadie tenía tiempo para explicaciones, Kiara se convirtió en **Kira**. Más corto. Más suyo.
+
+### **La Informática Como Trinchera**
+
+Kira encontró su lugar en las pantallas. Los ordenadores no juzgaban, no comparaban, no se preguntaban en voz alta por qué no era como su hermana. La informática era pura lógica: preguntas con respuesta, sistemas que podías entender si te tomabas el tiempo. Se convirtió en la experta técnica de su clase por defecto —nadie más se molestaba— y en eso encontró algo parecido al orgullo.
+
+También empezó a buscar a su padre. Discretamente. Sistemáticamente. Con las herramientas que tenía.
+
+No encontró nada que le dijera dónde estaba. Pero encontró suficiente para saber que había algo que no le habían contado.
+
+### **El Incidente del Aula de Informática**
+
+Un martes por la tarde, en el aula de ordenadores, un grupo de chicos que se aburrían decidieron que Kira era un blanco fácil. No era la primera vez. Kira aguantó los primeros comentarios con la mandíbula apretada, como siempre. Luego uno de ellos le empujó el teclado. Y otro le tiró el estuche. Y el tercero dijo algo sobre su padre.
+
+Algo se soltó.
+
+No fue una decisión. No hubo intención. Kira ni siquiera supo qué pasó exactamente hasta después: una descarga eléctrica, brutal y ciega, que atravesó el chico más cercano. Cayó al suelo. No se levantó.
+
+Estuvo tres días en coma.
+
+### **Después**
+
+El colegio la expulsó esa misma tarde. Su madre no gritó —Valentina Esteve nunca gritaba— pero en el silencio había algo peor que los gritos. Sus amigos, los pocos que tenía, dejaron de contestar los mensajes. Esther empezó a hablar de ella en pasado en conversaciones que no sabía que Kira podía escuchar. Alberto siguió siendo Alberto, ajeno a todo.
+
+El Estado intervino con la eficiencia burocrática que reserva para las anomalías que no sabe dónde poner. Kira fue clasificada, evaluada y enviada al Reformatorio Nueva Esperanza en Isla Albedo.
+
+En el trayecto, sola en un coche oficial, Kira pensó en el chico en coma. Pensó en su padre. Pensó que, de alguna forma que no sabía articular todavía, siempre había sabido que era diferente. Que si los demás tenían miedo de ella, era porque tenían razón en tenerlo.
+
+No era culpa. Era algo más complicado que la culpa.
+
+Era la primera vez en años que se sentía, en cierta forma, completamente ella misma.
 
 ## Rol y Actividades
 Como la **recién llegada**, Kira está en fase de adaptación al reformatorio. Su papel inicial es principalmente:

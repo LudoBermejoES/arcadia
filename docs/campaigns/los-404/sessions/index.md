@@ -13,6 +13,27 @@ permalink: /campaigns/los-404/sessions/
 
 ## 📅 Cronología de Sesiones
 
+### 🌼 **Mayo 2026 - La Unidad 404 en Acción**
+
+#### [📝 Sesión 10 de Mayo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/)
+
+**"La Emboscada de la Limusina"**
+
+- 🆕 **Llegada de Dante Bermejo**: Adolescente con poderes de campo de fuerza enviado por Mulciber. Espera al grupo dentro de la limusina blanca. Actitud de desconfianza inicial; juguetea con una pieza mecánica durante el trayecto
+- 🕷️ **Contexto de la Telaraña**: El narrador aclara que Fatum no era parte de la Telaraña — negoció integrarse como "barones de facto" para evitar una guerra. Algunos barones los ven como invasores
+- 👁️ **Percepción de la amenaza**: Kira y Sergei superan las tiradas de "notar" y ven un fogonazo en una zona de obras. Tienen un turno extra para reaccionar antes del impacto
+- 💥 **Proyectil antitanque**: La limusina recibe el impacto. El blindaje absorbe parte del daño; dos personajes quedan aturdidos. El coche empieza a arder
+- 🛡️ **Campo de fuerza de Dante**: Primera acción en combate — escudo esférico rojo que envuelve el interior del vehículo. Tirada de foco exitosa. Absorbe el daño residual. Primera demostración de su orientación defensiva
+- ⚔️ **Sergei corta el techo**: Supera el aturdimiento sin gastar Benny. Con bono de +2, ejecuta un corte perfecto que abre una brecha de evacuación en el techo blindado
+- 🤝 **Dante saca a Titiritera**: Arrastra a Elena fuera del coche ardiendo manteniéndola dentro del campo de fuerza. Primera acción de protección directa hacia el grupo
+- ⚡ **Ataque eléctrico de Kira**: Área de efecto hacia la zona del fogonazo sin línea de visión directa. Tirada de 10. Rayos impactan en la zona objetivo
+- 🧱 **Pared ilusoria de Titiritera**: Se recupera del aturdimiento por sus propios medios. Genera una pared de ladrillos ilusoria que oculta la posición del grupo a los atacantes
+- ❓ **Origen del ataque: desconocido** — la sesión termina sin identificar al responsable del proyectil antitanque
+
+**Temas Clave**: El escudo como primer lenguaje de presentación, el peligro sin rostro, el lujo como trampa, el grupo en rodaje con formación completa
+
+---
+
 ### 🌸 **Abril 2026 - La Unidad 404**
 
 #### [📝 Sesión 26 de Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)

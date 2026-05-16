@@ -308,7 +308,17 @@ Ningún plan del grupo ha salido exactamente como se diseñó. Y sin embargo, so
 
 ---
 
-*Última actualización: Sesión 12 — 26 Abril 2026*
+*Última actualización: Sesión 13 — 10 Mayo 2026*
+
+### Actualización: Sesión 13 (10/05/2026)
+
+**Sesión 13 — La Emboscada de la Limusina**: El grupo sube a la limusina de Mulciber y encuentra dentro a **Dante Bermejo**, un adolescente desconocido para ellos pero conocido por el armero: enviado como apoyo con poderes de campo de fuerza. El trayecto al barrio flotante se interrumpe a mitad de camino cuando Kira y Sergei detectan un fogonazo en una zona de obras. Un proyectil antitanque impacta contra el vehículo. Dante reacciona de forma instintiva generando un escudo esférico rojo que absorbe el daño residual —primera demostración de sus poderes y de su orientación defensiva. Con el coche ardiendo, Sergei corta el techo blindado con su brazo-espada. Dante saca a Titiritera del vehículo. Kira lanza un ataque eléctrico de área hacia la zona del fogonazo (tirada 10). Titiritera crea una ilusión de pared de ladrillos para romper la línea de visión enemiga. La sesión termina con el grupo fuera del vehículo y el origen del ataque sin identificar. El barrio flotante —y Lía— siguen sin alcanzarse.
+
+**Nuevo personaje**: Dante Bermejo se integra al grupo. Adolescente con poderes de campo de fuerza y conocimientos de mecánica, llegó enviado por Mulciber. La naturaleza exacta de su vínculo con el armero no se ha revelado al grupo. Su primera acción fue proteger a personas que acababa de conocer.
+
+**Hilo abierto**: ¿Quién disparó el proyectil? Posibilidades: barón rival de la Telaraña hostil a la integración de Fatum, alguien que vigila los movimientos de la Unidad 404, o alguien que sabe que van hacia Lía y quiere impedirlo.
+
+---
 
 ### Actualización: Sesiones 11 (12/04/2026) y 12 (26/04/2026)
 

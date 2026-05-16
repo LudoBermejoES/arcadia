@@ -110,7 +110,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 **Los Fugitivos del Reformatorio Nueva Esperanza**
 
-[Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/), [Kira]({{ site.baseurl }}/characters/details/kira/) y [Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/) son jóvenes metahumanos recluidos en una institución de "rehabilitación" en una isla volcánica remota. Bajo vigilancia constante, enfrentan el dilema entre control y libertad mientras descubren misterios oscuros.
+[Sergei]({{ site.baseurl }}/characters/details/sergei/), [Tiritas]({{ site.baseurl }}/characters/details/tiritas/), [Kira]({{ site.baseurl }}/characters/details/kira/), [Elena Expósito]({{ site.baseurl }}/characters/details/elena-exposito/) y [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) son jóvenes metahumanos fugitivos del Reformatorio Nueva Esperanza, ahora operando en Arcadia como la **Unidad 404** bajo la tutela de Comadreja. Enfrentan el crimen organizado mientras buscan a la hermana de Tiritas.
 
 **🌟 Perspectiva**: Control institucional vs. libertad personal, jóvenes con poderes incontrolables, misterios de desapariciones, anomalías perceptivas, la cara oscura del sistema metahumano.
 

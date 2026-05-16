@@ -294,6 +294,38 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ---
 
+### 🌼 **Mayo 2026 - La Unidad 404 en Acción**
+
+#### [📈 Análisis 10/05/2026 - La Emboscada de la Limusina]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/)
+**"Llegada de Dante Bermejo y proyectil antitanque en el trayecto al barrio flotante"**
+
+**🎯 Temas Centrales Identificados:**
+- **El escudo como primer lenguaje**: Dante se presenta protegiendo antes de hablar
+- **El peligro sin rostro**: Ataque con proyectil antitanque de origen desconocido
+- **El lujo como trampa**: La limusina de Mulciber los convierte en objetivo visible
+- **El grupo en rodaje**: Primera sesión con la formación completa funcionando tácticamente
+
+**👥 Desarrollo de Personajes:**
+- **Dante Bermejo**: Primera aparición — campo de fuerza rojo instintivo, orientación defensiva, actitud mecánica y reservada
+- **Kira**: Detección del fogonazo, ataque eléctrico de área coordinado (tirada 10)
+- **Sergei**: Supera aturdimiento sin recursos, corta el techo blindado con brazo-espada
+- **Titiritera**: Se recupera sola del aturdimiento, crea ilusión táctica de pared de ladrillos
+
+**🔮 Arcos Narrativos Avanzados:**
+- Integración de Dante Bermejo al grupo (enviado por Mulciber, vínculo no revelado)
+- Ataque con proyectil antitanque — hipótesis: barón rival de Telaraña hostil a Fatum, vigilancia del grupo, o alguien relacionado con Lía
+- El destino original (barrio flotante, localización de Lía) no se alcanzó
+
+**⚡ Momentos Clave:**
+- Dante esperando en la limusina jugando con una pieza de motor
+- Kira y Sergei detectan el fogonazo un turno antes del impacto
+- Campo de fuerza rojo de Dante: primera acción defensiva en juego
+- Sergei corta el techo blindado con brazo-espada (bono +2, sin gastar Benny)
+- Ataque eléctrico de área de Kira sin línea de visión (tirada 10)
+- Pared de ladrillos ilusoria de Titiritera como cobertura visual
+
+---
+
 ### 🌸 **Abril 2026 - La Unidad 404 Nace**
 
 #### [📈 Análisis 26/04/2026 - El Combate Clandestino y el Pacto con Mulcifer]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)

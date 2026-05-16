@@ -117,11 +117,11 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Período**: Presente en todas las eras como antagonista
 - **Estado**: Organización persistente, documentación continua
 
-#### **🏝️ Los 404 (2025)**
-- **Sesiones Documentadas**: 10 sesiones documentadas
+#### **🏝️ Los 404 (2025-2026)**
+- **Sesiones Documentadas**: 13 sesiones documentadas
 - **Período**: Octubre 2025 - Presente
-- **Jugadores**: 3 participantes (Sergei, Tiritas, Kira)
-- **Enfoque**: Jóvenes metahumanos inadaptados en instituto cerrado
+- **Jugadores**: 5 participantes (Sergei/Morf, Tiritas, Kira, Titiritera, Dante Bermejo)
+- **Enfoque**: Jóvenes metahumanos inadaptados fugitivos en Arcadia
 - **Estado**: Campaña activa, nueva generación
 
 #### **⏰ Crematorio La Tranquilidad (2025)**

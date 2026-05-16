@@ -49,13 +49,21 @@ permalink: /campaigns/los-404/
 - **Personalidad**: Retraída, estilo "emo", joven de 13-14 años
 - **Peculiaridad**: No puede ducharse con otras chicas debido a sus poderes eléctricos
 
-#### 🎭 **[Elena]({{ site.baseurl }}/characters/details/elena-exposito/)** *(Perico/Capitán Berberecho)*
+#### 🎭 **[Elena / Titiritera]({{ site.baseurl }}/characters/details/elena-exposito/)** *(Perico/Capitán Berberecho)*
 
 - **Poderes**: Ilusionista avanzada, puede crear ilusiones a 24 metros de distancia y transformarse en otras personas/objetos/animales
 - **Habilidades**: Efecto camaleón (transformación visual), creación de engaños realistas
 - **Historia**: Recién llegada al reformatorio (02/11/2025)
 - **Personalidad**: Impulsiva, teatral, imprudente
 - **Incidente notable**: Su primer día creó una pistola ilusoria y "disparó" a Tiritas
+
+#### 🛡️ **[Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/)** *(Juan Andrés Lorenzo)*
+
+- **Poderes**: Campos de fuerza (visibles en color rojo o invisibles), escudo mental defensivo, uso ofensivo menor de los campos
+- **Habilidades**: Mecánica de vehículos y motores, electrónica básica
+- **Historia**: Hijo ilegítimo de Fulgor (barón de la Telaraña), criado en el Distrito Martis por su madre. Pupilo secreto de Mulciber. Se integra al grupo en Mayo 2026 enviado por el armero de Fatum
+- **Personalidad**: Reservado, desconfiado inicial, instintivamente protector
+- **Sin nombre heroico**: Todavía no ha elegido uno
 
 ---
 
@@ -91,10 +99,11 @@ La historia comienza con la llegada de Kira a Isla Albedo, donde conoce a los ve
 - **[01 Marzo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-01-gemini-notes/)**: Clínica clandestina — doctora Jailé extrae la bala, Mishka paralizada por Kira y finalmente liberada, motero herido regala anillo de oro a Tiritas, refugio en Distrito Veneris con Malik Ferrán, revelación sobre familia de Tiritas (padre asesinado por Tiritas en defensa propia — confirmado por Noemi, madre en cárcel, hermana en acogida), revelación sobre biología y vulnerabilidades Strigoi, pista de Mésmero en el Barrio Gótico
 - **[15 Marzo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)**: Malik confirma desaparición de Lía (hermana de Tiritas) sin rastro en ningún registro, visita al gimnasio de Comadreja Negra — héroe retirado que prueba los poderes de Tiritas golpeándola, advertencia de que Malik es barón de la Telaraña, propuesta de entrenamiento real para Kira en lugar del collar inhibidor, Linda (secretaria) con poderes de niebla congelante, contacto con el director Nadie sobre los Strigoi, viaje al Barrio Gótico en Volkswagen morado años 60, llegada a la base de Mésmero en antiguo parque de bomberos — ya leyó las mentes del grupo y se quedó pálido
 
-### 🌸 **Fase V: Unidad 404 (Abril 2026)**
+### 🌸 **Fase V: Unidad 404 (Abril-Mayo 2026)**
 
 - **[12 Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)**: Q&A con Mésmero — biología completa de los Estrigoy, confirmación de la masacre de mentalistas hace 15 años (solo sobrevivieron 2), aparición fugaz del Faraón (criminal de guerra y familiar de Mésmero), confesión de Mésmero sobre su propia responsabilidad en los 2 millones de muertos, oferta de apartamento de su hija como base permanente, taxi con el fan Nacho que los reconoce por el vídeo viral, elección de nombres heroicos individuales (Kira, Morf/Morfeo, Tiritas el macarrado, Titiritera), adopción del nombre colectivo **Unidad 404** (propuesto por Tiritas, ref. HTTP 404), gancho de Comadreja sobre circuito ilegal de combates juveniles
 - **[26 Abril]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)**: Pacto con Comadreja (clases, no robar, entrenamiento 7:00 a.m. en su gimnasio), revelación a Titiritera sobre **Pantomima** (otra metahumana con sus mismos poderes de ilusión — posible parentesco) y la **"lotería de poderes" de hace 10 años**, infiltración en combate clandestino metahumano en estacionamiento subterráneo del Distrito Lunae (Isla Lápiz) con ilusión colectiva de Titiritera para parecer adultos, contraseña de *El Señor de los Anillos*, observación del combate (Tiritas lo identifica como *paripé*), encuentro forzado en el palco con **Mulcifer** (metahumano de piel mineral, miembro de **Fatum**), confrontación en la que Mulcifer reconoce a la Unidad 404 por el vídeo viral, **Lía es baronesa de la Telaraña** —no víctima sino dirigente criminal—, negociación con macarrones de Tiritas, Titiritera obtiene la localización (distrito marítimo / barrio flotante) manipulando el teléfono de Mulcifer, salida en limusina blanca con mueble bar
+- **[10 Mayo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/)**: Incorporación de **Dante Bermejo** al grupo (adolescente con poderes de campo de fuerza, enviado por Mulciber), emboscada con proyectil antitanque contra la limusina durante el trayecto al barrio flotante, campo de fuerza rojo de Dante protege al grupo en el interior del vehículo, evacuación del coche en llamas (Sergei corta el techo blindado), ataque eléctrico de área de Kira, ilusión táctica de pared de Titiritera — sesión termina con el grupo fuera del coche y el origen del ataque sin identificar
 
 ---
 
@@ -171,12 +180,12 @@ Esta campaña se desarrolla simultáneamente con La Fuerza Oculta (2025), pero e
 
 <div class="stats-grid">
 <div class="stat-card">
-<span class="stat-number">7</span>
+<span class="stat-number">7.5</span>
 <span class="stat-label">Meses Activos</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">11</span>
+<span class="stat-number">13</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 

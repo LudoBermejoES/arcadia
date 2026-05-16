@@ -360,10 +360,12 @@ permalink: /characters/character-list/
 - [Ana Flores]({{ site.baseurl }}/characters/details/ana-flores/) (34 años, Guardia de seguridad, ex-policía)
 - [Viktor Kozlov]({{ site.baseurl }}/characters/details/viktor-kozlov/) (41 años, Guardia de seguridad, ex-militar ruso)
 
-#### Protagonistas del Reformatorio
-- [Sergei]({{ site.baseurl }}/characters/details/sergei/) (16-17 años, metamorfo veterano, PJ)
+#### Unidad 404 (Protagonistas)
+- [Sergei / Morf]({{ site.baseurl }}/characters/details/sergei/) (16-17 años, metamorfo veterano, PJ)
 - [Tiritas]({{ site.baseurl }}/characters/details/tiritas/) (Júlia Gasull, absorbe energía cinética)
 - [Kira]({{ site.baseurl }}/characters/details/kira/) (13-14 años, manipuladora eléctrica, Adriana F. Gonzalez)
+- [Elena Expósito / Titiritera]({{ site.baseurl }}/characters/details/elena-exposito/) (ilusionista avanzada, Capitán Berberecho)
+- [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) (adolescente, campos de fuerza, Juan Andrés Lorenzo)
 
 #### Internos del Correccional de Menores
 - [Kaida Chen-Okafor]({{ site.baseurl }}/characters/details/kaida-chen-okafor/) (18 años, manipuladora de fuego, líder de los internos)

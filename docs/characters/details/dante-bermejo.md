@@ -8,7 +8,7 @@ slug: dante-bermejo
 # Dante Bermejo
 
 <div class="character-photo">
-  <img src="{{ site.baseurl }}/assets/img/characters/Dante_Bermejo.png" alt="Dante Bermejo" />
+  <img src="{{ site.baseurl }}/assets/img/characters/Dante-Bermejo.png" alt="Dante Bermejo" />
 </div>
 
 ## Presentación

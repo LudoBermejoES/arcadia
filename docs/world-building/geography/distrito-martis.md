@@ -443,6 +443,12 @@ El **Distrito Martis** es el distrito residencial obrero y de clase trabajadora 
 **Tipo:** Residencial Tradicional  
 **Descripción:** Zonas residenciales consolidadas donde viven empleados industriales, trabajadores especializados y familias de clase media-baja. Caracterizadas por fuerte identidad comunitaria y servicios sindicales.
 
+### **Personajes Nativos del Distrito**
+
+#### **[Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/)**
+**Tipo:** Metahumano — Unidad 404 (Los 404)
+**Descripción:** Adolescente con poderes de campo de fuerza que creció escondido en el Distrito Martis con su madre Elena Bermejo, mecánica de motos en un taller de segunda. Aprendió mecánica casi antes que a leer y trabajaba en negro reparando vehículos hasta que [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) lo encontró y lo entrenó en secreto. El Distrito Martis es su anclaje vital — el oficio de su madre, la casa de su infancia, el suelo donde Telaraña la mató. Actualmente opera con la [Unidad 404]({{ site.baseurl }}/campaigns/los-404/).
+
 ### **Instituciones y Servicios**
 
 #### **Central Sindical**

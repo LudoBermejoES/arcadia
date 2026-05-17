@@ -138,6 +138,37 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Dinámicas**: Relaciones complejas dentro del grupo
 
 
+### **🛡️ Unidad 404 - Los Fugitivos de Nueva Esperanza (2025-2026)**
+
+
+#### [🪡 **Tiritas**]({{ site.baseurl }}/characters/details/tiritas/)
+**La Sanadora Marcada**
+- **Poderes**: Curación a coste personal (cicatrices propias)
+- **Motivación**: Encontrar a su hermana, desaparecida en el sistema
+- **Rol**: Núcleo emocional del grupo
+
+#### [🐺 **Sergei / Morf**]({{ site.baseurl }}/characters/details/sergei/)
+**El Cambiaformas**
+- **Poderes**: Transformación corporal, adaptación a entornos
+- **Especialidad**: Infiltración y escape
+- **Trasfondo**: Veterano del Reformatorio Nueva Esperanza
+
+#### [⚡ **Kira**]({{ site.baseurl }}/characters/details/kira/)
+**La Electrocinética**
+- **Poderes**: Control de electricidad, detección de campos eléctricos
+- **Rol**: Sensor táctico y atacante de medio alcance
+
+#### [🎭 **Elena Expósito / Titiritera**]({{ site.baseurl }}/characters/details/elena-exposito/)
+**La Ilusionista**
+- **Poderes**: Ilusiones complejas, manipulación perceptual
+- **Especialidad**: Cobertura tactica y distracción
+
+#### [🛡️ **Dante Bermejo**]({{ site.baseurl }}/characters/details/dante-bermejo/) *(Juan Andrés Lorenzo)*
+**El Escudo**
+- **Poderes**: Campos de fuerza defensivos
+- **Trasfondo**: Hijo bastardo del barón **Fulgor** (Telaraña), pupilo secreto de [Mulciber]({{ site.baseurl }}/characters/details/mulciber/)
+- **Motivación**: Venganza pendiente por la muerte de su madre
+
 ---
 
 ## 😈 **Galería de Villanos Legendarios**

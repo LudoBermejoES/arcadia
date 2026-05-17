@@ -150,6 +150,7 @@ Esta fusión representa un cambio fundamental en la estructura criminal de Arcad
 - **Filosofía**: "Unionista" - no tiene problemas con los normies
 - **Importancia**: Guardián de Diana, anunció la fusión con Telaraña (Enero 2026)
 - **Casino**: Propietario del **Casino de Dionisios** (frontal legal de la familia)
+- **Tutor secreto**: Mentor encubierto de [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) (Unidad 404), hijo bastardo del barón Fulgor de Telaraña
 
 #### **[Cloris](../characters/details/cloris.md) - La Madre (Fallecida)**
 
@@ -284,6 +285,12 @@ Esta fusión representa un cambio fundamental en la estructura criminal de Arcad
 - **🎭 Manipulación**: Influencia indirecta a través de terceros
 - **🤖 Subcontratación**: Uso de mercenarios como [Metalo](../characters/details/metalo.md)
 - **📊 Análisis**: Estudio profundo de nuevos héroes para futura manipulación
+
+### 🛡️ Era de Los 404 (2025-2026)
+
+- **🔗 Pieza colocada**: Mulcifer entrenó en secreto a [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) y lo envió a la [Unidad 404]({{ site.baseurl }}/campaigns/los-404/) en mayo de 2026
+- **🕸️ Conflicto interno con Telaraña**: Dante es hijo bastardo del barón Fulgor — la fusión Fatum-Telaraña genera una tensión que Mulcifer mueve a su favor a través del chico
+- **❓ Agenda incierta**: Qué espera Mulcifer del tutelaje de Dante, y qué papel juega la Unidad 404 en sus planes, sigue sin revelarse
 
 ## Relevancia Narrativa
 

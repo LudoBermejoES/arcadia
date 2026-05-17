@@ -94,11 +94,24 @@ Al ver a Psique, la pareja de Diana, comenta: *"Sinceramente nunca pensé que es
 
 ---
 
+## El Pupilo Secreto: Dante Bermejo (Unidad 404)
+
+Antes de que Telaraña encontrara a [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) —hijo ilegítimo del barón **Fulgor**—, Mulcifer lo encontró primero. Apareció un día en el taller del Distrito Martis donde Dante reparaba motos, le miró las manos manchadas de grasa y le dijo simplemente que sabía lo que tenía dentro y podía ayudarlo.
+
+El tutelaje fue **callado, irregular y siempre negable**: sesiones en locales de Fatum donde nadie hacía preguntas, materiales de entrenamiento sin remitente. Mulcifer le enseñó a Dante a **levantar el escudo antes de que empiece el follón, no después**.
+
+Tras la muerte de Elena Bermejo (madre de Dante) a manos de Telaraña, Mulcifer envió al chico con la [Unidad 404]({{ site.baseurl }}/campaigns/los-404/) en mayo de 2026, dejándolo dentro de la limusina del grupo sin más explicación que *"Mulciber me envía a ayudarles"*.
+
+La naturaleza exacta de la relación —qué espera Mulcifer a cambio del tutelaje, qué sabe del vínculo de Dante con Fulgor, si la mano de Mulcifer está detrás de las cuentas pendientes que Dante quiere cobrar— sigue sin revelarse al grupo.
+
+---
+
 ## Apariciones Documentadas
 
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
-- [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
+- [Sesión 47 (La Fuerza Oculta)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) - Casino de Dionisios
 - [AI Notes 2026-01-18]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-01-18-gemini-notes/)
+- [Los 404 - Sesión 13 (10/05/2026)]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/) - Envía a Dante con el grupo
 
 ---
 

@@ -22,6 +22,12 @@ Durante las sesiones de **La Fuerza Oculta**, los personajes han encontrado:
 - Referencias a sus propios personajes como figuras ficticias
 - Situaciones donde la realidad del juego espeja la experiencia de los jugadores
 
+#### Los 404 — La Generación Paralela
+La campaña paralela de **[Los 404]({{ site.baseurl }}/campaigns/los-404/)** (2025-2026), centrada en jóvenes metahumanos fugados del Reformatorio Nueva Esperanza, abre nuevas capas meta:
+- **Mismo universo, perspectiva opuesta**: Mientras La Fuerza Oculta opera con legitimidad y fama, la Unidad 404 lo hace desde la fuga y la clandestinidad
+- **Cruces sistémicos**: NPCs como Mulciber tutelan personajes en ambas campañas, creando tramas que solo el lector del archivo completo puede ver
+- **Una mesa, dos campañas activas**: El proyecto sostiene simultáneamente dos cronologías semanales en el mismo mundo
+
 #### Transcripciones Conscientes
 - Los personajes ocasionalmente son "conscientes" de estar siendo grabados
 - Referencias a sesiones anteriores como "historias que han vivido"

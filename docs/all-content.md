@@ -58,6 +58,15 @@ permalink: /all-content/
 - [Análisis 24/08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-08-24-gemini-notes/) | [Análisis 30/08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-08-30-gemini-notes/) | [Análisis 14/09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-14-gemini-notes/)
 - [Análisis 21/09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-21-gemini-notes/) | [Análisis 28/09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-09-28-gemini-notes/)
 
+#### **[Los 404]({{ site.baseurl }}/campaigns/los-404/)** - Cuarta Campaña (2025-2026)
+
+Campaña activa semanal centrada en la **Unidad 404** — jóvenes metahumanos fugados del Reformatorio Nueva Esperanza, operando bajo la tutela de Comadreja Negra.
+
+- **Índice de Sesiones**: [Cronología completa]({{ site.baseurl }}/campaigns/los-404/sessions/)
+- **Resúmenes Analíticos**: [Análisis por sesión]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/)
+- **Transcripciones IA**: [Notas crudas Gemini]({{ site.baseurl }}/campaigns/los-404/ai-notes/)
+- **Resumen de campaña**: [Estado actual]({{ site.baseurl }}/campaigns/los-404/summary/summary/)
+
 ### 🏥 **Campañas Adicionales**
 
 #### **Hospital** - Campaña Especial
@@ -96,6 +105,13 @@ permalink: /all-content/
 - [🧿 Mencia/Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/) *(Conchi)* - La telépata
 - [⚖️ Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) *(Edu)* - La justiciera evolutiva
 - [🔥 Hotman]({{ site.baseurl }}/characters/details/hotman/) *(Jandro)* - El maestro del calor
+
+#### **🛡️ Unidad 404 / Los 404 (Cuarta Generación)**
+- [🪡 Tiritas]({{ site.baseurl }}/characters/details/tiritas/) - Sanadora marcada
+- [🐺 Sergei / Morf]({{ site.baseurl }}/characters/details/sergei/) - Cambiaformas
+- [⚡ Kira]({{ site.baseurl }}/characters/details/kira/) - Electrocinética
+- [🎭 Elena Expósito / Titiritera]({{ site.baseurl }}/characters/details/elena-exposito/) - Ilusionista
+- [🛡️ Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/) *(Juan Andrés Lorenzo)* - Campos de fuerza
 
 ### **Villanos Icónicos**
 - [🎭 La Farándula]({{ site.baseurl }}/groups/la-farandula/) - Los villanos teatrales

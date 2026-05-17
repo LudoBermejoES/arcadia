@@ -78,6 +78,28 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
+### **🛡️ Unidad 404 - Los Fugitivos de Nueva Esperanza**
+**(2025-2026) | 5 Miembros Activos**
+
+#### **Composición Actual:**
+- **🪡 [Tiritas]({{ site.baseurl }}/characters/details/tiritas/)** — Sanadora con cicatrices
+- **🐺 [Sergei / Morf]({{ site.baseurl }}/characters/details/sergei/)** — Cambiaformas
+- **⚡ [Kira]({{ site.baseurl }}/characters/details/kira/)** — Electrocinética
+- **🎭 [Elena Expósito / Titiritera]({{ site.baseurl }}/characters/details/elena-exposito/)** — Ilusionista
+- **🛡️ [Dante Bermejo]({{ site.baseurl }}/characters/details/dante-bermejo/)** — Campos de fuerza
+
+#### **Características:**
+- **🏚️ Origen**: Jóvenes metahumanos fugados del **Reformatorio Nueva Esperanza**
+- **🦦 Tutela**: Operan bajo la protección de [Comadreja Negra]({{ site.baseurl }}/characters/details/comadreja-negra/)
+- **🎯 Objetivo principal**: Encontrar a la hermana de Tiritas
+- **🕸️ Conexiones turbias**: Dante llega enviado por [Mulciber]({{ site.baseurl }}/characters/details/mulciber/) (Fatum)
+- **🌆 Operación**: Activos en Arcadia, enfrentando crimen organizado
+
+#### **Filosofía Operativa:**
+*"Sobrevivir primero, confiar después — pero proteger siempre"*
+
+---
+
 ## 🛡️ **Equipos Heroicos Veteranos**
 
 ### **🛡️ [Los Defensores](los-defensores.md)**
@@ -545,6 +567,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 - **[🏛️ La Familia]({{ site.baseurl }}/groups/la-familia/)** - Los fundadores legendarios
 - **[⚡ Génesis]({{ site.baseurl }}/campaigns/genesis/)** - La generación puente
 - **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Los herederos actuales
+- **[🛡️ Unidad 404]({{ site.baseurl }}/campaigns/los-404/)** - Fugitivos de Nueva Esperanza
 - **[🐱 La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)** - Los vigilantes felinos del Barrio Gótico
 - **[🛡️ Veteranos](los-defensores.md)** - Equipos de apoyo
 

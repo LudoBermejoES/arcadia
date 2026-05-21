@@ -225,10 +225,16 @@ En la sesión en casa de Mésmero y durante el traslado al apartamento:
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 - [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+- [Los 404 - Sesión 17/05/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
 
-## Situación Actual (Abril 2026)
+## Situación Actual (Mayo 2026)
 
 Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Unidad 404, ahora bajo tutela de Comadreja. Su nombre heroico es **Morf** (o Morfeo).
+
+### **Evolución Reciente (Sesión 14 - 17/05/2026)**
+
+- **Frustración abierta**: Durante el trayecto en yate, Morf expresa en voz alta el cansancio ante los intentos de asesinato continuos. Es el momento de mayor apertura emocional documentado en su arco hasta la fecha — la mansión como espacio seguro le permite sentir lo que en semanas anteriores tuvo que aparcar.
+- **Primer descanso real**: La mansión es el primer espacio protegido que el grupo ha tenido desde el reformatorio. Para Morf, que no tiene otro hogar, este tipo de base tiene un peso adicional.
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
@@ -238,9 +244,10 @@ Sergei vive en el **apartamento de la hija de Mésmero** junto al resto de la Un
 
 ### **Estado Actual**
 
-- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
+- **Ubicación**: Mansión privada en isla volcánica deshabitada al norte de Arcadia (refugio temporal de Mulcifer)
 - **Nombre heroico**: Morf / Morfeo
 - **Estado Físico**: En buen estado
+- **Estado Emocional**: Frustración visible ante los continuos intentos de asesinato — primer momento de apertura emocional explícita
 - **Estado Legal**: Bajo tutela de Comadreja sin complicaciones (no hay familia que reclame)
 - **Motivación**: Sigue siendo ambigua — acompaña al grupo más por lealtad que por necesidad propia
 - **Régimen**: Entrenamiento físico obligatorio a las 7:00 a.m. con Comadreja

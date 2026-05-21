@@ -286,10 +286,17 @@ En la sesión con Mésmero y durante el traslado al apartamento de su hija, Tiri
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 - [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+- [Los 404 - Sesión 17/05/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
 
-## Situación Actual (Abril 2026)
+## Situación Actual (Mayo 2026)
 
 Tiritas vive en el **apartamento de la hija de Mésmero**, bajo la tutela formal de Comadreja, con la Unidad 404. Acepta los términos del pacto: clases, prohibición de robar y entrenamiento físico a las 7:00 a.m. Tras la sesión 12, sabe lo que durante dos años no había podido imaginar: **Lía no era víctima, es baronesa de la Telaraña**. Tiene la localización exacta de su hermana en el barrio flotante.
+
+### **Evolución Reciente (Sesión 14 - 17/05/2026)**
+
+- **Portavoz del pasado del grupo**: Junto a Kira, contextualiza para Dante los antecedentes completos: el reformatorio, la fuga, los Strigoi, y la misión actual con Lía. Es la primera vez que Tiritas verbaliza toda la historia del grupo de forma ordenada para alguien externo.
+- **Pausa aceptada**: El barrio flotante y Lía están más cerca que nunca, pero el grupo no puede moverse todavía. Tiritas acepta la espera táctica — el objetivo sigue claro aunque el camino esté bloqueado.
+- **Macarrones como brújula**: En la mansión de lujo con pasta fresca disponible, Tiritas organiza una cena de macarrones. El termómetro emocional del grupo sigue funcionando.
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
@@ -307,12 +314,12 @@ Tiritas vive en el **apartamento de la hija de Mésmero**, bajo la tutela formal
 
 ### **Estado Actual**
 
-- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante / distrito marítimo
+- **Ubicación**: Mansión privada en isla volcánica deshabitada al norte de Arcadia (refugio temporal de Mulcifer)
 - **Nombre heroico**: Tiritas el macarrado
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Tensión silenciosa tras saber lo que es Lía. La búsqueda continúa pero ya no es la que era
+- **Estado Emocional**: Espera contenida — Lía está localizada pero inaccesible por el momento. El objetivo sigue siendo el mismo
 - **Estado Legal**: Bajo tutela de Comadreja; Mésmero gestiona regularización
-- **Próxima misión**: Encuentro directo con Lía en el barrio flotante de Arcadia
+- **Próxima misión**: Encuentro directo con Lía en el barrio flotante de Arcadia — en cuanto el grupo pueda moverse con seguridad
 
 ### **Preguntas Abiertas**
 

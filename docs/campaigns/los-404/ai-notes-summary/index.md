@@ -296,6 +296,33 @@ Los **resúmenes analíticos** representan el nivel más sofisticado de document
 
 ### 🌼 **Mayo 2026 - La Unidad 404 en Acción**
 
+#### [📈 Análisis 17/05/2026 - La Mansión de la Isla Volcánica]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
+**"Supervivencia, análisis post-emboscada y primer refugio real del grupo"**
+
+**🎯 Temas Centrales Identificados:**
+- **El lujo como anestesia**: Mansión y yate prestados por Mulcifer — seguridad real pero no propia
+- **El enemigo sin rostro**: Segunda sesión consecutiva sin identificar al atacante del proyectil antitanque
+- **El descanso como revelación de carácter**: Sin urgencia táctica, los personajes muestran lo que son
+
+**👥 Desarrollo de Personajes:**
+- **Morf**: Expresa frustración abierta ante los continuos intentos de asesinato — momento emocionalmente más explícito de su arco
+- **Kira**: Reticencia al agua confirmada como patrón; contextualiza los antecedentes del grupo para Dante
+- **Dante**: Primera sesión en modo no combate — reconoce personal de Mulcifer, busca teléfono fijo al llegar
+- **Tiritas**: Lidera la contextualización narrativa para Dante; acepta la pausa táctica sin alternativa
+
+**🔮 Arcos Narrativos Avanzados:**
+- Mulcifer confirma su infraestructura de protección real: isla privada, personal de seguridad, lancha de emergencia
+- El ataque fue planificado (conocían el itinerario) — el hilo del atacante desconocido sigue abierto
+- Lía y el barrio flotante siguen siendo el objetivo pendiente sin alcanzar
+
+**⚡ Momentos Clave:**
+- Confirmación de la muerte del conductor de la limusina original
+- Morf cita a Slipknot: *"people equal shit"*
+- Kira y Tiritas explican los antecedentes del reformatorio a Dante
+- Cena de macarrones en mansión de alta gama con pasta fresca que nadie pidió
+
+---
+
 #### [📈 Análisis 10/05/2026 - La Emboscada de la Limusina]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/)
 **"Llegada de Dante Bermejo y proyectil antitanque en el trayecto al barrio flotante"**
 

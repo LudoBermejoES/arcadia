@@ -320,10 +320,18 @@ En el camino al apartamento de la hija de Mésmero, Kira libró la batalla más 
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 - [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+- [Los 404 - Sesión 17/05/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
 
 ## Situación Actual (Abril 2026)
 
 Kira está bajo la tutela formal de Comadreja con la Unidad 404. Su tutela es la más complicada del grupo: a diferencia de Tiritas y Sergei, **sigue teniendo madre**, y la madre la busca públicamente. La regularización legal pasa por una conversación pendiente con su familia.
+
+### **Evolución Reciente (Sesión 14 - 17/05/2026)**
+
+- **Rayos de supresión**: Usa una técnica coordinada durante el combate final de la emboscada. Las mecánicas del escudo eléctrico se aclaran: mitigan el daño final, no lo absorben íntegro.
+- **Reticencia al agua confirmada**: Al embarcar en el yate, expresa incomodidad de forma notoria. Es el segundo episodio documentado de esta reacción ante el agua — sugiere algo más que preferencia casual.
+- **Portavoz del pasado**: Junto a Tiritas, explica a Dante los antecedentes completos del grupo. Es la primera vez que Kira verbaliza la historia del reformatorio para alguien externo de forma ordenada.
+- **Estado Legal en pausa**: La conversación pendiente con su madre sigue aplazada. La mansión sin cobertura la protege temporalmente de esa presión.
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
@@ -340,12 +348,12 @@ Kira está bajo la tutela formal de Comadreja con la Unidad 404. Su tutela es la
 
 ### **Estado Actual**
 
-- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
+- **Ubicación**: Mansión privada en isla volcánica deshabitada al norte de Arcadia (refugio temporal de Mulcifer)
 - **Nombre heroico**: Kira
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Aprendizaje activo; ver poderes similares a los suyos en combate real es información valiosa
-- **Estado Legal**: Bajo tutela de Comadreja, pero pendiente de gestionar la situación con su madre
-- **Acción en curso**: Construcción de perfil digital seguro como "Kira"; supresión de "Chispas"; conversación pendiente con su familia
+- **Estado Emocional**: Pausa táctica aceptada; la incomodidad con el agua es un patrón que se repite
+- **Estado Legal**: Bajo tutela de Comadreja, pendiente de gestionar la situación con su madre (aplazada sin cobertura)
+- **Acción en curso**: Conversación pendiente con su familia; construcción de perfil digital seguro como "Kira"
 - **Régimen**: Entrenamiento físico obligatorio a las 7:00 a.m. con Comadreja
 
 ### **Impacto Psicológico**

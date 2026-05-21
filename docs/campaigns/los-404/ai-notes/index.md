@@ -67,12 +67,13 @@ Para análisis estructurados y resúmenes narrativos, consulta los [Resúmenes A
 | Fecha | Sesión | Transcripción | Análisis |
 |-------|--------|---------------|----------|
 | 10/05/2026 | Sesión 13 | [Transcripción]({{ site.baseurl }}/campaigns/los-404/ai-notes/2026-05-10-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/) |
+| 17/05/2026 | Sesión 14 | [Transcripción]({{ site.baseurl }}/campaigns/los-404/ai-notes/2026-05-17-gemini-notes/) | [Análisis]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/) |
 
 ---
 
 ## Estadísticas
 
-- **Total de transcripciones**: 13
+- **Total de transcripciones**: 14
 - **Período cubierto**: Octubre 2025 - Mayo 2026
 - **Jugadores documentados**: David P.J. Martín (Sergei/Morf), Júlia Gasull (Tiritas), Adriana Ferran Gonzalez (Kira), Capitán Berberecho (Elena/Titiritera)
 
@@ -86,4 +87,4 @@ Para análisis estructurados y resúmenes narrativos, consulta los [Resúmenes A
 
 ---
 
-*Última actualización: Abril 2026*
+*Última actualización: Mayo 2026*

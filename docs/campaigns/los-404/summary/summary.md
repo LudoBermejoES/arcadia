@@ -308,7 +308,17 @@ Ningún plan del grupo ha salido exactamente como se diseñó. Y sin embargo, so
 
 ---
 
-*Última actualización: Sesión 13 — 10 Mayo 2026*
+*Última actualización: Sesión 14 — 17 Mayo 2026*
+
+### Actualización: Sesión 14 (17/05/2026)
+
+**Sesión 14 — La Mansión de la Isla Volcánica**: El combate post-emboscada se resuelve rápido — la limusina explota (10 puntos de daño absorbidos por dureza y campo de fuerza de Dante), el conductor original confirmado muerto, el grupo evalúa opciones. Dante recibe coordenadas GPS de Mulcifer: destino, una zona de teatros a medianoche con nuevo equipo de seguridad esperando. Durante el trayecto a los muelles, se analiza la emboscada y se concluye que fue planificada — el atacante conocía el itinerario. Sin resolver quién. Morf expresa en voz alta la frustración acumulada ante los intentos de asesinato continuos: el primer momento de apertura emocional explícita de su arco. Kira muestra de nuevo reticencia al agua al embarcar en el yate. Elena viaja en el maletero por decisión propia. El grupo llega a las 2 de la madrugada a una mansión en isla volcánica deshabitada del norte de Arcadia —territorio de personas adineradas, infraestructura de Mulcifer. Exploran la mansión, encienden una estufa oculta, organizan una cena de macarrones. Dante llama a Mulcifer: permiso para quedarse, sin cobertura, lancha de emergencia disponible. Kira y Tiritas contextualizan los antecedentes del grupo para Dante. El barrio flotante y Lía siguen sin alcanzarse.
+
+**Primera pausa real del grupo**: Es la primera vez en meses que la Unidad 404 tiene un espacio seguro sin urgencia táctica inmediata. El descanso funciona como reveladora de carácter — lo que cada personaje hace cuando no hay combate.
+
+**Hilo abierto**: El atacante del proyectil sigue sin identificar. Mientras el grupo descansa en la isla, alguien sigue sabiendo sus movimientos.
+
+---
 
 ### Actualización: Sesión 13 (10/05/2026)
 

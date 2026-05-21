@@ -15,6 +15,25 @@ permalink: /campaigns/los-404/sessions/
 
 ### 🌼 **Mayo 2026 - La Unidad 404 en Acción**
 
+#### [📝 Sesión 17 de Mayo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
+
+**"La Mansión de la Isla Volcánica"**
+
+- 💥 **Fin del combate**: La limusina explota — 10 puntos de daño mitigados por dureza y campo de fuerza de Dante. El conductor original murió en el impacto inicial
+- 📱 **Coordenadas de Mulcifer**: Dante recibe GPS con el destino. El grupo sigue las instrucciones sin debate — es la única alternativa concreta
+- 🎭 **Zona de teatros**: A medianoche, dos todoterrenos y una limusina nuevos los esperan. Equipo de seguridad de Mulcifer; Dante reconoce a algunos
+- 🕷️ **Análisis de la emboscada**: El ataque fue planificado — los atacantes conocían el itinerario. Hipótesis: barón rival, vigilancia del grupo, o alguien que sabe que van hacia Lía. Sin resolución
+- 🚢 **Muelles y yate**: Kira muestra reticencia al agua (patrón recurrente). Elena viaja en el maletero por elección propia. Morf expresa frustración abierta ante los continuos intentos de asesinato
+- 🏝️ **Isla volcánica deshabitada**: Mansiones privadas de adinerados. Llegada a las 2 de la madrugada. Mansión habitable y equipada
+- 🔍 **Exploración de la mansión**: Estatua de dragón, piano, pasta fresca en cocina. Dante busca teléfono fijo. Se enciende estufa oculta tras rejilla
+- 🍝 **Cena de macarrones**: En cocina de alta gama con ingredientes de lujo. El termómetro emocional del grupo sigue siendo la comida
+- 📞 **Llamada a Mulcifer**: Permiso para quedarse, sin cobertura en la isla, lancha rápida disponible para emergencias
+- 📖 **Contextualización para Dante**: Kira y Tiritas explican el reformatorio, la fuga, los Strigoi y la misión. Dante escucha; pregunta por los motivos del ataque — respuesta honesta: no lo saben con certeza
+
+**Temas Clave**: El lujo como anestesia, el enemigo sin rostro, el descanso como revelación de carácter
+
+---
+
 #### [📝 Sesión 10 de Mayo]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-10-gemini-notes/)
 
 **"La Emboscada de la Limusina"**

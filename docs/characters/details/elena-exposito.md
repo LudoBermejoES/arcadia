@@ -261,10 +261,17 @@ Elena se incorporó plenamente al grupo en la sesión en casa de Mésmero tras e
 - [Los 404 - Sesión 15/03/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-03-15-gemini-notes/)
 - [Los 404 - Sesión 12/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-12-gemini-notes/)
 - [Los 404 - Sesión 26/04/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-04-26-gemini-notes/)
+- [Los 404 - Sesión 17/05/2026]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/2026-05-17-gemini-notes/)
 
-## Situación Actual (Abril 2026)
+## Situación Actual (Mayo 2026)
 
 Elena (Titiritera) bajo tutela de Comadreja con la Unidad 404. Tras la sesión 12 ha pasado a ser **el activo táctico más versátil del grupo**: la ilusión colectiva que sostuvo toda la operación de infiltración fue suya, y la maniobra que permitió obtener la localización de Lía también.
+
+### **Evolución Reciente (Sesión 14 - 17/05/2026)**
+
+- **Maletero voluntario**: Elige viajar en el maletero del todoterreno durante el trayecto a los muelles. El gesto encaja con su patrón de adaptación no convencional y cierta preferencia por el aislamiento observador.
+- **Recuperación autónoma**: Se desaturde del aturdimiento del combate sin gastar Benny — resiliencia táctica creciente que el narrador confirma mecánicamente.
+- **Sesión sin momento definitivo propio**: La sesión de descanso no le da un momento de lucimiento individual. Su contribución es la presencia y la pausa.
 
 ### **Evolución Reciente (Sesión 12 - 26/04/2026)**
 
@@ -277,10 +284,10 @@ Elena (Titiritera) bajo tutela de Comadreja con la Unidad 404. Tras la sesión 1
 
 ### **Estado Actual**
 
-- **Ubicación**: Subiendo a limusina blanca facilitada por Mulcifer, en dirección al barrio flotante
+- **Ubicación**: Mansión privada en isla volcánica deshabitada al norte de Arcadia (refugio temporal de Mulcifer)
 - **Nombre heroico**: Titiritera
 - **Estado Físico**: En buen estado
-- **Estado Emocional**: Confianza creciente en su rol táctico tras una operación exitosa
+- **Estado Emocional**: En pausa — sin urgencia táctica inmediata por primera vez en semanas
 - **Estado Legal**: Bajo tutela de Comadreja; Mésmero gestiona regularización
 - **Rol en el Grupo**: Apoyo táctico esencial para ocultación, ilusiones de combate, distracción y manipulación social encubierta
 

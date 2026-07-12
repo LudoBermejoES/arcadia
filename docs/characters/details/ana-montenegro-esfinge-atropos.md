@@ -86,6 +86,8 @@ Su dominio sobre el tiempo evolucionó dramáticamente a lo largo de su arco nar
 - [Session 43]({{ site.baseurl }}/campaigns/la-familia/session-43/) - Transformada en armadura de oro, lidera exploración dimensional y negocia con Esfinge
 - [Session 44 - 1 Marzo 2026]({{ site.baseurl }}/campaigns/la-familia/session-44-summary/) - Interactúa con la Esfinge, gestiona la travesía por el Mar de los Muertos con efecto relativista, combate dos gólems de piedra y participa en la negociación con Anubis
 - [La Fuerza Oculta AI Notes]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/) - Como abogada Ana Montenegro
+- [La Fuerza Oculta - Sesión 59 (5 Abril 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Reaparece con poderes recuperados y traje de Esfinge; prepara la entrega pública como abogada
+- [La Fuerza Oculta - Sesión 60 (12 Abril 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Asume el liderazgo de la defensa en el juicio tras la inhibición del Señor Thomas; fija la estrategia de decir la verdad
 
 ## La Transformación Cósmica - Embarazo Temporal
 Uno de los arcos más extraordinarios de Ana fue su **embarazo cósmico** - la gestación de una entidad temporal que transformó tanto su físico como sus poderes:

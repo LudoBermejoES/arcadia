@@ -102,31 +102,28 @@ Resumen completo y detallado de todas las sesiones de La Fuerza Oculta, desde lo
 
 ---
 
-## 🔮 Estado Actual (Marzo 2026)
+## 🔮 Estado Actual (Abril 2026) — Campaña en Pausa
 
-**La Fuerza Oculta** ha completado la vigilancia del consulado de EEUU y ha contactado con Sara 10 para obtener un dispositivo PEM. La Sesión 57 marca el descubrimiento de las defensas del consulado, la intervención de Mésmero para echarles de su casa, y un trato con Sara 10 que exige el robo de la piedra Arcadita del museo.
+**La Fuerza Oculta** ha cerrado su etapa superheroica. Tras entregarse voluntariamente y exponer la red de tráfico de metahumanos (Sesión 59), el grupo fue juzgado en la Sesión 60. La jueza dictó sentencias clementes: **ninguno pisa la cárcel de forma efectiva**, sino que cumplen libertad vigilada, programas terapéuticos, prestaciones comunitarias e internamiento abierto/semiabierto en Isla Azogue. La campaña se pausa con un salto temporal de un año en la trama y da paso a una nueva campaña: **Pathfinder 2e "Hacedor de Reyes" (Kingmaker)**.
 
-**Estado del grupo (tras Sesión 57):**
+**Estado del grupo (tras Sesión 60 — sentenciados):**
 
-- **Sentencia**: Veterana, alias "Banshee", piel impenetrable — en el piso de Ana Montenegro
-- **Hotman**: Veterano, orador clásico articulado — en el piso de Ana Montenegro
-- **Diana**: Veterana, curtida en combate — en el piso de Ana Montenegro
-- **Cía/Psique**: Veterana, madurada — en el piso de Ana Montenegro
-- **Pantomima**: Ausente (Xavi en Uruguay) — pendiente de subida de nivel
-- **Eslizón**: Ausente, con los cachorros bestiales
+- **Sentencia (Justa McKomick)**: Mayor carga penal — internamiento semiabierto 12 meses + prisión suspendida, prohibición de armas 2 años, inhabilitación 3 años, terapia 24 meses; elimina la desventaja "idealista"
+- **Hotman**: Prisión de 2 años suspendida, Eneiros como tutor, 400 h formando metahumanos jóvenes, terapia por trauma paterno
+- **Diana**: Libertad vigilada, prohibición de poderes en público, posible internamiento abierto en Isla Azogue; elimina "dificultad para relacionarse" y "pesadillas", conserva "vengativo"
+- **Cía/Psique (Mencía Rodríguez)**: Libertad vigilada con supervisión quincenal en Isla Azogue, indemnización a Caswell; forma extracorpórea con el reloj de las 48h
+- **Pantomima**: Menor carga penal — libertad vigilada 6 meses y 150 h en entorno hospitalario
+- **Eslizón**: Ausente durante el arco final
 
-### 🎯 **Arcos Narrativos Activos**
+### 🎯 **Arcos Narrativos (cerrados o en pausa)**
 
-- **Robo de Arcadita del museo**: Sara 10 exige la piedra Arcadita a cambio del dispositivo PEM
-- **PEM de Sara 10**: Dispositivo electromagnético necesario para la infiltración del consulado
-- **Misión del consulado de EEUU**: Infiltración urgente para obtener documentos sobre la traición del padre de Hotman
-- **Padre de Hotman = agente de EEUU**: Trabaja para minar la soberanía de Arcadia; EEUU creó el campo antimeta
-- **Entrega de Hotman**: Comprometido a entregarse a la justicia tras completar la misión del grupo
-- **"Banshee"**: Identidad secreta de Sentencia como sidekick de Espectro — rumor público
-- **Origen de Diana**: Información en mansión Fatum; su origen podría ser clave para crear 2M de cuerpos
-- **Liberación de las almas**: Encontrar el Ka para liberar dos millones de almas egipcias
-- **Pasado de Mésmero**: Estuvo en la cárcel por un asunto con El Faraón y Egipto
-- **Manipulación externa**: EEUU confirmado como orquestador de los eventos contra Arcadia
+- **Juicio de La Fuerza Oculta**: RESUELTO — sentencias de reinserción, ninguna prisión efectiva
+- **Traición del padre de Hotman**: EXPUESTA públicamente; investigación en manos del Alcalde
+- **Condicionamiento de Justa por Roberto McKomick**: Revelado como abuso; base de su atenuante y de su terapia
+- **Salto temporal de un año**: Los personajes evolucionan durante el parón narrativo
+- **Transición a Kingmaker**: Nueva campaña de Pathfinder 2e, nivel 1 a 20, con personajes nuevos
+- **Cabos sueltos**: El tío de Justa y los "2 millones de mentes" dentro de Mésmero quedan pendientes
+- **Robo de Arcadita del museo / PEM de Sara 10**: Arco abandonado tras la resolución del consulado por vía telepática
 
 ---
 
@@ -255,12 +252,12 @@ La campaña "La Fuerza Oculta" ha evolucionado desde la inocencia de participant
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Detenidos voluntariamente en comisaría (excepto Eslizón con cachorros y Psique en coma con Mésmero) |
-| **Ideología** | Rendición como victoria — exposición pública de traidores y entrega voluntaria ante el Alcalde |
-| **Recursos** | Documentos del consulado entregados, copias digitales, pruebas en manos del Alcalde François Chalá |
-| **Legal** | Detenidos voluntariamente, 48 MetaCorp presentes sin collares inhibidores. Psique debe presentarse en 48h |
-| **Físico** | Psique en coma (cuerpo con Mésmero), proyección astral activa con límite de 48h. Resto estable en celdas |
-| **Espiritual** | Red de veteranos activada — Eneiros asalta localizaciones de retención de metahumanos simultáneamente |
+| **Unidad** | Sentenciados y en libertad (bajo medidas de reinserción). Campaña en pausa con salto temporal de un año |
+| **Ideología** | Redención sobre castigo — el sistema los trata como héroes que erraron, no como criminales |
+| **Recursos** | Traición expuesta públicamente; investigación en manos del Alcalde François Chalá |
+| **Legal** | Juicio resuelto — ninguno en prisión efectiva; libertad vigilada, terapia, prestaciones e Isla Azogue |
+| **Físico** | Sentencia y Hotman con las penas más severas; Psique aún en forma extracorpórea con límite de 48h |
+| **Espiritual** | Terapia obligatoria como vía de sanación y de eliminación de desventajas de personaje |
 
 **El sistema de almas egipcias:**
 - **Ba** (Personalidad): Custodiado por Mésmero

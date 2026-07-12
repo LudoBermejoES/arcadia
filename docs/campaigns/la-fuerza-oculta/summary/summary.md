@@ -106,6 +106,7 @@ La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos qu
 ### Fase XVI: El Consulado y la Rendición (Marzo-Abril 2026)
 - [Sesión 58: El Consulado Blindado y el Sacrificio de Psique](#sesión-58-el-consulado-blindado-y-el-sacrificio-de-psique-29-marzo-2026)
 - [Sesión 59: La Entrega — Traidores, Televisión y Justicia](#sesión-59-la-entrega--traidores-televisión-y-justicia-5-abril-2026)
+- [Sesión 60: El Juicio — Sentencias, Terapia y el Fin de una Era](#sesión-60-el-juicio--sentencias-terapia-y-el-fin-de-una-era-12-abril-2026)
 
 ---
 
@@ -2517,6 +2518,53 @@ El Alcalde escolta al grupo a pie hasta la comisaría, seguidos por cámaras. Fu
 | Sique/Cía | En coma (cuerpo con Mésmero), proyección astral activa | Cuerpo: con Mésmero / Astral: comisaría |
 | Hotman | Detenido voluntariamente | Celda de comisaría |
 | Eslizón | Ausente | Con cachorros bestiales |
+
+---
+
+### Sesión 60: El Juicio — Sentencias, Terapia y el Fin de una Era (12 abril 2026)
+
+📎 [Notas manuales](../manual-notes/session-60-2026-04-12/) | [AI](../ai-notes/2026-04-12-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-04-12-gemini-notes.md)
+
+**El juicio de La Fuerza Oculta y el cierre de la etapa superheroica:**
+
+**Personajes presentes**: Sentencia, Diana, Pantomima, Sique/Cía (forma extracorpórea), Hotman
+
+**Reclusión y defensa:**
+
+El grupo espera el juicio en un ala aislada de una prisión de baja seguridad para metahumanos: sin collares, pero con detectores de poderes y celdas individuales separadas por sexos. Se reúnen con sus abogados, Átropos (Ana Montenegro) y el Señor Thomas. Thomas se inhibe y cede la defensa a Átropos por su relación pasada con la fiscal, Géminis (Filipa Rodríguez), que además arrastra un conflicto con la familia Patum. La estrategia: no mentir, decir la verdad sobre cada acto y ser discretos solo con lo que la fiscalía desconoce.
+
+**Los cargos y las atenuantes:**
+
+Se enuncian los cargos de cada acusado (fuga de custodia, homicidio imprudente, lesiones graves, control mental, tenencia ilícita de armas, estafa, manipulación mediática). Se aplican atenuantes por minoría de edad (mayoría a los 21 en Arcadia), entrega voluntaria, estado de necesidad y —clave para Justa— alteración psíquica por el condicionamiento sistemático de su tío Roberto McKomick, que la crio como arma de venganza.
+
+**Las sentencias — reinserción sobre castigo:**
+
+La jueza dicta que ninguno pisa la cárcel efectiva. Diana: libertad vigilada 18 meses, prohibición de poderes en público, 400h y posible Isla Azogue. Pantomima (menor carga): libertad vigilada 6 meses, 150h hospitalarias. Psique: libertad vigilada 18 meses con presencia quincenal en Isla Azogue e indemnización a Caswell. Sentencia (mayor carga): internamiento semiabierto 12 meses + prisión suspendida 9 meses, prohibición de armas 2 años, inhabilitación 3 años, terapia 24 meses y mediación con las víctimas (Vórtice y Cuchilla). Hotman: prisión 2 años suspendida, Eneiros como tutor, 400h formando metahumanos y terapia por el trauma paterno.
+
+**Terapia como desarrollo de personaje:**
+
+Las sentencias terapéuticas se convierten en herramienta narrativa. Diana elimina "dificultad para relacionarse" y "pesadillas" pero conserva "vengativo"; Justa elimina "idealista" al empezar a ver la moralidad en tonos de gris; Hotman propone defectos nuevos (culpa hacia las huérfanas, no responder con violencia en el primer turno).
+
+**Cierre de era y transición:**
+
+Ludo (narrador) pausa la campaña con un salto temporal de un año en la trama y anuncia la próxima campaña: Pathfinder 2ª Edición "Hacedor de Reyes" (Kingmaker), megacampaña de nivel 1 a 20 con la ambición épica de *Critical Role*. Fin de la etapa superheroica de La Fuerza Oculta.
+
+**Estado final del grupo:**
+
+| Personaje | Estado | Sentencia |
+|-----------|--------|-----------|
+| Sentencia (Justa) | Sentenciada, libre bajo medidas | Internamiento semiabierto 12m + prisión suspendida, prohibición de armas 2a, terapia 24m |
+| Diana | Sentenciada, libre bajo medidas | Libertad vigilada 18m, prohibición de poderes en público, posible Isla Azogue |
+| Pantomima | Sentenciada, libre bajo medidas | Libertad vigilada 6m, 150h servicio hospitalario |
+| Sique/Cía | Sentenciada; forma extracorpórea (48h) | Libertad vigilada 18m, supervisión quincenal en Isla Azogue |
+| Hotman | Sentenciado, libre bajo medidas | Prisión 2a suspendida, tutor Eneiros, 400h, terapia |
+| Eslizón | Ausente | — |
+
+---
+
+## Conclusión
+
+La Fuerza Oculta cierra su etapa superheroica no con una batalla, sino con un juicio. Tras 60 sesiones, un grupo de adolescentes metahumanos que empezó como concursantes de un reality show y acabó destapando una conspiración internacional recibe sentencias de reinserción en lugar de prisión: el sistema los reconoce como *héroes que ocasionalmente actuaron como criminales*, no al revés. La campaña se pausa con un salto temporal de un año, dejando a los personajes en pleno proceso de sanación y madurez, y abre paso a una nueva era en Pathfinder Kingmaker. El legado de La Fuerza Oculta queda cerrado como un estudio sobre la culpa, la redención y el precio moral de hacer lo correcto en un mundo sin respuestas claras.
 
 ---
 

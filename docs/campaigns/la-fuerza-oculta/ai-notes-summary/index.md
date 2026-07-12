@@ -924,4 +924,26 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 
 ---
 
+#### [📈 Análisis 12/04/2026 - Sesión 60: El Juicio](2026-04-12-gemini-notes.md)
+**"Sentencias, Terapia y el Fin de una Era"**
+
+**🎯 Temas Centrales Identificados:**
+- **La justicia como redención**: Ninguno pisa la cárcel; terapia y servicio comunitario en vez de castigo
+- **La terapia como mecánica de personaje**: Los jugadores ajustan desventajas aprovechando las sentencias
+- **Consecuencias que persisten**: Cada acto pasado (chatarrería, casino, consulado) se juzga uno a uno
+- **Cierre de una era**: Fin de la etapa superheroica tras 60 sesiones y salto temporal de un año
+
+**🔍 Revelaciones Clave:**
+- **Roberto McKomick, el tío de Justa, como abusador**: La condicionó como arma de venganza
+- **Psique es Mencía Rodríguez**: Identidad tras la heroína
+- **La fiscal es Géminis (Filipa Rodríguez)**: Expareja del Señor Thomas, conflicto con la familia Patum
+- **Isla Azogue**: Centro de internamiento con el Señor Nadie como garante nulificador de poderes
+- **Nueva campaña**: Pathfinder 2e "Hacedor de Reyes" (Kingmaker), nivel 1 a 20
+
+**Duración**: ~2.7 horas | **Jugadores**: Sentencia (Edu), Sique (Conchi), Pantomima (Xavi), Diana (Eslizo), Hotman (Jandro)
+
+**🎯 NOTA ESPECIAL**: SESIÓN DE CIERRE — Fin de La Fuerza Oculta como campaña superheroica. Transición a Pathfinder Kingmaker.
+
+---
+
 **[📼 Ver Transcripciones Completas →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/)** | **[📋 Revisar Notas Manuales →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/)** | **[📅 Cronología General →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/sessions/)**

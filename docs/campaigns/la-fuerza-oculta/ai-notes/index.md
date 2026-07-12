@@ -648,6 +648,24 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 ---
 
+#### [📼 2026-04-12 - Sesión 60: El Juicio](../ai-notes-summary/2026-04-12-gemini-notes.md)
+
+**"Sentencias, terapia y el fin de una era"**
+
+- ⚖️ **El juicio**: Cargos formales contra cada personaje; Géminis (Filipa Rodríguez) como fiscal
+- 👩‍⚖️ **Átropos lidera la defensa**: El Señor Thomas se inhibe por conflicto de interés con la fiscal
+- 🕊️ **Ninguno a prisión**: Libertad vigilada, terapia y prestaciones; Isla Azogue para varios
+- 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación
+- 🧠 **Terapia como desarrollo**: Diana y Justa ajustan desventajas de personaje
+- ⏳ **Salto temporal**: La campaña se pausa; un año pasa en la trama
+- 🐉 **Nueva campaña**: Anuncio de Pathfinder 2e "Hacedor de Reyes" (Kingmaker)
+
+**Duración**: ~2.7 horas | **Jugadores**: Sentencia (Edu), Sique (Conchi), Pantomima (Xavi), Diana (Eslizo), Hotman (Jandro)
+
+**🎯 NOTA ESPECIAL**: Sesión de cierre — fin de la etapa superheroica de La Fuerza Oculta y transición a Pathfinder Kingmaker.
+
+---
+
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**

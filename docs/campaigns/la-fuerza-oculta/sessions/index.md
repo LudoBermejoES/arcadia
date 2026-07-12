@@ -645,6 +645,33 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
+#### [📊 Sesión 12 de Abril (Sesión 60)](../ai-notes-summary/2026-04-12-gemini-notes.md)
+**"El Juicio — Sentencias, Terapia y el Fin de una Era"**
+- 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filipa Rodríguez)
+- ⚖️ **Cargos y atenuantes**: Minoría de edad, entrega voluntaria y condicionamiento de Justa por su tío Roberto McKomick
+- 🕊️ **Sentencias de reinserción**: Ninguno a prisión efectiva — terapia, prestaciones comunitarias e Isla Azogue
+- 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación
+- 🧠 **Terapia como desarrollo de personaje**: Diana elimina "pesadillas"/"dificultad para relacionarse"; Justa elimina "idealista"
+- ⏳ **Salto temporal de un año**: La campaña se pausa; los personajes evolucionan durante el parón
+- 🐉 **Nueva campaña**: Anuncio de Pathfinder 2e "Hacedor de Reyes" (Kingmaker), nivel 1 a 20
+
+📎 [Notas manuales](../manual-notes/session-60-2026-04-12/) | [AI](../ai-notes/2026-04-12-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-04-12-gemini-notes.md)
+
+**Estado Final del Grupo:**
+
+| Personaje | Estado | Sentencia |
+|-----------|--------|-----------|
+| Sentencia (Justa) | Sentenciada, libre bajo medidas | Internamiento semiabierto 12m + prisión suspendida, prohibición de armas 2a, terapia 24m |
+| Diana | Sentenciada, libre bajo medidas | Libertad vigilada 18m, prohibición de poderes en público, posible Isla Azogue |
+| Pantomima | Sentenciada, libre bajo medidas | Libertad vigilada 6m, 150h servicio hospitalario |
+| Sique/Cía | Sentenciada; forma extracorpórea (48h) | Libertad vigilada 18m, supervisión quincenal en Isla Azogue, indemnización |
+| Hotman | Sentenciado, libre bajo medidas | Prisión 2a suspendida, tutor Eneiros, 400h formando metahumanos, terapia |
+| Eslizón | Ausente | — |
+
+**Temas Clave**: Justicia como redención, terapia como mecánica de personaje, consecuencias que persisten, cierre de una era
+
+---
+
 ## 📊 Análisis por Contenido
 
 ### 🎭 **Por Tipo de Registro**

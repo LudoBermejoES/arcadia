@@ -419,6 +419,22 @@ Sale a entregarse pero **queda atrapado**:
 
 ---
 
+### Fase XV: El Juicio y la Tutela de Eneiros (12 Abril 2026)
+
+**La pena nominal más alta, totalmente suspendida**:
+
+- Tras la entrega voluntaria y la exposición pública de la traición de su padre, Hotman es juzgado
+- Cargos: quebrantamiento de medida cautelar, homicidio imprudente de un agente de MetaCorp (poderes termogénicos descontrolados, pre-campaña), agresión térmica en el hospital y manipulación mediática por difundir imágenes de menores
+- Sentencia: **prisión 2 años suspendida totalmente**, con **Eneiros como tutor** reconocido, 400 horas de servicio comunitario formando metahumanos jóvenes, terapia por el trauma de la traición paterna y alternativa de Isla Azogue
+- El Fiscal lo señala como **el perfil con mayor potencial de rehabilitación**, valorando que su entrega voluntaria fue previa a la del grupo
+
+**Cabo suelto — la teoría del dispositivo mental**:
+
+- Hotman insiste en que su padre estuvo implicado en el ataque que sufrió en Eiros y que le habrían implantado un dispositivo mental
+- Átropos le aconseja contener esta "teoría conspiranoica" durante el juicio; queda como hilo pendiente
+
+---
+
 ## 🔗 Relaciones
 
 ### Pareja
@@ -500,22 +516,22 @@ Al mirar los ojos de Justa durante su declaración de venganza, Hotman comprende
 
 ---
 
-## 📊 Estado Actual (Marzo 2026)
+## 📊 Estado Actual (Abril 2026)
 
-### 🔥 MISIÓN: INFILTRACIÓN DEL CONSULADO DE EE.UU.
+### ⚖️ SENTENCIADO — BAJO TUTELA DE ENEIROS
 
-**Estado**: Reunido con La Fuerza Oculta, preparando infiltración del consulado (15 Marzo 2026)
+**Estado**: Sentenciado tras el juicio; prisión suspendida bajo tutela de Eneiros (12 Abril 2026)
 
-Hotman ha completado 3 meses de entrenamiento con Eneiros — en un barco en aguas internacionales, estudiando oratoria clásica, retórica y filosofía. Ha regresado transformado: habla con elocuencia, controla su impulsividad y lleva un nuevo uniforme dorado. La revelación de que su padre es un **agente del gobierno de EE.UU.** que trabaja activamente para socavar la soberanía de Arcadia ha cambiado completamente la naturaleza de su conflicto familiar. Ya no es solo un padre abusivo — es un traidor a la isla. La misión inmediata es infiltrarse en el consulado estadounidense para obtener documentos que prueben la traición. Hotman se debate entre hacer justicia y no involucrar al grupo en un asunto que siente como personal.
+La misión del consulado se resolvió por vía telepática y culminó en la exposición pública de la traición de su padre. Tras entregarse voluntariamente, Hotman fue juzgado en la Sesión 60 y recibió la pena nominal más alta del grupo (2 años de prisión) pero totalmente suspendida, con Eneiros como tutor, 400 horas formando metahumanos jóvenes y terapia por el trauma paterno. El Fiscal lo consideró el de mayor potencial de rehabilitación. Su teoría sobre un dispositivo mental implantado por su padre queda como hilo pendiente. La campaña se pausa con un salto temporal de un año.
 
-**Ubicación actual**: De vuelta en Arcadia, reunido con La Fuerza Oculta
+**Ubicación actual**: En libertad bajo medidas de reinserción, con Eneiros como tutor (posible Isla Azogue)
 
 ### Situación Legal
 
-- Múltiples cargos: agresión a Metacorp, destrucción de propiedad, intento de asesinato (padre)
-- Monitoreo activo por autoridades
-- Necesidad de discreción en eventos públicos
-- Estatus de "búsqueda y captura"
+- Juicio resuelto: **prisión 2 años suspendida**, sin prisión efectiva si cumple condiciones
+- Libertad vigilada con Eneiros como tutor reconocido y 400h de servicio comunitario
+- Terapia obligatoria por el trauma de la traición paterna
+- Padre expuesto públicamente como colaborador en la captura de metahumanos
 
 ### Situación Emocional
 
@@ -608,6 +624,7 @@ Hotman ha completado 3 meses de entrenamiento con Eneiros — en un barco en agu
 - [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Salva a Psique absorbiendo su temperatura excesiva
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Padre confirmado como traidor; Eneiros le respalda públicamente; detenido
+- [Sesión 60]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Juicio; prisión 2a suspendida con Eneiros como tutor, 400h y terapia; mayor potencial de rehabilitación
 - [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
 
 ---

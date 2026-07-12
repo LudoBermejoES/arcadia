@@ -229,6 +229,16 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ---
 
+### Fase IX: El Juicio y la Supervisión (12 Abril 2026)
+
+**Los hechos más graves, pero jurisdicción de menores**:
+
+- Aún en forma extracorpórea (con el reloj de las 48 horas corriendo), Psique es juzgada
+- Cargos objetivamente más graves del grupo: control mental del cónsul estadounidense Richard Caswell, borrado de memoria a dos personas y autoinyección de sustancia psicotrópica — pero la jurisdicción de menores impide la prisión
+- Sentencia: **libertad vigilada 18 meses** con supervisión intensificada, **presencia quincenal obligatoria en Isla Azogue** (con el Señor Nadie como garante nulificador telepático) e indemnización a Caswell
+
+---
+
 ### Fase VII: Casino de Dionisios y el Dilema Moral (18 Enero 2026)
 
 **Visita al Casino**:
@@ -328,15 +338,15 @@ Mencia es una telépata poderosa que actúa como el nexo nervioso de La Fuerza O
 
 ---
 
-## 📊 Estado Actual (Febrero 2026)
+## 📊 Estado Actual (Abril 2026)
 
-### ✅ RECUPERADA — MANSIÓN SEGURA
+### ⚖️ SENTENCIADA — SUPERVISIÓN EN ISLA AZOGUE
 
-**Estado**: Recuperada, en mansión de Mulcifer (22 Febrero 2026)
+**Estado**: Sentenciada tras el juicio; forma extracorpórea con límite de 48h (12 Abril 2026)
 
-Tras la conmoción de la granada aturdidora, Sique se recuperó y demostró sus habilidades médicas realizando una cirugía de campo excepcional (tirada 16) para extraer 3 balas del cuerpo de Sentencia. El esfuerzo la dejó desvanecida, pero el resultado fue perfecto. El grupo se ha reubicado en la mansión segura que Mulcifer cedió a Diana y Sique.
+Tras entregarse con el grupo y usar su segundo turno de poder para extraer los nombres de los traidores (que la dejó en coma), Psique afronta el juicio como proyección extracorpórea. Aunque sus hechos son objetivamente los más graves del grupo (control mental del cónsul, borrado de memoria, autoinyección de droga), la jurisdicción de menores la salva de prisión: libertad vigilada 18 meses con presencia quincenal obligatoria en Isla Azogue e indemnización a Caswell. Su cuerpo físico sigue con Mésmero y el reloj de las 48 horas fuera del cuerpo continúa corriendo. La campaña se pausa con un salto temporal de un año.
 
-**Ubicación actual**: Mansión segura de Mulcifer (Barrio Biónico)
+**Ubicación actual**: Forma extracorpórea (cuerpo con Mésmero); supervisión pautada en Isla Azogue
 
 ### Resolución del Dilema Moral (25 Enero 2026)
 
@@ -445,6 +455,7 @@ Tras la conmoción de la granada aturdidora, Sique se recuperó y demostró sus 
 - [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Se inyecta la droga de Mentallo; control mental del cónsul a distancia; estado crítico
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Extrae nombres de traidores; coma 3 días; proyección astral; disculpas públicas en TV
+- [Sesión 60]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Juicio; hechos más graves pero jurisdicción de menores; libertad vigilada 18m con supervisión en Isla Azogue
 - [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
 
 ---

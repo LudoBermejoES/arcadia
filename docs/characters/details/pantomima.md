@@ -274,6 +274,21 @@ Durante una carrera ilegal, el **Bugatti de Sombrío** accedió al **Puente de M
 
 ---
 
+### Fase VII: El Juicio y la Confrontación (12 Abril 2026)
+
+**La menor carga penal del grupo**:
+
+- Tras la entrega voluntaria, Pantomima es juzgada con el Señor Thomas (abogado de su familia) y Átropos en la defensa
+- Cargos: fuga de custodia preventiva y desórdenes públicos por la ilusión de una embarazada golpeada que provocó un infarto en el hospital
+- Sentencia de reinserción: **libertad vigilada 6 meses** (programa socioeducativo de uso ético de ilusiones) y **150 horas** de servicio en entorno hospitalario/emergencias
+
+**Confrontación como desarrollo**:
+
+- Su servicio comunitario transcurre en el mismo hospital donde causó el caos, obligándola a confrontar las consecuencias de su ilusión
+- Es la acusada con menor carga penal, reflejo de su papel más contenido en los actos del grupo
+
+---
+
 ## 🎯 Especialización Táctica
 
 ### Maestra del Caos Psicológico Controlado
@@ -609,6 +624,7 @@ Pantomima fue alcanzada por dos disparos de rifle de pulsos durante la emboscada
 - [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Intento de infiltración del consulado; descubre detector de ADN metahumano
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Silenciada por Mésmero 24h; entrega voluntaria en TeleArcadia; detenida
+- [Sesión 60]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Juicio; menor carga penal (libertad vigilada 6m, 150h servicio hospitalario confrontando su ilusión)
 - [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
 
 ---

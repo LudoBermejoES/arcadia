@@ -491,21 +491,42 @@ Diana la confronta duramente sobre el pragmatismo:
 
 ---
 
-## 📊 Estado Actual (Febrero 2026)
+### Fase XIII: El Juicio y la Sentencia (12 Abril 2026)
 
-### 🔱 NUEVA FASE: FRÍA Y DETERMINADA
+**La carga penal más alta del grupo**:
 
-**Estado**: Transformada radicalmente, misión de eliminar al tío (22 Febrero 2026)
+- Tras la entrega voluntaria, Sentencia es juzgada con Átropos (Ana Montenegro) como abogada defensora
+- Se destapa que su tío **Roberto McKomick** la crio y entrenó como un arma para vengar la muerte de su padre — reconocido como abuso y base de la atenuante de alteración psíquica por condicionamiento
+- Asume su defensa y su condena con resignación: *"venía dispuesta a ser castigada"*
 
-Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa habitación completamente diferente: sin rastro de la angustia anterior, con una frialdad que preocupa más que la rabia. Ha declarado que matará a su tío Roberto McKomick — el hombre que le proporcionaba arsenales y le encargó que "continuara su legado" — y lo dice sin pasión, como quien anuncia un plan de trabajo.
+**Sentencia impuesta**:
 
-**Ubicación actual**: Mansión segura de Mulcifer (Barrio Biónico)
+- Internamiento en régimen semiabierto **12 meses** + prisión **9 meses** suspendida condicionalmente
+- **Prohibición de armas 2 años** (la obliga al combate cuerpo a cuerpo), privación de conducir 12 meses, inhabilitación 3 años sin funciones de seguridad
+- Tratamiento psicológico obligatorio **24 meses** (para "limpiar" el condicionamiento infantil) y mediación con las víctimas: Vórtice, Cuchilla y los MetaCorps atropellados
 
-**Situación del grupo**:
-- **Hotman**: Con Oneiros para entrenamiento intensivo de 2 semanas
-- **Psique/Sique**: Recuperándose tras el esfuerzo de la cirugía
-- **Diana**: En la mansión de Mulcifer
-- **Eslizón**: Ausente
+**Desarrollo de personaje**:
+
+- Elimina la desventaja **"idealista"**: empieza a comprender que existen "cosas grises" en lugar de ver el mundo en blanco y negro
+- El narrador la describe como no lo bastante brillante para engañar a un psicólogo, pero extremadamente obstinada, con un gran bloqueo psicológico
+
+---
+
+## 📊 Estado Actual (Abril 2026)
+
+### ⚖️ NUEVA FASE: SENTENCIADA Y EN RECONSTRUCCIÓN
+
+**Estado**: Sentenciada a medidas de reinserción; asume su condena con resignación (12 Abril 2026)
+
+Sentencia sale del juicio con la mayor carga penal del grupo, pero sin prisión efectiva. La prohibición de armas la fuerza a reinventarse como combatiente cuerpo a cuerpo, y la terapia obligatoria de 24 meses apunta a desmontar el condicionamiento que su tío le grabó desde niña. Ha renunciado a la desventaja "idealista": la joven que veía el mundo en blanco y negro empieza a aceptar los grises. La campaña se pausa con un salto temporal de un año durante el cual afrontará su rehabilitación.
+
+**Ubicación actual**: En régimen semiabierto (posible internamiento supervisado), bajo medidas de reinserción
+
+**Situación del grupo (tras el juicio)**:
+- **Todos sentenciados sin prisión efectiva**: medidas de reinserción, terapia y prestaciones comunitarias
+- **Hotman**: Prisión suspendida con Eneiros como tutor
+- **Diana, Pantomima, Psique**: Libertad vigilada con distintas condiciones
+- **Eslizón**: Ausente durante el arco final
 
 ### Situación Táctica
 
@@ -631,6 +652,8 @@ Sentencia tocó fondo con una pistola en la sien. No disparó. Salió de esa hab
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Lidera la entrega voluntaria en TeleArcadia; deja armas sobre la mesa; detenida
 - [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
+- [Sesión 60]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Juicio; mayor carga penal (internamiento + prisión suspendida + terapia 24m + prohibición de armas 2a); elimina "idealista"
+- [AI Notes 2026-04-12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-12-gemini-notes/)
 
 ---
 

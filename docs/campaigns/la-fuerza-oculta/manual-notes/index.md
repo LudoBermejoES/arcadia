@@ -427,11 +427,34 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 
 ---
 
+- **[Sesión 59 - 5 Abril 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/)** - *"La Entrega"*
+  - 🧠 **Segundo turno de Psique**: Extrae de la mente del cónsul los nombres de los tres traidores de Arcadia
+  - 😡 **Mésmero furioso**: Se lleva a Psique en coma y silencia a Pantomima 24h
+  - 📄 **Pruebas aseguradas**: Sentencia sube copias de los documentos a un servidor seguro
+  - 📺 **Irrupción en TeleArcadia**: Tres mensajes en directo ante el Alcalde François Chalá y entrega voluntaria
+  - 🔒 **Detención voluntaria**: Escoltados a comisaría; Psique como proyección astral con 48h de límite
+
+**Temas Clave**: Rendición como victoria, el poder del espectáculo, generaciones unidas
+
+---
+
+- **[Sesión 60 - 12 Abril 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/)** - *"El Juicio"*
+  - 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filipa Rodríguez)
+  - ⚖️ **Cargos y atenuantes**: Minoría de edad, entrega voluntaria y condicionamiento de Justa por su tío
+  - 🕊️ **Sentencias de reinserción**: Ninguno a prisión efectiva; terapia, prestaciones e Isla Azogue
+  - 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación
+  - 🧠 **Terapia como desarrollo**: Diana y Justa eliminan desventajas de personaje
+  - 🐉 **Cierre de era**: Pausa de campaña, salto temporal de un año y anuncio de Pathfinder Kingmaker
+
+**Temas Clave**: Justicia como redención, consecuencias que persisten, cierre de una era
+
+---
+
 ## 📊 Estadísticas del Archivo Manual
 
 ### 📝 **Volumen de Documentación**
-- **Total de Sesiones**: 49 sesiones documentadas (1 sin notas)
-- **Período Cubierto**: Marzo 2024 - Marzo 2026 (25 meses)
+- **Total de Sesiones**: 56 sesiones documentadas
+- **Período Cubierto**: Marzo 2024 - Abril 2026 (26 meses)
 - **Páginas Estimadas**: ~635 páginas de notas detalladas
 - **Horas de Juego**: ~128 horas registradas
 
@@ -523,6 +546,9 @@ Evolución de novatos a profesionales:
 
 12. **[La Entrega — Traidores, Televisión y Justicia]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/)** - Sesión 59
     > La Fuerza Oculta irrumpe en TeleArcadia, entrega pruebas de traidores al Alcalde en directo y se rinde voluntariamente
+
+13. **[El Juicio — Sentencias, Terapia y el Fin de una Era]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/)** - Sesión 60
+    > El grupo es juzgado; sentencias de reinserción sin prisión efectiva, la campaña se pausa con un salto de un año y se anuncia Pathfinder Kingmaker
 
 ---
 

@@ -72,6 +72,7 @@ Mientras que Anselmo tenía preferencia por armas de precisión, Roberto se espe
 - [La Fuerza Oculta AI Notes 2025-07-13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-13-gemini-notes/) - Recuperación de armas y recursos
 - [La Fuerza Oculta AI Notes 2025-07-20]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-07-20-gemini-notes/) - Ubicaciones de entrenamiento
 - [La Fuerza Oculta - Sesión 51 (15 Febrero 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-02-15-gemini-notes/) - La trampa del almacén portuario: revela su naturaleza antimeta y ataca al grupo
+- [La Fuerza Oculta - Sesión 60 (12 Abril 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - En el juicio de Justa se expone que la crio y entrenó como arma de venganza (reconocido como abuso) e incitó a grupos ultras contra ella; base de la atenuante de alteración psíquica
 
 ## Infraestructura Operacional
 

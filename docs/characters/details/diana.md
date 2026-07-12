@@ -252,6 +252,20 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ---
 
+### Fase X: El Juicio y la Terapia (12 Abril 2026)
+
+**Cargos y sentencia**:
+
+- Juzgada por fuga de custodia, homicidio imprudente/lesiones graves en el enfrentamiento con el grupo armado (con eximente por legítima defensa) y lesiones a un agente de MetaCorp
+- Sentencia de reinserción: **libertad vigilada 18 meses** con terapia de control de impulsos y tutor metahumano, prohibición de usar poderes en público, 400h de servicio comunitario y posible internamiento en régimen abierto en Isla Azogue
+
+**Desarrollo de personaje**:
+
+- Aprovecha la terapia obligatoria para eliminar las desventajas **"dificultad para relacionarse"** y **"pesadillas"**
+- **Conserva "vengativo"**: duda en renunciar a un rasgo central de su identidad; decide mantenerlo como interpretación aunque lo suavice mecánicamente
+
+---
+
 ## 🔗 Relaciones
 
 ### Pareja
@@ -325,13 +339,13 @@ Diana es una metahumana creada por Fatum Corporation como arma potencial, hija d
 
 ---
 
-## 📊 Estado Actual (Marzo 2026)
+## 📊 Estado Actual (Abril 2026)
 
-### 🏠 EN LA MANSIÓN SEGURA DE MULCIFER
+### ⚖️ SENTENCIADA A REINSERCIÓN
 
-**Estado**: Activa, veterana consolidada con poderes mejorados (Marzo 2026)
+**Estado**: Sentenciada tras el juicio; en libertad bajo medidas de reinserción (Abril 2026)
 
-Diana fue rescatada por Sentencia en el último momento durante el combate del casino: Sentencia disparó al arma del último Metacorp y Diana lo desarinó, escapando toda la fuerza en la furgoneta. Después del refugio en casa de Mésmero, el grupo se ha trasladado a la **mansión segura que Mulcifer cedió** a Diana y Sique. En la sesión 53, Diana bloqueó físicamente una torreta para proteger al grupo durante la huída del almacén.
+Tras entregarse voluntariamente con el grupo, Diana fue juzgada en la Sesión 60 y sentenciada a libertad vigilada de 18 meses con terapia de control de impulsos, prohibición de usar poderes en público, servicio comunitario y posible internamiento abierto en Isla Azogue — sin prisión efectiva. Aprovechó la terapia para eliminar las desventajas "dificultad para relacionarse" y "pesadillas", pero conservó "vengativo" como núcleo de su carácter. La campaña se pausa con un salto temporal de un año durante el cual cumplirá su rehabilitación.
 
 **Circunstancias del escape** (Sesión 49):
 - Sentencia disparó al arma del último Metacorp desviándola
@@ -454,6 +468,7 @@ Diana fue rescatada por Sentencia en el último momento durante el combate del c
 - [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) - Investigación de capacidades del consulado
 - [AI Notes 2026-03-29]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-03-29-gemini-notes/)
 - [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) - Entrega voluntaria en TeleArcadia; detenida
+- [Sesión 60]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Juicio; libertad vigilada 18m con terapia; elimina "dificultad para relacionarse" y "pesadillas", conserva "vengativo"
 - [AI Notes 2026-04-05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-05-gemini-notes/)
 - [Fatum Corporation]({{ site.baseurl }}/groups/fatum/)
 

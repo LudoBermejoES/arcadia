@@ -581,7 +581,7 @@ La misión del consulado se resolvió por vía telepática y culminó en la expo
 
 ## 📋 Apariciones Documentadas
 
-### La Fuerza Oculta (2024-2025)
+### La Fuerza Oculta (2024-2026)
 
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Selección
 - [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) - Mansión

@@ -459,8 +459,8 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 - **Horas de Juego**: ~128 horas registradas
 
 ### 📅 **Distribución Temporal**
-- **Fase Reality Show (2024)**: 17 sesiones (41% del total)
-- **Fase Héroes Independientes (2025-2026)**: 24 sesiones (59% del total)
+- **Fase Reality Show (2024)**: 17 sesiones (~30% del total)
+- **Fase Héroes Independientes (2025-2026)**: 39 sesiones (~70% del total)
 - **Hiato Documentado**: Enero-Mayo 2025 (vida clandestina no registrada)
 
 ### 🎭 **Cobertura Narrativa**

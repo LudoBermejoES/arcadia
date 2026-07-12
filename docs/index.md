@@ -96,13 +96,13 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 
 ---
 
-### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2024-2025)*
+### 🎯 **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** *(2024-2026 · Completada)*
 
 **Los Herederos Complejos**
 
-[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/), [Diana]({{ site.baseurl }}/characters/details/diana/), [Pantomima]({{ site.baseurl }}/characters/details/pantomima/), [Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/), [Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y [Hotman]({{ site.baseurl }}/characters/details/hotman/) enfrentan dilemas morales sin respuestas claras en un mundo que los observa constantemente.
+[Eslizón Esmeralda]({{ site.baseurl }}/characters/details/eslizon-esmeralda/), [Diana]({{ site.baseurl }}/characters/details/diana/), [Pantomima]({{ site.baseurl }}/characters/details/pantomima/), [Psique/Cia]({{ site.baseurl }}/characters/details/mencia-psique-cia/), [Justa/Justicia/Sentencia]({{ site.baseurl }}/characters/details/justa-justicia-sentencia/) y [Hotman]({{ site.baseurl }}/characters/details/hotman/) enfrentaron dilemas morales sin respuestas claras en un mundo que los observaba constantemente. Su historia cerró con un juicio (Sesión 60).
 
-**🌟 Actualidad**: Meta-narrativa consciente, encuentros con el pasado heroico, dilemas éticos de la era moderna, conexiones generacionales profundas.
+**🌟 Legado**: Meta-narrativa consciente, encuentros con el pasado heroico, dilemas éticos de la era moderna, conexiones generacionales profundas. Campaña concluida en abril de 2026 tras 60 sesiones.
 
 ---
 
@@ -158,7 +158,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 ### **🦸‍♂️ Los Héroes Legendarios**
 - **[La Familia]({{ site.baseurl }}/groups/character-groups/#la-familia)** - Los fundadores que establecieron las tradiciones heroicas
 - **[Génesis]({{ site.baseurl }}/groups/character-groups/#génesis)** - Los innovadores que modernizaron el heroísmo
-- **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos enfrentando dilemas contemporáneos
+- **[La Fuerza Oculta]({{ site.baseurl }}/groups/character-groups/#la-fuerza-oculta)** - Los herederos que enfrentaron dilemas contemporáneos (campaña completada)
 - **[Los 404]({{ site.baseurl }}/campaigns/los-404/)** - Fugitivos del Reformatorio Nueva Esperanza
 - **[Crematorio La Tranquilidad]({{ site.baseurl }}/campaigns/crematorio-la-tranquilidad/)** - Atrapados en un bucle temporal
 
@@ -197,7 +197,7 @@ Los primeros héroes de Arcadia, despertando sin memoria en sarcófagos misterio
 </div>
 
 <div class="stat-card">
-<span class="stat-number">92+</span>
+<span class="stat-number">125+</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
@@ -302,6 +302,6 @@ Cada página que explores, cada personaje que conozcas, cada historia que leas, 
 
 ---
 
-*Última actualización: 19 de diciembre de 2025 | Proyecto en desarrollo activo | Nuevas aventuras cada semana*
+*Última actualización: abril de 2026 | Proyecto en desarrollo activo (campaña actual: Los 404) | La Fuerza Oculta completada tras 60 sesiones*
 
 **[🔍 Buscar Contenido]({{ site.baseurl }}/search/) | [📖 Historial de Cambios]({{ site.baseurl }}/historial/) | [📊 Estadísticas Completas]({{ site.baseurl }}/stats/)**

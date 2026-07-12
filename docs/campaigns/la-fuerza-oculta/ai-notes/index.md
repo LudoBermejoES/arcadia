@@ -669,11 +669,11 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 ## 📊 Estadísticas del Archivo IA
 
 ### 🤖 **Métricas Técnicas**
-- **Total de Transcripciones**: 32 sesiones completas
-- **Período Cubierto**: Junio 2025 - Febrero 2026 (9 meses intensivos)
-- **Palabras Totales**: ~457,000 palabras transcritas
-- **Páginas Equivalentes**: ~1,170 páginas de contenido
-- **Horas de Audio**: ~74 horas de partidas registradas
+- **Total de Transcripciones**: 39 sesiones completas
+- **Período Cubierto**: Junio 2025 - Abril 2026 (hasta el juicio final, Sesión 60)
+- **Palabras Totales**: ~550,000 palabras transcritas (aprox.)
+- **Páginas Equivalentes**: ~1,400 páginas de contenido (aprox.)
+- **Horas de Audio**: ~95 horas de partidas registradas (aprox.)
 - **Precisión Promedio**: 94.7% de palabras correctas
 
 ### 📈 **Evolución de Calidad**

@@ -223,7 +223,7 @@ Es especialmente notable por:
 
 **Pregunta Clave**: ¿Espectro sabía del linaje de Pantomima cuando autorizó "prueba" del Bugatti?
 
-### Con La Fuerza Oculta (Presente)
+### Con La Fuerza Oculta (2024-2026)
 
 **A Través de Pantomima**:
 - Su nieta es miembro activo del equipo
@@ -332,7 +332,7 @@ Es especialmente notable por:
 
 ### Referencias en Campañas Modernas
 
-**La Fuerza Oculta (2024-2025)**:
+**La Fuerza Oculta (2024-2026)**:
 - **[Sesión 36 - 12 Octubre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/)**: Descubrimiento del Bugatti en feria de coches, fenómeno de reconocimiento con Pantomima
 - **[Sesión 37 - 2 Noviembre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)**: Revelación completa del linaje, acceso al Puente de Moebius
 - **[Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)**: Análisis del impacto familiar y legado dimensional

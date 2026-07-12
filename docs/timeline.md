@@ -40,7 +40,7 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **Transición Rápida**: Período breve pero intenso entre eras
 - **Preparación del Cambio**: Elementos que conectan con la tercera generación
 
-## 2024-2025: Era de La Fuerza Oculta
+## 2024-2026: Era de La Fuerza Oculta
 
 ### 2015-2023: Pausa y Desarrollo
 - **Pausa en el Proyecto**: Después de Génesis, los jugadores hicieron una pausa
@@ -52,17 +52,18 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **La Fuerza Oculta**: Formación del tercer grupo
 - **Elementos Meta**: El juego se vuelve consciente de sí mismo
 - **La Mansión**: Base de operaciones y entrenamiento
-- **Desarrollo de Equipo**: Dinámicas entre Eslizón, Diana, Astrid, Cia, Justa, Hotman
+- **Desarrollo de Equipo**: Dinámicas entre Eslizón, Diana, Pantomima, Cia, Justa, Hotman
 
 ### 2025-2026: Era Actual
-- **Operaciones Activas**: La Fuerza Oculta en plena actividad, 57+ sesiones documentadas
-- **Transcripciones AI**: Documentación con Gemini (20+ transcripciones)
+- **La Fuerza Oculta (concluida)**: 60 sesiones documentadas; su arco cerró en el juicio de abril de 2026 (Sesión 60)
+- **Transcripciones AI**: Documentación con Gemini (39 transcripciones en La Fuerza Oculta)
 - **Documentación Avanzada**: Proyecto GitHub Pages completamente funcional
-- **100+ Sesiones Totales**: La Familia (43) + Génesis (6) + La Fuerza Oculta (57+) + Los 404 (10)
+- **125+ Sesiones Totales**: La Familia (42) + Génesis (6) + La Fuerza Oculta (60) + Los 404 (14) + Hospital/Crematorio (3)
 - **Octubre 2025: Nueva Campaña**: Inicio de Los 404 en Isla Albedo
 - **Febrero 2026**: Los 404 escapan de Isla Albedo, fugitivos en Arcadia
 - **Marzo 2026**: Los 404 en el Barrio Gótico, contacto con Mésmero
-- **Cuatro Campañas Activas**: Expansión del universo con perspectivas paralelas
+- **Abril 2026**: La Fuerza Oculta cierra su campaña; Los 404 pasa a ser la campaña activa
+- **Cuatro Campañas Principales**: Expansión del universo con perspectivas paralelas
 
 ## Hitos Importantes
 
@@ -99,7 +100,7 @@ Esta cronología documenta 15 años de evolución narrativa en el universo de su
 - **Thomas**: Liderazgo estratégico y táctico
 - **Alice**: Innovación científica aplicada
 
-### La Fuerza Oculta (2024-2025)
+### La Fuerza Oculta (2024-2026)
 - **Eslizón Esmeralda**: Liderazgo natural y poderes únicos
 - **Diana**: Redemción familiar y nueva identidad heroica
 - **Astrid/Kayface**: Especialización tecnológica avanzada

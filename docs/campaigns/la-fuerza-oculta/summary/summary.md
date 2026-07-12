@@ -12,7 +12,7 @@ permalink: /campaigns/la-fuerza-oculta/summary/
 
 ## Introducción
 
-La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos que pasan de ser participantes ingenuos de un reality show a convertirse en héroes fugitivos que deben definir su propia versión de justicia. Desarrollada entre marzo de 2024 y julio de 2025, la campaña explora temas de identidad, justicia, independencia y las consecuencias de elegir hacer lo correcto por encima de lo legal.
+La campaña "La Fuerza Oculta" narra la historia de seis jóvenes metahumanos que pasan de ser participantes ingenuos de un reality show a convertirse en héroes fugitivos que deben definir su propia versión de justicia. Desarrollada entre marzo de 2024 y abril de 2026 (60 sesiones), la campaña explora temas de identidad, justicia, independencia y las consecuencias de elegir hacer lo correcto por encima de lo legal, y cierra su arco con un juicio que opta por la reinserción antes que el castigo.
 
 ### Los Protagonistas
 
@@ -2210,7 +2210,7 @@ Sentencia y Hotman se despiden con un beso.
 
 - **Espectro confirmado como padrino de Sentencia**: Planea ofrecerse a trabajar para él a cambio de entrenamiento en táctica, explosivos, sistemas antipoderes y armamento avanzado
 - **Belona (tía de Diana)**: Primera mención directa; asignada como mentora de Diana durante el entrenamiento fuera de partida
-- **Próxima sesión**: El narrador anuncia que se centrará en la trama del Faraón, aprovechando la ausencia de dos jugadores
+- **Anuncio del narrador (en esa sesión)**: adelantó que la siguiente se centraría en la trama del Faraón, aprovechando la ausencia de dos jugadores
 
 **Estado final del grupo:**
 

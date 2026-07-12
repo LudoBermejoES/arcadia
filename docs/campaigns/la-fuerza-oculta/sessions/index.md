@@ -11,7 +11,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 ---
 
-## 📅 Cronología de Sesiones - 2025
+## 📅 Cronología de Sesiones (2024-2026)
 
 ### 🌅 **Junio 2025 - Los Fugitivos**
 
@@ -677,9 +677,8 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 ### 🎭 **Por Tipo de Registro**
 
 #### 📋 **Notas Manuales**
-Registros detallados tomados durante las sesiones:
-- **[Notas Sesión 01-12](../manual-notes/)** - Primeras aventuras del grupo
-- **[Notas Sesión 13-24](../manual-notes/)** - Desarrollo y profesionalización
+Registros detallados tomados durante las sesiones (56 archivos, Sesiones 01-60):
+- **[Índice completo de Notas Manuales →](../manual-notes/)** - Las 60 sesiones, del reality show al juicio
 
 #### 🤖 **Notas con IA (Gemini)**
 Transcripciones automáticas con análisis:
@@ -711,6 +710,13 @@ Transcripciones automáticas con análisis:
 - **[2026-02-15-gemini-notes](../ai-notes/2026-02-15-gemini-notes.md)**
 - **[2026-02-21-gemini-notes](../ai-notes/2026-02-21-gemini-notes.md)**
 - **[2026-02-22-gemini-notes](../ai-notes/2026-02-22-gemini-notes.md)**
+- **[2026-02-28-gemini-notes](../ai-notes/2026-02-28-gemini-notes.md)**
+- **[2026-03-08-gemini-notes](../ai-notes/2026-03-08-gemini-notes.md)**
+- **[2026-03-15-gemini-notes](../ai-notes/2026-03-15-gemini-notes.md)**
+- **[2026-03-22-gemini-notes](../ai-notes/2026-03-22-gemini-notes.md)**
+- **[2026-03-29-gemini-notes](../ai-notes/2026-03-29-gemini-notes.md)**
+- **[2026-04-05-gemini-notes](../ai-notes/2026-04-05-gemini-notes.md)**
+- **[2026-04-12-gemini-notes](../ai-notes/2026-04-12-gemini-notes.md)** - El Juicio (Sesión 60)
 
 #### 📊 **Resúmenes Analíticos**
 Análisis narrativos profundos de cada sesión:
@@ -742,6 +748,13 @@ Análisis narrativos profundos de cada sesión:
 - **[Resumen 15/02](../ai-notes-summary/2026-02-15-gemini-notes.md)** - El tío traidor y la trampa del almacén portuario
 - **[Resumen 21/02](../ai-notes-summary/2026-02-21-gemini-notes.md)** - El espejo roto: confrontación de Mésmero y secretos de Diana
 - **[Resumen 22/02](../ai-notes-summary/2026-02-22-gemini-notes.md)** - Condenados a la grandeza: escape del almacén, crisis de Sentencia y Oneiros
+- **[Resumen 28/02](../ai-notes-summary/2026-02-28-gemini-notes.md)** - El precio del crecimiento
+- **[Resumen 08/03](../ai-notes-summary/2026-03-08-gemini-notes.md)** - Mentoría con Espectro y subida a veterana
+- **[Resumen 15/03](../ai-notes-summary/2026-03-15-gemini-notes.md)** - El reencuentro y la verdad sobre el padre de Hotman
+- **[Resumen 22/03](../ai-notes-summary/2026-03-22-gemini-notes.md)** - Veteranos experimentados
+- **[Resumen 29/03](../ai-notes-summary/2026-03-29-gemini-notes.md)** - El consulado blindado y el sacrificio de Psique (Sesión 58)
+- **[Resumen 05/04](../ai-notes-summary/2026-04-05-gemini-notes.md)** - La entrega: traidores, televisión y justicia (Sesión 59)
+- **[Resumen 12/04](../ai-notes-summary/2026-04-12-gemini-notes.md)** - El juicio: sentencias, terapia y el fin de una era (Sesión 60)
 
 ---
 
@@ -773,74 +786,60 @@ El juego dentro del juego:
 
 ## 📈 Evolución de la Campaña
 
-### 🎭 **Fases Narrativas**
+### 🎭 **Fases Narrativas (arco completo)**
 
-#### **Fase I: Fugitivos (Junio)**
-- **Tono**: Thriller de supervivencia con elementos sobrenaturales
-- **Enfoque**: Adaptación a nueva realidad como perseguidos
-- **Crecimiento**: Establecimiento de identidades post-juicio
+La campaña se desarrolló en **16 fases** a lo largo de 60 sesiones (2024-2026):
 
-#### **Fase II: Profesionalización (Julio)**  
-- **Tono**: Superhéroes tradicional con complejidad moral
-- **Enfoque**: Integración en la comunidad heroica de Arcadia
-- **Crecimiento**: Desarrollo de tácticas y equipamiento profesional
+- **Fase I: Formación y Selección** *(Marzo 2024)* — Los concursantes entran en el reality "Héroes o Villanos"
+- **Fase II: Entrenamiento y Desarrollo** *(Abril 2024)* — Pruebas del concurso y cohesión del Grupo Beta
+- **Fase III: Pruebas y Revelaciones** *(Mayo 2024)* — Primeras grietas en el concurso
+- **Fase IV: Primera Crisis Mayor** *(Junio-Julio 2024)* — La tragedia que lo cambia todo
+- **Fase V: Transición a Fugitivos** *(Agosto 2024)* — El grupo pasa a la clandestinidad
+- **Fase VI: Consolidación Heroica** *(Junio-Agosto 2025)* — Profesionalización como héroes independientes
+- **Fase VII: Encuentros con el Pasado** *(Septiembre 2025)* — Veteranos y conexiones generacionales
+- **Fase VIII: Investigación y Carreras Ilegales** *(Octubre 2025)* — El Bugatti y las carreras
+- **Fase IX: Dimensiones, Revelaciones y Fiesta en Isla Sal** *(Noviembre 2025)* — Linaje de Pantomima
+- **Fase X: Ataques Coordinados y Crisis Personal** *(Noviembre-Diciembre 2025)* — Cazacapas y La Noche del Perdón
+- **Fase XI: Rescate de las Crías Bestiales** *(Enero 2026)* — Misión para La Cacería Salvaje
+- **Fase XII: Crisis Mediática y Dilemas Morales** *(Enero 2026)* — El Casino de Dionisios y la emboscada
+- **Fase XIII: Refugio y Revelaciones** *(Febrero 2026)* — La trampa del tío, refugio con Mésmero
+- **Fase XIV: El Precio del Crecimiento** *(Febrero 2026)* — Consecuencias y madurez
+- **Fase XV: Veteranos Experimentados** *(Marzo 2026)* — Mentorías, identidad Banshee, verdad sobre el padre de Hotman
+- **Fase XVI: El Consulado y la Rendición** *(Marzo-Abril 2026)* — Sacrificio de Psique, la entrega y **el juicio final (Sesión 60)**
 
-#### **Fase III: Independencia (Agosto)**
-- **Tono**: Héroes autónomos con responsabilidad social
-- **Enfoque**: Establecimiento de operaciones independientes
-- **Crecimiento**: Base operativa propia y red de contactos diversificada
-
-#### **Fase IV: Alianzas y Rescate (Diciembre 2025 - Enero 2026)**
-- **Tono**: Operaciones de alto riesgo con costes morales
-- **Enfoque**: Misión de rescate para La Cacería Salvaje
-- **Crecimiento**: Desarrollo de tácticas militares, Diana mata por primera vez
-
-#### **Fase V: División y Crisis (Enero 2026)**
-- **Tono**: Tragedia y fragmentación
-- **Enfoque**: Dilema moral sobre aceptar ayuda de Fatum
-- **Crisis**: El grupo se divide ideológica y físicamente por primera vez
-
-### 📊 **Métricas de Progreso**
-- **Sesiones Totales**: 27 sesiones con transcripción IA documentadas en detalle (Junio 2025 - Febrero 2026)
-- **Páginas de Notas**: ~400 páginas de contenido
-- **Horas de Juego**: ~75 horas registradas
+### 📊 **Métricas de la Campaña**
+- **Sesiones Totales**: 60 sesiones (Febrero 2024 – Abril 2026)
+- **Notas Manuales**: 56 archivos · **Transcripciones IA**: 39 · **Resúmenes Analíticos**: 35
+- **Horas de Juego**: ~150 horas registradas (aprox.)
 - **Personajes Desarrollados**: 6 protagonistas principales
 - **Conexiones Narrativas**: 30+ referencias a campañas anteriores
 
 ---
 
-## 🔮 Estado Actual y Futuro
+## 🏁 Desenlace y Legado
 
-### ⚠️ **Estado del Grupo (Febrero 2026)**
+### ⚖️ **Estado Final del Grupo (Abril 2026)**
 
-El grupo está atrapado sin poderes en un almacén bajo fuego de torretas, traicionado por el tío de Sentencia:
+Tras entregarse voluntariamente y exponer la conspiración, el grupo fue juzgado en la Sesión 60 y sentenciado a medidas de reinserción (ninguno a prisión efectiva). La campaña cerró con un salto temporal de un año:
 
 | Aspecto | Situación |
 |---------|-----------|
-| **Unidad** | Cuatro en combate, Diana incomunicada en la subciudad, Eslizón con cachorros |
-| **Físico** | Sin poderes (luz verde antimeta), Pantomima herida en la pierna |
-| **Emocional** | Sentencia traicionada por su tío, Hotman en proceso de aceptar la lucha |
-| **Legal** | Todos buscados, un Metacorp muerto, Diana en la subciudad |
+| **Unidad** | Sentenciados y en libertad bajo medidas de reinserción; campaña concluida |
+| **Legal** | Juicio resuelto — libertad vigilada, terapia, prestaciones comunitarias e Isla Azogue |
+| **Emocional** | Sentencia y Hotman afrontan terapia; el grupo cierra su etapa adolescente |
+| **Legado** | De concursantes de reality a héroes que respondieron ante la justicia |
 
-### 🎯 **Arcos Narrativos Pendientes**
-- **La trampa del tío**: ¿Cómo escapan del almacén sin poderes? ¿Qué misión tenía Sentencia?
-- **Roberto McKomick**: ¿Es recuperable? ¿Qué sabe sobre el padre de Sentencia?
-- **Mésmero en la cárcel**: Relación con El Faraón y Egipto — ¿qué ocurrió exactamente?
-- **Ana Montenegro**: ¿Quién es el señor trajeado de las fotos? ¿Quiénes son los dos niños?
-- **Liberación de almas**: Encontrar el Ka para liberar dos millones de almas egipcias
-- **Padre de Hotman**: Conexión con el chip revelada por Mésmero
-- **Diana en la subciudad**: ¿Qué está haciendo? ¿Cuándo vuelve?
-- **Manipulación externa**: Alguien desde EE.UU. (¿Blackwater?) orquesta los eventos
+### 🧵 **Cabos sueltos (sin resolver antes del salto temporal)**
+- La suerte de **Roberto McKomick**, el tío de Sentencia, y lo que sabía sobre el padre de ella
+- La ubicación del **Ka** y los dos millones de almas egipcias que Mésmero custodia
+- La voz que habló a Hotman en el Barrio Gótico y el dispositivo mental de su padre
+- La manipulación externa desde EE.UU. que orquestó parte de los eventos
 
-### 🎲 **Preguntas Abiertas**
-- ¿Cuál era la misión única para la que Roberto entrenó a Sentencia?
-- ¿Está realmente vivo el padre de Sentencia? ¿Por qué Roberto lo niega?
-- ¿Cómo escapa el grupo del almacén sin poderes?
-- ¿Quiénes eran las niñas fantasmales del Barrio Gótico?
-- ¿Dónde está el Ka de las almas egipcias?
+### ➡️ **Transición**
+El testigo del presente narrativo de Arcadia pasó a la campaña [**Los 404**]({{ site.baseurl }}/campaigns/los-404/) y a una nueva etapa en **Pathfinder 2e "Hacedor de Reyes" (Kingmaker)** con personajes nuevos.
 
 ---
 
-*Cada sesión de La Fuerza Oculta construye sobre 15 años de narrativa compartida, creando una experiencia única donde el pasado y presente del universo se entrelazan en cada decisión de los jugadores.*
+*Las 60 sesiones de La Fuerza Oculta construyeron sobre 15 años de narrativa compartida, entrelazando el pasado y el presente del universo de Arcadia en cada decisión de los jugadores.*
 
 **[📚 Explorar Notas Detalladas →](../ai-notes-summary/)**

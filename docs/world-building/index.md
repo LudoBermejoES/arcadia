@@ -63,7 +63,7 @@ Cronología maestra de eventos desde los orígenes hasta la actualidad.
 ### **⏰ [Línea Temporal Interactiva]({{ site.baseurl }}/world-building/timeline/)**
 **100 Años de Historia en una Línea de Tiempo Visual**
 
-Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline interactivo y visualmente impresionante. Desde la visión de Marius Fernández hasta La Fuerza Oculta, cada evento clave documentado cronológicamente.
+Explora la evolución completa de Arcadia desde 1920 hasta 2026 en un timeline interactivo y visualmente impresionante. Desde la visión de Marius Fernández hasta La Fuerza Oculta, cada evento clave documentado cronológicamente.
 
 **Incluye:**
 - 🏛️ Era 1: La Fundación (1920-1945)
@@ -332,6 +332,6 @@ Explora la evolución completa de Arcadia desde 1920 hasta 2025 en un timeline i
 **Cada sesión de juego ha añadido capas de profundidad, cada personaje ha contribuido a la riqueza cultural, y cada decisión narrativa ha moldeado la realidad de este mundo extraordinario.**
 
 ### **🔄 En Constante Evolución**
-*Arcadia sigue creciendo y evolucionando con cada nueva sesión. Los eventos de La Fuerza Oculta continúan añadiendo complejidad moral, desarrollos tecnológicos, y evoluciones sociales que enriquecen este universo único.*
+*Arcadia sigue creciendo y evolucionando con cada nueva sesión. Los eventos de La Fuerza Oculta —campaña ya completada— y de Los 404 continúan añadiendo complejidad moral, desarrollos tecnológicos, y evoluciones sociales que enriquecen este universo único.*
 
 **🌍 [Explora Cada Aspecto del Mundo →]({{ site.baseurl }}/world-building/ambientacion/)**

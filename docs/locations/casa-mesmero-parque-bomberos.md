@@ -111,7 +111,7 @@ La casa proporciona servicios especializados para metahumanos en crisis:
 - **Mésmero**: Propietario y mantenedor exclusivo
 - **Visitantes ocasionales**: Veteranos de La Familia para reuniones
 
-### **Era de La Fuerza Oculta (2024-2025)**
+### **Era de La Fuerza Oculta (2024-2026)**
 - **La Fuerza Oculta completa**: Refugio temporal tras fuga del sistema de protección
 - **Garra**: Aparece como guía para la nueva generación
 - **Mésmero**: Anfitrión y mentor especializado

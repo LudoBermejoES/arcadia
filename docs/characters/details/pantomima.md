@@ -582,7 +582,7 @@ Pantomima fue alcanzada por dos disparos de rifle de pulsos durante la emboscada
 
 ## 📋 Apariciones Documentadas
 
-### La Fuerza Oculta (2024-2025)
+### La Fuerza Oculta (2024-2026)
 
 **Fase Formación** (Marzo-Mayo 2024):
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Selección

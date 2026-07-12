@@ -417,7 +417,7 @@ Tras entregarse con el grupo y usar su segundo turno de poder para extraer los n
 
 ## 📋 Apariciones Documentadas
 
-### La Fuerza Oculta (2024-2025)
+### La Fuerza Oculta (2024-2026)
 
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) - Selección
 - [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) - Mansión

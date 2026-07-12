@@ -32,9 +32,9 @@ permalink: /all-content/
 - [Sesión 01]({{ site.baseurl }}/campaigns/genesis/session-01/) | [Sesión 02]({{ site.baseurl }}/campaigns/genesis/session-02/) | [Sesión 03]({{ site.baseurl }}/campaigns/genesis/session-03/) 
 - [Sesión 04]({{ site.baseurl }}/campaigns/genesis/session-04/) | [Sesión 05]({{ site.baseurl }}/campaigns/genesis/session-05/) | [Sesión 06]({{ site.baseurl }}/campaigns/genesis/session-06/)
 
-#### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2024-2025)
+#### **[La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Tercera Campaña (2024-2026 · Completada)
 
-**Notas Manuales (45 Sesiones):**
+**Notas Manuales (56 archivos, Sesiones 01-60):**
 - [Sesión 01]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-01-2024-03-24/) | [Sesión 02]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-02-2024-03-24/) | [Sesión 03]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-03-2024-03-31/) | [Sesión 04]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-04-2024-04-14/) | [Sesión 05]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-05-2024-04-14/)
 - [Sesión 06]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-06-2024-04-21/) | [Sesión 07]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-07-2024-04-28/) | [Sesión 08]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-08-2024-05-19/) | [Sesión 09]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-09-2024-05-26/) | [Sesión 10]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-10-2024-05-26/)
 - [Sesión 11]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-11-2024-06-16/) | [Sesión 12]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-12-2024-07-07/) | [Sesión 13]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-13-2024-07-14/) | [Sesión 14]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-14-2024-07-21/) | [Sesión 15]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-15-2024-07-28/)
@@ -43,9 +43,11 @@ permalink: /all-content/
 - [Sesión 28]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-28-2025-08-17/) | [Sesión 30]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-30-2024-08-30/) | [Sesión 31]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-31-2024-09-08/) | [Sesión 32]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-32-2024-09-14/) | [Sesión 33]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-33-2024-09-15/)
 - [Sesión 34]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-34-2024-09-23/) | [Sesión 35]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-35-2024-09-28/) | [Sesión 36]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-36-2024-10-12/) | [Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-37-2025-11-02/) | [Sesión 38]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-38-2025-11-02/)
 - [Sesión 39]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-39-2025-11-02/) | [Sesión 40]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-40-2025-11-16/) | [Sesión 42]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-42-2025-12-07/) | [Sesión 43]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-43-2025-12-21/) | [Sesión 44]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-44-2025-12-28/)
-- [Sesión 45]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-45-2026-01-04/)
+- [Sesión 45]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-45-2026-01-04/) | [Sesión 46]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-46-2026-01-11/) | [Sesión 47]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-47-2026-01-18/) | [Sesión 48]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-48-2026-01-25/) | [Sesión 49]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-49-2026-02-01/)
+- [Sesión 50]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-50-2026-02-08/) | [Sesión 51]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-51-2026-02-15/) | [Sesión 53]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-53-2026-02-15/) | [Sesión 55]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-55-2026-03-08/) | [Sesión 56]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-56-2026-03-15/)
+- [Sesión 58]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-58-2026-03-29/) | [Sesión 59]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-59-2026-04-05/) | [Sesión 60 - El Juicio]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/)
 
-**Notas con IA (15 Transcripciones Gemini):**
+**Notas con IA (39 Transcripciones Gemini):**
 - [15 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-15-gemini-notes/) | [22 Junio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-06-22-gemini-notes/) | [6 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-06-gemini-notes/) | [13 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-13-gemini-notes/)
 - [20 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-20-gemini-notes/) | [28 Julio 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-07-28-gemini-notes/) | [3 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-03-gemini-notes/) | [10 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-10-gemini-notes/)
 - [17 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-17-gemini-notes/) | [24 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-24-gemini-notes/) | [30 Agosto 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-08-30-gemini-notes/) | [14 Septiembre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-09-14-gemini-notes/)
@@ -143,7 +145,7 @@ Campaña activa semanal centrada en la **Unidad 404** — jóvenes metahumanos f
 **Equipos Heroicos:**
 - **La Familia** - Los fundadores originales
 - **Génesis** - La segunda generación  
-- **La Fuerza Oculta** - Los herederos actuales
+- **La Fuerza Oculta** - Los herederos (campaña completada, 2024-2026)
 - **[Los Defensores]({{ site.baseurl }}/groups/los-defensores/)** - Veteranos aliados
 - **[Los Rayos]({{ site.baseurl }}/groups/los-rayos/)** - Especialistas en velocidad
 
@@ -197,8 +199,9 @@ Campaña activa semanal centrada en la **Unidad 404** — jóvenes metahumanos f
 ### **📅 Por Cronología**
 - **2010-2015**: Era de La Familia (41 sesiones)
 - **2013-2014**: Era de Génesis (6 sesiones + solapamiento)
-- **2024-2025**: Era de La Fuerza Oculta (33 sesiones: 25 manuales + 8 IA)
-- **Especiales**: Hospital, Fatum y otros
+- **2024-2026**: Era de La Fuerza Oculta (60 sesiones: 56 manuales + 39 IA) · Completada
+- **2025-2026**: Los 404 (campaña actual, 14 sesiones)
+- **Especiales**: Hospital, Fatum, Crematorio y otros
 
 ### **🎭 Por Temas**
 - **Evolución Moral**: De héroes clásicos a vigilantes complejos

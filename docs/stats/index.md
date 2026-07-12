@@ -27,7 +27,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 </div>
 
 <div class="stat-highlight">
-<span class="stat-big">74</span>
+<span class="stat-big">125+</span>
 <span class="stat-label">Sesiones Registradas</span>
 </div>
 
@@ -55,8 +55,8 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
   - Mésmero, El Faraón, Garra, Esfinge/Atropos, Bate, Estocada
 - **Génesis** (2013-2014): 5 personajes principales  
   - Sara10/Mecánica, Espectro, Lúmen, Thomas/Raza, Alice Tesla
-- **La Fuerza Oculta** (2024-2025): 6 personajes principales
-  - Eslizón Esmeralda, Diana, Astrid/Kayface, Psique/Cia, Justa/Justicia/Sentencia, Hotman
+- **La Fuerza Oculta** (2024-2026): 6 personajes principales
+  - Eslizón Esmeralda, Diana, Pantomima, Psique/Cia, Justa/Justicia/Sentencia, Hotman
 - **La Cacería Salvaje**: 5 hermanos bestiales
   - Vista, Tacto, Oído, Olfato, Gusto
 - **Héroes Independientes**: 25+ personajes adicionales
@@ -82,7 +82,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ## 📚 **Estadísticas de Campañas**
 
-### **📖 Total de Sesiones Documentadas: 74**
+### **📖 Total de Sesiones Documentadas: 125+**
 
 #### **🛡️ La Familia (2010-2015)**
 - **Sesiones Documentadas**: 42 sesiones completas
@@ -98,11 +98,11 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **Estado**: Archivo parcial, transición completa
 - **Innovación**: Digitalización de infraestructura heroica
 
-#### **🎯 La Fuerza Oculta (2024-2025)**
-- **Sesiones Documentadas**: 23 sesiones activas
-- **Período**: Era actual de dilemas morales complejos
-- **Jugadores**: 6 participantes activos
-- **Estado**: Campaña activa, documentación en tiempo real
+#### **🎯 La Fuerza Oculta (2024-2026)**
+- **Sesiones Documentadas**: 60 sesiones completas
+- **Período**: Era de dilemas morales complejos
+- **Jugadores**: 6 participantes principales
+- **Estado**: Campaña completada, desenlace en el juicio (Sesión 60)
 - **Característica**: Meta-narrativa consciente
 
 #### **🏥 Hospital (Campaña Médica)**
@@ -141,7 +141,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 #### **🦸‍♂️ Organizaciones Heroicas (12 grupos)**
 - **La Familia**: Los fundadores legendarios
 - **Génesis**: La generación puente  
-- **La Fuerza Oculta**: Los herederos actuales
+- **La Fuerza Oculta**: Los herederos (campaña completada, 2024-2026)
 - **La Cacería Salvaje**: Vigilantes bestiales independientes *(documentación específica)*
 - **Los Defensores**: Veteranos multigeneracionales *(documentación específica)*
 - **Los Rayos**: Especialistas en velocidad y rescate *(documentación específica)*
@@ -251,7 +251,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ### **👥 Participación**
 - **Jugadores Totales**: 8+ participantes a lo largo de 15 años
-- **Jugadores Actuales**: 6 participantes activos
+- **Jugadores Actuales**: 6 participantes (campaña actual: Los 404)
 - **Masters**: 1 DM principal con 15 años de experiencia
 - **Colaboradores**: 2+ documentalistas y archivistas
 
@@ -270,7 +270,7 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 - **15 Años Ininterrumpidos**: Sin interrupciones en la narrativa
 - **3 Generaciones Heroicas**: Evolución narrativa documentada
 - **167 Personajes**: Uno de los mayores elencos documentados
-- **73 Sesiones**: Registro completo de adventures épicas
+- **125+ Sesiones**: Registro completo de aventuras épicas
 
 ### **🎯 Innovaciones Narrativas**
 - **Meta-Narrativa**: Personajes conscientes de ser "jugados"
@@ -360,10 +360,10 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ## 📅 **Última Actualización**
 
-**Fecha**: 29 de Julio de 2025  
-**Versión**: 15.7.2025  
+**Fecha**: Abril de 2026  
+**Versión**: 4.2026  
 **Próxima Actualización**: Semanal (domingos)  
-**Estado del Proyecto**: Activo y en crecimiento
+**Estado del Proyecto**: Activo y en crecimiento (campaña actual: Los 404; La Fuerza Oculta completada tras 60 sesiones)
 
 ---
 
@@ -385,4 +385,4 @@ El Proyecto Arcadia representa **15 años ininterrumpidos** (2010-2025) de narra
 
 ---
 
-*Proyecto Arcadia © 2010-2025 | Documentación generada automáticamente | Última actualización: 5 de agosto de 2025*
+*Proyecto Arcadia © 2010-2026 | Documentación generada automáticamente | Última actualización: abril de 2026*

@@ -117,7 +117,7 @@ Exploración del grupo de supervillanos y sus conexiones familiares con los hér
 
 **2010-2015**: Era de La Familia - Establecimiento del heroísmo en Arcadia
 **2013-2014**: Período de Génesis - Expansión tecnológica y nuevas amenazas
-**2024-2025**: La Fuerza Oculta - Modernización y elementos meta-narrativos (40 sesiones: 37 manuales + 20 transcripciones AI)
+**2024-2026**: La Fuerza Oculta - Modernización y elementos meta-narrativos (60 sesiones: 56 manuales + 39 transcripciones AI) · Campaña completada
 **Oct 2025-Presente**: Los 404 - Los marginados del sistema (10 sesiones documentadas)
 
 ## Navegación

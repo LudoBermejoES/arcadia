@@ -44,7 +44,7 @@ Además de las transcripciones automatizadas, también mantenemos **[notas manua
 
 ### 📚 Campañas Históricas
 
-Las transcripciones están disponibles principalmente para **La Fuerza Oculta** (2024-presente). Para las campañas históricas disponemos de:
+Las transcripciones están disponibles principalmente para **La Fuerza Oculta** (2024-2026, completada) y **Los 404** (campaña actual). Para las campañas históricas disponemos de:
 
 - **[La Familia]({{ site.baseurl }}/campaigns/la-familia/)** - Notas manuales detalladas (2009-2014)
 - **[Génesis]({{ site.baseurl }}/campaigns/genesis/)** - Resúmenes de sesiones (2014-2015)

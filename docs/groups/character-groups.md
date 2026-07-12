@@ -56,8 +56,8 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 - [Lumen]({{ site.baseurl }}/characters/details/lumen/) (personaje separado)
 
 ### La Fuerza Oculta
-**Período**: Tercera campaña (Feb 2024 - presente, tras 10 años de pausa)
-**Concepto**: Grupo actual, jugado en el marco del juego "Héroes o Villanos"
+**Período**: Tercera campaña (Feb 2024 - Abr 2026, tras 10 años de pausa) · Completada
+**Concepto**: Grupo protagonista de la tercera campaña, jugado en el marco del juego "Héroes o Villanos"
 **Campaña**: [La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)
 **Página del Grupo**: [La Fuerza Oculta]({{ site.baseurl }}/groups/la-fuerza-oculta/)
 
@@ -246,4 +246,4 @@ La Familia fue el grupo inaugural que estableció los cimientos del universo her
 ---
 
 *Listado compilado de todos los grupos y organizaciones del mundo de Arcadia*  
-*Última actualización: Julio 2025*
+*Última actualización: Abril 2026*

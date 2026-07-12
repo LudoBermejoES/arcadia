@@ -6,9 +6,9 @@ permalink: /groups/la-fuerza-oculta/
 
 # La Fuerza Oculta
 
-## Los Herederos del Legado (2024-2025)
+## Los Herederos del Legado (2024-2026)
 
-**La Fuerza Oculta** representa la tercera generación de héroes de Arcadia, activa desde febrero de 2024. A diferencia de sus predecesores, estos jóvenes héroes crecieron en un mundo que ya conocía el heroísmo organizado, enfrentándose a dilemas morales complejos en una era de meta-narrativa y vigilancia constante.
+**La Fuerza Oculta** fue la tercera generación de héroes de Arcadia, activa entre febrero de 2024 y abril de 2026 (60 sesiones). A diferencia de sus predecesores, estos jóvenes héroes crecieron en un mundo que ya conocía el heroísmo organizado, enfrentándose a dilemas morales complejos en una era de meta-narrativa y vigilancia constante. Su historia se cerró con un juicio (Sesión 60) que optó por la reinserción antes que el castigo.
 
 ---
 
@@ -119,8 +119,8 @@ Hotman controla las temperaturas con precisión, desde congelar hasta incinerar.
 ### **Fase de Formación (Febrero-Mayo 2024)**
 Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo dinámicas de equipo mientras aprenden a coordinar sus poderes únicos.
 
-### **Operaciones Activas (Junio 2024-Presente)**
-- **42+ sesiones documentadas** (39 manuales + 22 transcripciones AI)
+### **Operaciones (Junio 2024 - Abril 2026)**
+- **60 sesiones documentadas** (56 notas manuales + 39 transcripciones AI + 35 resúmenes analíticos)
 - Encuentros con organizaciones criminales (La Farándula, Fatum Corporation)
 - Descubrimiento de la meta-narrativa: juegan "Héroes o Villanos"
 - Encuentros con veteranos de generaciones anteriores
@@ -187,6 +187,42 @@ Los jóvenes héroes se reúnen y comienzan su entrenamiento, descubriendo diná
 - **Diana arrestada**: Se entrega voluntariamente a los Metacorps
 - **Justa heroica**: Rescata a compañeros a pesar de estar herida, atropella involuntariamente a dos Metacorps
 - **Primera división física del grupo**: Diana bajo custodia, resto huyendo en furgoneta
+
+### **Refugio y Revelaciones (Febrero 2026)**
+
+**Sesiones 49-54:**
+
+- Refugio con [Mésmero]({{ site.baseurl }}/characters/details/mesmero/) y contacto con "los muertos" del Barrio Gótico
+- **La trampa del tío**: Roberto McKomick se revela como antimeta y tiende una emboscada en el almacén portuario, activando un neutralizador de poderes
+- **Crisis de Sentencia**: toca fondo con una pistola en la sien; sale transformada, fría y decidida a matar a su tío
+- Reubicación en la mansión segura de Mulcifer; cirugía de campo de Psique; entrenamiento con Oneiros/Eneiros
+
+### **Veteranos Experimentados (Marzo 2026)**
+
+**Sesiones 55-57:**
+
+- Mentoría con [Espectro]({{ site.baseurl }}/characters/details/jorge-espectro/); Sentencia sube a veterana como "Banshee" (piel impenetrable por microdiamantes)
+- Hotman regresa transformado tras 3 meses con Eneiros
+- **Revelación clave**: el padre de Hotman es agente de EE.UU. que socava la soberanía de Arcadia
+- Trato con Sara 10 (PEM a cambio de la Arcadita) y planificación del asalto al consulado
+
+### **El Consulado y la Rendición (Marzo-Abril 2026)**
+
+**Sesiones 58-59:**
+
+- **Sacrificio de Psique**: se inyecta la droga de Mentallo y controla al cónsul de EE.UU. a distancia para obtener los documentos; entra en coma
+- Pruebas de una red de tráfico de metahumanos con políticos implicados y el padre de Hotman
+- **La Entrega**: el grupo irrumpe en TeleArcadia en directo, expone la traición ante el Alcalde François Chalá y se rinde voluntariamente
+- Detención voluntaria; Átropos (Ana Montenegro) asume la defensa
+
+### **El Juicio — Fin de la Campaña (12 Abril 2026)**
+
+**Sesión 60:**
+
+- Juicio con la fiscal Géminis (Filippa Rodríguez); se destapa el condicionamiento de Justa por su tío como abuso
+- **Sentencias de reinserción**: ninguno a prisión efectiva — libertad vigilada, terapia, prestaciones comunitarias e Isla Azogue
+- La terapia se usa como mecánica para eliminar desventajas de personaje
+- La campaña cierra con un salto temporal de un año y da paso a la nueva etapa de Pathfinder Kingmaker
 
 ---
 
@@ -258,17 +294,17 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 <div class="stats-grid">
 <div class="stat-card">
 <span class="stat-number">6</span>
-<span class="stat-label">Miembros Activos</span>
+<span class="stat-label">Miembros Principales</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">48+</span>
+<span class="stat-number">60</span>
 <span class="stat-label">Sesiones Documentadas</span>
 </div>
 
 <div class="stat-card">
-<span class="stat-number">~23</span>
-<span class="stat-label">Meses Activos</span>
+<span class="stat-number">~26</span>
+<span class="stat-label">Meses (2024-2026)</span>
 </div>
 
 <div class="stat-card">
@@ -279,35 +315,35 @@ Son jóvenes descubriendo identidad mientras el mundo los observa y juzga consta
 
 ---
 
-## 🔮 **Estado Actual (Enero 2026)**
+## 🏁 **Desenlace (Abril 2026)**
 
-### ⚠️ **CRISIS ACTIVA: GRUPO DIVIDIDO Y MALHERIDO**
+### ⚖️ **CAMPAÑA COMPLETADA: SENTENCIADOS Y EN REINSERCIÓN**
 
-La Fuerza Oculta se encuentra en su momento más vulnerable. Tras resolver el dilema moral sobre la oferta de Mulcifer y sufrir una emboscada de Metacorps al salir del Casino de Dionisios (25 Enero 2026), el grupo ha quedado **físicamente dividido por primera vez**.
+La Fuerza Oculta cerró su historia no con una batalla, sino con un juicio. Tras entregarse voluntariamente y exponer una conspiración internacional (Sesión 59), el grupo fue juzgado en la Sesión 60 y sentenciado a **medidas de reinserción — ninguno pisó la cárcel de forma efectiva**. La campaña concluyó con un salto temporal de un año.
 
-### **Estado de los Miembros**
+### **Estado Final de los Miembros**
 
-| Miembro | Estado | Ubicación |
-|---------|--------|-----------|
-| **Diana** | ⚠️ Arrestada | Bajo custodia de Metacorps (se entregó voluntariamente) |
-| **Hotman** | 🔴 Incapacitado | En la furgoneta en fuga |
-| **Pantomima** | 🔴 Incapacitada | En la furgoneta en fuga |
-| **Justa/Sentencia** | 🟡 Herida grave | Conduciendo la furgoneta |
-| **Cía/Psique** | 🟡 Herida y conmocionada | En la furgoneta en fuga |
-| **Eslizón** | ❓ Desconocido | Ausente de la sesión |
+| Miembro | Sentencia / Estado final |
+|---------|--------------------------|
+| **Sentencia (Justa)** | Mayor carga penal: internamiento semiabierto 12m + prisión suspendida, prohibición de armas 2 años, terapia 24m. Elimina la desventaja "idealista" |
+| **Hotman** | Prisión 2 años suspendida, Eneiros como tutor, 400h formando metahumanos, terapia por trauma paterno |
+| **Diana** | Libertad vigilada 18m, prohibición de poderes en público, posible Isla Azogue. Conserva "vengativo" |
+| **Cía/Psique** | Libertad vigilada 18m con supervisión quincenal en Isla Azogue; cerró la campaña en forma extracorpórea |
+| **Pantomima** | Menor carga penal: libertad vigilada 6m y 150h de servicio hospitalario |
+| **Eslizón** | Ausente durante el arco final |
 
-### **Resolución del Dilema Moral**
+### **Legado del Grupo**
 
-El grupo se dividió ideológicamente sobre aceptar la ayuda de Mulcifer:
-- **Aceptaron** (a título personal): Diana y Sique - recibieron llaves de mansión segura
-- **Rechazaron**: Justa, Hotman, Pantomima
+- De concursantes de un reality show a héroes que respondieron ante la justicia
+- El sistema los reconoció como *héroes que ocasionalmente actuaron como criminales*, no al revés
+- La terapia impuesta se convirtió en vía de sanación y de maduración de los personajes
+- El testigo del presente narrativo pasó a la campaña [Los 404]({{ site.baseurl }}/campaigns/los-404/) y a Pathfinder Kingmaker
 
-### **Desafíos Inmediatos**
+### **Cabos sueltos (sin resolver)**
 
-- **Diana bajo arresto**: Primera vez que un miembro está en custodia de las autoridades
-- **Heridos críticos**: Hotman y Pantomima incapacitados, Justa y Cía heridas
-- **Persecución activa**: Metacorps buscando al grupo
-- **Ubicación desconocida**: La furgoneta está "yendo a la aventura"
+- La suerte de Roberto McKomick (tío de Sentencia) y lo que sabía sobre el padre de ella
+- El Ka y los dos millones de almas egipcias que custodia Mésmero
+- La voz del Barrio Gótico y el dispositivo mental del padre de Hotman
 
 ### **Recursos Disponibles**
 
@@ -355,6 +391,6 @@ Esta combinación les permite abordar amenazas desde múltiples ángulos simult�
 
 ---
 
-*La Fuerza Oculta representa la evolución del heroísmo de Arcadia: consciente de su legado, crítico de sus métodos, y navegando un mundo donde la línea entre héroe y entretenimiento se ha difuminado. Son los herederos que deben definir qué significa ser héroe cuando el mundo te observa, te juzga, y juega a ser tú. En diciembre de 2025, han demostrado que pueden protegerse mutuamente ante ataques coordinados y están forjando alianzas con la siguiente generación de vigilantes como La Cacería Salvaje.*
+*La Fuerza Oculta representó la evolución del heroísmo de Arcadia: consciente de su legado, crítica de sus métodos, y navegando un mundo donde la línea entre héroe y entretenimiento se había difuminado. Fueron los herederos que tuvieron que definir qué significa ser héroe cuando el mundo te observa, te juzga y juega a ser tú. Su historia se cerró en abril de 2026 con un juicio que eligió la reinserción antes que el castigo — el reconocimiento de que eran héroes que a veces erraron, no criminales. El testigo de la Arcadia contemporánea pasó a la siguiente generación.*
 
 **[🚀 Explorar la Campaña Completa →]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)**

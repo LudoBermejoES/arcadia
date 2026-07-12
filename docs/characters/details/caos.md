@@ -196,7 +196,7 @@ Es **hijo del legendario héroe Sombrío** (activo 1960-1984) y **padre de Panto
 ### Génesis (2013-2014)
 - **[Génesis - Sesión 03]({{ site.baseurl }}/campaigns/genesis/session-03/)**: Aparición temprana documentada
 
-### La Fuerza Oculta (2024-2025)
+### La Fuerza Oculta (2024-2026)
 - **[Sesión 37 - 2 Noviembre 2025]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes/2025-11-02-gemini-notes/)**: Revelado como padre de Pantomima
 - **[Resumen Sesión 37]({{ site.baseurl }}/campaigns/la-fuerza-oculta/ai-notes-summary/2025-11-02-gemini-notes/)**: Análisis de impacto familiar
 

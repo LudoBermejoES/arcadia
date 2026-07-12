@@ -162,12 +162,12 @@ Esta cronología detallada abarca **15 años de narrativa** a través de tres ca
 ### **Duración Campañas**
 - **La Familia**: ~1 año narrativo (2010-2011)
 - **Génesis**: ~1 año narrativo (2013-2014)  
-- **La Fuerza Oculta**: 1.5 años y contando (Feb 2024-presente)
+- **La Fuerza Oculta**: ~2,2 años (Feb 2024-Abr 2026, completada)
 
 ### **Documentación**
-- **Sesiones La Familia**: 41 sesiones documentadas
+- **Sesiones La Familia**: 42 sesiones documentadas
 - **Sesiones Génesis**: 6 sesiones documentadas
-- **Sesiones La Fuerza Oculta**: 24+ sesiones + transcripciones IA
+- **Sesiones La Fuerza Oculta**: 60 sesiones + 39 transcripciones IA
 
 ### **Elementos Temporales Únicos**
 - **Referencias "Al día siguiente"**: 12+ instancias documentadas

@@ -97,7 +97,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 - **Influencia**: Catalizador de eventos que conectan todas las eras
 
 
-### **🔮 La Fuerza Oculta - Los Herederos (2024-2025)**
+### **🔮 La Fuerza Oculta - Los Herederos (2024-2026 · Completada)**
 
 
 #### [🦎 **Eslizón Esmeralda**]({{ site.baseurl }}/characters/details/eslizon-esmeralda/) *(Sugus)*
@@ -302,7 +302,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **👥 Equipos Heroicos**
 - **🏛️ La Familia**: Los fundadores originales (6 miembros)
 - **⚡ Génesis**: La generación puente (5 miembros)  
-- **🔮 La Fuerza Oculta**: Los herederos actuales (6 miembros)
+- **🔮 La Fuerza Oculta**: Los herederos (campaña completada, 6 miembros)
 - **🤖 [Ultracorps]({{ site.baseurl }}/groups/ultracorps/)**: Primera generación de humanos artificialmente mejorados (5 veteranos)
 - **🐺 [La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)**: Vigilantes bestiales del Barrio Gótico (5 hermanos)
 - **🛡️ [Los Defensores]({{ site.baseurl }}/groups/los-defensores/)**: Veteranos aliados
@@ -350,7 +350,7 @@ Durante **15 años de juego colaborativo**, el universo de Arcadia ha dado vida 
 ### **📅 Por Era de Aparición**
 - **🏛️ Era Clásica (2010-2015)**: La Familia y aliados originales
 - **⚡ Era de Transición (2013-2014)**: Génesis y figuras puente
-- **🔮 Era Moderna (2024-2025)**: La Fuerza Oculta y nuevos desafíos
+- **🔮 Era Moderna (2024-2026)**: La Fuerza Oculta y nuevos desafíos
 
 ---
 

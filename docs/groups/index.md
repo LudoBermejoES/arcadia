@@ -56,8 +56,8 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 
 ---
 
-### **🔮 La Fuerza Oculta - Los Herederos Actuales**
-**(2024-2025) | 6 Miembros Activos**
+### **🔮 La Fuerza Oculta - Los Herederos**
+**(2024-2026 · Campaña completada) | 6 Miembros Principales**
 
 #### **Composición Actual:**
 - **🦎 [Eslizón Esmeralda](../characters/details/eslizon-esmeralda.md)** *(Sugus)* - Estratega noble
@@ -566,7 +566,7 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 ### **🦸‍♂️ Organizaciones Heroicas**
 - **[🏛️ La Familia]({{ site.baseurl }}/groups/la-familia/)** - Los fundadores legendarios
 - **[⚡ Génesis]({{ site.baseurl }}/campaigns/genesis/)** - La generación puente
-- **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Los herederos actuales
+- **[🔮 La Fuerza Oculta]({{ site.baseurl }}/campaigns/la-fuerza-oculta/)** - Los herederos (campaña completada)
 - **[🛡️ Unidad 404]({{ site.baseurl }}/campaigns/los-404/)** - Fugitivos de Nueva Esperanza
 - **[🐱 La Cacería Salvaje]({{ site.baseurl }}/groups/la-caceria-salvaje/)** - Los vigilantes felinos del Barrio Gótico
 - **[🛡️ Veteranos](los-defensores.md)** - Equipos de apoyo
@@ -632,6 +632,6 @@ Durante **15 años de desarrollo narrativo**, Arcadia ha desarrollado un ecosist
 **Desde los códigos heroicos establecidos por La Familia hasta las complejas operaciones criminales de La Farándula, cada organización representa años de desarrollo orgánico y decisiones narrativas significativas.**
 
 ### **🔄 En Constante Evolución**
-*Con La Fuerza Oculta aún activa, estas organizaciones continúan evolucionando. Nuevas alianzas se forman, viejas rivalidades se reavivan, y el equilibrio de poder cambia con cada sesión de juego.*
+*Con La Fuerza Oculta ya completada y la campaña de Los 404 en curso, estas organizaciones continúan evolucionando. Nuevas alianzas se forman, viejas rivalidades se reavivan, y el equilibrio de poder cambia con cada sesión de juego.*
 
 **🏛️ [Explora el Listado Completo de Grupos →]({{ site.baseurl }}/groups/character-groups/)**

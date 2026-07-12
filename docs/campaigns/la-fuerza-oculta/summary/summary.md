@@ -2531,7 +2531,7 @@ El Alcalde escolta al grupo a pie hasta la comisaría, seguidos por cámaras. Fu
 
 **Reclusión y defensa:**
 
-El grupo espera el juicio en un ala aislada de una prisión de baja seguridad para metahumanos: sin collares, pero con detectores de poderes y celdas individuales separadas por sexos. Se reúnen con sus abogados, Átropos (Ana Montenegro) y el Señor Thomas. Thomas se inhibe y cede la defensa a Átropos por su relación pasada con la fiscal, Géminis (Filipa Rodríguez), que además arrastra un conflicto con la familia Patum. La estrategia: no mentir, decir la verdad sobre cada acto y ser discretos solo con lo que la fiscalía desconoce.
+El grupo espera el juicio en un ala aislada de una prisión de baja seguridad para metahumanos: sin collares, pero con detectores de poderes y celdas individuales separadas por sexos. Se reúnen con sus abogados, Átropos (Ana Montenegro) y el Señor Thomas. Thomas se inhibe y cede la defensa a Átropos por su relación pasada con la fiscal, Géminis (Filippa Rodríguez), que además arrastra un conflicto con la familia Patum. La estrategia: no mentir, decir la verdad sobre cada acto y ser discretos solo con lo que la fiscalía desconoce.
 
 **Los cargos y las atenuantes:**
 

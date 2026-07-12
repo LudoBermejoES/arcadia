@@ -439,7 +439,7 @@ Estas notas representan el **registro histórico primario** de la campaña La Fu
 ---
 
 - **[Sesión 60 - 12 Abril 2026]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/)** - *"El Juicio"*
-  - 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filipa Rodríguez)
+  - 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filippa Rodríguez)
   - ⚖️ **Cargos y atenuantes**: Minoría de edad, entrega voluntaria y condicionamiento de Justa por su tío
   - 🕊️ **Sentencias de reinserción**: Ninguno a prisión efectiva; terapia, prestaciones e Isla Azogue
   - 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación

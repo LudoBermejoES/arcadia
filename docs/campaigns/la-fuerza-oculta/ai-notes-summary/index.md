@@ -936,7 +936,7 @@ La sesión incluye extensos monólogos internos y confrontaciones entre personaj
 **🔍 Revelaciones Clave:**
 - **Roberto McKomick, el tío de Justa, como abusador**: La condicionó como arma de venganza
 - **Psique es Mencía Rodríguez**: Identidad tras la heroína
-- **La fiscal es Géminis (Filipa Rodríguez)**: Expareja del Señor Thomas, conflicto con la familia Patum
+- **La fiscal es Géminis (Filippa Rodríguez)**: Expareja del Señor Thomas, conflicto con la familia Patum
 - **Isla Azogue**: Centro de internamiento con el Señor Nadie como garante nulificador de poderes
 - **Nueva campaña**: Pathfinder 2e "Hacedor de Reyes" (Kingmaker), nivel 1 a 20
 

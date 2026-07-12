@@ -652,7 +652,7 @@ Las **notas con IA** representan un avance revolucionario en la documentación d
 
 **"Sentencias, terapia y el fin de una era"**
 
-- ⚖️ **El juicio**: Cargos formales contra cada personaje; Géminis (Filipa Rodríguez) como fiscal
+- ⚖️ **El juicio**: Cargos formales contra cada personaje; Géminis (Filippa Rodríguez) como fiscal
 - 👩‍⚖️ **Átropos lidera la defensa**: El Señor Thomas se inhibe por conflicto de interés con la fiscal
 - 🕊️ **Ninguno a prisión**: Libertad vigilada, terapia y prestaciones; Isla Azogue para varios
 - 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación

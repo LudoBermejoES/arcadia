@@ -93,6 +93,12 @@ Acusa cuando hay causa. Desestima cuando no la hay. Y cuando la ley misma le par
 - **Fatum Corporation**: Ha presionado para archivar varias de sus investigaciones mediante contactos en el poder judicial
 - **Presiones internas**: Algunos sectores del gobierno preferirían una fiscal más alineada con la agenda oficial
 
+### El Juicio de La Fuerza Oculta (Sesión 60, 12 Abril 2026)
+
+Filippa fue la fiscal designada para el juicio de La Fuerza Oculta tras su entrega voluntaria — se sospecha que el propio Alcalde François Chalá la pidió por su fama de dura pero justa. Su participación arrastraba dos complicaciones personales: un historial conflictivo con la **familia Patum** (había intervenido en varios de sus casos) y una **relación pasada como pareja del Señor Thomas**, abogado de la familia de Pantomima, que por ello se inhibió y cedió la defensa a Átropos.
+
+Pese a su reputación de "hueso duro de roer", Filippa fue **inusualmente blanda** con el grupo: solicitó medidas de reinserción (libertad vigilada, terapia, prestaciones comunitarias, internamiento abierto en Isla Azogue) en lugar de prisión efectiva. Los motivos: la entrega voluntaria, el destape de una confabulación internacional y el potencial de rehabilitación del grupo, además de la jurisdicción de menores que ampara a los acusados. Su conclusión sintetizó la filosofía penal del caso: *"La Fuerza Oculta no son criminales que ocasionalmente actúan como héroes. Son héroes que ocasionalmente han actuado como criminales. La diferencia importa."*
+
 ## Citas
 
 > *"Nadie me ha sorprendido por detrás en veinte años. Y en sala de vistas, tampoco."*
@@ -106,3 +112,4 @@ Acusa cuando hay causa. Desestima cuando no la hay. Y cuando la ley misma le par
 ## Apariciones Documentadas
 
 - Dictamen sobre la **Ley de Prevención Metahumana** (2025-2026)
+- [La Fuerza Oculta - Sesión 60 (12 Abril 2026)]({{ site.baseurl }}/campaigns/la-fuerza-oculta/manual-notes/session-60-2026-04-12/) - Fiscal en el juicio de La Fuerza Oculta; solicita medidas de reinserción en lugar de prisión

@@ -647,7 +647,7 @@ permalink: /campaigns/la-fuerza-oculta/sessions/
 
 #### [📊 Sesión 12 de Abril (Sesión 60)](../ai-notes-summary/2026-04-12-gemini-notes.md)
 **"El Juicio — Sentencias, Terapia y el Fin de una Era"**
-- 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filipa Rodríguez)
+- 👩‍⚖️ **Defensa de Átropos**: El Señor Thomas se inhibe por conflicto con la fiscal Géminis (Filippa Rodríguez)
 - ⚖️ **Cargos y atenuantes**: Minoría de edad, entrega voluntaria y condicionamiento de Justa por su tío Roberto McKomick
 - 🕊️ **Sentencias de reinserción**: Ninguno a prisión efectiva — terapia, prestaciones comunitarias e Isla Azogue
 - 🔫 **Sentencia y Hotman, los más penados**: Internamiento, prohibición de armas, inhabilitación

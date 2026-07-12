@@ -11,7 +11,7 @@ permalink: /campaigns/la-fuerza-oculta/ai-notes-summary/2026-04-12-gemini-notes/
 
 ## Resumen Ejecutivo
 
-La Sesión 60 cierra la campaña de La Fuerza Oculta con el juicio de los personajes tras su entrega voluntaria. Recluidos en un ala aislada de una prisión de baja seguridad para metahumanos —sin collares inhibidores, pero con detectores de uso de poderes y separados por sexos en celdas individuales— el grupo se reúne con sus abogados: Átropos (Ana Montenegro), su antigua abogada que ya reveló su identidad, y el Señor Thomas, abogado de la familia de Pantomima. El Señor Thomas cede el liderazgo de la defensa a Átropos por un conflicto de interés: la fiscal designada, Géminis (Filipa Rodríguez), fue su pareja y arrastra una relación complicada con la familia Patum. La estrategia se construye sobre un principio: no mentir, decir la verdad sobre cada acto y ser discretos solo con lo que la fiscalía desconoce.
+La Sesión 60 cierra la campaña de La Fuerza Oculta con el juicio de los personajes tras su entrega voluntaria. Recluidos en un ala aislada de una prisión de baja seguridad para metahumanos —sin collares inhibidores, pero con detectores de uso de poderes y separados por sexos en celdas individuales— el grupo se reúne con sus abogados: Átropos (Ana Montenegro), su antigua abogada que ya reveló su identidad, y el Señor Thomas, abogado de la familia de Pantomima. El Señor Thomas cede el liderazgo de la defensa a Átropos por un conflicto de interés: la fiscal designada, Géminis (Filippa Rodríguez), fue su pareja y arrastra una relación complicada con la familia Patum. La estrategia se construye sobre un principio: no mentir, decir la verdad sobre cada acto y ser discretos solo con lo que la fiscalía desconoce.
 
 El juicio enumera los cargos formales contra cada personaje —fuga de custodia preventiva, homicidio imprudente, lesiones graves, control mental, tenencia ilícita de armas, estafa/simulación de delito y manipulación mediática— y se aplican atenuantes (minoría de edad, entrega voluntaria, estado de necesidad, arrebato/obcecación, reparación del daño, alteración psíquica por condicionamiento) y el agravante de reincidencia. El veredicto de la jueza es clemente: **ninguno pisa la cárcel de forma efectiva**. Todos reciben libertad vigilada, programas terapéuticos, prestaciones comunitarias e internamiento abierto/semiabierto en Isla Azogue (con el Señor Nadie como garante nulificador de poderes). Sentencia (Justa McKomick) y Hotman cargan con las penas más severas.
 
@@ -25,7 +25,7 @@ La sesión da un giro estructural: aprovechando la terapia como herramienta narr
 
 2. **Reunión con la defensa**: Aparecen Átropos (Ana Montenegro) y el Señor Thomas, abogado de la familia de Pantomima. Estudian la defensa del grupo.
 
-3. **Conflicto de interés y cesión del caso**: El Señor Thomas revela que la fiscal, Géminis (Filipa Rodríguez), fue su pareja y tuvo relación complicada con la familia Patum. Se inhibe y cede el liderazgo legal a Átropos.
+3. **Conflicto de interés y cesión del caso**: El Señor Thomas revela que la fiscal, Géminis (Filippa Rodríguez), fue su pareja y tuvo relación complicada con la familia Patum. Se inhibe y cede el liderazgo legal a Átropos.
 
 4. **Decisión de no mentir**: Ante la pregunta directa de Átropos, el grupo acuerda no mentir en el juicio y preparar respuestas veraces sobre cada acusación.
 
@@ -84,7 +84,7 @@ La sesión da un giro estructural: aprovechando la terapia como herramienta narr
 
 - **Roberto McKomick, el tío de Justa, como abusador**: Confirmado que condicionó sistemáticamente a Justa como arma de venganza e incitó a grupos ultras contra ella.
 - **Identidad de Psique**: Mencía Rodríguez, tras el nombre de la heroína.
-- **La fiscal es Géminis (Filipa Rodríguez)**: Expareja del Señor Thomas y con historial conflictivo con la familia Patum, lo que en parte explica el conflicto de interés y la dureza esperada.
+- **La fiscal es Géminis (Filippa Rodríguez)**: Expareja del Señor Thomas y con historial conflictivo con la familia Patum, lo que en parte explica el conflicto de interés y la dureza esperada.
 - **Mayoría de edad en Arcadia a los 21** (imputabilidad a los 18): factor jurídico decisivo que reduce todas las penas al ser los personajes menores (jurisdicción LORPM).
 - **Isla Azogue como centro de internamiento**: Régimen abierto/semiabierto con el Señor Nadie (metahumano nulificador de poderes) como garante de seguridad.
 - **Los superhéroes legales operan en "zona gris"**: El narrador confirma que incluso Neiros actúa al margen de la ley cuando es necesario.

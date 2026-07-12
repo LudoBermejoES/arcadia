@@ -65,7 +65,7 @@ Campaña activa semanal centrada en la **Unidad 404** — jóvenes metahumanos f
 - **Índice de Sesiones**: [Cronología completa]({{ site.baseurl }}/campaigns/los-404/sessions/)
 - **Resúmenes Analíticos**: [Análisis por sesión]({{ site.baseurl }}/campaigns/los-404/ai-notes-summary/)
 - **Transcripciones IA**: [Notas crudas Gemini]({{ site.baseurl }}/campaigns/los-404/ai-notes/)
-- **Resumen de campaña**: [Estado actual]({{ site.baseurl }}/campaigns/los-404/summary/summary/)
+- **Resumen de campaña**: [Estado actual]({{ site.baseurl }}/campaigns/los-404/summary/)
 
 ### 🏥 **Campañas Adicionales**
 

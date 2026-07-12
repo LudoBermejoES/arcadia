@@ -17,6 +17,10 @@ on:
 jobs:
   check-links:
     runs-on: ubuntu-latest
+    # Permisos necesarios para crear/actualizar el issue de enlaces rotos
+    permissions:
+      contents: read
+      issues: write
     # Solo ejecutar si el workflow de pages completó exitosamente (o si es manual/programado)
     if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
 
@@ -27,7 +31,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: '20'
+          node-version: '24'
 
       - name: Install linkinator
         run: npm install -g linkinator

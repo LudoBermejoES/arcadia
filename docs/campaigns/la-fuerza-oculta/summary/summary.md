@@ -2147,7 +2147,7 @@ Una revelación mayor: **EEUU lleva años atacando Arcadia** de formas indirecta
 
 ### Sesión 53: Condenados a la Grandeza (22 febrero 2026)
 
-📎 [Manual](../manual-notes/session-53-2026-02-15.md) | [AI](../ai-notes/2026-02-22-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-22-gemini-notes.md)
+📎 [Manual](../manual-notes/session-53-2026-02-22.md) | [AI](../ai-notes/2026-02-22-gemini-notes.md) | [Resumen](../ai-notes-summary/2026-02-22-gemini-notes.md)
 
 **El escape del almacén, la crisis de Sentencia y la llegada de Oneiros:**
 
